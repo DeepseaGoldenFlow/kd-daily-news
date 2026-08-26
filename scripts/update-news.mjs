@@ -71,7 +71,7 @@ async function discoverWithBailian(subject, profile, apiKey) {
     method: "POST",
     headers: { "content-type": "application/json", authorization: `Bearer ${apiKey}` },
     body: JSON.stringify({
-      model: process.env.BAILIAN_MODEL || "qwen3.7-flash",
+      model: process.env.BAILIAN_SEARCH_MODEL || "qwen-plus",
       input: { messages: [{ role: "user", content: profile.searchQuery }] },
       parameters: {
         result_format: "message",
