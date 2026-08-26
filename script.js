@@ -1,4 +1,5 @@
 const state = { news: [], filter: "all", updatedAt: null };
+const reader = document.querySelector("#story-reader");
 
 const esc = (value = "") => String(value).replace(/[&<>'"]/g, (char) => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;"
@@ -38,19 +39,55 @@ function render() {
 
   empty.hidden = true;
   leadNode.innerHTML = `
-    <a class="lead-link" href="${safeUrl(lead.url)}" target="_blank" rel="noopener noreferrer">
+    <button class="lead-link story-trigger" type="button" data-story-id="${esc(lead.id)}">
       <div><p class="lead-kicker"><strong>TOP STORY</strong>${esc(lead.source)} · ${formatDate(lead.publishedAt, true)}</p></div>
       <div><h3 class="lead-title">${esc(lead.titleZh || lead.title)}</h3><p class="lead-summary">${esc(lead.summaryZh)}</p></div>
-      <span class="lead-arrow" aria-hidden="true">↗</span>
-    </a>`;
+      <span class="lead-arrow" aria-hidden="true">阅读</span>
+    </button>`;
   grid.innerHTML = rest.map((item) => `
-    <a class="news-card" href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer">
+    <button class="news-card story-trigger" type="button" data-story-id="${esc(item.id)}">
       <div class="card-top"><span class="card-meta card-tag">${esc(item.category || "动态")}</span><time class="card-meta">${formatDate(item.publishedAt)}</time></div>
       <h3 class="card-title">${esc(item.titleZh || item.title)}</h3>
       <p class="card-summary">${esc(item.summaryZh)}</p>
-      <div class="card-bottom"><span class="card-source">${esc(item.source)}</span><span class="card-arrow" aria-hidden="true">↘</span></div>
-    </a>`).join("");
+      <div class="card-bottom"><span class="card-source">${esc(item.source)}</span><span class="card-arrow" aria-hidden="true">阅读全文 →</span></div>
+    </button>`).join("");
 }
+
+function openStory(id, updateHistory = true) {
+  const item = state.news.find((story) => String(story.id) === String(id));
+  if (!item) return;
+  document.querySelector("#reader-meta").innerHTML = `<strong>${esc(item.category || "动态")}</strong>${esc(item.source)} · ${formatDate(item.publishedAt, true)}`;
+  document.querySelector("#reader-title").textContent = item.titleZh || item.title;
+  document.querySelector("#reader-summary").textContent = item.summaryZh || "";
+  document.querySelector("#reader-body").textContent = item.detailsZh || item.summaryZh || "AI 暂未生成更多内容。";
+  const points = Array.isArray(item.keyPoints) && item.keyPoints.length
+    ? item.keyPoints
+    : [item.summaryZh || "点击下方链接查看原始报道。"];
+  document.querySelector("#reader-points").innerHTML = points.slice(0, 5).map((point) => `<li>${esc(point)}</li>`).join("");
+  const source = document.querySelector("#reader-source");
+  source.href = safeUrl(item.url);
+  source.innerHTML = `查看 ${esc(item.source)} 原始报道 <span>↗</span>`;
+  if (!reader.open) reader.showModal();
+  if (updateHistory) history.pushState({ storyId: String(id) }, "", `#story=${encodeURIComponent(id)}`);
+}
+
+function closeStory(updateHistory = true) {
+  if (reader.open) reader.close();
+  if (updateHistory && location.hash.startsWith("#story=")) history.pushState({}, "", `${location.pathname}${location.search}#latest`);
+}
+
+document.addEventListener("click", (event) => {
+  const trigger = event.target.closest(".story-trigger");
+  if (trigger) openStory(trigger.dataset.storyId);
+});
+
+document.querySelector(".reader-close").addEventListener("click", () => closeStory());
+reader.addEventListener("click", (event) => { if (event.target === reader) closeStory(); });
+reader.addEventListener("cancel", (event) => { event.preventDefault(); closeStory(); });
+window.addEventListener("popstate", () => {
+  const id = location.hash.startsWith("#story=") ? decodeURIComponent(location.hash.slice(7)) : null;
+  if (id) openStory(id, false); else closeStory(false);
+});
 
 function updateClock() {
   const updated = state.updatedAt ? new Date(state.updatedAt) : new Date();
@@ -79,6 +116,8 @@ fetch(`data/news.json?v=${Date.now()}`)
     document.querySelector("#source-count").textContent = new Set(state.news.map((item) => item.source)).size || "—";
     updateClock();
     render();
+    const linkedStory = location.hash.startsWith("#story=") ? decodeURIComponent(location.hash.slice(7)) : null;
+    if (linkedStory) openStory(linkedStory, false);
   })
   .catch(() => {
     document.querySelector("#lead-story").innerHTML = '<div class="story-loading">暂时无法读取新闻，请稍后刷新。</div>';

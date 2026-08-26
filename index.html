@@ -98,6 +98,33 @@
         <p>AI 摘要可能存在误差，请以原始报道为准。</p>
       </footer>
     </div>
+
+    <dialog class="reader" id="story-reader" aria-labelledby="reader-title">
+      <div class="reader-shell">
+        <header class="reader-header">
+          <a class="brand" href="#top" aria-label="KD Daily 首页">
+            <span class="brand-mark">KD</span>
+            <span class="brand-copy">DAILY<small>站内速读</small></span>
+          </a>
+          <button class="reader-close" type="button" aria-label="关闭文章">关闭 <span>×</span></button>
+        </header>
+        <article class="reader-article">
+          <p class="reader-meta" id="reader-meta"></p>
+          <h2 id="reader-title"></h2>
+          <p class="reader-summary" id="reader-summary"></p>
+          <div class="reader-body" id="reader-body"></div>
+          <section class="reader-points" aria-labelledby="reader-points-title">
+            <p class="section-index" id="reader-points-title">AI 提炼要点</p>
+            <ul id="reader-points"></ul>
+          </section>
+          <aside class="reader-disclaimer">
+            <span>AI</span>
+            <p>本文由百炼 AI 根据公开信息整理，帮助你快速阅读；可能存在遗漏或误差，请以原始报道为准。</p>
+          </aside>
+          <a class="source-button" id="reader-source" href="#" target="_blank" rel="noopener noreferrer">查看原始报道 <span>↗</span></a>
+        </article>
+      </div>
+    </dialog>
     <script src="script.js" defer></script>
   </body>
 </html>
