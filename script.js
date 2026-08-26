@@ -4,6 +4,7 @@ const SUBJECTS = {
   dagu: { name: "大咕咕咕咕鸡", eyebrow: "DAGUGUGUJI", deck: "作品、公开发言与相关讨论，兼顾常用笔名和历史内容。", filters: ["all", "重点", "作品", "场外"] }
 };
 const state = { news: [], works: [], worksNotice: "", subject: "durant", filter: "all", workFilter: "全部", workQuery: "", updatedAt: null };
+const FALLBACK_IMAGES = { durant: "assets/og.png", chenze: "assets/chenze-cover.png", dagu: "assets/dagu-cover.png" };
 const reader = document.querySelector("#story-reader");
 const home = document.querySelector(".page-shell");
 
@@ -17,6 +18,21 @@ const safeUrl = (value) => {
     return ["http:", "https:"].includes(url.protocol) ? url.href : "#";
   } catch { return "#"; }
 };
+
+const safeImageUrl = (value) => {
+  if (/^assets\/[a-z0-9._/-]+$/i.test(value || "")) return value;
+  return safeUrl(value);
+};
+
+const cleanText = (value = "") => {
+  const textarea = document.createElement("textarea");
+  textarea.innerHTML = String(value);
+  const template = document.createElement("template");
+  template.innerHTML = textarea.value;
+  return (template.content.textContent || "").replace(/\s+/g, " ").trim();
+};
+
+const storyImage = (item) => safeImageUrl(item.image || FALLBACK_IMAGES[item.subject || "durant"]);
 
 const formatDate = (iso, withTime = false) => {
   if (!iso) return "刚刚";
@@ -47,15 +63,17 @@ function render() {
   empty.hidden = true;
   leadNode.innerHTML = `
     <button class="lead-link story-trigger" type="button" data-story-id="${esc(lead.id)}">
+      <img class="lead-image" src="${esc(storyImage(lead))}" data-fallback="${esc(FALLBACK_IMAGES[lead.subject || "durant"])}" alt="" loading="eager" />
       <div><p class="lead-kicker"><strong>TOP STORY</strong>${esc(lead.source)} · ${formatDate(lead.publishedAt, true)}</p></div>
-      <div><h3 class="lead-title">${esc(lead.titleZh || lead.title)}</h3><p class="lead-summary">${esc(lead.summaryZh)}</p></div>
+      <div><h3 class="lead-title">${esc(cleanText(lead.titleZh || lead.title))}</h3><p class="lead-summary">${esc(cleanText(lead.summaryZh))}</p></div>
       <span class="lead-arrow" aria-hidden="true">阅读</span>
     </button>`;
   grid.innerHTML = rest.map((item) => `
     <button class="news-card story-trigger" type="button" data-story-id="${esc(item.id)}">
+      <img class="card-image" src="${esc(storyImage(item))}" data-fallback="${esc(FALLBACK_IMAGES[item.subject || "durant"])}" alt="" loading="lazy" />
       <div class="card-top"><span class="card-meta card-tag">${esc(item.category || "动态")}</span><time class="card-meta">${formatDate(item.publishedAt)}</time></div>
-      <h3 class="card-title">${esc(item.titleZh || item.title)}</h3>
-      <p class="card-summary">${esc(item.summaryZh)}</p>
+      <h3 class="card-title">${esc(cleanText(item.titleZh || item.title))}</h3>
+      <p class="card-summary">${esc(cleanText(item.summaryZh))}</p>
       <div class="card-bottom"><span class="card-source">${esc(item.source)}</span><span class="card-arrow" aria-hidden="true">阅读全文 →</span></div>
     </button>`).join("");
 }
@@ -114,13 +132,17 @@ function openStory(id, updateHistory = true) {
   const item = state.news.find((story) => String(story.id) === String(id));
   if (!item) return;
   document.querySelector("#reader-meta").innerHTML = `<strong>${esc(item.category || "动态")}</strong>${esc(item.source)} · ${formatDate(item.publishedAt, true)}`;
-  document.querySelector("#reader-title").textContent = item.titleZh || item.title;
-  document.querySelector("#reader-summary").textContent = item.summaryZh || "";
-  document.querySelector("#reader-body").textContent = item.detailsZh || item.summaryZh || "AI 暂未生成更多内容。";
+  document.querySelector("#reader-title").textContent = cleanText(item.titleZh || item.title);
+  const image = document.querySelector("#reader-image");
+  image.src = storyImage(item);
+  image.dataset.fallback = FALLBACK_IMAGES[item.subject || "durant"];
+  image.alt = `${SUBJECTS[item.subject || "durant"]?.name || "资讯"}主题配图`;
+  document.querySelector("#reader-summary").textContent = cleanText(item.summaryZh || "");
+  document.querySelector("#reader-body").textContent = cleanText(item.detailsZh || item.summaryZh || "AI 暂未生成更多内容。");
   const points = Array.isArray(item.keyPoints) && item.keyPoints.length
     ? item.keyPoints
     : [item.summaryZh || "点击下方链接查看原始报道。"];
-  document.querySelector("#reader-points").innerHTML = points.slice(0, 5).map((point) => `<li>${esc(point)}</li>`).join("");
+  document.querySelector("#reader-points").innerHTML = points.slice(0, 5).map((point) => `<li>${esc(cleanText(point))}</li>`).join("");
   const source = document.querySelector("#reader-source");
   source.href = safeUrl(item.url);
   source.innerHTML = `查看 ${esc(item.source)} 原始报道 <span>↗</span>`;
@@ -135,6 +157,10 @@ function openWork(id, updateHistory = true) {
   if (!work) return;
   document.querySelector("#reader-meta").innerHTML = `<strong>${esc(work.category)}</strong>${esc(work.source)}`;
   document.querySelector("#reader-title").textContent = work.title;
+  const image = document.querySelector("#reader-image");
+  image.src = FALLBACK_IMAGES.dagu;
+  image.dataset.fallback = FALLBACK_IMAGES.dagu;
+  image.alt = "大咕咕咕咕鸡作品文库主题配图";
   document.querySelector("#reader-summary").textContent = "作品目录卡片";
   document.querySelector("#reader-body").textContent = work.note || "该条目收录于公开整理文集。本站仅提供索引，不转载受版权保护的正文。";
   document.querySelector("#reader-points").innerHTML = [
@@ -172,6 +198,12 @@ document.addEventListener("click", (event) => {
     renderWorks();
   }
 });
+
+document.addEventListener("error", (event) => {
+  const image = event.target;
+  if (!(image instanceof HTMLImageElement) || !image.dataset.fallback || image.src.endsWith(image.dataset.fallback)) return;
+  image.src = image.dataset.fallback;
+}, true);
 
 document.querySelectorAll(".reader-close, .reader-home").forEach((control) => control.addEventListener("click", () => closeStory()));
 window.addEventListener("popstate", () => {
