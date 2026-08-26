@@ -1,206 +1,208 @@
 {
-  "updatedAt": "2026-08-26T14:04:48.645Z",
+  "updatedAt": "2026-08-26T14:13:22.899Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
+  "profiles": {
+    "durant": {
+      "name": "凯文·杜兰特"
+    },
+    "chenze": {
+      "name": "游戏主播陈泽"
+    },
+    "dagu": {
+      "name": "网络写手大咕咕咕鸡"
+    }
+  },
   "items": [
     {
-      "id": "CBMikwFBVV95cUxQSkxOV3JLS1FQVEhOMmtyRlExLUJSODR4UmtDaWQzbDQwVXhlLTJraXVRaVJYSzhhRi1vRFNjWlhLX3Job29EQzlEc3NmYi13UE1zTUdVejZLQTgtS0JsT09sLUZOcFMwWERFVGJQRUstT3gwTDV4YjhqY010RjlGSmdPQThVMmc2M0VZZ1B5NjVXSVk",
-      "title": "The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkxOV3JLS1FQVEhOMmtyRlExLUJSODR4UmtDaWQzbDQwVXhlLTJraXVRaVJYSzhhRi1vRFNjWlhLX3Job29EQzlEc3NmYi13UE1zTUdVejZLQTgtS0JsT09sLUZOcFMwWERFVGJQRUstT3gwTDV4YjhqY010RjlGSmdPQThVMmc2M0VZZ1B5NjVXSVk?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-26T10:30:00.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkxOV3JLS1FQVEhOMmtyRlExLUJSODR4UmtDaWQzbDQwVXhlLTJraXVRaVJYSzhhRi1vRFNjWlhLX3Job29EQzlEc3NmYi13UE1zTUdVejZLQTgtS0JsT09sLUZOcFMwWERFVGJQRUstT3gwTDV4YjhqY010RjlGSmdPQThVMmc2M0VZZ1B5NjVXSVk?oc=5\" target=\"_blank\">The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-      "titleZh": "休斯顿火箭精明运作或延长冠军窗口期",
-      "summaryZh": "雅虎体育分析指出，火箭队近期在薪资空间管理与续约谈判中展现出的策略性操作，有望为球队核心阵容争取更长的争冠时间。",
-      "detailsZh": "本文源自雅虎体育（Yahoo Sports），属主流媒体深度分析稿件。文章基于火箭队当前薪资结构、年轻球员合同年限及未来选秀权布局，探讨管理层通过灵活谈判锁定即战力与潜力新秀的可行性。已知事实为火箭近年已围绕申京、杰伦·格林等核心建队，且休赛期有多名角色球员面临续约。作者观点认为，若球队能精准控制奢侈税并合理分配顶薪资源，将有效延缓阵容老化周期。需明确区分的是，文中“延长冠军窗口”属编辑预测与战术推演，非既定结果；具体签约金额与球员去向仍以官方公告为准。该分析对球迷理解火箭长期规划具有参考价值，但实际效果受市场环境与伤病变量影响较大。",
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn",
+      "title": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T12:20:47.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn?oc=5\" target=\"_blank\">火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "titleZh": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn?oc=5\" target=\"_blank\">火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn?oc=5\" target=\"_blank\">火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "keyPoints": [
-        "火箭管理层展现薪资操作灵活性",
-        "核心阵容续约与空间管理成关键",
-        "精明运作可延缓阵容老化周期",
-        "冠军窗口延长属媒体预测非定论"
+        "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠"
       ],
-      "category": "交易",
+      "category": "场外",
       "importance": 4
     },
     {
-      "id": "CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ",
-      "title": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-26T09:17:38.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-      "titleZh": "火箭名宿回应杜兰特关于MVP比总冠军更重要的争议言论",
-      "summaryZh": "针对杜兰特此前引发的MVP价值讨论，火箭传奇球星公开表态。主流媒体报道聚焦于个人荣誉与团队成就的篮球价值观辩论。",
-      "detailsZh": "该报道出自雅虎体育，引用了火箭队退役名宿对凯文·杜兰特相关言论的评论。已知事实是杜兰特曾在采访或社交媒体上表达过个人最高荣誉（MVP）对球员生涯定位的重要性，此观点在舆论场引发分歧。名宿的回应侧重于强调总冠军才是衡量球队成功的终极标准，体现了传统篮球文化的价值取向。本文属于观点交锋类资讯，来源为专业体育媒体，具备一定公信力。需明确指出，文中“争议言论”的具体语境与完整原话未在此摘要中提供，读者应以当事人原始采访为准。此类讨论多属媒体策划与球迷互动范畴，对球队实际竞技表现无直接影响，但有助于丰富篮球文化叙事。",
-      "keyPoints": [
-        "杜兰特MVP言论引发舆论分歧",
-        "火箭名宿重申总冠军至上理念",
-        "报道属媒体观点交锋非赛场动态",
-        "具体言论语境需参考原始采访",
-        "对球队竞技层面无实质影响"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "id": "CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R",
-      "title": "East contender ready to chase Kevin Durant if Rockets open trade door",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-08-25T22:18:47.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R?oc=5\" target=\"_blank\">East contender ready to chase Kevin Durant if Rockets open trade door</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BasketNews.com</font>",
-      "titleZh": "东部竞争者准备追逐杜兰特，前提是火箭开启交易通道",
-      "summaryZh": "篮球新闻网站分析指出，若休斯顿火箭队决定交易杜兰特，东部多支争冠球队已做好接盘准备。报道聚焦潜在交易市场的供需关系。",
-      "detailsZh": "本文出自BasketNews.com，属独立体育资讯平台，内容偏向市场传闻与交易推演。文章指出，鉴于杜兰特当前的合同状况与竞技年龄，东部部分具备薪资空间与优质筹码的球队正密切关注其动向。已知事实为火箭队休赛期阵容调整频繁，管理层态度尚不明朗。作者推测若火箭决定重建或止损，东部竞争者可能利用年轻资产与首轮签发起报价。需明确声明，文中“东部竞争者已准备好”属媒体分析与假设性情景，非官方接触或实质性谈判进展。交易流言通常随赛季临近而发酵，实际成交概率受多方利益博弈制约。球迷应理性看待此类报道，以联盟官方通报为准。",
-      "keyPoints": [
-        "东部多队关注杜兰特潜在交易",
-        "火箭管理层态度仍存不确定性",
-        "报道属市场推演非实质谈判",
-        "年轻资产与首轮签或成交易筹码",
-        "实际成交概率受多重因素制约"
-      ],
-      "category": "交易",
-      "importance": 3
-    },
-    {
-      "id": "CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ",
-      "title": "杜兰特与霍姆格伦1v1单挑，两位长人的对决",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-26T06:34:41.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5\" target=\"_blank\">杜兰特与霍姆格伦1v1单挑，两位长人的对决</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "titleZh": "杜兰特与霍姆格伦进行1v1单挑训练",
-      "summaryZh": "休赛期训练营期间，杜兰特与雷霆新星霍姆格伦展开一对一对抗演练。新浪体育发布相关训练画面，展现老将与新星的技战术交流。",
-      "detailsZh": "信息来源于新浪体育发布的休赛期训练纪实内容。已知事实为杜兰特近期参与球队合练，并与切特·霍姆格伦进行了1v1实战模拟。该片段主要展示两人在进攻脚步、防守站位及终结方式上的技术细节，属于常规备战活动。作为商业体育媒体的跟拍素材，其拍摄角度与剪辑节奏可能侧重观赏性而非战术复盘。需明确区分，此为日常训练花絮，非正式比赛或战术部署会议。此类内容有助于球迷了解球员状态恢复情况，但对赛季走势预测仅具参考意义。具体对抗强度与教练组评价尚未有官方数据支持。",
-      "keyPoints": [
-        "杜兰特参与休赛期合练活动",
-        "与霍姆格伦进行一对一技术对抗",
-        "训练画面侧重观赏性与状态展示",
-        "属常规备战非正式战术部署",
-        "缺乏官方数据支撑对抗强度"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "id": "CBMiiwFBVV95cUxPbGJFd0RkQXAwUUV6SkY3SFdlNkRFSlhVc1FSWTRBT2VOenFrV0RkVXZQUEFBQ0hxdG9nMnJMQlc3cEY3WFBJQ1lFSHBaNldVcXNHZEo3YWhjWHhvMVV4cS0yODFMcFZISnNjUFZlSFo2RmZUM3BUTHc2XzVaYlFGb3hjRHd4dXBFRHNF",
-      "title": "戈贝尔换杜兰特？森林狼重磅交易方案曝光：送出三名球员梭哈杜兰特",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGJFd0RkQXAwUUV6SkY3SFdlNkRFSlhVc1FSWTRBT2VOenFrV0RkVXZQUEFBQ0hxdG9nMnJMQlc3cEY3WFBJQ1lFSHBaNldVcXNHZEo3YWhjWHhvMVV4cS0yODFMcFZISnNjUFZlSFo2RmZUM3BUTHc2XzVaYlFGb3hjRHd4dXBFRHNF?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-26T04:45:50.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGJFd0RkQXAwUUV6SkY3SFdlNkRFSlhVc1FSWTRBT2VOenFrV0RkVXZQUEFBQ0hxdG9nMnJMQlc3cEY3WFBJQ1lFSHBaNldVcXNHZEo3YWhjWHhvMVV4cS0yODFMcFZISnNjUFZlSFo2RmZUM3BUTHc2XzVaYlFGb3hjRHd4dXBFRHNF?oc=5\" target=\"_blank\">戈贝尔换杜兰特？森林狼重磅交易方案曝光：送出三名球员梭哈杜兰特</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "titleZh": "戈贝尔换杜兰特交易方案引热议",
-      "summaryZh": "网络流传一份涉及明尼苏达森林狼与休斯顿火箭的重磅交易构想，核心为戈贝尔交换杜兰特。新浪体育整理相关讨论，反映球迷对阵容互补性的期待。",
-      "detailsZh": "该信息源自新浪体育转载的网络交易方案讨论。已知事实为森林狼中锋鲁迪·戈贝尔与火箭前锋凯文·杜兰特均为联盟顶级攻防球员，但双方合同体量、球队建队方向及薪资匹配规则存在显著差异。所谓“三名球员梭哈”的方案多为自媒体或球迷社区创作，旨在探讨极端阵容重组的可能性。作为娱乐化体育资讯，其内容缺乏经纪人沟通、球队内部评估等核心交易要素支撑。需明确区分，此为虚构推演与球迷幻想，非真实谈判意向。此类内容虽能激发话题热度，但对实际转会市场无指导意义。建议读者将其视为篮球策略游戏层面的讨论，而非新闻事实。",
-      "keyPoints": [
-        "网络流传戈贝尔交换杜兰特构想",
-        "方案缺乏经纪人沟通与薪资匹配依据",
-        "属球迷社区创作非真实谈判",
-        "反映市场对顶级攻防球员的想象",
-        "对实际转会市场无实质指导作用"
-      ],
-      "category": "交易",
-      "importance": 2
-    },
-    {
-      "id": "CBMihAFBVV95cUxNS2t4LXFRdDV1X21HejFwOXM5OV9mUVF0Y2NJOWRhQjJMZFpydzFXUl9FbFR6RVlFNExuUlFuWEpnVEZROGpvUTJQelM3U0J0V01iaTE2SW9SVVhURF8zQlhTTnBucDJaSlBMR1g3Wk9ITUJMUW1QYTNnbVRCMHoxdzJrdFI",
-      "title": "新赛季继续冲！杜兰特更新社媒分享近期训练照",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2t4LXFRdDV1X21HejFwOXM5OV9mUVF0Y2NJOWRhQjJMZFpydzFXUl9FbFR6RVlFNExuUlFuWEpnVEZROGpvUTJQelM3U0J0V01iaTE2SW9SVVhURF8zQlhTTnBucDJaSlBMR1g3Wk9ITUJMUW1QYTNnbVRCMHoxdzJrdFI?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-08-26T01:30:34.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2t4LXFRdDV1X21HejFwOXM5OV9mUVF0Y2NJOWRhQjJMZFpydzFXUl9FbFR6RVlFNExuUlFuWEpnVEZROGpvUTJQelM3U0J0V01iaTE2SW9SVVhURF8zQlhTTnBucDJaSlBMR1g3Wk9ITUJMUW1QYTNnbVRCMHoxdzJrdFI?oc=5\" target=\"_blank\">新赛季继续冲！杜兰特更新社媒分享近期训练照</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina Sports</font>",
-      "titleZh": "杜兰特社媒分享近期训练照片备战新赛季",
-      "summaryZh": "凯文·杜兰特在个人社交平台发布最新训练影像，展示体能储备与技术打磨进度。新浪体育跟进报道，传递球员积极备战的信号。",
-      "detailsZh": "资讯来源于新浪体育对杜兰特社交媒体动态的转述。已知事实为职业球员在休赛期通常会通过公开训练内容维持公众关注度并激励粉丝。本次发布的照片显示杜兰特正在进行力量训练与投篮练习，符合NBA夏季联赛前后的常规备战节奏。作为官方授权的运动员社交账号内容，其真实性较高，但图片选择与文案撰写均经过公关团队筛选，旨在塑造专注职业的形象。需明确指出，此类内容属于常规宣传物料，不透露具体伤病恢复数据或战术安排。其对球队的直接价值在于维持商业曝光度与球迷黏性，竞技层面的具体提升程度需待季前赛验证。",
-      "keyPoints": [
-        "杜兰特发布休赛期训练影像",
-        "内容经公关团队筛选塑造职业形象",
-        "符合夏季常规备战节奏",
-        "属常规宣传不透露战术细节",
-        "竞技提升程度需季前赛验证"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "id": "CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB",
-      "title": "火箭锋线四人组曝光：杜兰特带队冲冠？",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-26T10:45:22.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5\" target=\"_blank\">火箭锋线四人组曝光：杜兰特带队冲冠？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "titleZh": "火箭锋线配置引关注，杜兰特带队前景待考",
-      "summaryZh": "媒体梳理火箭队现有锋线轮换名单，结合杜兰特可能的加入路径，探讨球队冲击季后赛的阵容深度。新浪体育文章侧重战术适配性分析。",
-      "detailsZh": "本文出自新浪体育，属战术前瞻类评论。文章列举了火箭队当前锋线位置的球员构成，并假设杜兰特融入后的空间拉扯与持球分担效应。已知事实为火箭近年致力于构建年轻化锋线群，但防守弹性与三分稳定性仍是隐患。作者观点认为，若杜兰特健康出战，其单打能力可缓解后场压力，但防守端轮转速度可能成为短板。需明确区分，文中“四人组曝光”实为现有名单盘点加假设性推演，非官方确认的固定首发。此类分析依赖主观战术偏好，实际化学反应受教练体系与对手针对性布置影响。读者应将其视为策略探讨，而非既定阵容蓝图。",
-      "keyPoints": [
-        "梳理火箭现有锋线轮换名单",
-        "假设杜兰特加入后的战术适配性",
-        "单打能力可缓解后场压力",
-        "防守轮转速度或成潜在短板",
-        "属主观推演非官方确认阵容"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "id": "CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc",
-      "title": "Season over for Kevin Durant, Rockets as NBA history shows no mercy",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-08-25T21:00:41.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc?oc=5\" target=\"_blank\">Season over for Kevin Durant, Rockets as NBA history shows no mercy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BasketNews.com</font>",
-      "titleZh": "历史数据警示：杜兰特与火箭的争冠之路充满挑战",
-      "summaryZh": "BasketNews援引NBA历史战绩规律，指出高龄核心与年轻球队组合的夺冠难度。文章属数据分析类评论，提醒球迷理性看待短期成绩预期。",
-      "detailsZh": "该报道来自BasketNews.com的数据分析专栏。文章调取了过去二十年中包含35岁以上超级巨星与平均年龄低于24岁球队的季后赛表现，统计显示此类组合极少突破第二轮。已知事实为杜兰特职业生涯后期移动能力下降，而火箭正处于重建上升期，两者在战术节奏与体能分配上存在天然矛盾。作者结论认为，除非发生极端交易或伤病潮改变格局，否则短期内难以实现冠军突破。需明确指出，此为基于历史样本的统计学观点，并非绝对预言；现代篮球小球战术与负荷管理已大幅改变传统模型适用性。该评论旨在平衡过度乐观的市场情绪，属理性分析范畴，不构成对球员能力的否定。",
-      "keyPoints": [
-        "援引历史数据警示高龄核心与青年军组合难度",
-        "战术节奏与体能分配存在天然矛盾",
-        "属统计学观点非绝对预言",
-        "现代篮球战术已改变传统模型",
-        "旨在平衡市场过度乐观情绪"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "id": "CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw",
-      "title": "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5",
-      "source": "Mshale",
-      "publishedAt": "2026-08-26T09:36:51.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "titleZh": "杜兰特与安东尼·戴维斯拉斯维加斯聚会被拍",
-      "summaryZh": "八卦摄影网站曝光杜兰特与浓眉哥在拉斯维加斯出席私人聚会的现场照片。内容属明星私生活追踪，与篮球竞技无关。",
-      "detailsZh": "信息来源为Mshale等狗仔摄影网站，主打娱乐化与流量导向。已知事实为两名现役NBA球星在休赛期前往拉斯维加斯参加非公开活动，并被第三方设备捕捉到影像。此类报道通常缺乏事件背景核实，照片可能存在摆拍或断章取义成分。需明确区分，私人行程与社交聚会属球员个人隐私范畴，只要不涉及违规违纪或商业代言违约，便不构成体育新闻核心议题。媒体对此类内容的炒作易分散公众对球队备战与战术升级的关注。建议读者理性看待娱乐八卦，避免将私人社交行为过度解读为球队内部动态或交易风向标。",
-      "keyPoints": [
-        "狗仔网站曝光球星私人聚会影像",
-        "属娱乐流量导向内容非体育核心",
-        "照片真实性与背景未经严格核实",
-        "私人行程属个人隐私范畴",
-        "不应过度解读为球队内部动态"
-      ],
-      "category": "场外",
-      "importance": 1
-    },
-    {
-      "id": "CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c",
+      "subject": "durant",
+      "id": "durant:CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c",
       "title": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5",
       "source": "新浪网",
       "publishedAt": "2026-08-26T11:14:34.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5\" target=\"_blank\">杜兰特跟腱大伤归来，单核带队美国男篮夺冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "titleZh": "网传杜兰特跟腱重伤后复出单核带队夺冠",
-      "summaryZh": "网络流传一篇关于杜兰特经历跟腱断裂并奇迹复出带领美国男篮夺冠的文章。经核查，该信息与当前球员健康状况及赛事记录严重不符，属虚构内容。",
-      "detailsZh": "该文本源自新浪体育频道转载的自媒体稿件。已知事实为凯文·杜兰特职业生涯至今未遭遇跟腱断裂重伤，且美国男篮最近一次国际大赛夺冠时间与所述情节无法对应。文章采用戏剧化叙事手法，混合了真实球员姓名与虚构伤病康复路径，缺乏任何权威医疗报告、球队公告或国际篮联赛事记录支撑。作为低可信度资讯，其内容明显带有小说创作或AI生成特征，不符合新闻报道的基本事实核查原则。需强烈提示读者，此类信息纯属谣言或娱乐虚构，切勿当作真实体育新闻传播。建议优先关注官方渠道发布的球员体检报告与国家队集训名单。",
+      "titleZh": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5\" target=\"_blank\">杜兰特跟腱大伤归来，单核带队美国男篮夺冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5\" target=\"_blank\">杜兰特跟腱大伤归来，单核带队美国男篮夺冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "keyPoints": [
-        "内容与球员实际健康状况严重不符",
-        "缺乏医疗报告与赛事记录支撑",
-        "疑似虚构创作或AI生成内容",
-        "不符合新闻事实核查基本原则",
-        "属网络谣言请勿当作真实新闻"
+        "杜兰特跟腱大伤归来，单核带队美国男篮夺冠"
       ],
-      "category": "比赛",
-      "importance": 1
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB",
+      "title": "火箭锋线四人组曝光：杜兰特带队冲冠？",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T10:45:22.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5\" target=\"_blank\">火箭锋线四人组曝光：杜兰特带队冲冠？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "titleZh": "火箭锋线四人组曝光：杜兰特带队冲冠？",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5\" target=\"_blank\">火箭锋线四人组曝光：杜兰特带队冲冠？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5\" target=\"_blank\">火箭锋线四人组曝光：杜兰特带队冲冠？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "keyPoints": [
+        "火箭锋线四人组曝光：杜兰特带队冲冠？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiwgFBVV95cUxNNWpTUklFM3Nkd2hqaV9DMFBlSGpES3I4YngyQUVtVlk4UGpQVm4wWHc1SGtYMTFDWUZweDlTY2JYZmQ5RTd0aXd3ZlpuVkhpXzRNVExRaXVqQ21jSEE4QXRXQTVhNXZBSmpQMWd3a1VQTjBIZlB4a3A0N0pDRHJhMHhSUVJ6UC1KUzdzNWpDSW9JbXRpRDFsV0o2NnFXc0dLTi1FN1VLWUZjV2RZYVlMejJzZjNoWXVUVkJlcmZ3UVYwQQ",
+      "title": "The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWpTUklFM3Nkd2hqaV9DMFBlSGpES3I4YngyQUVtVlk4UGpQVm4wWHc1SGtYMTFDWUZweDlTY2JYZmQ5RTd0aXd3ZlpuVkhpXzRNVExRaXVqQ21jSEE4QXRXQTVhNXZBSmpQMWd3a1VQTjBIZlB4a3A0N0pDRHJhMHhSUVJ6UC1KUzdzNWpDSW9JbXRpRDFsV0o2NnFXc0dLTi1FN1VLWUZjV2RZYVlMejJzZjNoWXVUVkJlcmZ3UVYwQQ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-08-26T10:30:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWpTUklFM3Nkd2hqaV9DMFBlSGpES3I4YngyQUVtVlk4UGpQVm4wWHc1SGtYMTFDWUZweDlTY2JYZmQ5RTd0aXd3ZlpuVkhpXzRNVExRaXVqQ21jSEE4QXRXQTVhNXZBSmpQMWd3a1VQTjBIZlB4a3A0N0pDRHJhMHhSUVJ6UC1KUzdzNWpDSW9JbXRpRDFsV0o2NnFXc0dLTi1FN1VLWUZjV2RZYVlMejJzZjNoWXVUVkJlcmZ3UVYwQQ?oc=5\" target=\"_blank\">The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "titleZh": "The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWpTUklFM3Nkd2hqaV9DMFBlSGpES3I4YngyQUVtVlk4UGpQVm4wWHc1SGtYMTFDWUZweDlTY2JYZmQ5RTd0aXd3ZlpuVkhpXzRNVExRaXVqQ21jSEE4QXRXQTVhNXZBSmpQMWd3a1VQTjBIZlB4a3A0N0pDRHJhMHhSUVJ6UC1KUzdzNWpDSW9JbXRpRDFsV0o2NnFXc0dLTi1FN1VLWUZjV2RZYVlMejJzZjNoWXVUVkJlcmZ3UVYwQQ?oc=5\" target=\"_blank\">The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWpTUklFM3Nkd2hqaV9DMFBlSGpES3I4YngyQUVtVlk4UGpQVm4wWHc1SGtYMTFDWUZweDlTY2JYZmQ5RTd0aXd3ZlpuVkhpXzRNVExRaXVqQ21jSEE4QXRXQTVhNXZBSmpQMWd3a1VQTjBIZlB4a3A0N0pDRHJhMHhSUVJ6UC1KUzdzNWpDSW9JbXRpRDFsV0o2NnFXc0dLTi1FN1VLWUZjV2RZYVlMejJzZjNoWXVUVkJlcmZ3UVYwQQ?oc=5\" target=\"_blank\">The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "keyPoints": [
+        "The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw",
+      "title": "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5",
+      "source": "Mshale",
+      "publishedAt": "2026-08-26T09:36:51.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "titleZh": "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "keyPoints": [
+        "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ",
+      "title": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-26T09:17:38.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "titleZh": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "keyPoints": [
+        "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB",
+      "title": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T08:59:57.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5\" target=\"_blank\">杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "titleZh": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5\" target=\"_blank\">杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5\" target=\"_blank\">杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "keyPoints": [
+        "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ",
+      "title": "杜兰特与霍姆格伦1v1单挑，两位长人的对决",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T06:34:41.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5\" target=\"_blank\">杜兰特与霍姆格伦1v1单挑，两位长人的对决</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "titleZh": "杜兰特与霍姆格伦1v1单挑，两位长人的对决",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5\" target=\"_blank\">杜兰特与霍姆格伦1v1单挑，两位长人的对决</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5\" target=\"_blank\">杜兰特与霍姆格伦1v1单挑，两位长人的对决</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "keyPoints": [
+        "杜兰特与霍姆格伦1v1单挑，两位长人的对决"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "chenze:chenze-huya-profile",
+      "title": "陈泽官方直播间",
+      "url": "https://www.huya.com/16001707",
+      "source": "虎牙直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽的虎牙官方直播间和近期直播入口。",
+      "subject": "chenze",
+      "titleZh": "陈泽虎牙官方直播间主页",
+      "summaryZh": "本条目为游戏主播陈泽的虎牙平台官方直播间固定入口，非当日新闻动态。提供实时观看链接及基础账号信息，供粉丝长期关注使用。",
+      "detailsZh": "【事实】该链接指向虎牙直播ID为16001707的官方认证页面，属于主播长期使用的固定主页资料入口，并非特定日期的新闻报道或活动预告。【评论】作为主播的核心流量阵地，该主页集中展示了其日常游戏直播内容与粉丝互动区，是了解其直播风格与排班的重要窗口。【传闻】网络偶有流传非官方仿冒直播间链接，建议观众仅通过此认证入口进入，谨防诈骗或恶意引流。",
+      "keyPoints": [
+        "虎牙官方认证直播间",
+        "固定主页入口",
+        "非当日新闻",
+        "防骗提示"
+      ],
+      "category": "直播",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "keyPoints": [
+        "大咕咕咕鸡公开动态与超话"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "keyPoints": [
+        "大咕咕咕鸡相关视频与作品朗读"
+      ],
+      "category": "场外",
+      "importance": 4
     }
   ]
 }
