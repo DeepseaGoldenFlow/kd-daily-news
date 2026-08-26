@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:40:50.512Z",
+  "updatedAt": "2026-08-26T14:04:48.645Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "items": [
@@ -10,33 +10,14 @@
       "source": "Yahoo Sports",
       "publishedAt": "2026-08-26T10:30:00.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkxOV3JLS1FQVEhOMmtyRlExLUJSODR4UmtDaWQzbDQwVXhlLTJraXVRaVJYSzhhRi1vRFNjWlhLX3Job29EQzlEc3NmYi13UE1zTUdVejZLQTgtS0JsT09sLUZOcFMwWERFVGJQRUstT3gwTDV4YjhqY010RjlGSmdPQThVMmc2M0VZZ1B5NjVXSVk?oc=5\" target=\"_blank\">The Houston Rockets' Shrewd Negotiating Could Extend Their Title Window</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-      "titleZh": "休斯顿火箭精明续约策略或延长冠军窗口期",
-      "summaryZh": "雅虎体育分析指出，火箭管理层在自由市场与薪资操作上的谨慎布局，有望为球队保留核心竞争力的同时维持薪资灵活性，从而延长争冠时间窗口。",
-      "detailsZh": "本文基于雅虎体育的专业薪资分析视角展开。文章指出，火箭队在休赛期通过精细的合同谈判与阵容结构优化，避免了过度透支未来资产。已知事实包括火箭近年来的建队逻辑偏向年轻核心与角色球员搭配，而评论部分认为这种策略能有效应对联盟日益膨胀的顶薪压力。信息来源属专业体育媒体深度分析，非官方公告。若该策略奏效，火箭将在未来三至五年内保持季后赛竞争力，但需警惕薪资空间被锁死的风险。目前尚无具体续约名单确认，相关内容仍属媒体推演。",
+      "titleZh": "休斯顿火箭精明运作或延长冠军窗口期",
+      "summaryZh": "雅虎体育分析指出，火箭队近期在薪资空间管理与续约谈判中展现出的策略性操作，有望为球队核心阵容争取更长的争冠时间。",
+      "detailsZh": "本文源自雅虎体育（Yahoo Sports），属主流媒体深度分析稿件。文章基于火箭队当前薪资结构、年轻球员合同年限及未来选秀权布局，探讨管理层通过灵活谈判锁定即战力与潜力新秀的可行性。已知事实为火箭近年已围绕申京、杰伦·格林等核心建队，且休赛期有多名角色球员面临续约。作者观点认为，若球队能精准控制奢侈税并合理分配顶薪资源，将有效延缓阵容老化周期。需明确区分的是，文中“延长冠军窗口”属编辑预测与战术推演，非既定结果；具体签约金额与球员去向仍以官方公告为准。该分析对球迷理解火箭长期规划具有参考价值，但实际效果受市场环境与伤病变量影响较大。",
       "keyPoints": [
-        "火箭管理层采取保守且灵活的薪资操作策略",
-        "避免过度透支未来选秀权与薪资空间",
-        "旨在为核心阵容争取更长的争冠周期",
-        "媒体分析性质，暂无官方续约公告"
-      ],
-      "category": "交易",
-      "importance": 4
-    },
-    {
-      "id": "CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R",
-      "title": "East contender ready to chase Kevin Durant if Rockets open trade door",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-08-25T22:18:47.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R?oc=5\" target=\"_blank\">East contender ready to chase Kevin Durant if Rockets open trade door</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BasketNews.com</font>",
-      "titleZh": "东部劲旅准备介入杜兰特交易传闻，火箭若放人将面临竞争",
-      "summaryZh": "据BasketNews报道，若休斯顿火箭队决定开启杜兰特交易程序，东部多支争冠球队已做好接盘准备。文章分析了潜在的交易筹码与薪资匹配方案。",
-      "detailsZh": "本文综合BasketNews等媒体的交易流言分析。已知事实为杜兰特目前处于休赛期运作阶段，且火箭队阵容处于调整期。评论部分指出，东部球队看重杜兰特的即战力与关键球能力，愿意用年轻资产或到期合同换取。信息来源属体育新闻聚合与分析平台，非官方消息源。若交易成真，将彻底改变东西部格局；但目前仅为媒体推演与球队意向摸底，缺乏实质性谈判进展。编辑提示：此类流言在休赛期高频出现，需以官方签约为准。",
-      "keyPoints": [
-        "东部多支球队已关注杜兰特潜在交易动向",
-        "火箭若启动交易程序将面临激烈竞价",
-        "分析涉及薪资匹配与年轻资产交换方案",
-        "当前仅为媒体推测，无正式谈判记录"
+        "火箭管理层展现薪资操作灵活性",
+        "核心阵容续约与空间管理成关键",
+        "精明运作可延缓阵容老化周期",
+        "冠军窗口延长属媒体预测非定论"
       ],
       "category": "交易",
       "importance": 4
@@ -49,34 +30,56 @@
       "publishedAt": "2026-08-26T09:17:38.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
       "titleZh": "火箭名宿回应杜兰特关于MVP比总冠军更重要的争议言论",
-      "summaryZh": "针对杜兰特此前引发讨论的个人奖项权重观点，休斯顿火箭队名宿在接受雅虎体育采访时表达了不同看法，强调团队荣誉在职业篮球中的终极地位。",
-      "detailsZh": "该报道源自雅虎体育对火箭队传奇球员的专访。背景是杜兰特近期提及个人奖项与团队冠军的权重对比，引发舆论热议。文中明确区分了事实与评论：杜兰特原话为客观事实，而名宿的回应属于主观评价，旨在重申篮球运动的集体主义传统。信息来源为知名体育媒体，具备一定公信力，但仅代表个人观点。此事件短期内不会直接影响球员交易或赛场表现，但可能加剧球迷群体间的立场分歧。目前无后续官方表态，相关讨论仍停留在舆论层面。",
+      "summaryZh": "针对杜兰特此前引发的MVP价值讨论，火箭传奇球星公开表态。主流媒体报道聚焦于个人荣誉与团队成就的篮球价值观辩论。",
+      "detailsZh": "该报道出自雅虎体育，引用了火箭队退役名宿对凯文·杜兰特相关言论的评论。已知事实是杜兰特曾在采访或社交媒体上表达过个人最高荣誉（MVP）对球员生涯定位的重要性，此观点在舆论场引发分歧。名宿的回应侧重于强调总冠军才是衡量球队成功的终极标准，体现了传统篮球文化的价值取向。本文属于观点交锋类资讯，来源为专业体育媒体，具备一定公信力。需明确指出，文中“争议言论”的具体语境与完整原话未在此摘要中提供，读者应以当事人原始采访为准。此类讨论多属媒体策划与球迷互动范畴，对球队实际竞技表现无直接影响，但有助于丰富篮球文化叙事。",
       "keyPoints": [
-        "杜兰特曾发表MVP重要性超越总冠军的言论",
-        "火箭名宿公开表达异议并强调团队至上",
-        "报道区分了球员原话与名宿主观评价",
-        "属舆论话题，暂无实质竞技影响"
+        "杜兰特MVP言论引发舆论分歧",
+        "火箭名宿重申总冠军至上理念",
+        "报道属媒体观点交锋非赛场动态",
+        "具体言论语境需参考原始采访",
+        "对球队竞技层面无实质影响"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "id": "CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc",
-      "title": "Season over for Kevin Durant, Rockets as NBA history shows no mercy",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc?oc=5",
+      "id": "CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R",
+      "title": "East contender ready to chase Kevin Durant if Rockets open trade door",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R?oc=5",
       "source": "BasketNews.com",
-      "publishedAt": "2026-08-25T21:00:41.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc?oc=5\" target=\"_blank\">Season over for Kevin Durant, Rockets as NBA history shows no mercy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BasketNews.com</font>",
-      "titleZh": "媒体分析：历史数据表明火箭与杜兰特组合面临严峻挑战",
-      "summaryZh": "BasketNews撰文指出，结合NBA历史战绩与薪资模型，火箭队若引入杜兰特将面临巨大的阵容兼容性与容错率考验，夺冠路径并不平坦。",
-      "detailsZh": "本文出自BasketNews的深度评论栏目。文章基于过往联盟中巨星与年轻核心组合的成败案例，进行数据回溯与逻辑推演。已知事实为火箭目前处于重建向争冠过渡的阶段，而评论部分强调历史规律显示此类配置极易因防守短板或球权分配失衡导致崩盘。信息来源属独立体育分析网站，观点鲜明但带有较强主观倾向。该分析旨在提醒管理层与球迷降低不切实际的期望值，而非预测最终结果。目前球队尚未官宣任何引援动作，相关内容纯属理论探讨。",
+      "publishedAt": "2026-08-25T22:18:47.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R?oc=5\" target=\"_blank\">East contender ready to chase Kevin Durant if Rockets open trade door</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BasketNews.com</font>",
+      "titleZh": "东部竞争者准备追逐杜兰特，前提是火箭开启交易通道",
+      "summaryZh": "篮球新闻网站分析指出，若休斯顿火箭队决定交易杜兰特，东部多支争冠球队已做好接盘准备。报道聚焦潜在交易市场的供需关系。",
+      "detailsZh": "本文出自BasketNews.com，属独立体育资讯平台，内容偏向市场传闻与交易推演。文章指出，鉴于杜兰特当前的合同状况与竞技年龄，东部部分具备薪资空间与优质筹码的球队正密切关注其动向。已知事实为火箭队休赛期阵容调整频繁，管理层态度尚不明朗。作者推测若火箭决定重建或止损，东部竞争者可能利用年轻资产与首轮签发起报价。需明确声明，文中“东部竞争者已准备好”属媒体分析与假设性情景，非官方接触或实质性谈判进展。交易流言通常随赛季临近而发酵，实际成交概率受多方利益博弈制约。球迷应理性看待此类报道，以联盟官方通报为准。",
       "keyPoints": [
-        "引用历史数据评估巨星加盟年轻球队的胜率",
-        "指出阵容兼容性与防守体系可能存在的隐患",
-        "文章属媒体主观分析，非事实预测",
-        "旨在理性看待休赛期引援风险"
+        "东部多队关注杜兰特潜在交易",
+        "火箭管理层态度仍存不确定性",
+        "报道属市场推演非实质谈判",
+        "年轻资产与首轮签或成交易筹码",
+        "实际成交概率受多重因素制约"
       ],
       "category": "交易",
+      "importance": 3
+    },
+    {
+      "id": "CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ",
+      "title": "杜兰特与霍姆格伦1v1单挑，两位长人的对决",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T06:34:41.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5\" target=\"_blank\">杜兰特与霍姆格伦1v1单挑，两位长人的对决</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "titleZh": "杜兰特与霍姆格伦进行1v1单挑训练",
+      "summaryZh": "休赛期训练营期间，杜兰特与雷霆新星霍姆格伦展开一对一对抗演练。新浪体育发布相关训练画面，展现老将与新星的技战术交流。",
+      "detailsZh": "信息来源于新浪体育发布的休赛期训练纪实内容。已知事实为杜兰特近期参与球队合练，并与切特·霍姆格伦进行了1v1实战模拟。该片段主要展示两人在进攻脚步、防守站位及终结方式上的技术细节，属于常规备战活动。作为商业体育媒体的跟拍素材，其拍摄角度与剪辑节奏可能侧重观赏性而非战术复盘。需明确区分，此为日常训练花絮，非正式比赛或战术部署会议。此类内容有助于球迷了解球员状态恢复情况，但对赛季走势预测仅具参考意义。具体对抗强度与教练组评价尚未有官方数据支持。",
+      "keyPoints": [
+        "杜兰特参与休赛期合练活动",
+        "与霍姆格伦进行一对一技术对抗",
+        "训练画面侧重观赏性与状态展示",
+        "属常规备战非正式战术部署",
+        "缺乏官方数据支撑对抗强度"
+      ],
+      "category": "比赛",
       "importance": 3
     },
     {
@@ -86,17 +89,18 @@
       "source": "新浪网",
       "publishedAt": "2026-08-26T04:45:50.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGJFd0RkQXAwUUV6SkY3SFdlNkRFSlhVc1FSWTRBT2VOenFrV0RkVXZQUEFBQ0hxdG9nMnJMQlc3cEY3WFBJQ1lFSHBaNldVcXNHZEo3YWhjWHhvMVV4cS0yODFMcFZISnNjUFZlSFo2RmZUM3BUTHc2XzVaYlFGb3hjRHd4dXBFRHNF?oc=5\" target=\"_blank\">戈贝尔换杜兰特？森林狼重磅交易方案曝光：送出三名球员梭哈杜兰特</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "titleZh": "媒体曝出森林狼追求杜兰特方案，戈贝尔或成交易筹码",
-      "summaryZh": "有自媒体整理出明尼苏达森林狼队追逐杜兰特的潜在交易框架，提议以戈贝尔为核心资产搭配多名角色球员进行交换。该方案缺乏官方背书，属典型休赛期流言。",
-      "detailsZh": "该信息主要流传于中文体育资讯平台，未见于NBA官方公告或权威记者报道。事实层面，戈贝尔目前仍在森林狼阵中，且球队防守体系高度依赖其存在；杜兰特方面亦无明确离队意愿声明。来源属性为自媒体编译或球迷构想，可信度较低。评论部分多围绕防守换进攻的阵容博弈展开，但编辑严格区分了猜测与事实。此类重磅交易方案通常旨在吸引流量，实际执行概率极低。球迷应以资深记者跟进为准，勿轻信非官方渠道的名单。",
+      "titleZh": "戈贝尔换杜兰特交易方案引热议",
+      "summaryZh": "网络流传一份涉及明尼苏达森林狼与休斯顿火箭的重磅交易构想，核心为戈贝尔交换杜兰特。新浪体育整理相关讨论，反映球迷对阵容互补性的期待。",
+      "detailsZh": "该信息源自新浪体育转载的网络交易方案讨论。已知事实为森林狼中锋鲁迪·戈贝尔与火箭前锋凯文·杜兰特均为联盟顶级攻防球员，但双方合同体量、球队建队方向及薪资匹配规则存在显著差异。所谓“三名球员梭哈”的方案多为自媒体或球迷社区创作，旨在探讨极端阵容重组的可能性。作为娱乐化体育资讯，其内容缺乏经纪人沟通、球队内部评估等核心交易要素支撑。需明确区分，此为虚构推演与球迷幻想，非真实谈判意向。此类内容虽能激发话题热度，但对实际转会市场无指导意义。建议读者将其视为篮球策略游戏层面的讨论，而非新闻事实。",
       "keyPoints": [
-        "网传森林狼拟以戈贝尔为主力筹码追求杜兰特",
-        "方案由自媒体整理，无球队官方确认",
-        "戈贝尔战术地位极高，交易可行性存疑",
-        "属典型休赛期流量型流言，需谨慎甄别"
+        "网络流传戈贝尔交换杜兰特构想",
+        "方案缺乏经纪人沟通与薪资匹配依据",
+        "属球迷社区创作非真实谈判",
+        "反映市场对顶级攻防球员的想象",
+        "对实际转会市场无实质指导作用"
       ],
       "category": "交易",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "CBMihAFBVV95cUxNS2t4LXFRdDV1X21HejFwOXM5OV9mUVF0Y2NJOWRhQjJMZFpydzFXUl9FbFR6RVlFNExuUlFuWEpnVEZROGpvUTJQelM3U0J0V01iaTE2SW9SVVhURF8zQlhTTnBucDJaSlBMR1g3Wk9ITUJMUW1QYTNnbVRCMHoxdzJrdFI",
@@ -105,36 +109,98 @@
       "source": "Sina Sports",
       "publishedAt": "2026-08-26T01:30:34.000Z",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2t4LXFRdDV1X21HejFwOXM5OV9mUVF0Y2NJOWRhQjJMZFpydzFXUl9FbFR6RVlFNExuUlFuWEpnVEZROGpvUTJQelM3U0J0V01iaTE2SW9SVVhURF8zQlhTTnBucDJaSlBMR1g3Wk9ITUJMUW1QYTNnbVRCMHoxdzJrdFI?oc=5\" target=\"_blank\">新赛季继续冲！杜兰特更新社媒分享近期训练照</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina Sports</font>",
-      "titleZh": "杜兰特更新社交媒体分享近期训练照片",
-      "summaryZh": "凯文·杜兰特近日在个人社交平台发布最新训练动态，展示其休赛期的体能储备与技术打磨情况，为新赛季备战释放积极信号。",
-      "detailsZh": "该信息直接来源于杜兰特本人或其官方认证账号的社交媒体更新，经新浪体育转载。事实层面确认为球员常规休赛期训练安排，包含力量训练、投篮练习及恢复性活动。来源属性为第一手官方资讯，可信度最高。评论部分仅体现球员对新赛季的期待态度，不涉及任何转会或伤病暗示。此举有助于稳定球迷预期，并为即将到来的季前赛积累状态。目前无其他附加条件或特殊背景，属标准赛季前例行宣传。",
+      "titleZh": "杜兰特社媒分享近期训练照片备战新赛季",
+      "summaryZh": "凯文·杜兰特在个人社交平台发布最新训练影像，展示体能储备与技术打磨进度。新浪体育跟进报道，传递球员积极备战的信号。",
+      "detailsZh": "资讯来源于新浪体育对杜兰特社交媒体动态的转述。已知事实为职业球员在休赛期通常会通过公开训练内容维持公众关注度并激励粉丝。本次发布的照片显示杜兰特正在进行力量训练与投篮练习，符合NBA夏季联赛前后的常规备战节奏。作为官方授权的运动员社交账号内容，其真实性较高，但图片选择与文案撰写均经过公关团队筛选，旨在塑造专注职业的形象。需明确指出，此类内容属于常规宣传物料，不透露具体伤病恢复数据或战术安排。其对球队的直接价值在于维持商业曝光度与球迷黏性，竞技层面的具体提升程度需待季前赛验证。",
       "keyPoints": [
-        "杜兰特亲自发布休赛期训练影像资料",
-        "内容聚焦体能储备与投篮技术打磨",
-        "信息来源为球员官方社交账号",
-        "属常规备战动态，无转会或伤病关联"
+        "杜兰特发布休赛期训练影像",
+        "内容经公关团队筛选塑造职业形象",
+        "符合夏季常规备战节奏",
+        "属常规宣传不透露战术细节",
+        "竞技提升程度需季前赛验证"
       ],
       "category": "场外",
       "importance": 2
     },
     {
-      "id": "CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ",
-      "title": "杜兰特与霍姆格伦1v1单挑，两位长人的对决",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5",
+      "id": "CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB",
+      "title": "火箭锋线四人组曝光：杜兰特带队冲冠？",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-08-26T06:34:41.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sZWhFRlBfdXJFN3JjS0JWRF9lWnlKcjVmQzNXSkY1eGlIRG11czBFX3JJQUlSVlNsVmpMUzdyQ2pKYVNxZ3EtRW9oS1FXeDNfLVltQWNqV2NYcmJ2WXRWVWxwaldlanhYWmM1U2VtUFBSUQ?oc=5\" target=\"_blank\">杜兰特与霍姆格伦1v1单挑，两位长人的对决</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "titleZh": "杜兰特与霍姆格伦进行一对一训练交流",
-      "summaryZh": "网络流传视频显示，杜兰特与雷霆新星霍姆格伦在休赛期进行了一对一攻防演练。双方就内线脚步与外线投射技巧展开互动，展现老将对新星的指导姿态。",
-      "detailsZh": "该动态源自球迷拍摄并上传的训练场边视频，经国内体育自媒体转发。事实部分确认为两名球员在非正式场合的技术切磋，属于休赛期常见的跨队交流。来源属性为第三方拍摄素材，未经球队官方证实，存在剪辑或摆拍可能。评论部分多聚焦于两人技术特点的差异与互补，但编辑明确指出此为娱乐性内容，不代表任何战术部署或交易意向。此类训练视频通常用于提升球员曝光度，对实际赛程与阵容构建无实质影响。建议读者理性看待网络流传片段，以球队官方训练营安排为准。",
+      "publishedAt": "2026-08-26T10:45:22.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5\" target=\"_blank\">火箭锋线四人组曝光：杜兰特带队冲冠？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "titleZh": "火箭锋线配置引关注，杜兰特带队前景待考",
+      "summaryZh": "媒体梳理火箭队现有锋线轮换名单，结合杜兰特可能的加入路径，探讨球队冲击季后赛的阵容深度。新浪体育文章侧重战术适配性分析。",
+      "detailsZh": "本文出自新浪体育，属战术前瞻类评论。文章列举了火箭队当前锋线位置的球员构成，并假设杜兰特融入后的空间拉扯与持球分担效应。已知事实为火箭近年致力于构建年轻化锋线群，但防守弹性与三分稳定性仍是隐患。作者观点认为，若杜兰特健康出战，其单打能力可缓解后场压力，但防守端轮转速度可能成为短板。需明确区分，文中“四人组曝光”实为现有名单盘点加假设性推演，非官方确认的固定首发。此类分析依赖主观战术偏好，实际化学反应受教练体系与对手针对性布置影响。读者应将其视为策略探讨，而非既定阵容蓝图。",
       "keyPoints": [
-        "网传杜兰特与霍姆格伦私下进行单挑训练",
-        "内容侧重技术交流与经验传授",
-        "视频来源为非官方第三方拍摄",
-        "属休赛期常规互动，无战术或交易含义"
+        "梳理火箭现有锋线轮换名单",
+        "假设杜兰特加入后的战术适配性",
+        "单打能力可缓解后场压力",
+        "防守轮转速度或成潜在短板",
+        "属主观推演非官方确认阵容"
+      ],
+      "category": "比赛",
+      "importance": 2
+    },
+    {
+      "id": "CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc",
+      "title": "Season over for Kevin Durant, Rockets as NBA history shows no mercy",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-08-25T21:00:41.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBZnBXcVhrMHN1dWYyS0JTMVR3MkJWMGV3MVRpTUM3TmRUTVVtOFNmeHI3TlBkOXRiMnFFZV8zSE5mdnh3SmRDSW54Z05TdUwyVzVhRERXLVVtaFNzZUczUS14TThfc044cHF0Ri1jbWgxWUo0RlRFRzFQeFByMWRJMTdWOVdBNzAyR0tZT0MwaWlUMmZ0OXJVMGN0QV9LZDQtblQ4YWdYZ080Qmc?oc=5\" target=\"_blank\">Season over for Kevin Durant, Rockets as NBA history shows no mercy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BasketNews.com</font>",
+      "titleZh": "历史数据警示：杜兰特与火箭的争冠之路充满挑战",
+      "summaryZh": "BasketNews援引NBA历史战绩规律，指出高龄核心与年轻球队组合的夺冠难度。文章属数据分析类评论，提醒球迷理性看待短期成绩预期。",
+      "detailsZh": "该报道来自BasketNews.com的数据分析专栏。文章调取了过去二十年中包含35岁以上超级巨星与平均年龄低于24岁球队的季后赛表现，统计显示此类组合极少突破第二轮。已知事实为杜兰特职业生涯后期移动能力下降，而火箭正处于重建上升期，两者在战术节奏与体能分配上存在天然矛盾。作者结论认为，除非发生极端交易或伤病潮改变格局，否则短期内难以实现冠军突破。需明确指出，此为基于历史样本的统计学观点，并非绝对预言；现代篮球小球战术与负荷管理已大幅改变传统模型适用性。该评论旨在平衡过度乐观的市场情绪，属理性分析范畴，不构成对球员能力的否定。",
+      "keyPoints": [
+        "援引历史数据警示高龄核心与青年军组合难度",
+        "战术节奏与体能分配存在天然矛盾",
+        "属统计学观点非绝对预言",
+        "现代篮球战术已改变传统模型",
+        "旨在平衡市场过度乐观情绪"
+      ],
+      "category": "比赛",
+      "importance": 2
+    },
+    {
+      "id": "CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw",
+      "title": "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5",
+      "source": "Mshale",
+      "publishedAt": "2026-08-26T09:36:51.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "titleZh": "杜兰特与安东尼·戴维斯拉斯维加斯聚会被拍",
+      "summaryZh": "八卦摄影网站曝光杜兰特与浓眉哥在拉斯维加斯出席私人聚会的现场照片。内容属明星私生活追踪，与篮球竞技无关。",
+      "detailsZh": "信息来源为Mshale等狗仔摄影网站，主打娱乐化与流量导向。已知事实为两名现役NBA球星在休赛期前往拉斯维加斯参加非公开活动，并被第三方设备捕捉到影像。此类报道通常缺乏事件背景核实，照片可能存在摆拍或断章取义成分。需明确区分，私人行程与社交聚会属球员个人隐私范畴，只要不涉及违规违纪或商业代言违约，便不构成体育新闻核心议题。媒体对此类内容的炒作易分散公众对球队备战与战术升级的关注。建议读者理性看待娱乐八卦，避免将私人社交行为过度解读为球队内部动态或交易风向标。",
+      "keyPoints": [
+        "狗仔网站曝光球星私人聚会影像",
+        "属娱乐流量导向内容非体育核心",
+        "照片真实性与背景未经严格核实",
+        "私人行程属个人隐私范畴",
+        "不应过度解读为球队内部动态"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 1
+    },
+    {
+      "id": "CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c",
+      "title": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T11:14:34.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5\" target=\"_blank\">杜兰特跟腱大伤归来，单核带队美国男篮夺冠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "titleZh": "网传杜兰特跟腱重伤后复出单核带队夺冠",
+      "summaryZh": "网络流传一篇关于杜兰特经历跟腱断裂并奇迹复出带领美国男篮夺冠的文章。经核查，该信息与当前球员健康状况及赛事记录严重不符，属虚构内容。",
+      "detailsZh": "该文本源自新浪体育频道转载的自媒体稿件。已知事实为凯文·杜兰特职业生涯至今未遭遇跟腱断裂重伤，且美国男篮最近一次国际大赛夺冠时间与所述情节无法对应。文章采用戏剧化叙事手法，混合了真实球员姓名与虚构伤病康复路径，缺乏任何权威医疗报告、球队公告或国际篮联赛事记录支撑。作为低可信度资讯，其内容明显带有小说创作或AI生成特征，不符合新闻报道的基本事实核查原则。需强烈提示读者，此类信息纯属谣言或娱乐虚构，切勿当作真实体育新闻传播。建议优先关注官方渠道发布的球员体检报告与国家队集训名单。",
+      "keyPoints": [
+        "内容与球员实际健康状况严重不符",
+        "缺乏医疗报告与赛事记录支撑",
+        "疑似虚构创作或AI生成内容",
+        "不符合新闻事实核查基本原则",
+        "属网络谣言请勿当作真实新闻"
+      ],
+      "category": "比赛",
+      "importance": 1
     }
   ]
 }
