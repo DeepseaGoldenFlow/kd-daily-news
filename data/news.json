@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T14:23:36.943Z",
+  "updatedAt": "2026-08-26T14:31:48.633Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,6 +16,91 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:search:https://sports.sina.cn/2026-08-26/detail-iniprytr6004423.d.html",
+      "title": "新浪NBA火箭热点小时报丨2026年08月26日19时_今日实时NBA火箭热点速递",
+      "url": "https://sports.sina.cn/2026-08-26/detail-iniprytr6004423.d.html",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T14:29:18.434Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "新浪NBA火箭热点小时报丨2026年08月26日19时_今日实时NBA火箭热点速递",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "新浪NBA火箭热点小时报丨2026年08月26日19时_今日实时NBA火箭热点速递"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://k.sina.com.cn/article_7857201856_1d45362c001908kyqi.html",
+      "title": "新浪NBA热点小时报丨2026年08月26日13时_今日实时NBA热点速递",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908kyqi.html",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T14:29:18.434Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "新浪NBA热点小时报丨2026年08月26日13时_今日实时NBA热点速递",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "新浪NBA热点小时报丨2026年08月26日13时_今日实时NBA热点速递"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://sports.sina.cn/2026-08-26/detail-iniprivs1050364.d.html",
+      "title": "新浪篮球热点小时报丨2026年08月26日13时_今日实时篮球热点速递",
+      "url": "https://sports.sina.cn/2026-08-26/detail-iniprivs1050364.d.html",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T14:29:18.434Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "新浪篮球热点小时报丨2026年08月26日13时_今日实时篮球热点速递",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "新浪篮球热点小时报丨2026年08月26日13时_今日实时篮球热点速递"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://sports.sina.cn/2026-08-26/detail-iniprumt6100918.d.html",
+      "title": "新浪篮球热点小时报丨2026年08月26日18时_今日实时篮球热点速递",
+      "url": "https://sports.sina.cn/2026-08-26/detail-iniprumt6100918.d.html",
+      "source": "新浪网",
+      "publishedAt": "2026-08-26T14:29:18.434Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "新浪篮球热点小时报丨2026年08月26日18时_今日实时篮球热点速递",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "新浪篮球热点小时报丨2026年08月26日18时_今日实时篮球热点速递"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://k.sina.cn/article_7857201856_1d45362c001908kyuq.html",
+      "title": "新浪体育热点小时报丨2026年08月26日14时_今日实时体育热点速递 ",
+      "url": "https://k.sina.cn/article_7857201856_1d45362c001908kyuq.html",
+      "source": "无",
+      "publishedAt": "2026-08-26T14:29:18.434Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "新浪体育热点小时报丨2026年08月26日14时_今日实时体育热点速递 ",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "新浪体育热点小时报丨2026年08月26日14时_今日实时体育热点速递 "
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
       "id": "durant:CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c",
       "title": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5",
@@ -29,7 +114,7 @@
         "杜兰特跟腱大伤归来，单核带队美国男篮夺冠"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -46,7 +131,7 @@
         "火箭锋线四人组曝光：杜兰特带队冲冠？"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -66,89 +151,38 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw",
-      "title": "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5",
-      "source": "Mshale",
-      "publishedAt": "2026-08-26T09:36:51.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "titleZh": "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)",
-      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeXRfR1RpT3VCRE9QdXdmbGoyUVEwMFIwWXl2YVExbnUwNWpXc0JKOEpjZmlqb1E2THJPa3JSS3hCczBfLW1SeDkxSG9tOUVjWnp1RUphSkJJNExOa0gxdw?oc=5\" target=\"_blank\">KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "subject": "chenze",
+      "id": "chenze:search:https://www.youku.com/profile/index/?uid=UMTQwNzg4NDQ5Ng==",
+      "title": "Z弹哥的自频道-优酷视频",
+      "url": "https://www.youku.com/profile/index/?uid=UMTQwNzg4NDQ5Ng==",
+      "source": "优酷网",
+      "publishedAt": "2026-08-26T14:29:15.157Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "Z弹哥的自频道-优酷视频",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT)"
+        "Z弹哥的自频道-优酷视频"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ",
-      "title": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-26T09:17:38.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-      "titleZh": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
-      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5\" target=\"_blank\">Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "subject": "chenze",
+      "id": "chenze:search:https://space.bilibili.com/28861187",
+      "title": "风间琉璃zcl",
+      "url": "https://space.bilibili.com/28861187",
+      "source": "哔哩哔哩弹幕网",
+      "publishedAt": "2026-08-26T14:29:15.157Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "风间琉璃zcl",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship"
+        "风间琉璃zcl"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB",
-      "title": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-26T08:59:57.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5\" target=\"_blank\">杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "titleZh": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间",
-      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5\" target=\"_blank\">杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5\" target=\"_blank\">杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "keyPoints": [
-        "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiW0FVX3lxTE5VVGR4akdrZ1NrTkVwTXhEcU9CdEN0RUxoa3I1NmZtYmpQWFF3UktSMGVoUEhBeWxkenRPNXFyTWJTMUZzOUh4ZFJvTlRWR0VYV2lnUUwyWXNzRHc",
-      "title": "NBA 2K27 LEAKED MICHAEL JORDAN & KEVIN DURANT SKINS Portos (oR7L4c9AhH)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVGR4akdrZ1NrTkVwTXhEcU9CdEN0RUxoa3I1NmZtYmpQWFF3UktSMGVoUEhBeWxkenRPNXFyTWJTMUZzOUh4ZFJvTlRWR0VYV2lnUUwyWXNzRHc?oc=5",
-      "source": "Mshale",
-      "publishedAt": "2026-08-26T08:15:25.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVGR4akdrZ1NrTkVwTXhEcU9CdEN0RUxoa3I1NmZtYmpQWFF3UktSMGVoUEhBeWxkenRPNXFyTWJTMUZzOUh4ZFJvTlRWR0VYV2lnUUwyWXNzRHc?oc=5\" target=\"_blank\">NBA 2K27 LEAKED MICHAEL JORDAN & KEVIN DURANT SKINS Portos (oR7L4c9AhH)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "titleZh": "NBA 2K27 LEAKED MICHAEL JORDAN & KEVIN DURANT SKINS Portos (oR7L4c9AhH)",
-      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVGR4akdrZ1NrTkVwTXhEcU9CdEN0RUxoa3I1NmZtYmpQWFF3UktSMGVoUEhBeWxkenRPNXFyTWJTMUZzOUh4ZFJvTlRWR0VYV2lnUUwyWXNzRHc?oc=5\" target=\"_blank\">NBA 2K27 LEAKED MICHAEL JORDAN & KEVIN DURANT SKINS Portos (oR7L4c9AhH)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVGR4akdrZ1NrTkVwTXhEcU9CdEN0RUxoa3I1NmZtYmpQWFF3UktSMGVoUEhBeWxkenRPNXFyTWJTMUZzOUh4ZFJvTlRWR0VYV2lnUUwyWXNzRHc?oc=5\" target=\"_blank\">NBA 2K27 LEAKED MICHAEL JORDAN & KEVIN DURANT SKINS Portos (oR7L4c9AhH)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "keyPoints": [
-        "NBA 2K27 LEAKED MICHAEL JORDAN & KEVIN DURANT SKINS Portos (oR7L4c9AhH)"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMikgFBVV95cUxPenhnN1hYWVFMUzk5YWZRaDZjcGhwc3Z5dTBoOHZsTHZDQkU4V1puUldQSy1ZNi1jSVJ2UXlFUDZfaU4yQVY5VllFTDhUSkxEUFFteHc5WkkwYW1XOXZUMjJWWDZUdFJsVFVXS1lZQUsxdlBVMENJNnp4emhMVzlVcE9zTEcyQVVTNFFGbUpEYkdJZw",
-      "title": "Kevin Durant & Paige Bueckers *ELITE* Workout With Adam Harrington Resident Evil Requiem (DDGqb94Vqd)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenhnN1hYWVFMUzk5YWZRaDZjcGhwc3Z5dTBoOHZsTHZDQkU4V1puUldQSy1ZNi1jSVJ2UXlFUDZfaU4yQVY5VllFTDhUSkxEUFFteHc5WkkwYW1XOXZUMjJWWDZUdFJsVFVXS1lZQUsxdlBVMENJNnp4emhMVzlVcE9zTEcyQVVTNFFGbUpEYkdJZw?oc=5",
-      "source": "Mshale",
-      "publishedAt": "2026-08-26T07:48:20.000Z",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPenhnN1hYWVFMUzk5YWZRaDZjcGhwc3Z5dTBoOHZsTHZDQkU4V1puUldQSy1ZNi1jSVJ2UXlFUDZfaU4yQVY5VllFTDhUSkxEUFFteHc5WkkwYW1XOXZUMjJWWDZUdFJsVFVXS1lZQUsxdlBVMENJNnp4emhMVzlVcE9zTEcyQVVTNFFGbUpEYkdJZw?oc=5\" target=\"_blank\">Kevin Durant & Paige Bueckers *ELITE* Workout With Adam Harrington Resident Evil Requiem (DDGqb94Vqd)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "titleZh": "Kevin Durant & Paige Bueckers *ELITE* Workout With Adam Harrington Resident Evil Requiem (DDGqb94Vqd)",
-      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPenhnN1hYWVFMUzk5YWZRaDZjcGhwc3Z5dTBoOHZsTHZDQkU4V1puUldQSy1ZNi1jSVJ2UXlFUDZfaU4yQVY5VllFTDhUSkxEUFFteHc5WkkwYW1XOXZUMjJWWDZUdFJsVFVXS1lZQUsxdlBVMENJNnp4emhMVzlVcE9zTEcyQVVTNFFGbUpEYkdJZw?oc=5\" target=\"_blank\">Kevin Durant & Paige Bueckers *ELITE* Workout With Adam Harrington Resident Evil Requiem (DDGqb94Vqd)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPenhnN1hYWVFMUzk5YWZRaDZjcGhwc3Z5dTBoOHZsTHZDQkU4V1puUldQSy1ZNi1jSVJ2UXlFUDZfaU4yQVY5VllFTDhUSkxEUFFteHc5WkkwYW1XOXZUMjJWWDZUdFJsVFVXS1lZQUsxdlBVMENJNnp4emhMVzlVcE9zTEcyQVVTNFFGbUpEYkdJZw?oc=5\" target=\"_blank\">Kevin Durant & Paige Bueckers *ELITE* Workout With Adam Harrington Resident Evil Requiem (DDGqb94Vqd)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "keyPoints": [
-        "Kevin Durant & Paige Bueckers *ELITE* Workout With Adam Harrington Resident Evil Requiem (DDGqb94Vqd)"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-huya-profile",
@@ -158,17 +192,99 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "游戏主播陈泽的虎牙官方直播间和近期直播入口。",
       "subject": "chenze",
-      "titleZh": "陈泽虎牙官方直播间主页",
-      "summaryZh": "游戏主播陈泽的虎牙平台官方直播间入口及近期直播排期页面。该链接为固定资料页，非单日新闻动态，提供稳定观看渠道与历史回放索引。",
-      "detailsZh": "本条目为陈泽在虎牙直播平台的官方主页固定入口（房间号：16001707）。该页面长期有效，主要用于展示主播当前在线状态、近期直播预告、精彩切片合集及粉丝互动专区。作为其核心流量阵地，此处仅作为基础资料索引，不记录具体某日期的直播事件或突发资讯。观众可通过此链接直接跳转至直播间，获取第一手游戏实况与日常互动内容，建议收藏以便随时访问。",
+      "titleZh": "陈泽官方直播间",
+      "summaryZh": "游戏主播陈泽的虎牙官方直播间和近期直播入口。",
+      "detailsZh": "游戏主播陈泽的虎牙官方直播间和近期直播入口。",
       "keyPoints": [
-        "虎牙官方认证直播间",
-        "固定主页入口非新闻动态",
-        "含近期排期与回放索引",
-        "核心粉丝互动阵地"
+        "陈泽官方直播间"
       ],
-      "category": "直播",
-      "importance": 2
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiWEFVX3lxTE9EWldJV0xzZ3FKSnNpOWR4RmRsLV8xc0Vic01vcFRPNjR4TDZnNTFUcEE3Vk9ZbUtLN3F1ZTZNNXdCRDlBX1BaRUkzU0tFUXE3RVp0b01QcDk",
+      "title": "一场主播办的《澳门威尼斯人线路导航》比赛，怎么就坐满了万人体育场？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EWldJV0xzZ3FKSnNpOWR4RmRsLV8xc0Vic01vcFRPNjR4TDZnNTFUcEE3Vk9ZbUtLN3F1ZTZNNXdCRDlBX1BaRUkzU0tFUXE3RVp0b01QcDk?oc=5",
+      "source": "womenofchina.com",
+      "publishedAt": "2026-08-20T18:27:57.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EWldJV0xzZ3FKSnNpOWR4RmRsLV8xc0Vic01vcFRPNjR4TDZnNTFUcEE3Vk9ZbUtLN3F1ZTZNNXdCRDlBX1BaRUkzU0tFUXE3RVp0b01QcDk?oc=5\" target=\"_blank\">一场主播办的《澳门威尼斯人线路导航》比赛，怎么就坐满了万人体育场？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">womenofchina.com</font>",
+      "titleZh": "一场主播办的《澳门威尼斯人线路导航》比赛，怎么就坐满了万人体育场？",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EWldJV0xzZ3FKSnNpOWR4RmRsLV8xc0Vic01vcFRPNjR4TDZnNTFUcEE3Vk9ZbUtLN3F1ZTZNNXdCRDlBX1BaRUkzU0tFUXE3RVp0b01QcDk?oc=5\" target=\"_blank\">一场主播办的《澳门威尼斯人线路导航》比赛，怎么就坐满了万人体育场？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">womenofchina.com</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EWldJV0xzZ3FKSnNpOWR4RmRsLV8xc0Vic01vcFRPNjR4TDZnNTFUcEE3Vk9ZbUtLN3F1ZTZNNXdCRDlBX1BaRUkzU0tFUXE3RVp0b01QcDk?oc=5\" target=\"_blank\">一场主播办的《澳门威尼斯人线路导航》比赛，怎么就坐满了万人体育场？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">womenofchina.com</font>",
+      "keyPoints": [
+        "一场主播办的《澳门威尼斯人线路导航》比赛，怎么就坐满了万人体育场？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiYkFVX3lxTE56SmNYMGRDd244SGhKLTFTRzJzdUNZRWpRSERJbzVGR0NNX0tpUzFTUHppWmRtamVYVDcxUG5OdnJ0VDRoVmpZeDZOS2t4RGpyWjlXRnBla2h2MjlBZ2hFejZB",
+      "title": "UP主手搓赛博版《大圣归来》，B站播放近千万；《OK了老铁们》第二季抖音获赞超1400万 | 涨粉周榜",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56SmNYMGRDd244SGhKLTFTRzJzdUNZRWpRSERJbzVGR0NNX0tpUzFTUHppWmRtamVYVDcxUG5OdnJ0VDRoVmpZeDZOS2t4RGpyWjlXRnBla2h2MjlBZ2hFejZB?oc=5",
+      "source": "QQ News",
+      "publishedAt": "2026-08-19T04:05:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE56SmNYMGRDd244SGhKLTFTRzJzdUNZRWpRSERJbzVGR0NNX0tpUzFTUHppWmRtamVYVDcxUG5OdnJ0VDRoVmpZeDZOS2t4RGpyWjlXRnBla2h2MjlBZ2hFejZB?oc=5\" target=\"_blank\">UP主手搓赛博版《大圣归来》，B站播放近千万；《OK了老铁们》第二季抖音获赞超1400万 | 涨粉周榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QQ News</font>",
+      "titleZh": "UP主手搓赛博版《大圣归来》，B站播放近千万；《OK了老铁们》第二季抖音获赞超1400万 | 涨粉周榜",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE56SmNYMGRDd244SGhKLTFTRzJzdUNZRWpRSERJbzVGR0NNX0tpUzFTUHppWmRtamVYVDcxUG5OdnJ0VDRoVmpZeDZOS2t4RGpyWjlXRnBla2h2MjlBZ2hFejZB?oc=5\" target=\"_blank\">UP主手搓赛博版《大圣归来》，B站播放近千万；《OK了老铁们》第二季抖音获赞超1400万 | 涨粉周榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QQ News</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE56SmNYMGRDd244SGhKLTFTRzJzdUNZRWpRSERJbzVGR0NNX0tpUzFTUHppWmRtamVYVDcxUG5OdnJ0VDRoVmpZeDZOS2t4RGpyWjlXRnBla2h2MjlBZ2hFejZB?oc=5\" target=\"_blank\">UP主手搓赛博版《大圣归来》，B站播放近千万；《OK了老铁们》第二季抖音获赞超1400万 | 涨粉周榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QQ News</font>",
+      "keyPoints": [
+        "UP主手搓赛博版《大圣归来》，B站播放近千万；《OK了老铁们》第二季抖音获赞超1400万 | 涨粉周榜"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMihAFBVV95cUxOR3FoMU5KVWJrUV9VWE5CS2lHazdseGg0a1YxaVZmc2RVTUZoSE5fZk1xSjM4UWthOVExRzI3Z2l5V2l2WjVfNXpjX3RCQ0kxbHp4QkxxMHpkTFFjQUgzbVRfNnFpN3ZUbjZNdmxkdWlLM3NBelRLYmdabmx5Zjl1YzBIYVA",
+      "title": "陈泽为什么自掏腰包200万做这档综艺？",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3FoMU5KVWJrUV9VWE5CS2lHazdseGg0a1YxaVZmc2RVTUZoSE5fZk1xSjM4UWthOVExRzI3Z2l5V2l2WjVfNXpjX3RCQ0kxbHp4QkxxMHpkTFFjQUgzbVRfNnFpN3ZUbjZNdmxkdWlLM3NBelRLYmdabmx5Zjl1YzBIYVA?oc=5",
+      "source": "新浪财经",
+      "publishedAt": "2026-08-16T07:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3FoMU5KVWJrUV9VWE5CS2lHazdseGg0a1YxaVZmc2RVTUZoSE5fZk1xSjM4UWthOVExRzI3Z2l5V2l2WjVfNXpjX3RCQ0kxbHp4QkxxMHpkTFFjQUgzbVRfNnFpN3ZUbjZNdmxkdWlLM3NBelRLYmdabmx5Zjl1YzBIYVA?oc=5\" target=\"_blank\">陈泽为什么自掏腰包200万做这档综艺？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "titleZh": "陈泽为什么自掏腰包200万做这档综艺？",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3FoMU5KVWJrUV9VWE5CS2lHazdseGg0a1YxaVZmc2RVTUZoSE5fZk1xSjM4UWthOVExRzI3Z2l5V2l2WjVfNXpjX3RCQ0kxbHp4QkxxMHpkTFFjQUgzbVRfNnFpN3ZUbjZNdmxkdWlLM3NBelRLYmdabmx5Zjl1YzBIYVA?oc=5\" target=\"_blank\">陈泽为什么自掏腰包200万做这档综艺？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3FoMU5KVWJrUV9VWE5CS2lHazdseGg0a1YxaVZmc2RVTUZoSE5fZk1xSjM4UWthOVExRzI3Z2l5V2l2WjVfNXpjX3RCQ0kxbHp4QkxxMHpkTFFjQUgzbVRfNnFpN3ZUbjZNdmxkdWlLM3NBelRLYmdabmx5Zjl1YzBIYVA?oc=5\" target=\"_blank\">陈泽为什么自掏腰包200万做这档综艺？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "keyPoints": [
+        "陈泽为什么自掏腰包200万做这档综艺？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiiAFBVV95cUxNbnNvMzhfSHFqeGVtUG1vNmVISDNLVFc0X3NQVVVPR0FDaWp1TkFDZFZJR193N1JDMzlmdjFuWWZDSFJTd1plRHBZcUl0Tm9Ibjl0UlZHckZqa21Cd0E3Ym1zeTNtOUwtbW9idjItbVB4bW1jSndvelZrUUJrV3dJXzV2aG91SVYx",
+      "title": "陈泽综艺《ok了老铁们》第二季热播 本人揭秘幕后趣事：常驻MC全员“武将”，不爱动脑 自曝2019年在网上卖暴利耳机",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnNvMzhfSHFqeGVtUG1vNmVISDNLVFc0X3NQVVVPR0FDaWp1TkFDZFZJR193N1JDMzlmdjFuWWZDSFJTd1plRHBZcUl0Tm9Ibjl0UlZHckZqa21Cd0E3Ym1zeTNtOUwtbW9idjItbVB4bW1jSndvelZrUUJrV3dJXzV2aG91SVYx?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-08-16T04:20:57.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnNvMzhfSHFqeGVtUG1vNmVISDNLVFc0X3NQVVVPR0FDaWp1TkFDZFZJR193N1JDMzlmdjFuWWZDSFJTd1plRHBZcUl0Tm9Ibjl0UlZHckZqa21Cd0E3Ym1zeTNtOUwtbW9idjItbVB4bW1jSndvelZrUUJrV3dJXzV2aG91SVYx?oc=5\" target=\"_blank\">陈泽综艺《ok了老铁们》第二季热播 本人揭秘幕后趣事：常驻MC全员“武将”，不爱动脑 自曝2019年在网上卖暴利耳机</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+      "titleZh": "陈泽综艺《ok了老铁们》第二季热播 本人揭秘幕后趣事：常驻MC全员“武将”，不爱动脑 自曝2019年在网上卖暴利耳机",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnNvMzhfSHFqeGVtUG1vNmVISDNLVFc0X3NQVVVPR0FDaWp1TkFDZFZJR193N1JDMzlmdjFuWWZDSFJTd1plRHBZcUl0Tm9Ibjl0UlZHckZqa21Cd0E3Ym1zeTNtOUwtbW9idjItbVB4bW1jSndvelZrUUJrV3dJXzV2aG91SVYx?oc=5\" target=\"_blank\">陈泽综艺《ok了老铁们》第二季热播 本人揭秘幕后趣事：常驻MC全员“武将”，不爱动脑 自曝2019年在网上卖暴利耳机</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnNvMzhfSHFqeGVtUG1vNmVISDNLVFc0X3NQVVVPR0FDaWp1TkFDZFZJR193N1JDMzlmdjFuWWZDSFJTd1plRHBZcUl0Tm9Ibjl0UlZHckZqa21Cd0E3Ym1zeTNtOUwtbW9idjItbVB4bW1jSndvelZrUUJrV3dJXzV2aG91SVYx?oc=5\" target=\"_blank\">陈泽综艺《ok了老铁们》第二季热播 本人揭秘幕后趣事：常驻MC全员“武将”，不爱动脑 自曝2019年在网上卖暴利耳机</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+      "keyPoints": [
+        "陈泽综艺《ok了老铁们》第二季热播 本人揭秘幕后趣事：常驻MC全员“武将”，不爱动脑 自曝2019年在网上卖暴利耳机"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
+      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
+      "source": "封面新闻",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5\" target=\"_blank\">陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+      "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
+      "summaryZh": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5\" target=\"_blank\">陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+      "detailsZh": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5\" target=\"_blank\">陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+      "keyPoints": [
+        "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -178,14 +294,13 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话与公开动态主页",
-      "summaryZh": "该链接为大咕咕咕鸡微博超话与公开动态聚合入口。页面集中收录其日常发文、作品宣发及读者互动，是追踪其言论与创作进展的固定资料索引，非单日新闻事件。",
-      "detailsZh": "事实层面，该网页系新浪微博平台设立的固定超话主页，URL结构表明其为长期维护的资料索引页，持续更新作者本人的公开博文与粉丝讨论。评论层面，作为核心社交阵地，此处内容具有较高的原始参考价值，便于读者直接获取一手信息，避免二次传播失真。传闻层面，需警惕部分第三方搬运账号在此发布未经核实的内部消息或断章取义的截图，此类内容缺乏来源佐证，不应视为有效动态。建议仅以作者本人认证账号发布的原文为准，定期归档关键节点发言。",
+      "titleZh": "新浪微博超话主页（固定资料入口）",
+      "summaryZh": "该链接为作者新浪微博官方超话聚合页，非单日动态。集中收录公开互动、读者二创及平台公告，属长期维护的固定交流入口。",
+      "detailsZh": "（事实）此页面系新浪微博基于关键词自动生成的超话索引，持续更新作者账号发布的公开微博及粉丝话题标签内容。（评论）作为核心社交平台阵地，其信息透明度较高，便于追踪作者近期宣发节奏与读者反馈倾向。（传闻）网传部分营销号曾利用该超话进行虚假抽奖或代刷数据，但超话管理组已多次清理违规内容，此类说法缺乏实据。建议直接访问作者认证账号获取一手资讯。",
       "keyPoints": [
-        "微博官方超话固定入口",
-        "收录日常发文与作品宣发",
-        "读者互动与讨论聚合地",
-        "需甄别第三方搬运与未证实传闻"
+        "属长期维护的固定超话索引，非时效性新闻",
+        "集中展示作者公开微博与读者话题互动",
+        "需警惕第三方营销号伪造活动信息"
       ],
       "category": "讨论",
       "importance": 3
@@ -198,16 +313,15 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站作品朗读与视频检索页",
-      "summaryZh": "该链接为B站关键词检索聚合页，聚焦大咕咕咕鸡作品的有声朗读、解说视频与历史存档。此为固定资料导航入口，用于集中查阅音视频衍生内容，非具体新闻事件。",
-      "detailsZh": "事实层面，该页面基于B站搜索算法生成，汇总了用户投稿、官方频道上传及历史录播中涉及该作者名称的视频条目，包含作品朗读音频与相关二创内容。评论层面，视频平台的多媒体形式有助于直观呈现文本节奏与演绎风格，对研究其叙事手法具有辅助意义，但需注意区分作者亲制内容与粉丝二创。传闻层面，部分标题党视频可能夸大情节或虚构关联剧情，此类内容仅为流量导向的娱乐加工，不具备文献价值。建议交叉比对原文与作者声明，理性看待衍生解读。",
+      "titleZh": "哔哩哔哩搜索聚合页（固定资料入口）",
+      "summaryZh": "该链接为B站站内搜索结果页，非特定视频。汇聚作品朗读音频、读者解说及历史切片，属动态更新的资源导航页。",
+      "detailsZh": "（事实）此为B站基于关键词检索生成的通用列表页，随用户上传行为实时变动，包含正版授权朗读、同人创作及搬运视频。（评论）该页面反映社区二次创作活跃度，是观察受众接受度的重要窗口，但算法推荐可能导致低质内容混入前列。（传闻）曾有传言称作者本人会定期在B站发布独家幕后花絮，经核实仅为粉丝剪辑合集，并无官方独占内容。建议通过作者认证频道订阅准确源。",
       "keyPoints": [
-        "B站关键词检索聚合入口",
-        "涵盖作品朗读与历史视频",
-        "区分官方内容与粉丝二创",
-        "警惕标题党与虚构剧情加工"
+        "属动态更新的站内搜索页，非独立内容",
+        "涵盖官方朗读、同人解说与历史切片",
+        "需甄别算法推送中的非官方搬运内容"
       ],
-      "category": "作品",
+      "category": "讨论",
       "importance": 3
     }
   ]
