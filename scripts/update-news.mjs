@@ -119,7 +119,13 @@ async function collect(apiKey) {
   for (const subject of Object.keys(SUBJECTS)) {
     const seen = new Set();
     const relevance = subject === "durant" ? /durant|杜兰特|kd\b/i : subject === "chenze" ? /陈泽|不是陈泽|泽哥|16001707/i : /大咕咕咕鸡|大咕咕咕咕鸡|佛摟蜜|佛搂蜜|张大锤|2146965345/i;
-    const items = collected.filter((item) => item.subject === subject && relevance.test(`${item.title} ${item.description} ${item.url}`)).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)).filter((item) => {
+    const items = collected.filter((item) => {
+      if (item.subject !== subject) return false;
+      const discovered = item.id.includes(":search:");
+      if (discovered && /热点小时报/.test(item.title)) return false;
+      const relevanceText = discovered ? `${item.title} ${item.url}` : `${item.title} ${item.description} ${item.url}`;
+      return relevance.test(relevanceText);
+    }).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)).filter((item) => {
       const key = item.title.toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]/g, "").slice(0, 80);
       if (!key || seen.has(key)) return false;
       seen.add(key); return true;
