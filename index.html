@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0a0a0a" />
+    <meta name="description" content="KD Daily：每小时由 AI 聚合、筛选并总结凯文·杜兰特最新动态。" />
+    <meta property="og:title" content="KD Daily · 杜兰特动态" />
+    <meta property="og:description" content="每小时 AI 更新，快速掌握 Kevin Durant 的比赛、伤病与场外动态。" />
+    <meta property="og:image" content="assets/og.png" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <title>KD Daily · 杜兰特动态</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;0,900&family=Noto+Sans+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="#top" aria-label="KD Daily 首页">
+          <span class="brand-mark">KD</span>
+          <span class="brand-copy">DAILY<small>杜兰特动态</small></span>
+        </a>
+        <div class="header-meta">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span>AI 自动更新</span>
+          <time id="header-time">读取中</time>
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="hero-copy">
+            <p class="eyebrow">KEVIN DURANT INTELLIGENCE FEED</p>
+            <h1 id="hero-title">关于 KD，<br /><em>重要的都在这里。</em></h1>
+            <p class="hero-deck">每小时聚合全球信息源，由百炼 AI 去重、翻译并提炼重点。少一点噪音，多一点判断。</p>
+            <div class="hero-actions">
+              <a class="primary-button" href="#latest">查看最新动态 <span>↘</span></a>
+              <span class="update-stamp">下次自动更新：<strong id="next-update">—</strong></span>
+            </div>
+          </div>
+          <div class="hero-visual" aria-label="凯文·杜兰特人物照片">
+            <div class="player-number" aria-hidden="true">35</div>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Kevin_Durant_Warriors_2019.jpg" alt="凯文·杜兰特在比赛中" />
+            <div class="visual-caption">
+              <span>© All-Pro Reels</span>
+              <a href="https://commons.wikimedia.org/wiki/File:Kevin_Durant_Warriors_2019.jpg" target="_blank" rel="noreferrer">CC BY-SA 2.0</a>
+            </div>
+          </div>
+        </section>
+
+        <section class="ticker" aria-label="杜兰特生涯关键词">
+          <div class="ticker-track">
+            <span>2× NBA CHAMPION</span><i>✦</i><span>4× OLYMPIC GOLD</span><i>✦</i><span>NBA MVP</span><i>✦</i><span>ALL-TIME SCORER</span><i>✦</i><span>2× FINALS MVP</span><i>✦</i>
+          </div>
+        </section>
+
+        <section class="news-section" id="latest" aria-labelledby="news-title">
+          <div class="section-heading">
+            <div>
+              <p class="section-index">01 / NEWSROOM</p>
+              <h2 id="news-title">最新动态</h2>
+            </div>
+            <div class="filters" role="group" aria-label="新闻筛选">
+              <button class="filter is-active" type="button" data-filter="all">全部</button>
+              <button class="filter" type="button" data-filter="重点">AI 精选</button>
+              <button class="filter" type="button" data-filter="比赛">比赛</button>
+              <button class="filter" type="button" data-filter="场外">场外</button>
+            </div>
+          </div>
+
+          <div class="lead-story" id="lead-story" aria-live="polite">
+            <div class="story-loading">正在接入最新情报…</div>
+          </div>
+          <div class="news-grid" id="news-grid"></div>
+          <div class="empty-state" id="empty-state" hidden>这个分类暂时没有新动态。</div>
+        </section>
+
+        <section class="ai-note" aria-labelledby="ai-title">
+          <div class="ai-orb" aria-hidden="true"><span>AI</span></div>
+          <div>
+            <p class="section-index">02 / HOW IT WORKS</p>
+            <h2 id="ai-title">一小时，一次重新判断。</h2>
+            <p>系统自动搜索中英文资讯，百炼模型负责识别重复报道、生成中文摘要、标注主题与信息价值。所有新闻都保留原文链接，AI 摘要仅供快速了解。</p>
+          </div>
+          <div class="ai-stats">
+            <div><strong>60<small>MIN</small></strong><span>更新频率</span></div>
+            <div><strong id="source-count">—</strong><span>本期来源</span></div>
+          </div>
+        </section>
+      </main>
+
+      <footer>
+        <a class="brand footer-brand" href="#top"><span class="brand-mark">KD</span><span class="brand-copy">DAILY</span></a>
+        <p>非官方球迷资讯站 · 与 Kevin Durant、NBA 或任何球队无隶属关系</p>
+        <p>AI 摘要可能存在误差，请以原始报道为准。</p>
+      </footer>
+    </div>
+    <script src="script.js" defer></script>
+  </body>
+</html>
