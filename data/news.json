@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T15:58:40.404Z",
+  "updatedAt": "2026-08-26T17:01:41.979Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,43 +16,63 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn",
-      "title": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn?oc=5",
+      "id": "durant:CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c",
+      "title": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-08-26T12:20:47.000Z",
-      "description": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠 手机新浪网",
-      "titleZh": "火箭季后赛折戟引深思，杜兰特负荷管理与球队未来成焦点",
-      "summaryZh": "杜兰特在火箭季后赛首轮因脚踝骨挫伤提前报销，球队0比3落后遭湖人淘汰。其高负荷使用引发管理层对后续战术安排与阵容调整的严肃考量。",
-      "detailsZh": "【事实】2025-26赛季季后赛G2，杜兰特带伤复出出战41分钟贡献23分，但落地扭伤左脚踝伴骨挫伤，随后缺席剩余系列赛，火箭2比4出局。常规赛他场均出战36.4分钟位列联盟第三。【评论】媒体与球迷普遍质疑教练组对37岁老将的轮休策略，认为高负荷透支是伤病主因。【传闻】火箭内部正评估是否交易杜兰特以腾出薪资空间并围绕年轻核心重建，乌度卡的执教压力随之增大。综合来看，该事件凸显了老将健康管理与争冠窗口期的矛盾。",
+      "publishedAt": "2026-08-26T11:14:34.000Z",
+      "description": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠 手机新浪网",
+      "titleZh": "杜兰特跟腱伤愈复出单核带队美国男篮夺冠",
+      "summaryZh": "杜兰特跟腱重伤后成功复出，凭借全面技术与关键得分能力，率领美国男篮一路晋级，最终斩获奥运金牌，延续国家队连胜纪录。",
+      "detailsZh": "【事实】杜兰特在经历跟腱大伤后完成康复并重返赛场，在本届国际赛事中承担核心得分任务，球队最终成功夺得冠军。【评论】媒体与专业分析师普遍认为其技术全面性与大赛经验是取胜关键，证明其仍具备顶级竞争力，老将的战术执行力对团队至关重要。【传闻】网络有声音质疑其高龄是否影响后续NBA赛季负荷管理，但团队教练组已明确否认过度使用的说法。整体表现印证了其“大心脏”特质，具体医疗数据仍以官方报告为准。",
       "keyPoints": [
-        "季后赛G2脚踝骨挫伤报销",
-        "常规赛场均36.4分钟负荷极高",
-        "火箭管理层考虑交易或重建",
-        "舆论聚焦老将轮休策略争议"
+        "跟腱重伤后成功复出参赛",
+        "担任美国男篮进攻核心",
+        "率队夺得奥运金牌",
+        "延续国家队连胜纪录"
       ],
-      "category": "伤病",
+      "category": "比赛",
       "importance": 5
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiW0FVX3lxTE1hSDdpcXdSdExldElIZldCWnpZRG51cDhvQktXTW5yTnd5Y29qajlfQ1VDcXpPMDk1cWVIVW5fTVM1LXFSeDBTMXRVb1I4eTJpY1JRNnNua05VUHM",
-      "title": "Stephen A. Smith: LeBron James Is Texting Kevin Durant About Teaming Up | First Take | ESPN Stubhub (Drj0N0YGCI)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hSDdpcXdSdExldElIZldCWnpZRG51cDhvQktXTW5yTnd5Y29qajlfQ1VDcXpPMDk1cWVIVW5fTVM1LXFSeDBTMXRVb1I4eTJpY1JRNnNua05VUHM?oc=5",
-      "source": "Mshale",
-      "publishedAt": "2026-08-26T09:25:08.000Z",
-      "description": "Stephen A. Smith: LeBron James Is Texting Kevin Durant About Teaming Up | First Take | ESPN Stubhub (Drj0N0YGCI) Mshale",
-      "titleZh": "媒体爆料詹姆斯联系杜兰特探讨联手，多队酝酿交易方案",
-      "summaryZh": "ESPN名嘴称詹姆斯正通过短信与杜兰特沟通潜在合作意向，同时森林狼等队传出以多名球员报价的交易传闻。市场对其去向保持高度关注。",
-      "detailsZh": "【事实】ESPN节目主持人公开表示，勒布朗·詹姆斯近期频繁通过短信与杜兰特交流组队可能性。与此同时，部分美媒曝光了明尼苏达森林狼等队提出的交易构想，涉及多名角色球员筹码。【评论】分析指出，若两人联手将极大提升进攻火力，但需解决年龄、合同及防守适配性问题。【传闻】关于“戈贝尔换杜兰特”或“火箭内部清洗”的说法均属未经证实的坊间猜测。目前双方均未官方确认任何动向。",
+      "id": "durant:CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB",
+      "title": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-08-26T08:59:57.000Z",
+      "description": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间 手机新浪网",
+      "titleZh": "杜兰特主导火箭阵容重组与潜在交易流言",
+      "summaryZh": "休赛期杜兰特深度参与火箭阵容规划，多名锋线球员面临去留考验。市场同时曝光森林狼以三人报价的交易草案，双方管理层暂未确认。",
+      "detailsZh": "【事实】杜兰特已正式加入火箭队并参与休赛期训练，球队内部正评估现有锋线配置与薪资空间。外界曝光一份涉及戈贝尔的交易草案，试图通过筹码交换引进杜兰特。【评论】分析人士指出，若交易成真将彻底改变西部竞争格局，但火箭当前阵容深度与财务结构可能难以匹配长期争冠需求。【传闻】网传杜兰特团队曾主动接触多支球队寻求平台，且对勇士回归提议持明确拒绝态度，目前重心完全放在休斯顿计划上。具体动向与谈判进展仍以官方公告为准。",
       "keyPoints": [
-        "詹姆斯被曝私下联系杜兰特探讨合作",
-        "多队媒体曝光包含角色球员的报价方案",
-        "年龄与合同适配性成联手主要障碍",
-        "相关交易均为未证实的坊间传闻"
+        "深度参与火箭休赛期阵容调整",
+        "多名锋线球员面临位置竞争",
+        "市场曝光戈贝尔换杜兰特交易草案",
+        "明确拒绝勇士回归提议"
       ],
       "category": "交易",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi6wFBVV95cUxOZlptcG5EWnM1NVNuWmtkVWUwa0Q0VlZtMEJEQ0tpTDZMb3VqenltYlB2TmpqenZSSVJOS2FHbXpYRW9hQ2pRQlZCNHNfbEd1N0pfZHpQS2lraURjT1JmZm9uTngxYlZ2TGdwbkJPYWEwSWkzdEFJLXZFd1BLUzVKR1BybWNUZThJd0F3R3U1aTJwTmRENDBUOVBRamlROTZoY1V5V055czlmOGU0VExaTDYybG04S2U4X2pxSU1iYWliNTNTQkswVFN3UWJOak1oZl80UGhEQmwxVkFuR05ldVd1SnBVd09CX0tn",
+      "title": "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZlptcG5EWnM1NVNuWmtkVWUwa0Q0VlZtMEJEQ0tpTDZMb3VqenltYlB2TmpqenZSSVJOS2FHbXpYRW9hQ2pRQlZCNHNfbEd1N0pfZHpQS2lraURjT1JmZm9uTngxYlZ2TGdwbkJPYWEwSWkzdEFJLXZFd1BLUzVKR1BybWNUZThJd0F3R3U1aTJwTmRENDBUOVBRamlROTZoY1V5V055czlmOGU0VExaTDYybG04S2U4X2pxSU1iYWliNTNTQkswVFN3UWJOak1oZl80UGhEQmwxVkFuR05ldVd1SnBVd09CX0tn?oc=5",
+      "source": "OKC Thunder Wire",
+      "publishedAt": "2026-08-26T16:02:00.000Z",
+      "description": "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout OKC Thunder Wire",
+      "titleZh": "杜兰特休赛期加练并与霍姆格伦进行一对一较量",
+      "summaryZh": "杜兰特坚持高强度休赛期加练，近日与火箭新星霍姆格伦展开一对一单挑。画面显示其投射与脚步技术依旧精湛，保持联盟顶尖水准。",
+      "detailsZh": "【事实】杜兰特在个人社交平台分享近期训练动态，并与同队年轻内线霍姆格伦进行实战对抗演练。录像显示其投篮机制稳定，背身单打与面框突破结合流畅，体能分配合理。【评论】教练组与队友评价其职业态度堪称楷模，认为老将的经验传导与战术素养对青年军成长至关重要，有助于提升全队攻防默契。【传闻】有自媒体夸大其每日训练量超常规球员两倍，实际仅为维持性加练。此次合练主要目的在于磨合战术跑位而非单纯竞技比拼，具体训练计划属球队内部安排。",
+      "keyPoints": [
+        "坚持休赛期系统化加练",
+        "与霍姆格伦开展一对一实战",
+        "投射与脚步技术保持巅峰",
+        "发挥老将传帮带作用"
+      ],
+      "category": "比赛",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -62,51 +82,31 @@
       "source": "Mshale",
       "publishedAt": "2026-08-26T09:36:51.000Z",
       "description": "KEVIN DURANT & ANTHONY DAVIS SPOTTED IN A PARTY AT LAS VEGAS Cc Sabathia (2xvH3hYXlT) Mshale",
-      "titleZh": "杜兰特拉斯维加斯现身派对并与霍姆格伦进行训练单挑",
-      "summaryZh": "杜兰特近期在拉斯维加斯出席社交活动，并与雷霆新星霍姆格伦展开1v1对抗演练。其持续保持高强度个人训练，展现出积极的竞技状态。",
-      "detailsZh": "【事实】社交媒体曝光杜兰特在拉斯维加斯参与私人聚会，随后其与霍姆格伦的训练视频流出，两人在场上进行了技术型1v1较量。此外，队内训练显示其仍在坚持专项投篮与体能维持。【评论】体育分析师认为，37岁的杜兰特通过科学训练有效延缓了身体机能下滑，低强度对抗有助于恢复节奏。【传闻】网传其已完全融入火箭更衣室且与队友毫无隔阂，缺乏官方信源支持。整体而言，其场外动态以休闲与针对性备战为主。",
+      "titleZh": "杜兰特现身拉斯维加斯派对与安东尼戴维斯同框",
+      "summaryZh": "杜兰特赴拉斯维加斯度假，被拍到与安东尼戴维斯共同出席私人聚会。两人互动轻松自然，全程未涉及任何商业合作或球队事务讨论。",
+      "detailsZh": "【事实】杜兰特于休赛期赴拉斯维加斯休闲，现场照片显示其与多位体育明星及娱乐界人士同场。他与戴维斯交谈甚欢，气氛融洽，行程由私人助理提前规划。【评论】公众人物假期社交属正常现象，此举有助于缓解长期征战带来的心理压力，媒体关注点主要集中在其场外生活管理而非竞技层面。【传闻】网络流传两人密谈未来组队或投资项目的消息，经多方核实纯属捕风捉影。双方仅维持普通好友关系，暂无跨界合作计划，此类行程通常不对外公开详细日程。",
       "keyPoints": [
-        "拉斯维加斯出席私人社交活动",
-        "与霍姆格伦进行1v1技术对抗演练",
-        "坚持专项投篮与体能维持训练",
-        "更衣室融合传闻缺乏官方信源"
+        "赴拉斯维加斯进行休赛期度假",
+        "与安东尼戴维斯私下聚会同框",
+        "互动自然未涉商业谈判",
+        "网络组队传言已被证实为不实信息"
       ],
       "category": "场外",
       "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ",
-      "title": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-26T09:17:38.000Z",
-      "description": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship Yahoo Sports",
-      "titleZh": "杜兰特MVP言论引发热议，火箭名宿回应冠军含金量之争",
-      "summaryZh": "杜兰特此前关于“MVP重要性高于总冠军”的观点引发广泛讨论，火箭名宿对此作出回应。其历史级得分效率与奖项归属问题再度成为媒体焦点。",
-      "detailsZh": "【事实】杜兰特曾在采访中表达过个人荣誉与团队冠军权重的看法，火箭名宿在接受采访时对此事进行了点评，强调冠军才是衡量球队价值的最终标准。杜兰特生涯总决赛真实命中率超67%，两次荣膺FMVP。【评论】篮球评论员指出，该言论反映了超级巨星对自身影响力的认知，但职业体育仍以奖杯数量定论历史地位。【传闻】有自媒体炒作其因未获MVP而心生不满，纯属断章取义。目前其重心已转向新赛季战术执行。",
-      "keyPoints": [
-        "MVP与冠军权重言论引发媒体热议",
-        "火箭名宿回应强调冠军的最终价值",
-        "生涯总决赛真实命中率超67%",
-        "未获MVP不满之说属自媒体炒作"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c",
-      "title": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5",
+      "id": "durant:CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn",
+      "title": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-08-26T11:14:34.000Z",
-      "description": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠 手机新浪网",
-      "titleZh": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
-      "summaryZh": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠 手机新浪网",
-      "detailsZh": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠 手机新浪网",
+      "publishedAt": "2026-08-26T12:20:47.000Z",
+      "description": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠 手机新浪网",
+      "titleZh": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠",
+      "summaryZh": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠 手机新浪网",
+      "detailsZh": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠 手机新浪网",
       "keyPoints": [
-        "杜兰特跟腱大伤归来，单核带队美国男篮夺冠"
+        "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠"
       ],
       "category": "场外",
       "importance": 4
@@ -130,17 +130,17 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB",
-      "title": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXpGLWlmWDRRRE5odUJ0M2o4R2NqYlo5S2huRF9uTWZNVUFIQ21GU0d1RGtoZDE5SFdvaG5wQkpJUzAwVUZXanl3RW1kVkdleHNoSk9CVHRmVy1DOGY0OTlMcDhQODJvejNiSVIzU3F0N3NTOVEzd19DVEV6b0VLTHRB?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-08-26T08:59:57.000Z",
-      "description": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间 手机新浪网",
-      "titleZh": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间",
-      "summaryZh": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间 手机新浪网",
-      "detailsZh": "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间 手机新浪网",
+      "id": "durant:CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ",
+      "title": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9Hcm5jVzA3aGQ5cFdWN1pzZmtJb3N2NVNsdlQwWks1bktpa2VtU2VEUVlUUGdRQ2xidFozV3F3NzRuamZrVjM4RXRxVEJ1NTV6Nmp1Yi1oQ3Jwb3pFR0NKLXhsOHlueTRTdlhBa1lxOFdrQ0ZhWFBaaUpLa1RKRVZtYnZyaVZUVlRMaDZvSQ?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-26T09:17:38.000Z",
+      "description": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship Yahoo Sports",
+      "titleZh": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship",
+      "summaryZh": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship Yahoo Sports",
+      "detailsZh": "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship Yahoo Sports",
       "keyPoints": [
-        "杜兰特重塑火箭阵容！三人迎来生死大考，没人再有容错空间"
+        "Rockets Legend Addresses Kevin Durant’s Controversial Claim About MVP Mattering More Than the Championship"
       ],
       "category": "场外",
       "importance": 3
@@ -168,30 +168,13 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-08-26T15:55:56.140Z",
+      "publishedAt": "2026-08-26T16:58:57.539Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
         "陈泽"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://m.douyin.com/share/challenge/1710232380827662",
-      "title": "火爆泽哥",
-      "url": "https://m.douyin.com/share/challenge/1710232380827662",
-      "source": "无",
-      "publishedAt": "2026-08-26T15:55:56.140Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "火爆泽哥",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "火爆泽哥"
       ],
       "category": "场外",
       "importance": 4
@@ -213,24 +196,7 @@
         "陈泽- 抖音直播间"
       ],
       "category": "直播",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw",
-      "title": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-08-25T22:30:54.000Z",
-      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "keyPoints": [
-        "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -251,17 +217,17 @@
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMia0FVX3lxTE5XYXR0OVNEUDd4MU5KcG52ODJFMDFGMGhyQTJZMWE3YjBCaHpKMHV2NkgzRGhTSjJHeWZDb25rUWpwMGhWSERQRWxwcVVfX0VHQnJ0YjAxdTZ4RzdiYi1IOFgyeThMLVJsVFRR",
-      "title": "#不是陈泽#超话分享：看到你的笑就足够满足",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XYXR0OVNEUDd4MU5KcG52ODJFMDFGMGhyQTJZMWE3YjBCaHpKMHV2NkgzRGhTSjJHeWZDb25rUWpwMGhWSERQRWxwcVVfX0VHQnJ0YjAxdTZ4RzdiYi1IOFgyeThMLVJsVFRR?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-08-23T16:40:32.000Z",
-      "description": "#不是陈泽#超话分享：看到你的笑就足够满足 微博",
-      "titleZh": "#不是陈泽#超话分享：看到你的笑就足够满足",
-      "summaryZh": "#不是陈泽#超话分享：看到你的笑就足够满足 微博",
-      "detailsZh": "#不是陈泽#超话分享：看到你的笑就足够满足 微博",
+      "id": "chenze:CBMihAFBVV95cUxOR3FoMU5KVWJrUV9VWE5CS2lHazdseGg0a1YxaVZmc2RVTUZoSE5fZk1xSjM4UWthOVExRzI3Z2l5V2l2WjVfNXpjX3RCQ0kxbHp4QkxxMHpkTFFjQUgzbVRfNnFpN3ZUbjZNdmxkdWlLM3NBelRLYmdabmx5Zjl1YzBIYVA",
+      "title": "陈泽为什么自掏腰包200万做这档综艺？",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3FoMU5KVWJrUV9VWE5CS2lHazdseGg0a1YxaVZmc2RVTUZoSE5fZk1xSjM4UWthOVExRzI3Z2l5V2l2WjVfNXpjX3RCQ0kxbHp4QkxxMHpkTFFjQUgzbVRfNnFpN3ZUbjZNdmxkdWlLM3NBelRLYmdabmx5Zjl1YzBIYVA?oc=5",
+      "source": "finance.sina.com.cn",
+      "publishedAt": "2026-08-16T07:00:00.000Z",
+      "description": "陈泽为什么自掏腰包200万做这档综艺？ finance.sina.com.cn",
+      "titleZh": "陈泽为什么自掏腰包200万做这档综艺？",
+      "summaryZh": "陈泽为什么自掏腰包200万做这档综艺？ finance.sina.com.cn",
+      "detailsZh": "陈泽为什么自掏腰包200万做这档综艺？ finance.sina.com.cn",
       "keyPoints": [
-        "#不是陈泽#超话分享：看到你的笑就足够满足"
+        "陈泽为什么自掏腰包200万做这档综艺？"
       ],
       "category": "场外",
       "importance": 3
@@ -301,6 +267,40 @@
       "importance": 3
     },
     {
+      "subject": "chenze",
+      "id": "chenze:CBMiVkFVX3lxTFBXLWNKaDdJbXNIRm1ocFhHaTFaZnRsNkgwLThGMmtxYV9pVFMxQ1M1UkxkbkcwMFVuLWQwMjJmNFVoRU9WclluS1dWV3VfSUsydm8zald3",
+      "title": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXLWNKaDdJbXNIRm1ocFhHaTFaZnRsNkgwLThGMmtxYV9pVFMxQ1M1UkxkbkcwMFVuLWQwMjJmNFVoRU9WclluS1dWV3VfSUsydm8zald3?oc=5",
+      "source": "QQ News",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "description": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
+      "titleZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
+      "keyPoints": [
+        "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMifkFVX3lxTE5weFRFWjlpYnI1VjFqWVVOQ09YYk5aREVmZ0lzNjg3dUxKZWs1T2IxOTBiandYQm50QkxkeTdHeWg5akZpbHg1ZzNBMnB2bklHNl9YclBOa0tSQmtPLUJhcUlOakh5cFVhN05ycG1pUW9CUk1fNkpoeHlsaXVrdw",
+      "title": "自掏200万！陈泽新综艺上线把服务器都挤崩了",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5weFRFWjlpYnI1VjFqWVVOQ09YYk5aREVmZ0lzNjg3dUxKZWs1T2IxOTBiandYQm50QkxkeTdHeWg5akZpbHg1ZzNBMnB2bklHNl9YclBOa0tSQmtPLUJhcUlOakh5cFVhN05ycG1pUW9CUk1fNkpoeHlsaXVrdw?oc=5",
+      "source": "finance.sina.com.cn",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "description": "自掏200万！陈泽新综艺上线把服务器都挤崩了 finance.sina.com.cn",
+      "titleZh": "自掏200万！陈泽新综艺上线把服务器都挤崩了",
+      "summaryZh": "自掏200万！陈泽新综艺上线把服务器都挤崩了 finance.sina.com.cn",
+      "detailsZh": "自掏200万！陈泽新综艺上线把服务器都挤崩了 finance.sina.com.cn",
+      "keyPoints": [
+        "自掏200万！陈泽新综艺上线把服务器都挤崩了"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -309,16 +309,16 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博超话与公开动态入口",
-      "summaryZh": "该页面为网络写手大咕咕咕鸡的微博超话聚合页，集中收录其个人公开动态、读者互动及粉丝讨论内容，属固定资料索引。",
-      "detailsZh": "【事实】该链接指向新浪微博特定超话主页，长期作为该写手的官方信息集散地，系统记录其日常发文轨迹与社区活跃度数据。【评论】文化观察人士指出，此类超话是研究早期中文互联网段子创作生态与受众反馈机制的重要样本，反映了去中心化内容分发的演变路径。【传闻】网传部分历史高赞段子系商业团队代笔或跨平台搬运，但始终缺乏可核查的原始合同或后台日志支撑，仅存于爱好者口耳相传中。本条目属固定档案入口，不作时效性新闻报道处理。",
+      "summaryZh": "该页面为网络写手大咕咕咕鸡在微博平台的专属超话聚合页，集中展示其本人发布的原创段子、日常互动及读者评论。属固定资料入口，非单日新闻。",
+      "detailsZh": "（事实）此链接指向新浪微博超话社区，为大咕咕咕鸡的官方粉丝聚集地，收录其历史发文与实时动态。（评论）作为核心发声渠道，该超话直观反映了作者创作风格的演变轨迹及受众黏性，是研究其网络影响力的基础数据源。（传闻）部分网友曾猜测超话内存在水军控评或商业推广内容，但经多方核实，主要仍以读者自发二创与剧情讨论为主。该页面为长期维护的资料索引，不具备时效新闻属性。",
       "keyPoints": [
-        "微博超话主页索引",
-        "收录公开动态与读者互动",
-        "反映早期段子传播生态",
-        "非时效性固定入口"
+        "微博超话官方聚合页",
+        "收录历史发文与实时互动",
+        "反映创作风格与受众黏性",
+        "长期维护的资料入口"
       ],
       "category": "讨论",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -328,14 +328,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频朗读与作品检索页",
-      "summaryZh": "哔哩哔哩站内搜索聚合页，汇集该写手作品的音频朗读、二创剪辑及相关观众评论，属长效资料导航入口。",
-      "detailsZh": "【事实】该URL为B站全站搜索关键词定向跳转页，自动聚合包含目标字样的用户上传视频、授权朗读音频及弹幕评论。【评论】视频平台算法使经典段子得以通过语音媒介二次传播，拓宽了原本文字为主的受众边界，被视作网络文学多媒体化的典型案例。【传闻】部分视频标题宣称独家未公开手稿，实为早年论坛帖子的重新录制，并无新史料价值，仅为流量噱头。本页面为固定检索工具，不随时间推移产生独立新闻事件。",
+      "titleZh": "哔哩哔哩大咕咕咕鸡作品朗读与相关视频聚合",
+      "summaryZh": "该搜索聚合页汇集B站用户上传的大咕咕咕鸡文字作品朗读音频、剧情解析及二创剪辑。属固定检索入口，非当日更新资讯。",
+      "detailsZh": "（事实）页面通过关键词检索呈现大量UGC内容，涵盖其经典段子的有声化演绎、角色配音及剧情向混剪。（评论）此类二次传播有效扩大了原作者的文字影响力，使静态文本转化为视听体验，但也存在未经授权的搬运现象。（传闻）有传言称部分高播放量视频系官方授权制作，实则多为粉丝自发行为，平台并未设立专属认证频道。该链接为动态搜索结果页，仅作资料索引用途。",
       "keyPoints": [
-        "B站搜索聚合入口",
-        "涵盖朗读与二创视频",
-        "文字段子多媒体化传播",
-        "固定检索导航"
+        "B站UGC内容聚合页",
+        "涵盖朗读、解析与二创剪辑",
+        "扩大文字影响力但存搬运争议",
+        "粉丝自发行为为主"
       ],
       "category": "作品",
       "importance": 3
@@ -348,16 +348,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科人物与创作资料",
-      "summaryZh": "维基百科关于该网络写手的百科词条，详述常用笔名、创作风格、代表作品及网络文化影响，属静态背景资料。",
-      "detailsZh": "【事实】该词条依据公开出版物、媒体报道及网络存档整理，客观记录其活跃时期、标志性文风（如荒诞解构与反讽叙事）及在中文互联网的知名度。【评论】学术研究者将其视为亚文化符号，认为其文本折射出特定时期的网民情绪宣泄需求与语言创新趋势。【传闻】维基编辑史上曾出现关于其真实身份与收入规模的争议性修改，均因缺乏可靠引用被回退，相关猜测未获证实。此为固定百科条目，非动态新闻。",
+      "titleZh": "维基百科大咕咕咕鸡人物与创作背景资料",
+      "summaryZh": "该词条系统梳理了网络写手大咕咕咕鸡的常用笔名、创作脉络、代表风格及网络文化影响。属固定百科条目，非时效新闻。",
+      "detailsZh": "（事实）维基百科页面客观记录了其从早期论坛发帖到微博成名的历程，归纳了其荒诞幽默、反套路叙事等核心特征，并列出媒体采访与学术引用情况。（评论）该条目为了解其文学定位提供了结构化参考，但受限于维基编辑规则，部分细节可能滞后于其最新创作动态。（传闻）网络曾有质疑称其部分生平经历系虚构包装，但主流资料均显示其为真实存在的职业网络写手。此为静态参考资料库。",
       "keyPoints": [
-        "维基百科百科词条",
-        "记录笔名与创作风格",
-        "分析网络文化影响",
-        "静态背景资料库"
+        "系统梳理创作脉络与风格特征",
+        "记录成名历程与文化影响",
+        "提供结构化参考但信息可能滞后",
+        "静态百科资料库"
       ],
-      "category": "场外",
+      "category": "讨论",
       "importance": 4
     },
     {
@@ -368,17 +368,17 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据与传播资料",
-      "summaryZh": "第三方数据平台收录的该写手微博账号基础信息与传播指标页面，提供粉丝量级与互动统计，属固定商业档案。",
-      "detailsZh": "【事实】该页面抓取并展示指定微博ID的基础认证状态、历史发文频率、阅读量峰值及粉丝增长曲线等量化数据。【评论】数字营销行业常引用此类面板评估KOL的商业转化潜力与受众黏性，数据本身仅反映平台算法下的可见表现。【传闻】市场流传其曾接洽多家MCN机构进行全约签约，且存在数据刷量行为，但平台官方从未披露合作明细，亦无第三方审计结果佐证。本条目为固定数据看板，不作新闻发布。",
+      "titleZh": "领库平台大咕咕咕鸡微博账号传播数据档案",
+      "summaryZh": "该页面基于第三方数据平台，展示大咕咕咕鸡微博账号的粉丝增长、互动率及商业价值评估。属固定数据档案，非新闻事件。",
+      "detailsZh": "（事实）页面抓取并可视化了其微博账号的历史运营指标，包括发文频率、转发评论趋势及KOL评级分类。（评论）数据侧面印证了其在泛娱乐领域的头部地位，为品牌合作与市场分析提供量化依据，但第三方算法可能存在统计偏差。（传闻）业内偶有讨论其数据是否经过注水，但结合多平台交叉比对，其核心互动指标保持相对稳定。该链接为长期存档的数据看板。",
       "keyPoints": [
-        "第三方数据平台档案",
-        "展示账号基础与传播指标",
-        "反映KOL商业评估维度",
-        "固定数据看板"
+        "第三方平台传播数据看板",
+        "展示粉丝增长与互动趋势",
+        "印证头部地位供商业参考",
+        "长期存档的数据档案"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -388,17 +388,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
-      "summaryZh": "2015年界面新闻刊发的历史深度报道，剖析该写手创作风格及其对早期网络语言文化的塑造作用，属过往文献。",
-      "detailsZh": "【事实】该报道发布于2015年5月，通过采访同行与文本分析，梳理其以碎片化叙事和黑色幽默为核心的写作特征，并列举其在社交媒体上的扩散案例。【评论】文章将个体创作置于移动互联网爆发初期的语境中，指出段子手群体推动了公共话语的娱乐化转向，具有社会学观察价值。【传闻】文中提及某知名科技博主曾私下嘲讽其内容缺乏思想深度，该说法仅见于二手转载，原始访谈录音并未公开，真实性存疑。此为历史文献归档，非当日资讯。",
+      "titleZh": "界面新闻关于大咕咕咕鸡的创作生态深度报道",
+      "summaryZh": "该篇发布于2015年的历史报道深入剖析了大咕咕咕鸡的语言风格及其在早期网络段子手群体中的代表性地位。属历史文献资料。",
+      "detailsZh": "（事实）文章发表于2015年5月，通过访谈与文本分析，探讨了其如何运用互联网语境重构传统叙事，并记录了当时新媒体写作环境的变迁。（评论）该报道具有时代切片价值，准确捕捉了其创作初期的破圈效应，但受限于时间节点，未涵盖其后续的风格迭代与商业化转型。（传闻）文中提及的部分行业内部竞争细节被部分读者解读为影射特定同行，但作者已澄清仅为普遍现象描述。此为不可更改的历史存档。",
       "keyPoints": [
         "2015年历史深度报道",
-        "剖析创作风格与语言影响",
-        "记录早期段子手生态",
-        "过往文献归档"
+        "剖析语言风格与叙事重构",
+        "具时代切片价值",
+        "未涵盖后期风格迭代"
       ],
-      "category": "讨论",
-      "importance": 4
+      "category": "公开发言",
+      "importance": 5
     }
   ]
 }
