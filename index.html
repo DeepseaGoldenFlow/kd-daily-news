@@ -4,21 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#0a0a0a" />
-    <meta name="description" content="KD Daily：每小时由 AI 聚合、筛选并总结凯文·杜兰特最新动态。" />
-    <meta property="og:title" content="KD Daily · 杜兰特动态" />
-    <meta property="og:description" content="每小时 AI 更新，快速掌握 Kevin Durant 的比赛、伤病与场外动态。" />
+    <meta name="description" content="Follow Daily：每小时由 AI 聚合并总结杜兰特、陈泽和大咕咕咕鸡的全网动态。" />
+    <meta property="og:title" content="Follow Daily · 我的关注" />
+    <meta property="og:description" content="三个关注对象，一个简洁的信息入口。每小时 AI 更新。" />
     <meta property="og:image" content="assets/og.png" />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
-    <title>KD Daily · 杜兰特动态</title>
+    <title>Follow Daily · 我的关注</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div class="page-shell">
       <header class="site-header">
-        <a class="brand" href="#top" aria-label="KD Daily 首页">
-          <span class="brand-mark">KD</span>
-          <span class="brand-copy">DAILY<small>杜兰特动态</small></span>
+        <a class="brand" href="#top" aria-label="Follow Daily 首页">
+          <span class="brand-mark">F</span>
+          <span class="brand-copy">FOLLOW<small>我的关注</small></span>
         </a>
         <div class="header-meta">
           <span class="live-dot" aria-hidden="true"></span>
@@ -27,23 +27,21 @@
         </div>
       </header>
 
+      <nav class="people-tabs" aria-label="关注的人">
+        <button class="person-tab is-active" type="button" data-subject="durant" aria-selected="true">杜兰特</button>
+        <button class="person-tab" type="button" data-subject="chenze" aria-selected="false">陈泽</button>
+        <button class="person-tab" type="button" data-subject="dagu" aria-selected="false">大咕咕咕咕鸡</button>
+      </nav>
+
       <main id="top">
         <section class="hero" aria-labelledby="hero-title">
           <div class="hero-copy">
-            <p class="eyebrow">KEVIN DURANT INTELLIGENCE FEED</p>
-            <h1 id="hero-title">关于 KD，<br /><em>重要的都在这里。</em></h1>
-            <p class="hero-deck">每小时聚合全球信息源，由百炼 AI 去重、翻译并提炼重点。少一点噪音，多一点判断。</p>
+            <p class="eyebrow" id="subject-eyebrow">KEVIN DURANT</p>
+            <h1 id="hero-title">杜兰特</h1>
+            <p class="hero-deck" id="subject-deck">比赛、伤病、交易与场外动态，由 AI 每小时整理。</p>
             <div class="hero-actions">
               <a class="primary-button" href="#latest">查看最新动态 <span>↘</span></a>
               <span class="update-stamp">下次自动更新：<strong id="next-update">—</strong></span>
-            </div>
-          </div>
-          <div class="hero-visual" aria-label="凯文·杜兰特人物照片">
-            <div class="player-number" aria-hidden="true">35</div>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Kevin_Durant_Warriors_2019.jpg" alt="凯文·杜兰特在比赛中" />
-            <div class="visual-caption">
-              <span>© All-Pro Reels</span>
-              <a href="https://commons.wikimedia.org/wiki/File:Kevin_Durant_Warriors_2019.jpg" target="_blank" rel="noreferrer">CC BY-SA 2.0</a>
             </div>
           </div>
         </section>
@@ -60,12 +58,7 @@
               <p class="section-index">01 / NEWSROOM</p>
               <h2 id="news-title">最新动态</h2>
             </div>
-            <div class="filters" role="group" aria-label="新闻筛选">
-              <button class="filter is-active" type="button" data-filter="all">全部</button>
-              <button class="filter" type="button" data-filter="重点">AI 精选</button>
-              <button class="filter" type="button" data-filter="比赛">比赛</button>
-              <button class="filter" type="button" data-filter="场外">场外</button>
-            </div>
+            <div class="filters" id="filters" role="group" aria-label="动态筛选"></div>
           </div>
 
           <div class="lead-story" id="lead-story" aria-live="polite">
@@ -80,7 +73,7 @@
           <div>
             <p class="section-index">02 / HOW IT WORKS</p>
             <h2 id="ai-title">一小时，一次重新判断。</h2>
-            <p>系统自动搜索中英文资讯，百炼模型负责识别重复报道、生成中文摘要、标注主题与信息价值。所有新闻都保留原文链接，AI 摘要仅供快速了解。</p>
+            <p>系统分别搜索三人的新闻、直播、节目、作品与公开讨论，百炼模型负责核实、去重和生成站内摘要。原始链接保留在文章底部。</p>
           </div>
           <div class="ai-stats">
             <div><strong>60<small>MIN</small></strong><span>更新频率</span></div>
@@ -90,8 +83,8 @@
       </main>
 
       <footer>
-        <a class="brand footer-brand" href="#top"><span class="brand-mark">KD</span><span class="brand-copy">DAILY</span></a>
-        <p>非官方球迷资讯站 · 与 Kevin Durant、NBA 或任何球队无隶属关系</p>
+        <a class="brand footer-brand" href="#top"><span class="brand-mark">F</span><span class="brand-copy">FOLLOW</span></a>
+        <p>非官方关注资讯站 · 与相关人物、平台或机构无隶属关系</p>
         <p>AI 摘要可能存在误差，请以原始报道为准。</p>
       </footer>
     </div>
@@ -100,8 +93,8 @@
       <div class="reader-shell">
         <header class="reader-header">
           <button class="brand reader-home" type="button" aria-label="返回 KD Daily 首页">
-            <span class="brand-mark">KD</span>
-            <span class="brand-copy">DAILY<small>站内速读</small></span>
+            <span class="brand-mark">F</span>
+            <span class="brand-copy">FOLLOW<small>站内速读</small></span>
           </button>
           <button class="reader-close" type="button" aria-label="返回新闻列表"><span>←</span> 返回动态</button>
         </header>

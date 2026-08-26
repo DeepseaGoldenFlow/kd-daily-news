@@ -1,4 +1,9 @@
-const state = { news: [], filter: "all", updatedAt: null };
+const SUBJECTS = {
+  durant: { name: "杜兰特", eyebrow: "KEVIN DURANT", deck: "比赛、伤病、交易与场外动态，由 AI 每小时整理。", filters: ["all", "重点", "比赛", "交易"] },
+  chenze: { name: "陈泽", eyebrow: "CHEN ZE", deck: "直播、节目、合作与全网讨论，过滤同名信息后呈现。", filters: ["all", "重点", "直播", "节目"] },
+  dagu: { name: "大咕咕咕咕鸡", eyebrow: "DAGUGUGUJI", deck: "作品、公开发言与相关讨论，兼顾常用笔名和历史内容。", filters: ["all", "重点", "作品", "场外"] }
+};
+const state = { news: [], subject: "durant", filter: "all", updatedAt: null };
 const reader = document.querySelector("#story-reader");
 const home = document.querySelector(".page-shell");
 
@@ -23,9 +28,10 @@ const formatDate = (iso, withTime = false) => {
 };
 
 function render() {
+  const subjectNews = state.news.filter((item) => (item.subject || "durant") === state.subject);
   const filtered = state.filter === "all"
-    ? state.news
-    : state.news.filter((item) => item.category === state.filter || (state.filter === "重点" && item.importance >= 4));
+    ? subjectNews
+    : subjectNews.filter((item) => item.category === state.filter || (state.filter === "重点" && item.importance >= 4));
   const [lead, ...rest] = filtered;
   const leadNode = document.querySelector("#lead-story");
   const grid = document.querySelector("#news-grid");
@@ -52,6 +58,30 @@ function render() {
       <p class="card-summary">${esc(item.summaryZh)}</p>
       <div class="card-bottom"><span class="card-source">${esc(item.source)}</span><span class="card-arrow" aria-hidden="true">阅读全文 →</span></div>
     </button>`).join("");
+}
+
+function renderFilters() {
+  const filters = SUBJECTS[state.subject].filters;
+  document.querySelector("#filters").innerHTML = filters.map((filter) => `<button class="filter${filter === state.filter ? " is-active" : ""}" type="button" data-filter="${esc(filter)}">${filter === "all" ? "全部" : filter === "重点" ? "AI 精选" : esc(filter)}</button>`).join("");
+}
+
+function selectSubject(subject) {
+  if (!SUBJECTS[subject]) return;
+  state.subject = subject;
+  state.filter = "all";
+  document.querySelectorAll(".person-tab").forEach((tab) => {
+    const active = tab.dataset.subject === subject;
+    tab.classList.toggle("is-active", active);
+    tab.setAttribute("aria-selected", String(active));
+  });
+  const profile = SUBJECTS[subject];
+  document.querySelector("#subject-eyebrow").textContent = profile.eyebrow;
+  document.querySelector("#hero-title").textContent = profile.name;
+  document.querySelector("#subject-deck").textContent = profile.deck;
+  const subjectNews = state.news.filter((item) => (item.subject || "durant") === subject);
+  document.querySelector("#source-count").textContent = new Set(subjectNews.map((item) => item.source)).size || "—";
+  renderFilters();
+  render();
 }
 
 function openStory(id, updateHistory = true) {
@@ -99,14 +129,15 @@ function updateClock() {
   document.querySelector("#next-update").textContent = next < new Date() ? "即将更新" : new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hour12: false }).format(next);
 }
 
-document.querySelectorAll(".filter").forEach((button) => {
-  button.addEventListener("click", () => {
-    document.querySelectorAll(".filter").forEach((item) => item.classList.remove("is-active"));
-    button.classList.add("is-active");
-    state.filter = button.dataset.filter;
-    render();
-  });
+document.querySelector("#filters").addEventListener("click", (event) => {
+  const button = event.target.closest(".filter");
+  if (!button) return;
+  state.filter = button.dataset.filter;
+  renderFilters();
+  render();
 });
+
+document.querySelectorAll(".person-tab").forEach((tab) => tab.addEventListener("click", () => selectSubject(tab.dataset.subject)));
 
 fetch(`data/news.json?v=${Date.now()}`)
   .then((response) => {
@@ -116,9 +147,8 @@ fetch(`data/news.json?v=${Date.now()}`)
   .then((data) => {
     state.news = Array.isArray(data.items) ? data.items : [];
     state.updatedAt = data.updatedAt;
-    document.querySelector("#source-count").textContent = new Set(state.news.map((item) => item.source)).size || "—";
     updateClock();
-    render();
+    selectSubject(state.subject);
     const linkedStory = location.hash.startsWith("#story=") ? decodeURIComponent(location.hash.slice(7)) : null;
     if (linkedStory) openStory(linkedStory, false);
   })
