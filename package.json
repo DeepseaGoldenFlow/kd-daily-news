@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "update": "node scripts/update-news.mjs",
-    "check": "node --check scripts/update-news.mjs && node --check script.js"
+    "update": "node scripts/update-news.mjs && node scripts/update-dagu-works.mjs",
+    "update:works": "node scripts/update-dagu-works.mjs",
+    "check": "node --check scripts/update-news.mjs && node --check scripts/update-dagu-works.mjs && node --check script.js"
   }
 }
