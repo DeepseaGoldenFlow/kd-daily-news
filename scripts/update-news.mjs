@@ -4,6 +4,8 @@ const OUTPUT = new URL("../data/news.json", import.meta.url);
 const SUBJECTS = {
   durant: {
     name: "凯文·杜兰特",
+    searchQuery: "凯文·杜兰特 Kevin Durant 最近一周比赛 伤病 交易 采访 最新消息",
+    freshness: 7,
     categories: ["比赛", "伤病", "交易", "场外"],
     feeds: [
       "https://news.google.com/rss/search?q=%22Kevin+Durant%22+when:7d&hl=en-US&gl=US&ceid=US:en",
@@ -16,6 +18,8 @@ const SUBJECTS = {
   },
   chenze: {
     name: "游戏主播陈泽",
+    searchQuery: "游戏主播陈泽 不是陈泽 泽哥 最近直播 行程 节目 合作 最新动态，排除所有同名演员、学者和普通人",
+    freshness: 30,
     categories: ["直播", "节目", "合作", "场外"],
     feeds: [
       "https://news.google.com/rss/search?q=%22%E9%99%88%E6%B3%BD%22+(%E4%B8%BB%E6%92%AD+OR+%E7%9B%B4%E6%92%AD+OR+%E4%B8%8D%E6%98%AF%E9%99%88%E6%B3%BD)+when:30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
@@ -28,6 +32,8 @@ const SUBJECTS = {
   },
   dagu: {
     name: "网络写手大咕咕咕鸡",
+    searchQuery: "网络写手 大咕咕咕鸡 佛摟蜜 张大锤 最近微博 作品 公开动态 讨论，排除动物和其他同名账号",
+    freshness: 90,
     categories: ["作品", "公开发言", "讨论", "场外"],
     feeds: [
       "https://news.google.com/rss/search?q=%22%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1%22+when:90d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
@@ -57,7 +63,39 @@ function parseRss(xml, subject) {
   }).filter((item) => item.title && item.url);
 }
 
-async function collect() {
+async function discoverWithBailian(subject, profile, apiKey) {
+  if (!apiKey) return [];
+  const compatibleBase = (process.env.BAILIAN_BASE_URL || "https://dashscope.aliyuncs.com/compatible-mode/v1").replace(/\/$/, "");
+  const nativeBase = compatibleBase.replace(/\/compatible-mode\/v1$/, "/api/v1");
+  const response = await fetch(`${nativeBase}/services/aigc/text-generation/generation`, {
+    method: "POST",
+    headers: { "content-type": "application/json", authorization: `Bearer ${apiKey}` },
+    body: JSON.stringify({
+      model: process.env.BAILIAN_MODEL || "qwen3.7-flash",
+      input: { messages: [{ role: "user", content: profile.searchQuery }] },
+      parameters: {
+        result_format: "message",
+        enable_search: true,
+        search_options: { search_strategy: "turbo", enable_source: true, freshness: profile.freshness }
+      }
+    })
+  });
+  if (!response.ok) throw new Error(`${subject} discovery failed: ${response.status}`);
+  const json = await response.json();
+  const results = json?.output?.search_info?.search_results;
+  if (!Array.isArray(results)) return [];
+  return results.filter((item) => item.title && /^https?:\/\//.test(item.url || "")).map((item) => ({
+    subject,
+    id: `${subject}:search:${item.url}`,
+    title: String(item.title).slice(0, 240),
+    url: item.url,
+    source: String(item.site_name || "全网搜索").slice(0, 80),
+    publishedAt: new Date().toISOString(),
+    description: `百炼全网搜索发现的“${profile.name}”相关页面，需由编辑模型继续核实相关性与时效性。`
+  }));
+}
+
+async function collect(apiKey) {
   const feedJobs = Object.entries(SUBJECTS).flatMap(([subject, profile]) => profile.feeds.map(async (url) => {
     const response = await fetch(url, { signal: AbortSignal.timeout(30_000), headers: { "user-agent": "Follow-Daily/2.0 (+https://github.com/DeepseaGoldenFlow/kd-daily-news)" } });
     if (!response.ok) throw new Error(`${subject} feed failed: ${response.status}`);
@@ -66,6 +104,9 @@ async function collect() {
   const responses = await Promise.allSettled(feedJobs);
   const collected = responses.filter((result) => result.status === "fulfilled").flatMap((result) => result.value);
   responses.filter((result) => result.status === "rejected").forEach((result) => console.warn(`Feed skipped: ${result.reason?.message || result.reason}`));
+  const discoveries = await Promise.allSettled(Object.entries(SUBJECTS).map(([subject, profile]) => discoverWithBailian(subject, profile, apiKey)));
+  collected.push(...discoveries.filter((result) => result.status === "fulfilled").flatMap((result) => result.value));
+  discoveries.filter((result) => result.status === "rejected").forEach((result) => console.warn(`Discovery skipped: ${result.reason?.message || result.reason}`));
   for (const [subject, profile] of Object.entries(SUBJECTS)) {
     collected.push(...profile.baseline.map((item) => ({ ...item, subject, id: `${subject}:${item.id}` })));
   }
@@ -136,7 +177,7 @@ async function main() {
   let previous = { items: [] };
   try { previous = JSON.parse(await readFile(OUTPUT, "utf8")); } catch {}
   let collected;
-  try { collected = await collect(); } catch (error) {
+  try { collected = await collect(process.env.BAILIAN_API_KEY); } catch (error) {
     if (!previous.items?.length) throw error;
     console.warn(`Collection failed; retaining prior feed: ${error.message}`); return;
   }
