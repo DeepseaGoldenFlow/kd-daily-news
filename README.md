@@ -7,11 +7,11 @@
 GitHub Actions 每小时运行一次：
 
 1. 抓取最近 7 天的杜兰特新闻；
-2. 调用百炼 `qwen-plus` 生成中文标题、摘要、分类和重要性；
+2. 调用百炼 `qwen3.7-flash` 生成中文标题、摘要、分类和重要性；
 3. 更新 `data/news.json`；
 4. 重新发布 GitHub Pages。
 
-仓库 Secret：`BAILIAN_API_KEY`。可选变量：`BAILIAN_BASE_URL`（默认北京地域共享地址）、`BAILIAN_MODEL`（默认 `qwen-plus`）。密钥缺失或模型临时不可用时，任务会使用非 AI 摘要继续发布，不会导致网站下线。
+仓库 Secret：`BAILIAN_API_KEY`。可选变量：`BAILIAN_BASE_URL`（默认北京地域共享地址）、`BAILIAN_MODEL`（默认 `qwen3.7-flash`）。密钥缺失或模型临时不可用时，任务会使用非 AI 摘要继续发布，不会导致网站下线。
 
 ## 本地运行
 

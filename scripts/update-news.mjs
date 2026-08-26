@@ -80,7 +80,7 @@ async function enrichWithBailian(items) {
     method: "POST",
     headers: { "content-type": "application/json", authorization: `Bearer ${apiKey}` },
     body: JSON.stringify({
-      model: process.env.BAILIAN_MODEL || "qwen-plus",
+      model: process.env.BAILIAN_MODEL || "qwen3.7-flash",
       temperature: 0.2,
       response_format: { type: "json_object" },
       messages: [
@@ -109,7 +109,7 @@ async function enrichWithBailian(items) {
       importance: Math.max(1, Math.min(5, Number(ai.importance) || 3))
     };
   }).filter(Boolean);
-  return { items: merged.length ? merged : fallback(items), aiEnabled: true, model: process.env.BAILIAN_MODEL || "qwen-plus" };
+  return { items: merged.length ? merged : fallback(items), aiEnabled: true, model: process.env.BAILIAN_MODEL || "qwen3.7-flash" };
 }
 
 async function main() {
