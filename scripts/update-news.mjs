@@ -26,9 +26,9 @@ const SUBJECTS = {
       "https://news.google.com/rss/search?q=%22%E9%99%88%E6%B3%BD%22+(%E8%99%8E%E7%89%99+OR+%E7%BB%BC%E8%89%BA+OR+%E6%B3%BD%E5%93%A5)+when:30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
     ],
     baseline: [
-      { id: "chenze-sina-20260813", title: "陈泽行程动态：赴海南庆生及综艺上线", url: "https://www.sina.cn/news/detail/5331548391866612.html", source: "新浪新闻", publishedAt: "2026-08-13T20:20:54.000Z", description: "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。" },
-      { id: "chenze-huya-profile", title: "陈泽官方直播间", url: "https://www.huya.com/16001707", source: "虎牙直播", publishedAt: "2026-08-26T00:00:00.000Z", description: "游戏主播陈泽的虎牙官方直播间和近期直播入口。" },
-      { id: "chenze-huya-search", title: "虎牙直播陈泽相关视频与资讯", url: "https://www.huya.com/search?hsk=%E9%99%88%E6%B3%BD", source: "虎牙直播", publishedAt: "2026-08-25T00:00:00.000Z", description: "虎牙平台内与游戏主播陈泽相关的直播、视频和资讯聚合入口。" },
+      { id: "chenze-sina-20260813", title: "陈泽行程动态：赴海南庆生及综艺上线", url: "https://www.sina.cn/news/detail/5331548391866612.html", source: "新浪新闻", categoryHint: "节目", publishedAt: "2026-08-13T20:20:54.000Z", description: "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。" },
+      { id: "chenze-huya-profile", title: "陈泽官方直播间", url: "https://www.huya.com/16001707", source: "虎牙直播", categoryHint: "直播", publishedAt: "2026-08-26T00:00:00.000Z", description: "游戏主播陈泽的虎牙官方直播间和近期直播入口。" },
+      { id: "chenze-huya-search", title: "虎牙直播陈泽相关视频与资讯", url: "https://www.huya.com/search?hsk=%E9%99%88%E6%B3%BD", source: "虎牙直播", categoryHint: "直播", publishedAt: "2026-08-25T00:00:00.000Z", description: "虎牙平台内与游戏主播陈泽相关的直播、视频和资讯聚合入口。" },
       { id: "chenze-bilibili-search", title: "哔哩哔哩陈泽相关视频", url: "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD", source: "哔哩哔哩", publishedAt: "2026-08-25T00:00:00.000Z", description: "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。" }
     ]
   },
@@ -74,6 +74,7 @@ async function discoverWithBailian(subject, profile, apiKey) {
   const nativeBase = compatibleBase.replace(/\/compatible-mode\/v1$/, "/api/v1");
   const response = await fetch(`${nativeBase}/services/aigc/text-generation/generation`, {
     method: "POST",
+    signal: AbortSignal.timeout(90_000),
     headers: { "content-type": "application/json", authorization: `Bearer ${apiKey}` },
     body: JSON.stringify({
       model: process.env.BAILIAN_SEARCH_MODEL || "qwen-plus",
@@ -136,7 +137,7 @@ async function collect(apiKey) {
 }
 
 function fallback(items, profile) {
-  return items.slice(0, 8).map((item, index) => ({ ...item, titleZh: item.title, summaryZh: item.description || `点击查看${profile.name}相关公开信息。`, detailsZh: item.description || "当前只获取到标题信息，请在页面底部查看原始来源。", keyPoints: [item.title], category: profile.categories.at(-1), importance: index < 2 ? 4 : 3 }));
+  return items.slice(0, 8).map((item, index) => ({ ...item, titleZh: item.title, summaryZh: item.description || `点击查看${profile.name}相关公开信息。`, detailsZh: item.description || "当前只获取到标题信息，请在页面底部查看原始来源。", keyPoints: [item.title], category: item.categoryHint || profile.categories.at(-1), importance: index < 2 ? 4 : 3 }));
 }
 
 async function enrichSubject(subject, items, apiKey, endpoint, model) {
@@ -145,6 +146,7 @@ async function enrichSubject(subject, items, apiKey, endpoint, model) {
   const payload = items.map(({ id, title, source, publishedAt, description, url }) => ({ id, title, source, publishedAt, description, url }));
   const response = await fetch(endpoint, {
     method: "POST",
+    signal: AbortSignal.timeout(120_000),
     headers: { "content-type": "application/json", authorization: `Bearer ${apiKey}` },
     body: JSON.stringify({
       model, temperature: 0.2, response_format: { type: "json_object" }, enable_search: true,
@@ -159,11 +161,14 @@ async function enrichSubject(subject, items, apiKey, endpoint, model) {
   const parsed = JSON.parse(json?.choices?.[0]?.message?.content);
   if (!Array.isArray(parsed.items)) throw new Error(`${subject} returned invalid schema`);
   const byId = new Map(items.map((item) => [item.id, item]));
-  return parsed.items.map((ai) => {
+  const merged = parsed.items.map((ai) => {
     const original = byId.get(ai.id);
     if (!original) return null;
     return { ...original, titleZh: String(ai.titleZh || original.title).slice(0, 120), summaryZh: String(ai.summaryZh || original.description).slice(0, 240), detailsZh: String(ai.detailsZh || ai.summaryZh || original.description).slice(0, 1000), keyPoints: Array.isArray(ai.keyPoints) ? ai.keyPoints.map((point) => String(point).slice(0, 160)).slice(0, 5) : [], category: profile.categories.includes(ai.category) ? ai.category : profile.categories.at(-1), importance: Math.max(1, Math.min(5, Number(ai.importance) || 3)) };
   }).filter(Boolean);
+  const keptIds = new Set(merged.map((item) => item.id));
+  const verifiedRemainder = fallback(items.filter((item) => !keptIds.has(item.id)), profile);
+  return [...merged, ...verifiedRemainder].slice(0, 8);
 }
 
 async function enrichWithBailian(items) {
