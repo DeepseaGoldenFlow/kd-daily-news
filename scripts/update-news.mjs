@@ -25,10 +25,12 @@ const SUBJECTS = {
       "https://news.google.com/rss/search?q=%22%E9%99%88%E6%B3%BD%22+(%E4%B8%BB%E6%92%AD+OR+%E7%9B%B4%E6%92%AD+OR+%E4%B8%8D%E6%98%AF%E9%99%88%E6%B3%BD)+when:30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
       "https://news.google.com/rss/search?q=%22%E9%99%88%E6%B3%BD%22+(%E8%99%8E%E7%89%99+OR+%E7%BB%BC%E8%89%BA+OR+%E6%B3%BD%E5%93%A5)+when:30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
     ],
-    baseline: [{
-      id: "chenze-huya-profile", title: "陈泽官方直播间", url: "https://www.huya.com/16001707", source: "虎牙直播",
-      publishedAt: "2026-08-26T00:00:00.000Z", description: "游戏主播陈泽的虎牙官方直播间和近期直播入口。"
-    }]
+    baseline: [
+      { id: "chenze-sina-20260813", title: "陈泽行程动态：赴海南庆生及综艺上线", url: "https://www.sina.cn/news/detail/5331548391866612.html", source: "新浪新闻", publishedAt: "2026-08-13T20:20:54.000Z", description: "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。" },
+      { id: "chenze-huya-profile", title: "陈泽官方直播间", url: "https://www.huya.com/16001707", source: "虎牙直播", publishedAt: "2026-08-26T00:00:00.000Z", description: "游戏主播陈泽的虎牙官方直播间和近期直播入口。" },
+      { id: "chenze-huya-search", title: "虎牙直播陈泽相关视频与资讯", url: "https://www.huya.com/search?hsk=%E9%99%88%E6%B3%BD", source: "虎牙直播", publishedAt: "2026-08-25T00:00:00.000Z", description: "虎牙平台内与游戏主播陈泽相关的直播、视频和资讯聚合入口。" },
+      { id: "chenze-bilibili-search", title: "哔哩哔哩陈泽相关视频", url: "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD", source: "哔哩哔哩", publishedAt: "2026-08-25T00:00:00.000Z", description: "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。" }
+    ]
   },
   dagu: {
     name: "网络写手大咕咕咕鸡",
@@ -41,7 +43,10 @@ const SUBJECTS = {
     ],
     baseline: [
       { id: "dagu-weibo-topic", title: "大咕咕咕鸡公开动态与超话", url: "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index", source: "新浪微博", publishedAt: "2026-08-26T00:00:00.000Z", description: "大咕咕咕鸡相关公开动态与读者讨论入口。" },
-      { id: "dagu-bilibili-search", title: "大咕咕咕鸡相关视频与作品朗读", url: "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1", source: "哔哩哔哩", publishedAt: "2026-08-25T00:00:00.000Z", description: "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。" }
+      { id: "dagu-bilibili-search", title: "大咕咕咕鸡相关视频与作品朗读", url: "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1", source: "哔哩哔哩", publishedAt: "2026-08-25T00:00:00.000Z", description: "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。" },
+      { id: "dagu-wikipedia", title: "大咕咕咕鸡人物与创作资料", url: "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E", source: "维基百科", publishedAt: "2026-08-24T00:00:00.000Z", description: "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。" },
+      { id: "dagu-jiemian-profile", title: "大咕咕咕鸡与网络段子手创作生态", url: "https://m.jiemian.com/article/278672.html", source: "界面新闻", publishedAt: "2015-05-12T00:00:00.000Z", description: "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。" },
+      { id: "dagu-kol-profile", title: "大咕咕咕鸡微博公开账号资料", url: "https://m.kolstore.com/weiboDetails?userId=2146965345", source: "领库", publishedAt: "2026-07-05T00:00:00.000Z", description: "大咕咕咕鸡微博公开账号的资料与传播数据页面。" }
     ]
   }
 };
@@ -113,7 +118,8 @@ async function collect(apiKey) {
   const output = [];
   for (const subject of Object.keys(SUBJECTS)) {
     const seen = new Set();
-    const items = collected.filter((item) => item.subject === subject).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)).filter((item) => {
+    const relevance = subject === "durant" ? /durant|杜兰特|kd\b/i : subject === "chenze" ? /陈泽|不是陈泽|泽哥|16001707/i : /大咕咕咕鸡|大咕咕咕咕鸡|佛摟蜜|佛搂蜜|张大锤|2146965345/i;
+    const items = collected.filter((item) => item.subject === subject && relevance.test(`${item.title} ${item.description} ${item.url}`)).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)).filter((item) => {
       const key = item.title.toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff]/g, "").slice(0, 80);
       if (!key || seen.has(key)) return false;
       seen.add(key); return true;
