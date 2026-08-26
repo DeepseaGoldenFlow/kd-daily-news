@@ -1,27 +1,20 @@
-name: Update news and deploy
+name: Update news
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: news-update
   cancel-in-progress: false
 
 jobs:
-  update-and-deploy:
+  update-news:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,7 +25,6 @@ jobs:
           node-version: "22"
 
       - name: Update and summarize news
-        if: github.event_name != 'push'
         env:
           BAILIAN_API_KEY: ${{ secrets.BAILIAN_API_KEY }}
           BAILIAN_BASE_URL: ${{ vars.BAILIAN_BASE_URL }}
@@ -40,22 +32,9 @@ jobs:
         run: npm run update
 
       - name: Save refreshed feed
-        if: github.event_name != 'push'
         run: |
           git config user.name "kd-daily-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/news.json data/dagu-works.json
           git diff --cached --quiet || git commit -m "chore: refresh AI news feed"
           git push
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload site
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: .
-
-      - name: Deploy Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
