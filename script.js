@@ -1,5 +1,6 @@
 const state = { news: [], filter: "all", updatedAt: null };
 const reader = document.querySelector("#story-reader");
+const home = document.querySelector(".page-shell");
 
 const esc = (value = "") => String(value).replace(/[&<>'"]/g, (char) => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;"
@@ -67,13 +68,17 @@ function openStory(id, updateHistory = true) {
   const source = document.querySelector("#reader-source");
   source.href = safeUrl(item.url);
   source.innerHTML = `查看 ${esc(item.source)} 原始报道 <span>↗</span>`;
-  if (!reader.open) reader.showModal();
+  home.hidden = true;
+  reader.hidden = false;
+  window.scrollTo({ top: 0, behavior: "auto" });
   if (updateHistory) history.pushState({ storyId: String(id) }, "", `#story=${encodeURIComponent(id)}`);
 }
 
 function closeStory(updateHistory = true) {
-  if (reader.open) reader.close();
+  reader.hidden = true;
+  home.hidden = false;
   if (updateHistory && location.hash.startsWith("#story=")) history.pushState({}, "", `${location.pathname}${location.search}#latest`);
+  requestAnimationFrame(() => document.querySelector("#latest")?.scrollIntoView());
 }
 
 document.addEventListener("click", (event) => {
@@ -81,9 +86,7 @@ document.addEventListener("click", (event) => {
   if (trigger) openStory(trigger.dataset.storyId);
 });
 
-document.querySelector(".reader-close").addEventListener("click", () => closeStory());
-reader.addEventListener("click", (event) => { if (event.target === reader) closeStory(); });
-reader.addEventListener("cancel", (event) => { event.preventDefault(); closeStory(); });
+document.querySelectorAll(".reader-close, .reader-home").forEach((control) => control.addEventListener("click", () => closeStory()));
 window.addEventListener("popstate", () => {
   const id = location.hash.startsWith("#story=") ? decodeURIComponent(location.hash.slice(7)) : null;
   if (id) openStory(id, false); else closeStory(false);

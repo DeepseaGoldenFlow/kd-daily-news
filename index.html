@@ -11,9 +11,6 @@
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
     <title>KD Daily · 杜兰特动态</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;0,900&family=Noto+Sans+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -99,14 +96,14 @@
       </footer>
     </div>
 
-    <dialog class="reader" id="story-reader" aria-labelledby="reader-title">
+    <section class="reader" id="story-reader" aria-labelledby="reader-title" hidden>
       <div class="reader-shell">
         <header class="reader-header">
-          <a class="brand" href="#top" aria-label="KD Daily 首页">
+          <button class="brand reader-home" type="button" aria-label="返回 KD Daily 首页">
             <span class="brand-mark">KD</span>
             <span class="brand-copy">DAILY<small>站内速读</small></span>
-          </a>
-          <button class="reader-close" type="button" aria-label="关闭文章">关闭 <span>×</span></button>
+          </button>
+          <button class="reader-close" type="button" aria-label="返回新闻列表"><span>←</span> 返回动态</button>
         </header>
         <article class="reader-article">
           <p class="reader-meta" id="reader-meta"></p>
@@ -124,7 +121,7 @@
           <a class="source-button" id="reader-source" href="#" target="_blank" rel="noopener noreferrer">查看原始报道 <span>↗</span></a>
         </article>
       </div>
-    </dialog>
+    </section>
     <script src="script.js" defer></script>
   </body>
 </html>
