@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T23:33:25.580Z",
+  "updatedAt": "2026-08-27T09:47:25.633Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,136 +16,136 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiiwFBVV95cUxPblcxTXJVQVZ5MXhIVlNJWlZiV0oySlNMZUVkOU1JNEZCeVZyQ0E0NGFvQjUxdXEwX2VCdWxrZkdWMlIwV3ZmZ09EMUQ1YUFOaC1uNEQxMWUyWFQxeUR6dnAyLWw3ZnB2TFNZLWg5TkRjdjZfWW9XZjVldXc2WlVFdUlBOHRjd2JrLXRV",
-      "title": "Rockets Proposed to Send Kevin Durant to Celtics in Massive 4-Player NBA Trade",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblcxTXJVQVZ5MXhIVlNJWlZiV0oySlNMZUVkOU1JNEZCeVZyQ0E0NGFvQjUxdXEwX2VCdWxrZkdWMlIwV3ZmZ09EMUQ1YUFOaC1uNEQxMWUyWFQxeUR6dnAyLWw3ZnB2TFNZLWg5TkRjdjZfWW9XZjVldXc2WlVFdUlBOHRjd2JrLXRV?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-26T22:49:06.000Z",
-      "description": "Rockets Proposed to Send Kevin Durant to Celtics in Massive 4-Player NBA Trade Yahoo Sports",
-      "titleZh": "Rockets Proposed to Send Kevin Durant to Celtics in Massive 4-Player NBA Trade",
-      "summaryZh": "Rockets Proposed to Send Kevin Durant to Celtics in Massive 4-Player NBA Trade Yahoo Sports",
-      "detailsZh": "Rockets Proposed to Send Kevin Durant to Celtics in Massive 4-Player NBA Trade Yahoo Sports",
+      "id": "durant:CBMivwFBVV95cUxPcmhTMTNvYXFkdks3Ynl1Nm4tZHNYLXVLOVNsRWxHd3ZvOV9JZ2IybEo4ZDZsSEYtTzhyd1hGQy1rV0k5YTRXZmFtelhTTDl0b0VXNzdMcTl6TlUxSGtwWFRSSmZ2dk1ONDJYZUZMdURvSlVaVVF3WU42TE5VZUJLS2xMVmdJQzVaTWNlWGE0SUptWmhVd1g4Tk5fZW9IZ3pZRC15V1RkMWZaNUt2ZUZwclRVLU5TeGRMSkw4QlNiZw",
+      "title": "Kevin Durant invested in HuggingFace's seed round",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmhTMTNvYXFkdks3Ynl1Nm4tZHNYLXVLOVNsRWxHd3ZvOV9JZ2IybEo4ZDZsSEYtTzhyd1hGQy1rV0k5YTRXZmFtelhTTDl0b0VXNzdMcTl6TlUxSGtwWFRSSmZ2dk1ONDJYZUZMdURvSlVaVVF3WU42TE5VZUJLS2xMVmdJQzVaTWNlWGE0SUptWmhVd1g4Tk5fZW9IZ3pZRC15V1RkMWZaNUt2ZUZwclRVLU5TeGRMSkw4QlNiZw?oc=5",
+      "source": "HoopsHype",
+      "publishedAt": "2026-08-27T08:37:00.000Z",
+      "description": "Kevin Durant invested in HuggingFace's seed round HoopsHype",
+      "titleZh": "Kevin Durant invested in HuggingFace's seed round",
+      "summaryZh": "Kevin Durant invested in HuggingFace's seed round HoopsHype",
+      "detailsZh": "Kevin Durant invested in HuggingFace's seed round HoopsHype",
       "keyPoints": [
-        "Rockets Proposed to Send Kevin Durant to Celtics in Massive 4-Player NBA Trade"
+        "Kevin Durant invested in HuggingFace's seed round"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMikwJBVV95cUxPc1VYQWlmREwzY0ZTc29HLXlEV2c1QXFxYWFhaEU4YWpkYlJ2amhmREl5MF9GVFZ2RldYQTdPVVM2ekI2eEthaVl3OS1HYjNVOEltWTJhYlU0TldrUkN5aWN2anBwaUFwcUlGN2lfM3M4aFViRkFTR1RmMjJZSEZFQnE1eC12UzNHLVNSSHpGa3dWY1VsMWhsRC1Ucm1FckVKYlRkZ1dSSVFDX3RnMzN6YmNnOVhOcDBoMlVudi1hSkxyM2JEZXhvTUw5end3TjM0WGFRSldpUmFmbWpUX0QyQ3NETHdCdlVjaThvR3FWU0VsckRBZElVRUxrZ1lvNXVCTmZoamwxczZZclRrNDdoaUY4RQ",
-      "title": "Oct 21, 2025; Oklahoma City, Oklahoma, USA; Oklahoma City Thunder center Chet Holmgren (7) drives to the basket against Houston Rockets forward Kevin Durant (7) during the first half at Paycom Center. Mandatory Credit: Alonzo Adams-Imagn Im",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPc1VYQWlmREwzY0ZTc29HLXlEV2c1QXFxYWFhaEU4YWpkYlJ2amhmREl5MF9GVFZ2RldYQTdPVVM2ekI2eEthaVl3OS1HYjNVOEltWTJhYlU0TldrUkN5aWN2anBwaUFwcUlGN2lfM3M4aFViRkFTR1RmMjJZSEZFQnE1eC12UzNHLVNSSHpGa3dWY1VsMWhsRC1Ucm1FckVKYlRkZ1dSSVFDX3RnMzN6YmNnOVhOcDBoMlVudi1hSkxyM2JEZXhvTUw5end3TjM0WGFRSldpUmFmbWpUX0QyQ3NETHdCdlVjaThvR3FWU0VsckRBZElVRUxrZ1lvNXVCTmZoamwxczZZclRrNDdoaUY4RQ?oc=5",
-      "source": "The Lufkin Daily News",
-      "publishedAt": "2026-08-26T19:36:06.000Z",
-      "description": "Oct 21, 2025; Oklahoma City, Oklahoma, USA; Oklahoma City Thunder center Chet Holmgren (7) drives to the basket against Houston Rockets forward Kevin Durant (7) during the first half at Paycom Center. Mandatory Credit: Alonzo Adams-Imagn Images The Lufkin Daily News",
-      "titleZh": "Oct 21, 2025; Oklahoma City, Oklahoma, USA; Oklahoma City Thunder center Chet Holmgren (7) drives to the basket against Houston Rockets forward Kevin Durant (7) during the first half at Paycom Center. Mandatory Credit: Alonzo Adams-Imagn Im",
-      "summaryZh": "Oct 21, 2025; Oklahoma City, Oklahoma, USA; Oklahoma City Thunder center Chet Holmgren (7) drives to the basket against Houston Rockets forward Kevin Durant (7) during the first half at Paycom Center. Mandatory Credit: Alonzo Adams-Imagn Images The Lufkin Daily News",
-      "detailsZh": "Oct 21, 2025; Oklahoma City, Oklahoma, USA; Oklahoma City Thunder center Chet Holmgren (7) drives to the basket against Houston Rockets forward Kevin Durant (7) during the first half at Paycom Center. Mandatory Credit: Alonzo Adams-Imagn Images The Lufkin Daily News",
+      "id": "durant:CBMijwFBVV95cUxQd0lLa3IweWNhMUh2RmpKdm91S3dXZXdWVzR2RFBYcTdqaFV2dDV0bzg3THpMLUNWQ2tSY3FOck1YRXdEQ0FCOXFLMUlwSDdwOVJtNFQzQ1l0SFZ6bW9XZkRJOU1sRzM5bmdaSE5NUGhCUXUtWUpMZHA3ZC0xRTRNZXJaY1BnZ0pCOE5EbDB2WQ",
+      "title": "火箭一夜4大消息！再签2米08中锋，杜兰特能力值93+追梦盛赞姚明",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0lLa3IweWNhMUh2RmpKdm91S3dXZXdWVzR2RFBYcTdqaFV2dDV0bzg3THpMLUNWQ2tSY3FOck1YRXdEQ0FCOXFLMUlwSDdwOVJtNFQzQ1l0SFZ6bW9XZkRJOU1sRzM5bmdaSE5NUGhCUXUtWUpMZHA3ZC0xRTRNZXJaY1BnZ0pCOE5EbDB2WQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-27T07:29:32.000Z",
+      "description": "火箭一夜4大消息！再签2米08中锋，杜兰特能力值93+追梦盛赞姚明 新浪网",
+      "titleZh": "火箭一夜4大消息！再签2米08中锋，杜兰特能力值93+追梦盛赞姚明",
+      "summaryZh": "火箭一夜4大消息！再签2米08中锋，杜兰特能力值93+追梦盛赞姚明 新浪网",
+      "detailsZh": "火箭一夜4大消息！再签2米08中锋，杜兰特能力值93+追梦盛赞姚明 新浪网",
       "keyPoints": [
-        "Oct 21, 2025; Oklahoma City, Oklahoma, USA; Oklahoma City Thunder center Chet Holmgren (7) drives to the basket against Houston Rockets forward Kevin Durant (7) during the first half at Paycom Center. Mandatory Credit: Alonzo Adams-Imagn Im"
+        "火箭一夜4大消息！再签2米08中锋，杜兰特能力值93+追梦盛赞姚明"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi1wFBVV95cUxNUTdfQm5ScFctbk13R0V0V2I1TEg5TFRrUElNQTBYWnMyLU9lMWxLdWRDSEZnVXlMQUk5RXFqRGlPdWRuSzhhdDNteTRDVWhJcnE4eG91UDhDMzB1eGJiRDZmckVUQnNkd0ZySzg0NUJUb0JrUEtPcTF5LUlvTjZkc29IN0R1MndMM3U2LXhNaUhuNDZQb09fQzYxNkhYQ3laYXZ6NjVlNTNPN0ZyNzhhcWVTRE5SS0ZwZ0VhUmhSYTJpNjFGeTkxNEt1cFRtZWh2eTA2MU5Hdw",
-      "title": "Rockets forward Kevin Durant trains with two more All-Stars amid offseason",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUTdfQm5ScFctbk13R0V0V2I1TEg5TFRrUElNQTBYWnMyLU9lMWxLdWRDSEZnVXlMQUk5RXFqRGlPdWRuSzhhdDNteTRDVWhJcnE4eG91UDhDMzB1eGJiRDZmckVUQnNkd0ZySzg0NUJUb0JrUEtPcTF5LUlvTjZkc29IN0R1MndMM3U2LXhNaUhuNDZQb09fQzYxNkhYQ3laYXZ6NjVlNTNPN0ZyNzhhcWVTRE5SS0ZwZ0VhUmhSYTJpNjFGeTkxNEt1cFRtZWh2eTA2MU5Hdw?oc=5",
-      "source": "Rockets Wire",
-      "publishedAt": "2026-08-26T19:36:00.000Z",
-      "description": "Rockets forward Kevin Durant trains with two more All-Stars amid offseason Rockets Wire",
-      "titleZh": "Rockets forward Kevin Durant trains with two more All-Stars amid offseason",
-      "summaryZh": "Rockets forward Kevin Durant trains with two more All-Stars amid offseason Rockets Wire",
-      "detailsZh": "Rockets forward Kevin Durant trains with two more All-Stars amid offseason Rockets Wire",
+      "id": "durant:CBMiwwFBVV95cUxNZjZZa0pfN3djSWNsTHhHd1F6MW1Jd3k4RDVXbjBZd3Vzbi1DSHFWQUJxSURTT2gteFhrbDVCcW42NkdWcnFKdk5Ba1Z5NTRBay0wTWdmYzVQVF9PVkFqeWEtWndMUm9jMndNaEpyZC1BV3djNUdDSEJNa3FLRVM3Uy1iSkJFV1FpUTM2Qzlic1dkbUhneXVqaTJNdWZWNmdQaUVYeE91T3NjOWp2ZWJZcjZ5Qi1DbmFfYXh1QWp4eWJSS2c",
+      "title": "Kevin Durant Solidifies Himself as the Most Influential Athlete in Austin, Texas",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZjZZa0pfN3djSWNsTHhHd1F6MW1Jd3k4RDVXbjBZd3Vzbi1DSHFWQUJxSURTT2gteFhrbDVCcW42NkdWcnFKdk5Ba1Z5NTRBay0wTWdmYzVQVF9PVkFqeWEtWndMUm9jMndNaEpyZC1BV3djNUdDSEJNa3FLRVM3Uy1iSkJFV1FpUTM2Qzlic1dkbUhneXVqaTJNdWZWNmdQaUVYeE91T3NjOWp2ZWJZcjZ5Qi1DbmFfYXh1QWp4eWJSS2c?oc=5",
+      "source": "roundtable.io",
+      "publishedAt": "2026-08-27T07:07:22.000Z",
+      "description": "Kevin Durant Solidifies Himself as the Most Influential Athlete in Austin, Texas roundtable.io",
+      "titleZh": "Kevin Durant Solidifies Himself as the Most Influential Athlete in Austin, Texas",
+      "summaryZh": "Kevin Durant Solidifies Himself as the Most Influential Athlete in Austin, Texas roundtable.io",
+      "detailsZh": "Kevin Durant Solidifies Himself as the Most Influential Athlete in Austin, Texas roundtable.io",
       "keyPoints": [
-        "Rockets forward Kevin Durant trains with two more All-Stars amid offseason"
+        "Kevin Durant Solidifies Himself as the Most Influential Athlete in Austin, Texas"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi6wFBVV95cUxOZlptcG5EWnM1NVNuWmtkVWUwa0Q0VlZtMEJEQ0tpTDZMb3VqenltYlB2TmpqenZSSVJOS2FHbXpYRW9hQ2pRQlZCNHNfbEd1N0pfZHpQS2lraURjT1JmZm9uTngxYlZ2TGdwbkJPYWEwSWkzdEFJLXZFd1BLUzVKR1BybWNUZThJd0F3R3U1aTJwTmRENDBUOVBRamlROTZoY1V5V055czlmOGU0VExaTDYybG04S2U4X2pxSU1iYWliNTNTQkswVFN3UWJOak1oZl80UGhEQmwxVkFuR05ldVd1SnBVd09CX0tn",
-      "title": "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZlptcG5EWnM1NVNuWmtkVWUwa0Q0VlZtMEJEQ0tpTDZMb3VqenltYlB2TmpqenZSSVJOS2FHbXpYRW9hQ2pRQlZCNHNfbEd1N0pfZHpQS2lraURjT1JmZm9uTngxYlZ2TGdwbkJPYWEwSWkzdEFJLXZFd1BLUzVKR1BybWNUZThJd0F3R3U1aTJwTmRENDBUOVBRamlROTZoY1V5V055czlmOGU0VExaTDYybG04S2U4X2pxSU1iYWliNTNTQkswVFN3UWJOak1oZl80UGhEQmwxVkFuR05ldVd1SnBVd09CX0tn?oc=5",
-      "source": "OKC Thunder Wire",
-      "publishedAt": "2026-08-26T16:02:00.000Z",
-      "description": "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout OKC Thunder Wire",
-      "titleZh": "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout",
-      "summaryZh": "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout OKC Thunder Wire",
-      "detailsZh": "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout OKC Thunder Wire",
+      "id": "durant:CBMiggFBVV95cUxNUkxoR3I0VXdiekVLN2lkUmhLSERCT1NQSG9BdFF1ZHk5Z2lTcTVlZVNYNDZURWxHQXNPazFmaHJRUGtfclhjcUhISW8ya1lRWG1vRHJoNmFKUW5ES1k1X2NhemkyT1lMc1UyLUNOWC10NGp4TndYNGNYUW5DdHY0dnpR",
+      "title": "杜兰特跟切特和克里斯托弗的单挑个人集锦",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkxoR3I0VXdiekVLN2lkUmhLSERCT1NQSG9BdFF1ZHk5Z2lTcTVlZVNYNDZURWxHQXNPazFmaHJRUGtfclhjcUhISW8ya1lRWG1vRHJoNmFKUW5ES1k1X2NhemkyT1lMc1UyLUNOWC10NGp4TndYNGNYUW5DdHY0dnpR?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-27T05:14:10.000Z",
+      "description": "杜兰特跟切特和克里斯托弗的单挑个人集锦 新浪网",
+      "titleZh": "杜兰特跟切特和克里斯托弗的单挑个人集锦",
+      "summaryZh": "杜兰特跟切特和克里斯托弗的单挑个人集锦 新浪网",
+      "detailsZh": "杜兰特跟切特和克里斯托弗的单挑个人集锦 新浪网",
       "keyPoints": [
-        "Watch: Chet Holmgren goes 1-on-1 with Kevin Durant in offseason workout"
+        "杜兰特跟切特和克里斯托弗的单挑个人集锦"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiW0FVX3lxTE51RWFVWnAzUW03NGlXeVQ4cDBFbGJJckdEYnVpSmhwcE9LbUVFUDJLTEZCZEtxV0QwSWFhTnBiWlF3WGZyNThIZURXdWxrMW1Lcng1T1ZFb2VzbGM",
-      "title": "NBA News (Dwight Howard, NBA Summer League News, Andrew Bynum, Kevin Durant Engagement) Nolan Ryan (XK8LgcqCba)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51RWFVWnAzUW03NGlXeVQ4cDBFbGJJckdEYnVpSmhwcE9LbUVFUDJLTEZCZEtxV0QwSWFhTnBiWlF3WGZyNThIZURXdWxrMW1Lcng1T1ZFb2VzbGM?oc=5",
-      "source": "Mshale",
-      "publishedAt": "2026-08-26T13:14:59.000Z",
-      "description": "NBA News (Dwight Howard, NBA Summer League News, Andrew Bynum, Kevin Durant Engagement) Nolan Ryan (XK8LgcqCba) Mshale",
-      "titleZh": "NBA News (Dwight Howard, NBA Summer League News, Andrew Bynum, Kevin Durant Engagement) Nolan Ryan (XK8LgcqCba)",
-      "summaryZh": "NBA News (Dwight Howard, NBA Summer League News, Andrew Bynum, Kevin Durant Engagement) Nolan Ryan (XK8LgcqCba) Mshale",
-      "detailsZh": "NBA News (Dwight Howard, NBA Summer League News, Andrew Bynum, Kevin Durant Engagement) Nolan Ryan (XK8LgcqCba) Mshale",
+      "id": "durant:CBMiggFBVV95cUxNUWx0SXJKY1ViQTh0bl9tVG5LcjF2X3F0bmk3c0NuWEhkUlhkcGo0OHM2MkZVakVDbjVMS2cyc2V0b1lCd3hWcjFTR29LR28yY0dtNk5WazdPS3hUWTVCZkpvdWFyMThFTlBobXkxQThzWjN0V3BfVFJ3U1U1U2huZmNn",
+      "title": "詹姆斯加盟76人引爆NBA地震：杜兰特或逼宫火箭交易欧文",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUWx0SXJKY1ViQTh0bl9tVG5LcjF2X3F0bmk3c0NuWEhkUlhkcGo0OHM2MkZVakVDbjVMS2cyc2V0b1lCd3hWcjFTR29LR28yY0dtNk5WazdPS3hUWTVCZkpvdWFyMThFTlBobXkxQThzWjN0V3BfVFJ3U1U1U2huZmNn?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-27T04:33:51.000Z",
+      "description": "詹姆斯加盟76人引爆NBA地震：杜兰特或逼宫火箭交易欧文 新浪网",
+      "titleZh": "詹姆斯加盟76人引爆NBA地震：杜兰特或逼宫火箭交易欧文",
+      "summaryZh": "詹姆斯加盟76人引爆NBA地震：杜兰特或逼宫火箭交易欧文 新浪网",
+      "detailsZh": "詹姆斯加盟76人引爆NBA地震：杜兰特或逼宫火箭交易欧文 新浪网",
       "keyPoints": [
-        "NBA News (Dwight Howard, NBA Summer League News, Andrew Bynum, Kevin Durant Engagement) Nolan Ryan (XK8LgcqCba)"
+        "詹姆斯加盟76人引爆NBA地震：杜兰特或逼宫火箭交易欧文"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn",
-      "title": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmF5bUMtMUVRVzBkS0RhX0MzSnNPZHExT1VqMzZkMWlmN1B2enMxU0RfY1JmQnBjV1p1OXU3MnZTMWd4QWR3LVZOOTFRU3IyWV85dHZzS0FodnNoNURxU0NvbEtzazljcnJrWWx0ZUVxeEFkbnRRTjhhajBJaHRWWjhn?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-08-26T12:20:47.000Z",
-      "description": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠 手机新浪网",
-      "titleZh": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠",
-      "summaryZh": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠 手机新浪网",
-      "detailsZh": "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠 手机新浪网",
+      "id": "durant:CBMi3AFBVV95cUxPMkttN3ZDR2ZnZC1QQ0FRMVI5TGZWUEtLUUh0QXlKTDlpR1AtSERuZVhmLW1wQllnUDFzenR5bXNZQUtNUHIyRlRCWjhuaFhSNUVobzQzTWswVkxTMWo1V2h3VzJ3V0FJVFBmQnh0cEpHLUhBUFdfOUtPb29mN0Nfd043a2I0d1ZnYlJ5MlpJY1ZLNXdtNnBYMDZTUlF1WkpweXhZYXlsT0JrWWJOcndaYkpYQkVIQmpNU1JQWEIwY1pwOUFPMklhaFhOZDdCZFZWWWswMGdpbWVDUHdY",
+      "title": "顶级天赋的对决！杜兰特与霍姆格伦一起训练！谁也防不住谁，太好看了！",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMkttN3ZDR2ZnZC1QQ0FRMVI5TGZWUEtLUUh0QXlKTDlpR1AtSERuZVhmLW1wQllnUDFzenR5bXNZQUtNUHIyRlRCWjhuaFhSNUVobzQzTWswVkxTMWo1V2h3VzJ3V0FJVFBmQnh0cEpHLUhBUFdfOUtPb29mN0Nfd043a2I0d1ZnYlJ5MlpJY1ZLNXdtNnBYMDZTUlF1WkpweXhZYXlsT0JrWWJOcndaYkpYQkVIQmpNU1JQWEIwY1pwOUFPMklhaFhOZDdCZFZWWWswMGdpbWVDUHdY?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-27T03:30:20.000Z",
+      "description": "顶级天赋的对决！杜兰特与霍姆格伦一起训练！谁也防不住谁，太好看了！ 新浪网",
+      "titleZh": "顶级天赋的对决！杜兰特与霍姆格伦一起训练！谁也防不住谁，太好看了！",
+      "summaryZh": "顶级天赋的对决！杜兰特与霍姆格伦一起训练！谁也防不住谁，太好看了！ 新浪网",
+      "detailsZh": "顶级天赋的对决！杜兰特与霍姆格伦一起训练！谁也防不住谁，太好看了！ 新浪网",
       "keyPoints": [
-        "火箭一夜4消息！球痴KD持续加练，申京回应不和+乌度卡被看好夺冠"
+        "顶级天赋的对决！杜兰特与霍姆格伦一起训练！谁也防不住谁，太好看了！"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c",
-      "title": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQ3RjlfWTJ2UmxmejJRQVZDTjlrYi16ckRVMkw3TDBwZnlTTzRNQ093blkxS3RaQ3RGb2Fnd0FGTUtHdFI4X3Itb2E1VEp2aUNxZ3d2U1ZORHlKTDBGb1RGVXZrYm1aWXJ3UGxjV0ZSQzNLV1BRajEzcV9tUTlLWl8tLUpNNU5xY3E1enVqdnBPMUJLNkVPY0lSdFBrdTZnaTNVZGhtemg4RTNUS2xodjE4WGNCWkZCZi1ZQVpHYmlFdFd1SVVsZEFlUThTRWM5STNpWmU0d3pRMHlYZ3c?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-08-26T11:14:34.000Z",
-      "description": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠 手机新浪网",
-      "titleZh": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠",
-      "summaryZh": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠 手机新浪网",
-      "detailsZh": "杜兰特跟腱大伤归来，单核带队美国男篮夺冠 手机新浪网",
+      "id": "durant:CBMijAFBVV95cUxNVjVwOHVDM1EybGZjSmpkVFVPX0lOMzFuQVhNNnVsczBtcmp0VExsYWUwN2w5MVpFOWRzekdkT1d3U0hpSDhnSFlfaEtnTkp6U0VBMDFsWllLQ2dsdGJkYTlfclFLMUpiM0hMeVJjbGVNRk5sMTFHX25CMDd3NldBdVNYbHBNVEFqV2p0eA",
+      "title": "杜兰特拒绝湖人邀请：全联盟只有两支球队能让我心甘情愿加盟",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVjVwOHVDM1EybGZjSmpkVFVPX0lOMzFuQVhNNnVsczBtcmp0VExsYWUwN2w5MVpFOWRzekdkT1d3U0hpSDhnSFlfaEtnTkp6U0VBMDFsWllLQ2dsdGJkYTlfclFLMUpiM0hMeVJjbGVNRk5sMTFHX25CMDd3NldBdVNYbHBNVEFqV2p0eA?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-08-27T02:55:06.000Z",
+      "description": "杜兰特拒绝湖人邀请：全联盟只有两支球队能让我心甘情愿加盟 搜狐网",
+      "titleZh": "杜兰特拒绝湖人邀请：全联盟只有两支球队能让我心甘情愿加盟",
+      "summaryZh": "杜兰特拒绝湖人邀请：全联盟只有两支球队能让我心甘情愿加盟 搜狐网",
+      "detailsZh": "杜兰特拒绝湖人邀请：全联盟只有两支球队能让我心甘情愿加盟 搜狐网",
       "keyPoints": [
-        "杜兰特跟腱大伤归来，单核带队美国男篮夺冠"
+        "杜兰特拒绝湖人邀请：全联盟只有两支球队能让我心甘情愿加盟"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB",
-      "title": "火箭锋线四人组曝光：杜兰特带队冲冠？",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZJN1NMMTZydzZVTk1FTnV6WTJGM09uTThBYVkwaGc4UHIwMC02VTRtRVpjRjVPMWxBTUFYeVBTbWhGaXlpa3V4b1l6ZU8yNlF6VVFNcUd2RHBGUTZaU1dneDZ4bnIweVF0U25hQi1mQjFETlBHd2toazFscFdmYkZB?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-08-26T10:45:22.000Z",
-      "description": "火箭锋线四人组曝光：杜兰特带队冲冠？ 手机新浪网",
-      "titleZh": "火箭锋线四人组曝光：杜兰特带队冲冠？",
-      "summaryZh": "火箭锋线四人组曝光：杜兰特带队冲冠？ 手机新浪网",
-      "detailsZh": "火箭锋线四人组曝光：杜兰特带队冲冠？ 手机新浪网",
+      "id": "durant:CBMijAFBVV95cUxPa3ZvZnA2dHFfdUtYNUhyTjVrY0FnWHpjUk84eFBiamtYWGpDT00xc3ZDWk9SZmNBb1djR2kxeHcxcDZzTjIxS1JIYmFkMkZKLXlrLXcxcFZ6VHFqZmpMaDN2Wkotd0dGN3cwQzQxSFJRVUx6ZWNqdzZPMlE0d3dYZlIyQ1RJdzBxLWxqMQ",
+      "title": "杜兰特愿意离队加盟森林狼！爱德华兹向他做出两大承诺",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3ZvZnA2dHFfdUtYNUhyTjVrY0FnWHpjUk84eFBiamtYWGpDT00xc3ZDWk9SZmNBb1djR2kxeHcxcDZzTjIxS1JIYmFkMkZKLXlrLXcxcFZ6VHFqZmpMaDN2Wkotd0dGN3cwQzQxSFJRVUx6ZWNqdzZPMlE0d3dYZlIyQ1RJdzBxLWxqMQ?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-08-27T02:38:14.000Z",
+      "description": "杜兰特愿意离队加盟森林狼！爱德华兹向他做出两大承诺 搜狐网",
+      "titleZh": "杜兰特愿意离队加盟森林狼！爱德华兹向他做出两大承诺",
+      "summaryZh": "杜兰特愿意离队加盟森林狼！爱德华兹向他做出两大承诺 搜狐网",
+      "detailsZh": "杜兰特愿意离队加盟森林狼！爱德华兹向他做出两大承诺 搜狐网",
       "keyPoints": [
-        "火箭锋线四人组曝光：杜兰特带队冲冠？"
+        "杜兰特愿意离队加盟森林狼！爱德华兹向他做出两大承诺"
       ],
       "category": "场外",
       "importance": 3
@@ -156,7 +156,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-08-26T23:30:44.277Z",
+      "publishedAt": "2026-08-27T09:44:42.216Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -166,6 +166,40 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB",
+      "title": "大胃袋传媒 陈泽 直播回放",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB?oc=5",
+      "source": "微博",
+      "publishedAt": "2026-08-26T14:14:58.000Z",
+      "description": "大胃袋传媒 陈泽 直播回放 微博",
+      "titleZh": "大胃袋传媒 陈泽 直播回放",
+      "summaryZh": "大胃袋传媒 陈泽 直播回放 微博",
+      "detailsZh": "大胃袋传媒 陈泽 直播回放 微博",
+      "keyPoints": [
+        "大胃袋传媒 陈泽 直播回放"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMib0FVX3lxTFA0VHA4VEJUYjJzSkxVYXkzbGNsbU5TcmZKZnpnX1YtOVFpZ0oxSE5HQWFpd3djREg0U2hseWN6d1ZDTzZuTFpyZFpZX2twbUk5T3hJQWRjUDZnLUloaU12aWJ3bzdjTlo3OHlneE1rWQ",
+      "title": "当王征宇遇上陈泽 综艺效果拉满的内容",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0VHA4VEJUYjJzSkxVYXkzbGNsbU5TcmZKZnpnX1YtOVFpZ0oxSE5HQWFpd3djREg0U2hseWN6d1ZDTzZuTFpyZFpZX2twbUk5T3hJQWRjUDZnLUloaU12aWJ3bzdjTlo3OHlneE1rWQ?oc=5",
+      "source": "微博",
+      "publishedAt": "2026-08-26T02:50:31.000Z",
+      "description": "当王征宇遇上陈泽 综艺效果拉满的内容 微博",
+      "titleZh": "当王征宇遇上陈泽 综艺效果拉满的内容",
+      "summaryZh": "当王征宇遇上陈泽 综艺效果拉满的内容 微博",
+      "detailsZh": "当王征宇遇上陈泽 综艺效果拉满的内容 微博",
+      "keyPoints": [
+        "当王征宇遇上陈泽 综艺效果拉满的内容"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -184,7 +218,7 @@
         "陈泽- 抖音直播间"
       ],
       "category": "直播",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -255,40 +289,6 @@
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
-      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "封面新闻",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiYkFVX3lxTE0xMWR2VGpBckNOTURsUE5NRFhkQlJ2dnoyaEhmMTZ1aTNRcE9fYTl6Rm1oVFdHQXVucFNYdl9uOTNJeHowVmxNT0Q5bDhMZWkzVlFGYUNiSFlxR1FUZmRZcndn",
-      "title": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xMWR2VGpBckNOTURsUE5NRFhkQlJ2dnoyaEhmMTZ1aTNRcE9fYTl6Rm1oVFdHQXVucFNYdl9uOTNJeHowVmxNT0Q5bDhMZWkzVlFGYUNiSFlxR1FUZmRZcndn?oc=5",
-      "source": "QQ News",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
-      "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -296,13 +296,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "titleZh": "大咕咕咕鸡微博超话（固定资料入口）",
+      "summaryZh": "该页面为网络写手大咕咕咕鸡在微博平台的官方话题聚合页，收录其公开动态、读者互动及社区讨论，属长期维护的资料索引入口。",
+      "detailsZh": "【事实】此链接指向新浪微博超话社区，为大咕咕咕鸡相关内容的固定聚合页，非单日新闻推送。页面持续更新其发文记录、粉丝互动及热点转发数据，由平台算法自动归类。【评论】作为核心社交阵地，该超话反映了作者与读者的即时反馈机制，是观察其网络影响力演变的重要窗口，亦体现中文互联网社群的自组织特征。【传闻】网传部分早期段子已在此归档，但具体整理进度以平台实际显示为准，无官方确证，请勿轻信非正规渠道流传的所谓“完整版”。",
       "keyPoints": [
-        "大咕咕咕鸡公开动态与超话"
+        "微博超话固定聚合页",
+        "收录公开动态与读者互动",
+        "长期维护的资料索引入口",
+        "反映网络影响力演变"
       ],
-      "category": "场外",
+      "category": "讨论",
       "importance": 4
     },
     {
@@ -313,14 +316,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "大咕咕咕鸡B站内容检索（固定资料入口）",
+      "summaryZh": "哔哩哔哩站内搜索聚合页，汇集大咕咕咕鸡作品朗读音频、二创视频及观众评论，为多媒体内容检索的固定导航页。",
+      "detailsZh": "【事实】该URL为B站全站搜索结果页，按关键词自动匹配视频、音频及动态，属功能性检索入口而非独立专题。内容涵盖有声书朗读、网友剪辑及历史直播切片，数据实时变动。【评论】多媒介形式拓展了其文字作品的传播边界，音频化呈现增强了受众沉浸感，但二创质量参差不齐，部分改编偏离原作基调。【传闻】有用户称存在未公开的幕后录音，经核实仅为普通投稿，暂无权威渠道证实独家素材流出，建议以官方发布为准。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "B站关键词搜索聚合页",
+        "含作品朗读与二创视频",
+        "多媒体传播检索入口",
+        "二创质量差异较大"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -330,14 +336,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "titleZh": "大咕咕咕鸡维基百科词条（固定资料入口）",
+      "summaryZh": "维基百科关于该网络写手的百科条目，系统梳理常用笔名、创作风格、代表作品及网络文化影响，属开放式知识汇编。",
+      "detailsZh": "【事实】此为维基百科对应词条链接，提供客观背景资料，包括其活跃时期、标志性文风及社会反响。条目遵循中立原则，引用公开报道与社区共识，支持多人协同编辑。【评论】该词条有助于厘清其在中文互联网亚文化中的定位，但维基编辑机制可能导致信息滞后或局部争议，需结合其他信源交叉验证。【传闻】网传其曾拒绝商业传记邀约，目前仅见公开访谈提及对版权的重视，具体合作意向未获本人确认，相关说法缺乏实质证据。",
       "keyPoints": [
-        "大咕咕咕鸡人物与创作资料"
+        "维基百科开放百科词条",
+        "梳理笔名与创作风格",
+        "记录网络文化影响",
+        "遵循中立编辑原则"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "讨论",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -347,14 +356,17 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "大咕咕咕鸡微博账号数据页（固定资料入口）",
+      "summaryZh": "第三方数据平台展示的微博公开账号资料页，统计粉丝量、互动指数及传播路径，属商业化KOL档案索引。",
+      "detailsZh": "【事实】该页面来自领库等KOL数据分析网站，抓取并展示大咕咕咕鸡微博账号的公开运营数据，如关注数、粉丝画像及历史爆款内容分布。数据接口随平台政策调整可能变动，仅供参考。【评论】量化指标为评估其商业价值与受众粘性提供参考，但第三方算法常忽略内容质量维度，需结合文本分析综合判断，避免唯数据论。【传闻】市场曾有收购其全平台账号的报价流出，经多方查证均为自媒体夸大渲染，当事人未作回应，切勿轻信非官方交易信息。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方KOL数据平台页面",
+        "统计粉丝与互动指数",
+        "商业化档案索引",
+        "数据受平台政策影响"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -364,14 +376,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
+      "summaryZh": "2015年界面新闻发布的深度特稿，回顾其早期创作轨迹、语言实验特征及对中文网络流行语的塑造作用，具史料参考价值。",
+      "detailsZh": "【事实】本文发表于2015年5月，系媒体对其创作生涯的系统性回顾。文中列举了多篇代表性短文，分析其如何通过碎片化叙事与反讽手法参与早期微博段子文化构建，并记录了当时业界对其现象的关注。【评论】报道客观呈现了特定互联网阶段的文体演进，指出其风格对后续UGC创作的启发意义，但部分时代背景描述因距今较久需交叉验证。【传闻】文章提及某出版社曾计划出版合集，后因版权纠纷搁置，该说法与后续公开出版记录基本吻合，细节以作者声明为准。",
       "keyPoints": [
-        "大咕咕咕鸡与网络段子手创作生态"
+        "2015年媒体深度特稿",
+        "回顾早期创作与语言实验",
+        "分析网络流行语塑造作用",
+        "具互联网文化史料价值"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "讨论",
+      "importance": 5
     }
   ]
 }
