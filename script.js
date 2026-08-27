@@ -121,6 +121,14 @@ function selectSubject(subject) {
   document.querySelector("#subject-eyebrow").textContent = profile.eyebrow;
   document.querySelector("#hero-title").textContent = profile.name;
   document.querySelector("#subject-deck").textContent = profile.deck;
+  const primaryAction = document.querySelector(".primary-button");
+  if (subject === "dagu") {
+    primaryAction.href = "#works";
+    primaryAction.innerHTML = "查看作品文库 <span>↘</span>";
+  } else {
+    primaryAction.href = "#latest";
+    primaryAction.innerHTML = "查看最新动态 <span>↘</span>";
+  }
   const subjectNews = state.news.filter((item) => (item.subject || "durant") === subject);
   document.querySelector("#source-count").textContent = new Set(subjectNews.map((item) => item.source)).size || "—";
   renderFilters();
