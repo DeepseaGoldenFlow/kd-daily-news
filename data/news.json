@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T05:24:43.947Z",
+  "updatedAt": "2026-08-28T18:41:43.494Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,161 +16,139 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMijgFBVV95cUxQZlczTDd2bHBOUV9LMXF6VUpqVVpHYlhrTldjUjFTVmxtb0dqWG5mYUdkcVI3cVNWODRRaEZnMU1TQVVvWWRpRDBkVTVqdXc1aDlDMlFxc3daazVQZjA2WWRqeW5kU1Jna2RDRC1vV2hhNGFyd25ENEdCaU9abmlxUWh0aXVFekoybTAtOW1n",
-      "title": "杜兰特25万美元投资狂赚超6000万，收益超过其2026‑27赛季的薪资",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZlczTDd2bHBOUV9LMXF6VUpqVVpHYlhrTldjUjFTVmxtb0dqWG5mYUdkcVI3cVNWODRRaEZnMU1TQVVvWWRpRDBkVTVqdXc1aDlDMlFxc3daazVQZjA2WWRqeW5kU1Jna2RDRC1vV2hhNGFyd25ENEdCaU9abmlxUWh0aXVFekoybTAtOW1n?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-28T04:55:49.000Z",
-      "description": "杜兰特25万美元投资狂赚超6000万，收益超过其2026‑27赛季的薪资 新浪网",
-      "titleZh": "杜兰特25万美元投资狂赚超6000万，收益超过其2026‑27赛季的薪资",
-      "summaryZh": "杜兰特25万美元投资狂赚超6000万，收益超过其2026‑27赛季的薪资 新浪网",
-      "detailsZh": "杜兰特25万美元投资狂赚超6000万，收益超过其2026‑27赛季的薪资 新浪网",
+      "id": "durant:CBMi7gFBVV95cUxPQk84SXQ4eGdkZVpXWmpMcGZBaHFKbERYS285QzdUZGpUOVNGX0VKbWJkMGZEYklKTmV6Mmp4WXVMNVB3XzJ4MDk2d0haUG5oZHNua09vcnhVVDdZaU5aZWJDM0pxVGZUWGQ1M1pEY2NzOUJMbkFiWk5qYzhEMXFyQ3U3NGF2a1BoUWdJa0lJaG93TkpRTXdldmhRbXZlUUZnemxMSmFIaFVBTlk0UGpqazNjTVA0V0NJSk1XSlUxamgzQTFsdDdTTzc0cDZqNFpLY0trR2pZSmhPRG5FUVRQNGVpZ2ZPQUg0bmM1bFVB",
+      "title": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQk84SXQ4eGdkZVpXWmpMcGZBaHFKbERYS285QzdUZGpUOVNGX0VKbWJkMGZEYklKTmV6Mmp4WXVMNVB3XzJ4MDk2d0haUG5oZHNua09vcnhVVDdZaU5aZWJDM0pxVGZUWGQ1M1pEY2NzOUJMbkFiWk5qYzhEMXFyQ3U3NGF2a1BoUWdJa0lJaG93TkpRTXdldmhRbXZlUUZnemxMSmFIaFVBTlk0UGpqazNjTVA0V0NJSk1XSlUxamgzQTFsdDdTTzc0cDZqNFpLY0trR2pZSmhPRG5FUVRQNGVpZ2ZPQUg0bmM1bFVB?oc=5",
+      "source": "OKC Thunder Wire",
+      "publishedAt": "2026-08-28T18:00:00.000Z",
+      "description": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA OKC Thunder Wire",
+      "titleZh": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA",
+      "summaryZh": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA OKC Thunder Wire",
+      "detailsZh": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA OKC Thunder Wire",
       "keyPoints": [
-        "杜兰特25万美元投资狂赚超6000万，收益超过其2026‑27赛季的薪资"
+        "Kevin Durant reveals how he found out Russell Westbrook retired from NBA"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPeGRWdDBkOE1YSWxwcDdvV0tBek1NQ2t6NXhSLW5oNUpMZkpKQ2cyakxsTjk5XzdLUzZCaW1IQ0tDc0cwWTB2WXNTekdGbk5INFFkX1dueFE5dnhhZjB1Y2h2TGdCRUVvVjB0SDRxNGVkWFRLdDctMlF5YUxpWGlmZFp6bFBtUjBiVGd5Uw",
-      "title": "火箭一夜4消息！杜兰特投资25万暴赚6000万，阿门弹跳99高居联盟第一",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeGRWdDBkOE1YSWxwcDdvV0tBek1NQ2t6NXhSLW5oNUpMZkpKQ2cyakxsTjk5XzdLUzZCaW1IQ0tDc0cwWTB2WXNTekdGbk5INFFkX1dueFE5dnhhZjB1Y2h2TGdCRUVvVjB0SDRxNGVkWFRLdDctMlF5YUxpWGlmZFp6bFBtUjBiVGd5Uw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-08-28T04:50:35.000Z",
-      "description": "火箭一夜4消息！杜兰特投资25万暴赚6000万，阿门弹跳99高居联盟第一 搜狐网",
-      "titleZh": "火箭一夜4消息！杜兰特投资25万暴赚6000万，阿门弹跳99高居联盟第一",
-      "summaryZh": "火箭一夜4消息！杜兰特投资25万暴赚6000万，阿门弹跳99高居联盟第一 搜狐网",
-      "detailsZh": "火箭一夜4消息！杜兰特投资25万暴赚6000万，阿门弹跳99高居联盟第一 搜狐网",
+      "id": "durant:CBMisgFBVV95cUxPRlp2S196TnVlM0J6ZDVkOTh0dmRSWDVleVdBNXdtcGc2V2duNmtaUXZ0ZjFoa1c1a091N1pWMEhBUE9PX1NrS0taTTFxX0JaOUUzeTR1QWNrV3FNc1MybXMzaE9XTEhXa0RpUml5bWpoUjlZUzAtdU1iczRTQVVZUkRSR3lfRl9vRWlwUVgxalpFM2VBcVVqUkdIMGxwSzdNY0plYmFoclk0WTdZM3VaSmNB",
+      "title": "Kevin Durant Reveals Unreleased Collaboration With LeBron James",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlp2S196TnVlM0J6ZDVkOTh0dmRSWDVleVdBNXdtcGc2V2duNmtaUXZ0ZjFoa1c1a091N1pWMEhBUE9PX1NrS0taTTFxX0JaOUUzeTR1QWNrV3FNc1MybXMzaE9XTEhXa0RpUml5bWpoUjlZUzAtdU1iczRTQVVZUkRSR3lfRl9vRWlwUVgxalpFM2VBcVVqUkdIMGxwSzdNY0plYmFoclk0WTdZM3VaSmNB?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-08-28T18:00:00.000Z",
+      "description": "Kevin Durant Reveals Unreleased Collaboration With LeBron James Sports Illustrated",
+      "titleZh": "Kevin Durant Reveals Unreleased Collaboration With LeBron James",
+      "summaryZh": "Kevin Durant Reveals Unreleased Collaboration With LeBron James Sports Illustrated",
+      "detailsZh": "Kevin Durant Reveals Unreleased Collaboration With LeBron James Sports Illustrated",
       "keyPoints": [
-        "火箭一夜4消息！杜兰特投资25万暴赚6000万，阿门弹跳99高居联盟第一"
+        "Kevin Durant Reveals Unreleased Collaboration With LeBron James"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOTi1lRmpLY29CSTgxdlZXaWRWM2pxX1Fwb2w0MGp5a0IybGdoSEhoZWJWY2ExZTBwU1h0Q2QwblZocVpqMktGQlh5Qk5hSGdkbm1FS1ZHU2ZOenozNGI4UkdkcDBKaWowdDhTOUhRbkNnY09PVEFQTC01SGU5emlucl9FME4",
-      "title": "杜兰特：我在16岁打AAU比赛时意识到自己天赋异禀 对手都比我大",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTi1lRmpLY29CSTgxdlZXaWRWM2pxX1Fwb2w0MGp5a0IybGdoSEhoZWJWY2ExZTBwU1h0Q2QwblZocVpqMktGQlh5Qk5hSGdkbm1FS1ZHU2ZOenozNGI4UkdkcDBKaWowdDhTOUhRbkNnY09PVEFQTC01SGU5emlucl9FME4?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-08-28T04:30:00.000Z",
-      "description": "杜兰特：我在16岁打AAU比赛时意识到自己天赋异禀 对手都比我大 Sina Sports",
-      "titleZh": "杜兰特：我在16岁打AAU比赛时意识到自己天赋异禀 对手都比我大",
-      "summaryZh": "杜兰特：我在16岁打AAU比赛时意识到自己天赋异禀 对手都比我大 Sina Sports",
-      "detailsZh": "杜兰特：我在16岁打AAU比赛时意识到自己天赋异禀 对手都比我大 Sina Sports",
+      "id": "durant:CBMiigFBVV95cUxPQzVfWnkyRUVSa19rc3J4ck8xbDE1d192R3dVeVFBdlJfel92YTFCbEpmRDhWSGVJWFZfeW5FVkJ1Q0xNSGowdlcxUGZEMXBZRHVxb1RNVUpOOVdJYkhVY0tHX0QwaGFmd2x1YURjWEoxOElIVnVFeDdQZ3hrUnpXd0taX0pGRkh3Ync",
+      "title": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVfWnkyRUVSa19rc3J4ck8xbDE1d192R3dVeVFBdlJfel92YTFCbEpmRDhWSGVJWFZfeW5FVkJ1Q0xNSGowdlcxUGZEMXBZRHVxb1RNVUpOOVdJYkhVY0tHX0QwaGFmd2x1YURjWEoxOElIVnVFeDdQZ3hrUnpXd0taX0pGRkh3Ync?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-28T17:21:14.000Z",
+      "description": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever Yahoo Sports",
+      "titleZh": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever",
+      "summaryZh": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever Yahoo Sports",
+      "detailsZh": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever Yahoo Sports",
       "keyPoints": [
-        "杜兰特：我在16岁打AAU比赛时意识到自己天赋异禀 对手都比我大"
+        "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNQXJQS0JTbmpQQkJoWksxZWMyZ3l1MFVDRVRnU2k1U2p5d004amY4aWgwOV9hWkVNTUNCOE15dTNDMWtlZVFSU0pvYjhvN3ZNT1piR0NrdjUtWF9CcFRVUDhQMVc1VlNBczlfbUp6eDBLTlgwZmRjWldxMjk4TV9DRWY2YkY",
-      "title": "杜兰特：高中生应直接进入NBA 大学体育早该付钱给球员了",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXJQS0JTbmpQQkJoWksxZWMyZ3l1MFVDRVRnU2k1U2p5d004amY4aWgwOV9hWkVNTUNCOE15dTNDMWtlZVFSU0pvYjhvN3ZNT1piR0NrdjUtWF9CcFRVUDhQMVc1VlNBczlfbUp6eDBLTlgwZmRjWldxMjk4TV9DRWY2YkY?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-08-28T04:28:30.000Z",
-      "description": "杜兰特：高中生应直接进入NBA 大学体育早该付钱给球员了 Sina Sports",
-      "titleZh": "杜兰特：高中生应直接进入NBA 大学体育早该付钱给球员了",
-      "summaryZh": "杜兰特：高中生应直接进入NBA 大学体育早该付钱给球员了 Sina Sports",
-      "detailsZh": "杜兰特：高中生应直接进入NBA 大学体育早该付钱给球员了 Sina Sports",
+      "id": "durant:CBMirgFBVV95cUxQbGMtZVFkVUUwenZhbE1tcHp2WUFHcTNHNlpILUFSdmJ6S3FuTWdvRURHSTRNVlJUZU4yVmlsR21TVkNMMDNjcFltMVROWnhVVHFxVF9OV3Y5RGU4bkpNNldiZ08teXh0bF9WSmkzMldGTS1PTWY1dVNUNmtVNjVvZEctajQtbUVqdDFEbV9TN05OcjB4UlVlNXVvQUtqZXRabjZpR2tJQ2F0S3hTRVE",
+      "title": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGMtZVFkVUUwenZhbE1tcHp2WUFHcTNHNlpILUFSdmJ6S3FuTWdvRURHSTRNVlJUZU4yVmlsR21TVkNMMDNjcFltMVROWnhVVHFxVF9OV3Y5RGU4bkpNNldiZ08teXh0bF9WSmkzMldGTS1PTWY1dVNUNmtVNjVvZEctajQtbUVqdDFEbV9TN05OcjB4UlVlNXVvQUtqZXRabjZpR2tJQ2F0S3hTRVE?oc=5",
+      "source": "hitc.com",
+      "publishedAt": "2026-08-28T16:58:52.000Z",
+      "description": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA hitc.com",
+      "titleZh": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA",
+      "summaryZh": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA hitc.com",
+      "detailsZh": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA hitc.com",
       "keyPoints": [
-        "杜兰特：高中生应直接进入NBA 大学体育早该付钱给球员了"
+        "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOMlh1OVA0UTVxSWZsQ1d4V2Y3VGJhUDFSelllTHhZRVdHVkNoR2NKdHYwTnJKTW0tWlhfYTNnMG9kdnlKbGwwRXVYUlEyQ3VQTGtHdEU5Z1JYbkN1VGJSRjRFb3B5UHg3WXJHWVBCNjN2amhWNFdGMXFiN0l1NmdvYm5jYlo",
-      "title": "杜兰特：我喜欢在通道里交换球衣&来者不拒 但不喜欢半裸被人看",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlh1OVA0UTVxSWZsQ1d4V2Y3VGJhUDFSelllTHhZRVdHVkNoR2NKdHYwTnJKTW0tWlhfYTNnMG9kdnlKbGwwRXVYUlEyQ3VQTGtHdEU5Z1JYbkN1VGJSRjRFb3B5UHg3WXJHWVBCNjN2amhWNFdGMXFiN0l1NmdvYm5jYlo?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-08-28T04:28:30.000Z",
-      "description": "杜兰特：我喜欢在通道里交换球衣&来者不拒 但不喜欢半裸被人看 Sina Sports",
-      "titleZh": "杜兰特：我喜欢在通道里交换球衣&来者不拒 但不喜欢半裸被人看",
-      "summaryZh": "杜兰特：我喜欢在通道里交换球衣&来者不拒 但不喜欢半裸被人看 Sina Sports",
-      "detailsZh": "杜兰特：我喜欢在通道里交换球衣&来者不拒 但不喜欢半裸被人看 Sina Sports",
+      "id": "durant:CBMihgFBVV95cUxPdXNzel9NOEt3WEJBLVhfXzZKTFZleC1MLURpb3ZEcDhlZEh0TTdkZXphZFFFYmE2bmVxcU1XVmtpYlJrSzBYU3BmMjBHR2hmZnN6bjc4X2NCLUVzNDRuclUzQkw0NnJWZ2lKYWEyMEhMV05mcFM5OUptRUVFSmJ4LUQ0c080QQ",
+      "title": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXNzel9NOEt3WEJBLVhfXzZKTFZleC1MLURpb3ZEcDhlZEh0TTdkZXphZFFFYmE2bmVxcU1XVmtpYlJrSzBYU3BmMjBHR2hmZnN6bjc4X2NCLUVzNDRuclUzQkw0NnJWZ2lKYWEyMEhMV05mcFM5OUptRUVFSmJ4LUQ0c080QQ?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-28T16:54:15.000Z",
+      "description": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals Yahoo Sports",
+      "titleZh": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals",
+      "summaryZh": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals Yahoo Sports",
+      "detailsZh": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals Yahoo Sports",
       "keyPoints": [
-        "杜兰特：我喜欢在通道里交换球衣&来者不拒 但不喜欢半裸被人看"
+        "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijgFBVV95cUxQeVZsZ3F1X3haTWFMSGcySGtDOFRxM1dOQ0duYUo5RzhwbkNld3NwNnpoTUhUWFNpS2toUVF1ZnhDWmg4ZXQxd1MxZld6bFVFYVl0OXFCbTZNN3B1M1ZsaWowUzNxSlhsV0tuVkVFNjZsRjJmUE5saHB0S2luQ0NmR3IxOUcwU3dxbC1JM3V3",
-      "title": "杜兰特谈布伦森少拿1.13 亿：值得敬佩，但换做是我会被身边人劝住",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVZsZ3F1X3haTWFMSGcySGtDOFRxM1dOQ0duYUo5RzhwbkNld3NwNnpoTUhUWFNpS2toUVF1ZnhDWmg4ZXQxd1MxZld6bFVFYVl0OXFCbTZNN3B1M1ZsaWowUzNxSlhsV0tuVkVFNjZsRjJmUE5saHB0S2luQ0NmR3IxOUcwU3dxbC1JM3V3?oc=5",
+      "id": "durant:CBMiggFBVV95cUxPZ3ZicUktVnFVTlBpaFJsb1RVM3FEbkZRdlNqZzVVX2tyaHBXMEJaRW93WEpnYkg1U2ZOdm9ZSFprT3pmdUhhVXc3MnBiWmlnM0JSWjJJVllWZkw2NjJRTzhwQlpWcXZXRndBMTRIU0JicldlNGRaNzZHLVBuOF9wRVR3",
+      "title": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3ZicUktVnFVTlBpaFJsb1RVM3FEbkZRdlNqZzVVX2tyaHBXMEJaRW93WEpnYkg1U2ZOdm9ZSFprT3pmdUhhVXc3MnBiWmlnM0JSWjJJVllWZkw2NjJRTzhwQlpWcXZXRndBMTRIU0JicldlNGRaNzZHLVBuOF9wRVR3?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-08-28T04:15:33.000Z",
-      "description": "杜兰特谈布伦森少拿1.13 亿：值得敬佩，但换做是我会被身边人劝住 新浪网",
-      "titleZh": "杜兰特谈布伦森少拿1.13 亿：值得敬佩，但换做是我会被身边人劝住",
-      "summaryZh": "杜兰特谈布伦森少拿1.13 亿：值得敬佩，但换做是我会被身边人劝住 新浪网",
-      "detailsZh": "杜兰特谈布伦森少拿1.13 亿：值得敬佩，但换做是我会被身边人劝住 新浪网",
+      "publishedAt": "2026-08-28T16:42:39.000Z",
+      "description": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲 新浪网",
+      "titleZh": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲",
+      "summaryZh": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲 新浪网",
+      "detailsZh": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲 新浪网",
       "keyPoints": [
-        "杜兰特谈布伦森少拿1.13 亿：值得敬佩，但换做是我会被身边人劝住"
+        "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxPMmNLLTh1T05KWDhzcDJRb21wLWJrbmV3WDJfLVN4T3hfQkxJT2cyWm5WU3kwVExBYWY3SFdCZWxBNG1UN3lCZHhrNW0tN0lwNks4SlJSU0EtNnBBdmh1OGRvZFJPQkJweENqdUhHWXlSX3FWUzZfUm5HZ0VVYUNRbQ",
-      "title": "杜兰特回忆2011年与詹姆斯录歌，詹姆斯回应称保留录音",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMmNLLTh1T05KWDhzcDJRb21wLWJrbmV3WDJfLVN4T3hfQkxJT2cyWm5WU3kwVExBYWY3SFdCZWxBNG1UN3lCZHhrNW0tN0lwNks4SlJSU0EtNnBBdmh1OGRvZFJPQkJweENqdUhHWXlSX3FWUzZfUm5HZ0VVYUNRbQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-28T03:29:56.000Z",
-      "description": "杜兰特回忆2011年与詹姆斯录歌，詹姆斯回应称保留录音 新浪网",
-      "titleZh": "杜兰特回忆2011年与詹姆斯录歌，詹姆斯回应称保留录音",
-      "summaryZh": "杜兰特回忆2011年与詹姆斯录歌，詹姆斯回应称保留录音 新浪网",
-      "detailsZh": "杜兰特回忆2011年与詹姆斯录歌，詹姆斯回应称保留录音 新浪网",
+      "id": "durant:CBMivwFBVV95cUxOVzRJY2lNV0lvS0xLUTQyV3BFcDA2WTVRY2xrOEdnTldrX18tVWtSUzBOZC1NcnpVUG44V25ZX2VCUHU5ZXJvcWNzSThxbUdPN0FjX1VTMVNfQndEWE9QMVVnUGxoQ0wyWjMzZXRjWnNiU21ZZUZtcHN1MF9wWENwWXdTamtqaDE3dUg1SE50MmRCaDk4U0RNWEV3SWhuOTlMNlVLNEo4X1U2THBTTm5IMFNZQUdkVFMwY0dadTRtNA",
+      "title": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzRJY2lNV0lvS0xLUTQyV3BFcDA2WTVRY2xrOEdnTldrX18tVWtSUzBOZC1NcnpVUG44V25ZX2VCUHU5ZXJvcWNzSThxbUdPN0FjX1VTMVNfQndEWE9QMVVnUGxoQ0wyWjMzZXRjWnNiU21ZZUZtcHN1MF9wWENwWXdTamtqaDE3dUg1SE50MmRCaDk4U0RNWEV3SWhuOTlMNlVLNEo4X1U2THBTTm5IMFNZQUdkVFMwY0dadTRtNA?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-08-28T16:37:00.000Z",
+      "description": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders Basketball Network",
+      "titleZh": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders",
+      "summaryZh": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders Basketball Network",
+      "detailsZh": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders Basketball Network",
       "keyPoints": [
-        "杜兰特回忆2011年与詹姆斯录歌，詹姆斯回应称保留录音"
+        "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOWXpjazBDRk5PSE9WV1FKTTZGTVM5YlRsOVdTTGl3UUVNTU9fSzU4dkszdWFON3kwaklJLW80NkhzNURqNFo2bFpRSWx4elhiV3RkTzZjUldBWlR6aDJhcjdPMHRnSmZpM2UwWEctaDdHS0trYm9ieTN5YmpDWkNCSHRSUUY",
-      "title": "杜兰特：我曾在披萨店偷了一块钱被抓 我真不是那块料&只会打篮球",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXpjazBDRk5PSE9WV1FKTTZGTVM5YlRsOVdTTGl3UUVNTU9fSzU4dkszdWFON3kwaklJLW80NkhzNURqNFo2bFpRSWx4elhiV3RkTzZjUldBWlR6aDJhcjdPMHRnSmZpM2UwWEctaDdHS0trYm9ieTN5YmpDWkNCSHRSUUY?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-08-28T03:25:44.000Z",
-      "description": "杜兰特：我曾在披萨店偷了一块钱被抓 我真不是那块料&只会打篮球 Sina Sports",
-      "titleZh": "杜兰特：我曾在披萨店偷了一块钱被抓 我真不是那块料&只会打篮球",
-      "summaryZh": "杜兰特：我曾在披萨店偷了一块钱被抓 我真不是那块料&只会打篮球 Sina Sports",
-      "detailsZh": "杜兰特：我曾在披萨店偷了一块钱被抓 我真不是那块料&只会打篮球 Sina Sports",
+      "id": "durant:CBMifkFVX3lxTFA2cnFsc25NdHhiNGRLNW9CZDdMRTZuSXhYV1lka1ZHZUFaalUyNkdTYXRlSzJGdk9PajMyOUJ0UW5mX0hGaURXM29NNDR3cFFFNWhZdDh6UkVBZ0lGSzZMZFJrMVZOUVFaRWhZWng4dU9JMXBWdngtdFl6bEl4UQ",
+      "title": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2cnFsc25NdHhiNGRLNW9CZDdMRTZuSXhYV1lka1ZHZUFaalUyNkdTYXRlSzJGdk9PajMyOUJ0UW5mX0hGaURXM29NNDR3cFFFNWhZdDh6UkVBZ0lGSzZMZFJrMVZOUVFaRWhZWng4dU9JMXBWdngtdFl6bEl4UQ?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-28T16:21:38.000Z",
+      "description": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary Yahoo Sports",
+      "titleZh": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary",
+      "summaryZh": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary Yahoo Sports",
+      "detailsZh": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary Yahoo Sports",
       "keyPoints": [
-        "杜兰特：我曾在披萨店偷了一块钱被抓 我真不是那块料&只会打篮球"
+        "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary"
       ],
       "category": "场外",
       "importance": 3
-    },
-    {
-      "id": "chenze:chenze-douyin-live",
-      "title": "陈泽- 抖音直播间",
-      "url": "https://live.douyin.com/9896719",
-      "source": "抖音直播",
-      "categoryHint": "直播",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "游戏主播陈泽抖音官方直播间入口",
-      "summaryZh": "明确标注为陈泽自2024年起转战后的固定直播主页。抖音号9896719，通常晚间开播，具体状态以平台实时显示为准，非当日新闻。",
-      "detailsZh": "【事实】该链接为游戏主播陈泽自2024年正式迁移至抖音平台后的官方直播间固定入口，抖音账号ID为9896719。页面提供实时直播信号、回放存档及粉丝互动功能。【评论】此举标志着其直播主阵地从早期虎牙等平台完成战略转移，更贴合当前短视频与直播生态的流量分发逻辑。【传闻】网传其近期排班有所调整，但具体开播时间仍须以抖音APP内“正在直播”标识为准，切勿轻信第三方搬运的旧房间链接或过时预告。",
-      "keyPoints": [
-        "2024年起主阵地迁至抖音",
-        "官方抖音号为9896719",
-        "属固定主页入口非当日动态",
-        "开播时间以平台实时状态为准"
-      ],
-      "category": "直播",
-      "importance": 5
     },
     {
       "subject": "chenze",
@@ -178,7 +156,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-08-28T05:22:41.254Z",
+      "publishedAt": "2026-08-28T18:39:39.004Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -258,6 +236,25 @@
       "importance": 3
     },
     {
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "keyPoints": [
+        "陈泽- 抖音直播间"
+      ],
+      "category": "直播",
+      "importance": 3
+    },
+    {
       "id": "chenze:chenze-bilibili-search",
       "title": "哔哩哔哩陈泽相关视频",
       "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD",
@@ -299,17 +296,14 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话：大咕咕咕鸡公开动态与读者讨论（固定入口）",
-      "summaryZh": "该页面为微博平台设立的固定聚合入口，集中收录该写手的过往公开动态、粉丝二创及日常讨论，非单日新闻推送。",
-      "detailsZh": "【事实】此链接指向新浪微博超话社区，属于长期维护的固定资料索引页，持续更新相关话题标签下的用户发言与转发记录。【评论】作为早期微博生态的产物，该超话见证了其从现象级热点到常态化讨论的演变过程，是研究中文互联网早期段子文化的重要文本库。【传闻】网传部分历史高赞内容已被平台算法折叠或清理，具体留存状态需以实时检索为准，切勿将未标注日期的旧帖误认为近期新作。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "keyPoints": [
-        "微博超话固定聚合页",
-        "收录历史动态与粉丝讨论",
-        "非单日新闻推送",
-        "早期互联网文化样本"
+        "大咕咕咕鸡公开动态与超话"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -319,17 +313,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩搜索聚合：作品朗读与相关视频（固定入口）",
-      "summaryZh": "此为B站关键词搜索结果页的固定快照，汇总了网友对其文字内容的音频朗读、鬼畜剪辑及科普解说，仅作资料索引使用。",
-      "detailsZh": "【事实】该URL为哔哩哔哩全站搜索接口生成的静态结果页，包含大量UP主制作的“大咕咕咕鸡语录”配音、短视频切片及创作背景解析。【评论】这些二次创作客观上延长了其原始文本的传播生命周期，使其幽默风格在Z世代群体中得以延续，但多数内容已脱离原作者语境进行娱乐化重构。【传闻】部分视频声称引用“未公开手稿”或“内部爆料”，经核实均为网友杜撰或拼接，建议仅参考带有明确来源标注的考据类内容。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "B站搜索结果固定页",
-        "含音频朗读与二创视频",
-        "传播周期延长载体",
-        "需甄别杜撰内容"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -339,17 +330,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科：人物生平与创作资料（固定入口）",
-      "summaryZh": "维基百科词条页面，系统梳理其常用笔名、代表句式、创作风格演变及网络影响力，属长期更新的开放式百科资料库。",
-      "detailsZh": "【事实】该条目采用中立叙述体例，按时间轴记录其活跃期（约2010至2015年）的核心事件、标志性段子及其对中文网络语境的渗透程度。【评论】编委会通过多源交叉验证维持内容客观性，将其定位为中文社交媒体早期的“模因先驱”之一，学术引用价值较高。【传闻】个别版本曾争议其真实身份归属，目前主流共识认为应以公开署名及可查证媒体报道为准，不采信匿名论坛猜测。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "keyPoints": [
-        "开放式百科固定词条",
-        "梳理活跃期与代表作",
-        "定位早期网络模因先驱",
-        "身份争议以可查报道为准"
+        "大咕咕咕鸡人物与创作资料"
       ],
-      "category": "讨论",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -359,17 +347,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库数据：微博账号公开资料与传播指标（固定入口）",
-      "summaryZh": "第三方数据平台提供的账号档案页，展示粉丝量级、互动热度及商业合作轨迹，仅供行业分析参考，非时效性资讯。",
-      "detailsZh": "【事实】该页面抓取并结构化呈现该微博账号的历史运营数据，包括关注数、博文发布频率、转发评论峰值及关联营销节点。【评论】数据维度反映了其在流量红利期的商业转化能力，但受限于平台规则变更，部分历史指标已无法完整还原当时的实际触达率。【传闻】市场流传其后期转型MCN机构或参与直播带货的说法，经查证无官方公告支撑，属行业误读，应以本人社交账号声明为准。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "第三方数据档案页",
-        "展示历史运营与互动指标",
-        "反映流量期商业转化",
-        "转型说法无官方证实"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -379,17 +364,14 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻报道：创作风格与网络段子手生态回顾",
-      "summaryZh": "2015年刊发的深度特稿，回溯其语言解构手法及对同期自媒体创作范式的影响，属历史性行业观察而非当日动态。",
-      "detailsZh": "【事实】该文发表于2015年5月，通过采访同行与平台运营人员，客观记录其“反逻辑叙事”如何打破当时微博同质化内容格局，并引发媒体跟进模仿。【评论】报道指出其成功源于精准捕捉都市青年的情绪宣泄需求，但也暗示过度依赖碎片化表达限制了长篇创作的突破，这一判断至今仍具参考价值。【传闻】文中提及的“某平台限流导致沉寂”仅为当时行业推测，后续并无权威信源证实，创作者本人亦未对此作正式回应。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "记录反逻辑叙事影响",
-        "分析情绪宣泄需求",
-        "限流说法属当年推测"
+        "大咕咕咕鸡与网络段子手创作生态"
       ],
-      "category": "讨论",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     }
   ]
 }
