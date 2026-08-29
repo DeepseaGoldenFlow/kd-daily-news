@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:41:43.494Z",
+  "updatedAt": "2026-08-29T02:12:34.659Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,221 +16,136 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMi7gFBVV95cUxPQk84SXQ4eGdkZVpXWmpMcGZBaHFKbERYS285QzdUZGpUOVNGX0VKbWJkMGZEYklKTmV6Mmp4WXVMNVB3XzJ4MDk2d0haUG5oZHNua09vcnhVVDdZaU5aZWJDM0pxVGZUWGQ1M1pEY2NzOUJMbkFiWk5qYzhEMXFyQ3U3NGF2a1BoUWdJa0lJaG93TkpRTXdldmhRbXZlUUZnemxMSmFIaFVBTlk0UGpqazNjTVA0V0NJSk1XSlUxamgzQTFsdDdTTzc0cDZqNFpLY0trR2pZSmhPRG5FUVRQNGVpZ2ZPQUg0bmM1bFVB",
-      "title": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQk84SXQ4eGdkZVpXWmpMcGZBaHFKbERYS285QzdUZGpUOVNGX0VKbWJkMGZEYklKTmV6Mmp4WXVMNVB3XzJ4MDk2d0haUG5oZHNua09vcnhVVDdZaU5aZWJDM0pxVGZUWGQ1M1pEY2NzOUJMbkFiWk5qYzhEMXFyQ3U3NGF2a1BoUWdJa0lJaG93TkpRTXdldmhRbXZlUUZnemxMSmFIaFVBTlk0UGpqazNjTVA0V0NJSk1XSlUxamgzQTFsdDdTTzc0cDZqNFpLY0trR2pZSmhPRG5FUVRQNGVpZ2ZPQUg0bmM1bFVB?oc=5",
-      "source": "OKC Thunder Wire",
-      "publishedAt": "2026-08-28T18:00:00.000Z",
-      "description": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA OKC Thunder Wire",
-      "titleZh": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA",
-      "summaryZh": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA OKC Thunder Wire",
-      "detailsZh": "Kevin Durant reveals how he found out Russell Westbrook retired from NBA OKC Thunder Wire",
+      "id": "durant:search:https://www.sohu.com/a/1066368324_122065634",
+      "title": "8月23日:KD离队倒计时?休媒曝三大下家,赴掘金辅佐约基奇,或入骑士迎回哈登",
+      "url": "https://www.sohu.com/a/1066368324_122065634",
+      "source": "搜狐网",
+      "publishedAt": "2026-08-29T02:10:12.403Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "8月23日:KD离队倒计时?休媒曝三大下家,赴掘金辅佐约基奇,或入骑士迎回哈登",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "Kevin Durant reveals how he found out Russell Westbrook retired from NBA"
+        "8月23日:KD离队倒计时?休媒曝三大下家,赴掘金辅佐约基奇,或入骑士迎回哈登"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMisgFBVV95cUxPRlp2S196TnVlM0J6ZDVkOTh0dmRSWDVleVdBNXdtcGc2V2duNmtaUXZ0ZjFoa1c1a091N1pWMEhBUE9PX1NrS0taTTFxX0JaOUUzeTR1QWNrV3FNc1MybXMzaE9XTEhXa0RpUml5bWpoUjlZUzAtdU1iczRTQVVZUkRSR3lfRl9vRWlwUVgxalpFM2VBcVVqUkdIMGxwSzdNY0plYmFoclk0WTdZM3VaSmNB",
-      "title": "Kevin Durant Reveals Unreleased Collaboration With LeBron James",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlp2S196TnVlM0J6ZDVkOTh0dmRSWDVleVdBNXdtcGc2V2duNmtaUXZ0ZjFoa1c1a091N1pWMEhBUE9PX1NrS0taTTFxX0JaOUUzeTR1QWNrV3FNc1MybXMzaE9XTEhXa0RpUml5bWpoUjlZUzAtdU1iczRTQVVZUkRSR3lfRl9vRWlwUVgxalpFM2VBcVVqUkdIMGxwSzdNY0plYmFoclk0WTdZM3VaSmNB?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-08-28T18:00:00.000Z",
-      "description": "Kevin Durant Reveals Unreleased Collaboration With LeBron James Sports Illustrated",
-      "titleZh": "Kevin Durant Reveals Unreleased Collaboration With LeBron James",
-      "summaryZh": "Kevin Durant Reveals Unreleased Collaboration With LeBron James Sports Illustrated",
-      "detailsZh": "Kevin Durant Reveals Unreleased Collaboration With LeBron James Sports Illustrated",
+      "id": "durant:CBMiuAFBVV95cUxNd1JMcXY4NS1KMi00VDN1ZFJ5R2VxX0IzUGFCZEhWRmpDRUUzcGRVZU9OQV81NWZER2syNmlZcVlIZG9lb2ZETHJEQTdxUUM4eF9ycHhEUXZHbjkwWWdTaE4zUFJEWFRObzB1NFh2V2dtSXMza3lnZlVGVTl5Y3JCZFpOd1RTbzRja3NiYjl0cS1xVk5UU2Vxc25SNVRvcmxvbzVRWjhZLUVKS0Vlek94QVRGTTZ2ak9U",
+      "title": "Should the Rockets worry about a Kevin Durant trade request?",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1JMcXY4NS1KMi00VDN1ZFJ5R2VxX0IzUGFCZEhWRmpDRUUzcGRVZU9OQV81NWZER2syNmlZcVlIZG9lb2ZETHJEQTdxUUM4eF9ycHhEUXZHbjkwWWdTaE4zUFJEWFRObzB1NFh2V2dtSXMza3lnZlVGVTl5Y3JCZFpOd1RTbzRja3NiYjl0cS1xVk5UU2Vxc25SNVRvcmxvbzVRWjhZLUVKS0Vlek94QVRGTTZ2ak9U?oc=5",
+      "source": "Yardbarker",
+      "publishedAt": "2026-08-29T01:30:29.000Z",
+      "description": "Should the Rockets worry about a Kevin Durant trade request? Yardbarker",
+      "titleZh": "Should the Rockets worry about a Kevin Durant trade request?",
+      "summaryZh": "Should the Rockets worry about a Kevin Durant trade request? Yardbarker",
+      "detailsZh": "Should the Rockets worry about a Kevin Durant trade request? Yardbarker",
       "keyPoints": [
-        "Kevin Durant Reveals Unreleased Collaboration With LeBron James"
+        "Should the Rockets worry about a Kevin Durant trade request?"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiigFBVV95cUxPQzVfWnkyRUVSa19rc3J4ck8xbDE1d192R3dVeVFBdlJfel92YTFCbEpmRDhWSGVJWFZfeW5FVkJ1Q0xNSGowdlcxUGZEMXBZRHVxb1RNVUpOOVdJYkhVY0tHX0QwaGFmd2x1YURjWEoxOElIVnVFeDdQZ3hrUnpXd0taX0pGRkh3Ync",
-      "title": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVfWnkyRUVSa19rc3J4ck8xbDE1d192R3dVeVFBdlJfel92YTFCbEpmRDhWSGVJWFZfeW5FVkJ1Q0xNSGowdlcxUGZEMXBZRHVxb1RNVUpOOVdJYkhVY0tHX0QwaGFmd2x1YURjWEoxOElIVnVFeDdQZ3hrUnpXd0taX0pGRkh3Ync?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-28T17:21:14.000Z",
-      "description": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever Yahoo Sports",
-      "titleZh": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever",
-      "summaryZh": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever Yahoo Sports",
-      "detailsZh": "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever Yahoo Sports",
-      "keyPoints": [
-        "Victor Wembanyama, Spurs had Kevin Durant fooled until Knicks pulled off one of the craziest Finals runs ever"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMirgFBVV95cUxQbGMtZVFkVUUwenZhbE1tcHp2WUFHcTNHNlpILUFSdmJ6S3FuTWdvRURHSTRNVlJUZU4yVmlsR21TVkNMMDNjcFltMVROWnhVVHFxVF9OV3Y5RGU4bkpNNldiZ08teXh0bF9WSmkzMldGTS1PTWY1dVNUNmtVNjVvZEctajQtbUVqdDFEbV9TN05OcjB4UlVlNXVvQUtqZXRabjZpR2tJQ2F0S3hTRVE",
-      "title": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGMtZVFkVUUwenZhbE1tcHp2WUFHcTNHNlpILUFSdmJ6S3FuTWdvRURHSTRNVlJUZU4yVmlsR21TVkNMMDNjcFltMVROWnhVVHFxVF9OV3Y5RGU4bkpNNldiZ08teXh0bF9WSmkzMldGTS1PTWY1dVNUNmtVNjVvZEctajQtbUVqdDFEbV9TN05OcjB4UlVlNXVvQUtqZXRabjZpR2tJQ2F0S3hTRVE?oc=5",
-      "source": "hitc.com",
-      "publishedAt": "2026-08-28T16:58:52.000Z",
-      "description": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA hitc.com",
-      "titleZh": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA",
-      "summaryZh": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA hitc.com",
-      "detailsZh": "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA hitc.com",
-      "keyPoints": [
-        "Rockets face bombshell Kevin Durant-Joel Embiid trade proposal that could shake the NBA"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxPdXNzel9NOEt3WEJBLVhfXzZKTFZleC1MLURpb3ZEcDhlZEh0TTdkZXphZFFFYmE2bmVxcU1XVmtpYlJrSzBYU3BmMjBHR2hmZnN6bjc4X2NCLUVzNDRuclUzQkw0NnJWZ2lKYWEyMEhMV05mcFM5OUptRUVFSmJ4LUQ0c080QQ",
-      "title": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXNzel9NOEt3WEJBLVhfXzZKTFZleC1MLURpb3ZEcDhlZEh0TTdkZXphZFFFYmE2bmVxcU1XVmtpYlJrSzBYU3BmMjBHR2hmZnN6bjc4X2NCLUVzNDRuclUzQkw0NnJWZ2lKYWEyMEhMV05mcFM5OUptRUVFSmJ4LUQ0c080QQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-28T16:54:15.000Z",
-      "description": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals Yahoo Sports",
-      "titleZh": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals",
-      "summaryZh": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals Yahoo Sports",
-      "detailsZh": "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals Yahoo Sports",
-      "keyPoints": [
-        "LeBron James and Kevin Durant have more rap songs in the vault, Rocket star reveals"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxPZ3ZicUktVnFVTlBpaFJsb1RVM3FEbkZRdlNqZzVVX2tyaHBXMEJaRW93WEpnYkg1U2ZOdm9ZSFprT3pmdUhhVXc3MnBiWmlnM0JSWjJJVllWZkw2NjJRTzhwQlpWcXZXRndBMTRIU0JicldlNGRaNzZHLVBuOF9wRVR3",
-      "title": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3ZicUktVnFVTlBpaFJsb1RVM3FEbkZRdlNqZzVVX2tyaHBXMEJaRW93WEpnYkg1U2ZOdm9ZSFprT3pmdUhhVXc3MnBiWmlnM0JSWjJJVllWZkw2NjJRTzhwQlpWcXZXRndBMTRIU0JicldlNGRaNzZHLVBuOF9wRVR3?oc=5",
+      "id": "durant:CBMijwFBVV95cUxPZUphSW9rUmx6R1g4RmozUjFYZk5BTzNxTUEwV1lkUkVvRmlCMUllLXhMQWxZbXRaVS16cXJlN0MyejVWay01VFduZHZFaWd3R2VLZHdHdUFHN0YyeC1GVXNsNktfZVJRZi1qOUVRdWE5a1N5ZzN3ck9RX25tcWhzNklwbC1zdHdNSWdTZ0FnOA",
+      "title": "杜兰特：詹姆斯懂得如何组建一支能赢的球队，新76人将极具统治力",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUphSW9rUmx6R1g4RmozUjFYZk5BTzNxTUEwV1lkUkVvRmlCMUllLXhMQWxZbXRaVS16cXJlN0MyejVWay01VFduZHZFaWd3R2VLZHdHdUFHN0YyeC1GVXNsNktfZVJRZi1qOUVRdWE5a1N5ZzN3ck9RX25tcWhzNklwbC1zdHdNSWdTZ0FnOA?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-08-28T16:42:39.000Z",
-      "description": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲 新浪网",
-      "titleZh": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲",
-      "summaryZh": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲 新浪网",
-      "detailsZh": "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲 新浪网",
+      "publishedAt": "2026-08-29T01:09:54.000Z",
+      "description": "杜兰特：詹姆斯懂得如何组建一支能赢的球队，新76人将极具统治力 新浪网",
+      "titleZh": "杜兰特：詹姆斯懂得如何组建一支能赢的球队，新76人将极具统治力",
+      "summaryZh": "杜兰特：詹姆斯懂得如何组建一支能赢的球队，新76人将极具统治力 新浪网",
+      "detailsZh": "杜兰特：詹姆斯懂得如何组建一支能赢的球队，新76人将极具统治力 新浪网",
       "keyPoints": [
-        "杜兰特谈尼克斯夺冠，及布伦森降薪做牺牲"
+        "杜兰特：詹姆斯懂得如何组建一支能赢的球队，新76人将极具统治力"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMivwFBVV95cUxOVzRJY2lNV0lvS0xLUTQyV3BFcDA2WTVRY2xrOEdnTldrX18tVWtSUzBOZC1NcnpVUG44V25ZX2VCUHU5ZXJvcWNzSThxbUdPN0FjX1VTMVNfQndEWE9QMVVnUGxoQ0wyWjMzZXRjWnNiU21ZZUZtcHN1MF9wWENwWXdTamtqaDE3dUg1SE50MmRCaDk4U0RNWEV3SWhuOTlMNlVLNEo4X1U2THBTTm5IMFNZQUdkVFMwY0dadTRtNA",
-      "title": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzRJY2lNV0lvS0xLUTQyV3BFcDA2WTVRY2xrOEdnTldrX18tVWtSUzBOZC1NcnpVUG44V25ZX2VCUHU5ZXJvcWNzSThxbUdPN0FjX1VTMVNfQndEWE9QMVVnUGxoQ0wyWjMzZXRjWnNiU21ZZUZtcHN1MF9wWENwWXdTamtqaDE3dUg1SE50MmRCaDk4U0RNWEV3SWhuOTlMNlVLNEo4X1U2THBTTm5IMFNZQUdkVFMwY0dadTRtNA?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-08-28T16:37:00.000Z",
-      "description": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders Basketball Network",
-      "titleZh": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders",
-      "summaryZh": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders Basketball Network",
-      "detailsZh": "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders Basketball Network",
-      "keyPoints": [
-        "\"They have basketball minds over there to figure it out\" - Kevin Durant explains why he sees the Philadelphia 76ers as title contenders"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMifkFVX3lxTFA2cnFsc25NdHhiNGRLNW9CZDdMRTZuSXhYV1lka1ZHZUFaalUyNkdTYXRlSzJGdk9PajMyOUJ0UW5mX0hGaURXM29NNDR3cFFFNWhZdDh6UkVBZ0lGSzZMZFJrMVZOUVFaRWhZWng4dU9JMXBWdngtdFl6bEl4UQ",
-      "title": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2cnFsc25NdHhiNGRLNW9CZDdMRTZuSXhYV1lka1ZHZUFaalUyNkdTYXRlSzJGdk9PajMyOUJ0UW5mX0hGaURXM29NNDR3cFFFNWhZdDh6UkVBZ0lGSzZMZFJrMVZOUVFaRWhZWng4dU9JMXBWdngtdFl6bEl4UQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-28T16:21:38.000Z",
-      "description": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary Yahoo Sports",
-      "titleZh": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary",
-      "summaryZh": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary Yahoo Sports",
-      "detailsZh": "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary Yahoo Sports",
-      "keyPoints": [
-        "Kevin Durant Made 23,900% Profit Thanks to Nvidia, Here’s the Company That Made Him More Than NBA Salary"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
-      "title": "陈泽",
-      "url": "https://baike.baidu.com/item/陈泽/63933344",
-      "source": "百度百科",
-      "publishedAt": "2026-08-28T18:39:39.004Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "陈泽",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "陈泽"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMic0FVX3lxTFBhQWZnWnZxQTNWakNfUlgtN3dOckdZejdtN1UyT0MyZURmSTZFT0xTMmFlQ05PLWJyN1NlY216SXdnLW1SV1J0LVdqRWtwSXpuWHBET3YxdXNLWUoyTkxiS3hzcFlmMXJ1bHFKa0Zsd1JSWkk",
-      "title": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhQWZnWnZxQTNWakNfUlgtN3dOckdZejdtN1UyT0MyZURmSTZFT0xTMmFlQ05PLWJyN1NlY216SXdnLW1SV1J0LVdqRWtwSXpuWHBET3YxdXNLWUoyTkxiS3hzcFlmMXJ1bHFKa0Zsd1JSWkk?oc=5",
+      "id": "durant:CBMijwFBVV95cUxNYnJXNlNXVTRuSkRRcjZSRnhHYTh2b0t5cGdYMVE1dTZKRHFOVDB0THVOWHYtcDN0UWJ2amVRSElkTDFsQmZqN2tTMW9xalpUZjJUR0FJaVdwUHpNemNVaWdLcDlqaTNPUW44SFpYSk04Tm1taHE2NHZEOEgwc3Q3ZHIyNWVaRG9Xdzkwa2JCTQ",
+      "title": "美媒：杜兰特要加盟凯尔特人是假消息，薪资匹配和爆料账号都有问题",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnJXNlNXVTRuSkRRcjZSRnhHYTh2b0t5cGdYMVE1dTZKRHFOVDB0THVOWHYtcDN0UWJ2amVRSElkTDFsQmZqN2tTMW9xalpUZjJUR0FJaVdwUHpNemNVaWdLcDlqaTNPUW44SFpYSk04Tm1taHE2NHZEOEgwc3Q3ZHIyNWVaRG9Xdzkwa2JCTQ?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-08-27T11:41:56.000Z",
-      "description": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播 新浪网",
-      "titleZh": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播",
-      "summaryZh": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播 新浪网",
-      "detailsZh": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播 新浪网",
+      "publishedAt": "2026-08-29T01:00:01.000Z",
+      "description": "美媒：杜兰特要加盟凯尔特人是假消息，薪资匹配和爆料账号都有问题 新浪网",
+      "titleZh": "美媒：杜兰特要加盟凯尔特人是假消息，薪资匹配和爆料账号都有问题",
+      "summaryZh": "美媒：杜兰特要加盟凯尔特人是假消息，薪资匹配和爆料账号都有问题 新浪网",
+      "detailsZh": "美媒：杜兰特要加盟凯尔特人是假消息，薪资匹配和爆料账号都有问题 新浪网",
       "keyPoints": [
-        "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMia0FVX3lxTE5ES1FicHh1a21PSE41TnluS1g5WHFJRzlDM0hKdURfOUhDN3hjUjduczZIcmtQdHF5VVRxUG5OSlFYSWwtNlJlbFdXOWpLTXg2UjNKcngtdXVGZ3N6M1BSX3pOQ1hrVm1uaGdz",
-      "title": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ES1FicHh1a21PSE41TnluS1g5WHFJRzlDM0hKdURfOUhDN3hjUjduczZIcmtQdHF5VVRxUG5OSlFYSWwtNlJlbFdXOWpLTXg2UjNKcngtdXVGZ3N6M1BSX3pOQ1hrVm1uaGdz?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-08-27T07:45:20.000Z",
-      "description": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭 微博",
-      "titleZh": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭",
-      "summaryZh": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭 微博",
-      "detailsZh": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭 微博",
-      "keyPoints": [
-        "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭"
+        "美媒：杜兰特要加盟凯尔特人是假消息，薪资匹配和爆料账号都有问题"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB",
-      "title": "大胃袋传媒 陈泽 直播回放",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-08-26T14:14:58.000Z",
-      "description": "大胃袋传媒 陈泽 直播回放 微博",
-      "titleZh": "大胃袋传媒 陈泽 直播回放",
-      "summaryZh": "大胃袋传媒 陈泽 直播回放 微博",
-      "detailsZh": "大胃袋传媒 陈泽 直播回放 微博",
+      "subject": "durant",
+      "id": "durant:CBMiW0FVX3lxTFBLZDRhZ0QzaDNDTm5JS25fZV94LUg5UUV0LXZTY2R5ZFpqLWZINHlwaXc2TlNzS0twLUlCNTZqRXpaMWo1UUxwMFd2R0pBZ3lDWFRnQlh0cHl4TlE",
+      "title": "Kevin Durant turns $250K into $60 million with AI investment",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLZDRhZ0QzaDNDTm5JS25fZV94LUg5UUV0LXZTY2R5ZFpqLWZINHlwaXc2TlNzS0twLUlCNTZqRXpaMWo1UUxwMFd2R0pBZ3lDWFRnQlh0cHl4TlE?oc=5",
+      "source": "Fox Business",
+      "publishedAt": "2026-08-29T00:45:00.000Z",
+      "description": "Kevin Durant turns $250K into $60 million with AI investment Fox Business",
+      "titleZh": "Kevin Durant turns $250K into $60 million with AI investment",
+      "summaryZh": "Kevin Durant turns $250K into $60 million with AI investment Fox Business",
+      "detailsZh": "Kevin Durant turns $250K into $60 million with AI investment Fox Business",
       "keyPoints": [
-        "大胃袋传媒 陈泽 直播回放"
+        "Kevin Durant turns $250K into $60 million with AI investment"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMib0FVX3lxTFA0VHA4VEJUYjJzSkxVYXkzbGNsbU5TcmZKZnpnX1YtOVFpZ0oxSE5HQWFpd3djREg0U2hseWN6d1ZDTzZuTFpyZFpZX2twbUk5T3hJQWRjUDZnLUloaU12aWJ3bzdjTlo3OHlneE1rWQ",
-      "title": "当王征宇遇上陈泽 综艺效果拉满的内容",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0VHA4VEJUYjJzSkxVYXkzbGNsbU5TcmZKZnpnX1YtOVFpZ0oxSE5HQWFpd3djREg0U2hseWN6d1ZDTzZuTFpyZFpZX2twbUk5T3hJQWRjUDZnLUloaU12aWJ3bzdjTlo3OHlneE1rWQ?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-08-26T02:50:31.000Z",
-      "description": "当王征宇遇上陈泽 综艺效果拉满的内容 微博",
-      "titleZh": "当王征宇遇上陈泽 综艺效果拉满的内容",
-      "summaryZh": "当王征宇遇上陈泽 综艺效果拉满的内容 微博",
-      "detailsZh": "当王征宇遇上陈泽 综艺效果拉满的内容 微博",
+      "subject": "durant",
+      "id": "durant:CBMiV0FVX3lxTE9MelFySW0yT25ja0J6VnlEbFRYeDFHNG53Q3gtOUpRbVF0SnVMN09Sd3prTGFPWWpqQkZTLUVTbjNpM21jNk9ETGhGcXJPaHJLV0Q4LXJXZw",
+      "title": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MelFySW0yT25ja0J6VnlEbFRYeDFHNG53Q3gtOUpRbVF0SnVMN09Sd3prTGFPWWpqQkZTLUVTbjNpM21jNk9ETGhGcXJPaHJLV0Q4LXJXZw?oc=5",
+      "source": "懂球帝",
+      "publishedAt": "2026-08-29T00:21:26.000Z",
+      "description": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 懂球帝",
+      "titleZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理",
+      "summaryZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 懂球帝",
+      "detailsZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 懂球帝",
       "keyPoints": [
-        "当王征宇遇上陈泽 综艺效果拉满的内容"
+        "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMilgFBVV95cUxOZFpjUk9YSU1xeWtTS3ZaMGwwa0ZndmQ1dTRqVXFtWmRkSHY4T0hqY3NUV05qQlVmUmNheTNuMDBSNHdLVXVNTzhxdDk5SDRna1lEN1ZKUFdUYS1ucnBycFlRbldKU1FXVGo4NDc3ejkwMHBRZ0JJMEhhTVhWYWZ4R0NxT3lIOTNxUVl1a1YtUHBxbWVsanc",
+      "title": "Kevin Durant Throws Shade At Top NBA International Stars",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFpjUk9YSU1xeWtTS3ZaMGwwa0ZndmQ1dTRqVXFtWmRkSHY4T0hqY3NUV05qQlVmUmNheTNuMDBSNHdLVXVNTzhxdDk5SDRna1lEN1ZKUFdUYS1ucnBycFlRbldKU1FXVGo4NDc3ejkwMHBRZ0JJMEhhTVhWYWZ4R0NxT3lIOTNxUVl1a1YtUHBxbWVsanc?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-08-28T23:45:35.000Z",
+      "description": "Kevin Durant Throws Shade At Top NBA International Stars heavy.com",
+      "titleZh": "Kevin Durant Throws Shade At Top NBA International Stars",
+      "summaryZh": "Kevin Durant Throws Shade At Top NBA International Stars heavy.com",
+      "detailsZh": "Kevin Durant Throws Shade At Top NBA International Stars heavy.com",
+      "keyPoints": [
+        "Kevin Durant Throws Shade At Top NBA International Stars"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMikgFBVV95cUxQVGFUU2Jkb0RwMC1wdmFrV3lnVVFvWkZzeDlVWlB3VWRZZDZoVmFjMzlYS3FQQ2tWb1RtRzVtek9hVDNXTTlfMzdlQXR6WS1HVGRsLXR3NmR6djE0b3E3SU1ibzRBamVRcFpzYjhBQXkwQjRrWjJxWlhKcXJTc2FvWWgtT3ZWTG5laUpRTVBGNHAzdw",
+      "title": "Kevin Durant has a message for anyone worried about LeBron on the 76ers",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGFUU2Jkb0RwMC1wdmFrV3lnVVFvWkZzeDlVWlB3VWRZZDZoVmFjMzlYS3FQQ2tWb1RtRzVtek9hVDNXTTlfMzdlQXR6WS1HVGRsLXR3NmR6djE0b3E3SU1ibzRBamVRcFpzYjhBQXkwQjRrWjJxWlhKcXJTc2FvWWgtT3ZWTG5laUpRTVBGNHAzdw?oc=5",
+      "source": "The Sixer Sense",
+      "publishedAt": "2026-08-28T23:19:03.000Z",
+      "description": "Kevin Durant has a message for anyone worried about LeBron on the 76ers The Sixer Sense",
+      "titleZh": "Kevin Durant has a message for anyone worried about LeBron on the 76ers",
+      "summaryZh": "Kevin Durant has a message for anyone worried about LeBron on the 76ers The Sixer Sense",
+      "detailsZh": "Kevin Durant has a message for anyone worried about LeBron on the 76ers The Sixer Sense",
+      "keyPoints": [
+        "Kevin Durant has a message for anyone worried about LeBron on the 76ers"
       ],
       "category": "场外",
       "importance": 3
@@ -245,14 +160,16 @@
       "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "陈泽- 抖音直播间",
-      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "titleZh": "游戏主播陈泽抖音官方直播间（固定主页）",
+      "summaryZh": "本条目为游戏主播陈泽自2024年转战后的官方直播固定入口页面，非当日动态。提供实时开播状态查看及历史回放功能。",
+      "detailsZh": "【事实】该链接为陈泽在抖音平台的官方直播间主页，抖音号为9896719。自2024年起，其直播主阵地已正式由虎牙转移至抖音，此页面为当前唯一官方指定直播入口。【评论】该平台迁移标志着其运营策略全面向短视频生态深度绑定，极大便利了直播切片的高效传播与核心粉丝的长期沉淀。【传闻】网传其将逐步减少传统端游直播时长，转向更多互动类与户外直播内容，具体排期以账号公告为准。",
       "keyPoints": [
-        "陈泽- 抖音直播间"
+        "2024年起主阵地转至抖音",
+        "官方抖音号：9896719",
+        "非当日新闻，属固定主页入口"
       ],
       "category": "直播",
-      "importance": 3
+      "importance": 5
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -262,14 +179,109 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
       "subject": "chenze",
-      "titleZh": "哔哩哔哩陈泽相关视频",
-      "summaryZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
-      "detailsZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
+      "titleZh": "哔哩哔哩陈泽相关视频聚合页（固定主页）",
+      "summaryZh": "本条目为B站关于游戏主播陈泽的视频、切片及讨论聚合搜索入口，非当日动态。用于检索二创内容与粉丝交流记录。",
+      "detailsZh": "【事实】该链接指向B站关键词搜索结果页，收录了UP主剪辑的陈泽直播高光片段、整活视频及相关讨论帖。【评论】B站作为其早期积累人气的重要社区，目前仍保留大量历史直播切片，是粉丝回顾经典名场面与进行二次创作的核心阵地。【传闻】有用户反馈近期部分搬运视频因版权或限流原因下架，建议关注其官方抖音号获取最新授权内容。",
       "keyPoints": [
-        "哔哩哔哩陈泽相关视频"
+        "B站二创与切片聚合入口",
+        "非当日新闻，属固定资料页",
+        "含历史直播高光与粉丝讨论"
+      ],
+      "category": "直播",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMib0FVX3lxTFA0VHA4VEJUYjJzSkxVYXkzbGNsbU5TcmZKZnpnX1YtOVFpZ0oxSE5HQWFpd3djREg0U2hseWN6d1ZDTzZuTFpyZFpZX2twbUk5T3hJQWRjUDZnLUloaU12aWJ3bzdjTlo3OHlneE1rWQ",
+      "title": "当王征宇遇上陈泽 综艺效果拉满的内容",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0VHA4VEJUYjJzSkxVYXkzbGNsbU5TcmZKZnpnX1YtOVFpZ0oxSE5HQWFpd3djREg0U2hseWN6d1ZDTzZuTFpyZFpZX2twbUk5T3hJQWRjUDZnLUloaU12aWJ3bzdjTlo3OHlneE1rWQ?oc=5",
+      "source": "微博",
+      "publishedAt": "2026-08-26T02:50:31.000Z",
+      "description": "当王征宇遇上陈泽 综艺效果拉满的内容 微博",
+      "titleZh": "陈泽与制作人王征宇同框互动引热议",
+      "summaryZh": "微博流传陈泽与知名制作人王征宇同框互动的视频片段。两人交流氛围轻松，被网友评价为“综艺效果拉满”，引发广泛关注。",
+      "detailsZh": "【事实】2026年8月26日，社交媒体出现陈泽与王征宇线下或线上互动的剪辑内容。双方就行业话题与个人经历进行了交流，画面中笑点密集。【评论】此次联动被视为游戏主播与传统影视综艺圈层的一次有趣碰撞，展现了头部主播跨界社交的潜力，有助于提升其在泛娱乐领域的影响力。【传闻】部分自媒体猜测双方可能正在筹备联合开发的新综艺项目，但目前仅停留在互动层面，无确切合作官宣。",
+      "keyPoints": [
+        "与制作人王征宇同框互动",
+        "交流氛围轻松，综艺感强",
+        "跨界联动引发圈层关注"
+      ],
+      "category": "合作",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMia0FVX3lxTE5ES1FicHh1a21PSE41TnluS1g5WHFJRzlDM0hKdURfOUhDN3hjUjduczZIcmtQdHF5VVRxUG5OSlFYSWwtNlJlbFdXOWpLTXg2UjNKcngtdXVGZ3N6M1BSX3pOQ1hrVm1uaGdz",
+      "title": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ES1FicHh1a21PSE41TnluS1g5WHFJRzlDM0hKdURfOUhDN3hjUjduczZIcmtQdHF5VVRxUG5OSlFYSWwtNlJlbFdXOWpLTXg2UjNKcngtdXVGZ3N6M1BSX3pOQ1hrVm1uaGdz?oc=5",
+      "source": "微博",
+      "publishedAt": "2026-08-27T07:45:20.000Z",
+      "description": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭 微博",
+      "titleZh": "陈泽现身蘑菇屋拍摄地打卡分享近况",
+      "summaryZh": "游戏主播陈泽在微博分享自己位于《向往的生活》蘑菇屋拍摄地的近况，提及黄磊曾在此做饭，引发怀旧与好奇讨论。",
+      "detailsZh": "【事实】2026年8月27日，陈泽发布动态称自己身处蘑菇屋拍摄地，并回忆黄磊在此烹饪的场景。该动态附带实地照片或视频。【评论】此举属于典型的线下探店与情怀营销，利用知名综艺IP的地理符号拉近与观众距离，增强了个人生活记录的亲和力。【传闻】有粉丝推测其可能受邀参与相关综艺的特别企划或线下活动，但截至目前仅为个人行程分享，暂无节目录制计划公布。",
+      "keyPoints": [
+        "实地探访蘑菇屋拍摄地",
+        "提及黄磊烹饪等怀旧元素",
+        "属个人行程分享，暂无综艺邀约"
       ],
       "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMic0FVX3lxTFBhQWZnWnZxQTNWakNfUlgtN3dOckdZejdtN1UyT0MyZURmSTZFT0xTMmFlQ05PLWJyN1NlY216SXdnLW1SV1J0LVdqRWtwSXpuWHBET3YxdXNLWUoyTkxiS3hzcFlmMXJ1bHFKa0Zsd1JSWkk",
+      "title": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhQWZnWnZxQTNWakNfUlgtN3dOckdZejdtN1UyT0MyZURmSTZFT0xTMmFlQ05PLWJyN1NlY216SXdnLW1SV1J0LVdqRWtwSXpuWHBET3YxdXNLWUoyTkxiS3hzcFlmMXJ1bHFKa0Zsd1JSWkk?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-27T11:41:56.000Z",
+      "description": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播 新浪网",
+      "titleZh": "陈泽直播切片流出：谈及明星朋友与搞笑互动",
+      "summaryZh": "新浪等平台流传陈泽近期直播切片，内容涉及其与多位明星朋友的私下交情及直播间的搞笑互动，蜜姐等嘉宾出镜助阵。",
+      "detailsZh": "【事实】2026年8月27日，多平台出现陈泽直播录屏片段。视频中他分享了与圈内明星朋友的交往细节，并与嘉宾蜜姐等进行幽默对话，现场气氛活跃。【评论】直播切片的高效分发是其维持热度的关键手段，此类内容精准切中粉丝对幕后故事与轻松娱乐的需求，有利于算法推荐与流量转化。【传闻】网传切片中提到的几位明星朋友后续可能会做客其直播间，但仅为粉丝期待，未获本人证实。",
+      "keyPoints": [
+        "直播切片涵盖明星交友与搞笑互动",
+        "蜜姐等嘉宾参与连麦或到场",
+        "切片传播助力日常流量维持"
+      ],
+      "category": "直播",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB",
+      "title": "大胃袋传媒 陈泽 直播回放",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB?oc=5",
+      "source": "微博",
+      "publishedAt": "2026-08-26T14:14:58.000Z",
+      "description": "大胃袋传媒 陈泽 直播回放 微博",
+      "titleZh": "大胃袋传媒旗下陈泽直播回放更新",
+      "summaryZh": "微博同步更新大胃袋传媒运营的陈泽直播回放内容。该回放记录了其近期的常规直播场次，供未能实时观看的粉丝补档。",
+      "detailsZh": "【事实】2026年8月26日，大胃袋传媒官方账号发布陈泽直播回放链接。回放内容为其在抖音平台的常规直播录像，包含游戏对战与粉丝互动环节。【评论】MCN机构通过系统化整理与分发直播回放，完善了内容资产库，提升了长尾流量的利用率，体现了成熟的主播运营管理机制。【传闻】有观众询问回放是否包含特定游戏赛事解说，官方未作详细分类说明，建议直接观看原片获取完整信息。",
+      "keyPoints": [
+        "MCN机构统一发布直播回放",
+        "内容为近期常规直播录像",
+        "完善内容资产库，服务补档需求"
+      ],
+      "category": "直播",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
+      "title": "陈泽",
+      "url": "https://baike.baidu.com/item/陈泽/63933344",
+      "source": "百度百科",
+      "publishedAt": "2026-08-29T02:10:12.724Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "陈泽",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "陈泽"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -286,7 +298,7 @@
         "#不是陈泽#超话分享：看到你的笑就足够满足"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
