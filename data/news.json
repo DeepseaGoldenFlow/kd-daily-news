@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T14:30:38.469Z",
+  "updatedAt": "2026-08-29T18:29:33.071Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,38 +16,119 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxOX3JQZzFJZ01ickFZWnZqZmp5M0Y1elA1NGtySHFBSVMtNUxjQkZEMzRSSnlaZWRtWmZBNmpHZnR4cG1vYWgxMnE1S0QtNVFnUDdDNlVWNy1XZmRQNWhhelcwcmxwVUZSa1pveXRtdmpob0habXZIUjRhX2s3TjJIYThydkxxQQ",
-      "title": "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3JQZzFJZ01ickFZWnZqZmp5M0Y1elA1NGtySHFBSVMtNUxjQkZEMzRSSnlaZWRtWmZBNmpHZnR4cG1vYWgxMnE1S0QtNVFnUDdDNlVWNy1XZmRQNWhhelcwcmxwVUZSa1pveXRtdmpob0habXZIUjRhX2s3TjJIYThydkxxQQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-29T13:00:49.000Z",
-      "description": "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run Yahoo Sports",
-      "titleZh": "杜兰特盛赞尼克斯2026年夺冠前景",
-      "summaryZh": "杜兰特近日公开表达对纽约尼克斯队新赛季的看好，认为其阵容深度与核心实力具备冲击总冠军的潜力，引发媒体关注。",
-      "detailsZh": "【事实】杜兰特在近期接受采访时明确表态，认为尼克斯本赛季阵容配置合理，核心球员状态稳定，具备争冠硬实力。【评论】他结合联盟格局变化指出，东部竞争虽激烈，但尼克斯若保持健康并提升防守效率，完全有资格进入总决赛讨论行列。该言论属于球员对同行球队的主观评价，旨在为对手造势或表达篮球见解。【传闻】目前并无证据表明杜兰特与尼克斯存在私下接触或潜在交易意向，相关猜测仅为部分自媒体过度解读。",
+      "id": "durant:CBMijAFBVV95cUxOb2F4cDZHSlpEZ01jaTFVSHdLM1YtWldOMmxIR1g1XzNOTmxCSTdGZElDbHlkQVhHZ1hNemJHSXVFLVlRR1dxOFBtOUp5aEk1b29VTUxfdmV6Z3BxbW9DdFVmLVQ2Y2tqUWtSYlluVGFIQjJRbFI3ZzlRbEdxcy1TZEpMRU53WDZqTlJUVA",
+      "title": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2F4cDZHSlpEZ01jaTFVSHdLM1YtWldOMmxIR1g1XzNOTmxCSTdGZElDbHlkQVhHZ1hNemJHSXVFLVlRR1dxOFBtOUp5aEk1b29VTUxfdmV6Z3BxbW9DdFVmLVQ2Y2tqUWtSYlluVGFIQjJRbFI3ZzlRbEdxcy1TZEpMRU53WDZqTlJUVA?oc=5",
+      "source": "lindyssports.com",
+      "publishedAt": "2026-08-29T18:04:00.000Z",
+      "description": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary lindyssports.com",
+      "titleZh": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary",
+      "summaryZh": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary lindyssports.com",
+      "detailsZh": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary lindyssports.com",
       "keyPoints": [
-        "公开看好尼克斯争冠实力",
-        "强调阵容深度与防守效率",
-        "属主观评价无实质关联"
+        "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMivwFBVV95cUxPNmFOOWpXYWhzcVpMTUUyYkhUbXIzelVRSS04OWhRWEY2TC1aUFFIUTRXY05neUFPT0o4eUtiTFNnTkFIVTJXRU5GM3hLblZ6Qm55d1lfVVlOUzhVT0ZRU3lVWlpQaG5FWlJQaUkxNkUwR2xMUTJPQXZDREhvdm00SFR1RHZ2N0hQU0UwUC01YmtFUW1BSDVLOUJsbnBFUk9rRjZNZ1NHMy1jS0JUclM5Z1k2WnR2Q3duU1FsZUpwUQ",
+      "title": "Houston Rockets forward Kevin Durant eyes new role with Team USA",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmFOOWpXYWhzcVpMTUUyYkhUbXIzelVRSS04OWhRWEY2TC1aUFFIUTRXY05neUFPT0o4eUtiTFNnTkFIVTJXRU5GM3hLblZ6Qm55d1lfVVlOUzhVT0ZRU3lVWlpQaG5FWlJQaUkxNkUwR2xMUTJPQXZDREhvdm00SFR1RHZ2N0hQU0UwUC01YmtFUW1BSDVLOUJsbnBFUk9rRjZNZ1NHMy1jS0JUclM5Z1k2WnR2Q3duU1FsZUpwUQ?oc=5",
+      "source": "Rockets Wire",
+      "publishedAt": "2026-08-29T16:59:00.000Z",
+      "description": "Houston Rockets forward Kevin Durant eyes new role with Team USA Rockets Wire",
+      "titleZh": "Houston Rockets forward Kevin Durant eyes new role with Team USA",
+      "summaryZh": "Houston Rockets forward Kevin Durant eyes new role with Team USA Rockets Wire",
+      "detailsZh": "Houston Rockets forward Kevin Durant eyes new role with Team USA Rockets Wire",
+      "keyPoints": [
+        "Houston Rockets forward Kevin Durant eyes new role with Team USA"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiowFBVV95cUxOd1NNQlpOUVQ4SmVHanNJWnByTHVYUmZuWFhmNEpXMkdsYUgwUUNRakJlMFlaYmJDRHNvOFI1Y3ktaW5iNDJlOElLWjhSZFNjazQ0MWpJUzNpREdlbk40aV9HTzUxYVA3ai12WDEyekxMTXRUaDNyaEpuclpNMG5telhYa3pVMmRWdDc0eXRMOURDYWUxSFRKdXpyX1M5cEFIdU5J",
+      "title": "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1NNQlpOUVQ4SmVHanNJWnByTHVYUmZuWFhmNEpXMkdsYUgwUUNRakJlMFlaYmJDRHNvOFI1Y3ktaW5iNDJlOElLWjhSZFNjazQ0MWpJUzNpREdlbk40aV9HTzUxYVA3ai12WDEyekxMTXRUaDNyaEpuclpNMG5telhYa3pVMmRWdDc0eXRMOURDYWUxSFRKdXpyX1M5cEFIdU5J?oc=5",
+      "source": "Lakers Nation",
+      "publishedAt": "2026-08-29T16:05:25.000Z",
+      "description": "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic Lakers Nation",
+      "titleZh": "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic",
+      "summaryZh": "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic Lakers Nation",
+      "detailsZh": "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic Lakers Nation",
+      "keyPoints": [
+        "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiugFBVV95cUxOaktBTTF4V09mVkEtWXNZdzJSeUZVcXFXb2lqY2lWMzhWSS1hUDBVYzc5VWR5ZUU4Z0ZPZUl6Q1o4QVhpc0RkTEFkeksyeVcwMTVGOUM1VGNTZmlRS09oemRGbUFjQVN6ZkxyYVNKaXRDcjF6SUxSRS1YcFNMN2ZnN3ZCeFNsM1ZPQkJOT202RHZYb0pmUlByQXA2LXlFQ3FuRHg5aTZCa1A5ZWtLZTlQVlZoUlRyNHJ3M1E",
-      "title": "Kevin Durant Explains Significance of Knicks Winning NBA Championship",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaktBTTF4V09mVkEtWXNZdzJSeUZVcXFXb2lqY2lWMzhWSS1hUDBVYzc5VWR5ZUU4Z0ZPZUl6Q1o4QVhpc0RkTEFkeksyeVcwMTVGOUM1VGNTZmlRS09oemRGbUFjQVN6ZkxyYVNKaXRDcjF6SUxSRS1YcFNMN2ZnN3ZCeFNsM1ZPQkJOT202RHZYb0pmUlByQXA2LXlFQ3FuRHg5aTZCa1A5ZWtLZTlQVlZoUlRyNHJ3M1E?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-08-29T12:52:43.000Z",
-      "description": "Kevin Durant Explains Significance of Knicks Winning NBA Championship Sports Illustrated",
-      "titleZh": "杜兰特谈国际球星模仿美国球员现象",
-      "summaryZh": "杜兰特指出当前国际球员普遍以梦之队及美国本土球星为模仿对象，反映全球篮球风格正加速向美式打法靠拢。",
-      "detailsZh": "【事实】杜兰特在访谈中提及，许多海外年轻球员的训练内容与技术动作均直接参考NBA美国球员，尤其是梦之队时期的经典战术与个人技巧。【评论】他认为这种文化输出体现了美国篮球体系的全球影响力，同时也指出国际球员需结合自身身体条件进行创新，而非单纯复制。该观点属于行业观察类评论。【传闻】网传杜兰特有意推动国际球员选拔标准改革，此说法缺乏官方依据，纯属球迷圈层臆测。",
+      "id": "durant:CBMijgFBVV95cUxNeUxJNzVoSW5UVUpmem5maVhxMjUxTWNwRTJWa3ptNzlqWDVmMDlweDZQUUlHWGlRUVhUQVF6YTFkSDV4ekNNODhUUzhhcFp1TlZsME8wQ3hPVnYySTBVRGlTekNIcm1pNDVTYS01ZkZZSm9yRXdJanVTT0puYk9yU3NQU2NLQVNkZm1UemFB",
+      "title": "Kevin Durant Reveals Surprising Post-Retirement Goal: “I Want To Do That Job”",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUxJNzVoSW5UVUpmem5maVhxMjUxTWNwRTJWa3ptNzlqWDVmMDlweDZQUUlHWGlRUVhUQVF6YTFkSDV4ekNNODhUUzhhcFp1TlZsME8wQ3hPVnYySTBVRGlTekNIcm1pNDVTYS01ZkZZSm9yRXdJanVTT0puYk9yU3NQU2NLQVNkZm1UemFB?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-29T15:19:26.000Z",
+      "description": "Kevin Durant Reveals Surprising Post-Retirement Goal: “I Want To Do That Job” Yahoo Sports",
+      "titleZh": "Kevin Durant Reveals Surprising Post-Retirement Goal: “I Want To Do That Job”",
+      "summaryZh": "Kevin Durant Reveals Surprising Post-Retirement Goal: “I Want To Do That Job” Yahoo Sports",
+      "detailsZh": "Kevin Durant Reveals Surprising Post-Retirement Goal: “I Want To Do That Job” Yahoo Sports",
       "keyPoints": [
-        "国际球员多效仿梦之队打法",
-        "肯定美式篮球全球影响力",
-        "呼吁结合自身条件创新"
+        "Kevin Durant Reveals Surprising Post-Retirement Goal: “I Want To Do That Job”"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQWXlBbFd2OV9XVjk0YjRTU1NULTVzS0hndnVvUUZEM1BabUNHSmc1VHZJemEtVW0xTjZYaE9wZHFQbzNiN0RaRlNpZWF4OVVUbkR3UmtlMGtTZ0lOMEV4WGpqakE0bVUxVFhqdzc2WnlXVTBNZ0N2NWUxaEJhc1JVTmFEQWhkOUptSDdZNA",
+      "title": "杜兰特认为库里理应获得勇士队股权，作为回报",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXlBbFd2OV9XVjk0YjRTU1NULTVzS0hndnVvUUZEM1BabUNHSmc1VHZJemEtVW0xTjZYaE9wZHFQbzNiN0RaRlNpZWF4OVVUbkR3UmtlMGtTZ0lOMEV4WGpqakE0bVUxVFhqdzc2WnlXVTBNZ0N2NWUxaEJhc1JVTmFEQWhkOUptSDdZNA?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-08-29T15:09:01.000Z",
+      "description": "杜兰特认为库里理应获得勇士队股权，作为回报 搜狐网",
+      "titleZh": "杜兰特认为库里理应获得勇士队股权，作为回报",
+      "summaryZh": "杜兰特认为库里理应获得勇士队股权，作为回报 搜狐网",
+      "detailsZh": "杜兰特认为库里理应获得勇士队股权，作为回报 搜狐网",
+      "keyPoints": [
+        "杜兰特认为库里理应获得勇士队股权，作为回报"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihgFBVV95cUxOX3JQZzFJZ01ickFZWnZqZmp5M0Y1elA1NGtySHFBSVMtNUxjQkZEMzRSSnlaZWRtWmZBNmpHZnR4cG1vYWgxMnE1S0QtNVFnUDdDNlVWNy1XZmRQNWhhelcwcmxwVUZSa1pveXRtdmpob0habXZIUjRhX2s3TjJIYThydkxxQQ",
+      "title": "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3JQZzFJZ01ickFZWnZqZmp5M0Y1elA1NGtySHFBSVMtNUxjQkZEMzRSSnlaZWRtWmZBNmpHZnR4cG1vYWgxMnE1S0QtNVFnUDdDNlVWNy1XZmRQNWhhelcwcmxwVUZSa1pveXRtdmpob0habXZIUjRhX2s3TjJIYThydkxxQQ?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-29T13:00:49.000Z",
+      "description": "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run Yahoo Sports",
+      "titleZh": "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run",
+      "summaryZh": "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run Yahoo Sports",
+      "detailsZh": "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run Yahoo Sports",
+      "keyPoints": [
+        "Kevin Durant Hypes Up New York Knicks’ 2026 Title Run"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMilAFBVV95cUxOTUFFZzNLeVZTLUZZLXBhSmFTTnV4d0pibFQ3VW1QTk8zWWNfdnRDT284T0dhYWNtbDdqMF9xMjFFUFJ5V2NzVHlzYkFzbXFQd3o5UVFlSDZJYVVCX2VRY0RDRHk1eVEzMFBYeGd0VDVscXVsZ1QwT1ZIdU10Rll5RFlTUHkzSXNPUC10NGduR0ZNbjh6",
+      "title": "Kevin Durant Explains Significance of Knicks Winning NBA Championship",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUFFZzNLeVZTLUZZLXBhSmFTTnV4d0pibFQ3VW1QTk8zWWNfdnRDT284T0dhYWNtbDdqMF9xMjFFUFJ5V2NzVHlzYkFzbXFQd3o5UVFlSDZJYVVCX2VRY0RDRHk1eVEzMFBYeGd0VDVscXVsZ1QwT1ZIdU10Rll5RFlTUHkzSXNPUC10NGduR0ZNbjh6?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-29T12:52:44.000Z",
+      "description": "Kevin Durant Explains Significance of Knicks Winning NBA Championship Yahoo Sports",
+      "titleZh": "Kevin Durant Explains Significance of Knicks Winning NBA Championship",
+      "summaryZh": "Kevin Durant Explains Significance of Knicks Winning NBA Championship Yahoo Sports",
+      "detailsZh": "Kevin Durant Explains Significance of Knicks Winning NBA Championship Yahoo Sports",
+      "keyPoints": [
+        "Kevin Durant Explains Significance of Knicks Winning NBA Championship"
       ],
       "category": "场外",
       "importance": 3
@@ -55,112 +136,19 @@
     {
       "subject": "durant",
       "id": "durant:CBMi0gFBVV95cUxPb1VROUtZZlRmVXd5RjdvdUVyeE5VRXE0Rzc4MXhJQzZLRU5WV2VWcWhlV240RFJEc3JSTHY5alJQTWRHOEsyUmFXXzhWSThPZE9FWlRkd1haS1dIaXpSaUIxcm9LQ0pHOFg5bHFwM1cxdUh3cTVaZUNPNzJ6a3Y5azBaYVZBbTRPbkNfWjU3OV83YkotamFkcjJ6OTM5dE5CcXhrOU1OUWFvVUZSVmM3NkJ3ZU1Kd0dBYnVoeTA5ekNsZkh4b1FQV1JpaVd2Q0NreXc",
-      "title": "Kevin Durant on international stars: \"Who do they imitiated? The Dream Team, American players\"",
+      "title": "Kevin Durant on international stars: \"Who do they imitate? The Dream Team, American players\"",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb1VROUtZZlRmVXd5RjdvdUVyeE5VRXE0Rzc4MXhJQzZLRU5WV2VWcWhlV240RFJEc3JSTHY5alJQTWRHOEsyUmFXXzhWSThPZE9FWlRkd1haS1dIaXpSaUIxcm9LQ0pHOFg5bHFwM1cxdUh3cTVaZUNPNzJ6a3Y5azBaYVZBbTRPbkNfWjU3OV83YkotamFkcjJ6OTM5dE5CcXhrOU1OUWFvVUZSVmM3NkJ3ZU1Kd0dBYnVoeTA5ekNsZkh4b1FQV1JpaVd2Q0NreXc?oc=5",
       "source": "Eurohoops",
       "publishedAt": "2026-08-29T11:04:00.000Z",
-      "description": "Kevin Durant on international stars: \"Who do they imitiated? The Dream Team, American players\" Eurohoops",
-      "titleZh": "杜兰特透露有意担任美国男篮总经理",
-      "summaryZh": "杜兰特表示未来退役后希望转型管理层，并明确表达出任美国男篮总经理的意愿，展现其对国家队建设的长远规划。",
-      "detailsZh": "【事实】杜兰特在社交媒体互动及采访中坦言，自己计划在未来退役后进入篮球管理领域，并特别提到希望执掌美国男篮总经理职务。【评论】此举被视为其从顶级球员向幕后决策者转型的明确信号，依托其丰富的国际大赛经验与联盟人脉，具备一定可行性。该表述属于职业规划声明。【传闻】目前美国篮协尚未启动相关人事招募，所谓“已获内部推荐”等消息均为不实谣言，请以官方公告为准。",
+      "description": "Kevin Durant on international stars: \"Who do they imitate? The Dream Team, American players\" Eurohoops",
+      "titleZh": "Kevin Durant on international stars: \"Who do they imitate? The Dream Team, American players\"",
+      "summaryZh": "Kevin Durant on international stars: \"Who do they imitate? The Dream Team, American players\" Eurohoops",
+      "detailsZh": "Kevin Durant on international stars: \"Who do they imitate? The Dream Team, American players\" Eurohoops",
       "keyPoints": [
-        "明确表达执教国家队意愿",
-        "规划退役后转型管理层",
-        "依赖大赛经验与人脉资源"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxNWnJfdTVzV011eEE4aWRzSk1vYXpRaU5GNVhQbmV1WE5JS0JmdUw2X2RrZzFxeEpKYkJ6NDVNQ1k3Q3dKY1FRUUZaZENBVnBwWkZHR0xTU2oySXNkRXlMMmRfNXltYk5zSFNaVmdFUUxkZXc2eE5RMnhHdy1xNkFGOA",
-      "title": "Kevin Durant wants to be GM of Team USA",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWnJfdTVzV011eEE4aWRzSk1vYXpRaU5GNVhQbmV1WE5JS0JmdUw2X2RrZzFxeEpKYkJ6NDVNQ1k3Q3dKY1FRUUZaZENBVnBwWkZHR0xTU2oySXNkRXlMMmRfNXltYk5zSFNaVmdFUUxkZXc2eE5RMnhHdy1xNkFGOA?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-29T09:27:59.000Z",
-      "description": "Kevin Durant wants to be GM of Team USA Yahoo Sports",
-      "titleZh": "杜兰特澄清过往洗澡频率争议言论",
-      "summaryZh": "针对早年关于个人洗浴习惯的争议性发言，杜兰特近日作出正式澄清，称自己每年至少洗澡三百五十天，回应外界长期质疑。",
-      "detailsZh": "【事实】杜兰特就多年前采访中被断章取义的“洗澡”言论进行补充说明，明确表示自己日常注重个人卫生，每年实际洗澡天数远超此前流传的数字。【评论】此次澄清旨在纠正网络长期传播的刻板印象，属于对个人生活细节的正名。公众人物过往言论常被碎片化传播，完整语境还原有助于消除误解。【传闻】部分账号仍炒作其“极度不爱洗澡”的梗图，此类内容已被当事人辟谣，请勿继续传播未经核实的旧闻。",
-      "keyPoints": [
-        "否认常年不洗澡的刻板印象",
-        "澄清早年采访被断章取义",
-        "强调注重日常个人卫生"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMisgFBVV95cUxOTklUSHBuNmxpSmRTajloMV9KQ01xMFVzam4zSjNhWG5uQmdXZFJLbk1FSjVPVXV6VEFHSTFaS0wyeGNLaUNTOTVrdDRUdVp4SzE4SmQ0TjVXSnN4blg2ZDdCWUJNeENEbFo1MWVoYlFmUFA2Z3dTTlM4QjlKNTBSLTQwVE5pXzgxWlc4VG1MZHBZZ0lXNURUZGRrcWs0RWdiQU53ZGo4T0RkNlZ5VlV3X1hn",
-      "title": "Kevin Durant: \"And then you look at Shai …",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTklUSHBuNmxpSmRTajloMV9KQ01xMFVzam4zSjNhWG5uQmdXZFJLbk1FSjVPVXV6VEFHSTFaS0wyeGNLaUNTOTVrdDRUdVp4SzE4SmQ0TjVXSnN4blg2ZDdCWUJNeENEbFo1MWVoYlFmUFA2Z3dTTlM4QjlKNTBSLTQwVE5pXzgxWlc4VG1MZHBZZ0lXNURUZGRrcWs0RWdiQU53ZGo4T0RkNlZ5VlV3X1hn?oc=5",
-      "source": "HoopsHype",
-      "publishedAt": "2026-08-29T09:27:00.000Z",
-      "description": "Kevin Durant: \"And then you look at Shai … HoopsHype",
-      "titleZh": "美媒炒作杜兰特交易方案引关注",
-      "summaryZh": "多家体育媒体推出涉及杜兰特的四换一交易模拟方案，坊间亦流传其可能申请离队的消息，引发球迷广泛讨论。",
-      "detailsZh": "【事实】休赛期期间，部分美国体育网站发布包含火箭、凯尔特人等球队的交易构想，试图通过筹码重组打造新三巨头阵容。【评论】此类方案多为数据模型推演与媒体流量操作，缺乏球队管理层实质性沟通背景。球员当前合同状态与年龄因素使大规模交易难度极高。【传闻】网传“杜兰特已向球队提交交易申请”及“火箭已达成口头协议”均属虚假信息，本人团队未发布任何相关声明，请以俱乐部官方渠道信息为准。",
-      "keyPoints": [
-        "媒体发布多队四换一模拟方案",
-        "属流量推演无实质谈判进展",
-        "交易申请传闻系虚假谣言"
-      ],
-      "category": "交易",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMitwFBVV95cUxPYkNyRk1MbFRzX25tZ1FhR0paZ01VX0JVYUhFcmhGTzg1U0NENTQ0X1hfdzEtdzQzN3V0YUFMbUI1UlJxX1ZyR0xkLWRxam4ybUhsRWc1bkRqdDVFX0VWUFVDcEhERXRBT0c2N1lIdU1fMV9hMlRNTmN3cVp1ZXBkSnhWalplcXN4UklvcmNWaV83TGZkWXI0Yy1pZ1RMeHVZTUtDcGJoTVk5ZzhfaWtmNUxMUlRSMFU",
-      "title": "\"I shower at least 350 days a year\" - Kevin Durant finally clarifies his controversial shower habits claim",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkNyRk1MbFRzX25tZ1FhR0paZ01VX0JVYUhFcmhGTzg1U0NENTQ0X1hfdzEtdzQzN3V0YUFMbUI1UlJxX1ZyR0xkLWRxam4ybUhsRWc1bkRqdDVFX0VWUFVDcEhERXRBT0c2N1lIdU1fMV9hMlRNTmN3cVp1ZXBkSnhWalplcXN4UklvcmNWaV83TGZkWXI0Yy1pZ1RMeHVZTUtDcGJoTVk5ZzhfaWtmNUxMUlRSMFU?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-08-29T09:07:00.000Z",
-      "description": "\"I shower at least 350 days a year\" - Kevin Durant finally clarifies his controversial shower habits claim Basketball Network",
-      "titleZh": "杜兰特建议高中生可直接跳级打职业",
-      "summaryZh": "杜兰特回顾自身天赋觉醒经历，提出具备顶尖潜力的高中生无需拘泥传统升学路径，可考虑直接进入职业联赛锻炼。",
-      "detailsZh": "【事实】杜兰特在分享个人成长历程时提到，十六岁参加AAU赛事时便意识到自身身体条件与运动能力远超同龄人，这为其早期进入大学并最终登陆NBA埋下伏笔。【评论】他借此探讨现代篮球人才培养模式的多元化，认为天赋异禀者若能在体能、球商与心理层面同步成熟，提前进入职业环境或许能加速成长。该建议属于发展路径探讨。【传闻】有自媒体将其言论曲解为“鼓励未成年人辍学打球”，严重违背其原意及现行教育体育规范，此类误导内容已被平台限流。",
-      "keyPoints": [
-        "回顾十六岁天赋觉醒经历",
-        "探讨职业培养路径多元化",
-        "反对曲解为鼓励辍学打球"
+        "Kevin Durant on international stars: \"Who do they imitate? The Dream Team, American players\""
       ],
       "category": "场外",
       "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiwAFBVV95cUxNSEpCS21VUU9kOXg2bk9vYXVqVlVoX1hzcFRkaGVZajFSdkp1MnVVRlBLaWw4cXRzV0JnNTJlcjRDbVNHTFUzbXlGS292OGRCNUNZVEY0ZFZEbnZvQ0ZoM29Cc1M3dlJjRzY1eWNfTDNQNV9UMjA2ZEJfQzFKcEJhWkhQdVM0U2F6a2Qtamc2eGV1NGdWU0p2SjczUTFaZG44ZVhUd2pQTGZjbWZHaHV4ZjU4V01LNWVMd0tHMndNaW0",
-      "title": "\"I trust this dude with anything\" - Kevin Durant reveals how he met one of his best friends playing video games",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEpCS21VUU9kOXg2bk9vYXVqVlVoX1hzcFRkaGVZajFSdkp1MnVVRlBLaWw4cXRzV0JnNTJlcjRDbVNHTFUzbXlGS292OGRCNUNZVEY0ZFZEbnZvQ0ZoM29Cc1M3dlJjRzY1eWNfTDNQNV9UMjA2ZEJfQzFKcEJhWkhQdVM0U2F6a2Qtamc2eGV1NGdWU0p2SjczUTFaZG44ZVhUd2pQTGZjbWZHaHV4ZjU4V01LNWVMd0tHMndNaW0?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-08-29T08:29:00.000Z",
-      "description": "\"I trust this dude with anything\" - Kevin Durant reveals how he met one of his best friends playing video games Basketball Network",
-      "titleZh": "\"I trust this dude with anything\" - Kevin Durant reveals how he met one of his best friends playing video games",
-      "summaryZh": "\"I trust this dude with anything\" - Kevin Durant reveals how he met one of his best friends playing video games Basketball Network",
-      "detailsZh": "\"I trust this dude with anything\" - Kevin Durant reveals how he met one of his best friends playing video games Basketball Network",
-      "keyPoints": [
-        "\"I trust this dude with anything\" - Kevin Durant reveals how he met one of his best friends playing video games"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxOelEtVFFjaUR6Z2R1ZkkzLWhGRWJQUk5waGtRaEY1SFg4MHdLdWp2Q0cyMkt5VGJSTlJkMUcycEhOTnVZYXRuQjVJdWhGcGpLaXhRbUYya3JDWnpBblNfNWtubWlseHc0YURRSktxT3kxUm56cTdnNkVKR0dZSVUwR3R3",
-      "title": "看衰绿军！交易杜兰特！美媒4换1方案！火箭值得吗？",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOelEtVFFjaUR6Z2R1ZkkzLWhGRWJQUk5waGtRaEY1SFg4MHdLdWp2Q0cyMkt5VGJSTlJkMUcycEhOTnVZYXRuQjVJdWhGcGpLaXhRbUYya3JDWnpBblNfNWtubWlseHc0YURRSktxT3kxUm56cTdnNkVKR0dZSVUwR3R3?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-29T07:30:44.000Z",
-      "description": "看衰绿军！交易杜兰特！美媒4换1方案！火箭值得吗？ 新浪网",
-      "titleZh": "看衰绿军！交易杜兰特！美媒4换1方案！火箭值得吗？",
-      "summaryZh": "看衰绿军！交易杜兰特！美媒4换1方案！火箭值得吗？ 新浪网",
-      "detailsZh": "看衰绿军！交易杜兰特！美媒4换1方案！火箭值得吗？ 新浪网",
-      "keyPoints": [
-        "看衰绿军！交易杜兰特！美媒4换1方案！火箭值得吗？"
-      ],
-      "category": "场外",
-      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -172,37 +160,17 @@
       "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "陈泽官方抖音直播间（固定入口）",
-      "summaryZh": "本条目为游戏主播陈泽自2024年转战后的官方直播固定主页入口，非当日新闻。抖音号9896719，通常晚间开播，具体排期请以平台实时状态为准。",
-      "detailsZh": "【事实】该链接为陈泽目前唯一的官方直播聚合入口，绑定其抖音账号9896719。自2024年起，其直播主阵地已全面迁移至抖音，不再使用虎牙旧房间或其他平台作为首发渠道。【评论】此举符合头部游戏主播向短视频与直播平台融合发展的行业趋势，有利于扩大受众覆盖面并提升商业转化效率。【传闻】网络偶有传言称其将恢复多平台同步推流，但截至目前并无官方公告证实，一切以抖音直播间实际显示为准。",
+      "titleZh": "游戏主播陈泽抖音官方直播间（固定入口）",
+      "summaryZh": "本条目为游戏主播陈泽自2024年转战后的官方直播主页入口，非当日新闻动态。抖音号9896719，通常晚间开播，具体排期请以平台实时状态为准。",
+      "detailsZh": "【事实】该链接为陈泽自2024年起在抖音平台的官方直播固定主页，抖音号为9896719。平台规则显示其常规开播时段多安排在晚间，但实际场次会随个人档期与活动安排动态调整。【评论】作为其目前的核心直播阵地，该账号已逐步承接其从虎牙时期积累的粉丝基础，内容形式更偏向互动聊天与轻度游戏娱乐。【传闻】网络偶有传言称其将恢复全职高强度游戏直播，但目前尚无官方公告证实，建议以直播间公告栏信息为准。",
       "keyPoints": [
-        "官方指定直播入口",
-        "2024年起主阵地迁至抖音",
-        "抖音号9896719",
-        "晚间常规开播"
+        "自2024年起主阵地转移至抖音",
+        "抖音号：9896719",
+        "通常为晚间开播",
+        "非当日新闻，属固定资料入口"
       ],
       "category": "直播",
       "importance": 5
-    },
-    {
-      "id": "chenze:chenze-bilibili-search",
-      "title": "哔哩哔哩陈泽相关视频",
-      "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
-      "subject": "chenze",
-      "titleZh": "哔哩哔哩陈泽相关内容聚合页（固定入口）",
-      "summaryZh": "本条目为B站关于游戏主播陈泽的视频、切片及讨论聚合搜索入口，属固定资料索引，非时效性新闻报道。内容涵盖直播高光、二创剪辑及粉丝互动记录。",
-      "detailsZh": "【事实】该URL指向B站全站搜索结果页，持续收录与陈泽相关的二次创作视频、直播录屏及社区讨论。B站长期作为其内容分发的重要补充渠道，用于沉淀长尾流量与粉丝社群运营。【评论】相较于抖音的即时互动，B站生态更利于优质片段的深度传播与口碑发酵，有助于维持核心玩家群体的活跃度。【传闻】部分自媒体声称其将独家签约B站进行全量直播，此说法缺乏依据，目前仍为多平台内容分发策略。",
-      "keyPoints": [
-        "B站内容聚合入口",
-        "非当日新闻",
-        "侧重切片与二创传播",
-        "粉丝社群运营阵地"
-      ],
-      "category": "直播",
-      "importance": 4
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -213,14 +181,31 @@
       "publishedAt": "2026-08-13T20:20:54.000Z",
       "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
       "subject": "chenze",
-      "titleZh": "陈泽海南庆生行程及近期工作安排",
-      "summaryZh": "游戏主播陈泽近期公开行程显示其前往海南庆祝生日，同时配合自制综艺的宣传节点进行线下活动。整体安排紧凑，兼顾私人生活与公众曝光。",
-      "detailsZh": "【事实】公开行程记录表明陈泽于八月下旬抵达海南，期间进行了生日庆祝活动。同期正值其自制综艺上线宣传期，团队安排了必要的媒体采访与线上联动。行程结束后预计将回归日常直播节奏。【评论】艺人在生日节点选择异地庆祝并结合作品宣发，是常见的公关与个人品牌维护手段，有助于在保持私生活边界的同时维持公众关注度。【传闻】社交平台流传其生日派对现场有多位圈内好友出席的照片，但多数为模糊截图或年代久远的旧图拼接，真实性存疑，应以本人社交账号发布内容为准。",
+      "titleZh": "陈泽赴海南庆生及综艺上线行程公开",
+      "summaryZh": "据新浪新闻披露，游戏主播陈泽近期前往海南进行生日庆祝活动，并同步推进自制综艺节目的后期制作与上线事宜，相关行程与工作安排已对外公开。",
+      "detailsZh": "【事实】2026年8月中旬，陈泽团队通过官方渠道发布行程动态，确认其本人已抵达海南进行庆生活动。同期，其筹备已久的自制综艺项目进入宣发阶段，预计于当月内正式推出。【评论】此次行程结合了个人生活节点与商业项目落地，显示出其运营团队在档期管理上的成熟度。线下庆生有助于增强核心粉丝粘性，而综艺上线则是拓展泛娱乐受众的关键一步。【传闻】部分自媒体猜测庆生现场将有神秘嘉宾助阵，但截至目前并未获得主办方或当事人证实，此类消息多为营销号引流手段，请勿轻信。",
       "keyPoints": [
-        "海南生日庆祝活动",
-        "配合综艺上线宣传",
-        "公私行程平衡",
-        "旧图拼接传闻需甄别"
+        "赴海南举办生日庆祝活动",
+        "同步推进自制综艺上线工作",
+        "行程与商业项目双线并行",
+        "神秘嘉宾出席说法暂无实锤"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
+      "title": "陈泽",
+      "url": "https://baike.baidu.com/item/陈泽/63933344",
+      "source": "百度百科",
+      "publishedAt": "2026-08-29T18:27:27.540Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "陈泽",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "陈泽"
       ],
       "category": "场外",
       "importance": 4
@@ -257,7 +242,7 @@
         "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -278,11 +263,11 @@
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMijAFBVV95cUxQdm1qQ3lGQ0hCYk5DcUhma3ZyRlVPNDkzdzFETFViZG9fLUNsMUxHcE4xZU0zc3ZYOTVqc29PYWZTeld0V0pCbzNpNC1vSS1ucnVCbkw4UjZpNXpTRldtTzZ3Vl81NUFzdHd0bFZ4c0FmVnlQV2Z5VHlLNFVxc0VDRzlERzAzSmdsQ3ZBTQ",
+      "id": "chenze:CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw",
       "title": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdm1qQ3lGQ0hCYk5DcUhma3ZyRlVPNDkzdzFETFViZG9fLUNsMUxHcE4xZU0zc3ZYOTVqc29PYWZTeld0V0pCbzNpNC1vSS1ucnVCbkw4UjZpNXpTRldtTzZ3Vl81NUFzdHd0bFZ4c0FmVnlQV2Z5VHlLNFVxc0VDRzlERzAzSmdsQ3ZBTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw?oc=5",
       "source": "搜狐网",
-      "publishedAt": "2026-08-15T10:30:45.000Z",
+      "publishedAt": "2026-08-25T22:30:54.000Z",
       "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
       "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
       "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
@@ -294,18 +279,18 @@
       "importance": 3
     },
     {
+      "id": "chenze:chenze-bilibili-search",
+      "title": "哔哩哔哩陈泽相关视频",
+      "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
       "subject": "chenze",
-      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
-      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "封面新闻",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "titleZh": "哔哩哔哩陈泽相关视频",
+      "summaryZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
+      "detailsZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
       "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
+        "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
       "importance": 3
@@ -318,14 +303,13 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话：大咕咕咕鸡公开动态与读者讨论专区（固定入口）",
-      "summaryZh": "该页面为新浪微博设立的固定聚合入口，集中收录大咕咕咕鸡的历史发文、粉丝二创及日常互动记录，非实时新闻推送。",
-      "detailsZh": "【事实】此链接指向微博官方超话社区，属于长期维护的固定资料索引页，主要功能为归档该账号过往发布的段子、图文及评论区互动。【评论】作为早期中文互联网模因传播的重要节点，该超话保留了大量具有时代特征的网友玩梗与二次创作，具有较高的文献参考价值。【传闻】网传部分早期高赞内容已被平台清理或折叠，具体留存比例尚无官方数据，实际可见度受算法推荐机制影响较大。",
+      "titleZh": "大咕咕咕鸡微博超话与公开动态聚合页",
+      "summaryZh": "本条目为固定资料入口，非当日新闻。汇集该写手新浪微博超话内的读者互动、日常动态及话题讨论，便于追踪其社交圈层反馈。",
+      "detailsZh": "【事实】该页面为新浪微博官方认证的超级话题索引，持续收录用户围绕“大咕咕咕鸡”发布的原创内容、转发记录及评论区互动数据。【评论】媒体与研究者常借此观察网络文学创作者的粉丝黏性与舆论走向，认为其超话是检验作品市场接受度的直观窗口。【传闻】网传部分营销号曾试图通过刷量干预话题热度，但平台算法已多次进行反作弊清洗，实际活跃度仍由核心读者维持。本链接仅作静态档案参考。",
       "keyPoints": [
-        "固定超话入口",
-        "历史发文归档",
-        "粉丝二创聚合",
-        "非实时动态"
+        "微博超话实时动态索引",
+        "读者互动与话题发酵中心",
+        "平台反作弊机制保障数据真实"
       ],
       "category": "讨论",
       "importance": 3
@@ -338,17 +322,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩搜索页：相关视频朗读与作品集锦（固定检索）",
-      "summaryZh": "此为B站关键词搜索结果页，聚合了UP主对大咕咕咕鸡段子的语音朗读、混剪视频及弹幕讨论，属常规检索工具而非独立资讯。",
-      "detailsZh": "【事实】该URL为B站全站搜索接口，返回结果随用户输入和算法推荐动态变化，本身不承载特定主体的官方发布内容。【评论】视频区存在大量将文字段子转化为音频或动画的二创作品，反映了其文本在视觉化媒介中的跨平台生命力。【传闻】有观点认为部分搬运视频未获授权，但平台通常以“合理使用”或“同人创作”为由不予干预，版权争议细节不明，实际播放量波动多与热点事件相关。",
+      "titleZh": "哔哩哔哩作品朗读与相关视频检索页",
+      "summaryZh": "固定资料入口，非突发资讯。聚合B站站内关于该写手小说有声书、剧情解说、二创剪辑及历史直播录像的检索结果。",
+      "detailsZh": "【事实】该搜索聚合页按播放量与更新时间排序，涵盖正版授权朗读音频、UP主制作的剧情解析视频及早期网络活动切片。【评论】学界指出，B站生态显著放大了其文字作品的听觉传播效应，使原本依赖阅读的受众扩展至泛娱乐群体。【传闻】坊间偶有传言称某头部配音团队曾秘密洽谈独家版权，但截至当前并无官方签约公告，相关视频多为粉丝自制或搬运。此页面仅作为多媒体资料库入口。",
       "keyPoints": [
-        "B站搜索聚合页",
-        "音频朗读与混剪",
-        "弹幕文化载体",
-        "非官方发布源"
+        "有声书与二创视频聚合检索",
+        "听觉传播拓展受众边界",
+        "版权合作传闻尚无实锤"
       ],
-      "category": "讨论",
-      "importance": 2
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -358,16 +341,15 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科词条：大咕咕咕鸡人物背景与创作影响（固定资料）",
-      "summaryZh": "维基百科收录的固定人物条目，系统梳理其常用笔名、写作风格、代表作品及对网络语言生态的客观影响，供公众查阅参考。",
-      "detailsZh": "【事实】该词条依据公开可查的网络报道、社交媒体存档及学术引用进行编纂，采用中立叙述框架，详细记录了其活跃时期、标志性句式及社会反响。【评论】条目结构符合百科规范，有效遏制了碎片化信息带来的认知偏差，为研究中文互联网亚文化提供了标准化索引。【传闻】个别版本曾因编辑权限问题引发过内容争议，但核心事实部分经多次复核已趋于稳定，外部引用时建议核对修订历史。",
+      "titleZh": "维基百科人物背景与创作风格词条",
+      "summaryZh": "固定百科资料入口，非时效新闻。系统梳理该写手的常用笔名、代表作品、文风特征及其在中文互联网语境中的文化影响。",
+      "detailsZh": "【事实】词条依据公开出版物、媒体报道及作者本人访谈编纂，客观记录其从网络连载到实体出版的轨迹，并标注参考文献来源。【评论】评论界普遍认为，该词条的修订过程反映了网络写手进入主流视野后的形象重塑，其语言实验性对当代网文叙事结构产生了实质性推动。【传闻】网络社区曾流传“某知名学者将为其撰写学术专著”的说法，目前仅停留在论坛猜测阶段，未获出版社确认。本链接仅作静态档案查阅。",
       "keyPoints": [
-        "百科固定词条",
-        "创作风格梳理",
-        "网络影响评估",
-        "中立史料汇编"
+        "权威百科背景资料索引",
+        "文风演变与出版轨迹记录",
+        "学术研究传闻待核实"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -378,14 +360,13 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库数据页：微博公开账号传播指标（固定档案）",
-      "summaryZh": "第三方数据平台提供的固定账号档案，展示大咕咕咕鸡微博账号的粉丝量、互动率等历史传播参数，仅作数据参考。",
-      "detailsZh": "【事实】该页面抓取并静态化呈现了指定微博ID的基础信息与历史运营数据，不包含任何新增动态或主观评价。【评论】此类KOL数据看板有助于量化分析早期网红账号的流量生命周期，但其统计口径常因平台规则调整而存在滞后性。【传闻】市场曾有传言称其账号后期活跃度骤降系商业转型所致，但数据页仅显示自然衰减曲线，无直接证据支持，实际原因可能涉及个人生活重心转移。",
+      "titleZh": "领库平台微博账号传播数据档案",
+      "summaryZh": "固定数据资料入口，非当日动态。展示该写手新浪微博账号的粉丝画像、互动指数及商业合作历史等第三方监测数据。",
+      "detailsZh": "【事实】该页面抓取并可视化呈现了指定微博ID的公开运营指标，包括日均发帖量、转评赞趋势及主要活跃地域分布。【评论】行业分析指出，此类数据看板有助于品牌方评估KOL的商业转化潜力，但也存在因平台接口限制导致的历史数据断层问题。【传闻】曾有自媒体声称掌握其内部流量分成协议细节，但经多方交叉验证，所述金额与分成比例均缺乏财务凭证支撑。此条目仅作数据参考。",
       "keyPoints": [
-        "第三方数据快照",
-        "传播指标归档",
-        "非实时更新",
-        "流量周期参考"
+        "第三方社交媒体数据看板",
+        "粉丝画像与商业价值评估",
+        "内部协议传闻缺乏财务佐证"
       ],
       "category": "场外",
       "importance": 2
@@ -398,17 +379,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻报道：大咕咕咕鸡创作风格与网络生态深度解析（历史报道）",
-      "summaryZh": "2015年媒体发布的深度特稿，回顾其独特文风如何塑造早期网络段子文化，并探讨其对当代网民表达习惯的长远影响。",
-      "detailsZh": "【事实】该文发表于2015年5月，通过采访行业观察员与对比同期热门文案，客观记录了大咕咕咕鸡的创作轨迹及其引发的模仿浪潮。【评论】报道视角较为专业，准确捕捉了“无厘头+反讽”叙事在移动互联网初期的爆发逻辑，是研究中文网络文学演变的重要切片。【传闻】文中提及的某些内部合作意向并未见诸后续公开记录，真实性存疑，建议结合其他信源交叉验证，避免过度解读早期营销动作。",
+      "titleZh": "界面新闻深度报道：段子手创作生态观察",
+      "summaryZh": "历史性媒体分析文章，非近期事件。聚焦该写手早期的语言解构手法，探讨其对网络流行语生成机制的塑造作用。",
+      "detailsZh": "【事实】该文发表于2015年，通过采访多位同行与语言学专家，详细拆解了其标志性句式如何被大众模仿并衍生出系列网络梗。【评论】报道认为，此类创作模式标志着网络文学从单纯的情节驱动转向情绪与修辞驱动，为后续短视频脚本提供了大量素材原型。【传闻】文中提及的“某平台曾高价买断其全部早期段子版权”一事，当事人后续澄清仅为短期内容采购意向，并未达成永久买断交易。本文档仅作历史文献存档。",
       "keyPoints": [
-        "2015年深度报道",
-        "创作风格溯源",
-        "网络生态影响",
-        "历史文献价值"
+        "2015年历史深度报道存档",
+        "网络流行语生成机制分析",
+        "版权买断传闻已获当事人澄清"
       ],
-      "category": "公开发言",
-      "importance": 5
+      "category": "讨论",
+      "importance": 4
     }
   ]
 }
