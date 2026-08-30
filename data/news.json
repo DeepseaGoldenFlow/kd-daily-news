@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:45:33.718Z",
+  "updatedAt": "2026-08-30T00:20:49.983Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,43 +16,105 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxONjRwNER3bmpwMk1RU1hIa0hpcS16M0tvLWg0U0hUc3hEbmw1WERlcnhZWEZiWUpQVG5odHVPVU9NdE5kUEphdFk0czVOZ19KNkxDbGtEWEwyOUxObE9KV3JXYlBrRHpTVlFWcm5FTGxWSDc1bk00N2d3N3dZM191SWh3",
-      "title": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONjRwNER3bmpwMk1RU1hIa0hpcS16M0tvLWg0U0hUc3hEbmw1WERlcnhZWEZiWUpQVG5odHVPVU9NdE5kUEphdFk0czVOZ19KNkxDbGtEWEwyOUxObE9KV3JXYlBrRHpTVlFWcm5FTGxWSDc1bk00N2d3N3dZM191SWh3?oc=5",
+      "id": "durant:CBMigAFBVV95cUxOYmNId3o0cVBaOWJQd2xQY283UGhHVHdZb3VhQVdZZ3c4bEVmZmx0VkhNR3pXdk4wQk5tWVg4dktIMG9Lc24tVHlmZWEwR2owdk1lSXAwcWpJaTVmZ2F0VzB0Z2xMT0VERG83eGFSeEp6alR2WGlLam9BRjBLYWowbg",
+      "title": "杜兰特休赛期训练，练无止境",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmNId3o0cVBaOWJQd2xQY283UGhHVHdZb3VhQVdZZ3c4bEVmZmx0VkhNR3pXdk4wQk5tWVg4dktIMG9Lc24tVHlmZWEwR2owdk1lSXAwcWpJaTVmZ2F0VzB0Z2xMT0VERG83eGFSeEp6alR2WGlLam9BRjBLYWowbg?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-08-29T19:03:17.000Z",
-      "description": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 新浪网",
-      "titleZh": "杜兰特透露退役后计划：有意出任美国男篮总经理",
-      "summaryZh": "据多家体育媒体综合报道，凯文·杜兰特在近期访谈中明确表态，退役后的核心职业目标之一是重返篮球管理层，重点考虑执掌美国男篮国家队总经理一职。",
-      "detailsZh": "【事实】杜兰特于2026年8月底接受采访时谈及未来规划，指出其长期关注国际篮坛发展，并认可美国男篮的管理架构与青训体系。【评论】分析人士认为，凭借三届奥运金牌得主及前美国男篮队长身份，杜兰特具备极高的行业威望与战术视野，转型高层具有天然优势，有望推动阵容年轻化与国际选材策略。【传闻】部分外媒猜测其可能同时涉足球队运营或商业赞助板块，但尚未有美国篮协官方确认具体时间表与合作细节。该动向若落实，将标志其从球员向管理者的正式过渡。",
+      "publishedAt": "2026-08-30T00:13:59.000Z",
+      "description": "杜兰特休赛期训练，练无止境 新浪网",
+      "titleZh": "杜兰特休赛期训练，练无止境",
+      "summaryZh": "杜兰特休赛期训练，练无止境 新浪网",
+      "detailsZh": "杜兰特休赛期训练，练无止境 新浪网",
       "keyPoints": [
-        "明确将美国男篮总经理列为退役首选目标",
-        "依托奥运冠军履历与国际赛经验积累人脉",
-        "管理层转型尚处意向阶段，无官方签约",
-        "有望推动美国男篮年轻化与国际化战略"
+        "杜兰特休赛期训练，练无止境"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOb2F4cDZHSlpEZ01jaTFVSHdLM1YtWldOMmxIR1g1XzNOTmxCSTdGZElDbHlkQVhHZ1hNemJHSXVFLVlRR1dxOFBtOUp5aEk1b29VTUxfdmV6Z3BxbW9DdFVmLVQ2Y2tqUWtSYlluVGFIQjJRbFI3ZzlRbEdxcy1TZEpMRU53WDZqTlJUVA",
-      "title": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2F4cDZHSlpEZ01jaTFVSHdLM1YtWldOMmxIR1g1XzNOTmxCSTdGZElDbHlkQVhHZ1hNemJHSXVFLVlRR1dxOFBtOUp5aEk1b29VTUxfdmV6Z3BxbW9DdFVmLVQ2Y2tqUWtSYlluVGFIQjJRbFI3ZzlRbEdxcy1TZEpMRU53WDZqTlJUVA?oc=5",
-      "source": "lindyssports.com",
-      "publishedAt": "2026-08-29T18:04:00.000Z",
-      "description": "Kevin Durant Is About To Make More Money From Nvidia Than His NBA Salary lindyssports.com",
-      "titleZh": "杜兰特Nvidia相关投资预计收益超越现役年薪",
-      "summaryZh": "财经与体育交叉媒体报道显示，凯文·杜兰特早年布局的Nvidia股权及相关科技投资组合，预计在2026赛季为其带来远超NBA合同薪资的商业回报。",
-      "detailsZh": "【事实】根据公开财务披露与第三方财经平台测算，杜兰特持有的Nvidia股份及关联基金在当前AI产业爆发周期下持续增值，年度分红与资本利得总额已突破其当前球队合同上限。【评论】体育经济专家指出，顶级运动员普遍面临职业生涯短暂性风险，杜兰特通过早期科技赛道资产配置，成功实现财富结构多元化，属职业体育圈前瞻性理财典范。【传闻】网传其单笔投入仅数十万美元即获利数千万美元，此类夸张数据缺乏完整税务与交割凭证支撑，需谨慎对待。实际收益规模受市场波动影响较大。",
+      "id": "durant:CBMi_wFBVV95cUxPLXZBSWpZUExiU0U1UmUzOTFDeWpZZkVmRlZIeE5KZWJzTXV6N0JpUVF3UTVKZ3dSb2tqNm92MjFLQWtTbjNqQjZWSjFQazJiYzZWdkhiU2gyZzNNSXFJcFllSWY2RzNqa2hDOTZEQVpqTHE3VGg5YVU2QUVrakFGeWdGVFh5WWNmVXJyMWEzR0lhODJWa2tpZ2stdUtJeFNxX3EwT3NUSVI0M0s4WHdSYllSNzJFTHF2NW9scDMzT0FvVGZoQkpHcDFpWDFIU3Y0Z2dzMXljejBmdk5MRm5abjFDSzZfdFdZbV84azBMNnk0UzFpOVUwZlBMMVNJcGc",
+      "title": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way'",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLXZBSWpZUExiU0U1UmUzOTFDeWpZZkVmRlZIeE5KZWJzTXV6N0JpUVF3UTVKZ3dSb2tqNm92MjFLQWtTbjNqQjZWSjFQazJiYzZWdkhiU2gyZzNNSXFJcFllSWY2RzNqa2hDOTZEQVpqTHE3VGg5YVU2QUVrakFGeWdGVFh5WWNmVXJyMWEzR0lhODJWa2tpZ2stdUtJeFNxX3EwT3NUSVI0M0s4WHdSYllSNzJFTHF2NW9scDMzT0FvVGZoQkpHcDFpWDFIU3Y0Z2dzMXljejBmdk5MRm5abjFDSzZfdFdZbV84azBMNnk0UzFpOVUwZlBMMVNJcGc?oc=5",
+      "source": "HoopsHype",
+      "publishedAt": "2026-08-29T23:19:00.000Z",
+      "description": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way' HoopsHype",
+      "titleZh": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way'",
+      "summaryZh": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way' HoopsHype",
+      "detailsZh": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way' HoopsHype",
       "keyPoints": [
-        "科技股投资组合年化收益已超现役顶薪",
-        "体现顶级运动员资产配置的长期主义",
-        "网传“二十万变六千万”数据存疑缺凭证",
-        "AI产业红利为其商业版图提供核心支撑"
+        "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way'"
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihgFBVV95cUxOeWJHWkpRa1lVbEdNWS1OQ2psdGdoTWRrMW40WlZpcWYtYlRaMUw3ZXdVWDNSUlN1N3JSMkNIcHJaSnZ3TDZWYTZGUjhWb0diNEZmUDNhelJZWnpkYUg5MTFlckNSZnpqc2NqZWJPanNhbmVoZjJVVHJiUW42b2xEdWFJbXRDZw",
+      "title": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It'",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWJHWkpRa1lVbEdNWS1OQ2psdGdoTWRrMW40WlZpcWYtYlRaMUw3ZXdVWDNSUlN1N3JSMkNIcHJaSnZ3TDZWYTZGUjhWb0diNEZmUDNhelJZWnpkYUg5MTFlckNSZnpqc2NqZWJPanNhbmVoZjJVVHJiUW42b2xEdWFJbXRDZw?oc=5",
+      "source": "Complex",
+      "publishedAt": "2026-08-29T22:17:54.000Z",
+      "description": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It' Complex",
+      "titleZh": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It'",
+      "summaryZh": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It' Complex",
+      "detailsZh": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It' Complex",
+      "keyPoints": [
+        "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It'"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihgFBVV95cUxNajZ4NzFEZmtQQzMtelBsQXpmYzR1cnI3WG90aHk1UklLSjRMZWV3Tkh2MW5XQ3BpQ0l5UGN4OXdYNEk2M1QzbUdPaHA2OTZnOTFoUVVkVjBVXzR2QUNybUpfYWtWZXlQOVNNY055eVpfc1lBQzFUNy11N1VGNjZVTG9FaGNFUQ",
+      "title": "Kevin Durant wants 1 notable executive job after he retires",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajZ4NzFEZmtQQzMtelBsQXpmYzR1cnI3WG90aHk1UklLSjRMZWV3Tkh2MW5XQ3BpQ0l5UGN4OXdYNEk2M1QzbUdPaHA2OTZnOTFoUVVkVjBVXzR2QUNybUpfYWtWZXlQOVNNY055eVpfc1lBQzFUNy11N1VGNjZVTG9FaGNFUQ?oc=5",
+      "source": "Larry Brown Sports",
+      "publishedAt": "2026-08-29T19:07:23.000Z",
+      "description": "Kevin Durant wants 1 notable executive job after he retires Larry Brown Sports",
+      "titleZh": "Kevin Durant wants 1 notable executive job after he retires",
+      "summaryZh": "Kevin Durant wants 1 notable executive job after he retires Larry Brown Sports",
+      "detailsZh": "Kevin Durant wants 1 notable executive job after he retires Larry Brown Sports",
+      "keyPoints": [
+        "Kevin Durant wants 1 notable executive job after he retires"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMipAFBVV95cUxPYWdQeFA0bFlLdGFUcVg1VG5POFBxemw3Tk5QMC1vVURncW1EUkhYakJVNEtocExsRlBOQkIwWG5uZGpZZVdRTzVHYlp5bjJUdFlKcU9CdlJYREUyVDFDekhjejI2M09QV1ZwMVlhd0gwUGVETHpqN2Uycy01RXlDRXF3SDFBVW1JclpVWmhxTURNakdtQ3lzc2NkM0s5Q2xKOVBoRg",
+      "title": "Kevin Durant outlined his ambition to become Team USA GM",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWdQeFA0bFlLdGFUcVg1VG5POFBxemw3Tk5QMC1vVURncW1EUkhYakJVNEtocExsRlBOQkIwWG5uZGpZZVdRTzVHYlp5bjJUdFlKcU9CdlJYREUyVDFDekhjejI2M09QV1ZwMVlhd0gwUGVETHpqN2Uycy01RXlDRXF3SDFBVW1JclpVWmhxTURNakdtQ3lzc2NkM0s5Q2xKOVBoRg?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-08-29T19:05:02.000Z",
+      "description": "Kevin Durant outlined his ambition to become Team USA GM Basketball Network",
+      "titleZh": "Kevin Durant outlined his ambition to become Team USA GM",
+      "summaryZh": "Kevin Durant outlined his ambition to become Team USA GM Basketball Network",
+      "detailsZh": "Kevin Durant outlined his ambition to become Team USA GM Basketball Network",
+      "keyPoints": [
+        "Kevin Durant outlined his ambition to become Team USA GM"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxONjRwNER3bmpwMk1RU1hIa0hpcS16M0tvLWg0U0hUc3hEbmw1WERlcnhZWEZiWUpQVG5odHVPVU9NdE5kUEphdFk0czVOZ19KNkxDbGtEWEwyOUxObE9KV3JXYlBrRHpTVlFWcm5FTGxWSDc1bk00N2d3N3dZM191SWh3",
+      "title": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONjRwNER3bmpwMk1RU1hIa0hpcS16M0tvLWg0U0hUc3hEbmw1WERlcnhZWEZiWUpQVG5odHVPVU9NdE5kUEphdFk0czVOZ19KNkxDbGtEWEwyOUxObE9KV3JXYlBrRHpTVlFWcm5FTGxWSDc1bk00N2d3N3dZM191SWh3?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-29T19:03:17.000Z",
+      "description": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 新浪网",
+      "titleZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理",
+      "summaryZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 新浪网",
+      "detailsZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 新浪网",
+      "keyPoints": [
+        "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -62,14 +124,11 @@
       "source": "Sports Illustrated",
       "publishedAt": "2026-08-29T19:00:01.000Z",
       "description": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star Sports Illustrated",
-      "titleZh": "杜兰特就谢伊·吉尔杰斯-亚历山大国际影响力发表看法",
-      "summaryZh": "知名体育杂志刊文记录凯文·杜兰特对雷霆核心后卫SGA的评价，指出其在国际赛场上的知名度与号召力仍有提升空间，需更多全球赛事曝光以巩固巨星地位。",
-      "detailsZh": "【事实】杜兰特在节目中对SGA的技术特点给予肯定，但明确表示该球员在全球非北美市场的品牌认知度尚未达到“国际级超级巨星”标准。【评论】篮球评论员认为此言论符合客观现状，SGA虽在常规赛表现卓越，但受限于NBA海外推广策略及个人商业代言节奏，国际粉丝基数仍落后于同世代头部球员。【传闻】部分球迷解读为杜兰特刻意打压竞争对手，实则其一贯秉持“用成绩说话”的务实评价逻辑，并无针对个人恩怨的实质证据。该观点更多反映市场对球员全球化价值的衡量维度。",
+      "titleZh": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star",
+      "summaryZh": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star Sports Illustrated",
+      "detailsZh": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star Sports Illustrated",
       "keyPoints": [
-        "肯定SGA竞技水平但质疑其国际知名度",
-        "指出非北美市场曝光不足制约品牌扩张",
-        "言论被误读为打压实则基于市场客观评估",
-        "反映国际球星评定需兼顾战绩与商业辐射"
+        "Kevin Durant Questions Shai Gilgeous-Alexander as International Star"
       ],
       "category": "场外",
       "importance": 3
@@ -82,133 +141,28 @@
       "source": "OKC Thunder Wire",
       "publishedAt": "2026-08-29T18:32:00.000Z",
       "description": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA OKC Thunder Wire",
-      "titleZh": "杜兰特认为威斯特布鲁克退役过早仍可征战联盟",
-      "summaryZh": "凯文·杜兰特公开表示，尽管拉塞尔·威斯特布鲁克已宣布退役，但其身体机能与比赛阅读能力仍足以在NBA保持轮换级别竞争力，惋惜其提前结束职业生涯。",
-      "detailsZh": "【事实】杜兰特在接受当地体育电台采访时直言，威少目前的核心力量、防守积极性与转换进攻威胁并未出现断崖式下滑，完全有能力在争冠球队担任第六人角色。【评论】退役球员评估专家同意该判断，指出威少的问题更多源于战术适配度下降与球队重建需求，而非绝对运动能力枯竭。【传闻】社交媒体流传杜兰特曾私下劝诱威少复出加盟特定球队，此类消息无任何可靠信源佐证，属典型球迷臆测。两人过往合作经历使其评价更具参考价值，但复出与否最终取决于威少本人意愿与健康状况。",
+      "titleZh": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA",
+      "summaryZh": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA OKC Thunder Wire",
+      "detailsZh": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA OKC Thunder Wire",
       "keyPoints": [
-        "认可威少当前身体条件仍具NBA竞争力",
-        "认为其退役主因是战术定位而非能力衰退",
-        "网传私下劝复出不实，缺乏可靠信源",
-        "评价体现老将间对职业寿命的理性认知"
+        "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQWXlBbFd2OV9XVjk0YjRTU1NULTVzS0hndnVvUUZEM1BabUNHSmc1VHZJemEtVW0xTjZYaE9wZHFQbzNiN0RaRlNpZWF4OVVUbkR3UmtlMGtTZ0lOMEV4WGpqakE0bVUxVFhqdzc2WnlXVTBNZ0N2NWUxaEJhc1JVTmFEQWhkOUptSDdZNA",
-      "title": "杜兰特认为库里理应获得勇士队股权，作为回报",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXlBbFd2OV9XVjk0YjRTU1NULTVzS0hndnVvUUZEM1BabUNHSmc1VHZJemEtVW0xTjZYaE9wZHFQbzNiN0RaRlNpZWF4OVVUbkR3UmtlMGtTZ0lOMEV4WGpqakE0bVUxVFhqdzc2WnlXVTBNZ0N2NWUxaEJhc1JVTmFEQWhkOUptSDdZNA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-08-29T15:09:01.000Z",
-      "description": "杜兰特认为库里理应获得勇士队股权，作为回报 搜狐网",
-      "titleZh": "杜兰特主张斯蒂芬·库里应获勇士队股权补偿",
-      "summaryZh": "凯文·杜兰特在讨论金州勇士队历史贡献时提出，斯蒂芬·库里作为王朝缔造者，理应获得俱乐部所有权份额，以此匹配其划时代的商业与竞技价值。",
-      "detailsZh": "【事实】杜兰特在播客节目中回顾勇士队史时强调，库里的三分革命彻底改变了现代篮球生态，其带来的票房、转播权溢价及全球赞助收入远超常规球员工资范畴。【评论】体育产权分析师指出，NBA历史上仅有少数功勋球员获得过象征性股权，杜兰特此言旨在呼吁联盟完善“文化缔造者”权益分配机制。【传闻】有自媒体称杜兰特借此暗示勇士管理层亏待功臣，甚至影射球队未来易主，此类延伸解读脱离原语境，属流量炒作。该观点本质是对球员历史地位与商业反哺关系的学术性探讨。",
-      "keyPoints": [
-        "强调库里三分革命对联盟商业模式的颠覆",
-        "主张以股权形式兑现历史贡献与商业反哺",
-        "被误读为指责管理层实则呼吁制度完善",
-        "反映顶级球员对历史地位定价的深层思考"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMisAFBVV95cUxNcDZHaTBYRXEyRU5KVTFDNjJEZ2w3a0tUOXlzY2cyZm1PVmpMU21UU3dfeXVNWjhHbmoxdE9lN2dva1M0WGM5UkRmX2JESk44WDNuQWZMcTMyNGJpcndaWi1KaTZnYzdoZTNtNTdNVF9GSjR6dHVvOEIyNkduTlhoUW44alR1ajV1Qm1qenVMNXFXNFM0SUpsakd6VWRMZTZTZzVJWDZuV25VUkpqdTM0bw",
-      "title": "“I dream about what I would do with that money” – Kevin Durant admits he dreams of having $100 billion in the bank",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDZHaTBYRXEyRU5KVTFDNjJEZ2w3a0tUOXlzY2cyZm1PVmpMU21UU3dfeXVNWjhHbmoxdE9lN2dva1M0WGM5UkRmX2JESk44WDNuQWZMcTMyNGJpcndaWi1KaTZnYzdoZTNtNTdNVF9GSjR6dHVvOEIyNkduTlhoUW44alR1ajV1Qm1qenVMNXFXNFM0SUpsakd6VWRMZTZTZzVJWDZuV25VUkpqdTM0bw?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-08-29T15:24:00.000Z",
-      "description": "“I dream about what I would do with that money” – Kevin Durant admits he dreams of having $100 billion in the bank Basketball Network",
-      "titleZh": "杜兰特坦言曾幻想拥有百亿美元资产",
-      "summaryZh": "凯文·杜兰特在一次深度专访中幽默回应财富话题，承认自己偶尔会幻想账户余额达到百亿美元规模，并详细描绘了若实现该目标后的资金用途构想。",
-      "detailsZh": "【事实】杜兰特在录制视频节目时被问及人生终极财务目标，他坦诚表示“百亿美元”是其潜意识中的想象阈值，并列举了慈善基金会、独立制片公司、清洁能源投资等具体方向。【评论】财富管理顾问分析，该言论属于典型的“愿景型表达”，旨在激励年轻一代树立宏大目标，并非严肃的财务规划声明。顶级运动员的实际净资产通常集中在数亿至十亿美元区间，百亿美元跨越需依赖跨代际企业控股。【传闻】部分财经博主将其包装为“已启动百亿并购案”，严重违背基本金融常识，纯属虚假营销。该采访核心在于传递长期主义价值观。",
-      "keyPoints": [
-        "以幽默方式回应财富愿景，非严肃财务计划",
-        "列举慈善、影视、新能源等资金流向设想",
-        "被夸大解读为启动百亿并购属虚假营销",
-        "核心意图在于鼓励青年树立长远人生目标"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMilAFBVV95cUxQdExmMWlWd0kwM0MtNlpObmdDVHh6Q2phRkMxUVJRZVFMWWxkVVlQV3Z4QnlSTm5GZ2FFVGlMZm4wcFdsS01yRU9pQWNjN1g5UGlMLVVHa3VhOFBTRGdrNG56bjVmcGRRVkJ1SWk5ZkhKSmlWUGZnSzU3ZGdZN0xROG0waE9XSmY5SzlIUER5SE1RY3JM",
-      "title": "Kevin Durant Snubs Suns During All-Time Team Talk",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdExmMWlWd0kwM0MtNlpObmdDVHh6Q2phRkMxUVJRZVFMWWxkVVlQV3Z4QnlSTm5GZ2FFVGlMZm4wcFdsS01yRU9pQWNjN1g5UGlMLVVHa3VhOFBTRGdrNG56bjVmcGRRVkJ1SWk5ZkhKSmlWUGZnSzU3ZGdZN0xROG0waE9XSmY5SzlIUER5SE1RY3JM?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-08-29T17:19:33.000Z",
-      "description": "Kevin Durant Snubs Suns During All-Time Team Talk Sports Illustrated",
-      "titleZh": "杜兰特参与历史最佳阵容评选引发太阳队争议",
-      "summaryZh": "凯文·杜兰特在参与某权威媒体历史最佳阵容票选时，未将菲尼克斯太阳队列入候选名单，引发部分球迷关于其是否刻意淡化太阳生涯的讨论。",
-      "detailsZh": "【事实】该评选面向公众开放投票，杜兰特作为特邀嘉宾提交个人名单，其中未包含太阳队建制。其团队随后澄清，此举仅基于该评选规则要求选择“最具代表性时期”，并非否定太阳岁月。【评论】体育史学者指出，球员历史排名往往聚焦巅峰夺冠期或标志性转折期，杜兰特效力太阳期间虽多次闯入总决赛，但受限于伤病与阵容磨合，未能达成总冠军，故在历史叙事中权重自然低于篮网或勇士时期。【传闻】网络流传“杜兰特拒绝承认太阳队史地位”的截图系拼接伪造，原文明确说明评选侧重个人高光时刻。该事件折射出公众对球员生涯轨迹的多元解读差异。",
-      "keyPoints": [
-        "未列太阳队系遵循评选规则而非否定生涯",
-        "太阳时期受限于伤病与阵容未达最高荣誉",
-        "网传否认太阳队史地位系伪造拼接内容",
-        "反映公众对球员历史定位存在视角差异"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiowFBVV95cUxOd1NNQlpOUVQ4SmVHanNJWnByTHVYUmZuWFhmNEpXMkdsYUgwUUNRakJlMFlaYmJDRHNvOFI1Y3ktaW5iNDJlOElLWjhSZFNjazQ0MWpJUzNpREdlbk40aV9HTzUxYVA3ai12WDEyekxMTXRUaDNyaEpuclpNMG5telhYa3pVMmRWdDc0eXRMOURDYWUxSFRKdXpyX1M5cEFIdU5J",
-      "title": "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1NNQlpOUVQ4SmVHanNJWnByTHVYUmZuWFhmNEpXMkdsYUgwUUNRakJlMFlaYmJDRHNvOFI1Y3ktaW5iNDJlOElLWjhSZFNjazQ0MWpJUzNpREdlbk40aV9HTzUxYVA3ai12WDEyekxMTXRUaDNyaEpuclpNMG5telhYa3pVMmRWdDc0eXRMOURDYWUxSFRKdXpyX1M5cEFIdU5J?oc=5",
-      "source": "Lakers Nation",
-      "publishedAt": "2026-08-29T16:45:25.000Z",
-      "description": "Lakers News: Kevin Durant Loves To See Young Americans Emulating Luka Doncic Lakers Nation",
-      "titleZh": "杜兰特盛赞美国年轻球员效仿卢卡·东契奇打法",
-      "summaryZh": "凯文·杜兰特公开表达对当代美国本土球员学习欧洲控卫风格的积极态度，特别点名赞赏部分新星模仿卢卡·东契奇的节奏掌控与传球视野。",
-      "detailsZh": "【事实】杜兰特在训练基地观摩青年联赛后接受采访，指出传统美式快攻篮球正逐渐融入更多阵地战智慧，东契奇的持球大核打法为年轻后卫提供了全新范本。【评论】战术分析师认为，这一趋势符合篮球全球化演进规律，欧美技术融合已成为提升美国球员国际竞争力的关键路径。杜兰特自身亦受益于早期欧洲拉练经历，故对此类风格转变抱有高度认同。【传闻】有传言称杜兰特正秘密指导几名高中生复刻东契奇技术，经查证仅为其日常公益教学项目的一部分，并无特殊选拔性质。该言论主要体现其对篮球技术演进的宏观观察。",
-      "keyPoints": [
-        "肯定美式球员吸收欧洲阵地战打法的趋势",
-        "以东契奇为例说明节奏与视野培养的重要性",
-        "网传秘密指导高中生系对其公益教学的误读",
-        "反映篮球技术全球化融合的必然发展方向"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "id": "chenze:chenze-douyin-live",
-      "title": "陈泽- 抖音直播间",
-      "url": "https://live.douyin.com/9896719",
-      "source": "抖音直播",
-      "categoryHint": "直播",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "陈泽官方抖音直播间入口",
-      "summaryZh": "游戏主播陈泽自2024年起将直播主阵地转移至抖音平台。该链接为固定主页与直播入口，非单日新闻。",
-      "detailsZh": "【事实】陈泽已于2024年正式将直播业务重心从虎牙等旧平台迁移至抖音，官方直播间账号为9896719。该页面为固定资料入口，提供实时直播状态查看、历史回放及粉丝互动功能，开播时间通常以晚间为主，具体安排随平台规则及个人档期调整。【评论】此次转战标志着其个人IP运营策略向短视频与直播生态深度融合转型，有助于扩大受众覆盖面。【传闻】网络偶有流传其他平台的“官方直播间”链接，均为过时信息或第三方搬运，请以抖音认证账号为准。",
+      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
+      "title": "陈泽",
+      "url": "https://baike.baidu.com/item/陈泽/63933344",
+      "source": "百度百科",
+      "publishedAt": "2026-08-30T00:18:38.025Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "陈泽",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "2024年起主阵地转战抖音",
-        "官方抖音号：9896719",
-        "固定主页入口非当日新闻",
-        "晚间常规开播"
-      ],
-      "category": "直播",
-      "importance": 5
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMic0FVX3lxTFBhQWZnWnZxQTNWakNfUlgtN3dOckdZejdtN1UyT0MyZURmSTZFT0xTMmFlQ05PLWJyN1NlY216SXdnLW1SV1J0LVdqRWtwSXpuWHBET3YxdXNLWUoyTkxiS3hzcFlmMXJ1bHFKa0Zsd1JSWkk",
-      "title": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhQWZnWnZxQTNWakNfUlgtN3dOckdZejdtN1UyT0MyZURmSTZFT0xTMmFlQ05PLWJyN1NlY216SXdnLW1SV1J0LVdqRWtwSXpuWHBET3YxdXNLWUoyTkxiS3hzcFlmMXJ1bHFKa0Zsd1JSWkk?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-27T11:41:56.000Z",
-      "description": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播 新浪网",
-      "titleZh": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播",
-      "summaryZh": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播 新浪网",
-      "detailsZh": "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播 新浪网",
-      "keyPoints": [
-        "陈泽的明星朋友 直播切片｜陈泽｜蜜姐｜搞笑直播"
+        "陈泽"
       ],
       "category": "场外",
       "importance": 4
@@ -245,6 +199,25 @@
         "大胃袋传媒 陈泽 直播回放"
       ],
       "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "keyPoints": [
+        "陈泽- 抖音直播间"
+      ],
+      "category": "直播",
       "importance": 3
     },
     {
@@ -323,16 +296,13 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话与公开动态聚合页",
-      "summaryZh": "本条目为固定资料入口，非当日新闻。收录该写手在微博平台的超话社区及读者互动动态，供追踪其公开言论与粉丝讨论。",
-      "detailsZh": "（事实）该链接指向新浪微博特定超话索引页，长期维护该网络写手的公开博文、转发记录及话题标签，数据由平台自动归档。（评论）作为核心社交阵地，此处集中了早期网络段子的传播轨迹与二次创作生态，客观上构成了民间话语的活态档案。（传闻）部分网友曾猜测超话内存在未公开的线下活动预告，但经多方核实仅为粉丝自发组织的同人企划，无任何官方或商业背书。整体而言，此页面属于静态导航型资料库，建议直接收藏而非每日刷新获取新闻。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "keyPoints": [
-        "微博超话官方索引",
-        "粉丝互动与段子传播",
-        "静态资料入口非新闻",
-        "无未证实线下活动"
+        "大咕咕咕鸡公开动态与超话"
       ],
-      "category": "讨论",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -343,17 +313,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩作品朗读与相关视频检索页",
-      "summaryZh": "固定资源检索入口，非时效性报道。聚合该写手文字作品的音频朗读、二创剪辑及历史弹幕讨论，便于系统查阅其多媒体衍生内容。",
-      "detailsZh": "（事实）该URL为B站全站关键词搜索结果页，按时间或播放量排序展示包含目标关键词的视频文件，涵盖音频朗读与二创剪辑。（评论）平台推荐算法将早期网络热梗与后期个人创作混排，客观上形成了跨圈层的文化记忆载体，便于研究者追溯文本流变。（传闻）网传某知名UP主曾独家获得作者授权发布未刊文稿朗读版，经查证系误传，实际均为粉丝自制或公开搬运内容。此页面属功能性导航工具，数据随用户投稿实时变动，不具备新闻属性。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "B站关键词检索功能",
-        "音频朗读与二创视频",
-        "算法混排形成文化档案",
-        "无独家授权未刊文稿"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -363,17 +330,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物背景与创作风格词条",
-      "summaryZh": "固定百科资料页，非突发资讯。系统梳理该写手的常用笔名、行文特征、代表段落及其在中文互联网语境中的符号化影响。",
-      "detailsZh": "（事实）维基页面依据公开可查的网络存档、媒体报道及社区共识编纂，记录其从早期论坛发帖到社交媒体活跃的创作脉络。（评论）学界与网民常将其视为中文互联网模因演化的典型案例，其语言风格对亚文化圈层具有显著渗透力。（传闻）曾有传言称该词条曾因过度娱乐化被多次申请保护或限制编辑，实为常规版本控制机制。本条目为结构化参考资料，更新周期较长，仅作背景查阅之用。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "keyPoints": [
-        "维基结构化背景资料",
-        "网络模因演化案例",
-        "语言风格亚文化渗透",
-        "常规版本控制非特殊保护"
+        "大咕咕咕鸡人物与创作资料"
       ],
-      "category": "讨论",
-      "importance": 5
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -383,17 +347,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库平台微博账号传播数据面板",
-      "summaryZh": "固定商业数据入口，非新闻报道。提供该写手微博账号的粉丝画像、互动指数及历史传播曲线，用于第三方效果评估。",
-      "detailsZh": "（事实）该页面抓取并可视化展示指定微博ID的公开运营数据，含涨粉趋势、转发层级与受众地域分布，接口由第三方服务商维护。（评论）数据模型反映了其在特定时期内的流量峰值与长尾效应，可作为数字营销与传播学研究的参考样本。（传闻）市场机构曾宣称掌握其隐性商业报价单，但面板仅显示公开互动指标，不含任何私密合作信息。此为标准化监测工具页，数据定期同步，不具时效新闻价值。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "公开运营数据可视化",
-        "流量峰值与长尾效应分析",
-        "不含私密商业报价",
-        "标准化监测工具非新闻"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -403,17 +364,14 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：网络段子手创作生态",
-      "summaryZh": "历史性媒体文章，非当日动态。发布于2015年，聚焦早期网络段子手群体的创作机制与该写手语言风格的行业影响。",
-      "detailsZh": "（事实）该文发表于2015年5月，通过实地采访与文本分析，探讨当时新媒体环境下段子手的生产逻辑与传播路径。（评论）报道指出其修辞手法打破了传统叙事框架，推动了碎片化阅读的兴起，具有媒介社会学研究价值。（传闻）文中提及的某些内部创作群聊细节已被作者本人澄清为文学化虚构，旨在增强可读性。本文档属历史文献存档，反映特定阶段的舆论环境，仅作学术或怀旧参考。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "碎片化阅读兴起推手",
-        "部分细节已获作者澄清",
-        "历史文献非当日动态"
+        "大咕咕咕鸡与网络段子手创作生态"
       ],
-      "category": "公开发言",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     }
   ]
 }
