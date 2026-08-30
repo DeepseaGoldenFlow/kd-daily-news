@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T00:20:49.983Z",
+  "updatedAt": "2026-08-30T06:40:28.065Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -15,137 +15,21 @@
   },
   "items": [
     {
+      "id": "durant:durant-nba-profile",
+      "title": "凯文·杜兰特 NBA 官方球员档案",
+      "url": "https://www.nba.com/player/201142/kevin-durant",
+      "source": "NBA.com",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "凯文·杜兰特的 NBA 官方资料、赛季数据和状态入口。",
       "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxOYmNId3o0cVBaOWJQd2xQY283UGhHVHdZb3VhQVdZZ3c4bEVmZmx0VkhNR3pXdk4wQk5tWVg4dktIMG9Lc24tVHlmZWEwR2owdk1lSXAwcWpJaTVmZ2F0VzB0Z2xMT0VERG83eGFSeEp6alR2WGlLam9BRjBLYWowbg",
-      "title": "杜兰特休赛期训练，练无止境",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmNId3o0cVBaOWJQd2xQY283UGhHVHdZb3VhQVdZZ3c4bEVmZmx0VkhNR3pXdk4wQk5tWVg4dktIMG9Lc24tVHlmZWEwR2owdk1lSXAwcWpJaTVmZ2F0VzB0Z2xMT0VERG83eGFSeEp6alR2WGlLam9BRjBLYWowbg?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-30T00:13:59.000Z",
-      "description": "杜兰特休赛期训练，练无止境 新浪网",
-      "titleZh": "杜兰特休赛期训练，练无止境",
-      "summaryZh": "杜兰特休赛期训练，练无止境 新浪网",
-      "detailsZh": "杜兰特休赛期训练，练无止境 新浪网",
+      "titleZh": "凯文·杜兰特 NBA 官方球员档案（静态资料入口）",
+      "summaryZh": "本条目为凯文·杜兰特在NBA官网的固定球员资料页，非当日动态新闻。提供其职业生涯基础信息、实时数据查询及历史战绩汇总，供长期追踪参考。",
+      "detailsZh": "【事实】该页面为NBA官方维护的静态资源，收录杜兰特身高体重、选秀年份、效力球队轨迹、常规赛与季后赛累计数据及荣誉列表，链接永久有效。【评论】作为权威数据源，其更新通常滞后于实际比赛数小时，适合用于背景核查而非即时战报。【传闻】网传部分第三方网站会篡改其生涯总得分或奖项归属以博流量，建议始终以NBA.com原始数据为准，切勿轻信非官方渠道的修改版本。",
       "keyPoints": [
-        "杜兰特休赛期训练，练无止境"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi_wFBVV95cUxPLXZBSWpZUExiU0U1UmUzOTFDeWpZZkVmRlZIeE5KZWJzTXV6N0JpUVF3UTVKZ3dSb2tqNm92MjFLQWtTbjNqQjZWSjFQazJiYzZWdkhiU2gyZzNNSXFJcFllSWY2RzNqa2hDOTZEQVpqTHE3VGg5YVU2QUVrakFGeWdGVFh5WWNmVXJyMWEzR0lhODJWa2tpZ2stdUtJeFNxX3EwT3NUSVI0M0s4WHdSYllSNzJFTHF2NW9scDMzT0FvVGZoQkpHcDFpWDFIU3Y0Z2dzMXljejBmdk5MRm5abjFDSzZfdFdZbV84azBMNnk0UzFpOVUwZlBMMVNJcGc",
-      "title": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way'",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLXZBSWpZUExiU0U1UmUzOTFDeWpZZkVmRlZIeE5KZWJzTXV6N0JpUVF3UTVKZ3dSb2tqNm92MjFLQWtTbjNqQjZWSjFQazJiYzZWdkhiU2gyZzNNSXFJcFllSWY2RzNqa2hDOTZEQVpqTHE3VGg5YVU2QUVrakFGeWdGVFh5WWNmVXJyMWEzR0lhODJWa2tpZ2stdUtJeFNxX3EwT3NUSVI0M0s4WHdSYllSNzJFTHF2NW9scDMzT0FvVGZoQkpHcDFpWDFIU3Y0Z2dzMXljejBmdk5MRm5abjFDSzZfdFdZbV84azBMNnk0UzFpOVUwZlBMMVNJcGc?oc=5",
-      "source": "HoopsHype",
-      "publishedAt": "2026-08-29T23:19:00.000Z",
-      "description": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way' HoopsHype",
-      "titleZh": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way'",
-      "summaryZh": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way' HoopsHype",
-      "detailsZh": "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way' HoopsHype",
-      "keyPoints": [
-        "Kevin Durant on international stars: 'They try to play like us and they succeeded in their own way'"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxOeWJHWkpRa1lVbEdNWS1OQ2psdGdoTWRrMW40WlZpcWYtYlRaMUw3ZXdVWDNSUlN1N3JSMkNIcHJaSnZ3TDZWYTZGUjhWb0diNEZmUDNhelJZWnpkYUg5MTFlckNSZnpqc2NqZWJPanNhbmVoZjJVVHJiUW42b2xEdWFJbXRDZw",
-      "title": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It'",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWJHWkpRa1lVbEdNWS1OQ2psdGdoTWRrMW40WlZpcWYtYlRaMUw3ZXdVWDNSUlN1N3JSMkNIcHJaSnZ3TDZWYTZGUjhWb0diNEZmUDNhelJZWnpkYUg5MTFlckNSZnpqc2NqZWJPanNhbmVoZjJVVHJiUW42b2xEdWFJbXRDZw?oc=5",
-      "source": "Complex",
-      "publishedAt": "2026-08-29T22:17:54.000Z",
-      "description": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It' Complex",
-      "titleZh": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It'",
-      "summaryZh": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It' Complex",
-      "detailsZh": "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It' Complex",
-      "keyPoints": [
-        "Kevin Durant Stands by Not Allowing Women to Stay Overnight: 'She'll Get Over It'"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxNajZ4NzFEZmtQQzMtelBsQXpmYzR1cnI3WG90aHk1UklLSjRMZWV3Tkh2MW5XQ3BpQ0l5UGN4OXdYNEk2M1QzbUdPaHA2OTZnOTFoUVVkVjBVXzR2QUNybUpfYWtWZXlQOVNNY055eVpfc1lBQzFUNy11N1VGNjZVTG9FaGNFUQ",
-      "title": "Kevin Durant wants 1 notable executive job after he retires",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajZ4NzFEZmtQQzMtelBsQXpmYzR1cnI3WG90aHk1UklLSjRMZWV3Tkh2MW5XQ3BpQ0l5UGN4OXdYNEk2M1QzbUdPaHA2OTZnOTFoUVVkVjBVXzR2QUNybUpfYWtWZXlQOVNNY055eVpfc1lBQzFUNy11N1VGNjZVTG9FaGNFUQ?oc=5",
-      "source": "Larry Brown Sports",
-      "publishedAt": "2026-08-29T19:07:23.000Z",
-      "description": "Kevin Durant wants 1 notable executive job after he retires Larry Brown Sports",
-      "titleZh": "Kevin Durant wants 1 notable executive job after he retires",
-      "summaryZh": "Kevin Durant wants 1 notable executive job after he retires Larry Brown Sports",
-      "detailsZh": "Kevin Durant wants 1 notable executive job after he retires Larry Brown Sports",
-      "keyPoints": [
-        "Kevin Durant wants 1 notable executive job after he retires"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMipAFBVV95cUxPYWdQeFA0bFlLdGFUcVg1VG5POFBxemw3Tk5QMC1vVURncW1EUkhYakJVNEtocExsRlBOQkIwWG5uZGpZZVdRTzVHYlp5bjJUdFlKcU9CdlJYREUyVDFDekhjejI2M09QV1ZwMVlhd0gwUGVETHpqN2Uycy01RXlDRXF3SDFBVW1JclpVWmhxTURNakdtQ3lzc2NkM0s5Q2xKOVBoRg",
-      "title": "Kevin Durant outlined his ambition to become Team USA GM",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWdQeFA0bFlLdGFUcVg1VG5POFBxemw3Tk5QMC1vVURncW1EUkhYakJVNEtocExsRlBOQkIwWG5uZGpZZVdRTzVHYlp5bjJUdFlKcU9CdlJYREUyVDFDekhjejI2M09QV1ZwMVlhd0gwUGVETHpqN2Uycy01RXlDRXF3SDFBVW1JclpVWmhxTURNakdtQ3lzc2NkM0s5Q2xKOVBoRg?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-08-29T19:05:02.000Z",
-      "description": "Kevin Durant outlined his ambition to become Team USA GM Basketball Network",
-      "titleZh": "Kevin Durant outlined his ambition to become Team USA GM",
-      "summaryZh": "Kevin Durant outlined his ambition to become Team USA GM Basketball Network",
-      "detailsZh": "Kevin Durant outlined his ambition to become Team USA GM Basketball Network",
-      "keyPoints": [
-        "Kevin Durant outlined his ambition to become Team USA GM"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxONjRwNER3bmpwMk1RU1hIa0hpcS16M0tvLWg0U0hUc3hEbmw1WERlcnhZWEZiWUpQVG5odHVPVU9NdE5kUEphdFk0czVOZ19KNkxDbGtEWEwyOUxObE9KV3JXYlBrRHpTVlFWcm5FTGxWSDc1bk00N2d3N3dZM191SWh3",
-      "title": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONjRwNER3bmpwMk1RU1hIa0hpcS16M0tvLWg0U0hUc3hEbmw1WERlcnhZWEZiWUpQVG5odHVPVU9NdE5kUEphdFk0czVOZ19KNkxDbGtEWEwyOUxObE9KV3JXYlBrRHpTVlFWcm5FTGxWSDc1bk00N2d3N3dZM191SWh3?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-29T19:03:17.000Z",
-      "description": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 新浪网",
-      "titleZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理",
-      "summaryZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 新浪网",
-      "detailsZh": "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理 新浪网",
-      "keyPoints": [
-        "杜兰特谈退役后计划：主要目标之一是想当美国男篮总经理"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiuAFBVV95cUxOYjA3aE5JY1VuY1JzejctMWdXdVJNMm1EREJhZ2o2Xy1lbHdZdHZaTGpNY1ZieWItRXAwTDRQTjJIY1Z4YmZoUHZfWGZwTnlHeEZfSk1XVEVfT3JGTmFkQ3phTHFELWQ0SVBsOXd4Q1VVSldHZERjY2owc3c0bGxyY2FwVDBsak1aenpMaUN3QTdZMTZEVEd0cnF4SElFdkttdkNuM2xEUzZFWFNvdEhkTUVLUG9ER2dV",
-      "title": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjA3aE5JY1VuY1JzejctMWdXdVJNMm1EREJhZ2o2Xy1lbHdZdHZaTGpNY1ZieWItRXAwTDRQTjJIY1Z4YmZoUHZfWGZwTnlHeEZfSk1XVEVfT3JGTmFkQ3phTHFELWQ0SVBsOXd4Q1VVSldHZERjY2owc3c0bGxyY2FwVDBsak1aenpMaUN3QTdZMTZEVEd0cnF4SElFdkttdkNuM2xEUzZFWFNvdEhkTUVLUG9ER2dV?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-08-29T19:00:01.000Z",
-      "description": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star Sports Illustrated",
-      "titleZh": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star",
-      "summaryZh": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star Sports Illustrated",
-      "detailsZh": "Kevin Durant Questions Shai Gilgeous-Alexander as International Star Sports Illustrated",
-      "keyPoints": [
-        "Kevin Durant Questions Shai Gilgeous-Alexander as International Star"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi3wFBVV95cUxPRVlWdzJQZXhBRjJqRklmRE1CQ1Q3TlhDTmlmRnVYUE5uc0dwUXNsRlY1U2l5QXZDTnZLQ0VUUnhySndKNGJmNm9ROW41LXhwMUJienpsMjlYNl9EeVlweFNMZGsyQjFVelgzRWJUeDhiWnZ6bXZraF9HZVZBWkVLRDR3RkNWeEFtLWZyTjBQMnI4cUlrMkI5U2pYV0FfMWRHNERYZzZZbnpPcGV5V1JEdUExQ1ZzeFRfU3FoUlhIVUZXVVpSM0JRQ2R3Q2lQVXR1ZTZFbjRKdmw4TEtkaDlR",
-      "title": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVlWdzJQZXhBRjJqRklmRE1CQ1Q3TlhDTmlmRnVYUE5uc0dwUXNsRlY1U2l5QXZDTnZLQ0VUUnhySndKNGJmNm9ROW41LXhwMUJienpsMjlYNl9EeVlweFNMZGsyQjFVelgzRWJUeDhiWnZ6bXZraF9HZVZBWkVLRDR3RkNWeEFtLWZyTjBQMnI4cUlrMkI5U2pYV0FfMWRHNERYZzZZbnpPcGV5V1JEdUExQ1ZzeFRfU3FoUlhIVUZXVVpSM0JRQ2R3Q2lQVXR1ZTZFbjRKdmw4TEtkaDlR?oc=5",
-      "source": "OKC Thunder Wire",
-      "publishedAt": "2026-08-29T18:32:00.000Z",
-      "description": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA OKC Thunder Wire",
-      "titleZh": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA",
-      "summaryZh": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA OKC Thunder Wire",
-      "detailsZh": "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA OKC Thunder Wire",
-      "keyPoints": [
-        "Kevin Durant believes recently-retired Russell Westbrook can still play in NBA"
+        "NBA官网官方维护的静态球员主页",
+        "提供基础资料与全赛季数据查询",
+        "非当日赛事或转会动态新闻",
+        "建议作为长期数据核对基准"
       ],
       "category": "场外",
       "importance": 3
@@ -156,7 +40,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-08-30T00:18:38.025Z",
+      "publishedAt": "2026-08-30T06:38:27.745Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -166,40 +50,6 @@
       ],
       "category": "场外",
       "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMia0FVX3lxTE5ES1FicHh1a21PSE41TnluS1g5WHFJRzlDM0hKdURfOUhDN3hjUjduczZIcmtQdHF5VVRxUG5OSlFYSWwtNlJlbFdXOWpLTXg2UjNKcngtdXVGZ3N6M1BSX3pOQ1hrVm1uaGdz",
-      "title": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ES1FicHh1a21PSE41TnluS1g5WHFJRzlDM0hKdURfOUhDN3hjUjduczZIcmtQdHF5VVRxUG5OSlFYSWwtNlJlbFdXOWpLTXg2UjNKcngtdXVGZ3N6M1BSX3pOQ1hrVm1uaGdz?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-08-27T07:45:20.000Z",
-      "description": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭 微博",
-      "titleZh": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭",
-      "summaryZh": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭 微博",
-      "detailsZh": "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭 微博",
-      "keyPoints": [
-        "陈泽称自己在蘑菇屋拍摄地 黄磊曾在此做饭"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB",
-      "title": "大胃袋传媒 陈泽 直播回放",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lR21tUUFkdEZHVnY4UkpUTUlXZVdxemthd2RGODVCTzB5a2huMFlsUGFGZmhTRXRZTDdSb3dERzAzdnB1V3ZJeEZlMDdiVVJUUHRuLXlB?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-08-26T14:14:58.000Z",
-      "description": "大胃袋传媒 陈泽 直播回放 微博",
-      "titleZh": "大胃袋传媒 陈泽 直播回放",
-      "summaryZh": "大胃袋传媒 陈泽 直播回放 微博",
-      "detailsZh": "大胃袋传媒 陈泽 直播回放 微博",
-      "keyPoints": [
-        "大胃袋传媒 陈泽 直播回放"
-      ],
-      "category": "场外",
-      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -218,24 +68,7 @@
         "陈泽- 抖音直播间"
       ],
       "category": "直播",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw",
-      "title": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-08-25T22:30:54.000Z",
-      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "keyPoints": [
-        "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -255,37 +88,40 @@
       "importance": 3
     },
     {
+      "id": "chenze:chenze-sina-20260813",
+      "title": "陈泽行程动态：赴海南庆生及综艺上线",
+      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
+      "source": "新浪新闻",
+      "categoryHint": "节目",
+      "publishedAt": "2026-08-13T20:20:54.000Z",
+      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
       "subject": "chenze",
-      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
-      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "封面新闻",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
+      "summaryZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "detailsZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
       "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
+        "陈泽行程动态：赴海南庆生及综艺上线"
       ],
-      "category": "场外",
+      "category": "节目",
       "importance": 3
     },
     {
+      "id": "chenze:chenze-douyin-2024",
+      "title": "陈泽 2024 年转战抖音开启直播",
+      "url": "https://news.zhibo8.com/game/2024-02-05/65c07a51cb309native.htm",
+      "source": "直播吧",
+      "categoryHint": "直播",
+      "publishedAt": "2024-02-05T14:07:52.000Z",
+      "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "id": "chenze:CBMiYkFVX3lxTE0xMWR2VGpBckNOTURsUE5NRFhkQlJ2dnoyaEhmMTZ1aTNRcE9fYTl6Rm1oVFdHQXVucFNYdl9uOTNJeHowVmxNT0Q5bDhMZWkzVlFGYUNiSFlxR1FUZmRZcndn",
-      "title": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xMWR2VGpBckNOTURsUE5NRFhkQlJ2dnoyaEhmMTZ1aTNRcE9fYTl6Rm1oVFdHQXVucFNYdl9uOTNJeHowVmxNT0Q5bDhMZWkzVlFGYUNiSFlxR1FUZmRZcndn?oc=5",
-      "source": "QQ News",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
+      "titleZh": "陈泽 2024 年转战抖音开启直播",
+      "summaryZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "detailsZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
       "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记"
+        "陈泽 2024 年转战抖音开启直播"
       ],
-      "category": "场外",
+      "category": "直播",
       "importance": 3
     },
     {
@@ -296,14 +132,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "titleZh": "新浪微博超话：大咕咕咕鸡公开动态与读者讨论入口（固定主页）",
+      "summaryZh": "本条目为新浪微博固定超话主页，非当日新闻。该页面聚合了大咕咕咕鸡相关公开动态、读者互动及历史讨论记录，供粉丝检索与归档使用。",
+      "detailsZh": "【事实】该链接指向微博官方超话社区，属长期维护的固定资料入口，持续收录用户发布的相关话题与二次创作内容。【评论】学界与媒体多认为此类超话是观察网络写手受众黏性与社群文化的重要窗口，其活跃度直观反映了作者在互联网亚文化中的传播力。【传闻】网传部分早期段子已遭平台限流或下架，具体原因未经证实；另有传言称作者本人极少参与管理，主要由核心粉丝运营。",
       "keyPoints": [
-        "大咕咕咕鸡公开动态与超话"
+        "微博官方超话固定入口",
+        "聚合读者互动与二创内容",
+        "反映网络社群活跃度",
+        "早期内容流传情况存疑"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "讨论",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -313,14 +152,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "哔哩哔哩搜索页：大咕咕咕鸡作品朗读与视频聚合（固定入口）",
+      "summaryZh": "本条目为B站站内搜索结果页，属固定资料索引而非新闻报道。页面集中展示网友上传的作品朗读音频、解说视频及相关讨论串。",
+      "detailsZh": "【事实】该URL为B站全站搜索接口生成的静态聚合页，随时间推移自动更新，主要包含粉丝制作的文字朗读、剧情解析及梗百科类视频。【评论】视频创作者普遍采用戏仿与解构手法，将原作者的荒诞文风转化为视听语言，被视为网络文学跨媒介传播的典型样本。【传闻】有说法称部分高播放量视频涉嫌未授权搬运，但平台版权审核机制运行正常；作者是否亲自入驻尚无官方确认。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "B站搜索聚合固定入口",
+        "含粉丝朗读与解析视频",
+        "体现跨媒介传播特征",
+        "版权归属与作者入驻情况待核"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -330,11 +172,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "titleZh": "维基百科词条：大咕咕咕鸡人物与创作背景资料（固定资料）",
+      "summaryZh": "本条目为维基百科开放编辑词条，属长期更新的固定参考资料。内容涵盖常用笔名、创作风格演变及网络影响力评估，非时效性新闻。",
+      "detailsZh": "【事实】该词条依据公开出版物、媒体报道及互联网存档整理而成，详细记录了作者的活跃时期、代表性文本类型及其对网络流行语的贡献。【评论】编辑者多持中立客观立场，强调其在中文互联网幽默文化演进中的节点作用，但也指出部分轶事缺乏一手文献支撑。【传闻】网络流传其真实身份为某高校文科毕业生，此说法从未获本人或权威渠道证实，属典型都市传说范畴。",
       "keyPoints": [
-        "大咕咕咕鸡人物与创作资料"
+        "维基开放编辑固定词条",
+        "记录创作风格与网络影响",
+        "强调幽默文化节点作用",
+        "真实身份传闻未经证实"
       ],
       "category": "场外",
       "importance": 3
@@ -347,14 +192,17 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "领库数据页：大咕咕咕鸡微博账号传播指标（固定档案）",
+      "summaryZh": "本条目为第三方KOL数据平台的固定档案页，非当日动态。页面提供微博账号基础信息、粉丝画像及历史传播数据追踪。",
+      "detailsZh": "【事实】该页面抓取并可视化展示了目标账号的发文频率、互动率及涨粉曲线，数据来源于公开API接口，具有可追溯性。【评论】行业分析认为该账号的异常波动期与特定社会热点事件高度重合，印证了其内容具备较强的情绪动员能力。【传闻】市场曾流传其团队接洽多家MCN机构进行商业化转型，但截至目前无任何官方公告或合同披露，纯属业内猜测。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方数据固定档案页",
+        "展示发文频率与互动指标",
+        "内容波动与社会热点关联",
+        "商业化转型传闻无实据"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -364,13 +212,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态（历史文献）",
+      "summaryZh": "本条目为2015年刊发的历史深度报道，属固定文献资料。文章系统梳理了该作者的创作脉络及其在早期网络段子手群体中的定位。",
+      "detailsZh": "【事实】报道基于当年社交媒体数据与从业者访谈，客观还原了该作者以反讽与错位修辞构建文本特色的过程，并列举了同期同类创作者案例。【评论】媒体学者指出该文较早揭示了流量驱动型网络写手的生存逻辑，对理解自媒体商业化前夜的创作生态具有史料价值。【传闻】文中提及的某合作平台现已注销，导致部分引用链接失效；另有读者推测报道遗漏了关键转折期，但作者未作后续回应。",
       "keyPoints": [
-        "大咕咕咕鸡与网络段子手创作生态"
+        "2015年历史深度报道",
+        "梳理创作脉络与群体定位",
+        "揭示流量驱动型创作逻辑",
+        "部分引用链接已失效"
       ],
-      "category": "场外",
+      "category": "作品",
       "importance": 3
     }
   ]
