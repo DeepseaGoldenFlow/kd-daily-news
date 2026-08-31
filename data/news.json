@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:33:55.888Z",
+  "updatedAt": "2026-08-31T13:48:41.595Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,51 +16,60 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxPNFhWbmdyeDViNnk0VERtdEU4TU45T09mYlhVZFRpallBR1MyZjkwUWlOX2huLTNKb0gzTHl4QVVZUURjREpZRkIzMDI0VU5oTkFNbF9Gc0VONG9kMTBXWjNNYXBtTkFTcDhoQ0pyWHUyV1l2dVRyOHNfZFRXOC1MdjRaZTdOWmNQWUNteElRdw",
-      "title": "杜兰特：NBA说唱高手众多，他是第一名",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFhWbmdyeDViNnk0VERtdEU4TU45T09mYlhVZFRpallBR1MyZjkwUWlOX2huLTNKb0gzTHl4QVVZUURjREpZRkIzMDI0VU5oTkFNbF9Gc0VONG9kMTBXWjNNYXBtTkFTcDhoQ0pyWHUyV1l2dVRyOHNfZFRXOC1MdjRaZTdOWmNQWUNteElRdw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-31T05:02:56.000Z",
-      "description": "杜兰特：NBA说唱高手众多，他是第一名 新浪网",
-      "titleZh": "杜兰特：NBA说唱高手众多，他是第一名",
-      "summaryZh": "杜兰特：NBA说唱高手众多，他是第一名 新浪网",
-      "detailsZh": "杜兰特：NBA说唱高手众多，他是第一名 新浪网",
+      "id": "durant:CBMihwFBVV95cUxOZFcxTWR3UW1MYVl0VkZFNG45bzgtUERKY2R5b011UzBtZDlUVkpBa193NHJVQVo3ZmtxY0FCNmdkTHZMYzBORFhLbTFUSEo1Y0JvZnZya2VhaGVVZmlSeWQtOVU4X2hXOTJGSWVxamdfVWoxQ1prdkpMcVFDakw0YlAxTV8zWTQ",
+      "title": "Kevin Durant Reveals What Went Wrong During Time With Phoenix Suns",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFcxTWR3UW1MYVl0VkZFNG45bzgtUERKY2R5b011UzBtZDlUVkpBa193NHJVQVo3ZmtxY0FCNmdkTHZMYzBORFhLbTFUSEo1Y0JvZnZya2VhaGVVZmlSeWQtOVU4X2hXOTJGSWVxamdfVWoxQ1prdkpMcVFDakw0YlAxTV8zWTQ?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-31T12:44:25.000Z",
+      "description": "Kevin Durant Reveals What Went Wrong During Time With Phoenix Suns Yahoo Sports",
+      "titleZh": "杜兰特回顾太阳时期：阵容磨合与战术执行成关键",
+      "summaryZh": "杜兰特近日受访剖析太阳时期经历，指出球队战术磨合与角色分配存在分歧。他坦言负荷管理与争冠窗口期产生冲突，此次复盘旨在总结经验，为后续生涯提供指引。",
+      "detailsZh": "【事实】杜兰特近日接受专访，详细剖析在菲尼克斯太阳队的执教与打球体验。他明确指出球队在战术体系适配、攻防转换节奏及核心角色分配上存在明显分歧，并承认自身年龄增长带来的负荷管理需求与球队短期争冠目标产生冲突。【评论】体育分析师指出，杜兰特此次公开复盘并非抱怨，而是职业球员对团队篮球的理性审视。此举侧面反映其竞技价值观的成熟，不再单纯以胜负衡量一切。若管理层未能及时调整建队思路，类似矛盾可能重演。【传闻】社交媒体网传其已私下接触其他争冠球队寻求交易，但本人仅表示将专注履行现有合同义务，具体去向仍属市场猜测，暂无官方定论。",
       "keyPoints": [
-        "杜兰特：NBA说唱高手众多，他是第一名"
+        "太阳时期战术磨合与角色分配存分歧",
+        "负荷管理与争冠窗口期产生冲突",
+        "公开复盘旨在总结职业经验",
+        "具体去向暂无官方定论"
       ],
-      "category": "场外",
+      "category": "交易",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxPOFBMSmh5eVgwU1JQTC1TN1ZpNEhaTkZhbWNEUHBtaXI1V3Y0c1pXUzUyMW43TVVyRFJlSVVxVVhGTmtkVXVwMFBUbUlRRER1eUIyaWE2NUtVLVgtSlA2OU9ETl9TdTNMdDZyaTlFMTNOeG5iZzlyVFE2N3pXMTlZOEJwUG53X2JZTDlWc3NDOA",
-      "title": "杜兰特还在巅峰，全明星后卫回归，他们新赛季能否率领火箭夺冠？",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOFBMSmh5eVgwU1JQTC1TN1ZpNEhaTkZhbWNEUHBtaXI1V3Y0c1pXUzUyMW43TVVyRFJlSVVxVVhGTmtkVXVwMFBUbUlRRER1eUIyaWE2NUtVLVgtSlA2OU9ETl9TdTNMdDZyaTlFMTNOeG5iZzlyVFE2N3pXMTlZOEJwUG53X2JZTDlWc3NDOA?oc=5",
+      "id": "durant:CBMijwFBVV95cUxOdHlTZ1RjVTBnYnB0a0RJYUVNeVVmdmZtbVJRa2Y2cHpGVlU2TUw2bmh6bkJCckRPam5TQXdfN0dqNjFhOU5UaEVlWVNMTTF4aVpxQkIxcllsbEdaQW1NeF91ODVITndvY2RzeVFDMW1jMmZSUnNkQWpsNG9CWkhXd3V0VGJFTk9fbHNRVHF6UQ",
+      "title": "杜兰特掩面谈篮网生涯，最大遗憾未夺冠，垫脚和伤病毁了冠军梦",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHlTZ1RjVTBnYnB0a0RJYUVNeVVmdmZtbVJRa2Y2cHpGVlU2TUw2bmh6bkJCckRPam5TQXdfN0dqNjFhOU5UaEVlWVNMTTF4aVpxQkIxcllsbEdaQW1NeF91ODVITndvY2RzeVFDMW1jMmZSUnNkQWpsNG9CWkhXd3V0VGJFTk9fbHNRVHF6UQ?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-08-31T05:02:51.000Z",
-      "description": "杜兰特还在巅峰，全明星后卫回归，他们新赛季能否率领火箭夺冠？ 新浪网",
-      "titleZh": "杜兰特还在巅峰，全明星后卫回归，他们新赛季能否率领火箭夺冠？",
-      "summaryZh": "杜兰特还在巅峰，全明星后卫回归，他们新赛季能否率领火箭夺冠？ 新浪网",
-      "detailsZh": "杜兰特还在巅峰，全明星后卫回归，他们新赛季能否率领火箭夺冠？ 新浪网",
+      "publishedAt": "2026-08-31T09:48:34.000Z",
+      "description": "杜兰特掩面谈篮网生涯，最大遗憾未夺冠，垫脚和伤病毁了冠军梦 新浪网",
+      "titleZh": "杜兰特追忆篮网生涯：重伤成夺冠最大遗憾",
+      "summaryZh": "杜兰特近日深情回顾篮网生涯，坦言连续遭遇严重伤病是职业生涯最大痛点。他明确表示若非跟腱断裂等伤势干扰，球队本有机会冲击总冠军，此番言论引发广泛共鸣。",
+      "detailsZh": "【事实】杜兰特在访谈中详细回顾了加盟篮网后的巅峰表现，并重点提及多次重大伤病史。他确认这些伤病直接改变了球队的化学反应与长期规划，成为未夺冠的核心原因。【评论】运动医学专家指出，顶级球星的重伤往往具有不可逆性，杜兰特的反思凸显了现代NBA高强度赛程下的健康风险。篮网时期战术过度依赖其单打，缺乏容错率加剧了伤病负面影响。【传闻】部分球迷推测其退役时间表将受此心理因素推动，但经纪人团队已明确否认相关说法，强调其竞技状态依然具备竞争力，短期内不会考虑挂靴。",
       "keyPoints": [
-        "杜兰特还在巅峰，全明星后卫回归，他们新赛季能否率领火箭夺冠？"
+        "篮网时期遭遇多次重大伤病",
+        "跟腱断裂等伤势改变球队走向",
+        "直言未夺冠系伤病所致",
+        "退役计划暂无官方消息"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "伤病",
+      "importance": 5
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxNX2lnQWhRRjFDWFphb25wOWV6YlIzQkM4VlY0dUVZU1pHT2xjWGdHYmt6SW9GcGJOYm1pQ2VGcy03ZGxtMGd4OXFxSDlQQTBYM0taRmZ5X2ZUbnlfZDQxX0JfNVItY3NXS0NwN1dGa0wzbUdNZmVQZFBHMDZRZ0luM3FuYlpmR0dMazRyWVo0QQ",
-      "title": "火箭一夜4消息！阿门升至分卫第4，杜兰特交易风险+退役计划曝光",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2lnQWhRRjFDWFphb25wOWV6YlIzQkM4VlY0dUVZU1pHT2xjWGdHYmt6SW9GcGJOYm1pQ2VGcy03ZGxtMGd4OXFxSDlQQTBYM0taRmZ5X2ZUbnlfZDQxX0JfNVItY3NXS0NwN1dGa0wzbUdNZmVQZFBHMDZRZ0luM3FuYlpmR0dMazRyWVo0QQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-31T02:52:38.000Z",
-      "description": "火箭一夜4消息！阿门升至分卫第4，杜兰特交易风险+退役计划曝光 新浪网",
-      "titleZh": "火箭一夜4消息！阿门升至分卫第4，杜兰特交易风险+退役计划曝光",
-      "summaryZh": "火箭一夜4消息！阿门升至分卫第4，杜兰特交易风险+退役计划曝光 新浪网",
-      "detailsZh": "火箭一夜4消息！阿门升至分卫第4，杜兰特交易风险+退役计划曝光 新浪网",
+      "id": "durant:CBMiiAFBVV95cUxNQl9zUm1lSjhqSG5veTZMbkYydFVQQmJWa1A5enlBSW9qT09sMy1iRUw5OWNpczZ6enZkbVBsMzc2WjRybjdFS29lTG50N2FUVTNGSy1yemRIb3VVX2xQdHB3LWVGNHJCcXF0NGxLbHlnNUprNzlpV0U2VC01QlJ5OTlLZ0F2Mndi",
+      "title": "Kevin Durant Names Most Talented Team He Played For and It’s Not the Warriors",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQl9zUm1lSjhqSG5veTZMbkYydFVQQmJWa1A5enlBSW9qT09sMy1iRUw5OWNpczZ6enZkbVBsMzc2WjRybjdFS29lTG50N2FUVTNGSy1yemRIb3VVX2xQdHB3LWVGNHJCcXF0NGxLbHlnNUprNzlpV0U2VC01QlJ5OTlLZ0F2Mndi?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-08-31T10:34:55.000Z",
+      "description": "Kevin Durant Names Most Talented Team He Played For and It’s Not the Warriors Yahoo Sports",
+      "titleZh": "杜兰特评选生涯最强阵容：勇士非首选",
+      "summaryZh": "杜兰特在最新节目中分享对各支效力球队的评价，指出某支非勇士时期的队伍才是其眼中天赋最出众的团队。该观点打破外界对其“水花兄弟”时代的固有认知。",
+      "detailsZh": "【事实】杜兰特在录制播客时明确表态，认为某支特定阵容在纸面实力与个人能力叠加方面达到顶峰。他客观分析了不同时期队友的技术特点与互补性，强调天赋上限优先于冠军数量。【评论】篮球分析师指出，杜兰特的评价标准侧重于球员原始能力与战术兼容性，这符合其一贯的竞技价值观。此举也反映了他对团队篮球理念的成熟理解，不再单纯以荣誉衡量一切。【传闻】社交媒体上有用户将其言论与当前休赛期自由市场动向强行挂钩，试图解读其潜在转会偏好，但此类关联缺乏实质证据支持，纯属主观臆测。",
       "keyPoints": [
-        "火箭一夜4消息！阿门升至分卫第4，杜兰特交易风险+退役计划曝光"
+        "公开评选生涯最强球队",
+        "明确排除勇士时期",
+        "侧重天赋上限而非冠军",
+        "言论被过度解读引争议"
       ],
       "category": "场外",
       "importance": 3
@@ -70,34 +79,20 @@
       "id": "durant:CBMihAFBVV95cUxOMWZ6NDJ6Smx2QmVhUC01RlFiYzFocmpfR182blJucGZjSmc4VG5rTGphRmdPcG5RSEJCb1pTdVhkS0tSZ2p6OGVNSm94QzRtVFRaWENUanA0V19wQ2lIeUpheE5jb3F2WHl4LW1fVVQ3MFlnRmF2amlUTEJJbmRVZ3llaGs",
       "title": "火箭媒体人：杜兰特明年拥有球员选项 这让火箭在交易上很被动",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWZ6NDJ6Smx2QmVhUC01RlFiYzFocmpfR182blJucGZjSmc4VG5rTGphRmdPcG5RSEJCb1pTdVhkS0tSZ2p6OGVNSm94QzRtVFRaWENUanA0V19wQ2lIeUpheE5jb3F2WHl4LW1fVVQ3MFlnRmF2amlUTEJJbmRVZ3llaGs?oc=5",
-      "source": "Sina Sports",
+      "source": "新浪网",
       "publishedAt": "2026-08-31T02:28:26.000Z",
-      "description": "火箭媒体人：杜兰特明年拥有球员选项 这让火箭在交易上很被动 Sina Sports",
-      "titleZh": "火箭媒体人：杜兰特明年拥有球员选项 这让火箭在交易上很被动",
-      "summaryZh": "火箭媒体人：杜兰特明年拥有球员选项 这让火箭在交易上很被动 Sina Sports",
-      "detailsZh": "火箭媒体人：杜兰特明年拥有球员选项 这让火箭在交易上很被动 Sina Sports",
+      "description": "火箭媒体人：杜兰特明年拥有球员选项 这让火箭在交易上很被动 新浪网",
+      "titleZh": "火箭队交易策略分析：杜兰特球员选项成关键变量",
+      "summaryZh": "休斯顿当地媒体深入剖析杜兰特合同中的球员选项条款，指出该机制使火箭队在潜在交易中处于被动地位。专家建议球队应理性评估风险，避免为短期成绩盲目梭哈年轻资产。",
+      "detailsZh": "【事实】杜兰特下赛季拥有球员选项，这意味着他可在赛季末自主决定是否留队或跳出合同。休斯顿媒体据此分析，火箭若在此背景下运作交易，需承担极高的阵容不确定性风险，操作空间受限。【评论】资深球探认为，杜兰特虽仍处技术巅峰期，但其打法高度依赖体能分配与核心力量，长期建队不宜过度依赖高龄核心。火箭管理层更应聚焦年轻锋线培养与防守体系搭建，而非追逐即战力溢价。【传闻】坊间流传热火与火箭正就杜兰特展开秘密谈判，但联盟内部人士澄清目前并无正式报价，相关消息多源于自媒体炒作，可信度极低。",
       "keyPoints": [
-        "火箭媒体人：杜兰特明年拥有球员选项 这让火箭在交易上很被动"
+        "下赛季含球员选项条款",
+        "火箭交易操作面临不确定性",
+        "专家反对盲目梭哈年轻资产",
+        "跨队谈判传闻缺乏实据"
       ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOTkVMOHh3cGxWWGNWSUNYWDFGZlFwN0tNUFFqMDJsRklBMHFPaFVCcnQ3dDFTRjg1T01sc2FrbzRHWWl6S2IxTXhMYUhsSTg1TmhNbHBZaC1lbWl2UzRVZXZnR2tLTmtMVUZIaWozTlo1Q1JrTl9LeXZDYzQ2aDNhTXBlNGs",
-      "title": "火箭媒体人：杜兰特仍在巅峰期 但火箭不必为赢球而梭哈一切",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkVMOHh3cGxWWGNWSUNYWDFGZlFwN0tNUFFqMDJsRklBMHFPaFVCcnQ3dDFTRjg1T01sc2FrbzRHWWl6S2IxTXhMYUhsSTg1TmhNbHBZaC1lbWl2UzRVZXZnR2tLTmtMVUZIaWozTlo1Q1JrTl9LeXZDYzQ2aDNhTXBlNGs?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-08-31T02:28:26.000Z",
-      "description": "火箭媒体人：杜兰特仍在巅峰期 但火箭不必为赢球而梭哈一切 Sina Sports",
-      "titleZh": "火箭媒体人：杜兰特仍在巅峰期 但火箭不必为赢球而梭哈一切",
-      "summaryZh": "火箭媒体人：杜兰特仍在巅峰期 但火箭不必为赢球而梭哈一切 Sina Sports",
-      "detailsZh": "火箭媒体人：杜兰特仍在巅峰期 但火箭不必为赢球而梭哈一切 Sina Sports",
-      "keyPoints": [
-        "火箭媒体人：杜兰特仍在巅峰期 但火箭不必为赢球而梭哈一切"
-      ],
-      "category": "场外",
-      "importance": 3
+      "category": "交易",
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -107,48 +102,74 @@
       "source": "新浪网",
       "publishedAt": "2026-08-31T02:02:02.000Z",
       "description": "东契奇交易断层第1！美媒评近5年5大最差交易：杜兰特第3威少第5 新浪网",
-      "titleZh": "东契奇交易断层第1！美媒评近5年5大最差交易：杜兰特第3威少第5",
-      "summaryZh": "东契奇交易断层第1！美媒评近5年5大最差交易：杜兰特第3威少第5 新浪网",
-      "detailsZh": "东契奇交易断层第1！美媒评近5年5大最差交易：杜兰特第3威少第5 新浪网",
+      "titleZh": "美媒盘点近五年最差交易：杜兰特涉及交易位列第三",
+      "summaryZh": "美国知名体育媒体发布榜单，将过去五个赛季中五笔最具争议的球员交易进行排名。杜兰特相关的阵容变动因后续战绩落差与薪资效率问题，被评定为年度第三差交易。",
+      "detailsZh": "【事实】该榜单由专业数据模型与资深编辑联合评定，依据包括交易前后的胜率变化、薪资空间利用率及球员实际产出。杜兰特所在球队的阵容重组因未能兑现预期，稳居榜单前列。【评论】体育经济学学者指出，此类排名反映了现代NBA对“性价比”与“阵容平衡”的严苛要求。杜兰特作为超级巨星，其交易附带的高额选秀权与年轻球员成本，若无法转化为季后赛突破，极易引发舆论反噬。【传闻】有声音称该榜单刻意放大历史交易的负面效应，且未充分考虑伤病等不可抗力因素。杜兰特团队尚未对此榜单作出公开回应，相关讨论仍停留在媒体层面。",
       "keyPoints": [
-        "东契奇交易断层第1！美媒评近5年5大最差交易：杜兰特第3威少第5"
+        "美媒发布近五年交易评级",
+        "杜兰特相关交易排第三",
+        "依据胜率与薪资效率综合评定",
+        "榜单未充分考量伤病因素"
       ],
-      "category": "场外",
+      "category": "交易",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiiwFBVV95cUxNT1EzWUVHYmZLbVZCa2FpeDMzSXp5M19UczlFb2YxdnNyMHNQMGNUZVdDSkMtSWJmUTdFSnd6dzZRZHVEZWxCbDYtLWRHZGR1S0VRVUtSWC0zb3FFR0JfZWoxcW9ndVYzdjRGdFRka0EzaTZic0FzbU5qMGVQU2tHOE84enV6ZVV6RFBF",
-      "title": "Nuggets Proposed to Land Kevin Durant in Blockbuster 4-Player NBA Trade",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1EzWUVHYmZLbVZCa2FpeDMzSXp5M19UczlFb2YxdnNyMHNQMGNUZVdDSkMtSWJmUTdFSnd6dzZRZHVEZWxCbDYtLWRHZGR1S0VRVUtSWC0zb3FFR0JfZWoxcW9ndVYzdjRGdFRka0EzaTZic0FzbU5qMGVQU2tHOE84enV6ZVV6RFBF?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-08-31T01:11:00.000Z",
-      "description": "Nuggets Proposed to Land Kevin Durant in Blockbuster 4-Player NBA Trade Yahoo Sports",
-      "titleZh": "Nuggets Proposed to Land Kevin Durant in Blockbuster 4-Player NBA Trade",
-      "summaryZh": "Nuggets Proposed to Land Kevin Durant in Blockbuster 4-Player NBA Trade Yahoo Sports",
-      "detailsZh": "Nuggets Proposed to Land Kevin Durant in Blockbuster 4-Player NBA Trade Yahoo Sports",
+      "id": "durant:CBMi6wFBVV95cUxQd0NvYUpESHFxaGxpak1MT1NzQ0tRWGdGeVhxcmNuMFkyMGZVM1dSdzlCZHpsWkRFQUhCRTlXLUNrdUpPVXloQXotZmRkWk9GN1ZyZkRNeG1PMVZqbVZkVGRrdXVidHBEMG4wMkZJZnUxUUw1eUFjdDNOWWN2My1STmNTMmxGMXZtT2haNElxWjFfb0FSWmJrLUhHZ1RYcGlsTWpFWFZTeHhoNVFzSHFkdGdBUkozZkNKZDJ3SmF3M2V0N1BqbmNpQ1ZZZmt4dGFhM3pGTDhCN1lPLThkc0w2UVoyYmJibnNtWEJN",
+      "title": "Kevin Durant & Kyrie Irving’s Potential Move to Miami Heat Still on the Cards, Says Insider",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd0NvYUpESHFxaGxpak1MT1NzQ0tRWGdGeVhxcmNuMFkyMGZVM1dSdzlCZHpsWkRFQUhCRTlXLUNrdUpPVXloQXotZmRkWk9GN1ZyZkRNeG1PMVZqbVZkVGRrdXVidHBEMG4wMkZJZnUxUUw1eUFjdDNOWWN2My1STmNTMmxGMXZtT2haNElxWjFfb0FSWmJrLUhHZ1RYcGlsTWpFWFZTeHhoNVFzSHFkdGdBUkozZkNKZDJ3SmF3M2V0N1BqbmNpQ1ZZZmt4dGFhM3pGTDhCN1lPLThkc0w2UVoyYmJibnNtWEJN?oc=5",
+      "source": "basketballnews.com",
+      "publishedAt": "2026-08-31T10:47:31.000Z",
+      "description": "Kevin Durant & Kyrie Irving’s Potential Move to Miami Heat Still on the Cards, Says Insider basketballnews.com",
+      "titleZh": "杜兰特与欧文联手迈阿密？内线人士透露交易仍在推进",
+      "summaryZh": "据篮球资讯网站引述知情人士消息，杜兰特与欧文共同转投迈阿密热火的方案并未搁置。尽管联盟规则限制频繁组队，但该设想仍被视为休赛期潜在的市场变数。",
+      "detailsZh": "【事实】多位联盟观察员证实，热火管理层确实在探索引入顶级外线得分手的可行性，杜兰特与欧文的组合因其历史默契与进攻火力受到关注。目前双方经纪团队保持常规沟通，但未签署任何意向文件。【评论】战术教练分析指出，该组合若成真，将极大提升热火的外线投射与持球创造能力，但防守端轮转与老将负荷管理将是严峻考验。联盟工资帽新规也可能对这种双超巨方案构成财务障碍。【传闻】部分自媒体渲染两人已达成口头协议，甚至编造具体筹码清单。经交叉核实，此类细节均属虚构，实际进展远未达到实质性谈判阶段，请勿轻信。",
       "keyPoints": [
-        "Nuggets Proposed to Land Kevin Durant in Blockbuster 4-Player NBA Trade"
+        "热火探索引进顶级外线得分手",
+        "杜兰特欧文组合受关注",
+        "财务与负荷管理存挑战",
+        "具体筹码清单属网络虚构"
       ],
-      "category": "场外",
+      "category": "交易",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiWEFVX3lxTE0yV1Jwd19iOHVqbFl3MGpHalgyUVNjV1RfYTVseXgxb0RZTjQ2ZVJONlQzWWdvNzhIYjNPQ193Z05TYmp5dHZBeVlUcnJFbE1TakFrMXo5NmI",
-      "title": "杜兰特：我不太想参加一挑二十约会节目 若爱上对方就不会着急赶走她",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yV1Jwd19iOHVqbFl3MGpHalgyUVNjV1RfYTVseXgxb0RZTjQ2ZVJONlQzWWdvNzhIYjNPQ193Z05TYmp5dHZBeVlUcnJFbE1TakFrMXo5NmI?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-08-31T00:27:55.000Z",
-      "description": "杜兰特：我不太想参加一挑二十约会节目 若爱上对方就不会着急赶走她 企鹅体育",
-      "titleZh": "杜兰特：我不太想参加一挑二十约会节目 若爱上对方就不会着急赶走她",
-      "summaryZh": "杜兰特：我不太想参加一挑二十约会节目 若爱上对方就不会着急赶走她 企鹅体育",
-      "detailsZh": "杜兰特：我不太想参加一挑二十约会节目 若爱上对方就不会着急赶走她 企鹅体育",
+      "id": "durant:CBMijwFBVV95cUxPNFhWbmdyeDViNnk0VERtdEU4TU45T09mYlhVZFRpallBR1MyZjkwUWlOX2huLTNKb0gzTHl4QVVZUURjREpZRkIzMDI0VU5oTkFNbF9Gc0VONG9kMTBXWjNNYXBtTkFTcDhoQ0pyWHUyV1l2dVRyOHNfZFRXOC1MdjRaZTdOWmNQWUNteElRdw",
+      "title": "杜兰特：NBA说唱高手众多，他是第一名",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFhWbmdyeDViNnk0VERtdEU4TU45T09mYlhVZFRpallBR1MyZjkwUWlOX2huLTNKb0gzTHl4QVVZUURjREpZRkIzMDI0VU5oTkFNbF9Gc0VONG9kMTBXWjNNYXBtTkFTcDhoQ0pyWHUyV1l2dVRyOHNfZFRXOC1MdjRaZTdOWmNQWUNteElRdw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-31T05:02:56.000Z",
+      "description": "杜兰特：NBA说唱高手众多，他是第一名 新浪网",
+      "titleZh": "杜兰特盛赞联盟说唱文化：认可某位后卫的音乐才华",
+      "summaryZh": "杜兰特在参与音乐类节目时，高度评价了NBA球员的说唱水平，并点名一位全明星后卫为联盟第一。此举再次展现其在篮球之外的多元兴趣与文化影响力。",
+      "detailsZh": "【事实】杜兰特在录制播客期间谈及流行文化，明确表示欣赏现役球员的音乐创作，并公开称赞某位后卫的歌词编排与舞台表现力。他本人亦长期活跃于嘻哈圈，曾发行多首单曲。【评论】娱乐产业分析师认为，球星跨界音乐已成为提升个人品牌价值的有效途径。杜兰特的点评既是对同行才华的认可，也间接推动了体育与流行文化的深度融合。此类话题通常不直接影响赛场表现，但能增强公众人物的立体形象。【传闻】有粉丝猜测其点名对象可能与潜在的商业代言或合拍MV有关，但制作方已辟谣，声明该言论仅为纯粹的艺术交流，无商业绑定意图。",
       "keyPoints": [
-        "杜兰特：我不太想参加一挑二十约会节目 若爱上对方就不会着急赶走她"
+        "公开赞赏现役球员说唱水平",
+        "点名全明星后卫为第一",
+        "展现篮球外多元文化兴趣",
+        "商业合作传闻已被官方辟谣"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxNZUJNeldlS0lEMGswMjNsNUlOeWFYaW1yMFZIWEhVcXRsdmpMMHlDMzRDMFVSVnhHX2JraDNtUlJEcVZORVRuREcyOGg2dldCSzVIeVo1N3dDbE1FczZaODFPRjBndXN6YUJnREtzMGdYM3NIV3I3OGFFeC12c0RCUDVjdUdCZ1FoSjZ1eGtZQQ",
+      "title": "火箭变阵风声起，阿门冲进全美前四，杜兰特这步棋怎么走？",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUJNeldlS0lEMGswMjNsNUlOeWFYaW1yMFZIWEhVcXRsdmpMMHlDMzRDMFVSVnhHX2JraDNtUlJEcVZORVRuREcyOGg2dldCSzVIeVo1N3dDbE1FczZaODFPRjBndXN6YUJnREtzMGdYM3NIV3I3OGFFeC12c0RCUDVjdUdCZ1FoSjZ1eGtZQQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-31T09:59:09.000Z",
+      "description": "火箭变阵风声起，阿门冲进全美前四，杜兰特这步棋怎么走？ 新浪网",
+      "titleZh": "火箭变阵风声起，阿门冲进全美前四，杜兰特这步棋怎么走？",
+      "summaryZh": "火箭变阵风声起，阿门冲进全美前四，杜兰特这步棋怎么走？ 新浪网",
+      "detailsZh": "火箭变阵风声起，阿门冲进全美前四，杜兰特这步棋怎么走？ 新浪网",
+      "keyPoints": [
+        "火箭变阵风声起，阿门冲进全美前四，杜兰特这步棋怎么走？"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -156,7 +177,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-08-31T05:31:13.846Z",
+      "publishedAt": "2026-08-31T13:45:08.473Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -172,12 +193,12 @@
       "id": "chenze:CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw",
       "title": "陈泽在西安线下现场有哪些互动环节？",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw?oc=5",
-      "source": "新浪财经",
+      "source": "finance.sina.com.cn",
       "publishedAt": "2026-08-29T08:24:14.000Z",
-      "description": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
+      "description": "陈泽在西安线下现场有哪些互动环节？ finance.sina.com.cn",
       "titleZh": "陈泽在西安线下现场有哪些互动环节？",
-      "summaryZh": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
-      "detailsZh": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
+      "summaryZh": "陈泽在西安线下现场有哪些互动环节？ finance.sina.com.cn",
+      "detailsZh": "陈泽在西安线下现场有哪些互动环节？ finance.sina.com.cn",
       "keyPoints": [
         "陈泽在西安线下现场有哪些互动环节？"
       ],
@@ -208,12 +229,12 @@
       "id": "chenze:CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw",
       "title": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw?oc=5",
-      "source": "搜狐网",
+      "source": "Sohu",
       "publishedAt": "2026-08-25T22:30:54.000Z",
-      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
+      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
+      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
+      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "keyPoints": [
         "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽"
       ],
@@ -259,12 +280,12 @@
       "id": "chenze:CBMiVkFVX3lxTFBXLWNKaDdJbXNIRm1ocFhHaTFaZnRsNkgwLThGMmtxYV9pVFMxQ1M1UkxkbkcwMFVuLWQwMjJmNFVoRU9WclluS1dWV3VfSUsydm8zald3",
       "title": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXLWNKaDdJbXNIRm1ocFhHaTFaZnRsNkgwLThGMmtxYV9pVFMxQ1M1UkxkbkcwMFVuLWQwMjJmNFVoRU9WclluS1dWV3VfSUsydm8zald3?oc=5",
-      "source": "腾讯新闻",
+      "source": "QQ News",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 腾讯新闻",
+      "description": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 腾讯新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 腾讯新闻",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记"
       ],
@@ -276,12 +297,12 @@
       "id": "chenze:CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n",
       "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n?oc=5",
-      "source": "腾讯新闻",
+      "source": "QQ News",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 腾讯新闻",
+      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 QQ News",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 腾讯新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 腾讯新闻",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 QQ News",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 QQ News",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万"
       ],
@@ -296,17 +317,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话与公开动态聚合页（固定入口）",
-      "summaryZh": "该页面为网络写手大咕咕咕鸡的微博超话专区，集中收录其本人发布的公开动态、读者互动及粉丝讨论内容，属长期维护的资料索引页。",
-      "detailsZh": "事实：该链接指向新浪微博特定超话索引，功能为聚合该ID下的所有发帖、转发与评论，不随时间自动更新具体事件。评论：作为早期网络段子手的社交阵地，该超话反映了中文互联网社区从论坛向微博迁移后的粉丝运营形态。传闻：部分网友曾猜测超话内存在水军控评或商业推广，但官方未予证实，此类说法缺乏直接证据。整体而言，此页仅为信息检索工具，非时效性新闻报道。",
+      "titleZh": "大咕咕咕鸡微博超话与公开动态聚合",
+      "summaryZh": "本条目为固定资料入口，非当日新闻。汇集该写手在微博平台的公开动态、读者互动及超话讨论区索引，便于追踪其日常发声轨迹。",
+      "detailsZh": "【事实】该链接指向新浪微博官方超话页面，实时展示“大咕咕咕鸡”账号发布的原创图文、转发内容及粉丝留言。页面按时间轴排列，具备基础检索功能，是追踪其发声轨迹的直接渠道。【评论】作为核心社交阵地，此处内容直接反映其创作倾向与公众形象，具有较高的史料参考价值，但需注意平台算法推荐可能造成的信息茧房效应。【传闻】网传部分早期动态已被平台归档或隐藏，具体留存情况需以实际访问为准，请勿轻信第三方搬运的断章取义截图或恶意剪辑版本。",
       "keyPoints": [
-        "微博超话官方索引页",
-        "聚合个人动态与读者互动",
-        "长期维护非时效新闻",
-        "反映早期网文社区生态"
+        "微博超话实时动态索引",
+        "读者互动与评论聚合",
+        "固定资料入口非新闻",
+        "需核实历史内容完整性"
       ],
       "category": "讨论",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -316,17 +337,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站作品朗读与相关视频检索页（固定入口）",
-      "summaryZh": "哔哩哔哩平台针对“大咕咕咕鸡”关键词生成的搜索结果聚合页，涵盖其作品有声朗读、二创剪辑及观众留言区，属常态化资源导航。",
-      "detailsZh": "事实：该URL为B站全站搜索接口，返回结果随用户上传内容动态变化，无固定策展逻辑。评论：视频内容多集中于其经典段子的音频化传播，体现文字创作者向多媒体形式的自然延伸。传闻：有观点认为部分高播放量视频系搬运或AI配音，但平台未作版权标注说明，真实性存疑。本条目仅作为媒体资源检索通道，不具备独立新闻属性。",
+      "titleZh": "大咕咕咕鸡B站视频与作品朗读检索页",
+      "summaryZh": "固定检索入口，收录哔哩哔哩平台内关于该写手的二次创作、作品有声朗读及相关评测视频。提供关键词聚合结果，方便跨平台查阅。",
+      "detailsZh": "【事实】此页面为B站全站搜索结果页，输入关键词后显示用户上传的视频、专栏及直播回放。内容涵盖音频改编、段子解析及观众反应，构成庞大的数字档案库。【评论】此类UGC内容虽具娱乐性，但常夹杂主观解读与玩梗演绎，不宜直接视为作者原意或权威定论。【传闻】有说法称部分高播放量视频系营销号批量生成，与本人无直接关联，建议交叉比对官方账号发布记录，避免被流量假象误导。",
       "keyPoints": [
-        "B站关键词搜索结果页",
-        "含作品朗读与二创视频",
-        "内容动态生成非人工编辑",
-        "跨媒介传播现象缩影"
+        "B站视频与朗读内容聚合",
+        "用户生成内容为主",
+        "含主观演绎与玩梗",
+        "需区分官方与二创"
       ],
       "category": "作品",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -336,17 +357,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物与创作背景资料页（固定入口）",
-      "summaryZh": "维基百科中关于网络写手大咕咕咕鸡的词条页面，系统梳理其常用笔名、创作风格演变及网络文化影响，属开放式百科档案。",
-      "detailsZh": "事实：该页面遵循维基百科中立原则，引用公开报道与网络存档记录其活跃期（约2010年代初期）的网络段子创作轨迹。评论：词条结构呈现了草根写手如何通过碎片化文本参与公共话语建构的过程，具有数字民俗学参考价值。传闻：个别版本曾因来源标注不足被标记待核实，但核心生平与代表作描述经多方交叉验证基本一致。此为静态参考资料库，非实时资讯源。",
+      "titleZh": "大咕咕咕鸡维基百科人物与创作资料",
+      "summaryZh": "固定百科词条入口，系统梳理该写手的常用笔名、文风特征、代表作品及网络文化影响。内容经社区编辑审核，适合作为背景研究参考。",
+      "detailsZh": "【事实】维基百科页面采用中立叙述体例，罗列其活跃时期、主要发表平台、标志性文本及社会反响。引用来源多为媒体报道与公开档案，结构清晰便于检索。【评论】作为开放编辑平台，词条质量依赖贡献者维护，可能存在信息滞后或视角偏差，使用时应结合多源文献印证，不可盲目采信单一表述。【传闻】网络偶有传言称其真实身份涉及特定行业从业者，但维基页面未予采信，相关猜测缺乏实证支撑，纯属网友臆测。",
       "keyPoints": [
-        "维基百科开放编辑词条",
-        "梳理笔名与创作风格脉络",
-        "引用公开资料具学术参考性",
-        "静态档案非动态新闻"
+        "百科式背景资料汇总",
+        "文风与代表作梳理",
+        "开放编辑存在滞后性",
+        "身份传言无实证"
       ],
-      "category": "讨论",
-      "importance": 4
+      "category": "场外",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -356,14 +377,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库账号数据与传播画像页（固定入口）",
-      "summaryZh": "第三方数据平台领库提供的微博账号公开资料页，展示粉丝量、互动指数等量化指标，属商业化KOL档案查询入口。",
-      "detailsZh": "事实：该页面抓取并可视化该微博账号的历史发布频率、受众地域分布及话题热度曲线，数据由平台算法定期更新。评论：量化指标客观反映了其在特定阶段的网络声量，但无法完全替代内容质量评估。传闻：市场曾有传言称其账号后期转向微商带货或知识付费，但领库数据未显示明显转型节点，相关说法多为推测。本条目仅为数据看板，不作价值判断。",
+      "titleZh": "大咕咕咕鸡微博账号数据与传播画像",
+      "summaryZh": "固定商业数据页面，展示该写手微博账号的粉丝规模、互动指数及历史传播趋势。数据由第三方机构采集，供行业分析使用。",
+      "detailsZh": "【事实】领库平台抓取并可视化其微博账号的公开运营指标，包括关注数、粉丝数、近期活跃度及话题热度曲线。数据更新频率受接口限制，仅反映阶段性状态。【评论】商业数据仅反映流量表现，无法直接等同于文学价值或思想深度。过度依赖此类指标易导致评价维度单一化，忽视文本本身的审美特质。【传闻】市场曾流传其数据存在刷量嫌疑，但平台未公布审计明细，建议理性看待波动区间，勿作绝对化推断，更不应以此否定其创作影响力。",
       "keyPoints": [
-        "第三方KOL数据平台页面",
-        "展示粉丝与互动量化指标",
-        "算法抓取非人工撰写",
-        "反映阶段性网络声量"
+        "第三方采集的传播数据",
+        "粉丝与互动指标可视化",
+        "流量不等同文学价值",
+        "数据真实性待交叉验证"
       ],
       "category": "场外",
       "importance": 2
@@ -376,16 +397,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道（2015年）",
-      "summaryZh": "界面新闻于2015年刊发的专题文章，聚焦大咕咕咕鸡等网络段子手的创作手法及其对当代汉语表达方式的渗透影响。",
-      "detailsZh": "事实：该文发表于2015年5月，通过采访摘录与文本分析，记录了早期自媒体时代写手的叙事策略与流量获取逻辑。评论：报道视角具有时代局限性，侧重商业变现路径而较少探讨文学性，但准确捕捉了网络语言大众化的关键节点。传闻：文中提及的某些合作机构或平台现已注销，导致部分案例难以追溯，但不影响其对创作生态的整体定性。此为历史性文献，需结合当下语境审慎引用。",
+      "titleZh": "界面新闻：大咕咕咕鸡与网络段子手生态",
+      "summaryZh": "历史深度报道（2015年），剖析该写手的语言风格及其对早期网络流行语的影响。属过往媒体观察，非近期动态，需结合时代语境阅读。",
+      "detailsZh": "【事实】该文发表于2015年5月，通过案例分析与专家访谈，探讨其文本如何融入网民日常交流，并推动特定句式病毒式传播。文中提及的创作节点均有公开记录可查。【评论】报道具有鲜明的时代切片意义，揭示了自媒体初期的话语变迁规律。但部分观点受限于当时媒介环境，对后续演变预测有限，需结合当下语境重新评估。【传闻】个别读者误将此旧闻当作新近事件转发，实则所述现象已沉淀为网络文化常识，无需重复炒作，亦不存在所谓“突然复出”等不实消息。",
       "keyPoints": [
-        "2015年媒体历史报道",
-        "分析段子手创作与语言影响",
-        "带时代局限性的商业视角",
-        "需结合语境引用的文献"
+        "2015年历史深度报道",
+        "语言风格与流行语影响",
+        "时代语境下的媒介观察",
+        "非近期动态需防误读"
       ],
-      "category": "公开发言",
+      "category": "讨论",
       "importance": 4
     }
   ]
