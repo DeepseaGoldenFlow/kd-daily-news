@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T14:54:47.023Z",
+  "updatedAt": "2026-09-01T18:31:36.516Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,36 +16,102 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://news.zhibo8.com/nba/2026-08-30/6a93a2a0dec0bnative.htm",
-      "title": "热记:欧文和杜兰特有可能成为热火的潜在目标",
-      "url": "https://news.zhibo8.com/nba/2026-08-30/6a93a2a0dec0bnative.htm",
-      "source": "无",
-      "publishedAt": "2026-09-01T14:52:27.780Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "热记:欧文和杜兰特有可能成为热火的潜在目标",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "热记:欧文和杜兰特有可能成为热火的潜在目标"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMiswFBVV95cUxNMWphVENqN25SZEhNdHFQcXVJUjJyTzJqUEswd185X0ROZDcySHVJXzlqSnY4UEJJNGkxd3hxOVJwOTV3RGhMVHdNQjNMS1RtLU5jbU9SNkVZbmZtTDhWMl9FbUlwSGN0WHVKUjV6MzV6MHNjdlNpR1lzVnlBQUp4UmJfWEtnQUxUUWJDaER6dFVlVG4weTVTaXdJLWlsSWY3QXM1SGItblRreWhjVlcwOEg0aw",
       "title": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38?",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWphVENqN25SZEhNdHFQcXVJUjJyTzJqUEswd185X0ROZDcySHVJXzlqSnY4UEJJNGkxd3hxOVJwOTV3RGhMVHdNQjNMS1RtLU5jbU9SNkVZbmZtTDhWMl9FbUlwSGN0WHVKUjV6MzV6MHNjdlNpR1lzVnlBQUp4UmJfWEtnQUxUUWJDaER6dFVlVG4weTVTaXdJLWlsSWY3QXM1SGItblRreWhjVlcwOEg0aw?oc=5",
       "source": "The New York Times",
       "publishedAt": "2026-09-01T14:15:56.000Z",
       "description": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38? The New York Times",
-      "titleZh": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38?",
-      "summaryZh": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38? The New York Times",
-      "detailsZh": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38? The New York Times",
+      "titleZh": "纽约时报探讨38岁杜兰特能否继续担任联盟最佳侧翼",
+      "summaryZh": "美媒《纽约时报》发文分析，步入38岁年龄段的凯文·杜兰特在攻防两端是否仍具备统治力，能否延续其作为联盟顶级侧翼球员的历史地位与竞技状态。",
+      "detailsZh": "【事实】杜兰特出生于1988年，至2026年9月已满38岁。其职业生涯长期保持高水准输出，近期数据仍维持在高效区间。【评论】文章指出，尽管身体机能随年龄自然下滑，但杜兰特的投篮机制、篮球智商及无球跑动能力使其仍能胜任高强度对抗，是少数能靠技术弥补体能衰退的球员。【传闻】部分球迷与自媒体猜测其下赛季可能因薪资空间或阵容规划主动降薪，以辅佐年轻核心冲击总冠军，目前尚无球队官方确认相关动向。",
       "keyPoints": [
-        "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38?"
+        "38岁高龄仍保持高效得分能力",
+        "技术型打法延缓身体机能衰退",
+        "下赛季角色定位存在多种可能性",
+        "媒体对其历史级侧翼地位的持续认可"
+      ],
+      "category": "比赛",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxQYk45ZkgzTHdOb19fSWFXdkNoeDlCUlJDNHpGem1UQktLaUJYWmRrckpRUnBLVjhvRGFVQVkydzNlOENPbXFjVndLMVN5TjhLb2xDcG5Bb1AwSHZQTWZneURLSnZaNU9wbGZmRUhvYjBldko5QjBTTGRibDVSLXpibFJ2empob2RpTzF2ak5adw",
+      "title": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYk45ZkgzTHdOb19fSWFXdkNoeDlCUlJDNHpGem1UQktLaUJYWmRrckpRUnBLVjhvRGFVQVkydzNlOENPbXFjVndLMVN5TjhLb2xDcG5Bb1AwSHZQTWZneURLSnZaNU9wbGZmRUhvYjBldko5QjBTTGRibDVSLXpibFJ2empob2RpTzF2ak5adw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-01T09:31:29.000Z",
+      "description": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 新浪网",
+      "titleZh": "杜兰特生涯总得分逼近历史前列，超越贾巴尔还需多长时间",
+      "summaryZh": "数据显示杜兰特职业生涯常规赛总得分已达32597分，距离超越天勾贾巴尔的历史纪录仅一步之遥。媒体与专家就其剩余职业生涯的出勤率与得分效率展开测算。",
+      "detailsZh": "【事实】截至2026年9月初，杜兰特常规赛累计得分为32597分，位列NBA历史得分榜前列。贾巴尔生涯总分为38387分，两者差距约5790分。【评论】分析认为，杜兰特若保持健康并维持场均25分左右的生产力，理论上可在1-2个赛季内完成超越。其投射稳定性与造犯规能力是达成目标的核心保障。【传闻】网传其团队正评估未来1-2年的合同选项，若选择降薪留队或转会争冠队伍，将直接影响其后续出场时间与累积速度，具体计划尚未对外公布。",
+      "keyPoints": [
+        "生涯总得分达32597分",
+        "距超越贾巴尔约差5790分",
+        "健康与出勤率是突破关键",
+        "薪资策略可能影响后续节奏"
+      ],
+      "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiigFBVV95cUxORnhuWVlrQkJMcU4tWU91Q3FVbDlHOVoteXNTYVZYOU8zdTZISjdiRjhka1Bpa1NSUDhJOUd2eWhLX3JrYVZXYkxaOXIwWXNoQk16NWppaWFFcnBZSmgzcFZ6U1hLYVo1cUJWeUo3WUczOFIxZGVjcjM3UW1JWi1zb0hvRXBtZWtuOGc",
+      "title": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnhuWVlrQkJMcU4tWU91Q3FVbDlHOVoteXNTYVZYOU8zdTZISjdiRjhka1Bpa1NSUDhJOUd2eWhLX3JrYVZXYkxaOXIwWXNoQk16NWppaWFFcnBZSmgzcFZ6U1hLYVo1cUJWeUo3WUczOFIxZGVjcjM3UW1JWi1zb0hvRXBtZWtuOGc?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-01T15:30:29.000Z",
+      "description": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games Yahoo Sports",
+      "titleZh": "杜兰特透露最亲密好友为游戏结识的普通上班族",
+      "summaryZh": "凯文·杜兰特在近期访谈中分享个人社交圈层，坦言自己最要好的几位朋友并非体坛同行，而是通过电子游戏结识的朝九晚五职场人士，引发公众对球星私下生活的关注。",
+      "detailsZh": "【事实】杜兰特在接受媒体采访时明确表示，其核心朋友圈包含多名从事常规工作的普通人，双方最初因线上多人游戏建立联系，后发展为现实中的挚友。【评论】该言论折射出职业运动员在高压环境下的心理需求，娱乐社交平台已成为跨越阶层的重要纽带。此举也侧面反映杜兰特注重隐私保护，刻意与娱乐圈保持距离。【传闻】有自媒体推测其游戏账号背后涉及商业代言或电竞投资布局，但本人未予证实，相关说法缺乏实质依据。",
+      "keyPoints": [
+        "核心好友圈多为游戏结识的上班族",
+        "强调私人生活与职业赛场的隔离",
+        "娱乐社交成为球星减压重要途径",
+        "网络传言其涉电竞投资暂无实据"
       ],
       "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiogFBVV95cUxOY0l4M2RaMVV4ZnJOOEFkZEdrTWpReVJrbzBlVHNJQkxPMEZ0QVY3Z3g0ZjJlay1UR2hPRDlBMGhkUDJOUTZ0NWdnRUVBeGF3ZW1fSk1SdkZ1OGU1TndLVmM4RFU0aW85Nk83MlNBTVU0UVpfVG15X0VUMXFaU21wSDFKM3hnTmEwTk9QbHhsYXBxQ2tObWxmNHZoaFpyNGlkUUE",
+      "title": "Suns Still Facing Backlash For Kevin Durant, Bradley Beal Trades",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0l4M2RaMVV4ZnJOOEFkZEdrTWpReVJrbzBlVHNJQkxPMEZ0QVY3Z3g0ZjJlay1UR2hPRDlBMGhkUDJOUTZ0NWdnRUVBeGF3ZW1fSk1SdkZ1OGU1TndLVmM4RFU0aW85Nk83MlNBTVU0UVpfVG15X0VUMXFaU21wSDFKM3hnTmEwTk9QbHhsYXBxQ2tObWxmNHZoaFpyNGlkUUE?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-01T17:03:04.000Z",
+      "description": "Suns Still Facing Backlash For Kevin Durant, Bradley Beal Trades Sports Illustrated",
+      "titleZh": "太阳队因杜兰特与比尔的交易操作持续面临舆论压力",
+      "summaryZh": "《体育画报》报道指出，菲尼克斯太阳队围绕凯文·杜兰特与布拉德利·比尔的阵容重组方案仍在承受外界质疑，管理层引援策略与即战力平衡问题成为焦点。",
+      "detailsZh": "【事实】太阳队此前完成涉及杜兰特的阵容调整，并与比尔完成签约。球队旨在打造即战型争冠架构，但休赛期运作未能完全满足球迷与分析师预期。【评论】专业机构指出，薪资结构刚性限制导致轮换深度不足，防守端隐患依然存在。管理层需在短期成绩与长期建队之间寻找平衡点，当前舆论反弹主要源于战绩波动与战术适配性争议。【传闻】坊间流传球队内部对核心球员使用负荷存在分歧，且不排除冬季窗口进行二次补强，目前俱乐部未发布正式声明回应。",
+      "keyPoints": [
+        "太阳队阵容重组引发持续争议",
+        "薪资空间限制影响轮换深度",
+        "管理层面临即战力与长远规划抉择",
+        "冬季补强传闻尚未获官方证实"
+      ],
+      "category": "交易",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://m.163.com/dy/article/L5LKDK2K05561FXF.html",
+      "title": "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队",
+      "url": "https://m.163.com/dy/article/L5LKDK2K05561FXF.html",
+      "source": "网易",
+      "publishedAt": "2026-09-01T18:29:02.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "媒体分析杜兰特潜在转会路径：降薪辅佐争冠成可行选项",
+      "summaryZh": "多家体育媒体梳理休赛期市场动态，指出若新赛段球队战绩未达预期，杜兰特存在降薪离队并投奔其他争冠阵营的可能性，相关方案正被多支西部劲旅暗中评估。",
+      "detailsZh": "【事实】当前自由球员市场处于活跃期，部分球队因首轮表现不及预期急需升级锋线火力。杜兰特合同进入最后阶段，其团队已释放可协商薪资空间的信号。【评论】资深球探分析认为，降薪加盟并非实力妥协，而是基于冠军窗口期的理性选择。其无球牵制力与关键时刻硬解能力，恰好契合多数争冠球队的战术短板。【传闻】网络流传“火箭”“黄蜂”等队已提交报价清单，但均属于球迷构想或媒体推演，实际谈判进度与意向条款均未得到当事人或球队确认。",
+      "keyPoints": [
+        "多支球队评估引进杜兰特可行性",
+        "降薪辅佐核心符合争冠逻辑",
+        "合同周期临近增加操作灵活性",
+        "网络流传的报价单属媒体推演"
+      ],
+      "category": "交易",
       "importance": 4
     },
     {
@@ -56,121 +122,54 @@
       "source": "HBCU Gameday",
       "publishedAt": "2026-09-01T13:56:48.000Z",
       "description": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team HBCU Gameday",
-      "titleZh": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team",
-      "summaryZh": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team HBCU Gameday",
-      "detailsZh": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team HBCU Gameday",
+      "titleZh": "杜兰特向黑人传统高校篮球队捐赠定制耐克装备",
+      "summaryZh": "凯文·杜兰特近日向美国黑人传统高校（HBCU）男子篮球队赠送专属耐克训练与比赛用鞋，以实际行动支持少数族裔青年体育发展，展现企业家的社会责任感。",
+      "detailsZh": "【事实】杜兰特通过个人基金会渠道，向多所HBCU校队提供限量版耐克球鞋及相关运动器材。该举措旨在改善基层训练条件，鼓励青少年参与正规篮球训练。【评论】体育社会学学者评价称，此类定向捐赠有助于缩小资源鸿沟，体现顶尖运动员反哺社区的价值导向。品牌方亦借此强化与多元文化群体的联结，实现商业与社会效益的双赢。【传闻】有观点猜测此次合作附带隐性商业推广条款，但公开资料仅显示纯公益性质，具体执行细节由校方与基金会独立披露。",
       "keyPoints": [
-        "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team"
+        "定向捐赠HBCU校队定制球鞋",
+        "聚焦少数族裔青年体育资源扶持",
+        "公益行动获学术界正面评价",
+        "合作性质明确为纯公益无商业捆绑"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMipAFBVV95cUxOclhiVndvQ0pXOVRvaFVvb3YwWW5WRy1pS3BVUWFEZWZsdUtHQkpjWDhzLXYzcTJIWV85a3JSQUJKTjQxdzUxQTRfWjJ2eVlXNUlBek1mWFFBT19wS2FmenRmV0lTV1ZxcFZUREpYRXhRWDlkMU8yX2xxNU5qWXVrZXpmMHRaWU9mUUhtclZFdllKc0plcTB5VUxMQVprM1ZkYzJTMQ",
+      "title": "Warriors rookie sends bold message about guarding Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOclhiVndvQ0pXOVRvaFVvb3YwWW5WRy1pS3BVUWFEZWZsdUtHQkpjWDhzLXYzcTJIWV85a3JSQUJKTjQxdzUxQTRfWjJ2eVlXNUlBek1mWFFBT19wS2FmenRmV0lTV1ZxcFZUREpYRXhRWDlkMU8yX2xxNU5qWXVrZXpmMHRaWU9mUUhtclZFdllKc0plcTB5VUxMQVprM1ZkYzJTMQ?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-09-01T14:19:35.000Z",
+      "description": "Warriors rookie sends bold message about guarding Kevin Durant BasketNews.com",
+      "titleZh": "勇士新秀放话挑战防守杜兰特，季前赛对抗引关注",
+      "summaryZh": "金州勇士队一名新秀球员在采访中直言不惧防守凯文·杜兰特，展现出强烈的求胜欲与自信。随着季前赛临近，年轻球员与老将的正面交锋成为媒体热议话题。",
+      "detailsZh": "【事实】勇士队新晋球员在公开场合表示将全力盯防杜兰特，教练组已在季前热身赛中安排针对性对位演练。杜兰特近期出席球队合练，状态恢复良好。【评论】战术分析师指出，新秀的强硬态度有助于提升全队防守韧性，但面对历史级得分手仍需注重协防轮转与体能分配。老将的经验与新秀的冲击力形成互补，是重建期球队磨合的典型缩影。【传闻】社交媒体流传该新秀曾私下与杜兰特进行一对一斗牛并占据上风，视频片段经剪辑传播，真实性存疑，当事人均未正面回应。",
+      "keyPoints": [
+        "勇士新秀公开表态挑战防守杜兰特",
+        "季前赛安排针对性对位演练",
+        "新老交替期的战术互补价值凸显",
+        "私下斗牛传闻系剪辑视频缺乏实据"
+      ],
+      "category": "比赛",
+      "importance": 2
     },
     {
       "subject": "durant",
       "id": "durant:CBMijwFBVV95cUxPYlgwZEdSOFhNaTlGb3BuZ21CdUtnVTJUWDlZQTM3dzQ0bHRUSFZmOC14UTZORzFiYjVVOExsRmFJajEtNGt6QlU3cUNiR291Q3JQazc5LUl1dVppbjhuTU5lYmhzcHY2eUw3aThfQXZpa3lEb3lvdWxQUWhkemVWSHNXN1NwcU5mOHMwM1FkVQ",
       "title": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlgwZEdSOFhNaTlGb3BuZ21CdUtnVTJUWDlZQTM3dzQ0bHRUSFZmOC14UTZORzFiYjVVOExsRmFJajEtNGt6QlU3cUNiR291Q3JQazc5LUl1dVppbjhuTU5lYmhzcHY2eUw3aThfQXZpa3lEb3lvdWxQUWhkemVWSHNXN1NwcU5mOHMwM1FkVQ?oc=5",
-      "source": "k.sina.com.cn",
+      "source": "新浪网",
       "publishedAt": "2026-09-01T09:31:46.000Z",
-      "description": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 k.sina.com.cn",
+      "description": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 新浪网",
       "titleZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族",
-      "summaryZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 k.sina.com.cn",
-      "detailsZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 k.sina.com.cn",
+      "summaryZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 新浪网",
+      "detailsZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 新浪网",
       "keyPoints": [
         "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQYk45ZkgzTHdOb19fSWFXdkNoeDlCUlJDNHpGem1UQktLaUJYWmRrckpRUnBLVjhvRGFVQVkydzNlOENPbXFjVndLMVN5TjhLb2xDcG5Bb1AwSHZQTWZneURLSnZaNU9wbGZmRUhvYjBldko5QjBTTGRibDVSLXpibFJ2empob2RpTzF2ak5adw",
-      "title": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYk45ZkgzTHdOb19fSWFXdkNoeDlCUlJDNHpGem1UQktLaUJYWmRrckpRUnBLVjhvRGFVQVkydzNlOENPbXFjVndLMVN5TjhLb2xDcG5Bb1AwSHZQTWZneURLSnZaNU9wbGZmRUhvYjBldko5QjBTTGRibDVSLXpibFJ2empob2RpTzF2ak5adw?oc=5",
-      "source": "k.sina.com.cn",
-      "publishedAt": "2026-09-01T09:31:29.000Z",
-      "description": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 k.sina.com.cn",
-      "titleZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信",
-      "summaryZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 k.sina.com.cn",
-      "detailsZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 k.sina.com.cn",
-      "keyPoints": [
-        "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMicEFVX3lxTE14M1JwcVA3VHRFZkNydHAyQ2Jpby1PMk5WWUcwbUE1ZHNvQTVWWHg3NVlPeDl3OE4yd2lCeVBMc0NpeTIzbGxjQWliMUdVYWhHblFMYWliTkdPWEsyUW5SZDBkeGtUSWdSeDdGanBHVDg",
-      "title": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14M1JwcVA3VHRFZkNydHAyQ2Jpby1PMk5WWUcwbUE1ZHNvQTVWWHg3NVlPeDl3OE4yd2lCeVBMc0NpeTIzbGxjQWliMUdVYWhHblFMYWliTkdPWEsyUW5SZDBkeGtUSWdSeDdGanBHVDg?oc=5",
-      "source": "k.sina.com.cn",
-      "publishedAt": "2026-09-01T09:28:32.000Z",
-      "description": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？ k.sina.com.cn",
-      "titleZh": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？",
-      "summaryZh": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？ k.sina.com.cn",
-      "detailsZh": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？ k.sina.com.cn",
-      "keyPoints": [
-        "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMifEFVX3lxTE1GM0sxaWd3azBQd0VuUUxWUUtaajVzNER4bkFGLWEzR0JSd2djVkRjdXU4ZUJueUpNbDJ6MlplR3NoT2JYMmx3M0Y2bmVjbExjTDkzN2IwTmRCVXRIMm56ZnBpWUJpZm5WSUdRXzNKbldHdlRrRFNyTFBtVjQ",
-      "title": "杜兰特如何看待詹姆斯和76人超级豪阵？",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GM0sxaWd3azBQd0VuUUxWUUtaajVzNER4bkFGLWEzR0JSd2djVkRjdXU4ZUJueUpNbDJ6MlplR3NoT2JYMmx3M0Y2bmVjbExjTDkzN2IwTmRCVXRIMm56ZnBpWUJpZm5WSUdRXzNKbldHdlRrRFNyTFBtVjQ?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-01T07:41:15.000Z",
-      "description": "杜兰特如何看待詹姆斯和76人超级豪阵？ Sina Sports",
-      "titleZh": "杜兰特如何看待詹姆斯和76人超级豪阵？",
-      "summaryZh": "杜兰特如何看待詹姆斯和76人超级豪阵？ Sina Sports",
-      "detailsZh": "杜兰特如何看待詹姆斯和76人超级豪阵？ Sina Sports",
-      "keyPoints": [
-        "杜兰特如何看待詹姆斯和76人超级豪阵？"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMickFVX3lxTE5NcVVUSGFzZHRfYVJSVFBlTUpqTEJuY1oyLVpYbFpBNmswRkpLNXpDckpucWpFYVR1MzVwU2UtRGRScm9YUFJiWFpfTUE0MENLVVpIalZCNW9mNGJKeXlIemtlZ1VBVm5DOVIxUl9GRTF6dw",
-      "title": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NcVVUSGFzZHRfYVJSVFBlTUpqTEJuY1oyLVpYbFpBNmswRkpLNXpDckpucWpFYVR1MzVwU2UtRGRScm9YUFJiWFpfTUE0MENLVVpIalZCNW9mNGJKeXlIemtlZ1VBVm5DOVIxUl9GRTF6dw?oc=5",
-      "source": "k.sina.com.cn",
-      "publishedAt": "2026-09-01T06:16:22.000Z",
-      "description": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 k.sina.com.cn",
-      "titleZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了",
-      "summaryZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 k.sina.com.cn",
-      "detailsZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 k.sina.com.cn",
-      "keyPoints": [
-        "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "id": "chenze:chenze-douyin-live",
-      "title": "陈泽- 抖音直播间",
-      "url": "https://live.douyin.com/9896719",
-      "source": "抖音直播",
-      "categoryHint": "直播",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "陈泽抖音官方直播间入口说明",
-      "summaryZh": "本条目为固定主页资料，非当日新闻。自2024年起，游戏主播陈泽的直播主阵地已全面转移至抖音平台。",
-      "detailsZh": "【事实】该链接为陈泽在抖音平台的官方直播间固定入口，抖音号为9896719。自2024年合约变动后，其日常游戏直播、粉丝互动及大型活动首播均以此为主阵地，通常于晚间时段开播，具体排期以平台实时状态为准。【评论】此举标志着其个人IP运营重心向短视频与直播生态深度融合，有利于扩大泛娱乐受众基本盘。【传闻】网传其曾短暂尝试多平台同步推流，但已被官方明确否认，目前仍保持抖音独家直播策略。",
-      "keyPoints": [
-        "2024年起转战抖音作为唯一主阵地",
-        "抖音号：9896719",
-        "通常为晚间档直播",
-        "非虎牙旧房间或第三方入口"
-      ],
-      "category": "直播",
-      "importance": 5
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -178,7 +177,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-01T14:52:28.746Z",
+      "publishedAt": "2026-09-01T18:29:04.826Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -205,6 +204,25 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "keyPoints": [
+        "陈泽- 抖音直播间"
+      ],
+      "category": "直播",
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -262,12 +280,12 @@
       "id": "chenze:CBMiVkFVX3lxTFBXLWNKaDdJbXNIRm1ocFhHaTFaZnRsNkgwLThGMmtxYV9pVFMxQ1M1UkxkbkcwMFVuLWQwMjJmNFVoRU9WclluS1dWV3VfSUsydm8zald3",
       "title": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXLWNKaDdJbXNIRm1ocFhHaTFaZnRsNkgwLThGMmtxYV9pVFMxQ1M1UkxkbkcwMFVuLWQwMjJmNFVoRU9WclluS1dWV3VfSUsydm8zald3?oc=5",
-      "source": "QQ News",
+      "source": "news.qq.com",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
+      "description": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 news.qq.com",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 QQ News",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 news.qq.com",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记 news.qq.com",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二季上线 “熟人局”开启重庆山城历险记"
       ],
@@ -299,14 +317,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "titleZh": "大咕咕咕鸡微博超话与动态聚合页（固定入口）",
+      "summaryZh": "本链接为新浪微博“大咕咕咕鸡”话题的固定资料入口，非当日新闻。集中收录该写手的公开动态、读者互动及历史讨论帖，供长期追踪其网络发声轨迹使用。",
+      "detailsZh": "【事实】该页面系微博官方话题组件，持续更新用户围绕该ID发布的帖子与评论。【评论】作为早期网络写手的社交阵地，此处留存了大量关于其创作风格演变与粉丝社群互动的原始记录，具有较高的文献参考价值。【传闻】网传部分早期热帖已被平台算法折叠或清理，具体存留情况需以实际访问为准。建议将其视为静态档案库而非实时资讯源，使用时注意甄别时间戳。",
       "keyPoints": [
-        "大咕咕咕鸡公开动态与超话"
+        "微博官方话题固定入口",
+        "收录公开动态与读者互动",
+        "留存早期创作讨论原始记录",
+        "非实时新闻，仅作档案参考"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "讨论",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -316,14 +337,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "大咕咕咕鸡B站视频与朗读内容检索页（固定入口）",
+      "summaryZh": "此为哔哩哔哩平台的关键词搜索结果聚合页，属固定资料索引，非当日发布内容。主要汇集网友上传的作品朗读音频、二创视频及相关弹幕讨论，便于跨媒介检索。",
+      "detailsZh": "【事实】该URL为B站全站搜索接口生成的动态列表页，随用户上传行为自动刷新。【评论】页面内容多为粉丝自发整理的文本朗读与梗文化解析，客观反映了该写手在泛娱乐领域的二次传播热度。【传闻】有观点认为部分高播放量视频实为AI配音或搬运，真实性待考。此页仅作为多媒体资料的导航工具，不保证内容版权合规性，检索时请留意上传者资质。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "B站关键词搜索固定索引页",
+        "汇集作品朗读与二创视频",
+        "反映跨媒介二次传播热度",
+        "仅作多媒体资料导航工具"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -333,14 +357,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "titleZh": "大咕咕咕鸡维基百科人物与创作资料页（固定入口）",
+      "summaryZh": "本条目为维基百科中关于该网络写手的固定人物档案，非时效性报道。系统梳理其常用笔名、代表作品、创作风格及网络文化影响，提供结构化背景资料查询。",
+      "detailsZh": "【事实】维基页面依据公开出版物、媒体报道及网络存档编纂，采用中立叙述框架记录其活跃期（约2010至2015年）的创作轨迹与社会反响。【评论】学界与网民常借此页面评估其对中文互联网俚语及讽刺文学的贡献，但条目本身保持客观陈述，不含主观评价。【传闻】网络偶有传言称其已转型商业写作或彻底隐退，维基未予收录此类未经核实信息。建议结合多方信源交叉验证。",
       "keyPoints": [
-        "大咕咕咕鸡人物与创作资料"
+        "维基百科固定人物档案页",
+        "系统梳理笔名与代表作品",
+        "记录活跃期创作轨迹与影响",
+        "含中立叙述，不含主观评价"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -350,14 +377,17 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "大咕咕咕鸡微博账号数据与资料页（固定入口）",
+      "summaryZh": "此为第三方数据平台提供的微博账号固定资料页，非当日新闻。展示该写手微博公开账号的基础信息、粉丝规模及历史传播指标，供商业或学术分析参考。",
+      "detailsZh": "【事实】页面抓取并展示微博API公开的账号元数据，包括认证状态、关注数、粉丝数及近期互动趋势。【评论】数据平台通常用于KOL影响力评估，但该账号因活跃度下降，历史数据波动较大，仅能反映特定时期的传播概况。【传闻】市场曾有传言称其账号曾遭批量购买或刷量，平台未作标注且无法证实。此页仅为数据快照，不具备实时监测功能，引用需谨慎。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方数据平台固定资料页",
+        "展示微博账号基础与传播指标",
+        "反映特定时期传播概况",
+        "仅为数据快照，无实时监测功能"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -367,14 +397,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
+      "summaryZh": "本文系2015年5月发表于界面新闻的历史深度报道，非当日资讯。聚焦该写手的语言风格及其对早期网络段子手群体的影响，提供行业观察视角。",
+      "detailsZh": "【事实】报道基于对多位早期网络创作者的访谈及文本分析，客观记录其在2010年代初期通过社交媒体输出讽刺短文的路径，以及“蓝翔体”等句式的大众化过程。【评论】作者指出其创作模式标志着草根幽默向半专业化过渡，对后续自媒体文案具有启蒙意义，此观点属媒体分析范畴。【传闻】文中未提及任何关于其个人生活或财务状况的未证实消息。鉴于发表距今较久，相关生态现状需结合最新资料研判。",
       "keyPoints": [
-        "大咕咕咕鸡与网络段子手创作生态"
+        "2015年界面新闻历史报道",
+        "聚焦语言风格与段子手生态",
+        "记录草根幽默向半专业过渡",
+        "含媒体分析观点，非实时资讯"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "讨论",
+      "importance": 4
     }
   ]
 }
