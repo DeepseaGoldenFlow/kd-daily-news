@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T10:07:37.262Z",
+  "updatedAt": "2026-09-01T14:54:47.023Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "热记:欧文和杜兰特有可能成为热火的潜在目标",
       "url": "https://news.zhibo8.com/nba/2026-08-30/6a93a2a0dec0bnative.htm",
       "source": "无",
-      "publishedAt": "2026-09-01T10:04:52.828Z",
+      "publishedAt": "2026-09-01T14:52:27.780Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "热记:欧文和杜兰特有可能成为热火的潜在目标",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -33,20 +33,88 @@
     },
     {
       "subject": "durant",
+      "id": "durant:CBMiswFBVV95cUxNMWphVENqN25SZEhNdHFQcXVJUjJyTzJqUEswd185X0ROZDcySHVJXzlqSnY4UEJJNGkxd3hxOVJwOTV3RGhMVHdNQjNMS1RtLU5jbU9SNkVZbmZtTDhWMl9FbUlwSGN0WHVKUjV6MzV6MHNjdlNpR1lzVnlBQUp4UmJfWEtnQUxUUWJDaER6dFVlVG4weTVTaXdJLWlsSWY3QXM1SGItblRreWhjVlcwOEg0aw",
+      "title": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWphVENqN25SZEhNdHFQcXVJUjJyTzJqUEswd185X0ROZDcySHVJXzlqSnY4UEJJNGkxd3hxOVJwOTV3RGhMVHdNQjNMS1RtLU5jbU9SNkVZbmZtTDhWMl9FbUlwSGN0WHVKUjV6MzV6MHNjdlNpR1lzVnlBQUp4UmJfWEtnQUxUUWJDaER6dFVlVG4weTVTaXdJLWlsSWY3QXM1SGItblRreWhjVlcwOEg0aw?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-09-01T14:15:56.000Z",
+      "description": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38? The New York Times",
+      "titleZh": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38?",
+      "summaryZh": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38? The New York Times",
+      "detailsZh": "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38? The New York Times",
+      "keyPoints": [
+        "The Bounce: Will Kevin Durant be the NBA’s best wing at age 38?"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihgFBVV95cUxPcEN0Zl9rck5GUXpIamhlVm9CeE9sa1dMNUJ2SlNiVWE4aXdDTm9zUlJaMUNRUDBJWXltMjRWR1llUjUwQnNnVzV0NHVsamI5UHJpS0ktQjRJTlhKOUluTGRqT21EQV9LSzF6Y2VTanV4aVhiSUhwcnd0STFIcTVaMGlpcC1LUQ",
+      "title": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcEN0Zl9rck5GUXpIamhlVm9CeE9sa1dMNUJ2SlNiVWE4aXdDTm9zUlJaMUNRUDBJWXltMjRWR1llUjUwQnNnVzV0NHVsamI5UHJpS0ktQjRJTlhKOUluTGRqT21EQV9LSzF6Y2VTanV4aVhiSUhwcnd0STFIcTVaMGlpcC1LUQ?oc=5",
+      "source": "HBCU Gameday",
+      "publishedAt": "2026-09-01T13:56:48.000Z",
+      "description": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team HBCU Gameday",
+      "titleZh": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team",
+      "summaryZh": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team HBCU Gameday",
+      "detailsZh": "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team HBCU Gameday",
+      "keyPoints": [
+        "Kevin Durant Sends Exclusive Nike Heat to HBCU Hoops Team"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxPYlgwZEdSOFhNaTlGb3BuZ21CdUtnVTJUWDlZQTM3dzQ0bHRUSFZmOC14UTZORzFiYjVVOExsRmFJajEtNGt6QlU3cUNiR291Q3JQazc5LUl1dVppbjhuTU5lYmhzcHY2eUw3aThfQXZpa3lEb3lvdWxQUWhkemVWSHNXN1NwcU5mOHMwM1FkVQ",
+      "title": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlgwZEdSOFhNaTlGb3BuZ21CdUtnVTJUWDlZQTM3dzQ0bHRUSFZmOC14UTZORzFiYjVVOExsRmFJajEtNGt6QlU3cUNiR291Q3JQazc5LUl1dVppbjhuTU5lYmhzcHY2eUw3aThfQXZpa3lEb3lvdWxQUWhkemVWSHNXN1NwcU5mOHMwM1FkVQ?oc=5",
+      "source": "k.sina.com.cn",
+      "publishedAt": "2026-09-01T09:31:46.000Z",
+      "description": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 k.sina.com.cn",
+      "titleZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族",
+      "summaryZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 k.sina.com.cn",
+      "detailsZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 k.sina.com.cn",
+      "keyPoints": [
+        "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
       "id": "durant:CBMijwFBVV95cUxQYk45ZkgzTHdOb19fSWFXdkNoeDlCUlJDNHpGem1UQktLaUJYWmRrckpRUnBLVjhvRGFVQVkydzNlOENPbXFjVndLMVN5TjhLb2xDcG5Bb1AwSHZQTWZneURLSnZaNU9wbGZmRUhvYjBldko5QjBTTGRibDVSLXpibFJ2empob2RpTzF2ak5adw",
       "title": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYk45ZkgzTHdOb19fSWFXdkNoeDlCUlJDNHpGem1UQktLaUJYWmRrckpRUnBLVjhvRGFVQVkydzNlOENPbXFjVndLMVN5TjhLb2xDcG5Bb1AwSHZQTWZneURLSnZaNU9wbGZmRUhvYjBldko5QjBTTGRibDVSLXpibFJ2empob2RpTzF2ak5adw?oc=5",
-      "source": "新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-09-01T09:31:29.000Z",
-      "description": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 新浪网",
+      "description": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 k.sina.com.cn",
       "titleZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信",
-      "summaryZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 新浪网",
-      "detailsZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 新浪网",
+      "summaryZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 k.sina.com.cn",
+      "detailsZh": "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信 k.sina.com.cn",
       "keyPoints": [
         "杜兰特已得32597分，还要多久才能超越贾巴尔？说出来你可能不信"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMicEFVX3lxTE14M1JwcVA3VHRFZkNydHAyQ2Jpby1PMk5WWUcwbUE1ZHNvQTVWWHg3NVlPeDl3OE4yd2lCeVBMc0NpeTIzbGxjQWliMUdVYWhHblFMYWliTkdPWEsyUW5SZDBkeGtUSWdSeDdGanBHVDg",
+      "title": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14M1JwcVA3VHRFZkNydHAyQ2Jpby1PMk5WWUcwbUE1ZHNvQTVWWHg3NVlPeDl3OE4yd2lCeVBMc0NpeTIzbGxjQWliMUdVYWhHblFMYWliTkdPWEsyUW5SZDBkeGtUSWdSeDdGanBHVDg?oc=5",
+      "source": "k.sina.com.cn",
+      "publishedAt": "2026-09-01T09:28:32.000Z",
+      "description": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？ k.sina.com.cn",
+      "titleZh": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？",
+      "summaryZh": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？ k.sina.com.cn",
+      "detailsZh": "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？ k.sina.com.cn",
+      "keyPoints": [
+        "火箭连出4招：杜兰特传闻背后的算盘，阿门续约为何卡壳？"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -70,12 +138,12 @@
       "id": "durant:CBMickFVX3lxTE5NcVVUSGFzZHRfYVJSVFBlTUpqTEJuY1oyLVpYbFpBNmswRkpLNXpDckpucWpFYVR1MzVwU2UtRGRScm9YUFJiWFpfTUE0MENLVVpIalZCNW9mNGJKeXlIemtlZ1VBVm5DOVIxUl9GRTF6dw",
       "title": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NcVVUSGFzZHRfYVJSVFBlTUpqTEJuY1oyLVpYbFpBNmswRkpLNXpDckpucWpFYVR1MzVwU2UtRGRScm9YUFJiWFpfTUE0MENLVVpIalZCNW9mNGJKeXlIemtlZ1VBVm5DOVIxUl9GRTF6dw?oc=5",
-      "source": "新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-09-01T06:16:22.000Z",
-      "description": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 新浪网",
+      "description": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 k.sina.com.cn",
       "titleZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了",
-      "summaryZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 新浪网",
-      "detailsZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 新浪网",
+      "summaryZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 k.sina.com.cn",
+      "detailsZh": "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了 k.sina.com.cn",
       "keyPoints": [
         "杜兰特说，他跟詹姆斯一起录了三首歌，emm，我开始好奇起来了"
       ],
@@ -83,72 +151,26 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMirwFBVV95cUxPLXRWSmN3YU1JYmdfdGlLTjRjT2c0ZjZtY2ZQZWVKaU9JREJ2aTh1ekpxeE14SVliVHhOREpSUHlockVmMXUtR1VtS21oTkw1TlNlMXNYZnlaRXZEQ25CakpoSkJLWDZPbVZKTW5wY1hvWGJzSnBNdFUwdWNrVm9qVWxJN3pYVTlxN0xLSFB1eF9nRHNlcDhsZi1qNGw1ZWtLS3lRMlJxa2VwamVaWjhB",
-      "title": "Blockbuster NBA Trade Idea Sends Rockets' Kevin Durant to Hornets",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXRWSmN3YU1JYmdfdGlLTjRjT2c0ZjZtY2ZQZWVKaU9JREJ2aTh1ekpxeE14SVliVHhOREpSUHlockVmMXUtR1VtS21oTkw1TlNlMXNYZnlaRXZEQ25CakpoSkJLWDZPbVZKTW5wY1hvWGJzSnBNdFUwdWNrVm9qVWxJN3pYVTlxN0xLSFB1eF9nRHNlcDhsZi1qNGw1ZWtLS3lRMlJxa2VwamVaWjhB?oc=5",
-      "source": "roundtable.io",
-      "publishedAt": "2026-09-01T05:55:11.000Z",
-      "description": "Blockbuster NBA Trade Idea Sends Rockets' Kevin Durant to Hornets roundtable.io",
-      "titleZh": "Blockbuster NBA Trade Idea Sends Rockets' Kevin Durant to Hornets",
-      "summaryZh": "Blockbuster NBA Trade Idea Sends Rockets' Kevin Durant to Hornets roundtable.io",
-      "detailsZh": "Blockbuster NBA Trade Idea Sends Rockets' Kevin Durant to Hornets roundtable.io",
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽抖音官方直播间入口说明",
+      "summaryZh": "本条目为固定主页资料，非当日新闻。自2024年起，游戏主播陈泽的直播主阵地已全面转移至抖音平台。",
+      "detailsZh": "【事实】该链接为陈泽在抖音平台的官方直播间固定入口，抖音号为9896719。自2024年合约变动后，其日常游戏直播、粉丝互动及大型活动首播均以此为主阵地，通常于晚间时段开播，具体排期以平台实时状态为准。【评论】此举标志着其个人IP运营重心向短视频与直播生态深度融合，有利于扩大泛娱乐受众基本盘。【传闻】网传其曾短暂尝试多平台同步推流，但已被官方明确否认，目前仍保持抖音独家直播策略。",
       "keyPoints": [
-        "Blockbuster NBA Trade Idea Sends Rockets' Kevin Durant to Hornets"
+        "2024年起转战抖音作为唯一主阵地",
+        "抖音号：9896719",
+        "通常为晚间档直播",
+        "非虎牙旧房间或第三方入口"
       ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxOMzY2NzZNM2lFeGh0ZTVrcHRpejVibmgxVjhNaUZ1dDYwaWFrV1BMZ1Y2N3JsY21aR0tYMGk3WW5sRDd2bzZZaU1ETXJXcUV6c2Jzd3RKTVhYTl9lVWxsdXFCUWhhRk1KWUtIc3JqVFJaZDlQOHVJLUl4Y3ZsQU9VSllB",
-      "title": "媒体人分析火箭未来：杜兰特让球队被动，谢泼德或将取代范乔丹！",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzY2NzZNM2lFeGh0ZTVrcHRpejVibmgxVjhNaUZ1dDYwaWFrV1BMZ1Y2N3JsY21aR0tYMGk3WW5sRDd2bzZZaU1ETXJXcUV6c2Jzd3RKTVhYTl9lVWxsdXFCUWhhRk1KWUtIc3JqVFJaZDlQOHVJLUl4Y3ZsQU9VSllB?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-01T05:51:07.000Z",
-      "description": "媒体人分析火箭未来：杜兰特让球队被动，谢泼德或将取代范乔丹！ 新浪网",
-      "titleZh": "媒体人分析火箭未来：杜兰特让球队被动，谢泼德或将取代范乔丹！",
-      "summaryZh": "媒体人分析火箭未来：杜兰特让球队被动，谢泼德或将取代范乔丹！ 新浪网",
-      "detailsZh": "媒体人分析火箭未来：杜兰特让球队被动，谢泼德或将取代范乔丹！ 新浪网",
-      "keyPoints": [
-        "媒体人分析火箭未来：杜兰特让球队被动，谢泼德或将取代范乔丹！"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxOU2ZiZlFvdUx5a0lESm02WXUxcWtiOEZuUm9YS1dERmNjZmJpWlI4dHczR25UX1ZTdDZiRDRqZDhEbks3VmVWWUI1eE1MNlFic0JxbmlJNDZYTEZZR3RYTGdpemt4eDhwOUJ6M3pmTDdxRUJYMkt2MnRBYTdkRXZ6akNn",
-      "title": "火箭媒体人：杜兰特明年有球员选项 这让火箭交易很被动",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2ZiZlFvdUx5a0lESm02WXUxcWtiOEZuUm9YS1dERmNjZmJpWlI4dHczR25UX1ZTdDZiRDRqZDhEbks3VmVWWUI1eE1MNlFic0JxbmlJNDZYTEZZR3RYTGdpemt4eDhwOUJ6M3pmTDdxRUJYMkt2MnRBYTdkRXZ6akNn?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-01T05:26:39.000Z",
-      "description": "火箭媒体人：杜兰特明年有球员选项 这让火箭交易很被动 新浪网",
-      "titleZh": "火箭媒体人：杜兰特明年有球员选项 这让火箭交易很被动",
-      "summaryZh": "火箭媒体人：杜兰特明年有球员选项 这让火箭交易很被动 新浪网",
-      "detailsZh": "火箭媒体人：杜兰特明年有球员选项 这让火箭交易很被动 新浪网",
-      "keyPoints": [
-        "火箭媒体人：杜兰特明年有球员选项 这让火箭交易很被动"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxNUjJhZjdSOFkxQ0tkOHRTaWd2Nko4cmpiXzBHZUkwYlY3M05nMHNSQzNQWnNlUmtrOVdka0kxeTEwQzQ0LU9OM25vVTB6MWt4Wm5TZHNVbUZoVE82VGdKOVVBSzBQRjJ3MnE0aktfY2JNanlnUUdMdFQtOXk1TzBHNzQ2SGdHVjdKOGRXRC01dw",
-      "title": "杜兰特力挺詹姆斯：但他还是打进了总决赛",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjJhZjdSOFkxQ0tkOHRTaWd2Nko4cmpiXzBHZUkwYlY3M05nMHNSQzNQWnNlUmtrOVdka0kxeTEwQzQ0LU9OM25vVTB6MWt4Wm5TZHNVbUZoVE82VGdKOVVBSzBQRjJ3MnE0aktfY2JNanlnUUdMdFQtOXk1TzBHNzQ2SGdHVjdKOGRXRC01dw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-01T04:31:11.000Z",
-      "description": "杜兰特力挺詹姆斯：但他还是打进了总决赛 新浪网",
-      "titleZh": "杜兰特力挺詹姆斯：但他还是打进了总决赛",
-      "summaryZh": "杜兰特力挺詹姆斯：但他还是打进了总决赛 新浪网",
-      "detailsZh": "杜兰特力挺詹姆斯：但他还是打进了总决赛 新浪网",
-      "keyPoints": [
-        "杜兰特力挺詹姆斯：但他还是打进了总决赛"
-      ],
-      "category": "场外",
-      "importance": 3
+      "category": "直播",
+      "importance": 5
     },
     {
       "subject": "chenze",
@@ -156,7 +178,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-01T10:04:55.746Z",
+      "publishedAt": "2026-09-01T14:52:28.746Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -172,12 +194,12 @@
       "id": "chenze:CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw",
       "title": "陈泽在西安线下现场有哪些互动环节？",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw?oc=5",
-      "source": "cj.sina.cn",
+      "source": "新浪财经",
       "publishedAt": "2026-08-29T08:24:14.000Z",
-      "description": "陈泽在西安线下现场有哪些互动环节？ cj.sina.cn",
+      "description": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
       "titleZh": "陈泽在西安线下现场有哪些互动环节？",
-      "summaryZh": "陈泽在西安线下现场有哪些互动环节？ cj.sina.cn",
-      "detailsZh": "陈泽在西安线下现场有哪些互动环节？ cj.sina.cn",
+      "summaryZh": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
+      "detailsZh": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
       "keyPoints": [
         "陈泽在西安线下现场有哪些互动环节？"
       ],
@@ -185,35 +207,16 @@
       "importance": 4
     },
     {
-      "id": "chenze:chenze-douyin-live",
-      "title": "陈泽- 抖音直播间",
-      "url": "https://live.douyin.com/9896719",
-      "source": "抖音直播",
-      "categoryHint": "直播",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "陈泽- 抖音直播间",
-      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "keyPoints": [
-        "陈泽- 抖音直播间"
-      ],
-      "category": "直播",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw",
       "title": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw?oc=5",
-      "source": "sohu.com",
+      "source": "Sohu",
       "publishedAt": "2026-08-25T22:30:54.000Z",
-      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 sohu.com",
+      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 sohu.com",
-      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 sohu.com",
+      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
+      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "keyPoints": [
         "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽"
       ],
@@ -242,12 +245,12 @@
       "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
       "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "thecover.cn",
+      "source": "封面新闻",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
+      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
       ],
@@ -273,15 +276,15 @@
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n",
+      "id": "chenze:CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o",
       "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n?oc=5",
-      "source": "QQ News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o?oc=5",
+      "source": "封面新闻",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 QQ News",
+      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 QQ News",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 QQ News",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万"
       ],
@@ -296,17 +299,14 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话与公开动态聚合页",
-      "summaryZh": "该链接为新浪微博平台上的固定超话主页，集中收录该写手的过往公开动态、读者互动及话题讨论入口，非单日新闻推送。",
-      "detailsZh": "事实：此页面系新浪微博平台的固定超话社区索引，长期作为该写手过往公开动态、读者互动及话题讨论的归档阵地，提供历史发文检索功能。评论：多数读者认为超话便于整理其碎片化创作轨迹，但亦有分析指出平台算法更新易导致早期高传播内容被流量池稀释。传闻：网络流传该账号曾经历多次更名或数据丢失，经核实仅为超话名称迭代与后台维护，核心内容完整保留。该入口属永久性资料枢纽，不具备单日新闻属性。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "keyPoints": [
-        "微博超话固定主页",
-        "历史动态归档入口",
-        "读者互动讨论区",
-        "非时效性新闻"
+        "大咕咕咕鸡公开动态与超话"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -316,17 +316,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩视频检索与作品朗读聚合页",
-      "summaryZh": "此为B站关键词搜索结果页，汇总该写手相关二创视频、文字朗读音频及网友评测，属固定媒体索引而非独立发布内容。",
-      "detailsZh": "事实：该链接指向哔哩哔哩全站搜索接口，返回结果涵盖用户自制的文字朗读音频、段子解析视频及二次创作剪辑，数据随时间动态更新。评论：UP主群体普遍将其视为互联网流行语演变的重要视听档案，但部分视频存在断章取义或过度娱乐化倾向。传闻：有说法称原账号已注销导致正版音频下架，实则为版权清理与平台规则调整所致，现存内容多为合法授权或合理使用范畴。该页面为工具型索引，需配合具体视频链接使用。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "B站搜索结果页",
-        "二创与朗读视频库",
-        "流行语视听档案",
-        "工具型固定索引"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -336,17 +333,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物与创作背景资料页",
-      "summaryZh": "该条目为维基百科上关于该写手的固定百科页面，系统梳理其常用笔名、创作风格、代表作品及网络文化影响，属静态参考资料。",
-      "detailsZh": "事实：维基百科条目依据公开出版物、媒体报道及网络存档编写，客观记录其从早期论坛发帖到微博爆红的轨迹，标注了主要争议节点与行业评价。评论：学界与媒体多视其为中文互联网“段子手”时代的标志性人物，其语言解构能力对后续自媒体文案产生深远影响，但条目本身保持中立叙述立场。传闻：曾有编辑提议补充其真实身份或商业代言细节，均因缺乏权威信源被驳回，当前内容严格限定于公开可查的创作活动。该页面为长期维护的学术级资料库。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "keyPoints": [
-        "维基固定百科条目",
-        "创作轨迹系统梳理",
-        "中立客观史料记载",
-        "非实时动态更新"
+        "大咕咕咕鸡人物与创作资料"
       ],
-      "category": "讨论",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -356,17 +350,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库平台微博账号数据资料页",
-      "summaryZh": "此页面为第三方数据平台提供的固定账号档案，展示该写手微博公开账号的基础信息、粉丝画像与历史传播指标，非原创内容。",
-      "detailsZh": "事实：该页面抓取并结构化呈现该写手在微博平台的公开运营数据，包括认证状态、活跃周期、爆款内容转发量及受众地域分布等统计维度。评论：营销分析人士常引用此类数据评估早期网红IP的商业转化潜力，但需注意第三方爬虫数据的采样误差与滞后性。传闻：市场曾传言其账号数据存在刷量造假，经交叉比对平台后台日志与同期舆情报告，核心互动指标符合自然增长模型。该页面属商业数据查询入口，仅作辅助参考。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "第三方数据档案页",
-        "公开传播指标统计",
-        "受众画像与活跃度",
-        "辅助参考型入口"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -376,17 +367,14 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：网络段子手创作生态",
-      "summaryZh": "该报道为2015年刊发的历史特稿，聚焦该写手及其同代创作者的语言风格与传播机制，属回顾性行业分析而非当日资讯。",
-      "detailsZh": "事实：界面新闻于2015年5月发布的专题文章，通过采访多位早期微博大V与平台运营人员，还原了该写手在移动互联网初期的内容生产模式与社会反响。评论：作者指出其“无厘头+反讽”的文本策略精准契合了当时网民的情绪宣泄需求，推动了中文互联网模因文化的爆发式增长，但该趋势亦伴随内容同质化批评。传闻：文中提及的某些内部运营数据未经官方证实，属媒体基于行业惯例的合理推演。该文献为固定历史档案，具有研究价值。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "keyPoints": [
-        "2015年历史特稿",
-        "早期创作生态剖析",
-        "模因文化传播研究",
-        "固定文献档案"
+        "大咕咕咕鸡与网络段子手创作生态"
       ],
-      "category": "讨论",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     }
   ]
 }
