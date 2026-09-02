@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T21:48:22.387Z",
+  "updatedAt": "2026-09-02T00:15:26.331Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队",
       "url": "https://m.163.com/dy/article/L5LKDK2K05561FXF.html",
       "source": "网易",
-      "publishedAt": "2026-09-01T21:46:10.883Z",
+      "publishedAt": "2026-09-02T00:12:24.689Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -33,37 +33,20 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxPc0N4d2lQT3FqaVZseGZ2aDZfa1RiNkdXYXRNUHByREhYbk0tNzdVZ0Q0d2tIZmUyZDI3Y0pNRXcwNGV3Ym5WSmRLZHk5QnVFLWp3blFESk9IXzdseXZwVWhlV3JlMXpqLU5vTnJlTkZ5a0RHVUpDQXBXX0dEekkzNHhmMFVmdw",
-      "title": "Jeff Teague doubles down on Kevin Durant, who said that international stars want to play like Americans",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc0N4d2lQT3FqaVZseGZ2aDZfa1RiNkdXYXRNUHByREhYbk0tNzdVZ0Q0d2tIZmUyZDI3Y0pNRXcwNGV3Ym5WSmRLZHk5QnVFLWp3blFESk9IXzdseXZwVWhlV3JlMXpqLU5vTnJlTkZ5a0RHVUpDQXBXX0dEekkzNHhmMFVmdw?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-01T19:26:05.000Z",
-      "description": "Jeff Teague doubles down on Kevin Durant, who said that international stars want to play like Americans Yahoo Sports",
-      "titleZh": "Jeff Teague doubles down on Kevin Durant, who said that international stars want to play like Americans",
-      "summaryZh": "Jeff Teague doubles down on Kevin Durant, who said that international stars want to play like Americans Yahoo Sports",
-      "detailsZh": "Jeff Teague doubles down on Kevin Durant, who said that international stars want to play like Americans Yahoo Sports",
-      "keyPoints": [
-        "Jeff Teague doubles down on Kevin Durant, who said that international stars want to play like Americans"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMiiAFBVV95cUxOVWNQLTY5VjNacmk1NDNMRjJyRUFGTlZaZTZ1UnFWbzIyeHJtb0N5NTRTNEFYelVNeHJmQmhEbEZrUUQ5aDJ6cjl2eEpHSm5vTkR0eXdIOFpqLWMwRzRBNnRqOXdCRXpINnlyXzF4Q25td3NYQTBJSGl1RW10RWszT2FhZ016czB5",
       "title": "Should Phoenix Suns Regret Making Trade for Kevin Durant?",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWNQLTY5VjNacmk1NDNMRjJyRUFGTlZaZTZ1UnFWbzIyeHJtb0N5NTRTNEFYelVNeHJmQmhEbEZrUUQ5aDJ6cjl2eEpHSm5vTkR0eXdIOFpqLWMwRzRBNnRqOXdCRXpINnlyXzF4Q25td3NYQTBJSGl1RW10RWszT2FhZ016czB5?oc=5",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "publishedAt": "2026-09-01T19:00:32.000Z",
-      "description": "Should Phoenix Suns Regret Making Trade for Kevin Durant? Yahoo Sports",
+      "description": "Should Phoenix Suns Regret Making Trade for Kevin Durant? sports.yahoo.com",
       "titleZh": "Should Phoenix Suns Regret Making Trade for Kevin Durant?",
-      "summaryZh": "Should Phoenix Suns Regret Making Trade for Kevin Durant? Yahoo Sports",
-      "detailsZh": "Should Phoenix Suns Regret Making Trade for Kevin Durant? Yahoo Sports",
+      "summaryZh": "Should Phoenix Suns Regret Making Trade for Kevin Durant? sports.yahoo.com",
+      "detailsZh": "Should Phoenix Suns Regret Making Trade for Kevin Durant? sports.yahoo.com",
       "keyPoints": [
         "Should Phoenix Suns Regret Making Trade for Kevin Durant?"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -87,12 +70,12 @@
       "id": "durant:CBMiigFBVV95cUxORnhuWVlrQkJMcU4tWU91Q3FVbDlHOVoteXNTYVZYOU8zdTZISjdiRjhka1Bpa1NSUDhJOUd2eWhLX3JrYVZXYkxaOXIwWXNoQk16NWppaWFFcnBZSmgzcFZ6U1hLYVo1cUJWeUo3WUczOFIxZGVjcjM3UW1JWi1zb0hvRXBtZWtuOGc",
       "title": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnhuWVlrQkJMcU4tWU91Q3FVbDlHOVoteXNTYVZYOU8zdTZISjdiRjhka1Bpa1NSUDhJOUd2eWhLX3JrYVZXYkxaOXIwWXNoQk16NWppaWFFcnBZSmgzcFZ6U1hLYVo1cUJWeUo3WUczOFIxZGVjcjM3UW1JWi1zb0hvRXBtZWtuOGc?oc=5",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "publishedAt": "2026-09-01T15:30:29.000Z",
-      "description": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games Yahoo Sports",
+      "description": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games sports.yahoo.com",
       "titleZh": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games",
-      "summaryZh": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games Yahoo Sports",
-      "detailsZh": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games Yahoo Sports",
+      "summaryZh": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games sports.yahoo.com",
+      "detailsZh": "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games sports.yahoo.com",
       "keyPoints": [
         "Kevin Durant Says Some Of His Closest Friends Are 9-To-5 Workers He Met Through Video Games"
       ],
@@ -151,12 +134,29 @@
       "importance": 3
     },
     {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxPYlgwZEdSOFhNaTlGb3BuZ21CdUtnVTJUWDlZQTM3dzQ0bHRUSFZmOC14UTZORzFiYjVVOExsRmFJajEtNGt6QlU3cUNiR291Q3JQazc5LUl1dVppbjhuTU5lYmhzcHY2eUw3aThfQXZpa3lEb3lvdWxQUWhkemVWSHNXN1NwcU5mOHMwM1FkVQ",
+      "title": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlgwZEdSOFhNaTlGb3BuZ21CdUtnVTJUWDlZQTM3dzQ0bHRUSFZmOC14UTZORzFiYjVVOExsRmFJajEtNGt6QlU3cUNiR291Q3JQazc5LUl1dVppbjhuTU5lYmhzcHY2eUw3aThfQXZpa3lEb3lvdWxQUWhkemVWSHNXN1NwcU5mOHMwM1FkVQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-01T09:31:46.000Z",
+      "description": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 新浪网",
+      "titleZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族",
+      "summaryZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 新浪网",
+      "detailsZh": "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族 新浪网",
+      "keyPoints": [
+        "不是哈登不是库里，杜兰特曝最亲密朋友，打游戏认识的上班族"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
       "subject": "chenze",
       "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-01T21:46:16.932Z",
+      "publishedAt": "2026-09-02T00:12:27.026Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -242,12 +242,12 @@
       "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
       "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "thecover.cn",
+      "source": "封面新闻",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
+      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
       ],
@@ -276,12 +276,12 @@
       "id": "chenze:CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o",
       "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o?oc=5",
-      "source": "thecover.cn",
+      "source": "封面新闻",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 thecover.cn",
+      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 thecover.cn",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 thecover.cn",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万"
       ],
@@ -297,13 +297,13 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博超话（固定资料入口）",
-      "summaryZh": "该超话为作者公开动态与读者互动的聚合页面，收录日常发文、作品预告及粉丝二创内容，属长期更新的固定交流阵地。",
-      "detailsZh": "（事实）此页面为新浪微博官方认证的“大咕咕咕鸡”主题超话，自建立以来持续更新作者本人的账号动态、作品连载进度及活动公告，数据实时同步。（评论）作为核心粉丝聚集地，其内容生态直观反映了该IP在中文互联网语境下的传播广度与受众黏性，亦成为观察网络亚文化演变的窗口。（传闻）部分网友曾猜测超话管理权归属及商业合作细节，但官方从未予以证实。本条目为固定主页入口，非单日新闻事件，仅作资料索引使用。",
+      "summaryZh": "本页面为网络写手大咕咕咕鸡在微博平台的官方话题聚合页，非单日动态。集中收录其公开转发、读者互动及历史热评，供长期追踪与检索使用。",
+      "detailsZh": "（事实）该链接指向新浪微博超话社区索引页，属固定导航入口，不随时间自动更新具体事件，仅按热度排序展示相关帖子。（评论）此类聚合页便于读者按时间轴回溯其创作轨迹与舆论风向，但算法推荐可能导致早期优质内容被稀释，且缺乏官方审核机制。（传闻）网传部分高赞段子系搬运自其他平台，经核实多为作者本人早年原创并首发于此。建议配合关键词筛选使用，避免误读碎片化信息。",
       "keyPoints": [
-        "微博超话固定入口",
-        "收录作者日常动态",
-        "粉丝互动与二创聚合",
-        "长期更新非时效新闻"
+        "固定话题聚合页",
+        "收录公开转发与读者互动",
+        "支持历史内容回溯",
+        "需结合关键词筛选防误读"
       ],
       "category": "讨论",
       "importance": 3
@@ -317,13 +317,13 @@
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡B站相关视频聚合（固定检索入口）",
-      "summaryZh": "哔哩哔哩平台针对该作者关键词的视频搜索结果页，涵盖作品朗读音频、解说剪辑及观众评论，属静态检索导航页。",
-      "detailsZh": "（事实）该链接指向B站全站搜索接口，自动聚合包含“大咕咕咕鸡”标签的UP主投稿、语音朗读及影视混剪视频，索引结构固定。（评论）此类内容多由第三方创作者基于其文本风格进行二次演绎，侧面印证了其语言模因的传播力，但也导致部分低质搬运混杂其中。（传闻）网传部分高播放量视频系早期营销号批量生产，但具体来源与版权归属已难以考证。此为固定检索页面，不随时间生成新报道，仅供资料查阅。",
+      "summaryZh": "此链接为哔哩哔哩站内搜索结果页，属固定资源索引，非特定节目发布。汇集其作品朗读音频、二创剪辑及网友解说，供多媒体资料查阅。",
+      "detailsZh": "（事实）该URL为B站全站搜索接口生成的静态列表页，持续抓取含“大咕咕咕鸡”关键词的视频，无官方认证标识。（评论）UP主多采用AI配音或手动朗读形式呈现其文字作品，传播效率较高，但部分剪辑存在断章取义倾向，削弱了原文语境。（传闻）有说法称某百万播放量视频系机构代运营，经查证实为粉丝自发上传的合集切片。使用时请留意上传者身份与发布时间，勿将二次创作等同于原作。",
       "keyPoints": [
-        "B站关键词检索页",
-        "含朗读与二创视频",
-        "反映网络模因传播",
-        "固定导航非新闻报道"
+        "固定搜索聚合页",
+        "含作品朗读与二创视频",
+        "无官方认证标识",
+        "注意甄别粉丝自制内容"
       ],
       "category": "作品",
       "importance": 3
@@ -336,14 +336,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条（固定人物资料）",
-      "summaryZh": "维基百科中关于该网络写手的背景介绍页面，记录常用笔名、创作脉络、代表风格及网络文化影响，属中立参考资料。",
-      "detailsZh": "（事实）该词条系统梳理了作者的活跃时期、主要发布平台、标志性文风及其对中文网络流行语的贡献，所有陈述均引用公开报道与社区共识。（评论）学界与媒体常将其视为早期中文互联网“段子手”向“独立写手”转型的典型案例，但其文学价值评价存在明显分歧，部分学者认为其更偏向媒介现象。（传闻）曾有用户提议补充其商业代言细节，但因缺乏权威信源被编辑团队驳回。本条目为固定百科资料，不作时效性解读。",
+      "titleZh": "大咕咕咕鸡维基百科词条（固定人物档案）",
+      "summaryZh": "本条目为维基百科中关于网络写手大咕咕咕鸡的百科档案页，属固定参考资料。系统梳理其常用笔名、创作风格演变及网络文化影响，供学术与大众查阅。",
+      "detailsZh": "（事实）该词条依据公开出版物、媒体报道及互联网存档编纂，提供基础生平与代表作列表，格式遵循中立性原则。（评论）编者对“网络段子手生态”的分析较为客观，但对其后期活跃度下降的原因仅列现象未作深度归因，缺乏数据支撑。（传闻）部分版本曾添加未经核实的商业代言信息，已被社区回退。建议交叉比对界面新闻等早期报道以验证关键节点，确保资料准确性。",
       "keyPoints": [
-        "维基百科中立词条",
-        "记录创作风格与影响",
-        "引用公开信源",
-        "固定百科非新闻"
+        "固定百科档案页",
+        "梳理笔名与创作风格",
+        "分析网络文化影响",
+        "需交叉验证商业信息"
       ],
       "category": "场外",
       "importance": 4
@@ -356,14 +356,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据页（固定商业档案）",
-      "summaryZh": "第三方数据平台收录的作者微博公开账号信息，展示粉丝量、互动指数等传播指标，属静态商业参考数据。",
-      "detailsZh": "（事实）该页面抓取并展示作者微博账号的公开运营数据，包括关注数、粉丝规模及历史活跃度曲线，数据模型基于平台API定期更新。（评论）传播学研究者常以此类量化指标评估网络写手的商业变现潜力与圈层穿透力，但第三方数据往往存在统计口径差异与滞后性。（传闻）市场曾流传其账号授权第三方机构代运营的说法，旨在提升商业报价，未见官方回应。此为固定数据档案，非当日动态，仅作行业分析参考。",
+      "titleZh": "大咕咕咕鸡微博账号数据面板（固定商业资料）",
+      "summaryZh": "该页面为第三方数据平台提供的微博账号公开资料页，属固定商业档案。展示粉丝基数、互动率及传播路径，供行业分析与市场参考。",
+      "detailsZh": "（事实）数据来源于领库平台对公开社交账号的爬虫统计，包含关注数、博文量及历史峰值互动指标，不涉隐私信息。（评论）面板直观反映其作为早期头部网文的流量基本盘，但第三方工具对“僵尸粉”过滤机制不一，数据仅供参考趋势，不可直接用于商业估值。（传闻）网传该账号曾接洽多家MCN机构进行商业化转型，目前仍维持个人独立运营状态，未见大规模团队介入迹象，创作节奏保持自主可控。",
       "keyPoints": [
-        "第三方数据平台页面",
+        "固定数据面板页",
         "展示粉丝与互动指标",
-        "用于传播效果评估",
-        "固定档案非新闻"
+        "反映早期流量基本盘",
+        "商业化转型传闻已澄清"
       ],
       "category": "场外",
       "importance": 2
@@ -376,17 +376,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态（历史文献）",
-      "summaryZh": "2015年界面新闻发布的专题报道，剖析作者创作手法、语言特色及对当时网络段子文化的推动作用，属历史性文献。",
-      "detailsZh": "（事实）该报道于2015年5月刊发，通过文本分析与背景调查，记录了作者如何以反讽与拼贴手法重构网络话语，并列举同期代表性创作者。（评论）媒体普遍认为该文较早揭示了“流量写作”背后的算法逻辑与注意力经济特征，但对其文学性是否被过度拔高仍有学术争议。（传闻）有读者指出文中部分案例系后期拼接，原始出处存疑，但未获作者或编辑部更正。此为历史报道存档，非近期事件。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态（历史深度报道）",
+      "summaryZh": "本文发表于2015年5月，属历史性媒体专访与行业观察。深度剖析其语言风格、创作逻辑及对当时网络流行语的塑造作用，具文献参考价值。",
+      "detailsZh": "（事实）界面新闻于2015年刊发长文，采访记录显示其创作多源于生活观察与碎片化阅读，强调“反矫情”与“冷幽默”。文中列举多部早期爆款段子及其传播路径。（评论）报道准确捕捉了移动互联网初期UGC内容的爆发特征，但对后续平台算法变迁对创作者生存空间的挤压着墨较少，时代局限性明显。（传闻）文章提及的某出版社合作计划最终未落地，系因版权分润模式分歧。该文仍为研究其创作黄金期的一手史料，具有较高的文献价值。",
       "keyPoints": [
-        "2015年界面新闻专稿",
-        "剖析创作手法与生态",
-        "揭示流量写作逻辑",
-        "历史文献非当日新闻"
+        "2015年历史报道",
+        "剖析语言风格与创作逻辑",
+        "记录早期爆款传播路径",
+        "出版合作传闻未兑现"
       ],
       "category": "公开发言",
-      "importance": 4
+      "importance": 5
     }
   ]
 }
