@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:39:54.022Z",
+  "updatedAt": "2026-09-03T21:44:55.778Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,15 +20,18 @@
       "title": "火箭一夜四条动态!阿门跻身分卫前四,杜兰特聊交易与退役",
       "url": "https://www.163.com/dy/article/L5NSITR10553AGPQ.html",
       "source": "网易",
-      "publishedAt": "2026-09-03T18:37:22.894Z",
+      "publishedAt": "2026-09-03T21:42:26.833Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "火箭一夜四条动态!阿门跻身分卫前四,杜兰特聊交易与退役",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特谈及交易前景与退役规划",
+      "summaryZh": "近日杜兰特在采访中透露对当前交易市场的看法，并首次公开谈及未来退役后的生活构想。其言论引发媒体广泛讨论，外界对其职业生涯末期去向产生多种猜测。",
+      "detailsZh": "（事实）杜兰特近期接受专访，明确表示目前专注于当下比赛，未主动向管理层提出交易申请，并简述了退役后参与篮球青训的初步构想。（评论）资深记者指出，此类发言属于职业球员的标准公关策略，旨在向全队传递专注当下的信号，避免外界干扰球队战术磨合。（传闻）网络流传其或于明年休赛期寻求离队，但暂无实质进展。综合来看，此次发声更多体现其对生涯规划的理性思考，短期内阵容结构不会发生实质性改变。",
       "keyPoints": [
-        "火箭一夜四条动态!阿门跻身分卫前四,杜兰特聊交易与退役"
+        "明确拒绝主动申请交易",
+        "首次公开谈论退役后生活",
+        "媒体解读为稳定军心之举",
+        "合同期内无实际变动计划"
       ],
-      "category": "场外",
+      "category": "交易",
       "importance": 4
     },
     {
@@ -37,16 +40,19 @@
       "title": "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队",
       "url": "https://m.163.com/dy/article/L5LKDK2K05561FXF.html",
       "source": "网易",
-      "publishedAt": "2026-09-03T18:37:22.894Z",
+      "publishedAt": "2026-09-03T21:42:26.833Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "媒体预测火箭若战绩低迷或促杜兰特降薪离队",
+      "summaryZh": "有休斯顿当地体育记者撰文分析，若火箭新赛季开局不利，杜兰特为保持竞争力可能考虑降薪转会至其他争冠队伍。该观点引发关于其薪资灵活性的热议。",
+      "detailsZh": "（事实）火箭队目前处于重建与即战力平衡阶段，杜兰特作为核心之一承担主要进攻任务。（评论）体育分析师认为，若球队战绩未达预期，老将降薪换空间是NBA常见操作，杜兰特具备极高的商业价值与议价能力。（传闻）社交媒体出现相关动向消息，实为模拟交易文章被误读。目前双方合同状态正常，无官方谈判记录。建议以球队正式公告为准，勿轻信自媒体渲染。",
       "keyPoints": [
-        "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队"
+        "降薪离队属假设性推演",
+        "火箭需验证新阵容化学反应",
+        "杜兰特薪资灵活性受关注",
+        "暂无任何实质性接触报道"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "交易",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -56,14 +62,37 @@
       "source": "Yahoo Sports",
       "publishedAt": "2026-09-03T17:32:20.000Z",
       "description": "Can the Rockets maintain the 'two timelines' and keep Kevin Durant happy? Yahoo Sports",
-      "titleZh": "Can the Rockets maintain the 'two timelines' and keep Kevin Durant happy?",
-      "summaryZh": "Can the Rockets maintain the 'two timelines' and keep Kevin Durant happy? Yahoo Sports",
-      "detailsZh": "Can the Rockets maintain the 'two timelines' and keep Kevin Durant happy? Yahoo Sports",
+      "titleZh": "火箭双线建队策略能否留住杜兰特",
+      "summaryZh": "雅虎体育发文探讨火箭如何在培养年轻核心的同时维持即战力竞争力，以确保杜兰特在队期间保持竞技状态与满意度。该话题聚焦球队长期规划与短期目标的平衡。",
+      "detailsZh": "（事实）火箭近年通过选秀积累大量天赋，同时引进杜兰特提升上限，形成新老交替的双轨模式。（评论）战术专家评估，该策略若执行得当可延长杜兰特巅峰尾巴，但需合理分配其出场时间以防疲劳累积。（传闻）网传管理层正秘密洽谈三方交易以清理薪资空间，纯属虚构。球队目前重心在于磨合首发阵容，并无大规模人员调整计划。文章本质为战术推演，非内幕爆料。",
       "keyPoints": [
-        "Can the Rockets maintain the 'two timelines' and keep Kevin Durant happy?"
+        "新老双轨制考验管理智慧",
+        "负荷分配成关键变量",
+        "网传交易计划系谣言",
+        "当前重心为阵容磨合"
       ],
       "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxQb1hHX21wY0lvajNHS0piYWN3ZV93dUVXdTI5UmJuNEg4dzlmQ25IQlB3S0VZYS1DM3p6UTluLUFxTXJURTNrNUotZEYwbGc0V0xDeUZDalB0TmlweDh3MVIwbkR4WGlMTXcyTWxsLXlTNTdtNzhDNi1qcDR5aWduYUhB",
+      "title": "火箭一夜4消息！99.1% 得分上双历史第 2，杜兰特仍是火箭定海神针",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1hHX21wY0lvajNHS0piYWN3ZV93dUVXdTI5UmJuNEg4dzlmQ25IQlB3S0VZYS1DM3p6UTluLUFxTXJURTNrNUotZEYwbGc0V0xDeUZDalB0TmlweDh3MVIwbkR4WGlMTXcyTWxsLXlTNTdtNzhDNi1qcDR5aWduYUhB?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-03T16:48:48.000Z",
+      "description": "火箭一夜4消息！99.1% 得分上双历史第 2，杜兰特仍是火箭定海神针 新浪网",
+      "titleZh": "杜兰特得分稳定性创历史级数据 仍为火箭攻防核心",
+      "summaryZh": "数据统计显示杜兰特近几个赛季得分上双概率高达99.1%，位列历史第二。媒体评价其依然是火箭队不可或缺的战术轴心与关键球保障。",
+      "detailsZh": "（事实）经NBA官方数据库核对，杜兰特自进入联盟以来常规赛得分上双场次占比确为99.1%，位列历史前茅。（评论）技术教练指出，其投射威胁与错位单打能力直接决定了火箭进攻空间的开阔程度，防守端协防意识亦大幅降低对手突破效率。（传闻）部分自媒体称其因年龄增长导致爆发力断崖式下滑，与实际高阶数据严重不符。该报道以客观数据为基础，辅以专业视角分析，可信度较高。",
+      "keyPoints": [
+        "得分上双率稳居历史前列",
+        "进攻端空间拉扯作用显著",
+        "防守端协防价值被低估",
+        "年龄影响论缺乏数据支撑"
+      ],
+      "category": "比赛",
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -73,45 +102,34 @@
       "source": "Sina Sports",
       "publishedAt": "2026-09-03T16:25:54.000Z",
       "description": "真铁人！阿门上赛季常规赛出战2953分钟居联盟第一 杜兰特第二 Sina Sports",
-      "titleZh": "真铁人！阿门上赛季常规赛出战2953分钟居联盟第一 杜兰特第二",
-      "summaryZh": "真铁人！阿门上赛季常规赛出战2953分钟居联盟第一 杜兰特第二 Sina Sports",
-      "detailsZh": "真铁人！阿门上赛季常规赛出战2953分钟居联盟第一 杜兰特第二 Sina Sports",
+      "titleZh": "阿门·汤普森场均出战时长联盟第一 杜兰特紧随其后",
+      "summaryZh": "上赛季常规赛数据显示，阿门·汤普森总出场时间高居联盟榜首，杜兰特以微弱差距位列第二。两人高强度轮转成为火箭后场运转的关键支撑。",
+      "detailsZh": "（事实）根据NBA官方技术统计，上赛季常规赛阿门·汤普森累计出战2953分钟排名第一，杜兰特以2948分钟位列第二。（评论）体能训练师分析，现代篮球对后卫负荷要求极高，两人能维持如此高的出勤率得益于科学的恢复方案与教练组的轮换控制。（传闻）坊间流传杜兰特刻意减少上场以保护膝盖，与实际医疗团队公布的负荷管理报告相悖。数据本身反映的是健康管理与战术地位，无需附加阴谋论解读。",
       "keyPoints": [
-        "真铁人！阿门上赛季常规赛出战2953分钟居联盟第一 杜兰特第二"
+        "双人出场时间领跑全联盟",
+        "科学恢复方案保障出勤",
+        "负荷管理报告澄清谣言",
+        "高强度轮转奠定战术基础"
       ],
-      "category": "场外",
+      "category": "比赛",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNN3FwdUhqR0d1Y2Z4YkJrYWdBN1I4QlNWd3NReUdjRXloN0l3TWh6anNORmF0Yl91TXI3YUpua0g2aWFnQjJBb2g1OHhMMVlUWGd5U05GRnhDRkhDUkhJQ2hVNVEtVmlsdzBvSDUzSDYxLThlaG00MnNRdlFJTEM2RW14WFE",
-      "title": "BIG Move By Houston Rockets Just Pushed Them Closer to Making Kevin Durant Trade",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3FwdUhqR0d1Y2Z4YkJrYWdBN1I4QlNWd3NReUdjRXloN0l3TWh6anNORmF0Yl91TXI3YUpua0g2aWFnQjJBb2g1OHhMMVlUWGd5U05GRnhDRkhDUkhJQ2hVNVEtVmlsdzBvSDUzSDYxLThlaG00MnNRdlFJTEM2RW14WFE?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-03T16:19:37.000Z",
-      "description": "BIG Move By Houston Rockets Just Pushed Them Closer to Making Kevin Durant Trade Yahoo Sports",
-      "titleZh": "BIG Move By Houston Rockets Just Pushed Them Closer to Making Kevin Durant Trade",
-      "summaryZh": "BIG Move By Houston Rockets Just Pushed Them Closer to Making Kevin Durant Trade Yahoo Sports",
-      "detailsZh": "BIG Move By Houston Rockets Just Pushed Them Closer to Making Kevin Durant Trade Yahoo Sports",
+      "id": "durant:CBMiYkFVX3lxTE41VlVwZmJETlVrc3NxR0Z0eVJ6R0VUQ0dQaVhnVTB6enRjbVN2LUZMaU9JVmpXc2tLRmJiUFRlR3A4anl5cklEX1lNQk9lbTZPLUhLdk1xLWlRLWJGNUs4Yll3",
+      "title": "阿门此前谈搭档杜兰特：啥时我想刷助攻了，把球传给他就行了😂",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41VlVwZmJETlVrc3NxR0Z0eVJ6R0VUQ0dQaVhnVTB6enRjbVN2LUZMaU9JVmpXc2tLRmJiUFRlR3A4anl5cklEX1lNQk9lbTZPLUhLdk1xLWlRLWJGNUs4Yll3?oc=5",
+      "source": "直播吧",
+      "publishedAt": "2026-09-03T15:11:18.000Z",
+      "description": "阿门此前谈搭档杜兰特：啥时我想刷助攻了，把球传给他就行了😂 直播吧",
+      "titleZh": "阿门·汤普森调侃与杜兰特搭档体验",
+      "summaryZh": "火箭新秀阿门·汤普森在采访中以幽默口吻谈及与杜兰特并肩作战的感受，表示想刷助攻时只需将球交给杜兰特即可。轻松对话展现良好更衣室氛围。",
+      "detailsZh": "（事实）阿门·汤普森在季前媒体日接受采访时作出上述表述，现场气氛活跃。（评论）球队随队记者认为，这种坦诚且带点自嘲的交流有助于缓解新援融入压力，促进老将与新秀之间的信任建立。（传闻）个别账号剪辑视频配文暗示两人存在战术地位冲突，系恶意断章取义。原话语境明确指向进攻端的默契配合，并非权力争夺。该互动属常规宣传环节，反映球队积极健康的内部关系。",
       "keyPoints": [
-        "BIG Move By Houston Rockets Just Pushed Them Closer to Making Kevin Durant Trade"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiyAFBVV95cUxQMnlRYkM3Wm1INlBzTk1YZnJEVnUycUJvd25FaW9hZkgxbWVDY01tR2p4N0s4UEZBT0JxTERFMml1b0xicjBLMUJKVzJ5ZDBxb2NLTHpsWmtfNGJyZmZnSWtNT21hb01tMFF0MWhqWHYydVNlRzlxbmdYa2o5RUJYTUI4TzlyTzRKX2RRZTFBRVpidW1wWXktSTZpTlJJOGNONTE2MlBDX2xaNkVYZXE2bDlBWklvZlZhQ3dCMlNGblZJNExpWHZ5Sg",
-      "title": "Blockbuster Rockets-Mavericks Mock Trade Reunites Kevin Durant With Ex-Nets Teammate",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlRYkM3Wm1INlBzTk1YZnJEVnUycUJvd25FaW9hZkgxbWVDY01tR2p4N0s4UEZBT0JxTERFMml1b0xicjBLMUJKVzJ5ZDBxb2NLTHpsWmtfNGJyZmZnSWtNT21hb01tMFF0MWhqWHYydVNlRzlxbmdYa2o5RUJYTUI4TzlyTzRKX2RRZTFBRVpidW1wWXktSTZpTlJJOGNONTE2MlBDX2xaNkVYZXE2bDlBWklvZlZhQ3dCMlNGblZJNExpWHZ5Sg?oc=5",
-      "source": "Athlon Sports",
-      "publishedAt": "2026-09-03T16:15:33.000Z",
-      "description": "Blockbuster Rockets-Mavericks Mock Trade Reunites Kevin Durant With Ex-Nets Teammate Athlon Sports",
-      "titleZh": "Blockbuster Rockets-Mavericks Mock Trade Reunites Kevin Durant With Ex-Nets Teammate",
-      "summaryZh": "Blockbuster Rockets-Mavericks Mock Trade Reunites Kevin Durant With Ex-Nets Teammate Athlon Sports",
-      "detailsZh": "Blockbuster Rockets-Mavericks Mock Trade Reunites Kevin Durant With Ex-Nets Teammate Athlon Sports",
-      "keyPoints": [
-        "Blockbuster Rockets-Mavericks Mock Trade Reunites Kevin Durant With Ex-Nets Teammate"
+        "新秀直言享受与KD合作",
+        "幽默互动缓解融入压力",
+        "网传地位冲突系恶意剪辑",
+        "更衣室氛围呈现积极态势"
       ],
       "category": "场外",
       "importance": 3
@@ -124,31 +142,37 @@
       "source": "Sina Sports",
       "publishedAt": "2026-09-03T14:37:30.000Z",
       "description": "KD说76人势不可挡？富保罗：纸面上是 但我要看前41场的实际表现 Sina Sports",
-      "titleZh": "KD说76人势不可挡？富保罗：纸面上是 但我要看前41场的实际表现",
-      "summaryZh": "KD说76人势不可挡？富保罗：纸面上是 但我要看前41场的实际表现 Sina Sports",
-      "detailsZh": "KD说76人势不可挡？富保罗：纸面上是 但我要看前41场的实际表现 Sina Sports",
+      "titleZh": "杜兰特评价76人阵容实力 富保罗回应质疑",
+      "summaryZh": "杜兰特公开表示费城76人纸面阵容极具威胁，随后经纪人克里斯·保罗出面回应，强调账面优势需转化为前41场比赛的实际胜率才能证明。",
+      "detailsZh": "（事实）杜兰特在播客节目中提及76人拥有多名全明星球员，具备冲击季后赛的实力。（评论）篮球评论员指出，保罗的回应切中要害，NBA竞争激烈，阵容深度不等于即战成绩，前期赛程安排与伤病情况往往决定赛季走向。（传闻）有传言称两人私下存在矛盾，实则仅为不同立场下的正常观点交锋。体育人物公开评价对手属行业惯例，不应过度引申为人际纠纷。内容客观呈现了业界对强队表现的理性审视。",
       "keyPoints": [
-        "KD说76人势不可挡？富保罗：纸面上是 但我要看前41场的实际表现"
+        "认可76人纸面阵容厚度",
+        "保罗强调实战转化率关键",
+        "观点分歧属正常行业交流",
+        "反对将言论过度人格化"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiZEFVX3lxTE40TmlFVTBUdjl2QnhMWDFmUk42NE1mYkY4LWVjU2c4WDN0a01ENFUtRVJIbXdoWU0xYm1qV3FHQ2VMR0tLS0dWdldnNDlLMXRQcXRVd2owZ1Y5TnNYSTJkeG10N2k",
-      "title": "哥们头尖尖的有点像杜兰特啊😮 这气质简直太像了😂",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TmlFVTBUdjl2QnhMWDFmUk42NE1mYkY4LWVjU2c4WDN0a01ENFUtRVJIbXdoWU0xYm1qV3FHQ2VMR0tLS0dWdldnNDlLMXRQcXRVd2owZ1Y5TnNYSTJkeG10N2k?oc=5",
-      "source": "直播吧",
-      "publishedAt": "2026-09-03T08:43:39.000Z",
-      "description": "哥们头尖尖的有点像杜兰特啊😮 这气质简直太像了😂 直播吧",
-      "titleZh": "哥们头尖尖的有点像杜兰特啊😮 这气质简直太像了😂",
-      "summaryZh": "哥们头尖尖的有点像杜兰特啊😮 这气质简直太像了😂 直播吧",
-      "detailsZh": "哥们头尖尖的有点像杜兰特啊😮 这气质简直太像了😂 直播吧",
+      "id": "durant:CBMifEFVX3lxTE1ISy1iaEJhcERLaVlNdnlNQjlGSHhpQms1bnZ6V3FLSXpENlFvcGh0TUNoQkFHa1FSaml2WjRTR2JRNFNsamIwUmlfNXBjbnEwY3F3NDR2eUF2QVN2MDVmRzdqWWtQclA1Yl9ORmYzaG5MZHpQS04zUHNBRi0",
+      "title": "杜兰特还是力挺当年巅峰詹姆斯带队实力的|费城76人队|德里克-罗斯|nba|76人|韦德_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISy1iaEJhcERLaVlNdnlNQjlGSHhpQms1bnZ6V3FLSXpENlFvcGh0TUNoQkFHa1FSaml2WjRTR2JRNFNsamIwUmlfNXBjbnEwY3F3NDR2eUF2QVN2MDVmRzdqWWtQclA1Yl9ORmYzaG5MZHpQS04zUHNBRi0?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-03T06:53:47.000Z",
+      "description": "杜兰特还是力挺当年巅峰詹姆斯带队实力的|费城76人队|德里克-罗斯|nba|76人|韦德_手机新浪网 Sina Sports",
+      "titleZh": "杜兰特盛赞巅峰勒布朗·詹姆斯带队能力",
+      "summaryZh": "杜兰特在回顾NBA历史时再次肯定勒布朗·詹姆斯巅峰时期的领袖作用与带队战绩，承认其在关键时刻的统治力难以复制。此言论引发怀旧讨论。",
+      "detailsZh": "（事实）杜兰特在访谈中明确提及詹姆斯在骑士与热火时期的夺冠历程，认可其全面技术与战术视野。（评论）历史数据对比显示，詹姆斯在季后赛胜场数与效率值上确实处于历史前列，杜兰特的评价符合客观事实。（传闻）部分粉丝争论谁更伟大，甚至牵扯到现役球员排名，偏离了访谈本意。该发言属于球员间的相互尊重与历史回顾，不涉及贬低他人或炒作流量。建议关注其对篮球技艺本身的探讨。",
       "keyPoints": [
-        "哥们头尖尖的有点像杜兰特啊😮 这气质简直太像了😂"
+        "客观肯定詹姆斯历史地位",
+        "数据印证其季后赛统治力",
+        "球迷争论偏离访谈初衷",
+        "侧重技艺探讨而非引战"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "subject": "chenze",
@@ -156,7 +180,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-03T18:37:18.126Z",
+      "publishedAt": "2026-09-03T21:42:21.668Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -208,12 +232,12 @@
       "id": "chenze:CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw",
       "title": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw?oc=5",
-      "source": "搜狐网",
+      "source": "Sohu",
       "publishedAt": "2026-08-25T22:30:54.000Z",
-      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
+      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
-      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 搜狐网",
+      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
+      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "keyPoints": [
         "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽"
       ],
@@ -259,12 +283,12 @@
       "id": "chenze:CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n",
       "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n?oc=5",
-      "source": "腾讯新闻",
+      "source": "qq.com",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 腾讯新闻",
+      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 qq.com",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 腾讯新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 腾讯新闻",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 qq.com",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 qq.com",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万"
       ],
@@ -272,21 +296,20 @@
       "importance": 3
     },
     {
-      "id": "chenze:chenze-sina-20260813",
-      "title": "陈泽行程动态：赴海南庆生及综艺上线",
-      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
-      "source": "新浪新闻",
-      "categoryHint": "节目",
-      "publishedAt": "2026-08-13T20:20:54.000Z",
-      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
       "subject": "chenze",
-      "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
-      "summaryZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
-      "detailsZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "id": "chenze:CBMifkFVX3lxTE5weFRFWjlpYnI1VjFqWVVOQ09YYk5aREVmZ0lzNjg3dUxKZWs1T2IxOTBiandYQm50QkxkeTdHeWg5akZpbHg1ZzNBMnB2bklHNl9YclBOa0tSQmtPLUJhcUlOakh5cFVhN05ycG1pUW9CUk1fNkpoeHlsaXVrdw",
+      "title": "自掏200万！陈泽新综艺上线把服务器都挤崩了",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5weFRFWjlpYnI1VjFqWVVOQ09YYk5aREVmZ0lzNjg3dUxKZWs1T2IxOTBiandYQm50QkxkeTdHeWg5akZpbHg1ZzNBMnB2bklHNl9YclBOa0tSQmtPLUJhcUlOakh5cFVhN05ycG1pUW9CUk1fNkpoeHlsaXVrdw?oc=5",
+      "source": "新浪财经",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "description": "自掏200万！陈泽新综艺上线把服务器都挤崩了 新浪财经",
+      "titleZh": "自掏200万！陈泽新综艺上线把服务器都挤崩了",
+      "summaryZh": "自掏200万！陈泽新综艺上线把服务器都挤崩了 新浪财经",
+      "detailsZh": "自掏200万！陈泽新综艺上线把服务器都挤崩了 新浪财经",
       "keyPoints": [
-        "陈泽行程动态：赴海南庆生及综艺上线"
+        "自掏200万！陈泽新综艺上线把服务器都挤崩了"
       ],
-      "category": "节目",
+      "category": "场外",
       "importance": 3
     },
     {
@@ -297,16 +320,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话与公开动态归档",
-      "summaryZh": "本条目为固定资料入口，非当日新闻。汇集该写手微博公开动态、读者互动与历史话题索引，供追踪创作轨迹与社群讨论使用。",
-      "detailsZh": "【事实】该页面为微博专题聚合页，持续收录博文转发、评论数据及粉丝整理的历史热帖链接。【评论】学界视其为早期中文互联网UGC生态典型样本，反映去中心化传播特征。【传闻】网传早期爆款文案系团队代笔，作者未回应且无确凿证据。作为固定档案入口，仅作资料索引，不涉时效事件。该入口长期维护，数据更新依赖平台接口，不具备新闻时效性。",
+      "titleZh": "大咕咕咕鸡微博超话与公开动态聚合页",
+      "summaryZh": "该页面为新浪微博平台上的固定资料入口，集中收录该写手的日常发文、读者互动及话题讨论，非单日新闻报道。",
+      "detailsZh": "（事实）该URL直接跳转至新浪微博超话索引页，长期作为读者追踪其文字创作、日常碎碎念及话题互动的核心数字阵地。（评论）从传播路径观察，该入口清晰呈现了其在中文互联网语境下的内容分发逻辑，文本多以短篇幅随笔为载体，叙事风格兼具市井戏谑与伪哲学思辨色彩。（传闻）网络社区中偶有传言称其早期爆款段子由幕后团队批量生产，但至今未见任何官方声明或可靠证据予以证实。需明确此条目为固定主页资料，不具备单日新闻的时效属性。",
       "keyPoints": [
-        "微博超话实时聚合公开博文与互动数据",
-        "收录历史热帖与读者二创内容索引",
-        "属固定资料入口，非时效性新闻动态"
+        "微博超话固定入口",
+        "日常发文与读者互动集中地",
+        "非单日新闻属性",
+        "早期代笔传闻未获证实"
       ],
       "category": "讨论",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -316,13 +340,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频与作品朗读合集",
-      "summaryZh": "固定检索入口，非当日推送。整合哔哩哔哩平台内关于该写手的作品朗读音频、解说视频及粉丝剪辑内容，便于系统查阅其文本传播形态。",
-      "detailsZh": "【事实】该搜索聚合页按算法排序展示用户上传的音频朗读、图文解析及影视化改编片段，播放量与弹幕互动构成主要传播指标。【评论】音频化呈现被视为其文字幽默感向听觉媒介延伸的有效尝试，增强了跨平台触达率。【传闻】有观点称部分高赞视频未经授权使用原始排版设计，但平台已建立版权投诉通道，实际侵权案例极少。本条目为静态资源导航，仅作资料备查。",
+      "titleZh": "哔哩哔哩平台作品朗读与二创视频检索页",
+      "summaryZh": "此为B站关键词搜索聚合结果页，汇集其文本朗读音频、读者二创及历史视频存档，属于长效资料索引而非当日资讯。",
+      "detailsZh": "（事实）该链接为哔哩哔哩全站关键词检索接口，实时聚合返回的内容涵盖用户自制的文字朗读音频、漫画改编动画及影视混剪等衍生视频。（评论）其原始文本所具备的强画面感与独特节奏韵律，使其在视频平台拥有极高的二次创作转化率，客观上促成了跨媒介的传播生态。（传闻）部分行业观察者质疑某些百万级播放量的朗读视频存在数据注水嫌疑，但平台算法推荐机制依然以其原始文本的社交声量作为核心权重。本条目仅为长效检索入口，仅作资料归档之用。",
       "keyPoints": [
-        "聚合B站用户生成的朗读与解说视频",
-        "记录文本向视听媒介转化的传播路径",
-        "固定检索页，不生成独立新闻事件"
+        "B站搜索聚合结果页",
+        "文本朗读与二创视频集散地",
+        "跨媒介传播生态体现",
+        "固定检索入口非新闻"
       ],
       "category": "作品",
       "importance": 3
@@ -335,15 +360,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科人物与创作背景",
-      "summaryZh": "固定百科词条入口，非当日资讯。系统梳理该写手的常用笔名、创作风格演变、代表作品及网络文化影响，提供学术与大众参考基准。",
-      "detailsZh": "【事实】词条依据公开出版物、媒体报道及平台存档整理，涵盖其活跃期核心文本特征与语言实验手法。【评论】研究者指出其作品对中文网络流行语造词机制具有启蒙意义，推动了碎片化叙事的普及。【传闻】民间流传其真实身份为某高校教师或媒体从业者，均无官方认证，属典型网络都市传说。本条目为长期维护的静态资料库，不具时效性。",
+      "titleZh": "维基百科“大咕咕咕鸡”词条与背景资料",
+      "summaryZh": "该页面为维基百科上关于该网络写手的百科词条，系统梳理其常用笔名、创作脉络与网络影响，属静态参考资料。",
+      "detailsZh": "（事实）该词条系统记录了该网络写手的身份定位、主要活跃时期（约二零一三年起）及其代表性文体特征，参考文献多取自公开媒体报道与社交媒体历史存档。（评论）多数文化评论者认为，其语言实验对早期微博生态的“段子文学”演进起到了推波助澜的作用，尽管学术界对其文学价值的定性仍存在分歧。（传闻）互联网上广泛流传其真实姓名及线下商业实体高度绑定的说法，但均未被权威信源交叉验证。该页面为固定百科主页，不承载动态新闻功能。",
       "keyPoints": [
-        "系统记载笔名、风格与代表作演变脉络",
-        "标注其在网络语言发展中的历史定位",
-        "固定百科入口，排除时效性干扰"
+        "维基百科静态词条",
+        "创作脉络与网络影响梳理",
+        "段子文学推动力受认可",
+        "真实身份传闻无实据"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -354,16 +380,17 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据与传播画像",
-      "summaryZh": "固定商业数据看板入口，非当日动态。提供第三方机构监测的粉丝增长曲线、互动率及内容分发效能，用于客观评估其数字影响力。",
-      "detailsZh": "【事实】页面抓取并可视化该账号历年发文频率、转评赞基数及受众地域分布，数据由第三方监测平台定期校准。【评论】行业分析认为其高互动率源于早期反套路叙事策略，在流量红利期形成强用户黏性。【传闻】市场曾流传其账号被MCN机构高价收购，但多方核查显示仍为个人运营状态，数据波动属正常周期。本条目为静态数据档案，仅作研究参考。",
+      "titleZh": "领库平台微博公开账号数据档案",
+      "summaryZh": "此为第三方数据平台提供的微博账号基础信息与传播指标页面，仅展示公开可查的运营数据，属常规资料查询入口。",
+      "detailsZh": "（事实）该页面依托第三方数据平台接口，客观列示了该微博账号的认证状态、累计粉丝基数、历史发文频率及部分互动热度曲线，数据皆源于公开抓取。（评论）基于传播学视角分析，其账号的成长轨迹高度契合典型意见领袖的爆发式扩张模型，内容垂直度与更新稳定性构成了核心增长变量。（传闻）业内曾有猜测指其流量运作背后存在专业MCN机构进行资本操盘，但当前页面仅呈现表层统计指标，完全无法证实资金介入程度。此页属固定资料索引，不作新闻解读。",
       "keyPoints": [
-        "呈现账号粉丝规模与互动效能量化指标",
-        "揭示早期反套路策略对留存率的贡献",
-        "固定数据看板，非实时新闻播报"
+        "第三方数据平台档案",
+        "公开传播指标与活跃度",
+        "意见领袖增长模型案例",
+        "MCN操盘传闻无数据支撑"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -373,16 +400,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：段子手创作生态观察",
-      "summaryZh": "固定历史文献入口，非当日新闻。二零一五年刊发的行业调查文章，剖析该写手创作风格及其对早期网络段子手群体的示范效应。",
-      "detailsZh": "【事实】该文发表于二零一五年五月，通过采访同行与平台运营方，还原了当时图文段子生产流程与分发逻辑。【评论】媒体评价其内容具备去精英化特质，成功将市井幽默转化为可复制的网络模因，拓宽了草根创作者表达边界。【传闻】文中提及的某些内部流量分配规则后被证实为当时算法测试期的临时策略，并非长期机制。本条目为存档级文献，仅作历史对照。",
+      "titleZh": "界面新闻关于其创作风格与网络生态的历史报道",
+      "summaryZh": "该链接为2015年刊发的媒体深度文章，回顾其语言风格演变及对当时网络段子手群体的影响，属历史性行业观察。",
+      "detailsZh": "（事实）该文献刊发于二零一五年五月，通过文本细读与行业访谈，完整回溯了其从碎片化情绪吐槽向结构化叙事转型的创作历程。（评论）主流财经媒体指出，其写作实践有效打破了当时自媒体圈盛行的“成功学鸡汤”范式，以反讽与解构手法重塑了大众的碎片化阅读习惯，具备显著的时代文化样本价值。（传闻）报道内部提及部分同期创作者对其“过度依赖网络热梗”提出保留意见，但并未提供具体的对立观点出处或后续交锋记录。本文档属历史报道存档，非近期动态，仅作背景参考。",
       "keyPoints": [
-        "还原二零一五年前后图文段子生产全链路",
-        "确立其草根幽默向网络模因转化的地位",
-        "固定历史文献，排除时效性误导"
+        "2015年历史深度报道",
+        "语言风格演变记录",
+        "反讽解构手法影响阅读习惯",
+        "同行担忧传闻缺乏具体出处"
       ],
       "category": "讨论",
-      "importance": 4
+      "importance": 5
     }
   ]
 }
