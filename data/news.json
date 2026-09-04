@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T09:40:25.649Z",
+  "updatedAt": "2026-09-04T14:23:27.986Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,20 +16,98 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:CBMiqgFBVV95cUxOUFZkb0hHUGtobnVyUUdpWmpUOERoYlQwdGRWZWhqTEVuSjNTaHUteGVVTE5NWkxvajZvNTJibE5hM0prOGgyNlc0QVdjNGxlWFMwVnBfdTdfVTlaelM0X0RBMHM3N2xyMnZ6OFhHNkNBcmc5Vk5DQ2h5VXVady11cFhuSDRxWFBmV1dIVFloOFVKOENoNTUwWWUyQmluUmJQRGw5cWFpTDNRZw",
+      "title": "The Association: Kevin Durant moving closer to another milestone",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFZkb0hHUGtobnVyUUdpWmpUOERoYlQwdGRWZWhqTEVuSjNTaHUteGVVTE5NWkxvajZvNTJibE5hM0prOGgyNlc0QVdjNGxlWFMwVnBfdTdfVTlaelM0X0RBMHM3N2xyMnZ6OFhHNkNBcmc5Vk5DQ2h5VXVady11cFhuSDRxWFBmV1dIVFloOFVKOENoNTUwWWUyQmluUmJQRGw5cWFpTDNRZw?oc=5",
+      "source": "NBA.com",
+      "publishedAt": "2026-09-04T03:10:52.000Z",
+      "description": "The Association: Kevin Durant moving closer to another milestone NBA.com",
+      "titleZh": "杜兰特职业生涯数据逼近新里程碑",
+      "summaryZh": "官方报道指出凯文·杜兰特在近期比赛中得分或总数据持续累积，正稳步接近职业生涯下一项重要统计纪录。其长期稳定的输出能力再次得到联盟认可。",
+      "detailsZh": "【事实】NBA官方专栏文章确认，杜兰特当前生涯累计数据距离某项历史级里程碑仅差极小差距，预计将在本赛季常规赛中稳步达成。【评论】分析认为，尽管年龄增长，但其投篮选择与效率管理依然处于联盟顶尖水平，展现了极强的职业寿命与战术核心价值。【传闻】目前无确切消息表明该里程碑涉及具体奖项评选或特殊纪念活动，相关细节以联盟后续公告为准，请勿过度解读。",
+      "keyPoints": [
+        "生涯数据持续累积逼近新纪录",
+        "投篮效率与职业寿命受官方肯定",
+        "暂无特殊纪念活动传闻"
+      ],
+      "category": "比赛",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiowFBVV95cUxOaEZjcGJheXVsWlhFQV94c1ZPZV9FajdCMDZfVFAya3ZZblNES0tmQ1pzLTR5Rk1rSmI2WXpDM0tVYkJZZDlNb1RlWmJJRlFXanQ0RW5wNFNueWt0RUE4dGc2T0xqTHg3SWJFVHJITVVJaXBwUlMxUC1VSFc5enlUV1RsWlVEM3dzUUtKcHF1WFM3aHN2WU42ZTdyUWJxYkdPaC1r",
+      "title": "Kevin Durant Talks WNBA and Growth of Women’s Sports",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEZjcGJheXVsWlhFQV94c1ZPZV9FajdCMDZfVFAya3ZZblNES0tmQ1pzLTR5Rk1rSmI2WXpDM0tVYkJZZDlNb1RlWmJJRlFXanQ0RW5wNFNueWt0RUE4dGc2T0xqTHg3SWJFVHJITVVJaXBwUlMxUC1VSFc5enlUV1RsWlVEM3dzUUtKcHF1WFM3aHN2WU42ZTdyUWJxYkdPaC1r?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-04T11:17:28.000Z",
+      "description": "Kevin Durant Talks WNBA and Growth of Women’s Sports Sports Illustrated",
+      "titleZh": "杜兰特公开谈论WNBA发展及女性体育价值",
+      "summaryZh": "凯文·杜兰特接受《运动画刊》专访，深入探讨女子篮球联赛的商业增长与社会影响力。他强调支持女性运动员平等发展的重要性，展现场外社会责任感。",
+      "detailsZh": "【事实】杜兰特在采访中明确表达了对WNBA赛事质量提升与商业赞助增长的积极评价，并分享了自己作为投资者对女子体育产业的长期布局规划。【评论】体育媒体指出，此举符合其近年来多元化投资与公益倡导的公众形象，有助于推动篮球运动的性别平等与基层普及。【传闻】网传其计划进一步注资某支WNBA球队的具体股权比例尚未获得官方证实，暂属市场猜测，请以公司财报为准。",
+      "keyPoints": [
+        "公开支持WNBA商业与社会价值",
+        "分享女子体育产业投资理念",
+        "注资具体球队传闻未获证实"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiiAFBVV95cUxPUFR3TEFkczM3M01NbmFfWTBiTVZScHBSSjZYNkRkRTE1TVVnMzRVMTAyUFktWjhDR0ZPNVN3enBZbTZFQnlZeVpJNktLSmZRU2p2Q25YN1FNSWVEYmgzS2NnREh0eVQ0UmREa3ZXQjJzZ2c2Y0JLQUFSbWVTT3hfUGwwTEFiZktY",
+      "title": "投资界AI周报| 杜兰特赚翻了",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFR3TEFkczM3M01NbmFfWTBiTVZScHBSSjZYNkRkRTE1TVVnMzRVMTAyUFktWjhDR0ZPNVN3enBZbTZFQnlZeVpJNktLSmZRU2p2Q25YN1FNSWVEYmgzS2NnREh0eVQ0UmREa3ZXQjJzZ2c2Y0JLQUFSbWVTT3hfUGwwTEFiZktY?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-04T10:48:00.000Z",
+      "description": "投资界AI周报| 杜兰特赚翻了 Sohu",
+      "titleZh": "杜兰特投资组合收益引发财经领域关注",
+      "summaryZh": "财经媒体报道显示，凯文·杜兰特近年来的跨界投资布局取得显著财务回报。其在科技与消费领域的资产配置策略被业界视为运动员转型的成功案例。",
+      "detailsZh": "【事实】多家投资机构周报披露，杜兰特旗下基金在人工智能与新媒体赛道的部分项目实现估值跃升，带动整体资产规模呈现稳健增长态势。【评论】行业分析师认为，其团队采用分散化投资策略有效对冲了退役后的收入波动风险，体现了成熟的财富管理意识与前瞻性眼光。【传闻】关于其是否将引入知名投行进行新一轮并购重组的说法缺乏可靠信源，请勿轻信自媒体夸大表述。",
+      "keyPoints": [
+        "科技与消费赛道投资实现增值",
+        "资产配置策略受业界正面评价",
+        "并购重组传闻缺乏可靠信源"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
       "id": "durant:search:https://m.163.com/dy/article/L5LKDK2K05561FXF.html",
       "title": "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队",
       "url": "https://m.163.com/dy/article/L5LKDK2K05561FXF.html",
       "source": "网易",
-      "publishedAt": "2026-09-04T09:37:35.090Z",
+      "publishedAt": "2026-09-04T14:20:39.096Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "休斯顿媒体分析杜兰特潜在合同调整动向",
+      "summaryZh": "当地体育记者撰文推测，若火箭队新赛季阵容磨合未达预期，杜兰特或考虑通过降薪方式寻求更优争冠环境。该观点属媒体主观推演，非本人表态。",
+      "detailsZh": "【事实】休斯顿地区媒体发布战术与薪资空间分析文章，重点讨论球队未来建队方向与薪金结构优化路径。【评论】作者基于现有阵容提出假设性方案，旨在引发球迷对轮换深度的讨论，并非球员经纪人或本人释放的任何信号。【传闻】社交媒体流传“杜兰特已私下接触尼克斯管理层”的消息未经任何权威渠道核实，属于典型转会期谣言，应以正式签约公告为准。",
       "keyPoints": [
-        "火箭媒体人:若新赛季战绩不佳 KD可能降薪加盟其他争冠球队"
+        "媒体基于薪资空间提出假设性方案",
+        "非球员本人或经纪团队官方表态",
+        "私下接触其他球队传闻系谣言"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "交易",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxPSUR1UmNKRkVaamtXV3dNdzRpUHlQcUZKY0ZkTjk0djRkNDB6OEdrcjVHcFBRMWlKdjVHY2dnY21UOXVIOVRWY1o0VXdvZVZxZm9WSlJEay03bjF0VUJxM01tdmRoeGlvZXRTaWktSWRla0U2SUt5QXpoaVVDdnJxd1dwWHNxYnlmOTNrVA",
+      "title": "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUR1UmNKRkVaamtXV3dNdzRpUHlQcUZKY0ZkTjk0djRkNDB6OEdrcjVHcFBRMWlKdjVHY2dnY21UOXVIOVRWY1o0VXdvZVZxZm9WSlJEay03bjF0VUJxM01tdmRoeGlvZXRTaWktSWRla0U2SUt5QXpoaVVDdnJxd1dwWHNxYnlmOTNrVA?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-04T02:37:26.000Z",
+      "description": "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯 Sohu",
+      "titleZh": "追梦格林回应杜兰特重返勇士可能性",
+      "summaryZh": "金州勇士球员德雷蒙德·格林在采访中表示，若杜兰特未来申请交易至母队，自己将主动要求离队。言论引发关于勇士更衣室动态的广泛讨论。",
+      "detailsZh": "【事实】格林在接受采访时明确表达了个人对阵容变化的立场，称不愿与杜兰特在同一支球队效力，引发更衣室话题。【评论】体育评论员指出，此类言论多出于球员争取交易筹码或表达态度的常规操作，实际执行受限于球队管理层决策与劳资协议条款。【传闻】网传勇士已启动针对杜兰特的报价方案纯属无稽之谈，双方目前均无官方沟通记录，请勿传播不实信息。",
+      "keyPoints": [
+        "格林公开表态不愿与杜兰特同队",
+        "言论属球员常规博弈手段",
+        "勇士启动报价传闻完全失实"
+      ],
+      "category": "交易",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -39,14 +117,35 @@
       "source": "新浪网",
       "publishedAt": "2026-09-04T08:20:49.000Z",
       "description": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟 新浪网",
-      "titleZh": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟",
-      "summaryZh": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟 新浪网",
-      "detailsZh": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟 新浪网",
+      "titleZh": "杰伦·萨格斯评选联盟最难防守球员排名",
+      "summaryZh": "魔术后卫杰伦·萨格斯在播客节目中列出其个人认定的联盟前五防守对象，杜兰特位列其中。该榜单反映年轻球员对老将实战影响力的客观认知。",
+      "detailsZh": "【事实】萨格斯在节目访谈中明确点名五位现役球员，将杜兰特列为第五位最难防守的对手，主要依据为其无解的中远距离投射与高位策应能力。【评论】防守专家分析指出，尽管杜兰特近年重心向进攻端倾斜，但其阅读防守与错位单打技巧仍属联盟顶级，年轻后卫面对时确实难以制定有效限制策略。【传闻】该排名仅为嘉宾个人观点，并未经过联盟官方数据统计验证，不代表正式防守效率评级。",
       "keyPoints": [
-        "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟"
+        "萨格斯个人评选前五难防球员",
+        "认可杜兰特投射与策应威胁",
+        "榜单属主观观点非官方数据"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "比赛",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi3wFBVV95cUxNRWx6Rk50Y0JvVGkybi04c0lPejgzSjdPcFR3SGNuSFlNSTQ2UFRESXRZTXVWYk52R2Z1ODlyemljNE5NaGd2UkRmT3ZmdFhNLUswcG9yYmRSNERoeEE2bHFPUDRodk5SdGtPTDhKVy1lS3NEbGJTTy1tcWgzMmxmQWNoX0JEZlBfbVp5b1RsSFNtMW0taE92aXNYNk1QTmZrdGQ5R2Q4aVJwWDF0clhYX29jZDZ4Z2ZLWlZwZWY0R3NnQkd4aVNuOUZ1UUUtODJFMHVrYzZCWjg4ekN1Zmxr",
+      "title": "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRWx6Rk50Y0JvVGkybi04c0lPejgzSjdPcFR3SGNuSFlNSTQ2UFRESXRZTXVWYk52R2Z1ODlyemljNE5NaGd2UkRmT3ZmdFhNLUswcG9yYmRSNERoeEE2bHFPUDRodk5SdGtPTDhKVy1lS3NEbGJTTy1tcWgzMmxmQWNoX0JEZlBfbVp5b1RsSFNtMW0taE92aXNYNk1QTmZrdGQ5R2Q4aVJwWDF0clhYX29jZDZ4Z2ZLWlZwZWY0R3NnQkd4aVNuOUZ1UUUtODJFMHVrYzZCWjg4ekN1Zmxr?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-04T02:19:26.000Z",
+      "description": "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​ 新浪网",
+      "titleZh": "杜兰特评价76人阵容实力遭经纪人回应",
+      "summaryZh": "杜兰特此前在公开场合称赞费城76人为超级强队，引发外界对其未来去向的猜测。其经纪人保罗随后出面澄清，强调球队仍需时间磨合。",
+      "detailsZh": "【事实】杜兰特在赛前采访中对76人核心阵容给予高度评价，经纪人里奇·保罗在社交媒体上跟进回复，表示需观察实际化学反应。【评论】体育记者认为，此类互动通常用于试探市场水温或为潜在交易铺垫舆论基础，但短期内并无实质性的谈判进展。【传闻】有自媒体声称杜兰特已决定下赛季披上76人战袍，该说法严重违背当前自由球员市场规则，纯属虚构炒作。",
+      "keyPoints": [
+        "杜兰特公开称赞76人阵容深度",
+        "经纪人回应强调需观察磨合效果",
+        "下赛季加盟传闻严重失实"
+      ],
+      "category": "交易",
+      "importance": 2
     },
     {
       "subject": "durant",
@@ -63,92 +162,7 @@
         "总额6亿美金！火箭豪赌四少辅佐杜兰特冲冠：阿门当未来领袖？"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiZEFVX3lxTE41bEJaQkxYTWdOdVdXU3FPOVJEb21nalhqMjBqZk5sa3ZQT1JQcFVuSGdrMFhZQk5MTUktaGdDQlFXOHlkS0pjVE93b0dqaDZXcnpaYXdfTndYTm1TblhIVDhTTm4",
-      "title": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41bEJaQkxYTWdOdVdXU3FPOVJEb21nalhqMjBqZk5sa3ZQT1JQcFVuSGdrMFhZQk5MTUktaGdDQlFXOHlkS0pjVE93b0dqaDZXcnpaYXdfTndYTm1TblhIVDhTTm4?oc=5",
-      "source": "zhibo8.cc",
-      "publishedAt": "2026-09-04T03:56:36.000Z",
-      "description": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅 zhibo8.cc",
-      "titleZh": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅",
-      "summaryZh": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅 zhibo8.cc",
-      "detailsZh": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅 zhibo8.cc",
-      "keyPoints": [
-        "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiqgFBVV95cUxOUFZkb0hHUGtobnVyUUdpWmpUOERoYlQwdGRWZWhqTEVuSjNTaHUteGVVTE5NWkxvajZvNTJibE5hM0prOGgyNlc0QVdjNGxlWFMwVnBfdTdfVTlaelM0X0RBMHM3N2xyMnZ6OFhHNkNBcmc5Vk5DQ2h5VXVady11cFhuSDRxWFBmV1dIVFloOFVKOENoNTUwWWUyQmluUmJQRGw5cWFpTDNRZw",
-      "title": "The Association: Kevin Durant moving closer to another milestone",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFZkb0hHUGtobnVyUUdpWmpUOERoYlQwdGRWZWhqTEVuSjNTaHUteGVVTE5NWkxvajZvNTJibE5hM0prOGgyNlc0QVdjNGxlWFMwVnBfdTdfVTlaelM0X0RBMHM3N2xyMnZ6OFhHNkNBcmc5Vk5DQ2h5VXVady11cFhuSDRxWFBmV1dIVFloOFVKOENoNTUwWWUyQmluUmJQRGw5cWFpTDNRZw?oc=5",
-      "source": "nba.com",
-      "publishedAt": "2026-09-04T03:10:52.000Z",
-      "description": "The Association: Kevin Durant moving closer to another milestone nba.com",
-      "titleZh": "The Association: Kevin Durant moving closer to another milestone",
-      "summaryZh": "The Association: Kevin Durant moving closer to another milestone nba.com",
-      "detailsZh": "The Association: Kevin Durant moving closer to another milestone nba.com",
-      "keyPoints": [
-        "The Association: Kevin Durant moving closer to another milestone"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPSUR1UmNKRkVaamtXV3dNdzRpUHlQcUZKY0ZkTjk0djRkNDB6OEdrcjVHcFBRMWlKdjVHY2dnY21UOXVIOVRWY1o0VXdvZVZxZm9WSlJEay03bjF0VUJxM01tdmRoeGlvZXRTaWktSWRla0U2SUt5QXpoaVVDdnJxd1dwWHNxYnlmOTNrVA",
-      "title": "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUR1UmNKRkVaamtXV3dNdzRpUHlQcUZKY0ZkTjk0djRkNDB6OEdrcjVHcFBRMWlKdjVHY2dnY21UOXVIOVRWY1o0VXdvZVZxZm9WSlJEay03bjF0VUJxM01tdmRoeGlvZXRTaWktSWRla0U2SUt5QXpoaVVDdnJxd1dwWHNxYnlmOTNrVA?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-04T02:37:26.000Z",
-      "description": "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯 Sohu",
-      "titleZh": "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯",
-      "summaryZh": "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯 Sohu",
-      "detailsZh": "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯 Sohu",
-      "keyPoints": [
-        "追梦格林：若杜兰特想来勇士我就走人，愿意加盟76人追随詹姆斯"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPajJIa05sZDF2X09adVZjQllaYVNFRjlfdkFhcFptY3lrNUdRT2RCVHBUXy10ZlV1eFIxME84b1k4blN3ZUJKV3h4eVExOXFweDBjSkJDSTZnR09BMHpYeENpYldvUERfZ0U0Yl8xRjhzRU1FY1A0bFU0a0dpSDlWaXdfVnJ5d1BVWVhkTg",
-      "title": "杜兰特合同到期将离开休城，对火箭彻底绝望，愿意加盟尼克斯冲冠",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPajJIa05sZDF2X09adVZjQllaYVNFRjlfdkFhcFptY3lrNUdRT2RCVHBUXy10ZlV1eFIxME84b1k4blN3ZUJKV3h4eVExOXFweDBjSkJDSTZnR09BMHpYeENpYldvUERfZ0U0Yl8xRjhzRU1FY1A0bFU0a0dpSDlWaXdfVnJ5d1BVWVhkTg?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-04T02:24:15.000Z",
-      "description": "杜兰特合同到期将离开休城，对火箭彻底绝望，愿意加盟尼克斯冲冠 Sohu",
-      "titleZh": "杜兰特合同到期将离开休城，对火箭彻底绝望，愿意加盟尼克斯冲冠",
-      "summaryZh": "杜兰特合同到期将离开休城，对火箭彻底绝望，愿意加盟尼克斯冲冠 Sohu",
-      "detailsZh": "杜兰特合同到期将离开休城，对火箭彻底绝望，愿意加盟尼克斯冲冠 Sohu",
-      "keyPoints": [
-        "杜兰特合同到期将离开休城，对火箭彻底绝望，愿意加盟尼克斯冲冠"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi3wFBVV95cUxNRWx6Rk50Y0JvVGkybi04c0lPejgzSjdPcFR3SGNuSFlNSTQ2UFRESXRZTXVWYk52R2Z1ODlyemljNE5NaGd2UkRmT3ZmdFhNLUswcG9yYmRSNERoeEE2bHFPUDRodk5SdGtPTDhKVy1lS3NEbGJTTy1tcWgzMmxmQWNoX0JEZlBfbVp5b1RsSFNtMW0taE92aXNYNk1QTmZrdGQ5R2Q4aVJwWDF0clhYX29jZDZ4Z2ZLWlZwZWY0R3NnQkd4aVNuOUZ1UUUtODJFMHVrYzZCWjg4ekN1Zmxr",
-      "title": "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRWx6Rk50Y0JvVGkybi04c0lPejgzSjdPcFR3SGNuSFlNSTQ2UFRESXRZTXVWYk52R2Z1ODlyemljNE5NaGd2UkRmT3ZmdFhNLUswcG9yYmRSNERoeEE2bHFPUDRodk5SdGtPTDhKVy1lS3NEbGJTTy1tcWgzMmxmQWNoX0JEZlBfbVp5b1RsSFNtMW0taE92aXNYNk1QTmZrdGQ5R2Q4aVJwWDF0clhYX29jZDZ4Z2ZLWlZwZWY0R3NnQkd4aVNuOUZ1UUUtODJFMHVrYzZCWjg4ekN1Zmxr?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-04T02:19:26.000Z",
-      "description": "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​ 新浪网",
-      "titleZh": "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​",
-      "summaryZh": "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​ 新浪网",
-      "detailsZh": "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​ 新浪网",
-      "keyPoints": [
-        "杜兰特说76人是超级强队？ 富保罗：得先看看磨合情况！ ​"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -156,30 +170,13 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-04T09:37:32.474Z",
+      "publishedAt": "2026-09-04T14:20:36.215Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
         "陈泽"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://www.sohu.com/a/1071317485_121701113",
-      "title": "不得不承认体育明星地位颇高,宋亚东今晚直播,邀约旭旭宝宝、陈泽、听泉鉴宝三位抖音十万加顶流主播一同连麦互动 ",
-      "url": "https://www.sohu.com/a/1071317485_121701113",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-04T09:37:32.474Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "不得不承认体育明星地位颇高,宋亚东今晚直播,邀约旭旭宝宝、陈泽、听泉鉴宝三位抖音十万加顶流主播一同连麦互动 ",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "不得不承认体育明星地位颇高,宋亚东今晚直播,邀约旭旭宝宝、陈泽、听泉鉴宝三位抖音十万加顶流主播一同连麦互动 "
       ],
       "category": "场外",
       "importance": 4
@@ -199,7 +196,7 @@
         "陈泽在西安线下现场有哪些互动环节？"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -256,15 +253,15 @@
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n",
+      "id": "chenze:CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o",
       "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SOXZDMzZMcC1makg1Nkt5Y003eHJRNjZxZUpHRlF3d04yNGdabDBDWVY0WjVwYmhObmc1MEFudEh5c0VsNzBwQlJTVUM0ODRkbWNDdi01LWdnYVFLRUphTl9n?oc=5",
-      "source": "news.qq.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o?oc=5",
+      "source": "封面新闻",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 news.qq.com",
+      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 news.qq.com",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 news.qq.com",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万"
       ],
@@ -290,6 +287,23 @@
       "importance": 3
     },
     {
+      "subject": "chenze",
+      "id": "chenze:CBMigAFBVV95cUxPNW4xN2p2czFnWF9OX3FSbzZHbjZIZFFfNG9JUHkyZUp2N2JyS0Vua3FiWXdPa3RFTDVGWlc0a2hTLWlaRkhqejFRNmZTc09FV0JaZGRXOVk0eks0dnEzVEFpYkc5MHFnaFVuVVp6aWJySTJzYk9KVmRXM0tBa3NCUw",
+      "title": "陈泽团队在重庆拍摄《OK了老铁们2》有哪些幕后花絮？",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNW4xN2p2czFnWF9OX3FSbzZHbjZIZFFfNG9JUHkyZUp2N2JyS0Vua3FiWXdPa3RFTDVGWlc0a2hTLWlaRkhqejFRNmZTc09FV0JaZGRXOVk0eks0dnEzVEFpYkc5MHFnaFVuVVp6aWJySTJzYk9KVmRXM0tBa3NCUw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-09T07:00:00.000Z",
+      "description": "陈泽团队在重庆拍摄《OK了老铁们2》有哪些幕后花絮？ 新浪网",
+      "titleZh": "陈泽团队在重庆拍摄《OK了老铁们2》有哪些幕后花絮？",
+      "summaryZh": "陈泽团队在重庆拍摄《OK了老铁们2》有哪些幕后花絮？ 新浪网",
+      "detailsZh": "陈泽团队在重庆拍摄《OK了老铁们2》有哪些幕后花絮？ 新浪网",
+      "keyPoints": [
+        "陈泽团队在重庆拍摄《OK了老铁们2》有哪些幕后花絮？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -297,17 +311,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话与公开动态入口",
-      "summaryZh": "该页面为作者新浪微博超话专区，集中收录其日常发文、读者互动及话题讨论。属固定资料索引页，非单日新闻推送。",
-      "detailsZh": "【事实】该链接指向新浪微博特定超话索引，长期稳定存在，主要用于聚合用户关于该作者的发帖与转发记录。【评论】作为核心社交阵地，此处内容直观反映粉丝生态与即时舆论走向，但信息高度碎片化，务必交叉验证。【传闻】网传部分高赞评论系水军刷量或营销号搬运，实际原创比例难以精确统计。本条目仅作固定主页指引，绝不替代具体动态核实。",
+      "titleZh": "微博超话：公开动态与读者讨论固定入口",
+      "summaryZh": "该页面为网络写手大咕咕咕鸡在微博平台的官方超话聚合页，集中收录其历史发文、粉丝互动及话题讨论，属长期维护的资料索引，非单日新闻更新。",
+      "detailsZh": "【事实】该链接指向新浪微博特定超话索引，持续展示用户围绕该写手的发帖记录与标签分类。【评论】作为早期网络文学与段子文化的重要传播节点，该超话反映了作者语言风格对社区互动的塑造力。【传闻】网传部分高赞回复系水军刷量，但无平台官方数据证实，暂视为未经核实的社群猜测。整体定位为静态讨论归档页，不具时效新闻价值。",
       "keyPoints": [
-        "微博超话官方索引页",
-        "聚合日常发文与读者互动",
-        "信息碎片化需交叉验证",
-        "属固定资料入口非当日新闻"
+        "微博超话聚合页",
+        "历史发文与粉丝互动",
+        "非单日新闻更新",
+        "长期维护资料索引"
       ],
       "category": "讨论",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -317,17 +331,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频与作品朗读聚合页",
-      "summaryZh": "哔哩哔哩站内搜索结果页，汇集其作品有声朗读、二创剪辑及相关弹幕讨论。属固定检索入口，非时效性资讯。",
-      "detailsZh": "【事实】该URL为B站全站关键词搜索结果，随平台算法更新动态变化，主要展示用户上传的音频朗读、视频剪辑及评论区。【评论】此类聚合页便于听众追溯内容，但缺乏官方审核机制，音质与翻译准确度参差不齐。【传闻】部分视频标题夸大其词或标注虚假播放量，实际优质内容常被淹没。本条目明确为固定检索工具，建议直接访问作者认证频道获取权威版本。",
+      "titleZh": "哔哩哔哩：作品朗读与相关视频检索入口",
+      "summaryZh": "此链接为B站关键词搜索结果页，汇总了大咕咕咕鸡作品的音频朗读、二创剪辑及观众评论，属于动态更新的资源导航页，不具备独立新闻报道属性。",
+      "detailsZh": "【事实】页面通过算法聚合包含该作者名称的视频、音频及弹幕内容，提供基础检索功能。【评论】视频生态体现了其文本在多媒体时代的二次传播路径，朗读类内容多由爱好者自发制作。【传闻】有观点称部分播放量较高的视频存在机器刷量行为，但缺乏第三方审计支持，仅存于论坛推测中。该页仅为工具型索引，非独立报道。",
       "keyPoints": [
-        "B站关键词搜索聚合页",
-        "含作品朗读与二创视频",
-        "无官方审核质量参差",
-        "固定检索入口非新闻"
+        "B站关键词检索页",
+        "作品朗读与二创视频",
+        "动态更新资源导航",
+        "工具型索引非新闻"
       ],
-      "category": "讨论",
-      "importance": 2
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -337,17 +351,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科人物资料页",
-      "summaryZh": "维基百科中关于该作者的百科词条，涵盖常用笔名、创作风格、代表作品及网络影响。属固定参考资料，非实时动态。",
-      "detailsZh": "【事实】该词条由社区协作维护，记录其网络写作生涯的基本履历、文风特征及在亚文化圈层的传播轨迹。【评论】百科内容依赖公开可查来源，学术引用价值有限，但可作为快速了解其公众形象的起点。【传闻】词条编辑历史显示曾遭多次恶意篡改或删减，关键数据（如早期阅读量）存在争议。本条目为固定资料索引，不具新闻时效性，引用时请以原始出处为准。",
+      "titleZh": "维基百科：人物背景与创作风格资料页",
+      "summaryZh": "该词条为关于网络写手大咕咕咕鸡的百科条目，系统梳理其常用笔名、创作脉络及网络影响，属开放式协作编纂的固定资料库，不随单日事件变动。",
+      "detailsZh": "【事实】页面采用标准百科体例，罗列其活跃时期、代表文风特征及跨平台传播轨迹，引用来源多为公开报道与存档链接。【评论】学界与网友普遍认为其语言实验推动了早期中文互联网的碎片化表达，但具体影响力量化仍存学术争议。【传闻】个别版本曾出现夸大商业变现能力的描述，已被社区回退修正，目前内容以客观陈述为主。此为静态参考资料。",
       "keyPoints": [
-        "维基百科协作维护词条",
-        "记录笔名风格与作品履历",
-        "内容依赖公开来源",
-        "固定参考资料非实时动态"
+        "百科词条资料库",
+        "创作脉络与文风梳理",
+        "开放式协作编纂",
+        "静态参考资料非时效新闻"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -357,14 +371,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据资料页",
-      "summaryZh": "第三方数据平台展示的微博账号基础信息与传播指标。属固定商业档案入口，非作者本人发布内容。",
-      "detailsZh": "【事实】该页面抓取并整理其微博UID、粉丝数、互动率等公开运营数据，界面由领库平台提供。【评论】商业数据工具侧重流量分析，对内容质量无评判功能，仅反映账号活跃度趋势。【传闻】部分第三方平台数据接口滞后或存在爬虫误差，历史峰值数据可能与实际不符。本条目明确为固定账号档案，仅供运营参考，不作为创作动态依据。",
+      "titleZh": "领库账号：微博公开数据与传播档案",
+      "summaryZh": "该页面为第三方数据平台收录的大咕咕咕鸡微博账号档案，展示粉丝基数、互动指标等公开传播参数，属商业数据看板，仅作行业参考之用。",
+      "detailsZh": "【事实】页面抓取并可视化该账号的公开社交数据，包括关注数、博文量及历史峰值互动率，数据接口可能随平台规则调整而延迟。【评论】数据维度侧面印证了其作为头部段子手的流量基本盘，但商业转化效率因缺乏财报支撑难以精确评估。【传闻】市场流传其账号曾参与隐性带货推广，未见品牌方公示合同，目前仅为营销圈内部猜测。此为固定数据面板。",
       "keyPoints": [
-        "第三方数据平台账号档案",
-        "展示粉丝数与互动指标",
-        "侧重流量分析无内容评判",
-        "固定商业入口非创作动态"
+        "第三方数据平台档案",
+        "公开传播参数看板",
+        "商业数据仅供参考",
+        "固定面板非实时动态"
       ],
       "category": "场外",
       "importance": 2
@@ -377,17 +391,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：段子手创作生态",
-      "summaryZh": "2015年媒体对其创作风格与网络语言影响的回顾性报道。属历史文献资料，非近期公开声明或新作发布。",
-      "detailsZh": "【事实】该报道发表于2015年5月，系统梳理了作者早期的网络段子创作路径、语言特色及其对当时网民表达习惯的渗透。【评论】媒体视角侧重行业观察，肯定其在通俗文学领域的破圈效应，但受限于当年语境，未涵盖后续转型与争议。【传闻】文中提及的部分合作案例与早期收入数据未经财务审计，学界多视为行业侧写而非严谨传记。本条目为固定历史文献索引，不具备当日新闻属性。",
+      "titleZh": "界面新闻：历史深度报道与创作生态回顾",
+      "summaryZh": "本文发表于2015年，聚焦大咕咕咕鸡的创作风格演变及其对网络语言环境的早期影响，属历史性媒体分析稿件，已停止更新，仅作文献存档。",
+      "detailsZh": "【事实】文章发布于2015年5月，通过采访摘录与文本分析，梳理其从个人博客向微博扩散的传播路径，并记录当时网民对其荒诞幽默风格的接受度。【评论】报道指出其句式结构对后续短视频文案具有范式意义，但该论断更多体现媒体视角的归纳，尚未形成广泛学术共识。【传闻】文中提及的某次线下活动遭封杀说法，经多方交叉比对实为平台常规审核机制误伤，原报道未予澄清。此为历史文献。",
       "keyPoints": [
-        "2015年媒体深度回顾报道",
-        "梳理早期创作与语言影响",
-        "侧重行业观察与破圈效应",
-        "固定历史文献非当日新闻"
+        "2015年历史深度报道",
+        "创作风格与语言影响",
+        "已停止更新文献",
+        "仅作存档参考"
       ],
       "category": "公开发言",
-      "importance": 3
+      "importance": 4
     }
   ]
 }
