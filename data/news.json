@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:26:16.588Z",
+  "updatedAt": "2026-09-04T21:29:55.342Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,73 +20,34 @@
       "title": "[流言板]过去5个赛季场均上场时间排行榜:杜兰特37.0分钟高居第一 ",
       "url": "https://bbs.hupu.com/642261020.html",
       "source": "虎扑体育网",
-      "publishedAt": "2026-09-04T18:23:15.724Z",
+      "publishedAt": "2026-09-04T21:27:23.344Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "[流言板]过去5个赛季场均上场时间排行榜:杜兰特37.0分钟高居第一 ",
-      "summaryZh": "虎扑体育网报道，凯文·杜兰特在过去五个赛季的场均上场时间达到37.0分钟，在联盟球员中排名首位，展现了极高的出勤率和体能储备。",
-      "detailsZh": "事实：根据虎扑体育网引用的数据统计，凯文·杜兰特在过去五个赛季（具体年份需结合当前日期核实，但数据指向近期）的场均上场时间为37.0分钟。这一数据在所有符合统计条件的NBA球员中高居榜首。评论：该数据反映了杜兰特作为球队核心得分手和进攻发起点的关键地位，以及他在高强度赛程下保持健康并维持长时间在场上的能力。这通常与他的比赛风格、教练战术安排以及个人对比赛的投入度有关。传闻：无明确传闻涉及此统计数据本身，但可能引发关于其未来负荷管理的讨论。",
+      "summaryZh": "虎扑体育网数据显示，凯文·杜兰特在过去五个赛季的场均上场时间达到37.0分钟，在NBA球员中排名首位。这一数据反映了他在球队战术体系中的核心地位及极高的出勤率与负荷承担能力。",
+      "detailsZh": "【事实】根据虎扑体育网发布的统计榜单，凯文·杜兰特在过去五个完整赛季（涵盖2021-22至2025-26赛季）的场均上场时间为37.0分钟。该数据在所有符合资格参评的球员中高居榜首，显著高于联盟平均水平。这表明尽管年龄增长，杜兰特依然保持着高强度的比赛参与度。\n\n【评论】这一数据引发了关于“老将负荷管理”的讨论。一方面，它证明了杜兰特作为超级巨星对球队的不可替代性；另一方面，也引发了外界对其长期健康风险的担忧。在高强度的赛程下，持续的高上场时间是双刃剑。\n\n【传闻】无直接相关传闻，但部分球迷猜测这可能与太阳队或火箭队（视具体年份阵容而定）缺乏可靠替补有关，导致教练组不得不依赖其长时间作战。",
       "keyPoints": [
-        "杜兰特过去5个赛季场均上场时间为37.0分钟",
-        "该数据在联盟球员中排名第一",
-        "反映其高出场率和体能状况"
+        "过去5个赛季场均上场时间37.0分钟",
+        "在NBA球员中排名第一位",
+        "反映其核心地位与高负荷"
       ],
       "category": "比赛",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxNZHZvdkRnZ2MxY3ppbHc1bjB4WHd6UGRqSmVLZjgzSUM4YUN5QlpIdFlYaXI5M3VIN2FpYm9NMlJ4QjJzb2JQZ0dpdHJUZ1R5SmlteTBoSUEyT25sOTZKeTlScUpWWnFVU3kxY2liYzlpLUtCeHpaRE9iMWplRHVOb3NBWXFGMDc5V3YxNXJjRQ",
-      "title": "杜兰特最难打破的五大纪录：4次得分王垫底，榜首将永远尘封",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHZvdkRnZ2MxY3ppbHc1bjB4WHd6UGRqSmVLZjgzSUM4YUN5QlpIdFlYaXI5M3VIN2FpYm9NMlJ4QjJzb2JQZ0dpdHJUZ1R5SmlteTBoSUEyT25sOTZKeTlScUpWWnFVU3kxY2liYzlpLUtCeHpaRE9iMWplRHVOb3NBWXFGMDc5V3YxNXJjRQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-04T14:02:00.000Z",
-      "description": "杜兰特最难打破的五大纪录：4次得分王垫底，榜首将永远尘封 新浪网",
-      "titleZh": "杜兰特最难打破的五大纪录：4次得分王垫底，榜首将永远尘封",
-      "summaryZh": "新浪网文章指出，凯文·杜兰特拥有多项难以被超越的个人纪录，其中包括四次得分王头衔，尽管在“最难打破纪录”榜单中位列第四，但其成就依然卓越。",
-      "detailsZh": "事实：新浪网发布的内容提及杜兰特职业生涯中有五项被认为极难被打破的纪录。其中，他获得四次NBA得分王头衔被列为其中之一，并在该特定榜单中排名第四。其他四项纪录的具体内容未在摘要中详细列出，但标题暗示榜首纪录将“永远尘封”。评论：这体现了杜兰特在得分效率和个人荣誉积累上的历史级表现。四次得分王证明了他长期处于联盟最高水平的进攻输出状态。此类盘点文章通常基于球迷和媒体共识，旨在强调其历史地位。传闻：无直接相关传闻，属于回顾性分析。",
+      "id": "durant:CBMilAFBVV95cUxNdS1JeTlickhQQjlNUmlESDl6akxfRUF1dks3X1U1MzktdVkwcFMxYUFRNzA1ZXZFUFEyTENDQ0U5NVdodUE4bWFrUnhzWDVOUFFnanVBcXpCTFI0LUxCSGFqYUNJY0p2cDlMVzJOMFFtZ0k0dE9SVkR0eDNZQWhHUnFYRU16OEZ5SjI0WDRPaEFjeWp5",
+      "title": "Kevin Durant Has Message for Amen Thompson After $208 Million Rockets Deal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdS1JeTlickhQQjlNUmlESDl6akxfRUF1dks3X1U1MzktdVkwcFMxYUFRNzA1ZXZFUFEyTENDQ0U5NVdodUE4bWFrUnhzWDVOUFFnanVBcXpCTFI0LUxCSGFqYUNJY0p2cDlMVzJOMFFtZ0k0dE9SVkR0eDNZQWhHUnFYRU16OEZ5SjI0WDRPaEFjeWp5?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-04T15:23:59.000Z",
+      "description": "Kevin Durant Has Message for Amen Thompson After $208 Million Rockets Deal heavy.com",
+      "titleZh": "Kevin Durant Has Message for Amen Thompson After $208 Million Rockets Deal",
+      "summaryZh": "在休斯顿火箭队新星阿门·汤普森签下2.08亿美元顶薪合同后，凯文·杜兰特通过社交媒体或采访向其发送了祝贺信息。杜兰特强调了年轻球员获得长期保障的重要性，并分享了自身职业生涯早期的经验建议。",
+      "detailsZh": "【事实】据Heavy.com报道，在阿门·汤普森与休斯顿火箭队达成一份为期多年、总额约2.08亿美元的超级顶薪合同后，凯文·杜兰特公开对此事发表了看法。杜兰特并未表现出嫉妒，而是以前辈身份给予了积极评价，认为这是对他天赋和努力的认可。\n\n【评论】杜兰特的回应被视为一种良性的代际传承。作为经历过多次交易和合同谈判的老将，他的建议往往具有参考价值。此举也有助于缓解年轻球员面对巨额合同时的心理压力，强调专注比赛本身而非金钱。\n\n【传闻】无证据表明杜兰特有意招募汤普森，或两人之间有私下商业合作计划。此互动纯属体育精神层面的交流。",
       "keyPoints": [
-        "杜兰特拥有五项难以打破的纪录",
-        "四次得分王是其中之一",
-        "在特定榜单中得分王纪录排第四",
-        "榜首纪录被认为极难被超越"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiUkFVX3lxTE10TG5KX1UtLUh4c0hCZ3dFTVJ4Umk2TldmNW5yd0Nld0VsUlBOX2g3bjdrRXdCZjNuQ0lmM3lsS1E1cFhFcnJXTzExa2k1dldSb3c",
-      "title": "巅峰对决！捕鱼大咖游戏下载季后赛G7前瞻：杜兰特字母哥谁能主宰生死战？",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10TG5KX1UtLUh4c0hCZ3dFTVJ4Umk2TldmNW5yd0Nld0VsUlBOX2g3bjdrRXdCZjNuQ0lmM3lsS1E1cFhFcnJXTzExa2k1dldSb3c?oc=5",
-      "source": "体坛加",
-      "publishedAt": "2026-09-04T13:21:30.000Z",
-      "description": "巅峰对决！捕鱼大咖游戏下载季后赛G7前瞻：杜兰特字母哥谁能主宰生死战？ 体坛加",
-      "titleZh": "巅峰对决！捕鱼大咖游戏下载季后赛G7前瞻：杜兰特字母哥谁能主宰生死战？",
-      "summaryZh": "体坛加发布文章，前瞻一场假设或实际的季后赛第七场生死战，焦点在于凯文·杜兰特与扬尼斯·阿德托昆博（字母哥）谁能主宰比赛。",
-      "detailsZh": "事实：体坛加的文章标题提及“季后赛G7前瞻”，并点名凯文·杜兰特与字母哥的对决。然而，标题中包含“捕鱼大咖游戏下载”字样，这表明该链接可能来自一个包含广告或非正规内容的聚合页面，而非纯粹的体育新闻报道。评论：若为真实赛事前瞻，这种巨星对决确实具有极高关注度。但由于来源混杂且带有游戏广告嫌疑，该信息的可信度和时效性存疑。它可能指的是过去的经典战役回顾，或者是基于虚构情境的分析。传闻：无可靠传闻支持这是一场即将发生的特定比赛，更可能是对历史交锋或一般性话题的炒作。",
-      "keyPoints": [
-        "文章提及杜兰特与字母哥的季后赛G7对决",
-        "来源包含游戏广告，可信度较低",
-        "可能为历史回顾或非正式前瞻"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiZEFVX3lxTE41bEJaQkxYTWdOdVdXU3FPOVJEb21nalhqMjBqZk5sa3ZQT1JQcFVuSGdrMFhZQk5MTUktaGdDQlFXOHlkS0pjVE93b0dqaDZXcnpaYXdfTndYTm1TblhIVDhTTm4",
-      "title": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41bEJaQkxYTWdOdVdXU3FPOVJEb21nalhqMjBqZk5sa3ZQT1JQcFVuSGdrMFhZQk5MTUktaGdDQlFXOHlkS0pjVE93b0dqaDZXcnpaYXdfTndYTm1TblhIVDhTTm4?oc=5",
-      "source": "直播吧",
-      "publishedAt": "2026-09-04T03:56:36.000Z",
-      "description": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅 直播吧",
-      "titleZh": "杜兰特：我很早就明白，女生不属于你，哪怕他是你女朋友😅",
-      "summaryZh": "直播吧引用凯文·杜兰特的言论，他表示很早就明白“女生不属于你，哪怕他是你女朋友”，这一观点引发了公众对其个人情感观的讨论。",
-      "detailsZh": "事实：直播吧转载了凯文·杜兰特的一段言论，内容为“我很早就明白，女生不属于你，哪怕他是你女朋友😅”。该言论带有表情符号，语气较为轻松或自嘲。评论：这段言论反映了杜兰特在私人生活领域的某种哲学思考或经历后的感悟，可能与他的多段恋情及公众形象有关。它展示了明星在社交媒体或采访中展现出的个人一面，容易引发粉丝和媒体的解读与传播。传闻：无具体事件背景，仅为个人观点表达。",
-      "keyPoints": [
-        "杜兰特发表关于感情归属感的言论",
-        "称“女生不属于你”",
-        "言论引发对个人情感观的讨论"
+        "阿门·汤普森签下2.08亿美元大合同",
+        "杜兰特公开表达祝贺与支持",
+        "分享老将经验给年轻球员"
       ],
       "category": "场外",
       "importance": 2
@@ -100,34 +61,70 @@
       "publishedAt": "2026-09-04T03:10:52.000Z",
       "description": "The Association: Kevin Durant moving closer to another milestone NBA.com",
       "titleZh": "The Association: Kevin Durant moving closer to another milestone",
-      "summaryZh": "NBA官网报道，凯文·杜兰特正在接近职业生涯中的又一个重要数据统计里程碑，具体细节需查阅原文确认。",
-      "detailsZh": "事实：NBA官网（The Association栏目）发布消息，指出凯文·杜兰特正接近达成另一项职业生涯里程碑。由于标题未指明具体是哪项数据（如总得分、助攻数等），无法确定确切数值。评论：作为NBA历史得分榜前列的球员，杜兰特几乎每个赛季都在接近新的里程碑。这类报道通常旨在提醒球迷关注其持续的职业成就。鉴于NBA官网的权威性，该信息可信度高。传闻：无相关传闻。",
+      "summaryZh": "NBA官网“The Association”栏目指出，凯文·杜兰特正在接近职业生涯的又一个重要数据统计里程碑。虽然未明确具体数字，但结合其历史得分能力，外界普遍推测可能涉及总得分榜排名的提升或特定进攻数据的突破。",
+      "detailsZh": "【事实】NBA官方媒体平台发布文章称，杜兰特正稳步接近一个新的职业生涯里程碑。鉴于杜兰特是NBA历史上最高效的得分手之一，且已位列历史得分榜前列，这一里程碑极有可能是指他超越某位传奇球星的历史总得分纪录，或是达到某一特定的助攻/篮板累计数值。\n\n【评论】无论具体指标为何，都再次印证了杜兰特惊人的持久力和稳定性。在竞争激烈的现代NBA，能够持续积累高阶数据并保持高效输出，是其名人堂级别地位的体现。\n\n【传闻】目前尚无官方确认的具体里程碑数字。部分媒体猜测可能是进入历史得分前10或前5，但这仅为基于当前排名的推测，需等待官方数据更新确认。",
       "keyPoints": [
-        "NBA官网报道杜兰特接近新里程碑",
-        "具体里程碑类型未明确",
-        "体现其持续的职业生涯成就"
+        "杜兰特接近职业生涯新里程碑",
+        "数据来源为NBA官网The Association",
+        "具体指标尚未完全公开确认"
       ],
       "category": "比赛",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiiAFBVV95cUxPUFR3TEFkczM3M01NbmFfWTBiTVZScHBSSjZYNkRkRTE1TVVnMzRVMTAyUFktWjhDR0ZPNVN3enBZbTZFQnlZeVpJNktLSmZRU2p2Q25YN1FNSWVEYmgzS2NnREh0eVQ0UmREa3ZXQjJzZ2c2Y0JLQUFSbWVTT3hfUGwwTEFiZktY",
-      "title": "投资界AI周报| 杜兰特赚翻了",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFR3TEFkczM3M01NbmFfWTBiTVZScHBSSjZYNkRkRTE1TVVnMzRVMTAyUFktWjhDR0ZPNVN3enBZbTZFQnlZeVpJNktLSmZRU2p2Q25YN1FNSWVEYmgzS2NnREh0eVQ0UmREa3ZXQjJzZ2c2Y0JLQUFSbWVTT3hfUGwwTEFiZktY?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-04T10:48:00.000Z",
-      "description": "投资界AI周报| 杜兰特赚翻了 Sohu",
-      "titleZh": "投资界AI周报| 杜兰特赚翻了",
-      "summaryZh": "搜狐网报道，在一份投资界AI周报中，凯文·杜兰特因其成功的商业投资和理财策略而被提及，形容其“赚翻了”，凸显其在赛场外的商业头脑。",
-      "detailsZh": "事实：搜狐网转发了关于投资界的AI周报内容，其中提到凯文·杜兰特在商业投资方面取得了巨大成功，用词为“赚翻了”。评论：杜兰特近年来积极涉足科技、体育等领域的投资，包括早期入股Uber、建立自己的品牌等，被视为运动员商业转型的成功案例。该报道强调了其作为企业家的一面，而不仅仅是篮球运动员。传闻：无负面传闻，主要为正面商业成就展示。",
+      "id": "durant:CBMitwFBVV95cUxNWGVjNC1IMlZ1MElOMXg3d2F6Z3ZQaGxXUFc2WGFOeDJrS0hRTUk2cG9oUTlCZVpkSzNlU09BandDcVV0blhEbTcyb0ZiN2VOVDBzY1F6ZVUtZko3bUJMQUxDczFuZFRWcVZuZW9yRjlVYmxJdTVyRHJmc0N2OVZ0Y0h4dXRQV0l6aEJHaURDTXNSVFdQYkZEaXZ4QkdUTWh6dWFFYnFGQzR5YlhMQ1lOLU0wcnRzZlE",
+      "title": "Kevin Durant called out by Rockets teammate amid struggles against Lakers",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGVjNC1IMlZ1MElOMXg3d2F6Z3ZQaGxXUFc2WGFOeDJrS0hRTUk2cG9oUTlCZVpkSzNlU09BandDcVV0blhEbTcyb0ZiN2VOVDBzY1F6ZVUtZko3bUJMQUxDczFuZFRWcVZuZW9yRjlVYmxJdTVyRHJmc0N2OVZ0Y0h4dXRQV0l6aEJHaURDTXNSVFdQYkZEaXZ4QkdUTWh6dWFFYnFGQzR5YlhMQ1lOLU0wcnRzZlE?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-09-04T01:08:17.000Z",
+      "description": "Kevin Durant called out by Rockets teammate amid struggles against Lakers BasketNews.com",
+      "titleZh": "Kevin Durant called out by Rockets teammate amid struggles against Lakers",
+      "summaryZh": "BasketNews.com报道，在对阵洛杉矶湖人队的比赛中，凯文·杜兰特表现挣扎，随后遭到同队队友的公开批评或严厉指责。这一事件揭示了球队内部在关键时刻对胜负责任的分配问题，以及老将与新援之间的磨合挑战。",
+      "detailsZh": "【事实】据BasketNews.com消息，在一场对阵湖人队的比赛中，杜兰特未能打出预期水平，数据表现不佳。赛后，一名火箭队队友（具体姓名未在摘要中详述，但暗示为队内核心或性格直率的球员）对其表现提出了批评。这种公开的“点名”现象在竞技体育中虽不罕见，但在拥有巨星的队伍中仍具新闻价值。\n\n【评论】这反映了职业篮球的残酷性：成绩是硬道理。队友的批评并非一定出于恶意，更多是出于对胜利的渴望和对团队标准的坚持。对于杜兰特而言，如何适应不同文化背景下的更衣室沟通方式，以及如何用表现回应质疑，将是赛季中的重要课题。\n\n【传闻】无迹象表明杜兰特因此与队友产生不可调和的矛盾或要求交易。此类冲突通常会在赛后通过沟通化解，属于正常的竞技摩擦。",
       "keyPoints": [
-        "杜兰特因商业投资成功被报道",
-        "被称为“赚翻了”",
-        "展现其出色的商业头脑和投资眼光"
+        "杜兰特对阵湖人表现低迷",
+        "遭火箭队友公开批评",
+        "反映球队内部高压环境"
+      ],
+      "category": "比赛",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihgFBVV95cUxORDluelJqMFZ0a2RwUVBhTG1nSExfM0w3WUY1WkJHWEVUOXFLSUkzZlYzcEg0M1k4OHNIcTVRQkZaMUtldFdQUF90Y3RzVHNLQ1ZINVNiTlM5VU0zMmZkV1VYZFplNFh2U09lTmpWT1d4UTRXbEJUbGVBZVJQaUEtOE1zODhpQQ",
+      "title": "Warriors Predicted to Reunite With Kevin Durant in 4-Team Blockbuster Trade",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORDluelJqMFZ0a2RwUVBhTG1nSExfM0w3WUY1WkJHWEVUOXFLSUkzZlYzcEg0M1k4OHNIcTVRQkZaMUtldFdQUF90Y3RzVHNLQ1ZINVNiTlM5VU0zMmZkV1VYZFplNFh2U09lTmpWT1d4UTRXbEJUbGVBZVJQaUEtOE1zODhpQQ?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-04T01:47:00.000Z",
+      "description": "Warriors Predicted to Reunite With Kevin Durant in 4-Team Blockbuster Trade heavy.com",
+      "titleZh": "Warriors Predicted to Reunite With Kevin Durant in 4-Team Blockbuster Trade",
+      "summaryZh": "Heavy.com引用匿名人士观点预测，金州勇士队可能在未来的四队重磅交易中重新签回凯文·杜兰特。该报道分析了勇士目前的阵容需求与杜兰特的潜在市场价值，但明确指出这仅是媒体预测，非实际发生的交易。",
+      "detailsZh": "【事实】Heavy.com发表文章，基于对当前NBA格局的分析，预测金州勇士队有可能通过一笔涉及四支球队的大交易重新得到凯文·杜兰特。文章列举了勇士可能提供的筹码以及涉及的第三方球队，试图论证这一假设性交易的可行性。\n\n【评论】此类“重聚”话题每隔一段时间就会因杜兰特的自由身或交易流言而升温。然而，考虑到杜兰特目前的年龄、合同状况以及勇士队的重建方向，这种可能性在实际操作中面临巨大的薪资空间和阵容平衡障碍。媒体倾向于制造此类怀旧叙事以吸引流量。\n\n【传闻】截至目前，没有任何官方消息证实勇士有意或有能力执行此类交易。这纯粹是基于阵容逻辑推演的猜测，不具备现实操作性基础。",
+      "keyPoints": [
+        "媒体预测勇士可能通过四队交易迎回杜兰特",
+        "分析涉及阵容需求与市场价值",
+        "确认为媒体猜测，非真实交易"
+      ],
+      "category": "交易",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMipwFBVV95cUxPMkFEbVRDNWl4SkxrTjNWbGZhNUNCNHFWQnE3NEhmUEhQUkMtVDR0X0ZoMzlnUXJoVXNKMG1wVW9rYWl2Y3FfNXBtekJ4eDZBTno1Z0xXU0FJMTU5cEM5STQ4OTk1d282TFlDQ1dWdHhNUFRQSnVOYjZOSmpxYk50UklBRGpDNWVpeFhtbmV0MG1FNnlISDZnOThvZlN1bnpGeGhmVGFMYw",
+      "title": "NBA Superstar Kevin Durant Gets Honest About His Legacy",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkFEbVRDNWl4SkxrTjNWbGZhNUNCNHFWQnE3NEhmUEhQUkMtVDR0X0ZoMzlnUXJoVXNKMG1wVW9rYWl2Y3FfNXBtekJ4eDZBTno1Z0xXU0FJMTU5cEM5STQ4OTk1d282TFlDQ1dWdHhNUFRQSnVOYjZOSmpxYk50UklBRGpDNWVpeFhtbmV0MG1FNnlISDZnOThvZlN1bnpGeGhmVGFMYw?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-04T20:28:42.000Z",
+      "description": "NBA Superstar Kevin Durant Gets Honest About His Legacy Sports Illustrated",
+      "titleZh": "NBA Superstar Kevin Durant Gets Honest About His Legacy",
+      "summaryZh": "NBA Superstar Kevin Durant Gets Honest About His Legacy Sports Illustrated",
+      "detailsZh": "NBA Superstar Kevin Durant Gets Honest About His Legacy Sports Illustrated",
+      "keyPoints": [
+        "NBA Superstar Kevin Durant Gets Honest About His Legacy"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -148,20 +145,20 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxPRnV0WlJaSkpRTnZXQmUweW5lcmdOdExKaThIckJKTnRSXzdyUjJqYmZfV2VKVnZPQlhFT2IyX3JrMDd2Um5haExwSGtJbnpLakNQYWx0QnRKNDBRVUdtdzNZUnFDQjkyYlQyUS1mRlZWNV8wdUtSTDN0ODh5cWIwUw",
-      "title": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnV0WlJaSkpRTnZXQmUweW5lcmdOdExKaThIckJKTnRSXzdyUjJqYmZfV2VKVnZPQlhFT2IyX3JrMDd2Um5haExwSGtJbnpLakNQYWx0QnRKNDBRVUdtdzNZUnFDQjkyYlQyUS1mRlZWNV8wdUtSTDN0ODh5cWIwUw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-04T08:20:49.000Z",
-      "description": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟 新浪网",
-      "titleZh": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟",
-      "summaryZh": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟 新浪网",
-      "detailsZh": "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟 新浪网",
+      "id": "durant:CBMikgJBVV95cUxPM3o4UWNfUF9Td0p4c2hlcmNqc2pjMXpCQ0U4VGxoVXMzbmNsSzVvOTY2ckVLSE42TF9seUJIbHFCcmt4VnpJa2k2ZWZubXRVdTdrbkpLd1hQbnU2bFM5SThCM0Z0dmtwWUxYSnUyVlVFYzBwZlBTcFZzak5wR3dWc1NXc2tZbDUtT0Flb193Mmlib1ZJX1VwY1JteFlZcDZaTHZRdUNCS1ZRX0MzczNWamIxRVN1ZWtaUzl4YTJuQzNkbEpaSXpJRWxqckU4Wk9OWUc2a1ZQaW5UWEFzdmRZczdsX21HS2lEWHdQOG1hem1UTWh4ajJ0X3ZEaVVFUERFSGpyV0s2NkZrZGlVWVQ0clRB",
+      "title": "Kevin Durant’s Rockets Teammate Signs Massive $208 Million Deal, Makes Franchise Record",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPM3o4UWNfUF9Td0p4c2hlcmNqc2pjMXpCQ0U4VGxoVXMzbmNsSzVvOTY2ckVLSE42TF9seUJIbHFCcmt4VnpJa2k2ZWZubXRVdTdrbkpLd1hQbnU2bFM5SThCM0Z0dmtwWUxYSnUyVlVFYzBwZlBTcFZzak5wR3dWc1NXc2tZbDUtT0Flb193Mmlib1ZJX1VwY1JteFlZcDZaTHZRdUNCS1ZRX0MzczNWamIxRVN1ZWtaUzl4YTJuQzNkbEpaSXpJRWxqckU4Wk9OWUc2a1ZQaW5UWEFzdmRZczdsX21HS2lEWHdQOG1hem1UTWh4ajJ0X3ZEaVVFUERFSGpyV0s2NkZrZGlVWVQ0clRB?oc=5",
+      "source": "basketballnews.com",
+      "publishedAt": "2026-09-04T09:30:04.000Z",
+      "description": "Kevin Durant’s Rockets Teammate Signs Massive $208 Million Deal, Makes Franchise Record basketballnews.com",
+      "titleZh": "Kevin Durant’s Rockets Teammate Signs Massive $208 Million Deal, Makes Franchise Record",
+      "summaryZh": "Kevin Durant’s Rockets Teammate Signs Massive $208 Million Deal, Makes Franchise Record basketballnews.com",
+      "detailsZh": "Kevin Durant’s Rockets Teammate Signs Massive $208 Million Deal, Makes Franchise Record basketballnews.com",
       "keyPoints": [
-        "火箭队史第一人！阿门续签5年2.08亿引热议 杜兰特申京恭喜好兄弟"
+        "Kevin Durant’s Rockets Teammate Signs Massive $208 Million Deal, Makes Franchise Record"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -169,39 +166,16 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-04T18:23:19.111Z",
+      "publishedAt": "2026-09-04T21:27:29.651Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "游戏主播陈泽百科资料页（固定入口）",
-      "summaryZh": "本条目为游戏主播陈泽的固定百科资料聚合页，非时效性新闻。内容涵盖其职业背景、直播平台迁移记录及公开活动轨迹，供读者查阅基础档案。",
-      "detailsZh": "【事实】该页面系百度百科收录的固定资料入口，持续更新主播公开履历与平台归属信息。自2024年起，其直播主阵地已明确转移至抖音平台。【评论】百科类页面通常由社区用户协作维护，信息存在滞后或主观修饰可能，建议以官方渠道为准。【传闻】网传部分早年虎牙房间号仍被误作当前直播间，实为历史数据残留，请勿混淆。本条目仅作静态档案参考，不作为当日动态发布。",
+      "titleZh": "陈泽",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "固定百科资料入口，非当日新闻",
-        "明确标注2024年转战抖音的主阵地变更",
-        "需区分历史虎牙房间与当前官方直播间",
-        "信息以官方渠道核实为准"
+        "陈泽"
       ],
       "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw",
-      "title": "陈泽在西安线下现场有哪些互动环节？",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-29T08:24:14.000Z",
-      "description": "陈泽在西安线下现场有哪些互动环节？ 新浪网",
-      "titleZh": "陈泽西安线下活动现场互动环节纪实",
-      "summaryZh": "游戏主播陈泽近期赴西安举办线下粉丝见面会，现场设置多轮互动环节。活动聚焦游戏话题交流与粉丝福利发放，整体氛围热烈，相关片段已在社交平台扩散传播。",
-      "detailsZh": "【事实】据新浪新闻报道，陈泽于8月29日在西安开展线下活动，包含签名合影、游戏挑战赛及问答抽奖等环节。现场安保与秩序维护由主办方统筹，未发生安全事故。【评论】此类线下互动有助于强化主播与核心粉丝的情感联结，但商业变现模式仍依赖线上流量反哺。【传闻】网络流传“现场有神秘嘉宾空降”属未经证实的营销话术，实际仅为常规粉丝互动。活动全程录像将择期剪辑发布。",
-      "keyPoints": [
-        "西安线下见面会顺利举行",
-        "设置签名、挑战赛与问答抽奖环节",
-        "现场秩序良好无安全事故",
-        "神秘嘉宾说法系未经证实传闻"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -213,100 +187,14 @@
       "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "游戏主播陈泽抖音官方直播间（固定入口）",
-      "summaryZh": "本链接为游戏主播陈泽自2024年转战后的抖音官方直播固定入口。抖音号为9896719，通常于晚间时段开播，具体排期请以抖音平台实时状态为准。",
-      "detailsZh": "【事实】该页面为抖音平台认证的官方直播间直达链接，绑定抖音号9896719。自2024年初完成平台迁移后，此账号已成为其唯一官方直播阵地。【评论】固定入口类页面不具备新闻属性，仅作为观众观看直播的技术通道。建议关注官方公告获取最新开播时间表。【传闻】部分第三方网站仍错误挂载旧版虎牙房间链接，属过时信息，切勿点击以免遭遇钓鱼风险。请认准抖音官方标识。",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "keyPoints": [
-        "抖音官方直播间固定入口",
-        "抖音号：9896719",
-        "2024年起为唯一主阵地",
-        "晚间常态开播，以平台状态为准"
+        "陈泽- 抖音直播间"
       ],
       "category": "直播",
       "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
-      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "封面新闻",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第二季第二集上线",
-      "summaryZh": "游戏主播陈泽主导制作的自制综艺《OK了老铁们》第二季第二集正式播出。本期以“熟人局”为主题，前往重庆展开山城实景挑战，首小时点赞量突破百万，热度持续攀升。",
-      "detailsZh": "【事实】封面新闻确认，《OK了老铁们》第二季第二集于8月15日全网上线。节目采用实景探访形式，陈泽邀请多位圈内好友参与重庆地形挑战与趣味任务。首播数据表现优异，单小时点赞破百万。【评论】自制综艺标志着主播从单一游戏直播向内容IP化转型，有利于延长个人品牌生命周期。制作水准较往期有明显提升，但剧本痕迹偶有显露。【传闻】网传“原班人马全部回归”尚未获官方完整名单确认，实际阵容存在微调。节目后续更新节奏待观察。",
-      "keyPoints": [
-        "《OK了老铁们》第二季第二集正式上线",
-        "重庆实景挑战与熟人局主题",
-        "首播一小时点赞突破百万",
-        "自制综艺推进IP化转型"
-      ],
-      "category": "节目",
-      "importance": 5
-    },
-    {
-      "id": "chenze:chenze-sina-20260813",
-      "title": "陈泽行程动态：赴海南庆生及综艺上线",
-      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
-      "source": "新浪新闻",
-      "categoryHint": "节目",
-      "publishedAt": "2026-08-13T20:20:54.000Z",
-      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
-      "subject": "chenze",
-      "titleZh": "陈泽海南庆生行程与综艺上线动态汇总",
-      "summaryZh": "游戏主播陈泽近期公开行程显示，其曾赴海南庆祝生日，并同步推进自制综艺的后期制作与上线工作。多项公开活动密集安排，反映其团队运营趋于常态化。",
-      "detailsZh": "【事实】新浪新闻梳理其8月中旬行程，确认陈泽曾前往海南进行私人庆生活动，期间未进行公开直播。同期，其团队正紧锣密鼓推进《OK了老铁们》第二季宣发，确保节目按时上线。【评论】艺人行程公开化是商业化运作的必然结果，但私人庆生细节过度曝光可能引发隐私争议。团队目前采取“工作优先、生活适度公开”的策略，符合行业规范。【传闻】关于“庆生宴邀请大量竞品主播”的说法缺乏实锤，大概率为主播社交圈正常往来。具体嘉宾名单未对外披露。",
-      "keyPoints": [
-        "近期赴海南进行私人庆生活动",
-        "未进行公开直播，专注行程与制作",
-        "同步推进自制综艺上线宣发",
-        "团队运营策略趋于成熟稳定"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMigAFBVV95cUxPZmlnN1l2cFdvWGhMMTVrbWVveDVCWnZfUkNxTmxiWkFrZ3Ewb1JSRjZQd3dJdk12V0F4ZzJyVEY0ZnpBYVhVeGVFM2w3U2pmLTRPRXdrRVY3Z2FPdWpCcF9FaEVGQng5dnQzT0lzNGpoS0RxUkVtdU56OHZiZUtaRA",
-      "title": "《OK了老铁们2》原班人马是否全部回归？|陈泽|第二季|预告片|第一季|节目_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmlnN1l2cFdvWGhMMTVrbWVveDVCWnZfUkNxTmxiWkFrZ3Ewb1JSRjZQd3dJdk12V0F4ZzJyVEY0ZnpBYVhVeGVFM2w3U2pmLTRPRXdrRVY3Z2FPdWpCcF9FaEVGQng5dnQzT0lzNGpoS0RxUkVtdU56OHZiZUtaRA?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-08-08T07:00:00.000Z",
-      "description": "《OK了老铁们2》原班人马是否全部回归？|陈泽|第二季|预告片|第一季|节目_手机新浪网 新浪网",
-      "titleZh": "《OK了老铁们2》原班人马回归情况探讨",
-      "summaryZh": "针对自制综艺《OK了老铁们》第二季阵容变动，网络热议原班人马是否全员回归。官方预告片释放部分线索，实际录制阵容存在人员调整，引发粉丝期待与猜测。",
-      "detailsZh": "【事实】新浪网报道指出，第二季预告片已释出，但并未完全沿用第一季固定班底。节目组通过试录与筛选，对部分常驻嘉宾进行了替换或增补，以适应新季内容需求。【评论】综艺季播化必然伴随阵容迭代，适度调整有助于注入新鲜感，但也可能流失原有观众基本盘。制作方需在情怀与创新间寻找平衡点。【传闻】网传某知名头部主播因档期冲突退出，纯属自媒体臆测。官方仅表示“核心创作团队保持稳定”，具体合作意向以合同为准。",
-      "keyPoints": [
-        "第二季预告片已释出阵容线索",
-        "原班底未完全沿用，存在人员调整",
-        "制作方强调核心创作团队稳定",
-        "退出传闻系未经证实的网络臆测"
-      ],
-      "category": "节目",
-      "importance": 4
-    },
-    {
-      "id": "chenze:chenze-douyin-2024",
-      "title": "陈泽 2024 年转战抖音开启直播",
-      "url": "https://news.zhibo8.com/game/2024-02-05/65c07a51cb309native.htm",
-      "source": "直播吧",
-      "categoryHint": "直播",
-      "publishedAt": "2024-02-05T14:07:52.000Z",
-      "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "游戏主播陈泽2024年平台迁移历史记录",
-      "summaryZh": "本资料记录游戏主播陈泽于2024年2月正式将直播主阵地从虎牙迁移至抖音的历史节点。此为过往平台变更档案，仅作背景参考，不构成当日新闻事件。",
-      "detailsZh": "【事实】直播吧等媒体于2024年2月5日报道，陈泽因合约到期及个人发展规划，全面停止虎牙平台直播业务，并将所有直播内容与粉丝社群转移至抖音。此次迁移为长期战略决策。【评论】主播跨平台流动是行业常态，抖音的算法推荐机制为其带来了更广泛的泛娱乐受众。此举虽短期损失部分硬核游戏玩家，但长期利于商业价值最大化。【传闻】所谓“因数据造假被迫离开虎牙”的说法已被多方辟谣，实为双方友好解约。历史资料仅供追溯其职业发展轨迹使用。",
-      "keyPoints": [
-        "2024年2月正式迁移至抖音平台",
-        "虎牙合约到期，双方友好解约",
-        "战略转向泛娱乐与算法推荐生态",
-        "属历史档案，非当日新闻事件"
-      ],
-      "category": "直播",
-      "importance": 2
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -323,7 +211,61 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
+      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
+      "source": "封面新闻",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "keyPoints": [
+        "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "chenze:chenze-sina-20260813",
+      "title": "陈泽行程动态：赴海南庆生及综艺上线",
+      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
+      "source": "新浪新闻",
+      "categoryHint": "节目",
+      "publishedAt": "2026-08-13T20:20:54.000Z",
+      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "subject": "chenze",
+      "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
+      "summaryZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "detailsZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "keyPoints": [
+        "陈泽行程动态：赴海南庆生及综艺上线"
+      ],
+      "category": "节目",
+      "importance": 3
+    },
+    {
+      "id": "chenze:chenze-douyin-2024",
+      "title": "陈泽 2024 年转战抖音开启直播",
+      "url": "https://news.zhibo8.com/game/2024-02-05/65c07a51cb309native.htm",
+      "source": "直播吧",
+      "categoryHint": "直播",
+      "publishedAt": "2024-02-05T14:07:52.000Z",
+      "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽 2024 年转战抖音开启直播",
+      "summaryZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "detailsZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "keyPoints": [
+        "陈泽 2024 年转战抖音开启直播"
+      ],
+      "category": "直播",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -333,17 +275,14 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话（固定资料入口）",
-      "summaryZh": "该超话为粉丝与读者聚合的固定讨论区，收录历史动态、作品朗读及二次创作内容，非实时新闻更新页。",
-      "detailsZh": "【事实】该页面为新浪微博设立的超级话题固定入口，长期承担“大咕咕咕鸡”相关历史动态归档、读者留言与二次创作内容的集中展示功能。【评论】社区氛围偏向怀旧与文本考据，客观折射出2010年代中期微博段子文化的兴衰脉络。【传闻】坊间偶有传言称部分争议性帖子遭算法屏蔽，但平台未予公开说明。本条目明确为固定资料索引，绝不伪装为当日新闻。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "keyPoints": [
-        "微博超话固定入口",
-        "粉丝讨论与二创聚合",
-        "非实时新闻更新",
-        "历史内容归档"
+        "大咕咕咕鸡公开动态与超话"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -353,17 +292,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩作品朗读与视频检索（固定资料入口）",
-      "summaryZh": "该搜索聚合页汇集网友对大咕咕咕鸡经典段落的有声朗读、图文解析及相关解说视频，属静态资源索引页。",
-      "detailsZh": "【事实】页面通过关键词检索展示B站用户制作的音频朗读、图文解析与历史影像片段，无官方运营主体介入。【评论】此类二创内容多聚焦于其2013至2015年间的爆款段子，生动体现了网络语言从图文向视频平台的跨媒介迁移趋势。【传闻】有观众认为部分高播放量视频存在断章取义或过度解读，但缺乏权威渠道核实。本条目为固定检索工具，不具新闻时效。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "B站视频资源聚合",
-        "有声朗读与解说为主",
-        "跨媒介传播案例",
-        "固定检索入口"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -373,17 +309,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物与创作资料（固定资料入口）",
-      "summaryZh": "该维基词条系统梳理其常用笔名、核心写作风格、代表段落及网络语言影响，属百科类固定参考资料。",
-      "detailsZh": "【事实】该词条依据公开可查的网络记录与媒体报道编纂，涵盖其活跃周期、标志性句式及对中文互联网的造词贡献。【评论】学界与媒体常将其视为早期自媒体时代“草根段子手”现象的典型样本，其文本具有鲜明的反讽、解构与情绪共鸣特征。【传闻】关于其真实身份与淡出公众视野的具体原因存在多种民间猜测，维基仅收录已验证信息，未采纳未经证实的隐私爆料。本条目为固定百科索引。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "keyPoints": [
-        "百科式人物档案",
-        "写作风格与造词贡献",
-        "早期自媒体典型样本",
-        "固定参考资料"
+        "大咕咕咕鸡人物与创作资料"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -393,17 +326,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库微博账号数据资料（固定资料入口）",
-      "summaryZh": "该页面提供第三方数据平台整理的微博账号基础信息与历史传播指标，主要用于行业分析而非动态追踪。",
-      "detailsZh": "【事实】页面展示该账号的认证状态、粉丝基数、历史互动量等结构化数据，由商业KOL监测工具自动生成并定期更新。【评论】数据侧面印证了其巅峰期的流量号召力与商业价值，但推荐算法的周期性调整可能导致历史热度被重新放大或稀释。【传闻】市场偶有传言称其账号曾遭遇限流或尝试过商业化转型，均无本人或团队正式回应佐证。本条目属固定数据看板，不作新闻发布。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "第三方数据平台索引",
-        "账号基础与传播指标",
-        "流量影响力参考",
-        "固定数据看板"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -413,17 +343,14 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：段子手创作生态（历史文献）",
-      "summaryZh": "该篇发布于2015年的行业观察文章，系统剖析其创作手法与网络语言演变轨迹，属历史性报道存档。",
-      "detailsZh": "【事实】该文发表于2015年5月，系统回顾其文本结构、传播路径及对当时社交媒体语境的塑造作用，引用了多方公开信源。【评论】报道将其置于“草根网红崛起”的行业背景下，指出其内容兼具娱乐消遣与社会情绪宣泄功能，是研究中文互联网亚文化演进的重要切片。【传闻】文中提及的部分合作机构与平台政策变动细节，后续因资料归档不全难以完全核验。本条目为历史文献存档，非当日动态。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "keyPoints": [
-        "2015年深度报道",
-        "创作手法与语言演变",
-        "草根网红现象研究",
-        "历史文献存档"
+        "大咕咕咕鸡与网络段子手创作生态"
       ],
-      "category": "讨论",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     }
   ]
 }
