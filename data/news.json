@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T09:06:16.932Z",
+  "updatedAt": "2026-09-05T12:45:01.267Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,100 +16,23 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://bbs.hupu.com/642261020.html",
-      "title": "[流言板]过去5个赛季场均上场时间排行榜:杜兰特37.0分钟高居第一 ",
-      "url": "https://bbs.hupu.com/642261020.html",
-      "source": "虎扑体育网",
-      "publishedAt": "2026-09-05T09:03:20.211Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "过去五赛季场均出场时间统计显示杜兰特位列第一",
-      "summaryZh": "体育数据统计显示，过去五个赛季中凯文·杜兰特场均出场时间达到37.0分钟，在联盟球员中高居榜首。该数据直观反映其近期承担较重的比赛负荷与战术依赖度。",
-      "detailsZh": "【事实】相关体育媒体整理的数据指出，杜兰特在过去五个赛季的常规赛场均出场时间约为37.0分钟，排名全联盟第一。【评论】部分分析认为，高龄球星维持如此高的出勤与时长，与其核心地位及教练战术安排密切相关。【传闻】网传其训练师透露夏季重点进行体能储备与恢复性训练，旨在应对长赛季消耗。目前该数据尚未获NBA官方最终确认，具体排名可能随赛季末段轮休调整而变化。",
-      "keyPoints": [
-        "过去五赛季场均出场约37.0分钟",
-        "数据暂列联盟首位",
-        "训练师提及夏季侧重体能储备",
-        "实际排名或受赛季末轮休影响"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxQMXpkZTU5QzU3clZGbnpQX2gtTE11ZVRRbG51NWMwMnZqc2tYLTh4ZURqNndsSkxieXlKeEExREZPbUdTd0JQSUhENVB2c09HcWJYRENkZHdJSi1IVTdScm1GMjlEcWhuOEZ1Q1RBQlJ3ZHJ1R205YnFvLWpTN3hWcEdtSFg",
-      "title": "KD训练师：夏天进行了大量的包夹练习 确保他提升破包夹传球能力",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXpkZTU5QzU3clZGbnpQX2gtTE11ZVRRbG51NWMwMnZqc2tYLTh4ZURqNndsSkxieXlKeEExREZPbUdTd0JQSUhENVB2c09HcWJYRENkZHdJSi1IVTdScm1GMjlEcWhuOEZ1Q1RBQlJ3ZHJ1R205YnFvLWpTN3hWcEdtSFg?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-05T03:27:28.000Z",
-      "description": "KD训练师：夏天进行了大量的包夹练习 确保他提升破包夹传球能力 Sina Sports",
-      "titleZh": "训练师透露杜兰特今夏强化破包夹传球与进攻效率",
-      "summaryZh": "杜兰特训练师透露，球员今夏投入大量时间专项演练破包夹战术与传球视野。他强调杜兰特已不再以超越历史得分纪录为目标，而是专注于减少出手次数、提升整体进攻效率。",
-      "detailsZh": "【事实】据训练团队对外披露的信息，杜兰特在休赛期针对防守方频繁采用的包夹策略进行了针对性强化，重点打磨高位策应与突破分球能力。同时，训练师明确否认了“追逐科比得分纪录”的说法，指出球员当前战术定位更偏向于高效终结与串联全队。【评论】篮球分析师普遍认为，随着年龄增长，降低持球比例、优化出手选择是延长职业生涯的科学路径。【传闻】社交媒体流传其已完全退出全明星票选竞争，仅保留战术核心身份，此说法缺乏球队官方证实，属球迷圈层猜测。",
-      "keyPoints": [
-        "今夏专项强化破包夹传球技术",
-        "明确放弃冲击历史得分榜目标",
-        "战术重心转向高效终结与组织",
-        "年龄增长促使出手选择更趋理性"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPXzM3clJwWVFad0Z6QzZWbHA1TkIzVjV6aTlIUGQyN2F5RXpTSDBRV0lYVHFtZEJMazc5U0RrOFR6cjU4LWNIbEtlb3FKUGx1aDZyX3NTQnBvMkFtR2FNeWQzN19oUllDRS1sN3BXS19iaTNpeTBSMjV1eWJMWHZLd2MxZllXQXJRM3dHZQ",
-      "title": "杜兰特回应湖人招募：想让我加盟，那么就请答应我两个条件",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzM3clJwWVFad0Z6QzZWbHA1TkIzVjV6aTlIUGQyN2F5RXpTSDBRV0lYVHFtZEJMazc5U0RrOFR6cjU4LWNIbEtlb3FKUGx1aDZyX3NTQnBvMkFtR2FNeWQzN19oUllDRS1sN3BXS19iaTNpeTBSMjV1eWJMWHZLd2MxZllXQXJRM3dHZQ?oc=5",
+      "id": "durant:CBMijAFBVV95cUxOdUNEaTN0UHVZUEdSemszaE5yNEhfTG5UREdlSldCY09FeTJKaEl6d2xNejBGUWthNkVRRUEzNHJFdmFNeERvdk1KRjN2TEhNX3pobW1zWnZrdTlabTVfLUZtQWlmUnE4UTVnbThGMEszenpsRkduZzBTZGRwRk5vNDlrbFQtS0p5aHFWaQ",
+      "title": "杜兰特聊场边回怼球迷：挑衅我就会回击，不会随便让人被保安赶走！",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUNEaTN0UHVZUEdSemszaE5yNEhfTG5UREdlSldCY09FeTJKaEl6d2xNejBGUWthNkVRRUEzNHJFdmFNeERvdk1KRjN2TEhNX3pobW1zWnZrdTlabTVfLUZtQWlmUnE4UTVnbThGMEszenpsRkduZzBTZGRwRk5vNDlrbFQtS0p5aHFWaQ?oc=5",
       "source": "Sohu",
-      "publishedAt": "2026-09-05T02:23:59.000Z",
-      "description": "杜兰特回应湖人招募：想让我加盟，那么就请答应我两个条件 Sohu",
-      "titleZh": "杜兰特就潜在转会传闻提出加盟前提条件",
-      "summaryZh": "针对外界关于洛杉矶湖人队寻求引进杜兰特的报道，球员本人通过渠道回应称若达成合作需满足两项具体条件。该表态引发多方对后续自由市场走向的广泛讨论。",
-      "detailsZh": "【事实】多家媒体报道指出，杜兰特团队对潜在下家设定了明确的谈判门槛，具体条款涉及球队建队方向与薪资空间配置。球员并未直接点名特定城市，但强调需保障战术话语权与争冠窗口期。【评论】资深记者分析，此类公开表态通常用于试探管理层底线或保护现有合同价值，未必代表最终去向。【传闻】网络流传其已与某西部豪门完成初步接触，且愿意接受降薪换取顶配阵容，该消息未经双方经纪团队确认，属于典型的市场炒作。目前其仍为菲尼克斯太阳队注册球员。",
+      "publishedAt": "2026-09-05T09:57:13.000Z",
+      "description": "杜兰特聊场边回怼球迷：挑衅我就会回击，不会随便让人被保安赶走！ Sohu",
+      "titleZh": "杜兰特回应场边球迷挑衅：遇挑衅必回击，不纵容无理行为",
+      "summaryZh": "近日凯文·杜兰特在社交媒体与采访中谈及赛场外互动。他表示面对球迷挑衅会直接回怼，但强调不会允许对方被保安轻易驱离，主张保持竞技体育的尊重与边界。",
+      "detailsZh": "【事实】凯文·杜兰特近期接受采访时谈及赛场外互动原则，明确表示若遭遇球迷恶意挑衅将直接回怼，同时强调安保人员不应随意将其赶走，主张维持观赛秩序与相互尊重。【评论】此言论展现了其作为联盟顶级球星的成熟心态，既坚守底线又不失风度，有助于塑造积极的公众形象。【传闻】网络流传该回应系针对某次季后赛客场骚乱的后续澄清，但相关视频片段尚未完整公开，真实性待考。该事件属常规场外动态，未涉及竞技层面变动。",
       "keyPoints": [
-        "就转会传闻设定明确谈判门槛",
-        "强调战术话语权与争冠环境",
-        "表态多具试探性质而非定论",
-        "目前合同状态仍归属太阳队"
-      ],
-      "category": "交易",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiigFBVV95cUxNN3JPQzVjSm9UMmMtTjkwT2U5dGJCR2lFdk84bG5tS21naU9XYlJYSjBxN1dvaHVEUjhPemlwUmpDWDNkZFhDcE9XV3dCUkhLUXdlZW9Fd056WUR3Tm0tTk9ib0lzVjVnUlM2WEVVVDI4VWlGNVZ6OHA1UTlLWlJOa0t2WnVOWVFwdWc",
-      "title": "Kevin Durant Reacts To Amen Thompson’s Five-Year, $208 Million Rockets Contract Extension",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3JPQzVjSm9UMmMtTjkwT2U5dGJCR2lFdk84bG5tS21naU9XYlJYSjBxN1dvaHVEUjhPemlwUmpDWDNkZFhDcE9XV3dCUkhLUXdlZW9Fd056WUR3Tm0tTk9ib0lzVjVnUlM2WEVVVDI4VWlGNVZ6OHA1UTlLWlJOa0t2WnVOWVFwdWc?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-05T02:30:00.000Z",
-      "description": "Kevin Durant Reacts To Amen Thompson’s Five-Year, $208 Million Rockets Contract Extension Yahoo Sports",
-      "titleZh": "杜兰特就火箭新星阿门·汤普森顶薪续约发表看法",
-      "summaryZh": "休斯顿火箭队与年轻前锋阿门·汤普森达成顶薪续约协议。杜兰特在社交平台对此事作出简短回应，肯定年轻球员的潜力与球队长远规划，展现老将对新秀发展的支持态度。",
-      "detailsZh": "【事实】NBA官方公告确认火箭队与阿门·汤普森完成顶薪续约。杜兰特随后在个人社交账号转发相关消息并附言，称赞其运动天赋与成长速度，认为此举符合现代篮球培养新星的趋势。【评论】篮球评论员指出，老将公开支持年轻同僚有助于营造健康的联盟生态，也侧面反映杜兰特对自身角色转型的坦然态度。【传闻】部分论坛猜测此次互动暗示两人未来可能在自由市场或交易中产生交集，但鉴于双方合同年限与球队重建阶段差异，短期内发生人员流动的概率极低。",
-      "keyPoints": [
-        "杜兰特社交平台点赞并评论阿门续约",
-        "肯定年轻球员天赋与球队规划",
-        "体现老将对新秀发展的支持态度",
-        "跨队合作传闻缺乏现实基础"
+        "直面球迷挑衅并明确回击立场",
+        "反对安保随意驱逐观众",
+        "展现成熟公关与心态管理",
+        "传闻指向季后赛客场事件但未证实"
       ],
       "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiZEFVX3lxTFBKMzVTUnExQVRhczItM1liNFBLcGRuU2VhVzBPcndmSGhZa2VlVHVVYV9CZ0w3NF9IaHFfVDVhc0lOSjlGVmdmbXRpZXhzakI2dVpQZjY0LUdlTngyREh6NS1XbFA",
-      "title": "杜兰特：詹姆斯太懂怎么捏合冠军球队了，底薪去76人代表他的决心",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMzVTUnExQVRhczItM1liNFBLcGRuU2VhVzBPcndmSGhZa2VlVHVVYV9CZ0w3NF9IaHFfVDVhc0lOSjlGVmdmbXRpZXhzakI2dVpQZjY0LUdlTngyREh6NS1XbFA?oc=5",
-      "source": "zhibo8.cc",
-      "publishedAt": "2026-09-05T07:31:02.000Z",
-      "description": "杜兰特：詹姆斯太懂怎么捏合冠军球队了，底薪去76人代表他的决心 zhibo8.cc",
-      "titleZh": "杜兰特：詹姆斯太懂怎么捏合冠军球队了，底薪去76人代表他的决心",
-      "summaryZh": "杜兰特：詹姆斯太懂怎么捏合冠军球队了，底薪去76人代表他的决心 zhibo8.cc",
-      "detailsZh": "杜兰特：詹姆斯太懂怎么捏合冠军球队了，底薪去76人代表他的决心 zhibo8.cc",
-      "keyPoints": [
-        "杜兰特：詹姆斯太懂怎么捏合冠军球队了，底薪去76人代表他的决心"
-      ],
-      "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -119,11 +42,88 @@
       "source": "Sohu",
       "publishedAt": "2026-09-05T04:50:12.000Z",
       "description": "场均16次出手还背锅？杜兰特训练师怒怼：阵容残缺，凭啥要求单核夺冠！ Sohu",
-      "titleZh": "场均16次出手还背锅？杜兰特训练师怒怼：阵容残缺，凭啥要求单核夺冠！",
-      "summaryZh": "场均16次出手还背锅？杜兰特训练师怒怼：阵容残缺，凭啥要求单核夺冠！ Sohu",
-      "detailsZh": "场均16次出手还背锅？杜兰特训练师怒怼：阵容残缺，凭啥要求单核夺冠！ Sohu",
+      "titleZh": "训练师为杜兰特辩护：阵容残缺不应苛求单核夺冠",
+      "summaryZh": "杜兰特专属训练师公开回应外界对其出手次数与带队表现的质疑。他强调当前阵容存在结构性缺陷，要求球星在残缺体系下“单核夺冠”缺乏现实依据。",
+      "detailsZh": "【事实】训练师在接受媒体专访时指出，杜兰特上赛季场均需承担16次出手及大量组织任务，但球队阵容深度不足导致防守端压力过大。他直言外界对“无论阵容健康与否都必须赢球”的期待过于荒谬。【评论】该观点切中现代篮球阵容构建的核心逻辑，即巨星表现高度依赖战术支持与队友健康度，合理反驳了部分媒体的片面数据批判。【传闻】有球迷推测训练师暗示管理层今夏将进行核心轮换调整，但俱乐部并未发布任何人事公告，此类说法仍属市场猜测阶段。",
       "keyPoints": [
-        "场均16次出手还背锅？杜兰特训练师怒怼：阵容残缺，凭啥要求单核夺冠！"
+        "训练师驳斥单核夺冠论调",
+        "指出阵容深度与防守压力问题",
+        "强调巨星表现依赖体系支持",
+        "管理层调整传闻尚未证实"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxPXzM3clJwWVFad0Z6QzZWbHA1TkIzVjV6aTlIUGQyN2F5RXpTSDBRV0lYVHFtZEJMazc5U0RrOFR6cjU4LWNIbEtlb3FKUGx1aDZyX3NTQnBvMkFtR2FNeWQzN19oUllDRS1sN3BXS19iaTNpeTBSMjV1eWJMWHZLd2MxZllXQXJRM3dHZQ",
+      "title": "杜兰特回应湖人招募：想让我加盟，那么就请答应我两个条件",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzM3clJwWVFad0Z6QzZWbHA1TkIzVjV6aTlIUGQyN2F5RXpTSDBRV0lYVHFtZEJMazc5U0RrOFR6cjU4LWNIbEtlb3FKUGx1aDZyX3NTQnBvMkFtR2FNeWQzN19oUllDRS1sN3BXS19iaTNpeTBSMjV1eWJMWHZLd2MxZllXQXJRM3dHZQ?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-05T02:23:59.000Z",
+      "description": "杜兰特回应湖人招募：想让我加盟，那么就请答应我两个条件 Sohu",
+      "titleZh": "杜兰特回应湖人招募意向：提出两项加盟条件",
+      "summaryZh": "针对洛杉矶湖人队近期的接触传闻，凯文·杜兰特通过团队释放明确信号。他表示若考虑转会，需满足管理层承诺的两项核心条件方可推进谈判。",
+      "detailsZh": "【事实】据多家体育媒体报道，湖人球探团队已多次与杜兰特及其经纪人接洽。杜兰特方面回应称，若有意加盟西岸豪门，必须获得明确的建队话语权保障与薪资空间灵活性。【评论】此举符合其职业生涯后期的战略选择逻辑，即在争冠窗口期内寻求资源倾斜与战术核心地位。谈判进展将直接影响西部格局走向。【传闻】网传两项条件涉及指定助教团队入驻及优先选秀权交换，但湖人官方仅表示“保持开放沟通”，具体条款纯属经纪团队与市场渠道的私下博弈，暂无实锤。",
+      "keyPoints": [
+        "明确回应湖人招募接触",
+        "提出建队话语权与薪资条件",
+        "符合生涯后期争冠战略",
+        "具体条款属市场传闻待核实"
+      ],
+      "category": "交易",
+      "importance": 5
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiigFBVV95cUxNN3JPQzVjSm9UMmMtTjkwT2U5dGJCR2lFdk84bG5tS21naU9XYlJYSjBxN1dvaHVEUjhPemlwUmpDWDNkZFhDcE9XV3dCUkhLUXdlZW9Fd056WUR3Tm0tTk9ib0lzVjVnUlM2WEVVVDI4VWlGNVZ6OHA1UTlLWlJOa0t2WnVOWVFwdWc",
+      "title": "Kevin Durant Reacts To Amen Thompson’s Five-Year, $208 Million Rockets Contract Extension",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3JPQzVjSm9UMmMtTjkwT2U5dGJCR2lFdk84bG5tS21naU9XYlJYSjBxN1dvaHVEUjhPemlwUmpDWDNkZFhDcE9XV3dCUkhLUXdlZW9Fd056WUR3Tm0tTk9ib0lzVjVnUlM2WEVVVDI4VWlGNVZ6OHA1UTlLWlJOa0t2WnVOWVFwdWc?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-05T02:30:00.000Z",
+      "description": "Kevin Durant Reacts To Amen Thompson’s Five-Year, $208 Million Rockets Contract Extension Yahoo Sports",
+      "titleZh": "杜兰特评价阿门·汤普森顶薪续约火箭",
+      "summaryZh": "凯文·杜兰特对休斯顿火箭队与阿门·汤普森达成五年顶薪续约合同一事发表看法。他认为年轻核心提前锁定长期合约有利于球队稳定建队节奏。",
+      "detailsZh": "【事实】火箭队正式宣布与阿门·汤普森完成顶薪续约，杜兰特在社交平台转发新闻并附注简短评论。他指出，在自由市场波动剧烈的背景下，尽早锁定潜力新星能有效规避薪资帽风险，并为战术磨合预留时间。【评论】该评价体现了老将对联盟年轻化趋势的客观认知。杜兰特自身亦经历过从高薪新秀到角色调整的周期，其观点具备实战参考价值。此举侧面反映其对后辈发展的关注，而非单纯的市场比较。【传闻】有自媒体将此事与杜兰特未来潜在的交易市场挂钩，暗示其可能借此评估竞争对手实力，但双方并无直接利益关联，此类延伸解读缺乏事实支撑。",
+      "keyPoints": [
+        "公开评价阿门·汤普森顶薪续约",
+        "肯定年轻核心长期合约价值",
+        "体现老将建队视角与经验",
+        "市场关联解读属无根据延伸"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi-gFBVV95cUxPeG1DdGxkal9VcTBpOHJ6MVFUeUFMVFRneTZHUUUxMHZFUFVOSjl1V2FBMnVLMkhlTzdVRmZuMUhQWjQ4bFB0dnRDMnpoMVhxUXNsY3lHQUJkMnRZXy00UFh3blRWWmJVNjcwRHNBVERZMjE2WmxLRmFOV1IxcHhpcnR3VkFTZGtWZ2VmeU1qckpsRndQODE0Q3YzSHA1bXo1dE1hRU94MlRuTnZZeFlCaDRRRVltME40c1RCa3I3c21DZllidXlKVzZDME5QNFJrRWZnUW5semF2TkJHLXFybTBVaEtuU2U5ckFWMHVRbnhmUW92WFR6NHpB",
+      "title": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 12",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeG1DdGxkal9VcTBpOHJ6MVFUeUFMVFRneTZHUUUxMHZFUFVOSjl1V2FBMnVLMkhlTzdVRmZuMUhQWjQ4bFB0dnRDMnpoMVhxUXNsY3lHQUJkMnRZXy00UFh3blRWWmJVNjcwRHNBVERZMjE2WmxLRmFOV1IxcHhpcnR3VkFTZGtWZ2VmeU1qckpsRndQODE0Q3YzSHA1bXo1dE1hRU94MlRuTnZZeFlCaDRRRVltME40c1RCa3I3c21DZllidXlKVzZDME5QNFJrRWZnUW5semF2TkJHLXFybTBVaEtuU2U5ckFWMHVRbnhmUW92WFR6NHpB?oc=5",
+      "source": "Sole Retriever",
+      "publishedAt": "2026-09-05T09:07:01.000Z",
+      "description": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 12 Sole Retriever",
+      "titleZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 12",
+      "summaryZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 12 Sole Retriever",
+      "detailsZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 12 Sole Retriever",
+      "keyPoints": [
+        "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 12"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiZEFVX3lxTE94ZTZNX3o0V3czN3B1V1BfY3BIS0lzZmlXZ3lqSDVZZUZWYXpuOUFHRzI0emxVZGVWV3lBWWlBU1JXMkh6YkdzczFsSGVERmFOQkFZSklUSnNOUjNQZTFqSzBzTHA",
+      "title": "NBA球星凯文杜兰特近期的干拔跳投训练切片合集",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94ZTZNX3o0V3czN3B1V1BfY3BIS0lzZmlXZ3lqSDVZZUZWYXpuOUFHRzI0emxVZGVWV3lBWWlBU1JXMkh6YkdzczFsSGVERmFOQkFZSklUSnNOUjNQZTFqSzBzTHA?oc=5",
+      "source": "zhibo8.cc",
+      "publishedAt": "2026-09-05T06:32:03.000Z",
+      "description": "NBA球星凯文杜兰特近期的干拔跳投训练切片合集 zhibo8.cc",
+      "titleZh": "NBA球星凯文杜兰特近期的干拔跳投训练切片合集",
+      "summaryZh": "NBA球星凯文杜兰特近期的干拔跳投训练切片合集 zhibo8.cc",
+      "detailsZh": "NBA球星凯文杜兰特近期的干拔跳投训练切片合集 zhibo8.cc",
+      "keyPoints": [
+        "NBA球星凯文杜兰特近期的干拔跳投训练切片合集"
       ],
       "category": "场外",
       "importance": 4
@@ -168,30 +168,13 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-05T09:03:21.109Z",
+      "publishedAt": "2026-09-05T12:42:03.201Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
         "陈泽"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw",
-      "title": "陈泽在西安线下现场有哪些互动环节？",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqdmJsajR6VlEtM01PQXU0eTdoR3FDUkhyUkxiRS1PV1FGM2tkZXBDdGxoUDVCYVZnTGhuREo4RUxmY2t2OTE2Ny1mNzRjX0QzdWN5NTFyLTZhb0hJLWlWR0lkbjhGcktEd05TRFZ6QjRVbUtQUUpmY2swZ05iZw?oc=5",
-      "source": "新浪财经",
-      "publishedAt": "2026-08-29T08:24:14.000Z",
-      "description": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
-      "titleZh": "陈泽在西安线下现场有哪些互动环节？",
-      "summaryZh": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
-      "detailsZh": "陈泽在西安线下现场有哪些互动环节？ 新浪财经",
-      "keyPoints": [
-        "陈泽在西安线下现场有哪些互动环节？"
       ],
       "category": "场外",
       "importance": 4
@@ -213,7 +196,7 @@
         "陈泽- 抖音直播间"
       ],
       "category": "直播",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -304,6 +287,26 @@
       "importance": 3
     },
     {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的大咕咕咕鸡人物资料，涵盖其常用笔名、创作风格及网络影响力背景。作为基础参考资料入口，提供关于该网络写手的系统性信息。",
+      "detailsZh": "事实：该页面为维基百科中关于“大咕咕咕鸡”的条目，主要记录其作为网络写手的身份、常用笔名（如“大咕咕咕鸡”本身）、创作风格特点以及在中文互联网社区中的影响范围。内容基于公开可查的网络信息进行整理。评论：此类百科条目通常由社区用户共同维护，可能存在更新滞后或主观描述偏差，需结合其他来源交叉验证。传闻：无明确传闻内容，但需注意部分早期轶事可能未经严格核实。此页面非当日新闻，而是固定的人物资料入口，旨在提供长期稳定的参考信息。",
+      "keyPoints": [
+        "记录常用笔名与创作风格",
+        "梳理网络影响力背景",
+        "提供系统性人物资料",
+        "非实时新闻而是固定入口"
+      ],
+      "category": "作品",
+      "importance": 4
+    },
+    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -311,16 +314,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话与公开动态聚合页",
-      "summaryZh": "本链接为新浪微博“大咕咕咕鸡”专属超话及话题页面，属固定资料入口。非当日新闻，主要收录读者互动、段子转载与社区讨论记录。",
-      "detailsZh": "【事实】该链接为微博平台自动生成的固定超话索引，URL绑定特定话题标识，长期稳定运行且无法手动删除。【评论】作为早期网络写手的核心粉丝阵地，其内容生态已彻底转向二次创作与怀旧盘点，直观折射出中文互联网话语体系的代际更迭。【传闻】社区内偶有声音质疑部分爆款段子系团队代笔或素材拼接，但至今缺乏权威信源证实，仅作为圈内争议参考。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态聚合页与读者讨论超话入口。用于追踪其最新公开言论及粉丝互动情况，是了解其社交媒体活跃度的重要渠道。",
+      "detailsZh": "事实：该链接指向新浪微博中与大咕咕咕鸡相关的超话页面，包含其发布的公开动态及读者讨论内容。这是其主要的社交媒体阵地之一，用于发布作品预告、个人感想或与读者互动。评论：微博超话是粉丝聚集和讨论的核心区域，内容多为即时性互动，可能包含大量非正式表达或情绪化评论，需谨慎甄别。传闻：超话内可能存在未经证实的谣言或粉丝间流传的八卦，建议以官方账号发布内容为准。此页面为固定主页或资料入口，非特定日期的新闻报道，旨在提供持续的动态跟踪功能。",
       "keyPoints": [
-        "固定超话入口",
-        "非实时新闻",
-        "粉丝互动集散地",
-        "内容以二创与怀旧为主"
+        "聚合公开动态与讨论",
+        "追踪社交媒体活跃度",
+        "粉丝互动核心区域",
+        "非新闻而是固定入口"
       ],
-      "category": "讨论",
+      "category": "公开发言",
       "importance": 3
     },
     {
@@ -331,36 +334,36 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站作品朗读与视频检索页",
-      "summaryZh": "哔哩哔哩站内搜索聚合页，提供大咕咕咕鸡相关音频朗读、解说视频及历史切片。属固定检索工具，不发布独立新闻。",
-      "detailsZh": "【事实】该URL系B站全站搜索参数直链，关键词精准锁定目标笔名，检索结果完全依赖用户自主上传与平台算法推荐。【评论】现有视频多为早年微博文本的音频化改编或自媒体盘点，制作水准参差，却侧面印证其叙事节奏在短视频时代的适配性。【传闻】部分听众推测朗读音频采用AI语音合成技术，但实际均为UP主人工录制，此说法属误传。",
+      "titleZh": "大咕咕咕鸡B站视频聚合",
+      "summaryZh": "哔哩哔哩平台搜索“大咕咕咕鸡”关键词的结果页，聚合了其作品朗读、相关讨论及历史视频。反映其在音频及视频领域的传播情况，是评估其多媒介影响力的窗口。",
+      "detailsZh": "事实：该链接为B站搜索结果页，展示与“大咕咕咕鸡”相关的视频内容，包括作品朗读音频、粉丝制作的二创视频、访谈片段等。这些内容反映了其作品在音频平台的传播广度。评论：B站用户群体年轻且活跃，相关视频可能包含大量二次创作和衍生讨论，有助于观察其作品的受众接受度。传闻：部分视频标题或简介可能存在夸大或误导成分，需仔细查看视频实际内容。此页面为搜索聚合结果，非特定新闻事件，而是持续更新的资源索引，用于了解其在视频领域的存在感和影响力。",
       "keyPoints": [
-        "固定搜索链接",
-        "内容依赖UGC上传",
-        "侧重音频化传播",
-        "非官方运营频道"
+        "聚合作品朗读与二创视频",
+        "反映多媒介传播情况",
+        "观察受众接受度",
+        "非新闻而是资源索引"
       ],
       "category": "作品",
-      "importance": 2
+      "importance": 3
     },
     {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "维基百科人物与创作资料页",
-      "summaryZh": "中文维基百科关于该写手的条目页面，属固定百科资料入口。系统梳理其常用笔名、创作风格及网络影响，非时效性报道。",
-      "detailsZh": "【事实】该词条依据公开出版物、主流媒体报道及可查证的网络存档编纂，严格遵循中立客观原则，核心引用集中于二零一零至二零一五年间的平面与数字文献。【评论】条目架构完整，客观定格了其作为早期网络段子手的文化符号价值，但受限于资料获取渠道，未覆盖其后期私人生活轨迹。【传闻】坊间流传其已转型商业代笔或彻底隐退，维基暂无可靠信源跟进，目前维持原状。",
+      "titleZh": "界面新闻深度报道",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。回顾其早期创作风格及对网络语言的影响，具有历史参考价值。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，由界面新闻撰写，聚焦于大咕咕咕鸡的创作风格、代表作品以及当时网络段子手群体的整体生态。文章分析了其对网络流行语和表达方式的影响。评论：作为媒体深度报道，该文提供了较为系统的行业视角，但受限于发表年份，未能涵盖其后续发展。传闻：文中提及的部分行业现象或人物关系可能带有记者的主观解读，需结合后续发展进行判断。此内容为历史性报道，非当前动态，主要用于理解其创作起源和行业背景，具有重要的史料价值。",
       "keyPoints": [
-        "固定百科条目",
-        "聚焦早期创作生涯",
-        "引用历史媒体报道",
-        "无后期动态更新"
+        "回顾早期创作风格",
+        "分析网络语言影响",
+        "提供行业生态视角",
+        "具历史参考价值"
       ],
-      "category": "场外",
+      "category": "讨论",
       "importance": 4
     },
     {
@@ -371,37 +374,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "微博账号数据与传播资料页",
-      "summaryZh": "第三方数据平台展示的微博公开账号档案，属固定商业资料入口。呈现粉丝量、互动指数等基础传播数据，不作新闻解读。",
-      "detailsZh": "【事实】该页面由第三方数据服务商抓取并渲染，集中展示目标微博账号的公开元数据，包含认证状态、发文频次与历史热度曲线，底层接口由平台定期同步。【评论】从商业传播模型审视，其账号活跃度随社交算法迭代呈现典型周期波动，高度契合头部知识型KOL的生命演进规律。【传闻】业内曾质疑其历史数据存在注水现象，但监管方从未发布处罚通报，当前数值仅供宏观趋势研判。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "固定数据看板",
-        "基于公开API抓取",
-        "侧重传播指标分析",
-        "含商业评估属性"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态与语言影响",
-      "summaryZh": "2015年5月12日刊发的历史深度报道，聚焦该写手的文本风格及其对网络流行语的塑造作用。属过往新闻报道，非近期动态。",
-      "detailsZh": "【事实】该文刊载于界面新闻移动端，通过交叉访谈同期创作者与语言学研究者，系统拆解其反讽解构式叙事如何深度嵌入大众日常表达。【评论】报道具备鲜明的时代切片属性，精准捕捉了移动互联初期UGC内容的爆发态势，然受限于彼时媒介条件，未能延展至后续平台迁移效应。【传闻】文中援引的若干标志性金句存在多重出处争议，作者已公开说明系整合网友投稿汇编，非单一署名成果。",
-      "keyPoints": [
-        "2015年历史报道",
-        "聚焦文本风格与语言影响",
-        "采访问卷具时代代表性",
-        "非近期事件"
-      ],
-      "category": "作品",
-      "importance": 5
+      "importance": 4
     }
   ]
 }
