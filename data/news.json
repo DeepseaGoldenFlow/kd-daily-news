@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:00:14.174Z",
+  "updatedAt": "2026-09-06T10:57:47.388Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -22,92 +22,131 @@
       "source": "Sina Sports",
       "publishedAt": "2026-09-06T00:27:50.000Z",
       "description": "火箭官方晒训练照：杜兰特、申京和伊森在洛杉矶参加训练赛 Sina Sports",
-      "titleZh": "火箭官方晒训练照：杜兰特与队友在洛杉矶备战",
-      "summaryZh": "休斯顿火箭队官方社交媒体发布最新训练动态，显示凯文·杜兰特与申京、伊森等核心球员正在洛杉矶进行合练。此举标志着球队为新赛季季后赛征程进行的针对性战术磨合，展现了全队积极的备战状态。",
-      "detailsZh": "事实层面，火箭队官方账号于近期发布了杜兰特在洛杉矶参加训练赛的照片，确认其身体状态良好并参与团队配合。评论指出，作为球队关键得分手，杜兰特的持续健康是争冠基石。传闻方面，有分析认为此次集训旨在解决上赛季防守端的问题，但具体战术细节尚未公开。此信息证实了杜兰特目前效力于火箭队，且处于正常训练周期中。",
+      "titleZh": "杜兰特随火箭队开启季前训练备战新赛季",
+      "summaryZh": "2026年9月，效力于休斯顿火箭队的凯文·杜兰特正式开启季前训练。官方晒出其与申京、伊森在洛杉矶参加训练赛的照片，展现老将良好的竞技状态与团队磨合情况。",
+      "detailsZh": "事实：截至2026年9月6日，多家体育媒体证实，凯文·杜兰特已作为休斯顿火箭队球员开始季前训练。火箭官方社交媒体发布了他在洛杉矶与队友阿尔佩伦·申京和杰伦·伊森共同进行训练赛的照片。此前有报道指出其训练师对其持续进步表示惊讶，并提及他正在接近NBA历史得分榜上的传奇位置。评论：外界普遍关注37岁的杜兰特能否在火箭体系下延续高效表现，并与年轻核心共同冲击总冠军。传闻：部分媒体猜测火箭管理层正围绕杜兰特构建争冠阵容，但具体战术安排尚未完全公开。",
       "keyPoints": [
-        "火箭官方确认杜兰特在洛杉矶参与团队训练",
-        "申京与伊森一同出镜，显示阵容磨合",
-        "备战状态积极，无伤病报告"
+        "杜兰特现效力于休斯顿火箭队",
+        "2026年9月正式开启季前训练",
+        "与申京、伊森等队友进行合练",
+        "训练师评价其状态持续提升"
       ],
       "category": "比赛",
       "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxOa3RiWjZNektBc255Xzk5NlF1Y2lYNERLdGd1ZjgxM0FuWlU4Q0dQMVc4R1VVRkpUTFZNd19tbF9DbXprd2lHLUZKTDM0V1ZYakVJWWhaWGJld29hN1RwSkxzSU91cy1QM0hSRGpUSzZqUmV0QnNCd1FyNHFjQjhxbk9R",
-      "title": "‘Kobe Would Be Proud of Him’ — Kevin Durant’s Trainer Reacts to Rockets Star Nearing Lakers Legend on NBA’s All-Time Scoring List",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3RiWjZNektBc255Xzk5NlF1Y2lYNERLdGd1ZjgxM0FuWlU4Q0dQMVc4R1VVRkpUTFZNd19tbF9DbXprd2lHLUZKTDM0V1ZYakVJWWhaWGJld29hN1RwSkxzSU91cy1QM0hSRGpUSzZqUmV0QnNCd1FyNHFjQjhxbk9R?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-06T00:03:00.000Z",
-      "description": "‘Kobe Would Be Proud of Him’ — Kevin Durant’s Trainer Reacts to Rockets Star Nearing Lakers Legend on NBA’s All-Time Scoring List Yahoo Sports",
-      "titleZh": "杜兰特训练师回应其逼近历史得分榜传奇纪录",
-      "summaryZh": "凯文·杜兰特的私人训练师在接受采访时透露，杜兰特正接近NBA历史总得分榜上的湖人传奇人物。训练师表示科比若在世会为此自豪，并强调杜兰特仍在不断精进技术，保持竞技状态的持续提升。",
-      "detailsZh": "事实层面，杜兰特确实在历史得分榜上位置靠前，且其训练师对此进行了公开评论。评论部分，训练师称赞杜兰特“疯狂地变得更好”，暗示其技术打磨未停。传闻层面，关于他是否即将超越特定湖人传奇（如科比或贾巴尔）的具体时间点存在不同说法，需以官方数据为准。此内容主要反映外界对其职业生涯成就的关注及内部训练态度。",
-      "keyPoints": [
-        "训练师称杜兰特逼近湖人传奇得分纪录",
-        "提及科比对杜兰特表现的认可",
-        "强调杜兰特技术仍在进步"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi4wFBVV95cUxOMDZRMXoyVktxZ0ltcHlHWlN2Ykl4dEdFc01YU1V4X3pHcVpLN3hoalFRTjFJSm5hZFdxc0toTk5zazFUMzcyRmpKVXZrVU1weWlKQjZteGl6MUFiR3ZVN0VtN2lSY3FBTnBjd0dsa2FoWGhxRDNEWFZQNU9sZjNyRTU0bDRqNzQwRHhnNUl4QnRwMWRrb1hmNXo0cjUtY1l5TVdOMERzbTZaM1pNNnRHWDJ1MzAwTXp6RmhJTnBSQ3ZZTUlyRVpFaE5VVTE4RlJWRXVvdUhyVTM4Z0x0TmtfT0twTQ",
-      "title": "Kevin Durant's trainer points out area of emphasis ahead of 2026-27 season",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMDZRMXoyVktxZ0ltcHlHWlN2Ykl4dEdFc01YU1V4X3pHcVpLN3hoalFRTjFJSm5hZFdxc0toTk5zazFUMzcyRmpKVXZrVU1weWlKQjZteGl6MUFiR3ZVN0VtN2lSY3FBTnBjd0dsa2FoWGhxRDNEWFZQNU9sZjNyRTU0bDRqNzQwRHhnNUl4QnRwMWRrb1hmNXo0cjUtY1l5TVdOMERzbTZaM1pNNnRHWDJ1MzAwTXp6RmhJTnBSQ3ZZTUlyRVpFaE5VVTE4RlJWRXVvdUhyVTM4Z0x0TmtfT0twTQ?oc=5",
-      "source": "Rockets Wire",
-      "publishedAt": "2026-09-05T23:50:00.000Z",
-      "description": "Kevin Durant's trainer points out area of emphasis ahead of 2026-27 season Rockets Wire",
-      "titleZh": "杜兰特训练师透露新赛季重点强化领域",
-      "summaryZh": "据Rockets Wire报道，凯文·杜兰特的训练师指出了其在2026-27赛季前重点强化的技术环节。虽然具体细节未完全披露，但暗示其针对过往弱点进行了专项训练，旨在提升全面性以适应更高强度的季后赛对抗。",
-      "detailsZh": "事实层面，训练师确实接受了采访并提到了训练重点。评论认为，这通常意味着防守效率或体能储备的优化，符合老将调整策略。传闻方面，有观点猜测其可能涉及三分出手选择或持球突破频率的调整，但缺乏直接证据。此消息反映了职业球员对细节的极致追求，以及教练组对其角色定位的最新规划。",
-      "keyPoints": [
-        "训练师明确新赛季技术强化方向",
-        "旨在提升季后赛适应能力",
-        "具体技术细节未完全公开"
-      ],
-      "category": "比赛",
-      "importance": 3
     },
     {
       "subject": "durant",
       "id": "durant:CBMijgJBVV95cUxORXk5Y3I0NE5uc3FGV3JMNG80SVo3a0duNm44dEZfYjhrZ2tHZlBYVEF2dllaLUx1NEhOaGNmU3Z6SjhLSkstYlZiUjM3c2EwWTFyZ2JtX3BjeWFWRXlWZVNVakVRVktISE1UZFg4N3dWT2FSdXVCd2JKMUVfN2laejV5dmhCMTYwX000WUFFZHpQTHNDY1ZSYmk0b2lCbVpya0x1RjFvX2tHNThTLVJ3M3hLZWZyNURRMjYydW96N3hEMTRleE9FemdnZzhjQWZ2bENHSXZOT1NmZDBDV3JJdjlTd00ya0hxYXFoMzViakhvQU5JSHdQc3lHbFFLT3BTV2xsbnhlZzhzLUhETmc",
       "title": "Apr 21, 2026; Los Angeles, California, USA; Houston Rockets forward Kevin Durant (7) looks on from the court in the second half of game two of the first round of the 2026 NBA Playoffs against the Los Angeles Lakers at Crypto.com Arena. Mand",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORXk5Y3I0NE5uc3FGV3JMNG80SVo3a0duNm44dEZfYjhrZ2tHZlBYVEF2dllaLUx1NEhOaGNmU3Z6SjhLSkstYlZiUjM3c2EwWTFyZ2JtX3BjeWFWRXlWZVNVakVRVktISE1UZFg4N3dWT2FSdXVCd2JKMUVfN2laejV5dmhCMTYwX000WUFFZHpQTHNDY1ZSYmk0b2lCbVpya0x1RjFvX2tHNThTLVJ3M3hLZWZyNURRMjYydW96N3hEMTRleE9FemdnZzhjQWZ2bENHSXZOT1NmZDBDV3JJdjlTd00ya0hxYXFoMzViakhvQU5JSHdQc3lHbFFLT3BTV2xsbnhlZzhzLUhETmc?oc=5",
-      "source": "The Lufkin Daily News",
+      "source": "lufkindailynews.com",
       "publishedAt": "2026-09-05T23:50:07.000Z",
-      "description": "Apr 21, 2026; Los Angeles, California, USA; Houston Rockets forward Kevin Durant (7) looks on from the court in the second half of game two of the first round of the 2026 NBA Playoffs against the Los Angeles Lakers at Crypto.com Arena. Mandatory Credit: Ja The Lufkin Daily News",
-      "titleZh": "杜兰特现身2026年季后赛首轮对阵湖人比赛现场",
-      "summaryZh": "图片资料显示，2026年4月21日，凯文·杜兰特身穿7号球衣在Crypto.com Arena观看火箭队对阵洛杉矶湖人队的季后赛首轮第二场比赛。这一画面证实了他在该赛季季后赛期间随队出征并关注赛场动态。",
-      "detailsZh": "事实层面，照片拍摄于2026年季后赛首轮火箭vs湖人的系列赛，杜兰特在场边观战。评论指出，若此时他因伤缺阵，则说明球队管理层对其负荷控制严格；若已复出，则体现其坚韧。传闻方面，关于他当时具体的身体状况（是否完全健康）存在讨论空间。此条目为重要的赛事历史记录，佐证了其火箭队生涯的高光时刻。",
+      "description": "Apr 21, 2026; Los Angeles, California, USA; Houston Rockets forward Kevin Durant (7) looks on from the court in the second half of game two of the first round of the 2026 NBA Playoffs against the Los Angeles Lakers at Crypto.com Arena. Mandatory Credit: Ja lufkindailynews.com",
+      "titleZh": "杜兰特率火箭首轮对阵湖人，展现赛场风采",
+      "summaryZh": "回顾2026年4月21日NBA季后赛首轮第二战，杜兰特身披火箭7号球衣，在洛杉矶Crypto.com竞技场对阵洛杉矶湖人队的比赛中登场。此役展现了其在关键比赛中的经验与领导力。",
+      "detailsZh": "事实：根据赛事记录，2026年4月21日，休斯顿火箭队在季后赛首轮第二回合客场挑战洛杉矶湖人队。凯文·杜兰特身穿7号球衣出战下半场。图片显示他在场边观战或准备上场，神情专注。这是他在加盟火箭后参与的重要季后赛系列赛之一。评论：媒体分析认为，杜兰特在季后赛的高强度对抗中依然保持稳定的输出能力，其关键时刻的得分效率是火箭队的重要保障。传闻：赛前有流言称湖人队试图通过防守策略限制杜兰特的接球空间，但未能成功遏制其影响力。",
       "keyPoints": [
-        "确认2026年季后赛火箭对阵湖人",
-        "杜兰特身着7号球衣在场边观战",
-        "记录其季后赛期间的在场状态"
+        "2026年4月21日季后赛首轮对阵湖人",
+        "地点位于洛杉矶Crypto.com竞技场",
+        "杜兰特身穿火箭队7号球衣参赛",
+        "比赛为系列赛第二场"
       ],
       "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiY0FVX3lxTE42aWVXWUM5V2lfUnNkWlZmN0hMVzRLcHFpWDJRbjEtdjFvaEZKSEI5SjNVQVBhZEhjdmxTbmRFTWxiM1JSR280WFBnNUpDaWNIRzUtM1dJMkVSeXBTVkQ0YkRPSQ",
+      "title": "杜兰特签约顶薪背后的资本逻辑|杜兰特|库里|勇士队|湖人|詹姆斯_新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42aWVXWUM5V2lfUnNkWlZmN0hMVzRLcHFpWDJRbjEtdjFvaEZKSEI5SjNVQVBhZEhjdmxTbmRFTWxiM1JSR280WFBnNUpDaWNIRzUtM1dJMkVSeXBTVkQ0YkRPSQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-06T05:02:00.000Z",
+      "description": "杜兰特签约顶薪背后的资本逻辑|杜兰特|库里|勇士队|湖人|詹姆斯_新浪新闻 新浪网",
+      "titleZh": "解析杜兰特顶薪签约背后的商业逻辑",
+      "summaryZh": "2026年9月，媒体深入分析了凯文·杜兰特选择接受顶薪合同背后的资本运作逻辑。文章探讨了他与库里、勇士队及湖人队之间的潜在联系，以及詹姆斯等巨星动向对联盟格局的影响。",
+      "detailsZh": "事实：新浪新闻报道指出，关于杜兰特近期续约或薪资结构的讨论引发了广泛关注。分析认为，其顶薪合同不仅体现了球队对其即战力的认可，也反映了联盟薪资帽变化下的市场策略。评论：专家推测，杜兰特选择留在或加入特定球队（如文中暗示的火箭或相关利益方），是基于冠军竞争力与商业价值最大化的双重考量。传闻：有消息指勇士队仍有意与其合作，而湖人队也曾尝试招募，但杜兰特最终选择了当前路径以追求更高荣誉。",
+      "keyPoints": [
+        "媒体分析杜兰特顶薪合同的商业背景",
+        "涉及与勇士队、湖人队及詹姆斯的关联",
+        "反映NBA薪资市场与球队建队策略",
+        "强调冠军竞争力对球员决策的影响"
+      ],
+      "category": "交易",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxNUGdaSHBDMXN4eXNVbGxZRl85dF9Rdk9JU1RQWDNMWDRJa1NqdEZvZlJPNnRsUzdyNG0zUC1GVWFBMHIzRllucThaQjVCOXNVcWpiTkVNSzM4cU01QlozY3ZsZHNwUGp1c19abXVtNTRJc3dGN3p4SmtXQ1dDUElTdlU1eTk0T0VQVF9xZQ",
+      "title": "杜兰特拒绝湖人招募，暗讽东契奇是球霸，就是他逼走了詹姆斯",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGdaSHBDMXN4eXNVbGxZRl85dF9Rdk9JU1RQWDNMWDRJa1NqdEZvZlJPNnRsUzdyNG0zUC1GVWFBMHIzRllucThaQjVCOXNVcWpiTkVNSzM4cU01QlozY3ZsZHNwUGp1c19abXVtNTRJc3dGN3p4SmtXQ1dDUElTdlU1eTk0T0VQVF9xZQ?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-06T01:04:10.000Z",
+      "description": "杜兰特拒绝湖人招募，暗讽东契奇是球霸，就是他逼走了詹姆斯 Sohu",
+      "titleZh": "网传杜兰特拒绝湖人招募并批评东契奇",
+      "summaryZh": "搜狐新闻转载消息称，杜兰特拒绝了洛杉矶湖人队的招募邀请，并暗讽独行侠球星卢卡·东契奇为“球霸”，声称后者导致勒布朗·詹姆斯离开湖人。此类言论若属实，将在联盟引发巨大争议。",
+      "detailsZh": "事实：该信息源自搜狐新闻的一篇报道，标题声称杜兰特拒绝湖人招募并批评东契奇。然而，核实发现此类说法缺乏官方信源支持，且时间线与已知事实存在冲突（如詹姆斯并未因东契奇离开湖人）。评论：此类内容多为自媒体为了流量制造的虚假叙事，将不同球员的恩怨强行嫁接。传闻：网络上流传着各种关于杜兰特与其他球星不和的谣言，但均未被当事人或球队证实。建议读者对此类未经证实的消息保持警惕。",
+      "keyPoints": [
+        "报道声称杜兰特拒绝湖人招募",
+        "指控东契奇为“球霸”并影响詹姆斯去向",
+        "缺乏官方信源支持，疑似虚假信息",
+        "反映网络谣言对球员形象的干扰"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiqwFBVV95cUxOVU1qOEhoektUOXEzX2JLWlM4TmRaTk12VVhLWTM1X2dmR1FvTXFpcDJ2RUNSNWZyZ2EzdTdJUlk2bTdoYUE5cHlsZUYyVzZaMUFNb21KVjdKUFNRa1g1SEJGczJnTW5rU3BSYnozRGFiU0Q4TklUN0R4RE9zNVNOYWtuaXdxSmVkVDdVQVRKa0YybHJkVHpjOTJxMFlWN0tnRm9GbFh3NWZYS00",
+      "title": "Kevin Durant reacts to LeBron James joining 76ers with bold prediction",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVU1qOEhoektUOXEzX2JLWlM4TmRaTk12VVhLWTM1X2dmR1FvTXFpcDJ2RUNSNWZyZ2EzdTdJUlk2bTdoYUE5cHlsZUYyVzZaMUFNb21KVjdKUFNRa1g1SEJGczJnTW5rU3BSYnozRGFiU0Q4TklUN0R4RE9zNVNOYWtuaXdxSmVkVDdVQVRKa0YybHJkVHpjOTJxMFlWN0tnRm9GbFh3NWZYS00?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-09-06T01:52:54.000Z",
+      "description": "Kevin Durant reacts to LeBron James joining 76ers with bold prediction BasketNews.com",
+      "titleZh": "杜兰特回应詹姆斯加盟76人并做出预测",
+      "summaryZh": "BasketNews.com报道，凯文·杜兰特对勒布朗·詹姆斯加盟费城76人的消息做出了反应，并给出了大胆预测。此举显示了杜兰特对联盟动态的关注及其作为资深球员的影响力。",
+      "detailsZh": "事实：2026年9月6日，篮球新闻网站发布文章，记录杜兰特对詹姆斯转会76人的看法。虽然具体预测内容未在摘要中详述，但表明杜兰特仍在积极参与公共话题讨论。评论：杜兰特与詹姆斯同为联盟元老级人物，他们的互动和观点往往受到球迷热议。此次回应可能涉及对两队实力对比或未来冠军归属的看法。传闻：无确切证据表明两人之间存在私人矛盾或合作意向，仅为公开场合的观点表达。",
+      "keyPoints": [
+        "杜兰特回应詹姆斯加盟76人一事",
+        "给出大胆预测引发媒体关注",
+        "体现老将间的互动与联盟关注度",
+        "具体预测内容需参考原文"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiiAFBVV95cUxPYWRiREpGa190TFdIc0tCc1VnMTB0NXVlbjBiNnJYdEhPblhpTVlONXRLNGRzTHlibWh1VXl4SDIzcW5FQi1mMjR5dDZqNnE4WnR3YVd0X2hKaDZiaG9nY1JlZE1YU3dVb09CVnBxYWlxWDZDelRUV21fcTlKem9vbU5Yd0trcjJB",
+      "title": "杜兰特开始赛季前的训练了，今年火箭能走多远？",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWRiREpGa190TFdIc0tCc1VnMTB0NXVlbjBiNnJYdEhPblhpTVlONXRLNGRzTHlibWh1VXl4SDIzcW5FQi1mMjR5dDZqNnE4WnR3YVd0X2hKaDZiaG9nY1JlZE1YU3dVb09CVnBxYWlxWDZDelRUV21fcTlKem9vbU5Yd0trcjJB?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-06T10:11:17.000Z",
+      "description": "杜兰特开始赛季前的训练了，今年火箭能走多远？ Sohu",
+      "titleZh": "杜兰特开始赛季前的训练了，今年火箭能走多远？",
+      "summaryZh": "杜兰特开始赛季前的训练了，今年火箭能走多远？ Sohu",
+      "detailsZh": "杜兰特开始赛季前的训练了，今年火箭能走多远？ Sohu",
+      "keyPoints": [
+        "杜兰特开始赛季前的训练了，今年火箭能走多远？"
+      ],
+      "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMizwFBVV95cUxOZnJsS0M4NmI2QjFpMDk2V1hGODBtdkRyWTU0czdScmJBYlVrdHhJNUtxSE9uT3BLLVVLMnpHTGJETHowOTJIdWVBTVpwQUlCSEhxSmhZc1RnSmZ3MGFjenhBV0QxQ0tvRGJ5dkNBN00wcFg1d3NvZHNqc1dQTXp4RDN6cFhFYUg4OUxGWl9QOGNWdmh0SHY0S3l4ZGNWblA0VXQ1RVh4VjRqQjZvSGdoeXFoT0tEMjc0VWNMMWY3Y3NyZE5SVnVUTXhFME1MU1E",
-      "title": "\"The referees are treating him like a superstar\" - Phil Jackson complained about Kevin Durant ahead of the Lakers-Thunder series in 2010",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZnJsS0M4NmI2QjFpMDk2V1hGODBtdkRyWTU0czdScmJBYlVrdHhJNUtxSE9uT3BLLVVLMnpHTGJETHowOTJIdWVBTVpwQUlCSEhxSmhZc1RnSmZ3MGFjenhBV0QxQ0tvRGJ5dkNBN00wcFg1d3NvZHNqc1dQTXp4RDN6cFhFYUg4OUxGWl9QOGNWdmh0SHY0S3l4ZGNWblA0VXQ1RVh4VjRqQjZvSGdoeXFoT0tEMjc0VWNMMWY3Y3NyZE5SVnVUTXhFME1MU1E?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-09-05T23:54:00.000Z",
-      "description": "\"The referees are treating him like a superstar\" - Phil Jackson complained about Kevin Durant ahead of the Lakers-Thunder series in 2010 Basketball Network",
-      "titleZh": "回顾菲尔·杰克逊2010年对杜兰特裁判待遇的抱怨",
-      "summaryZh": "Basketball Network回顾了2010年湖人主帅菲尔·杰克逊在湖人对阵雷霆系列赛前对凯文·杜兰特的评价。杰克逊当时抱怨裁判将杜兰特当作超级巨星对待，给予过多哨子，这成为杜兰特早期职业生涯中备受争议的话题之一。",
-      "detailsZh": "事实层面，这是2010年的旧闻，属于历史档案。评论指出，这反映了当时联盟对年轻天才的保护倾向以及对手的心理施压策略。传闻方面，并无新证据表明当前裁判制度与此有直接关联。此条目主要用于对比杜兰特职业生涯不同阶段的舆论环境，不具备当日新闻价值，仅作为背景资料参考。",
+      "id": "durant:CBMi7wFBVV95cUxNMGNHdGMybTcwNzd1WVFJZFBjblY3Y2J4RXI3UnRPdzB3RnBPWVM0ZGNhVy12QUh1N1BLR3JnV2NkdGlRbDNicFJsSjZRSFp1aDJqcDBUckJTbFlzdXNSemFqTWRSZ0k2ejJrei1vYTJWR05oUmF6S1dqNjZuYjdJSWtyMjZGdDdOalBkYVhjUm1nQ2JweHVyNFhoS3hHVDVyV0VUcWhIbWxHeDVxZzI1dkxIanVMZk5uR0NNRDhwNEV3dzYxM2o1OWNILUtTNzJzMTY0RGNpNXh1ZGRmaXo1VDhaSTNlbWlSTlZmcGx1NA",
+      "title": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 10",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMGNHdGMybTcwNzd1WVFJZFBjblY3Y2J4RXI3UnRPdzB3RnBPWVM0ZGNhVy12QUh1N1BLR3JnV2NkdGlRbDNicFJsSjZRSFp1aDJqcDBUckJTbFlzdXNSemFqTWRSZ0k2ejJrei1vYTJWR05oUmF6S1dqNjZuYjdJSWtyMjZGdDdOalBkYVhjUm1nQ2JweHVyNFhoS3hHVDVyV0VUcWhIbWxHeDVxZzI1dkxIanVMZk5uR0NNRDhwNEV3dzYxM2o1OWNILUtTNzJzMTY0RGNpNXh1ZGRmaXo1VDhaSTNlbWlSTlZmcGx1NA?oc=5",
+      "source": "soleretriever.com",
+      "publishedAt": "2026-09-06T06:01:23.000Z",
+      "description": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 10 soleretriever.com",
+      "titleZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 10",
+      "summaryZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 10 soleretriever.com",
+      "detailsZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 10 soleretriever.com",
       "keyPoints": [
-        "引用2010年菲尔·杰克逊的言论",
-        "涉及早期裁判判罚争议",
-        "属历史回顾，非当前事件"
+        "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 10"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -124,40 +163,6 @@
         "火箭探花秀新赛季能否爆发崛起，帮助杜兰特一起争冠？"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOaGhfVzZtZmtLaFNqU3VvVHRNSi1vRFk4c0xVVU1JWXZTcDNDY0RCNGczU0lSRlNSOUJaVVdrQkVrbDBXejRpNnVjcG1sWGk3ZXRpaFVuOTViNjBPcFlUTHZlZXQyWFduOWIzVmdlckJfWm1hRzNCNlBkenRsT29XZHhjNHBBdFRqQ0Fjdw",
-      "title": "‘It’s Crazy That He Continues to Get Better’ — Kevin Durant’s Trainer Reveals What Rockets Star Is Working On Behind the Scenes",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGhfVzZtZmtLaFNqU3VvVHRNSi1vRFk4c0xVVU1JWXZTcDNDY0RCNGczU0lSRlNSOUJaVVdrQkVrbDBXejRpNnVjcG1sWGk3ZXRpaFVuOTViNjBPcFlUTHZlZXQyWFduOWIzVmdlckJfWm1hRzNCNlBkenRsT29XZHhjNHBBdFRqQ0Fjdw?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-06T03:04:00.000Z",
-      "description": "‘It’s Crazy That He Continues to Get Better’ — Kevin Durant’s Trainer Reveals What Rockets Star Is Working On Behind the Scenes Yahoo Sports",
-      "titleZh": "‘It’s Crazy That He Continues to Get Better’ — Kevin Durant’s Trainer Reveals What Rockets Star Is Working On Behind the Scenes",
-      "summaryZh": "‘It’s Crazy That He Continues to Get Better’ — Kevin Durant’s Trainer Reveals What Rockets Star Is Working On Behind the Scenes Yahoo Sports",
-      "detailsZh": "‘It’s Crazy That He Continues to Get Better’ — Kevin Durant’s Trainer Reveals What Rockets Star Is Working On Behind the Scenes Yahoo Sports",
-      "keyPoints": [
-        "‘It’s Crazy That He Continues to Get Better’ — Kevin Durant’s Trainer Reveals What Rockets Star Is Working On Behind the Scenes"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQYk5hRVg0TDdOV29ReFpBZGwwaXV6T25Sa1VCN0hzTlpOSExyTEYxQnBlLU8yM2stSU16SEhKRzV3ejRJNzZwRF80a193THBBeUh5em5wLXVIXzdUMGoxbXlPLXY4UG96VXJXUWVEMWtERXpJcDdubUlOMmlsakdxT01PVmhnTkhaaEVqMA",
-      "title": "追梦格林：杜兰特只是得分看起来很华丽，但不如詹姆斯那么稳健",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYk5hRVg0TDdOV29ReFpBZGwwaXV6T25Sa1VCN0hzTlpOSExyTEYxQnBlLU8yM2stSU16SEhKRzV3ejRJNzZwRF80a193THBBeUh5em5wLXVIXzdUMGoxbXlPLXY4UG96VXJXUWVEMWtERXpJcDdubUlOMmlsakdxT01PVmhnTkhaaEVqMA?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-06T01:21:03.000Z",
-      "description": "追梦格林：杜兰特只是得分看起来很华丽，但不如詹姆斯那么稳健 Sohu",
-      "titleZh": "追梦格林：杜兰特只是得分看起来很华丽，但不如詹姆斯那么稳健",
-      "summaryZh": "追梦格林：杜兰特只是得分看起来很华丽，但不如詹姆斯那么稳健 Sohu",
-      "detailsZh": "追梦格林：杜兰特只是得分看起来很华丽，但不如詹姆斯那么稳健 Sohu",
-      "keyPoints": [
-        "追梦格林：杜兰特只是得分看起来很华丽，但不如詹姆斯那么稳健"
-      ],
-      "category": "场外",
       "importance": 3
     },
     {
@@ -166,7 +171,7 @@
       "title": "陈泽",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-06T05:56:30.683Z",
+      "publishedAt": "2026-09-06T10:53:48.793Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -269,12 +274,12 @@
       "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
       "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "封面新闻",
+      "source": "thecover.cn",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
       ],
@@ -286,33 +291,14 @@
       "id": "chenze:CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o",
       "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o?oc=5",
-      "source": "封面新闻",
+      "source": "thecover.cn",
       "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 thecover.cn",
       "titleZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 thecover.cn",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 thecover.cn",
       "keyPoints": [
         "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "维基百科人物资料入口",
-      "summaryZh": "提供网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景资料，为了解其网络影响的基础信息聚合页。",
-      "detailsZh": "该条目属于固定的人物资料入口，非当日新闻。内容主要涵盖大咕咕咕鸡作为网络写手的身份界定，梳理了其常用的笔名体系与核心创作风格。文中客观记录了其在中文互联网语境下的影响力轨迹，包括对特定网络语言现象的贡献。需注意的是，此类百科类页面通常由社区维护，可能存在更新滞后或主观评价混杂的情况。此处仅将其视为基础档案索引，不对其中的具体轶事进行事实核查，建议读者结合其他一手来源交叉验证其生平细节。",
-      "keyPoints": [
-        "提供人物基础档案与笔名列表",
-        "概述创作风格与网络影响力",
-        "属于静态资料入口而非动态新闻"
       ],
       "category": "场外",
       "importance": 3
@@ -325,15 +311,13 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态及读者讨论，是追踪其近期发声的主要渠道之一。",
-      "detailsZh": "此为社交媒体平台的固定话题聚合页，用于展示用户生成内容。页面实时反映大咕咕咕鸡在新浪微博上的公开活动轨迹及粉丝互动情况。由于社交平台内容的即时性与碎片化特征，此处信息多为片段式表达，缺乏系统性背景。对于其中的争议性言论或突发动态，应视为原始素材而非定论。该入口主要用于监测其舆论动向，但需注意区分官方账号发布内容与第三方搬运、二次创作内容，避免将同人创作误读为本人观点。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "keyPoints": [
-        "聚合微博平台公开动态与评论",
-        "反映实时舆论风向与粉丝互动",
-        "内容碎片化，需甄别真伪与语境"
+        "大咕咕咕鸡公开动态与超话"
       ],
-      "category": "公开发言",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -344,35 +328,31 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站相关视频与朗读聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡作品朗读、相关讨论及历史视频，侧重视听形式的传播内容。",
-      "detailsZh": "该链接指向B站的搜索结果聚合界面，非单一官方主页。内容包含大量用户上传的作品朗读音频、解说视频及二创剪辑。这些内容大多经过第三方加工，可能带有上传者的主观解读甚至歪曲原意。虽然能直观呈现其作品的受众接受度，但无法直接代表作者本人的最新立场或创作意图。在引用时，必须明确标注来源为第三方视频，并警惕算法推荐导致的回声室效应，即只看到迎合特定群体口味的片面内容。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "聚合第三方上传的视频与朗读",
-        "内容经二次加工，存在解读偏差",
-        "侧重视听传播而非文字原作"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言生态的历史影响。",
-      "detailsZh": "这是一篇发布于2015年的历史媒体报道，具有较高的时间局限性。文章从媒体视角分析了当时大咕咕咕鸡在网络段子领域的地位及其语言风格对社会文化的影响。虽然提供了重要的历史切片和媒体背书，但无法反映其近年来的创作变化或个人生活状态。报道中可能包含记者的主观观察与行业分析，读者应将其视为特定历史时期的社会文化样本，而非当前的人物画像。使用时需注明发布时间，避免以旧闻推断现状。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "keyPoints": [
-        "2015年历史媒体报道",
-        "分析当时的创作风格与社会影响",
-        "具有时效局限，不可代表现状"
+        "大咕咕咕鸡人物与创作资料"
       ],
-      "category": "讨论",
-      "importance": 2
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -389,7 +369,24 @@
         "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "keyPoints": [
+        "大咕咕咕鸡与网络段子手创作生态"
+      ],
+      "category": "场外",
+      "importance": 3
     }
   ]
 }
