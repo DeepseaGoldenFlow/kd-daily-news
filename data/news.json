@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T15:11:06.977Z",
+  "updatedAt": "2026-09-08T18:40:47.775Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -14,6 +14,23 @@
     }
   },
   "items": [
+    {
+      "subject": "durant",
+      "id": "durant:CBMipAJBVV95cUxNZURESmlfMnhoWGlHY3VVclp5dnVXRmdoTjdGNzV3akZ1ZnVrRXdGd2NpMm5kRllnbW1kVFZmVmtxd2MtYVlCYnZXRkNSY2xOUzAtSkozdFZaeGlKQjFVR0NUNmx1U1JwNW9vUnFxck9mS0ZvaGtfaTczeDM2bHJKam5BazBjQkdVUTFtMmtMME1xdjBEaHI3Y2x1aUhpUWYzUTM5dGxsUnNCdmE2ejVaSkY1SlE5MEl5WllqQnp2aUpyLWQ4eVN3NGZZQlpNLUY2TjhEeVloZ1ZDX0RkNVZpcXZzQkFPQkNSZkNldERvd0Zlcnh6aUppUk15TFY1cGlkZTRub282Ukc4bHRfZWpvbVUzYkEzWHNyb3pBMHQtcXdwcU1Z",
+      "title": "Rockets In NBA Top 100 | Kevin Durant NOT Top-10? Alperen Sengun BETTER Than Holmgren & Mobley?",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZURESmlfMnhoWGlHY3VVclp5dnVXRmdoTjdGNzV3akZ1ZnVrRXdGd2NpMm5kRllnbW1kVFZmVmtxd2MtYVlCYnZXRkNSY2xOUzAtSkozdFZaeGlKQjFVR0NUNmx1U1JwNW9vUnFxck9mS0ZvaGtfaTczeDM2bHJKam5BazBjQkdVUTFtMmtMME1xdjBEaHI3Y2x1aUhpUWYzUTM5dGxsUnNCdmE2ejVaSkY1SlE5MEl5WllqQnp2aUpyLWQ4eVN3NGZZQlpNLUY2TjhEeVloZ1ZDX0RkNVZpcXZzQkFPQkNSZkNldERvd0Zlcnh6aUppUk15TFY1cGlkZTRub282Ukc4bHRfZWpvbVUzYkEzWHNyb3pBMHQtcXdwcU1Z?oc=5",
+      "source": "WKYC",
+      "publishedAt": "2026-09-08T15:36:00.000Z",
+      "description": "Rockets In NBA Top 100 | Kevin Durant NOT Top-10? Alperen Sengun BETTER Than Holmgren & Mobley? WKYC",
+      "titleZh": "Rockets In NBA Top 100 | Kevin Durant NOT Top-10? Alperen Sengun BETTER Than Holmgren & Mobley?",
+      "summaryZh": "Rockets In NBA Top 100 | Kevin Durant NOT Top-10? Alperen Sengun BETTER Than Holmgren & Mobley? WKYC",
+      "detailsZh": "Rockets In NBA Top 100 | Kevin Durant NOT Top-10? Alperen Sengun BETTER Than Holmgren & Mobley? WKYC",
+      "keyPoints": [
+        "Rockets In NBA Top 100 | Kevin Durant NOT Top-10? Alperen Sengun BETTER Than Holmgren & Mobley?"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
     {
       "subject": "durant",
       "id": "durant:CBMiywFBVV95cUxOWl9OSFNJQ243RU9NaWpQaGp0ZDhYbHRrVTVjNlM0cnJBUDJvNTRpVWZ5NkRzVEhPV2dobm5rRTMzZmM0cS0zMHhOVktZLWU0bllIaEtGSGZtVEVmbjFhUkQ2dm1rN0stQmpaQW50SUNWOU5qWWRGYm9iSk1sUFY3MXJ5VTIxeU12cktEUWtDbU5yS0k1Njg3SDgtcDZTYmo2UXViZHJ4Um1FamdBcjNMTnRKYXQ2TWpYdlBnemNfcFZLeFhRa3lOd0FkWQ",
@@ -46,7 +63,7 @@
         "火箭内讧预警！杜兰特不满年轻人，阿门三分成焦点"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -104,12 +121,12 @@
       "id": "durant:CBMicEFVX3lxTE1vcTJDeFJUbzliSGRpY3FWRXRxYVNpTmhBc1B5LXlIZUtQenB0cDczYzBTanYyYUw0TjlzQXZoY0RwbDhkbnFqZzNaNGNhbjVyMDIwaHVSM0t3VVBBNEFDUTE1VUVpaUdZekxSa0ZLdFU",
       "title": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vcTJDeFJUbzliSGRpY3FWRXRxYVNpTmhBc1B5LXlIZUtQenB0cDczYzBTanYyYUw0TjlzQXZoY0RwbDhkbnFqZzNaNGNhbjVyMDIwaHVSM0t3VVBBNEFDUTE1VUVpaUdZekxSa0ZLdFU?oc=5",
-      "source": "中华网新闻",
+      "source": "中华网",
       "publishedAt": "2026-09-08T10:35:43.000Z",
-      "description": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题 中华网新闻",
+      "description": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题 中华网",
       "titleZh": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题",
-      "summaryZh": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题 中华网新闻",
-      "detailsZh": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题 中华网新闻",
+      "summaryZh": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题 中华网",
+      "detailsZh": "杜兰特谈同代球员逐渐离开 坦然面对年龄问题 中华网",
       "keyPoints": [
         "杜兰特谈同代球员逐渐离开 坦然面对年龄问题"
       ],
@@ -121,31 +138,14 @@
       "id": "durant:CBMiWEFVX3lxTE85b2dfX0lYSU05YlFiTHdOUTZlbzBjM0ktb3hiQWZ1TGpoSHNtMVFOcXJzMVhITVZWVTFPdV9pSTRxWUhyR0sya2JaelhMNHlsV1JqVUFIUmE",
       "title": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85b2dfX0lYSU05YlFiTHdOUTZlbzBjM0ktb3hiQWZ1TGpoSHNtMVFOcXJzMVhITVZWVTFPdV9pSTRxWUhyR0sya2JaelhMNHlsV1JqVUFIUmE?oc=5",
-      "source": "qie.tv",
+      "source": "企鹅直播",
       "publishedAt": "2026-09-08T09:20:27.000Z",
-      "description": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体 qie.tv",
+      "description": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体 企鹅直播",
       "titleZh": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体",
-      "summaryZh": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体 qie.tv",
-      "detailsZh": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体 qie.tv",
+      "summaryZh": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体 企鹅直播",
+      "detailsZh": "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体 企鹅直播",
       "keyPoints": [
         "沃特森：巅峰杜兰特得分强于安东尼 我渴望场均20+攻防一体"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiwgFBVV95cUxOT19HTFl4Tl9adkMwRkZtX3RxQ1FzQmhWSE5uWWRGZjl6bS1ZOVN6WHhQNnpKRkV2UEx6RDh6S216aGRNX0l6MkNpeFoyRTNOdmsyVms2cEZpZlVYY3FOdl9SM1Y1OHZHSjM4YUdPVDZ6N3gtMWJwanRWUkhNVnZVNWlYNlZHWDNhQ3JFSC1sdjhVZFRTR1Z3TlRxXzExazdRQ3hhUjBDVXFlWTlqc25uUDV5RzBkS1FMYmhnbnhUdnNYdw",
-      "title": "Could Kevin Durant finally perfect his game this season?",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT19HTFl4Tl9adkMwRkZtX3RxQ1FzQmhWSE5uWWRGZjl6bS1ZOVN6WHhQNnpKRkV2UEx6RDh6S216aGRNX0l6MkNpeFoyRTNOdmsyVms2cEZpZlVYY3FOdl9SM1Y1OHZHSjM4YUdPVDZ6N3gtMWJwanRWUkhNVnZVNWlYNlZHWDNhQ3JFSC1sdjhVZFRTR1Z3TlRxXzExazdRQ3hhUjBDVXFlWTlqc25uUDV5RzBkS1FMYmhnbnhUdnNYdw?oc=5",
-      "source": "The Dream Shake",
-      "publishedAt": "2026-09-08T09:12:13.000Z",
-      "description": "Could Kevin Durant finally perfect his game this season? The Dream Shake",
-      "titleZh": "Could Kevin Durant finally perfect his game this season?",
-      "summaryZh": "Could Kevin Durant finally perfect his game this season? The Dream Shake",
-      "detailsZh": "Could Kevin Durant finally perfect his game this season? The Dream Shake",
-      "keyPoints": [
-        "Could Kevin Durant finally perfect his game this season?"
       ],
       "category": "场外",
       "importance": 3
@@ -156,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-08T15:08:19.224Z",
+      "publishedAt": "2026-09-08T18:38:58.989Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -289,26 +289,6 @@
       "importance": 3
     },
     {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "维基百科收录其作为网络写手的背景资料，涵盖常用笔名、创作风格及作品对网络文化的影响。该页面提供基础事实梳理，非实时新闻。",
-      "detailsZh": "此条目为固定的人物资料入口，旨在系统整理大咕咕咕鸡的公开信息。内容主要基于过往可验证的网络记录，包括其作为知名网络段子手的身份认定、代表性创作风格（如幽默讽刺、解构主义）以及对特定时期网络流行语的贡献。事实部分确认了其活跃于中文互联网早期的历史地位；评论部分涉及对其文字影响力的学术或媒体评价；传闻部分则可能包含关于其真实身份或非公开活动的未经证实讨论。该页面不随时间自动更新具体动态，而是作为静态档案存在，用于确立其公众形象的基础框架。",
-      "keyPoints": [
-        "提供人物基础背景与笔名信息",
-        "梳理创作风格与网络影响",
-        "区分事实记录与主观评价",
-        "作为静态资料库而非新闻源"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -317,16 +297,13 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "新浪微博官方超话页面，聚合其公开动态及读者讨论。此为固定主页入口，用于追踪其社交媒体活动，非单日新闻事件。",
-      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超级话题页，是粉丝和读者获取其最新公开动态的主要渠道。事实层面，它记录了其发布的微博内容、转发互动及官方认证信息；评论层面，包含网友对其内容的即时反馈、二次创作及社群内的观点交流；传闻层面，可能存在关于其生活状态或未来计划的猜测性帖子。由于这是固定的社区入口，其内容具有持续性和累积性，不应被误读为单一时间的新闻报道。用户应将其视为一个动态的信息聚合器，而非具体的新闻事件本身。",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "keyPoints": [
-        "微博官方超话固定入口",
-        "聚合公开动态与粉丝讨论",
-        "区分即时互动与长期档案",
-        "非单日新闻事件的伪装"
+        "大咕咕咕鸡公开动态与超话"
       ],
-      "category": "公开发言",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -337,35 +314,29 @@
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "哔哩哔哩搜索结果页，聚合其作品朗读、相关讨论及历史视频。此为动态搜索索引，非固定主页，内容随上传而变化。",
-      "detailsZh": "该链接为B站针对“大咕咕咕鸡”关键词的搜索结果聚合页。事实部分包括用户上传的视频标题、播放量、发布时间等元数据；评论部分涉及视频下方的弹幕和评论区的观点碰撞；传闻部分可能夹杂对创作者私生活的窥探或对未发布作品的谣言。由于这是搜索结果的动态集合，其内容结构不稳定，且包含大量非官方、非核心的UGC内容。使用时需甄别信息来源，避免将普通用户的二创或无关讨论误认为作者本人的正式发言。该页面不具备固定主页的结构稳定性，仅作为检索工具存在。",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "B站动态搜索结果聚合",
-        "包含作品朗读与用户二创",
-        "内容结构不稳定且混杂",
-        "需甄别非核心UGC内容"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 2
+      "category": "场外",
+      "importance": 4
     },
     {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "界面新闻2015年深度报道，分析其创作风格及对网络语言的影响。此为历史性媒体报道，反映当时语境下的公众认知。",
-      "detailsZh": "这是一篇发布于2015年的媒体深度报道，属于历史性文献。事实部分记录了当时大咕咕咕鸡的创作特点、代表作品及其在社交媒体上的传播数据；评论部分体现了媒体从业者对其文学价值和社会意义的专业评估；传闻部分可能涉及当时流传的关于其身份或动机的猜测。该报道的价值在于提供了一个特定时间点的观察视角，反映了早期网络段子手群体的生存状态和文化影响。由于时间久远，其中的某些细节可能已过时，但其作为研究网络文学发展史的重要样本，仍具有较高的参考价值。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "keyPoints": [
-        "2015年历史性媒体报道",
-        "分析创作风格与语言影响",
-        "反映早期网络文学生态",
-        "具备学术研究参考价值"
+        "大咕咕咕鸡人物与创作资料"
       ],
-      "category": "讨论",
+      "category": "场外",
       "importance": 3
     },
     {
@@ -383,7 +354,24 @@
         "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "keyPoints": [
+        "大咕咕咕鸡与网络段子手创作生态"
+      ],
+      "category": "场外",
+      "importance": 3
     }
   ]
 }
