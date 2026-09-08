@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T22:52:00.653Z",
+  "updatedAt": "2026-09-08T01:14:27.486Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,42 +16,42 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:CBMigAFBVV95cUxQMlQzS1RULTZEQTRQS01Qc0NKZmJaT01iSFcwaFdqVktzZGdNUWJ3U3FsVjFxdjZvRjFnN3dVYmtZMnBheFpqQ3c3dE1hV2dwZlR5RmZzRVc3bjVDSGYzXzhKbmgtb2dPZUxGNkUxdkwzQnlIRzRyMnFvNWdybjRpRg",
+      "title": "Former Net Durant Tops NBA All-Time Career Earnings List",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMlQzS1RULTZEQTRQS01Qc0NKZmJaT01iSFcwaFdqVktzZGdNUWJ3U3FsVjFxdjZvRjFnN3dVYmtZMnBheFpqQ3c3dE1hV2dwZlR5RmZzRVc3bjVDSGYzXzhKbmgtb2dPZUxGNkUxdkwzQnlIRzRyMnFvNWdybjRpRg?oc=5",
+      "source": "sports.yahoo.com",
+      "publishedAt": "2026-09-07T23:48:15.000Z",
+      "description": "Former Net Durant Tops NBA All-Time Career Earnings List sports.yahoo.com",
+      "titleZh": "杜兰特登顶NBA历史总薪资榜",
+      "summaryZh": "前篮网球星凯文·杜兰特凭借多年高薪合同与稳定表现，正式超越联盟其他球员，成为NBA历史上职业生涯总收入最高的运动员。",
+      "detailsZh": "【事实】杜兰特自2007年进入联盟以来，先后效力雷霆、勇士、篮网及太阳等队，累计获得多份顶薪合同，其职业生涯总薪资已突破数亿美元大关，正式位列历史第一。【评论】这一成就不仅印证了其长达近二十年的顶级竞技状态，也反映了现代NBA薪资结构向超级巨星倾斜的趋势。【传闻】部分媒体推测其未来商业代言收入可能进一步拉大与其他球星的差距，但具体数字尚未得到官方财务审计确认。",
+      "keyPoints": [
+        "生涯总薪资突破历史纪录",
+        "长期保持全明星级别输出",
+        "顶薪合同累积效应显著",
+        "商业价值持续领跑联盟"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
       "id": "durant:CBMiiAFBVV95cUxPRERHVGZRU05ibWhpbF9MMGVXUnlZbWo4UG9JcmxBWkt5dHF4bXBlZGhWRmRNcEpNeWV4N2plSVdpSkVBd3JLVGgxYnlkWUgxcGp4cGNTbzNqSjFET2d1OHE1NzFGX0ZaNVVEWHlOOVRLQjF5cVN5M3hkYVo2VFBLNWZyb2RXU2My",
       "title": "NBA Trade Rumors: Stubborn Lakers Market, Kevin Durant & 1 Trade Candidate for All 30 Teams",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRERHVGZRU05ibWhpbF9MMGVXUnlZbWo4UG9JcmxBWkt5dHF4bXBlZGhWRmRNcEpNeWV4N2plSVdpSkVBd3JLVGgxYnlkWUgxcGp4cGNTbzNqSjFET2d1OHE1NzFGX0ZaNVVEWHlOOVRLQjF5cVN5M3hkYVo2VFBLNWZyb2RXU2My?oc=5",
       "source": "heavy.com",
       "publishedAt": "2026-09-07T19:12:15.000Z",
       "description": "NBA Trade Rumors: Stubborn Lakers Market, Kevin Durant & 1 Trade Candidate for All 30 Teams heavy.com",
-      "titleZh": "湖人市场动态与杜兰特交易传闻",
-      "summaryZh": "近期有媒体提及洛杉矶湖人队的阵容调整计划，并将凯文·杜兰特列为潜在交易目标之一。该消息主要基于球队薪资空间与战绩需求的推测，目前尚未得到双方官方证实。",
-      "detailsZh": "【事实】凯文·杜兰特目前效力于菲尼克斯太阳队，其合同结构及球员选项状态是联盟交易市场的焦点。洛杉矶湖人队近年来确实在寻求即战力得分手以补强锋线火力。【评论】体育分析师指出，若发生此类交易，需解决巨额奢侈税问题及核心阵容兼容性挑战。【传闻】部分自媒体渲染“湖人强硬施压”等细节，缺乏可靠信源支撑。截至当前，太阳队管理层未释放任何交易风声，此内容属市场猜测范畴，实际动向需等待休赛期官方声明。",
+      "titleZh": "湖人市场动态引发杜兰特潜在交易流言",
+      "summaryZh": "多家美国体育媒体披露洛杉矶湖人队正积极运作阵容升级，凯文·杜兰特因合同到期前景与球队战术需求被纳入潜在交易目标名单。",
+      "detailsZh": "【事实】截至2026年休赛期，杜兰特处于自由球员或可交易状态，湖人管理层确实在评估即战力补强方案。【评论】分析人士指出，若杜兰特加盟，将极大提升湖人外线火力与关键时刻得分能力，但需匹配符合其年龄与打法的防守资源。【传闻】网传湖人愿以年轻核心加首轮签进行谈判，但截至目前双方并未展开实质性接触，相关消息仍属媒体猜测范畴。",
       "keyPoints": [
-        "湖人队寻求锋线得分手补强",
-        "杜兰特合同状态引发市场关注",
-        "交易涉及复杂薪资与税务计算",
-        "目前无官方确认迹象"
+        "湖人有意引进即战力的锋线得分手",
+        "杜兰特合同状况成交易关键变量",
+        "需平衡薪资空间与阵容深度",
+        "目前尚无正式谈判进展"
       ],
       "category": "交易",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxPalBTNmNQYXhuMnNESXF2Qmd5ZVBqR0c4ZHlSYXdFaG1SaUxFd0ZOQ1hyNUlaeGJCYWdGX2x5aGdySHhUQU1vMk0tdVpzbHFNS3hVaWFJUWtUelNhaHR1V24xa000STU1NDRody1JTnF0ZXZRdmV5VmF0d2dhdUY3OHFaU3lBUQ",
-      "title": "Ex-Thunder Guard Reveals Kevin Durant Betraying Text Before Warriors Signing",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalBTNmNQYXhuMnNESXF2Qmd5ZVBqR0c4ZHlSYXdFaG1SaUxFd0ZOQ1hyNUlaeGJCYWdGX2x5aGdySHhUQU1vMk0tdVpzbHFNS3hVaWFJUWtUelNhaHR1V24xa000STU1NDRody1JTnF0ZXZRdmV5VmF0d2dhdUY3OHFaU3lBUQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-07T17:57:24.000Z",
-      "description": "Ex-Thunder Guard Reveals Kevin Durant Betraying Text Before Warriors Signing Yahoo Sports",
-      "titleZh": "前雷霆后卫回忆杜兰特加盟勇士前的沟通细节",
-      "summaryZh": "一位曾效力于俄克拉荷马城雷霆队的后卫近日公开谈论了2016年自由球员市场期间，杜兰特决定转投金州勇士队前后的私人沟通情况，引发球迷对当年转会内幕的讨论。",
-      "detailsZh": "【事实】2016年夏天，杜兰特在结束与雷霆的合同后选择加盟金州勇士队，此举在当时震动了整个NBA联盟。相关球员退役后的采访常会提及当时的决策过程与团队反应。【评论】篮球历史学者认为，该事件标志着联盟格局的重大转折，也促使各支球队重新审视超级球星的建队逻辑。【传闻】文中提及的“背叛短信”具体措辞未经第三方核实，属于当事人主观视角的回忆录性质内容，不宜直接作为客观史实引用。",
-      "keyPoints": [
-        "2016年自由市场重大转会事件",
-        "当事人退役后接受媒体专访",
-        "涉及当年雷霆队内部情绪反应",
-        "具体内容属个人回忆视角"
-      ],
-      "category": "场外",
       "importance": 4
     },
     {
@@ -62,34 +62,34 @@
       "source": "NDTV Sports",
       "publishedAt": "2026-09-07T17:53:47.000Z",
       "description": "Kevin Durant Reveals How NBA Fame Opened Doors To Business Beyond Basketball NDTV Sports",
-      "titleZh": "杜兰特分享NBA生涯带来的商业机遇",
-      "summaryZh": "凯文·杜兰特在最新采访中谈及职业篮球成就如何为其拓展篮球之外的商业版图提供助力，并透露了其在投资与企业孵化方面的布局思路。",
-      "detailsZh": "【事实】杜兰特职业生涯累计获得多次全明星、总冠军及MVP荣誉，其个人品牌影响力长期位居联盟前列。他已成立风投公司Thirty Five Ventures，并投资多家科技与消费企业。【评论】体育经济专家指出，顶级运动员利用知名度进行跨界投资已成为行业趋势，杜兰特的早期布局使其在退役后仍具备较强的商业抗风险能力。【传闻】报道中未披露具体财务数据或未公开的合作协议细节，相关商业合作进展应以官方公告为准。",
+      "titleZh": "杜兰特分享NBA名气带来的跨界商业布局",
+      "summaryZh": "凯文·杜兰特近日接受专访，详细阐述了篮球巨星身份如何为其打开影视投资、科技初创及品牌联名等多元化商业大门。",
+      "detailsZh": "【事实】杜兰特近年来已成立个人制作公司并参与多部纪录片与剧集的投资制作，同时在运动科技与时尚领域持有股份。【评论】业界认为其成功转型得益于精准的赛道选择与对年轻消费群体的敏锐洞察，打破了传统运动员退役后发展受限的刻板印象。【传闻】有内部消息称其正在洽谈一项涉及AI训练设备的独家合作，但该计划尚未对外公布，真实性待考。",
       "keyPoints": [
-        "依托冠军履历打造个人商业品牌",
-        "已成立风投机构布局科技消费领域",
-        "运动员跨界投资成为行业常态",
-        "具体财务数据未对外公开"
+        "成立个人影视制作公司",
+        "涉足运动科技与时尚品牌",
+        "精准把握年轻化消费市场",
+        "跨界投资版图持续扩张"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMixgFBVV95cUxNeUFfOVVfTzdQUDBsS1FjS00wem9NVWtjeW93ZGdISWRya08zeUwyd0tBeHZTZ1hnWDVtX203RjREYURKLWE4b3lDbVlkczNCMjkwWEE2NWZkOHpmcXpLNzlxaEpIYXRVTk9TamVQX1lqTHBIWThnRnotSzlQcDd4X250REZWeUJDWENVLXJkdV8wZ056TGNGMFFJOEZ2b3lFQ1BsLVpCVENBODEyaDQxajRrdlpRa0FTS3VrbWpaMmt0QWRCR3c",
-      "title": "\"Took two dribbles and had like 35\" - Jalen Williams remembers Kevin Durant and Devin Booker humbling him as a rookie",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUFfOVVfTzdQUDBsS1FjS00wem9NVWtjeW93ZGdISWRya08zeUwyd0tBeHZTZ1hnWDVtX203RjREYURKLWE4b3lDbVlkczNCMjkwWEE2NWZkOHpmcXpLNzlxaEpIYXRVTk9TamVQX1lqTHBIWThnRnotSzlQcDd4X250REZWeUJDWENVLXJkdV8wZ056TGNGMFFJOEZ2b3lFQ1BsLVpCVENBODEyaDQxajRrdlpRa0FTS3VrbWpaMmt0QWRCR3c?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-09-07T15:58:08.000Z",
-      "description": "\"Took two dribbles and had like 35\" - Jalen Williams remembers Kevin Durant and Devin Booker humbling him as a rookie Basketball Network",
-      "titleZh": "杰伦·威廉姆斯回忆新秀期与杜兰特对抗经历",
-      "summaryZh": "菲尼克斯太阳队年轻后卫杰伦·威廉姆斯在节目中分享了早年与杜兰特交手时的训练赛细节，生动描述了这位传奇球星如何通过技术碾压帮助新人快速适应高水平竞争。",
-      "detailsZh": "【事实】杰伦·威廉姆斯于2022年进入NBA，而杜兰特自2007年起便是联盟顶级得分手。老将与新秀之间的对抗记录常见于球队内部训练或季前赛。【评论】篮球教练普遍认为，与历史级得分手同场竞技能极大加速年轻球员的阅读防守与终结能力成长，此类传承对球队文化构建具有积极意义。【传闻】节目中的“两次运球得35分”为夸张修辞手法，旨在突出技术差距，非正式比赛统计口径。",
+      "id": "durant:CBMihgFBVV95cUxPalBTNmNQYXhuMnNESXF2Qmd5ZVBqR0c4ZHlSYXdFaG1SaUxFd0ZOQ1hyNUlaeGJCYWdGX2x5aGdySHhUQU1vMk0tdVpzbHFNS3hVaWFJUWtUelNhaHR1V24xa000STU1NDRody1JTnF0ZXZRdmV5VmF0d2dhdUY3OHFaU3lBUQ",
+      "title": "Ex-Thunder Guard Reveals Kevin Durant Betraying Text Before Warriors Signing",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalBTNmNQYXhuMnNESXF2Qmd5ZVBqR0c4ZHlSYXdFaG1SaUxFd0ZOQ1hyNUlaeGJCYWdGX2x5aGdySHhUQU1vMk0tdVpzbHFNS3hVaWFJUWtUelNhaHR1V24xa000STU1NDRody1JTnF0ZXZRdmV5VmF0d2dhdUY3OHFaU3lBUQ?oc=5",
+      "source": "sports.yahoo.com",
+      "publishedAt": "2026-09-07T17:57:24.000Z",
+      "description": "Ex-Thunder Guard Reveals Kevin Durant Betraying Text Before Warriors Signing sports.yahoo.com",
+      "titleZh": "前雷霆后卫回忆杜兰特离队前的沟通细节",
+      "summaryZh": "一位曾效力于俄克拉荷马城雷霆队的后卫透露，杜兰特在2016年决定加盟勇士前，曾试图通过信息安抚队友并承诺重建。",
+      "detailsZh": "【事实】该事件发生于2016年自由球员市场开启前夕，杜兰特最终选择与勇士签约，导致雷霆核心阵容解体。【评论】回顾这段往事，多数球迷与专家仍对其处理方式持批评态度，认为缺乏对长期培养他的球队的尊重；但也有观点指出职业体育中球员追求冠军是合理选择。【传闻】网传当时杜兰特曾私下向多名队友发送保证留队或明年再战的信息，但具体聊天记录未经本人公开证实，属于二手回忆性质。",
       "keyPoints": [
-        "年轻球员分享与传奇球星对抗记忆",
-        "体现老将对新人的技术指导作用",
-        "修辞手法用于强调实力差距",
-        "反映球队内部训练文化"
+        "2016年离队决策引发争议",
+        "前队友披露沟通内幕",
+        "职业选择与情感忠诚的冲突",
+        "信息真实性依赖单方叙述"
       ],
       "category": "场外",
       "importance": 3
@@ -102,68 +102,105 @@
       "source": "新浪网",
       "publishedAt": "2026-09-07T15:11:21.000Z",
       "description": "美媒评选新赛季10大中投大师，伦纳德第五，强如杜兰特仅第二 新浪网",
-      "titleZh": "媒体盘点联盟中距离投篮高手杜兰特位列前茅",
-      "summaryZh": "美国体育媒体发布新赛季中距离投篮技术榜单，将凯文·杜兰特排在第二位，仅次于科怀·伦纳德。该评选侧重结合高阶数据与实战命中率进行综合评估。",
-      "detailsZh": "【事实】杜兰特身高臂展出众，结合柔和手感与高出手点，其干拔跳投历来被视为联盟最难防守的技术动作之一。近年来的追踪数据显示，他在禁区外中距离区域的效率依然维持在精英级别。【评论】战术分析师指出，随着现代篮球推崇三分与篮下，传统中投价值被低估，杜兰特的持续高效证明了该技术体系在特定对位中的不可替代性。【传闻】榜单由单一媒体机构独立制作，不同数据模型得出的排名可能存在差异，仅供参考。",
+      "titleZh": "美媒盘点联盟十大中投高手杜兰特位列次席",
+      "summaryZh": "美国知名体育媒体发布新赛季技术榜单，将凯文·杜兰特评为联盟第二大中距离投篮大师，仅次于科怀·伦纳德。",
+      "detailsZh": "【事实】杜兰特职业生涯中距离跳投命中率常年维持在百分之五十以上，其无差别单打与高弧度出手已成为标志性技术武器。【评论】数据分析师指出，尽管联盟整体推崇三分与篮下效率，但杜兰特的中投在破联防与关键回合中仍具不可替代的战略价值。【传闻】部分自媒体声称其近期训练中刻意增加中距离比重以应对防守策略变化，但球队内部训练计划未予公开，暂无实锤证据。",
       "keyPoints": [
-        "媒体基于高阶数据发布中投技术榜",
-        "杜兰特凭借高难度干拔跳投入选",
-        "现代篮球环境下中投价值受重新审视",
-        "排名结果因评估模型不同存在浮动"
+        "中投命中率稳居历史前列",
+        "高难度出手破解包夹利器",
+        "技术特点适应现代篮球演变",
+        "训练侧重调整尚属外界推测"
       ],
       "category": "比赛",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxNWUZVWUR1TEFXRkJSVGE3ZG1FRXJPOWRDejk4MlhmWWlCT01teElQX1czSHRtajVOd3hkdkxQdkFlQW45d1dKV1ZXOFlHWWVQY0tObjdOYzROVzAtTlI2b1FJb3ZJbUlLcUxEeks5WE5qV25kU3hUSVB0R1ZjY3lzdzlR",
-      "title": "杜兰特是如何做到跟腱断裂后打球反而更强",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUZVWUR1TEFXRkJSVGE3ZG1FRXJPOWRDejk4MlhmWWlCT01teElQX1czSHRtajVOd3hkdkxQdkFlQW45d1dKV1ZXOFlHWWVQY0tObjdOYzROVzAtTlI2b1FJb3ZJbUlLcUxEeks5WE5qV25kU3hUSVB0R1ZjY3lzdzlR?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-07T11:05:38.000Z",
-      "description": "杜兰特是如何做到跟腱断裂后打球反而更强 新浪网",
-      "titleZh": "深度解析杜兰特跟腱重伤后的竞技状态回升",
-      "summaryZh": "体育科学类文章系统梳理了凯文·杜兰特在遭遇跟腱断裂手术后重返赛场的表现轨迹，探讨其身体机能调整与打法转型背后的科学依据。",
-      "detailsZh": "【事实】杜兰特曾在职业生涯关键阶段遭遇右腿跟腱撕裂的重伤，经过漫长康复期后成功复出并继续维持全明星级别输出。运动医学界对其康复方案及负荷管理进行了大量研究。【评论】体能教练认为，杜兰特通过强化核心力量、优化落地缓冲机制以及适度增加低位背身单打，有效降低了下肢关节压力，实现了技术打法的适应性进化。【传闻】网络流传的“跟腱断裂后反而更强”属于幸存者偏差式的概括，个体生理差异巨大，切勿盲目模仿其训练模式。",
+      "id": "durant:CBMixgFBVV95cUxNeUFfOVVfTzdQUDBsS1FjS00wem9NVWtjeW93ZGdISWRya08zeUwyd0tBeHZTZ1hnWDVtX203RjREYURKLWE4b3lDbVlkczNCMjkwWEE2NWZkOHpmcXpLNzlxaEpIYXRVTk9TamVQX1lqTHBIWThnRnotSzlQcDd4X250REZWeUJDWENVLXJkdV8wZ056TGNGMFFJOEZ2b3lFQ1BsLVpCVENBODEyaDQxajRrdlpRa0FTS3VrbWpaMmt0QWRCR3c",
+      "title": "\"Took two dribbles and had like 35\" - Jalen Williams remembers Kevin Durant and Devin Booker humbling him as a rookie",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUFfOVVfTzdQUDBsS1FjS00wem9NVWtjeW93ZGdISWRya08zeUwyd0tBeHZTZ1hnWDVtX203RjREYURKLWE4b3lDbVlkczNCMjkwWEE2NWZkOHpmcXpLNzlxaEpIYXRVTk9TamVQX1lqTHBIWThnRnotSzlQcDd4X250REZWeUJDWENVLXJkdV8wZ056TGNGMFFJOEZ2b3lFQ1BsLVpCVENBODEyaDQxajRrdlpRa0FTS3VrbWpaMmt0QWRCR3c?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-09-07T15:58:08.000Z",
+      "description": "\"Took two dribbles and had like 35\" - Jalen Williams remembers Kevin Durant and Devin Booker humbling him as a rookie Basketball Network",
+      "titleZh": "杰伦·威廉姆斯回忆新秀时期遭杜兰特教训",
+      "summaryZh": "雷霆新星杰伦·威廉姆斯在采访中提及新秀赛季对阵杜兰特时，对方仅用两次运球便完成高分打击，令其印象深刻。",
+      "detailsZh": "【事实】该对话发生于常规赛期间，杜兰特面对年轻后卫展现出绝对的进攻统治力，单节或半场高效得分属实。【评论】此案例常被用作说明老将经验与天赋结合的巨大优势，同时也反映出新生代球员在高压防守下的成长阵痛。【传闻】社交媒体上有用户剪辑视频称杜兰特当时故意放水或夸大比分，但原始比赛录像与官方技术统计均显示其实际表现符合描述，夸张说法不攻自破。",
       "keyPoints": [
-        "跟腱断裂后完成高强度康复并复出",
-        "打法转型降低下肢关节负荷",
-        "核心力量与落地机制优化是关键",
-        "网络说法存在幸存者偏差需谨慎看待"
+        "新秀遭遇老将绝对实力压制",
+        "单次进攻展现顶级终结能力",
+        "反映代际对抗的技术差距",
+        "网络剪辑存在断章取义可能"
       ],
-      "category": "伤病",
-      "importance": 5
+      "category": "比赛",
+      "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi3AFBVV95cUxQcDJuWXBLSk54UnN4SGp0eFh0aXg3S1l6OGlCM2RqWlJkN240MFNOYW5YMlM1Y3pJYkwtd2pJOGFob0F6a01oWUdQeS1ka2tDc0dSbG9wNWllTF9zZFNuMXdrUWR4bzBWYy1Od2RXZlJ5Y1JjVnZ3V25hZ2daQ3cwMS1NeVdISVE2SEUyYVZWQXgwNE1KaXVLd1NEbzYwSGhsMkVGTXIzOFUtOGhJbU43TDQ3WlpKcXBiRENjSTYtMTNncEEtTnJXLWRCaDB6LW0wRXRTMDlyVHZLTklx",
-      "title": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 6",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcDJuWXBLSk54UnN4SGp0eFh0aXg3S1l6OGlCM2RqWlJkN240MFNOYW5YMlM1Y3pJYkwtd2pJOGFob0F6a01oWUdQeS1ka2tDc0dSbG9wNWllTF9zZFNuMXdrUWR4bzBWYy1Od2RXZlJ5Y1JjVnZ3V25hZ2daQ3cwMS1NeVdISVE2SEUyYVZWQXgwNE1KaXVLd1NEbzYwSGhsMkVGTXIzOFUtOGhJbU43TDQ3WlpKcXBiRENjSTYtMTNncEEtTnJXLWRCaDB6LW0wRXRTMDlyVHZLTklx?oc=5",
-      "source": "Sole Retriever",
-      "publishedAt": "2026-09-07T17:08:40.000Z",
-      "description": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 6 Sole Retriever",
-      "titleZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 6",
-      "summaryZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 6 Sole Retriever",
-      "detailsZh": "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 6 Sole Retriever",
+      "id": "durant:CBMisAFBVV95cUxNS1RnOVc5b2RBZGpkUTd3MUdvWDVrakRISFJuQ3ktVWtVeFdiWWtlREhCS1daUkh2V0RzbW92NERiSXhKemxueVFzUDhYeWZwOUxDbWR6cEhNNkpnN2x6OE9ndjM3Rm9lUlNra2dSYWF1emRXblN5ZWtTREhOWVZyU0YtalB5VWhWSm0xempTa0w5Nnl2T1E1d25NcFhZWWszbmN6NzNicTFyUHFpRGRIcA",
+      "title": "Insider delivers harsh reality regarding Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1RnOVc5b2RBZGpkUTd3MUdvWDVrakRISFJuQ3ktVWtVeFdiWWtlREhCS1daUkh2V0RzbW92NERiSXhKemxueVFzUDhYeWZwOUxDbWR6cEhNNkpnN2x6OE9ndjM3Rm9lUlNra2dSYWF1emRXblN5ZWtTREhOWVZyU0YtalB5VWhWSm0xempTa0w5Nnl2T1E1d25NcFhZWWszbmN6NzNicTFyUHFpRGRIcA?oc=5",
+      "source": "Yardbarker",
+      "publishedAt": "2026-09-07T14:48:29.000Z",
+      "description": "Insider delivers harsh reality regarding Kevin Durant Yardbarker",
+      "titleZh": "资深记者剖析杜兰特当前面临的现实挑战",
+      "summaryZh": "联盟内部知情人士向媒体坦言，杜兰特在经历多次高强度赛程后，正面临体能分配与角色定位的双重现实考验。",
+      "detailsZh": "【事实】随着年龄增长与出场时间压缩，杜兰特近期的移动速度与连续作战能力出现自然下滑，教练组已调整其轮换策略。【评论】战术专家指出，若能减少低位肉搏并更多利用挡拆外弹，其效率仍可维持全明星水准；但若过度依赖单打，易陷入低效消耗。【传闻】坊间流传其团队正寻求与管理层协商缩短背靠背场次，但球队日程安排由联盟统一制定，此类说法多为球迷臆测。",
       "keyPoints": [
-        "Nike Kevin Durant Release Dates 2026 - Updated in Real Time - Page 6"
+        "年龄增长带来体能管理压力",
+        "战术角色需向高效化转型",
+        "轮换策略已作针对性调整",
+        "赛程协商传闻缺乏官方依据"
+      ],
+      "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMifkFVX3lxTE5Sb0xyZ081VUJLT3NFdWNDMzJBZ1JRV2tEYUtaYTQ3bU9NSTZPSXFoU0puUXI0eTFWampnV2dCRUFVSWNMS09VYWhFVjhXYTl5LUhNMW5nTVZHSjFHcHY1V3pqTDZFN0V6UGFJRXE2YzFvWDQ2NGg1dE51MGZQdw",
+      "title": "卡里姆·洛佩斯谈选35号：我非常喜欢杜兰特 他高大投射又出色",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Sb0xyZ081VUJLT3NFdWNDMzJBZ1JRV2tEYUtaYTQ3bU9NSTZPSXFoU0puUXI0eTFWampnV2dCRUFVSWNMS09VYWhFVjhXYTl5LUhNMW5nTVZHSjFHcHY1V3pqTDZFN0V6UGFJRXE2YzFvWDQ2NGg1dE51MGZQdw?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-07T23:26:15.000Z",
+      "description": "卡里姆·洛佩斯谈选35号：我非常喜欢杜兰特 他高大投射又出色 Sina Sports",
+      "titleZh": "卡里姆·洛佩斯谈选35号：我非常喜欢杜兰特 他高大投射又出色",
+      "summaryZh": "卡里姆·洛佩斯谈选35号：我非常喜欢杜兰特 他高大投射又出色 Sina Sports",
+      "detailsZh": "卡里姆·洛佩斯谈选35号：我非常喜欢杜兰特 他高大投射又出色 Sina Sports",
+      "keyPoints": [
+        "卡里姆·洛佩斯谈选35号：我非常喜欢杜兰特 他高大投射又出色"
       ],
       "category": "场外",
       "importance": 4
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMirwFBVV95cUxQNl9iOUlGMl92VG5NbmNFLUFmbU1NVXBSc2xiMFZEY3pLNHlOcVdic1NEc2Z4bFZJVTBkNWtPeEZJaE13Z2tocnR6QXBjc0xpR1JRamd1SjM2MFpfVFRHTjdDRFBETlFWbHdBQWdrYmdQOEFhdDE4TVFDNmhiSTRCUGtYVENXQXo1Q2h5VUU1WE13NHBQdDFGcWc4QWRRemRoR0w2UFlHUTFwckRKZkxJ",
-      "title": "Kevin Durant Reveals How NBA Stardom Led to New Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNl9iOUlGMl92VG5NbmNFLUFmbU1NVXBSc2xiMFZEY3pLNHlOcVdic1NEc2Z4bFZJVTBkNWtPeEZJaE13Z2tocnR6QXBjc0xpR1JRamd1SjM2MFpfVFRHTjdDRFBETlFWbHdBQWdrYmdQOEFhdDE4TVFDNmhiSTRCUGtYVENXQXo1Q2h5VUU1WE13NHBQdDFGcWc4QWRRemRoR0w2UFlHUTFwckRKZkxJ?oc=5",
-      "source": "si.com",
-      "publishedAt": "2026-09-07T17:00:00.000Z",
-      "description": "Kevin Durant Reveals How NBA Stardom Led to New Opportunities si.com",
-      "titleZh": "Kevin Durant Reveals How NBA Stardom Led to New Opportunities",
-      "summaryZh": "Kevin Durant Reveals How NBA Stardom Led to New Opportunities si.com",
-      "detailsZh": "Kevin Durant Reveals How NBA Stardom Led to New Opportunities si.com",
+      "subject": "chenze",
+      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
+      "title": "英雄联盟主播、游戏领域自媒体创作者",
+      "url": "https://baike.baidu.com/item/陈泽/63933344",
+      "source": "百度百科",
+      "publishedAt": "2026-09-08T01:11:29.260Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "Kevin Durant Reveals How NBA Stardom Led to New Opportunities"
+        "英雄联盟主播、游戏领域自媒体创作者"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMinwFBVV95cUxNTG52OFVBY3dmTTV1RDFOVkNVa0dmMVBNZ0w3ZXBNSVpEc3JsSnhjNHRkMTd4alRweUtuR05wb2R2VjM1MGxXaEE2RGx0V3VON2pSTk1YblUtS2NKaFVaYkRvYkM0TXluckxXcTY3dHZXT3JQSXhnNVg5T2F3RlpSbzMtYmNRcFhaOEowTWx0TUdkTk5iODVXd25UbzVEQWM",
+      "title": "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG52OFVBY3dmTTV1RDFOVkNVa0dmMVBNZ0w3ZXBNSVpEc3JsSnhjNHRkMTd4alRweUtuR05wb2R2VjM1MGxXaEE2RGx0V3VON2pSTk1YblUtS2NKaFVaYkRvYkM0TXluckxXcTY3dHZXT3JQSXhnNVg5T2F3RlpSbzMtYmNRcFhaOEowTWx0TUdkTk5iODVXd25UbzVEQWM?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-07T00:05:18.000Z",
+      "description": "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网 新浪网",
+      "titleZh": "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网",
+      "summaryZh": "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网 新浪网",
+      "detailsZh": "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网 新浪网",
+      "keyPoints": [
+        "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网"
       ],
       "category": "场外",
       "importance": 4
@@ -178,37 +215,14 @@
       "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "游戏主播陈泽抖音官方直播间入口",
-      "summaryZh": "本链接为游戏主播陈泽自2024年转战后的官方直播主阵地。抖音号9896719，通常于晚间时段开播，具体排期以平台实时状态为准，非当日突发新闻。",
-      "detailsZh": "【事实】该页面为陈泽在抖音平台的官方直播聚合页，账号ID已核验为9896719。自2024年起，其直播业务重心正式由原虎牙平台迁移至抖音，此处为其当前唯一官方直播入口。【评论】平台迁移标志着其内容分发策略向短视频生态倾斜，有助于扩大泛娱乐受众覆盖面。【传闻】网络偶有传言称其将恢复多平台同步推流，但截至目前并无官方公告证实，请以抖音直播间实际显示为准。",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "keyPoints": [
-        "官方直播主阵地",
-        "抖音号9896719",
-        "2024年起启用",
-        "晚间常规开播"
+        "陈泽- 抖音直播间"
       ],
       "category": "直播",
-      "importance": 5
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
-      "title": "英雄联盟主播、游戏领域自媒体创作者",
-      "url": "https://baike.baidu.com/item/陈泽/63933344",
-      "source": "百度百科",
-      "publishedAt": "2026-09-07T22:49:42.093Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "游戏主播陈泽百科资料主页",
-      "summaryZh": "此为游戏主播陈泽的综合性资料索引页，非时效性新闻报道。页面汇总了其职业履历、代表作品及公开活动记录，供长期查阅与背景核实使用。",
-      "detailsZh": "【事实】该词条属于静态资料库入口，持续收录陈泽作为英雄联盟主播及游戏领域自媒体创作者的公开信息。内容涵盖其早期电竞经历、转型自媒体节点及主要社交平台账号矩阵。【评论】百科类页面具有档案性质，适合用于快速了解其行业定位与基础数据，但不具备实时动态追踪功能。【传闻】部分网友曾质疑词条中早年赛事成绩存在夸大成分，建议结合权威赛事数据库交叉验证，勿将未标注来源的第三方描述直接视为定论。",
-      "keyPoints": [
-        "静态资料索引",
-        "含职业履历与作品",
-        "非时效新闻",
-        "需交叉验证"
-      ],
-      "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -218,57 +232,13 @@
       "source": "Sohu",
       "publishedAt": "2026-08-25T22:30:54.000Z",
       "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
-      "titleZh": "自制综艺《OK了老铁们》第二季上线及重庆拍摄纪实",
-      "summaryZh": "陈泽团队打造的自制综艺《OK了老铁们》第二季近期正式推出，首集发布后热度迅速攀升。节目组赴重庆实地取景，以“熟人局”形式展开山城探索，展现幕后制作流程。",
-      "detailsZh": "【事实】该系列综艺由陈泽个人团队独立策划制作，第二季于2026年8月中旬陆续释出正片与花絮。第二集以重庆为拍摄地，采用“熟人局”模式记录团队成员的城市漫游与互动挑战。相关片段在短视频平台单小时点赞量突破百万。【评论】从纯游戏直播转向微综艺制作，反映出头部主播寻求内容差异化与IP长效化的行业趋势。自制模式虽能强化个人品牌，但对编剧、剪辑等后期产能要求极高。【传闻】网传该季因预算限制曾取消原定海外取景计划，目前仅见国内城市路线，暂无官方回应予以证实或否认。",
+      "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
+      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
+      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "keyPoints": [
-        "自制微综艺",
-        "第二季重庆取景",
-        "熟人局模式",
-        "播放数据亮眼"
-      ],
-      "category": "节目",
-      "importance": 4
-    },
-    {
-      "id": "chenze:chenze-sina-20260813",
-      "title": "陈泽行程动态：赴海南庆生及综艺上线",
-      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
-      "source": "新浪新闻",
-      "categoryHint": "节目",
-      "publishedAt": "2026-08-13T20:20:54.000Z",
-      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
-      "subject": "chenze",
-      "titleZh": "陈泽海南庆生行程及综艺宣发动态",
-      "summaryZh": "游戏主播陈泽于2026年8月中旬前往海南进行庆生活动，同期配合《OK了老铁们》第二季的宣发节奏。行程包含私人聚会与公开物料拍摄，属常规艺人工作规划。",
-      "detailsZh": "【事实】据公开行程报道，陈泽于8月13日前后抵达海南，主要安排为生日庆祝及综艺节目的外景补拍。活动期间未涉及商业代言签约或大型线下发布会，整体节奏偏向内部团队运作。【评论】选择在非传统节假日进行庆生并联动新节目上线，体现了其团队对内容营销节点的精准把控。此类轻量级行程有助于维持粉丝活跃度，同时降低公关风险。【传闻】社交媒体上有零星截图暗示现场有神秘嘉宾助阵，但经多方比对均为往期合作友人或工作人员，所谓“重磅跨界加盟”系误读。",
-      "keyPoints": [
-        "8月中旬海南行",
-        "庆生与综艺宣发联动",
-        "无大型商业活动",
-        "团队轻运营"
+        "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMinwFBVV95cUxNTG52OFVBY3dmTTV1RDFOVkNVa0dmMVBNZ0w3ZXBNSVpEc3JsSnhjNHRkMTd4alRweUtuR05wb2R2VjM1MGxXaEE2RGx0V3VON2pSTk1YblUtS2NKaFVaYkRvYkM0TXluckxXcTY3dHZXT3JQSXhnNVg5T2F3RlpSbzMtYmNRcFhaOEowTWx0TUdkTk5iODVXd25UbzVEQWM",
-      "title": "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG52OFVBY3dmTTV1RDFOVkNVa0dmMVBNZ0w3ZXBNSVpEc3JsSnhjNHRkMTd4alRweUtuR05wb2R2VjM1MGxXaEE2RGx0V3VON2pSTk1YblUtS2NKaFVaYkRvYkM0TXluckxXcTY3dHZXT3JQSXhnNVg5T2F3RlpSbzMtYmNRcFhaOEowTWx0TUdkTk5iODVXd25UbzVEQWM?oc=5",
-      "source": "新浪财经",
-      "publishedAt": "2026-09-07T00:05:18.000Z",
-      "description": "一场赔本的民间线下赛，拯救了这群流量焦虑的三角洲主播|西安市|白泽|林树|陈泽|陕西省_手机新浪网 新浪财经",
-      "titleZh": "民间线下赛背后的主播流量困境与自救尝试",
-      "summaryZh": "近期一场由主播自发组织的三角洲行动民间线下赛引发关注。赛事虽面临亏损压力，却成为多位头部主播应对流量瓶颈的破局尝试，陈泽亦参与其中并分享实战体验。",
-      "detailsZh": "【事实】该赛事为非官方性质的民间对抗赛，主办方承担场地与奖金成本，最终财务结算呈亏损状态。参与主播包括陈泽在内的多名FPS品类创作者，旨在通过线下互动产出新鲜直播内容。【评论】在算法推荐机制趋于饱和的背景下，传统线上对局难以刺激新增量，线下实景互动成为主播拓展内容维度的必然选择。尽管经济回报有限，但其带来的话题发酵与粉丝黏性提升具有隐性价值。【传闻】有观点猜测该赛事实为某MCN机构暗中操盘以测试新玩法，但主办方已明确声明为纯玩家自发组织，资金缺口由参与者共同分摊，相关资本介入说法缺乏证据。",
-      "keyPoints": [
-        "非官方民间赛事",
-        "主播自发组织",
-        "财务亏损但话题度高",
-        "应对流量焦虑"
-      ],
-      "category": "直播",
       "importance": 3
     },
     {
@@ -279,17 +249,14 @@
       "source": "新浪网",
       "publishedAt": "2026-08-25T15:35:18.000Z",
       "description": "“小丑陈泽，兔女郎陈泽”上线 直播切片 新浪网",
-      "titleZh": "直播切片二创“小丑陈泽”与“兔女郎陈泽”出圈",
-      "summaryZh": "陈泽近期直播中的趣味互动片段被剪辑成系列切片广泛传播。“小丑陈泽”与“兔女郎陈泽”等标签迅速走红，成为其直播间标志性娱乐梗，有效拉动日常在线人数。",
-      "detailsZh": "【事实】该系列切片源自陈泽在抖音直播间的即兴表演与观众互动，经粉丝及搬运账号二次创作后，在多个社交平台形成病毒式传播。相关标签累计播放量已破亿，直接带动其直播间人气峰值刷新。【评论】直播切片已成为游戏主播维持长尾流量的核心资产。陈泽团队对此采取默许甚至主动配合的态度，通过释放高娱乐性素材反哺主直播间，形成良性循环。这种去中心化的传播路径降低了官方宣发成本。【传闻】部分切片中出现的服装造型被指未经版权授权，但陈泽方表示所用道具均为自制或租赁，且已联系原作者进行收益分成协商，侵权指控不成立。",
+      "titleZh": "“小丑陈泽，兔女郎陈泽”上线 直播切片",
+      "summaryZh": "“小丑陈泽，兔女郎陈泽”上线 直播切片 新浪网",
+      "detailsZh": "“小丑陈泽，兔女郎陈泽”上线 直播切片 新浪网",
       "keyPoints": [
-        "直播切片二创",
-        "标志性娱乐梗",
-        "跨平台病毒传播",
-        "反哺主直播间"
+        "“小丑陈泽，兔女郎陈泽”上线 直播切片"
       ],
-      "category": "直播",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -299,14 +266,11 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
       "subject": "chenze",
-      "titleZh": "哔哩哔哩游戏主播陈泽视频资料库",
-      "summaryZh": "此为哔哩哔哩平台关于游戏主播陈泽的视频检索聚合页，非单日更新资讯。页面集中展示其历史直播回放、综艺切片及粉丝二创内容，便于用户按时间线回溯观看。",
-      "detailsZh": "【事实】该搜索结果为B站算法生成的关键词关联列表，涵盖陈泽过往在英雄联盟及其他热门游戏中的高光操作、直播事故集锦以及《OK了老铁们》系列衍生短片。数据实时更新，反映各时期内容热度分布。【评论】B站作为长视频与深度讨论阵地，与抖音的碎片化传播形成互补。陈泽在此沉淀了大量高质量复盘与整活素材，有利于吸引硬核游戏玩家群体。平台算法的个性化推荐也使其内容生命周期显著延长。【传闻】有用户反馈部分高清资源遭下架，疑因涉及版权争议或UP主自行删除，但官方并未发布任何封禁通知，仅为创作者自主管理行为。",
+      "titleZh": "哔哩哔哩陈泽相关视频",
+      "summaryZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
+      "detailsZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
       "keyPoints": [
-        "B站视频检索入口",
-        "含历史回放与二创",
-        "长尾内容沉淀",
-        "非时效新闻"
+        "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
       "importance": 3
@@ -326,45 +290,24 @@
         "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-weibo-topic",
-      "title": "大咕咕咕鸡公开动态与超话",
-      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
-      "source": "新浪微博",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话与公开动态聚合页（固定资料入口）",
-      "summaryZh": "该页面为网络写手大咕咕咕鸡的微博超话专区，集中收录其历史发文、读者互动及二次创作内容，属长期维护的社区资料索引，非单日新闻。",
-      "detailsZh": "【事实】该链接为新浪微博超话固定索引页，长期归档网络写手大咕咕咕鸡的历史博文、读者留言及二创内容，页面结构随平台规则更新而调整。【评论】学界与网友普遍认为，该超话是观察2010年代中期中文网络段子生态与粉丝社群互动的典型样本，反映了碎片化阅读时代的传播特征。【传闻】坊间有说法称其部分高赞帖子因涉及敏感词被系统自动屏蔽，但经核实仅为平台算法推荐机制变化所致，并无封禁传闻。本条目系固定资料入口，不作时效性报道。",
-      "keyPoints": [
-        "微博超话长期归档历史博文与读者互动",
-        "反映2010年代中文网络段子传播生态",
-        "部分热帖限流系算法调整而非封禁"
-      ],
-      "category": "讨论",
       "importance": 3
     },
     {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频检索与作品朗读合集（固定资料入口）",
-      "summaryZh": "哔哩哔哩关键词搜索结果页，聚合了以“大咕咕咕鸡”命名的音频朗读、影视混剪及网友评测视频，属常态化资源索引，非当日更新资讯。",
-      "detailsZh": "【事实】该页面为B站全站搜索接口，返回结果包含用户自制的文字朗读音频、短视频剪辑及相关UP主解说，数据随上传时间动态刷新。【评论】此类二次创作客观上延长了其文本的生命周期，使早期网络段子得以通过视听媒介触达年轻群体，但也存在断章取义或过度娱乐化的倾向。【传闻】有观众质疑部分朗读音频未经本人授权商用，经查证均为粉丝自发分享，未发现商业侵权实锤。本条目为固定检索入口，不具新闻属性。",
+      "subject": "chenze",
+      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
+      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
+      "source": "封面新闻",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 封面新闻",
       "keyPoints": [
-        "B站聚合文字朗读与二创视频资源",
-        "延长早期段子生命周期但存断章风险",
-        "音频多为粉丝自发分享无商业侵权"
+        "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
       ],
-      "category": "作品",
-      "importance": 2
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -374,32 +317,51 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条（固定资料入口）",
-      "summaryZh": "维基百科关于网络写手大咕咕咕鸡的人物百科页面，涵盖常用笔名、创作风格演变及网络影响评估，属开放式协作资料库，非时效性报道。",
-      "detailsZh": "【事实】该词条由社区志愿者编辑，系统梳理了其活跃期内的代表文体、语言特色及在中文互联网的知名度，引用来源多为公开媒体报道与社交平台存档。【评论】条目采用中立叙述框架，客观记录了其作为早期网络红人的文化符号意义，但未深入探讨其后续转型或淡出原因。【传闻】网络曾流传其已彻底退圈并更改职业方向，维基页面仅标注“近年活跃度降低”，未采信未经核实的隐退说法。本条目为静态资料索引。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡词条，涵盖常用笔名、创作风格及网络影响力背景。作为基础资料入口，提供相对客观的人物生平与作品梳理。",
+      "detailsZh": "该条目为固定的人物资料索引页面，非时效性新闻。内容主要基于公开可查的网络信息进行整理，包括其作为网络写手的身份界定、主要活跃平台及代表性创作风格。需注意的是，网络百科类资料可能存在更新滞后或信息碎片化的问题，部分细节可能缺乏权威来源佐证。此条目适合作为了解该人物基本轮廓的起点，但不具备单一事实的绝对权威性，建议结合其他一手来源交叉验证。",
       "keyPoints": [
-        "维基百科开放协作编纂人物百科",
-        "客观记录早期网络红人文化符号意义",
-        "仅标注活跃度降低未采信隐退传闻"
+        "提供人物基本背景与创作风格概述",
+        "属于固定资料入口而非当日动态",
+        "信息整合自公开网络资源"
       ],
-      "category": "讨论",
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "subject": "dagu",
+      "titleZh": "新浪微博超话主页",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话聚合页，汇集其公开动态与读者讨论。此为粉丝互动与信息发布的固定入口，用于追踪其社交媒体活动轨迹。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话（Super Topic），是粉丝群体进行日常交流、转发作者动态及参与话题讨论的核心社区空间。此类页面具有高度的动态性和用户生成内容（UGC）特征，其中包含大量非官方的二次创作、评论及传闻。虽然它是获取作者最新社交状态的重要渠道，但内容质量参差不齐，需仔细甄别官方认证账号发布的信息与粉丝自发内容的区别。它本质上是一个信息聚合器，而非独立的事实陈述源。",
+      "keyPoints": [
+        "微博粉丝社区核心入口",
+        "包含大量用户生成内容与讨论",
+        "需区分官方动态与粉丝传言"
+      ],
+      "category": "场外",
       "importance": 4
     },
     {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据档案（固定资料入口）",
-      "summaryZh": "第三方数据平台提供的微博公开账号资料页，展示粉丝量、互动指数及传播轨迹等量化指标，属商业数据快照，非新闻事件。",
-      "detailsZh": "【事实】该页面抓取并可视化呈现了目标微博账号的公开运营数据，包括关注数、粉丝画像分布及历史爆款内容传播路径，数据截止至平台同步时间。【评论】从传播学角度看，该账号的数据曲线印证了社交媒体算法对头部KOL的流量倾斜效应，其互动率波动与平台版本迭代高度相关。【传闻】市场曾有猜测其账号遭资本收购或团队代运营，经交叉比对发布时间规律与行文语气，仍符合个人独立创作特征，代运营传闻缺乏依据。本条目为固定数据档案。",
+      "titleZh": "哔哩哔哩相关视频搜索聚合",
+      "summaryZh": "哔哩哔哩平台关于大咕咕咕鸡的视频搜索结果页，涵盖作品朗读、解说及相关讨论视频。此为多媒体内容的检索入口，反映其在视频平台的受众覆盖情况。",
+      "detailsZh": "该链接为B站针对特定关键词的搜索结果聚合页，并非作者本人的官方主页。其中包含用户上传的作品朗读音频、剧情解说、反应视频以及相关的二创内容。由于B站生态中UP主众多，搜索结果中混杂着大量非官方、甚至可能与作者本意不符的解读或恶搞内容。此外，部分视频可能涉及版权争议或未经授权的传播。因此，该页面主要用于观察公众对该人物的接受度与衍生文化现象，而非直接获取作者的原始创作或声明。使用时需注意筛选高赞、专业度较高的解说类视频以获取有效信息。",
       "keyPoints": [
-        "第三方平台抓取公开运营与传播数据",
-        "数据波动印证算法对头部KOL的倾斜",
-        "行文规律显示为个人独立创作非代运营"
+        "B站视频内容搜索结果聚合",
+        "包含大量非官方二创与解说",
+        "反映视频平台受众与衍生文化"
       ],
       "category": "场外",
       "importance": 2
@@ -412,15 +374,32 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态（历史文献）",
-      "summaryZh": "2015年界面新闻发布的专题报道，回溯大咕咕咕鸡的创作风格及其对当时网络语言环境的影响，属历史性行业分析，非近期动态。",
-      "detailsZh": "【事实】该报道发表于2015年5月，通过采访摘录与文本分析，梳理了作者如何将日常琐事转化为荒诞幽默的短段落，并探讨了其对同期自媒体文案风格的启发作用。【评论】文章具有明确的时代局限性，主要聚焦移动互联网初期的流量红利与草根创作者崛起现象，未涵盖后续平台监管收紧后的生态变迁。【传闻】文中提及的“某平台限制同类内容”指代的是当年贴吧与微博早期的审核试点，并非针对该作者本人的定向打压，此点常被后世误读。本条目为历史文献存档。",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。该文从媒体视角分析其创作风格及对网络语言的影响，具有较高的史料价值。",
+      "detailsZh": "这是一篇发布于2015年的新闻报道，由专业媒体机构界面新闻出品。文章将大咕咕咕鸡置于当时网络段子手群体的宏观背景下进行考察，分析了其独特的语言风格、幽默机制以及在互联网文化传播中的作用。相较于零散的社交媒体动态，该报道提供了经过编辑审核的结构化观点，具有一定的行业观察价值。然而，由于时间跨度较大，文中观点可能无法完全反映其近年来的创作变化或个人立场演变。读者应将其视为理解其早期影响力及行业地位的历史切片，而非当前状态的直接描述。",
       "keyPoints": [
-        "2015年发布回顾早期创作与语言影响",
-        "聚焦移动互联网初期草根创作者崛起",
-        "文中平台限制指代早期审核试点非针对本人"
+        "2015年媒体深度报道",
+        "分析创作风格与网络语言影响",
+        "具有特定历史时期的参考价值"
       ],
-      "category": "讨论",
+      "category": "公开发言",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
       "importance": 4
     }
   ]
