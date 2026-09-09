@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T09:46:45.076Z",
+  "updatedAt": "2026-09-09T14:39:14.989Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,62 +16,36 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNeUZqMTk5bUlfeU5QM0lKc2V0dVFaOHdFZjNWWHpZakF5U202emNEVVprTXg1cmRkdkF3Rm5id2c3ejlQcF9DMnF2V1QwcFgtTGlBWERNWTdwVG1VUkd1WGxPOVFDMml1V3Y3Z2tGZkIxR2lIX0J6R2NhcElpbEhvTkVNUTU",
-      "title": "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUZqMTk5bUlfeU5QM0lKc2V0dVFaOHdFZjNWWHpZakF5U202emNEVVprTXg1cmRkdkF3Rm5id2c3ejlQcF9DMnF2V1QwcFgtTGlBWERNWTdwVG1VUkd1WGxPOVFDMml1V3Y3Z2tGZkIxR2lIX0J6R2NhcElpbEhvTkVNUTU?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-09T03:25:03.000Z",
-      "description": "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一 Sina Sports",
-      "titleZh": "杜兰特创总决赛历史唯一纪录：场均30+且命中率180俱乐部",
-      "summaryZh": "回顾2017年总决赛征程，杜兰特成为NBA历史首位在总决赛场均砍下30分以上且命中率达到180俱乐部标准的球员，该高效表现至今仍是联盟难以企及的里程碑。",
-      "detailsZh": "【事实】2017年总决赛期间，杜兰特出战五场，场均贡献35.2分、8.2篮板与5.4助攻，投篮命中率56.4%，三分命中率51.9%，罚球命中率100%，正式达成“180俱乐部”历史唯一纪录。【评论】体育媒体普遍将此视为其巅峰期统治力的直接体现，认为其在攻防两端的无解单打与高效终结能力是勇士体系成功的关键。【传闻】近期部分自媒体称该纪录可能被现役其他球星刷新，但经数据核实，目前尚无球员在总决赛级别赛事中接近此效率标准，相关说法缺乏实质依据。",
+      "id": "durant:CBMiygFBVV95cUxOVnBCdThTZ1FUU0k0WFp4RW52MjBGbUhxYVZKT0R5M29ibEZxaVdSTl9GNExmdHZJZlJpMmNENC1oMlEyX25neTZ5R0pMODRCaWVzVnRoWDJud1pVN1o2cjVlS2RTaktUS1hOQmZNSkZZSVBnVEFyZEJ5T0lXOGNtSUtOdkJ0U0pOMXhqMkU1ZmJERFZVLU12QUtYN2xQUnVGYjBnZ1dIVTc0UWpkd0d5NGszUE5sVjNmUXBNTl85eEJkeWZmeWtsaU5n",
+      "title": "“I swear I'm waiting… he pulled up from so deep” - PJ Tucker recalls how Kevin Durant dominated college stars while still in high school",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnBCdThTZ1FUU0k0WFp4RW52MjBGbUhxYVZKT0R5M29ibEZxaVdSTl9GNExmdHZJZlJpMmNENC1oMlEyX25neTZ5R0pMODRCaWVzVnRoWDJud1pVN1o2cjVlS2RTaktUS1hOQmZNSkZZSVBnVEFyZEJ5T0lXOGNtSUtOdkJ0U0pOMXhqMkU1ZmJERFZVLU12QUtYN2xQUnVGYjBnZ1dIVTc0UWpkd0d5NGszUE5sVjNmUXBNTl85eEJkeWZmeWtsaU5n?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-09-09T12:36:47.000Z",
+      "description": "“I swear I'm waiting… he pulled up from so deep” - PJ Tucker recalls how Kevin Durant dominated college stars while still in high school Basketball Network",
+      "titleZh": "“I swear I'm waiting… he pulled up from so deep” - PJ Tucker recalls how Kevin Durant dominated college stars while still in high school",
+      "summaryZh": "“I swear I'm waiting… he pulled up from so deep” - PJ Tucker recalls how Kevin Durant dominated college stars while still in high school Basketball Network",
+      "detailsZh": "“I swear I'm waiting… he pulled up from so deep” - PJ Tucker recalls how Kevin Durant dominated college stars while still in high school Basketball Network",
       "keyPoints": [
-        "2017年总决赛场均35.2分",
-        "NBA历史唯一180俱乐部总决赛球员",
-        "命中率56.4%/51.9%/100%",
-        "纪录至今未被打破"
+        "“I swear I'm waiting… he pulled up from so deep” - PJ Tucker recalls how Kevin Durant dominated college stars while still in high school"
       ],
-      "category": "比赛",
+      "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOSmJhQXJ1czBEeGFlNV9KUmVacTU5MUxicFJRcjBSQzliRF9aWkxMTDhhZURGdFpzNU95VVRuVWQ3aHo2SEd2WkdfRG42eVdTVFF5ZHNnb2dpY2dwZGRva3gzTm1FMC1uQlFydHVsNEJLSFpTRzRjN1lnMWhydUxUVXYtZ2E",
-      "title": "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmJhQXJ1czBEeGFlNV9KUmVacTU5MUxicFJRcjBSQzliRF9aWkxMTDhhZURGdFpzNU95VVRuVWQ3aHo2SEd2WkdfRG42eVdTVFF5ZHNnb2dpY2dwZGRva3gzTm1FMC1uQlFydHVsNEJLSFpTRzRjN1lnMWhydUxUVXYtZ2E?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-09T06:45:00.000Z",
-      "description": "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证 Sina Sports",
-      "titleZh": "凯文·杜兰特正式开通个人抖音账号",
-      "summaryZh": "国际巨星杜兰特近日完成国内社交平台入驻，官方认证账号正式上线。此举标志着其商业版图进一步向亚洲市场延伸，旨在通过短视频形式与中国球迷建立更直接的互动渠道。",
-      "detailsZh": "【事实】杜兰特团队于近期宣布开通抖音官方账号，并完成企业级黄V认证。账号定位以篮球技巧分享、日常生活记录及品牌合作内容为主，首发视频迅速获得百万级播放量。【评论】体育营销专家分析指出，此举符合国际顶级运动员深耕中国市场的趋势，有助于提升其个人IP的商业价值与粉丝粘性。【传闻】网传其将定期发布中文解说内容或参与国内综艺录制，目前尚未得到本人或其经纪团队的正式确认，属未经证实的猜测。",
+      "id": "durant:CBMiYkFVX3lxTFBqbk1FV3VySGw0d1dwNTdQM1BFOGRMLUR2a3N0XzA1N0w3OFpEc1JOUTJvdjdQcnhUM0t0WDM3TmZtY3I3eXIzZTZUbC1PelR1Y0FXR1VnbGU1S3VkVjdVVmJB",
+      "title": "巅峰杜兰特！19年杜兰特和卢尼在训练中进行1对1单挑",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqbk1FV3VySGw0d1dwNTdQM1BFOGRMLUR2a3N0XzA1N0w3OFpEc1JOUTJvdjdQcnhUM0t0WDM3TmZtY3I3eXIzZTZUbC1PelR1Y0FXR1VnbGU1S3VkVjdVVmJB?oc=5",
+      "source": "zhibo8.cc",
+      "publishedAt": "2026-09-09T11:25:15.000Z",
+      "description": "巅峰杜兰特！19年杜兰特和卢尼在训练中进行1对1单挑 zhibo8.cc",
+      "titleZh": "巅峰杜兰特！19年杜兰特和卢尼在训练中进行1对1单挑",
+      "summaryZh": "巅峰杜兰特！19年杜兰特和卢尼在训练中进行1对1单挑 zhibo8.cc",
+      "detailsZh": "巅峰杜兰特！19年杜兰特和卢尼在训练中进行1对1单挑 zhibo8.cc",
       "keyPoints": [
-        "完成抖音黄V官方认证",
-        "定位篮球技巧与日常分享",
-        "商业版图向亚洲市场延伸",
-        "中文互动内容暂未证实"
+        "巅峰杜兰特！19年杜兰特和卢尼在训练中进行1对1单挑"
       ],
       "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R",
-      "title": "East contender ready to chase Kevin Durant if Rockets open trade door",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnYxSl9jUjhYS25TOFdUaFVMT2lSTE02RmJXRmZwRW1CdjdjWW00WUpuSFVwVmxDUDRjT0paSGVaMlNIaHpFeXcyR0ZzSzZPS3Q4OWtqS1NGUWpycG9WZFZTXzJxMVljLWJUSUM4ZnExTkZFS0RhRHc3MWVsYWxUM2xrOHZjSWVUVkVJNmNTXzZrWDZ3aUdyYTlrVUdOVFFyOWJoXzFOSDFrejRPU1dUVm5R?oc=5",
-      "source": "basketnews.com",
-      "publishedAt": "2026-09-09T01:13:18.000Z",
-      "description": "East contender ready to chase Kevin Durant if Rockets open trade door basketnews.com",
-      "titleZh": "多支球队酝酿杜兰特潜在交易方案",
-      "summaryZh": "据多家美媒披露，包括休斯顿火箭在内的东部争冠球队正密切关注杜兰特动向。若相关球队开启交易窗口，杜兰特有望被送往具备即战力的阵容中，继续冲击职业生涯总冠军。",
-      "detailsZh": "【事实】近期NBA转会市场传闻频出，部分东部竞争者及西部球队被曝出对杜兰特感兴趣。若涉及交易，需匹配其高额合同并送出优质年轻资产或首轮选秀权。【评论】战术分析师认为，杜兰特若能加盟一支拥有核心持球手且空间充足的球队，仍可作为顶级二当家发挥余热，但其年龄与出勤率是各队评估的核心风险。【传闻】社交媒体流传“火箭已报价多名首轮签换取杜兰特”的消息，但火箭管理层此前多次表态重建计划明确，该消息大概率源于自媒体炒作，暂无实质性谈判进展。",
-      "keyPoints": [
-        "东部争冠队与火箭关注其动向",
-        "需匹配高薪并送出年轻资产",
-        "年龄与出勤率成评估核心",
-        "火箭报价传闻缺乏官方证实"
-      ],
-      "category": "交易",
       "importance": 4
     },
     {
@@ -82,36 +56,47 @@
       "source": "新浪网",
       "publishedAt": "2026-09-09T07:40:59.000Z",
       "description": "杜兰特拥有总决赛唯一纪录，但媒体人认为：KD已不是联盟前十 新浪网",
-      "titleZh": "媒体人热议杜兰特联盟地位下滑",
-      "summaryZh": "随着新赛季推进，部分体育评论员公开表示杜兰特已跌出联盟前十行列。这一观点引发广泛讨论，客观反映出公众对其职业生涯后期竞技状态、出勤情况与荣誉积累的重新评估。",
-      "detailsZh": "【事实】近期多家体育媒体发布联盟球员实力榜单，杜兰特因近年伤病困扰及球队战绩波动，排名普遍下调至十名开外。其生涯总得分已突破历史前列，但近期赛场影响力有所减弱。【评论】资深记者指出，评价标准应从绝对实力转向当前贡献度。尽管其技术打磨依然精湛，但移动速度下降与出场时间限制使其难以维持巅峰期的统治力，排名下滑属正常周期现象。【传闻】有传言称杜兰特本人对此类排名极为不满，甚至考虑以此作为续约或交易的筹码，但该说法纯属主观臆测，当事人从未公开回应。",
+      "titleZh": "杜兰特拥有总决赛唯一纪录，但媒体人认为：KD已不是联盟前十",
+      "summaryZh": "杜兰特拥有总决赛唯一纪录，但媒体人认为：KD已不是联盟前十 新浪网",
+      "detailsZh": "杜兰特拥有总决赛唯一纪录，但媒体人认为：KD已不是联盟前十 新浪网",
       "keyPoints": [
-        "多项榜单排名降至十名外",
-        "伤病与战绩影响当前评价",
-        "技术精湛但移动能力下降",
-        "不满传闻属主观臆测"
+        "杜兰特拥有总决赛唯一纪录，但媒体人认为：KD已不是联盟前十"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi0gFBVV95cUxOc2M2bU4tYUVkdnAzWE40WTh1OTVFNzJtVjRYWHJpdV9tQnBIdzJiZ2g2b2hiOHIycGZldWdwSW12UjRkRF9lNVRsWjhOMURZZnFvYkg4dmxyYlF5RlhsTExLTG0zUjZNNGVvMzR3UmpZUHEtY29COGZXUVZLWnE3S0lod1h0X3JRa3JNV1g1ZEhNXzBDWDVId1FQSDRCdHJidnF0SWFaOWJxdWZzcDFWSENxWFNPSFRpNzNhd1ZTbTl5Z2NLbjRNdFdod3JWemVLSFE",
-      "title": "Nets appear to be on good side of Kevin Durant trade to Suns",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc2M2bU4tYUVkdnAzWE40WTh1OTVFNzJtVjRYWHJpdV9tQnBIdzJiZ2g2b2hiOHIycGZldWdwSW12UjRkRF9lNVRsWjhOMURZZnFvYkg4dmxyYlF5RlhsTExLTG0zUjZNNGVvMzR3UmpZUHEtY29COGZXUVZLWnE3S0lod1h0X3JRa3JNV1g1ZEhNXzBDWDVId1FQSDRCdHJidnF0SWFaOWJxdWZzcDFWSENxWFNPSFRpNzNhd1ZTbTl5Z2NLbjRNdFdod3JWemVLSFE?oc=5",
-      "source": "netswire.usatoday.com",
-      "publishedAt": "2026-09-09T00:36:00.000Z",
-      "description": "Nets appear to be on good side of Kevin Durant trade to Suns netswire.usatoday.com",
-      "titleZh": "太阳队杜兰特交易资产价值重估",
-      "summaryZh": "针对当年篮网将杜兰特送至太阳的重磅交易，美媒近期展开深度复盘。文章指出部分年轻球员与选秀权在后续发展中未达预期，引发关于交易得失与建队策略的新一轮舆论交锋。",
-      "detailsZh": "【事实】回顾交易节点，太阳队送出多位角色球员及未来选秀权换取杜兰特。近一年来的球队表现显示，部分接收的年轻球员成长轨迹偏离预期，而杜兰特的实际带队成绩亦未完全兑现纸面实力。【评论】篮球数据博主分析认为，此类重磅交易本就伴随高风险，资产估值受市场环境、球员适配度及短期战绩多重因素影响。不能仅凭一年表现定论交易成败，需结合长期建队逻辑综合评判。【传闻】网络流传“太阳已后悔送走某核心新秀”的说法，但球队管理层始终强调该操作符合当时争冠窗口期的战略需求，相关后悔言论系断章取义。",
+      "id": "durant:CBMijwFBVV95cUxNMXZVQTBndnNEU1BMRTFGLVlRc2NLenVFQjRCQU9hSE9McWJzcXhpVlAyV244NVhmM1BubDB2SWY2RlFNY19wcndSbk5yZ1dfeWRmaWtTVWFhTV9IZzNLYmhjbXQ3Zmd4dDM5LWRMVkZ0cFI1dHdsUUxDXzYzN3dtUUVyQWRlbS1Vc0ZBUS00dw",
+      "title": "火箭聘请最好投篮教练，帮助新星提升投射实力，杜兰特需要新帮手",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXZVQTBndnNEU1BMRTFGLVlRc2NLenVFQjRCQU9hSE9McWJzcXhpVlAyV244NVhmM1BubDB2SWY2RlFNY19wcndSbk5yZ1dfeWRmaWtTVWFhTV9IZzNLYmhjbXQ3Zmd4dDM5LWRMVkZ0cFI1dHdsUUxDXzYzN3dtUUVyQWRlbS1Vc0ZBUS00dw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-09T07:40:56.000Z",
+      "description": "火箭聘请最好投篮教练，帮助新星提升投射实力，杜兰特需要新帮手 新浪网",
+      "titleZh": "火箭聘请最好投篮教练，帮助新星提升投射实力，杜兰特需要新帮手",
+      "summaryZh": "火箭聘请最好投篮教练，帮助新星提升投射实力，杜兰特需要新帮手 新浪网",
+      "detailsZh": "火箭聘请最好投篮教练，帮助新星提升投射实力，杜兰特需要新帮手 新浪网",
       "keyPoints": [
-        "交易资产后续发展未达预期",
-        "年轻球员成长轨迹偏离规划",
-        "短期战绩未完全兑现实力",
-        "管理层否认后悔言论"
+        "火箭聘请最好投篮教练，帮助新星提升投射实力，杜兰特需要新帮手"
       ],
-      "category": "交易",
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOSmJhQXJ1czBEeGFlNV9KUmVacTU5MUxicFJRcjBSQzliRF9aWkxMTDhhZURGdFpzNU95VVRuVWQ3aHo2SEd2WkdfRG42eVdTVFF5ZHNnb2dpY2dwZGRva3gzTm1FMC1uQlFydHVsNEJLSFpTRzRjN1lnMWhydUxUVXYtZ2E",
+      "title": "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmJhQXJ1czBEeGFlNV9KUmVacTU5MUxicFJRcjBSQzliRF9aWkxMTDhhZURGdFpzNU95VVRuVWQ3aHo2SEd2WkdfRG42eVdTVFF5ZHNnb2dpY2dwZGRva3gzTm1FMC1uQlFydHVsNEJLSFpTRzRjN1lnMWhydUxUVXYtZ2E?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-09T06:45:00.000Z",
+      "description": "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证 Sina Sports",
+      "titleZh": "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证",
+      "summaryZh": "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证 Sina Sports",
+      "detailsZh": "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证 Sina Sports",
+      "keyPoints": [
+        "将键盘天赋带到中国！杜兰特开通个人抖音账号 有黄V认证"
+      ],
+      "category": "场外",
       "importance": 3
     },
     {
@@ -129,7 +114,24 @@
         "杜兰特拉踩宇宙勇引争议！克莱公开回应 追梦：他以为在用小号？"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxNeUZqMTk5bUlfeU5QM0lKc2V0dVFaOHdFZjNWWHpZakF5U202emNEVVprTXg1cmRkdkF3Rm5id2c3ejlQcF9DMnF2V1QwcFgtTGlBWERNWTdwVG1VUkd1WGxPOVFDMml1V3Y3Z2tGZkIxR2lIX0J6R2NhcElpbEhvTkVNUTU",
+      "title": "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUZqMTk5bUlfeU5QM0lKc2V0dVFaOHdFZjNWWHpZakF5U202emNEVVprTXg1cmRkdkF3Rm5id2c3ejlQcF9DMnF2V1QwcFgtTGlBWERNWTdwVG1VUkd1WGxPOVFDMml1V3Y3Z2tGZkIxR2lIX0J6R2NhcElpbEhvTkVNUTU?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-09T03:25:03.000Z",
+      "description": "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一 Sina Sports",
+      "titleZh": "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一",
+      "summaryZh": "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一 Sina Sports",
+      "detailsZh": "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一 Sina Sports",
+      "keyPoints": [
+        "总决赛场均得分30+且进180俱乐部：17年杜兰特历史唯一"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -146,23 +148,6 @@
         "杜兰特公开暗讽詹姆斯：他去76人就是抱团行为，为啥所有人都骂我"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQakF2SjNPaEJlZ3FEdC1ub0R4TEpEMC1yZW12LVcxR1dEYkoxSldrcUdudVhCY3d3ZG0xbW5VRlZrSndycnZoc1hfTk5uc3Jma0l5TWpQdEpCbFctZjNCdGJEM2RRaFoyeUN3cUhOWmxCQ1lfbkxEZDBnV1ZjR0J3alJCNE9TTmZNMFNFV2gtZw",
-      "title": "全明星后卫满血回归，他豪言壮语，要帮助杜兰特夺冠",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakF2SjNPaEJlZ3FEdC1ub0R4TEpEMC1yZW12LVcxR1dEYkoxSldrcUdudVhCY3d3ZG0xbW5VRlZrSndycnZoc1hfTk5uc3Jma0l5TWpQdEpCbFctZjNCdGJEM2RRaFoyeUN3cUhOWmxCQ1lfbkxEZDBnV1ZjR0J3alJCNE9TTmZNMFNFV2gtZw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-09T03:05:07.000Z",
-      "description": "全明星后卫满血回归，他豪言壮语，要帮助杜兰特夺冠 新浪网",
-      "titleZh": "全明星后卫满血回归，他豪言壮语，要帮助杜兰特夺冠",
-      "summaryZh": "全明星后卫满血回归，他豪言壮语，要帮助杜兰特夺冠 新浪网",
-      "detailsZh": "全明星后卫满血回归，他豪言壮语，要帮助杜兰特夺冠 新浪网",
-      "keyPoints": [
-        "全明星后卫满血回归，他豪言壮语，要帮助杜兰特夺冠"
-      ],
-      "category": "场外",
       "importance": 3
     },
     {
@@ -171,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-09T09:43:24.516Z",
+      "publishedAt": "2026-09-09T14:35:04.301Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -188,7 +173,7 @@
       "title": "陈泽杯决赛",
       "url": "https://www.douyin.com/hashtag/7398934438991628342",
       "source": "抖音-记录美好生活",
-      "publishedAt": "2026-09-09T09:43:24.516Z",
+      "publishedAt": "2026-09-09T14:35:04.301Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽杯决赛",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -271,23 +256,6 @@
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR",
-      "title": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83cFB3VWpuVGNuQ21vQmYxdVhwTDlzVzBPZUkyaEQ4LUJ1T3Z3M0NLeGhHWGVTSldJQVNYQkNHbEtUd0twR1JFc2lPcm1yQzJvdE9KLU9vYnhKUERWaS14S2ExZTJNeFV2QU5PUGlRWGcyZXdSM2Y1VjlR?oc=5",
-      "source": "thecover.cn",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "description": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记",
-      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
-      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记 thecover.cn",
-      "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第二集上线 “熟人局”开启重庆山城历险记"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
       "id": "chenze:CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o",
       "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o?oc=5",
@@ -304,6 +272,24 @@
       "importance": 3
     },
     {
+      "id": "chenze:chenze-sina-20260813",
+      "title": "陈泽行程动态：赴海南庆生及综艺上线",
+      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
+      "source": "新浪新闻",
+      "categoryHint": "节目",
+      "publishedAt": "2026-08-13T20:20:54.000Z",
+      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "subject": "chenze",
+      "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
+      "summaryZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "detailsZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "keyPoints": [
+        "陈泽行程动态：赴海南庆生及综艺上线"
+      ],
+      "category": "节目",
+      "importance": 3
+    },
+    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -312,15 +298,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该写手的常用笔名、创作风格及网络影响背景资料，为了解其人物身份与文学贡献的基础参考入口。",
-      "detailsZh": "事实：该条目系统整理了“大咕咕咕鸡”作为网络写手的公开信息，包括其活跃平台、代表作品类型以及在中文互联网语境下的知名度来源。评论：作为百科类资料，它提供了相对中立的视角来审视该人物的文化现象属性，有助于区分其个人形象与虚构角色。传闻：部分早期关于其真实身份的猜测在词条中可能仅以“未证实”形式存在，需结合其他信源交叉验证。此页面属于固定资料入口，非当日新闻，旨在提供长期稳定的背景知识查询服务。",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响背景。该页面为静态百科条目，非当日新闻，提供基础身份与作品脉络信息。",
+      "detailsZh": "事实：该词条存在于中文维基百科，记录了“大咕咕咕鸡”作为网络写手的公开身份信息。内容主要涉及其常用的笔名变体、主要的创作领域（如网络段子、评论文章）以及在特定时期产生的网络影响力。评论：作为百科全书条目，其内容旨在提供中立的事实性概述，而非深度文学批评或主观评价。传闻：部分早期版本可能包含未经核实的粉丝推测，需以当前最新版本为准。注意：此链接指向固定的人物资料入口，内容更新频率低，不具备时效性新闻特征，仅用于背景查阅。",
       "keyPoints": [
-        "整合常用笔名与创作风格",
-        "记录网络影响力与受众反馈",
-        "提供中立的人物背景概述",
-        "作为基础参考资料入口"
+        "记录常用笔名与身份背景",
+        "概述创作风格与网络影响",
+        "属于静态百科资料非新闻",
+        "提供基础人物脉络参考"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -331,17 +317,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话动态",
-      "summaryZh": "新浪微博上的官方或粉丝维护的超话页面，聚合了该写手的最新公开动态、互动内容及读者讨论，是追踪其近期活动的主要渠道。",
-      "detailsZh": "事实：该链接指向新浪微博特定的超级话题索引页，实时展示与该ID相关的帖子、转发和评论数据。评论：作为社交媒体的核心阵地，这里反映了最即时的读者情绪和作者互动模式，但内容碎片化严重，需甄别营销号或水军干扰。传闻：超话内常流传未经核实的“内部消息”或同人创作，这些内容不具备事实效力，仅供娱乐参考。此页面为动态信息聚合入口，不同于静态资料，适合关注短期热点与社群氛围的用户。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博中关于大咕咕咕鸡的官方动态发布页及读者讨论超话。此为聚合入口，展示最新公开动态与社区互动情况，是追踪其近期发声的主要渠道之一。",
+      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话页面，包含其个人账号发布的公开动态以及粉丝创建的讨论话题。这是获取其第一手文字表达和即时反应的核心平台。评论：微博超话通常反映核心粉丝群体的活跃度与舆论倾向，内容碎片化且情绪化较强，需结合具体语境解读。传闻：超话内可能存在大量未经证实的八卦或谣言，编辑时需严格甄别，仅采信作者本人或其官方认证账号发布的信息。注意：此为动态信息聚合页，内容随时间快速迭代，不同于固定资料库。",
       "keyPoints": [
-        "聚合最新公开动态与互动",
-        "反映读者社群即时情绪",
-        "内容碎片化需甄别真伪",
-        "主要社交媒体活动阵地"
+        "微博官方动态发布主阵地",
+        "粉丝讨论与舆论风向标",
+        "内容实时性强需甄别真伪",
+        "非固定资料而是动态入口"
       ],
       "category": "公开发言",
-      "importance": 3
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -352,15 +338,15 @@
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡B站视频聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，汇集相关作品朗读、解说视频及历史影像，是多媒体内容消费与二次创作讨论的重要场所。",
-      "detailsZh": "事实：该URL为B站关键词搜索结果页，包含用户上传的视频、音频及直播回放，内容涵盖原著朗读、剧情解析及粉丝二创。评论：视频平台的内容具有更强的视觉与听觉感染力，但也容易因剪辑误导产生片面解读。许多高播放量视频仅代表算法推荐结果，未必反映作品全貌。传闻：评论区常出现关于作者近况的谣言或过度解读，需谨慎对待。此页面为多媒体资源入口，适合通过视听形式深入了解作品细节及衍生文化。",
+      "summaryZh": "哔哩哔哩搜索聚合页，汇集与大咕咕咕鸡相关的视频朗读、二创内容及历史讨论。该页面为搜索结果集合，非官方主页，反映其在视频平台的受众覆盖与二次传播情况。",
+      "detailsZh": "事实：该链接为B站的关键词搜索结果页，展示了标题中包含“大咕咕咕鸡”的各类视频，包括作品朗读音频、UP主评论视频及粉丝剪辑。评论：视频形式的内容往往比文字更具感染力，但也更容易产生断章取义或误读。此类内容多为第三方制作，不代表作者本意。传闻：部分视频标题可能使用夸张手法吸引点击，内容质量参差不齐，存在大量无关或低质搬运。注意：此为通用搜索入口，非特定频道，需用户自行筛选有效信息，不具备单一信源的权威性。",
       "keyPoints": [
-        "汇集作品朗读与解说视频",
-        "包含粉丝二创与历史影像",
-        "算法推荐可能导致内容偏差",
-        "多媒体形式的深度体验入口"
+        "B站视频内容搜索结果集",
+        "含朗读、二创及评论视频",
+        "第三方内容多需独立判断",
+        "反映跨平台传播与受众面"
       ],
-      "category": "作品",
+      "category": "讨论",
       "importance": 3
     },
     {
@@ -372,16 +358,16 @@
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
       "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾该写手早期的创作风格及其对网络语言生态的影响，具有较高的史料价值。",
-      "detailsZh": "事实：这是一篇发布于2015年的媒体文章，分析了当时网络段子手群体的创作特征，并将“大咕咕咕鸡”作为典型案例进行剖析。评论：作为传统媒体对网络现象的记录，该文提供了特定历史时期的观察视角，有助于理解其成名背景与文化语境。然而，随着时间推移，部分观点可能已过时，需结合当下现状重新评估。传闻：文中若提及具体私人生活细节，多为采访所得或公开信息整理，无确凿证据表明存在未披露的内幕。此页面为历史性新闻存档，非当前动态，适合研究其发展轨迹。",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。该文回顾了其早期的创作风格及对网络语言的影响，具有历史文献价值。",
+      "detailsZh": "事实：这是一篇发布于2015年的媒体特稿，详细分析了当时网络段子手的生存状态，并将大咕咕咕鸡作为典型案例进行剖析。文中记录了其当时的写作特点、受众反馈及行业地位。评论：作为传统媒体的深度报道，其视角相对客观，但受限于当时的时代背景，对后续发展缺乏预见性。传闻：报道中引用的个别案例或数据可能存在记忆偏差，需与其他史料交叉验证。注意：由于发布时间较早，该报道主要反映其职业生涯早期阶段，不能代表其现状或最新观点，仅具历史参考价值。",
       "keyPoints": [
-        "2015年媒体深度分析案例",
+        "2015年媒体深度分析报道",
         "记录早期创作风格与影响",
-        "提供特定时期历史视角",
-        "具有史料价值的新闻报道"
+        "反映特定时期网络生态",
+        "具历史文献价值非现状描述"
       ],
       "category": "讨论",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
