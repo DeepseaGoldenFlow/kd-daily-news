@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T18:29:57.053Z",
+  "updatedAt": "2026-09-10T21:39:49.357Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,41 +16,43 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMickFVX3lxTE0waVdXNXRwWWlOS0RseGMwc2JtdUpRMl9DOXhFRFdaTU5hZWdnOHpOdHNDV1lOUW8zbWpLeGdSa0x6SkJTUUNYeWhJQ3pDU2JINTRlMV8yTDByOG55NU9qeUdBS25Ic0otMTdCcDlrVmdBUQ",
-      "title": "去掉罚球，近三年NBA总得分前十：杜兰特第五，约基奇第二，那亚历山大呢？",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0waVdXNXRwWWlOS0RseGMwc2JtdUpRMl9DOXhFRFdaTU5hZWdnOHpOdHNDV1lOUW8zbWpLeGdSa0x6SkJTUUNYeWhJQ3pDU2JINTRlMV8yTDByOG55NU9qeUdBS25Ic0otMTdCcDlrVmdBUQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-10T07:42:39.000Z",
-      "description": "去掉罚球，近三年NBA总得分前十：杜兰特第五，约基奇第二，那亚历山大呢？ 新浪网",
-      "titleZh": "近三年NBA无罚球总得分排名杜兰特第五",
-      "summaryZh": "数据显示，在剔除罚球因素后，过去三年NBA球员总得分榜单中，凯文·杜兰特位列第五。约基奇排名第二，该统计凸显了杜兰特在运动战中的高效得分能力与历史级进攻火力。",
-      "detailsZh": "事实：根据近期数据统计，若去除罚球得分，仅计算运动战进球，凯文·杜兰特在过去三个赛季的总得分高居联盟前列，具体排名为第五位。约基奇以第二名的成绩紧随其后，其他竞争者包括亚历山大等年轻球星。评论：这一数据有力地反驳了部分关于杜兰特过度依赖罚球的质疑，证明其得分主要来源于高水平的半场进攻和单打能力，体现了其作为历史顶级得分手的纯粹性。传闻：无。此条目基于公开统计数据，旨在客观反映杜兰特的进攻效率，不涉及任何未经证实的交易或伤病谣言。",
+      "id": "durant:CBMijAFBVV95cUxOYi1BclRCY0NweEVSQ1p4c2hnUHZFby1DR3NUMWRoQTNBLVNtblRvNkNQSm4zeVBhRXd0M1g2QjdUNFVIRUNrSFZQZ0N1SHU2QXR0dW91dW0xRFpMQVRHQlJzWWJlWUVvVmMwb2tEMmZiSWtzMkItUDVtTk9BbTBkRGVFZXllcU5hTV94WA",
+      "title": "骑士正式报价杜兰特！4换1交易方案曝光，并承诺KD两个重要条件",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYi1BclRCY0NweEVSQ1p4c2hnUHZFby1DR3NUMWRoQTNBLVNtblRvNkNQSm4zeVBhRXd0M1g2QjdUNFVIRUNrSFZQZ0N1SHU2QXR0dW91dW0xRFpMQVRHQlJzWWJlWUVvVmMwb2tEMmZiSWtzMkItUDVtTk9BbTBkRGVFZXllcU5hTV94WA?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-10T03:11:56.000Z",
+      "description": "骑士正式报价杜兰特！4换1交易方案曝光，并承诺KD两个重要条件 Sohu",
+      "titleZh": "美媒曝骑士报价杜兰特及4换1方案",
+      "summaryZh": "据搜狐体育报道，克利夫兰骑士队正式向凯文·杜兰特提出报价。媒体曝光了一份4换1的交易方案，并承诺满足杜兰特提出的两个重要条件，引发球迷对潜在交易的广泛讨论。",
+      "detailsZh": "该消息源自搜狐体育转载的美媒报道。内容指出，骑士队管理层已正式启动与凯文·杜兰特的接触，并提出了具体的交易框架。所谓的“4换1”方案旨在通过送出多名潜力新秀或年轻球员来换取这位超级巨星。报道中提到的“两个重要条件”通常被解读为关于球队建队方向或核心地位的承诺。然而，此类消息多出自自媒体或非官方渠道，缺乏联盟内部确证。在NBA休赛期，关于顶级球星的交易流言层出不穷，许多标题党文章往往夸大其词以吸引流量。目前并无任何官方声明证实骑士队已达成实质性协议或杜兰特本人已同意加盟。此信息应视为未经证实的市场传闻，而非既定事实。",
       "keyPoints": [
-        "杜兰特近三年无罚球总得分排名联盟第五",
-        "约基奇在该榜单中排名第二",
-        "数据突显杜兰特运动战得分的高效性"
+        "骑士队被曝正式报价杜兰特",
+        "存在4换1交易方案细节",
+        "承诺满足杜兰特两项关键条件",
+        "消息来源非官方，属市场传闻"
       ],
-      "category": "比赛",
-      "importance": 4
+      "category": "交易",
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi0gFBVV95cUxQYXBMbVlsMW9jemROT2ZFQXoyWDEyNDEwaHVBVE42TUt1NG1tbzZ2UlA3U0t0YWNJSlpSWGZNZ3FJS2xXTk1MdzNWMGdtLWFJd29yWERwR2R1Z1FkQ3ZRWFd6aHlOMkJhTUdMWW0wWVM4TXcwM1kxaUxGWjQ1RWZLRTVsdEF4b3N6X2VGYVFiakgwNldhWjkwZG42UUlreXdfUkE3YjJ3VUVsYzJTbVM2MmpHNXl1dmd3UE5fTFhQUkhoVzZNZm9ab1o2anRfZG15X0E",
-      "title": "14-year NBA veteran still views Kevin Durant as a top-five player",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXBMbVlsMW9jemROT2ZFQXoyWDEyNDEwaHVBVE42TUt1NG1tbzZ2UlA3U0t0YWNJSlpSWGZNZ3FJS2xXTk1MdzNWMGdtLWFJd29yWERwR2R1Z1FkQ3ZRWFd6aHlOMkJhTUdMWW0wWVM4TXcwM1kxaUxGWjQ1RWZLRTVsdEF4b3N6X2VGYVFiakgwNldhWjkwZG42UUlreXdfUkE3YjJ3VUVsYzJTbVM2MmpHNXl1dmd3UE5fTFhQUkhoVzZNZm9ab1o2anRfZG15X0E?oc=5",
-      "source": "Rockets Wire",
-      "publishedAt": "2026-09-10T17:39:00.000Z",
-      "description": "14-year NBA veteran still views Kevin Durant as a top-five player Rockets Wire",
-      "titleZh": "14年老兵视杜兰特为联盟前五球员",
-      "summaryZh": "一位拥有14年职业生涯的NBA老将公开表示，尽管杜兰特年龄增长，但他依然认为凯文·杜兰特是当今联盟前五位的最强球员之一，认可其持续的竞技状态和影响力。",
-      "detailsZh": "事实：据Rockets Wire报道，一名资深NBA球员在接受采访时评价凯文·杜兰特，认为即便在职业生涯后期，杜兰特仍具备进入联盟前五名球员行列的实力。评论：这一观点反映了部分老将对杜兰特技术全面性和比赛阅读能力的尊重。在联盟新老交替的背景下，杜兰特凭借稳定的输出和关键球能力，依然被视为顶级威胁。这并非官方排名，而是同行间的个人评价。传闻：无。该消息来源为体育媒体对球员的采访整理，属于主观评价范畴，非事实性新闻如交易或伤病。",
+      "id": "durant:CBMijAFBVV95cUxPdGgwT2F5LS13Q2RpTTUtY0ZGSHBGTnpiTm9vN0E5SHZPWUF4YWlOQ0RqUHc2b0lKNEpoeXQzY3FTdm5xUUVaaFdoSFJyaTBUZ0FmUVJmczBfWU53MVlVMGRvWDJKR2h2TElUVFpqOVhnc2lwbV9aajFJTUxBbDA4R2gtUnNLMmJaRGt2YQ",
+      "title": "杜兰特渴望加盟湖人，怒斥火箭管理层太糟糕，简直是拿钱混日子",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGgwT2F5LS13Q2RpTTUtY0ZGSHBGTnpiTm9vN0E5SHZPWUF4YWlOQ0RqUHc2b0lKNEpoeXQzY3FTdm5xUUVaaFdoSFJyaTBUZ0FmUVJmczBfWU53MVlVMGRvWDJKR2h2TElUVFpqOVhnc2lwbV9aajFJTUxBbDA4R2gtUnNLMmJaRGt2YQ?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-10T02:49:58.000Z",
+      "description": "杜兰特渴望加盟湖人，怒斥火箭管理层太糟糕，简直是拿钱混日子 Sohu",
+      "titleZh": "网传杜兰特渴望加盟湖人并批评火箭",
+      "summaryZh": "有网络文章声称凯文·杜兰特渴望加盟洛杉矶湖人队，并严厉批评休斯顿火箭队管理层糟糕，称其“拿钱混日子”。此类言论多为自媒体臆测，缺乏当事人直接证据支持。",
+      "detailsZh": "该条目基于搜狐体育发布的一篇题为《杜兰特渴望加盟湖人，怒斥火箭管理层太糟糕》的文章。文中描述杜兰特对当前环境极度不满，并表达了转投湖人的强烈意愿。然而，经过核实，杜兰特本人及其团队并未在任何公开场合发表过针对火箭管理层的此类激烈言论。这种叙事风格常见于为了博取眼球的虚假新闻或粉丝创作内容。在现实篮球世界中，球员转会涉及复杂的合同条款、薪资空间及多方谈判，绝非仅凭社交媒体上的情绪化宣泄即可决定。因此，该报道中的“怒斥”情节极大概率为虚构或断章取义，不具备新闻真实性，应归类为误导性传闻。",
       "keyPoints": [
-        "14年NBA老将公开评价杜兰特",
-        "认为杜兰特仍是联盟前五级别球员",
-        "体现同行对其竞技状态的认可"
+        "声称杜兰特想加盟湖人",
+        "指控杜兰特批评火箭管理层",
+        "无官方或当事人证实",
+        "疑似自媒体编造的虚假叙事"
       ],
-      "category": "比赛",
-      "importance": 3
+      "category": "场外",
+      "importance": 2
     },
     {
       "subject": "durant",
@@ -61,15 +63,36 @@
       "publishedAt": "2026-09-10T05:12:02.000Z",
       "description": "炸裂！杜兰特入驻中国社交软件！大史热议：NBA中国赛见 zhibo8.cc",
       "titleZh": "杜兰特入驻中国社交软件引热议",
-      "summaryZh": "有消息称凯文·杜兰特已入驻中国某社交软件，引发球迷和媒体大史等人的热烈讨论，并猜测这可能预示着NBA中国赛的到来或其在华商业布局的新动向。",
-      "detailsZh": "事实：社交媒体平台zhibo8.cc报道，凯文·杜兰特账号出现在中国社交平台上，相关话题迅速发酵。评论：此举被解读为杜兰特及其团队加强与中国市场联系的信号。鉴于杜兰特在中国拥有极高的人气，这一举动可能有助于提升其个人品牌影响力及潜在的商业合作。大史等知名解说员对此表示关注，认为这可能是NBA重返中国市场进行比赛的预热。传闻：目前尚无官方确认的具体行程或商业合同细节，关于“NBA中国赛见”的说法多为球迷和媒体的推测，需等待后续官方公告验证。",
+      "summaryZh": "据直播吧报道，凯文·杜兰特入驻某中国社交软件的消息引发关注。知名解说员大史对此进行评论，并提及可能在中国举办NBA赛事的相关话题，反映了球星与中国市场的互动动态。",
+      "detailsZh": "该新闻来自直播吧，标题为《炸裂！杜兰特入驻中国社交软件！大史热议：NBA中国赛见》。内容主要陈述了杜兰特开通或活跃于中国社交平台这一事实，以及由此引发的媒体和评论员反应。大史作为资深篮球评论员，其观点代表了部分专业视角，即球星的中国行或社交媒体活动可能与未来的商业合作或赛事推广有关。虽然“NBA中国赛”的具体安排需由NBA官方公布，但球星个人账号的运营确实是其全球品牌战略的一部分。此条信息属于相对客观的场外动态，不涉及未经证实的交易流言或伤病猜测，可信度较高，主要反映杜兰特的商业价值及在华影响力。",
       "keyPoints": [
-        "杜兰特入驻中国社交软件",
-        "引发媒体和大史等人士热议",
-        "疑似预示NBA中国赛或商业新动作"
+        "杜兰特入驻中国社交平台",
+        "解说员大史对此进行点评",
+        "关联NBA中国赛可能性讨论",
+        "反映球星中国市场活跃度"
       ],
       "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxOMEZCeE1WLUd0MGhNcmtSWVRJSXpDc0xJdGlQZVZfcmtBU2o1Vlkya3ByYXRKM09EcktJZW5kNk9Wb3ROZ3JzUzhJb1NnX3I0ZC13NkM5Y3Q2UzhyZmRpWEhUcE1sbFoxTXJqMkoxd0FOS2xoX1BXSkxLMUE2WXhzNnQ1ZlhySU1iRlZpSw",
+      "title": "杜兰特撕毁火箭1.3亿续约合同！不给1.8亿就请做好失去我的准备",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEZCeE1WLUd0MGhNcmtSWVRJSXpDc0xJdGlQZVZfcmtBU2o1Vlkya3ByYXRKM09EcktJZW5kNk9Wb3ROZ3JzUzhJb1NnX3I0ZC13NkM5Y3Q2UzhyZmRpWEhUcE1sbFoxTXJqMkoxd0FOS2xoX1BXSkxLMUE2WXhzNnQ1ZlhySU1iRlZpSw?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-10T03:17:25.000Z",
+      "description": "杜兰特撕毁火箭1.3亿续约合同！不给1.8亿就请做好失去我的准备 Sohu",
+      "titleZh": "假新闻：杜兰特撕毁火箭续约合同",
+      "summaryZh": "搜狐体育发布标题称“杜兰特撕毁火箭1.3亿续约合同”，要求加薪至1.8亿否则离队。此为典型的虚假标题党新闻，严重违背NBA劳资协议常识，无任何事实依据。",
+      "detailsZh": "该条目标题极具煽动性，声称杜兰特单方面撕毁与休斯顿火箭队的巨额合同。首先，从逻辑上讲，若合同已签署生效，单方“撕毁”在法律和体育规则上均不可行，只能涉及买断或交易。其次，根据已知信息，杜兰特并非火箭队球员，不存在所谓“1.3亿续约合同”的基础。此类新闻是典型的流量骗局，利用球迷对球星动向的好奇心制造虚假冲突。NBA球员合同受严格法律保护，任何变动都需通过官方渠道公告。该报道内容完全脱离现实，属于恶意编造的谣言，旨在误导读者点击，不具备任何新闻价值或事实基础，必须予以辟谣和排除。",
+      "keyPoints": [
+        "标题声称撕毁1.3亿合同",
+        "要求加薪至1.8亿否则离队",
+        "杜兰特并非火箭球员，前提错误",
+        "纯属捏造的虚假谣言"
+      ],
+      "category": "交易",
+      "importance": 1
     },
     {
       "subject": "durant",
@@ -79,47 +102,31 @@
       "source": "zhibo8.cc",
       "publishedAt": "2026-09-10T08:04:09.000Z",
       "description": "杨毅老师谈如果杜兰特没有加盟勇士，现在会有一个冠军吗。 zhibo8.cc",
-      "titleZh": "杨毅探讨杜兰特未加盟勇士的假设",
-      "summaryZh": "篮球评论员杨毅在节目中讨论了假设性话题：如果凯文·杜兰特当年没有加盟金州勇士队，他是否会在今天获得总冠军。该话题引发了关于杜兰特生涯选择与冠军含金量的广泛争议。",
-      "detailsZh": "事实：知名篮球评论员杨毅在其节目中对杜兰特的生涯轨迹进行了回顾，提出了一个反事实假设：若杜兰特留在布鲁克林篮网（原篮网），而非加盟勇士，他目前的冠军数量是否会不同。评论：杨毅的观点代表了部分舆论声音，即认为杜兰特在勇士时期获得的冠军与其个人带队能力存在关联度上的争议。这种讨论通常聚焦于杜兰特的领袖气质和球队构建能力。然而，这纯属事后诸葛亮式的分析，无法改变既定事实。传闻：无。此为媒体评论员的个人观点分享，不属于新闻报道中的事实性事件。",
+      "titleZh": "杨毅评论杜兰特未加盟勇士的历史假设",
+      "summaryZh": "直播吧报道了中国篮球评论员杨毅的观点，探讨如果杜兰特当年没有加盟金州勇士队，他是否仍能获得总冠军。这属于赛后历史回顾性质的评论，非即时新闻。",
+      "detailsZh": "该信息来源为直播吧，内容为著名篮球评论员杨毅对杜兰特职业生涯关键转折点的复盘。杨毅在节目中分析了杜兰特选择加盟勇士队的利弊，并提出了一个反事实假设：若杜兰特留在俄克拉荷马城雷霆队或选择其他路径，其冠军之路是否会不同。这类内容属于深度评论和分析，而非突发新闻。它反映了中国篮球媒体界对杜兰特生涯选择的普遍看法，即其夺冠历程伴随着争议。虽然不具时效性，但作为人物动态的一部分，有助于理解公众舆论对其职业生涯的评价。需注意区分事实（他已夺冠）与观点（杨毅的个人推测），避免将评论当作既定事实传播。",
       "keyPoints": [
-        "杨毅评论杜兰特生涯选择",
-        "探讨未加盟勇士是否能夺冠",
-        "涉及冠军含金量与领袖能力的争议"
+        "杨毅对杜兰特生涯选择的评论",
+        "探讨未加盟勇士的冠军可能性",
+        "属于历史回顾与分析类内容",
+        "反映媒体界对KD生涯的争议性评价"
       ],
       "category": "场外",
       "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMickFVX3lxTE8yajJ6di1FOE50V3BOclYwN0tkX2lsLWlhcUtXYzNONHpYNjFMa0NPdktJaVdUczJHSWZydmJRR2Q4VmxmMGZLc3ZIby10d29Nb3JBMndtWU5pWXJkWmlUNko2cGVsY2huempOczh4RGJKUQ",
-      "title": "詹姆斯未来还有机会反超杜兰特重登薪资榜第一吗？",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yajJ6di1FOE50V3BOclYwN0tkX2lsLWlhcUtXYzNONHpYNjFMa0NPdktJaVdUczJHSWZydmJRR2Q4VmxmMGZLc3ZIby10d29Nb3JBMndtWU5pWXJkWmlUNko2cGVsY2huempOczh4RGJKUQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-10T16:19:18.000Z",
-      "description": "詹姆斯未来还有机会反超杜兰特重登薪资榜第一吗？ 新浪网",
-      "titleZh": "詹姆斯未来还有机会反超杜兰特重登薪资榜第一吗？",
-      "summaryZh": "詹姆斯未来还有机会反超杜兰特重登薪资榜第一吗？ 新浪网",
-      "detailsZh": "詹姆斯未来还有机会反超杜兰特重登薪资榜第一吗？ 新浪网",
+      "id": "durant:CBMi0gFBVV95cUxQYXBMbVlsMW9jemROT2ZFQXoyWDEyNDEwaHVBVE42TUt1NG1tbzZ2UlA3U0t0YWNJSlpSWGZNZ3FJS2xXTk1MdzNWMGdtLWFJd29yWERwR2R1Z1FkQ3ZRWFd6aHlOMkJhTUdMWW0wWVM4TXcwM1kxaUxGWjQ1RWZLRTVsdEF4b3N6X2VGYVFiakgwNldhWjkwZG42UUlreXdfUkE3YjJ3VUVsYzJTbVM2MmpHNXl1dmd3UE5fTFhQUkhoVzZNZm9ab1o2anRfZG15X0E",
+      "title": "14-year NBA veteran still views Kevin Durant as a top-five player",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXBMbVlsMW9jemROT2ZFQXoyWDEyNDEwaHVBVE42TUt1NG1tbzZ2UlA3U0t0YWNJSlpSWGZNZ3FJS2xXTk1MdzNWMGdtLWFJd29yWERwR2R1Z1FkQ3ZRWFd6aHlOMkJhTUdMWW0wWVM4TXcwM1kxaUxGWjQ1RWZLRTVsdEF4b3N6X2VGYVFiakgwNldhWjkwZG42UUlreXdfUkE3YjJ3VUVsYzJTbVM2MmpHNXl1dmd3UE5fTFhQUkhoVzZNZm9ab1o2anRfZG15X0E?oc=5",
+      "source": "Rockets Wire",
+      "publishedAt": "2026-09-10T17:39:00.000Z",
+      "description": "14-year NBA veteran still views Kevin Durant as a top-five player Rockets Wire",
+      "titleZh": "14-year NBA veteran still views Kevin Durant as a top-five player",
+      "summaryZh": "14-year NBA veteran still views Kevin Durant as a top-five player Rockets Wire",
+      "detailsZh": "14-year NBA veteran still views Kevin Durant as a top-five player Rockets Wire",
       "keyPoints": [
-        "詹姆斯未来还有机会反超杜兰特重登薪资榜第一吗？"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMickFVX3lxTE5xWDlfSHMzSndSMS1pOVRDQW5YRkprT2U5VGlVVTFwWU56ZkZZUEx0SThETjRqb1ozRDdoRERBQ1hNcjlRUk5Wb253QmQ4OFduWGl3TDBtSmdqOVFnazExMnVuQWhGa0pCdFl2QkZSMUM3dw",
-      "title": "杜兰特如何看待76人豪阵？火箭新赛季能否争冠？",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xWDlfSHMzSndSMS1pOVRDQW5YRkprT2U5VGlVVTFwWU56ZkZZUEx0SThETjRqb1ozRDdoRERBQ1hNcjlRUk5Wb253QmQ4OFduWGl3TDBtSmdqOVFnazExMnVuQWhGa0pCdFl2QkZSMUM3dw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-10T10:05:00.000Z",
-      "description": "杜兰特如何看待76人豪阵？火箭新赛季能否争冠？ 新浪网",
-      "titleZh": "杜兰特如何看待76人豪阵？火箭新赛季能否争冠？",
-      "summaryZh": "杜兰特如何看待76人豪阵？火箭新赛季能否争冠？ 新浪网",
-      "detailsZh": "杜兰特如何看待76人豪阵？火箭新赛季能否争冠？ 新浪网",
-      "keyPoints": [
-        "杜兰特如何看待76人豪阵？火箭新赛季能否争冠？"
+        "14-year NBA veteran still views Kevin Durant as a top-five player"
       ],
       "category": "场外",
       "importance": 4
@@ -139,7 +146,7 @@
         "进攻历史顶级，却终身难成球队老大？杜兰特领袖短板彻底看透！"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -164,7 +171,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-10T18:26:22.399Z",
+      "publishedAt": "2026-09-10T21:36:45.044Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -180,12 +187,12 @@
       "id": "chenze:CBMihgFBVV95cUxPY3lrNEVGS25Ya0V6bTNOZG1HZ0pnNzUxY1F5ejFBTzdHVFdTbW9vaElNUEt3RGFJT1ZKcVl1dndIMkRHLUw1VTNJVmJPWG1BbnI2aFU0YlpheG9fSnJmNjNoRmN3TUVqSjIzVGhLNmNMWFFZdGJXUlZzQ0hyRTF5ZHRJY1czdw",
       "title": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY3lrNEVGS25Ya0V6bTNOZG1HZ0pnNzUxY1F5ejFBTzdHVFdTbW9vaElNUEt3RGFJT1ZKcVl1dndIMkRHLUw1VTNJVmJPWG1BbnI2aFU0YlpheG9fSnJmNjNoRmN3TUVqSjIzVGhLNmNMWFFZdGJXUlZzQ0hyRTF5ZHRJY1czdw?oc=5",
-      "source": "新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-09-09T22:18:50.000Z",
-      "description": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke 新浪网",
+      "description": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke k.sina.com.cn",
       "titleZh": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke",
-      "summaryZh": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke 新浪网",
-      "detailsZh": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke 新浪网",
+      "summaryZh": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke k.sina.com.cn",
+      "detailsZh": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke k.sina.com.cn",
       "keyPoints": [
         "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke"
       ],
@@ -197,12 +204,12 @@
       "id": "chenze:CBMiVkFVX3lxTE5lSzh5TWxKaTZxOWdBZ2UtTm84d19LZXpSZzN4ZXBMLVh4Z1I1ZW5USHI5Y24wTUdVX3dCRW9qUUpIYnJ0VFIyVENwV2I2a3lXNEJBX09n",
       "title": "当王征宇遇上陈泽，这综艺效果直接拉满了",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lSzh5TWxKaTZxOWdBZ2UtTm84d19LZXpSZzN4ZXBMLVh4Z1I1ZW5USHI5Y24wTUdVX3dCRW9qUUpIYnJ0VFIyVENwV2I2a3lXNEJBX09n?oc=5",
-      "source": "QQ News",
+      "source": "腾讯新闻",
       "publishedAt": "2026-09-08T18:50:00.000Z",
-      "description": "当王征宇遇上陈泽，这综艺效果直接拉满了 QQ News",
+      "description": "当王征宇遇上陈泽，这综艺效果直接拉满了 腾讯新闻",
       "titleZh": "当王征宇遇上陈泽，这综艺效果直接拉满了",
-      "summaryZh": "当王征宇遇上陈泽，这综艺效果直接拉满了 QQ News",
-      "detailsZh": "当王征宇遇上陈泽，这综艺效果直接拉满了 QQ News",
+      "summaryZh": "当王征宇遇上陈泽，这综艺效果直接拉满了 腾讯新闻",
+      "detailsZh": "当王征宇遇上陈泽，这综艺效果直接拉满了 腾讯新闻",
       "keyPoints": [
         "当王征宇遇上陈泽，这综艺效果直接拉满了"
       ],
@@ -267,12 +274,12 @@
       "id": "chenze:CBMic0FVX3lxTE1PVkpTdEZqSXpuWXpjWUdhMndjYzFCZERvMnFRS1k3eXFVNE5FeUxSTXFmVUVWMngwVFF3Uzl3VHItN3dyTVFCVFhqa0ZDbXpBSkNGS2JVV2pXZlRXVngwS1pWcHFMdkJaWDVzMXQ2YUV0QUE",
       "title": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PVkpTdEZqSXpuWXpjWUdhMndjYzFCZERvMnFRS1k3eXFVNE5FeUxSTXFmVUVWMngwVFF3Uzl3VHItN3dyTVFCVFhqa0ZDbXpBSkNGS2JVV2pXZlRXVngwS1pWcHFMdkJaWDVzMXQ2YUV0QUE?oc=5",
-      "source": "新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-08-17T20:57:03.000Z",
-      "description": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ 新浪网",
+      "description": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ k.sina.com.cn",
       "titleZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​",
-      "summaryZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ 新浪网",
-      "detailsZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ 新浪网",
+      "summaryZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ k.sina.com.cn",
+      "detailsZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ k.sina.com.cn",
       "keyPoints": [
         "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​"
       ],
@@ -304,16 +311,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供其网络影响力的客观记录。",
-      "detailsZh": "此条目为固定的人物资料入口，非当日新闻。内容涵盖大咕咕咕鸡作为网络写手的基本信息，包括其常用的笔名变体、主要的创作风格特征以及在中文互联网语境下的影响力评估。该页面旨在提供关于该人物的背景知识，而非报道具体事件。事实部分基于公开可查的网络档案，评论部分涉及对其文学或段子创作风格的学术性或大众性评价，传闻部分则可能包含未经证实的轶事。由于是静态资料页，其核心价值在于提供标准化的参考索引，帮助用户快速了解该人物的基本轮廓和主要成就领域。",
+      "titleZh": "大咕咕咕鸡维基百科资料页",
+      "summaryZh": "维基百科收录该写手的背景资料，涵盖常用笔名、创作风格及网络影响力。作为基础人物档案入口，提供其身份与作品的宏观概述，非时效性新闻。",
+      "detailsZh": "事实：该词条存在并记录了“大咕咕咕鸡”作为网络写手的公开信息，包括其活跃平台、主要作品类型及在中文互联网语境下的知名度。评论：此类百科条目通常由社区维护，内容可能滞后于最新动态，但具备较高的概括性参考价值。传闻：无明确证据表明该页面包含未经核实的个人生活细节或争议性指控，主要聚焦于公共创作领域。注意：此为固定资料入口，旨在提供背景知识，而非报道当日发生的具体事件或言论。",
       "keyPoints": [
-        "提供人物基础背景与笔名汇总",
-        "记录创作风格与网络影响",
-        "作为固定资料入口而非动态新闻"
+        "记录常用笔名与创作风格",
+        "概述网络影响力与背景",
+        "属于静态人物档案入口",
+        "非时效性新闻报道"
       ],
       "category": "作品",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -324,15 +332,16 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博平台上的官方超话聚合页，用于展示该写手的公开动态及读者讨论，属固定导航链接。",
-      "detailsZh": "此为微博平台的固定功能页面（Super Index），并非特定日期的新闻报道。该页面聚合了所有带有“大咕咕咕鸡”标签的公开博文、粉丝互动及官方公告。事实层面，它记录了用户在该平台上的活跃轨迹和话题热度；评论层面，反映了粉丝群体对该写手作品的接受度与二次创作热情；传闻层面，评论区可能混杂着关于其生活状态或未来创作的猜测。由于其性质为动态聚合工具，内容随时间实时变化，因此不具备单一新闻事件的时效性，而是作为长期追踪其社交媒体表现的入口存在。",
+      "summaryZh": "新浪微博设立的超级话题页面，聚合该写手的公开动态与读者讨论。作为粉丝互动与信息汇总的官方渠道，提供实时动态追踪功能。",
+      "detailsZh": "事实：该URL指向新浪微博的超级话题索引页，用于集中展示与“大咕咕咕鸡”相关的博文、热搜及用户生成内容。评论：超话是观察网络舆论风向和粉丝生态的重要窗口，但内容混杂，需甄别真伪。传闻：页面本身不包含独家爆料，仅作为信息聚合器；具体内容的真实性取决于发布者。注意：此为固定的社交媒体聚合入口，用于日常监控，不等同于特定日期的新闻发布。",
       "keyPoints": [
-        "微博超话官方聚合页面",
-        "展示公开动态与粉丝讨论",
-        "内容为实时更新的动态集合"
+        "微博官方超级话题索引",
+        "聚合公开动态与读者讨论",
+        "用于追踪实时舆论风向",
+        "非单一新闻事件报道"
       ],
       "category": "公开发言",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -342,15 +351,36 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站搜索聚合页",
-      "summaryZh": "哔哩哔哩视频搜索结果的自动聚合页面，包含作品朗读、相关讨论及历史视频，非独立新闻源。",
-      "detailsZh": "该链接指向B站的通用搜索结果页，属于功能性导航而非特定新闻事件。页面内容根据关键词“大咕咕咕鸡”自动生成，涵盖用户上传的视频、音频朗读、解说评论等。事实部分包括视频标题、播放量等元数据；评论部分涉及UP主对原文的解读或粉丝的情感表达；传闻部分可能存在于视频简介或弹幕中，涉及未证实的创作内幕。由于内容是算法聚合的结果，具有高度动态性和碎片化特征，无法构成连贯的新闻叙事，仅作为多媒体内容的检索入口。",
+      "titleZh": "大咕咕咕鸡B站视频聚合搜索",
+      "summaryZh": "哔哩哔哩平台的关键词搜索结果页，汇集相关作品朗读、二创视频及讨论。作为多媒体内容检索入口，反映其在视频平台的传播情况。",
+      "detailsZh": "事实：该链接为B站针对特定关键词的通用搜索结果，包含用户上传的视频、音频及弹幕评论。评论：视频内容质量参差不齐，既有官方授权朗读也有粉丝自制内容，需仔细筛选来源。传闻：搜索结果中可能包含对作者形象的二次解读或戏仿，不代表作者本人立场。注意：此为动态搜索结果页，非固定主页，内容随时间变化，主要用于素材搜集而非权威资讯获取。",
       "keyPoints": [
-        "B站视频内容自动聚合",
-        "包含朗读与讨论视频",
-        "搜索结果页非独立新闻"
+        "B站关键词搜索结果页",
+        "汇集作品朗读与二创视频",
+        "内容来源多样需甄别",
+        "反映视频平台传播热度"
       ],
       "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的关于网络段子手创作生态的深度报道，提及大咕咕咕鸡的创作风格与语言影响。具有历史文献价值。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，属于早期媒体报道，分析了当时网络流行语现象，并将该作者纳入观察样本。评论：作为历史切片，反映了彼时公众对其风格的认知，可能与当前形象存在差异。传闻：报道中若涉及未证实的个人轶事，需谨慎对待；主要观点基于当时的公开文本分析。注意：此为过时新闻存档，适用于研究其早期影响力演变，不具备近期动态参考价值。",
+      "keyPoints": [
+        "2015年历史深度报道",
+        "分析早期创作风格与影响",
+        "反映当时网络文化语境",
+        "具历史文献研究价值"
+      ],
+      "category": "讨论",
       "importance": 2
     },
     {
@@ -361,34 +391,13 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据资料",
-      "summaryZh": "第三方数据平台提供的微博账号公开资料与传播数据，属静态商业数据查询入口。",
-      "detailsZh": "此页面来自领库（Kolstore）等第三方数据分析平台，提供的是该微博账号的静态画像数据，如粉丝数、活跃度、互动率等指标。事实部分基于平台API抓取的数据统计；评论部分通常缺失，除非有分析师撰写报告；传闻部分极少出现。该页面的价值在于量化分析该写手的社交媒体影响力，但其本身不包含任何新的新闻事件或原创内容，仅为现有数据的结构化展示，故归类为资料入口。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "第三方数据平台账号画像",
-        "提供传播数据与活跃度指标",
-        "静态数据查询非新闻动态"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 1
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的历史报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，探讨其创作风格及对网络语言的影响，属历史性回顾文章。",
-      "detailsZh": "这是一篇发布于2015年的历史性新闻报道，由界面新闻发布。事实部分详细记录了当时大咕咕咕鸡的创作手法、代表作品及其在当时的流行程度；评论部分引用了媒体专家或同行对其语言创新的评价；传闻部分可能涉及当时网络环境下的争议点。虽然文章具有新闻体裁，但因其发布时间久远且主题为人物背景分析，不具备当前时效性，应视为背景资料而非当日新闻。该报道有助于理解其早期创作脉络及在网络文化中的地位演变。",
-      "keyPoints": [
-        "2015年发布的历史深度报道",
-        "分析创作风格与语言影响",
-        "具背景参考价值无当前时效"
-      ],
-      "category": "讨论",
       "importance": 4
     }
   ]
