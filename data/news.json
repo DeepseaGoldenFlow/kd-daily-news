@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T04:41:47.350Z",
+  "updatedAt": "2026-09-11T09:44:05.065Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,22 +16,37 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQOXZoT1ZOUjBSaEZoZWFvZEpzWVdqVllSQ3NuYkxIYUk2RHZ1R0dZVVAwa09XRk51UW5Qd0VJUVUyV3ZZYkhQMkJaNjhMS1hSUTlGV2YwM21LWVpJOTNxa1U3U3JJS1RiU3NydzlJZER6Y0x5SjA3cmdiVHZLaF9NTHpZeUhlLTFmSzV1UQ",
+      "title": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXZoT1ZOUjBSaEZoZWFvZEpzWVdqVllSQ3NuYkxIYUk2RHZ1R0dZVVAwa09XRk51UW5Qd0VJUVUyV3ZZYkhQMkJaNjhMS1hSUTlGV2YwM21LWVpJOTNxa1U3U3JJS1RiU3NydzlJZER6Y0x5SjA3cmdiVHZLaF9NTHpZeUhlLTFmSzV1UQ?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-11T02:59:17.000Z",
+      "description": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他 Sohu",
+      "titleZh": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他",
+      "summaryZh": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他 Sohu",
+      "detailsZh": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他 Sohu",
+      "keyPoints": [
+        "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
       "id": "durant:CBMickFVX3lxTE5aRDN6OWhrY1d4Mjh6ZzZoZGthX2QxZGpwY1NKNnk5bld2NHVqXzNNLUUwc2JObHBoM1ZSYmNkM2JJbG9tM0g2QzZXdGpMaTljVHlUMXdBb3p3SElRcjZQeWE0OTNZTlJsT0YzLUNQbUhvZw",
       "title": "仅差180万！杜兰特反超詹姆斯登顶NBA历史收入榜",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aRDN6OWhrY1d4Mjh6ZzZoZGthX2QxZGpwY1NKNnk5bld2NHVqXzNNLUUwc2JObHBoM1ZSYmNkM2JJbG9tM0g2QzZXdGpMaTljVHlUMXdBb3p3SElRcjZQeWE0OTNZTlJsT0YzLUNQbUhvZw?oc=5",
       "source": "新浪网",
       "publishedAt": "2026-09-11T02:03:00.000Z",
       "description": "仅差180万！杜兰特反超詹姆斯登顶NBA历史收入榜 新浪网",
-      "titleZh": "杜兰特历史收入逼近詹姆斯",
-      "summaryZh": "截至2026年9月，凯文·杜兰特的职业生涯总收入与勒布朗·詹姆斯差距缩小至约180万美元。这一数据反映了两人长期在联盟的高薪地位及商业价值，但具体排名需以最终赛季结算为准。",
-      "detailsZh": "事实：根据公开薪资数据追踪，截至2026年9月中旬，杜兰特累计合同金额与詹姆斯极为接近，仅差约180万美元。评论：这体现了两人在过去十余年中持续担任球队核心并签下顶薪合同的累积效应。传闻：部分媒体推测若詹姆斯续约或杜兰特未来有重大签约，排名可能再次互换。需注意，“登顶”说法存在争议，因不同统计口径（含奖金、代言）结果不同。",
+      "titleZh": "仅差180万！杜兰特反超詹姆斯登顶NBA历史收入榜",
+      "summaryZh": "仅差180万！杜兰特反超詹姆斯登顶NBA历史收入榜 新浪网",
+      "detailsZh": "仅差180万！杜兰特反超詹姆斯登顶NBA历史收入榜 新浪网",
       "keyPoints": [
-        "杜兰特总收入距詹姆斯仅差180万美元",
-        "反映两人长期高薪状态",
-        "具体排名依赖统计标准"
+        "仅差180万！杜兰特反超詹姆斯登顶NBA历史收入榜"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -41,16 +56,14 @@
       "source": "The J-Notes",
       "publishedAt": "2026-09-11T01:30:00.000Z",
       "description": "Jazz lit the fuse that led to Kevin Durant joining Warriors 10 years ago The J-Notes",
-      "titleZh": "爵士队当年促成杜兰特加盟勇士",
-      "summaryZh": "回顾十年前的转会风波，犹他爵士队在自由市场开启前故意不匹配雷霆报价，间接促使杜兰特选择加盟金州勇士队。这一历史事件改变了NBA格局，也是杜兰特职业生涯的关键转折点。",
-      "detailsZh": "事实：2016年夏天，爵士队管理层决定不与俄克拉荷马城雷霆队匹配杜兰特提出的合同，导致其成为完全自由球员。随后杜兰特加盟勇士。评论：此举被视为体育管理史上的经典案例，展示了球队策略对超级巨星流向的影响。传闻：有观点认为爵士此举是为了重建，而非单纯为了省钱，但这属于事后分析。该事件已发生十年，属于既定历史事实，非当前新闻。",
+      "titleZh": "Jazz lit the fuse that led to Kevin Durant joining Warriors 10 years ago",
+      "summaryZh": "Jazz lit the fuse that led to Kevin Durant joining Warriors 10 years ago The J-Notes",
+      "detailsZh": "Jazz lit the fuse that led to Kevin Durant joining Warriors 10 years ago The J-Notes",
       "keyPoints": [
-        "爵士未匹配雷霆报价",
-        "直接导致杜兰特加盟勇士",
-        "改变NBA竞争格局"
+        "Jazz lit the fuse that led to Kevin Durant joining Warriors 10 years ago"
       ],
-      "category": "交易",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -60,71 +73,31 @@
       "source": "Rockets Wire",
       "publishedAt": "2026-09-10T17:39:00.000Z",
       "description": "14-year NBA veteran still views Kevin Durant as a top-five player Rockets Wire",
-      "titleZh": "老将视杜兰特为历史前五球员",
-      "summaryZh": "一位拥有14年球龄的NBA老将公开表示，尽管年龄增长，凯文·杜兰特依然被其视为联盟历史前五级别的球员。此评价基于杜兰特持续的得分能力和比赛影响力。",
-      "detailsZh": "事实：2026年9月，一名资深球员在接受采访时将杜兰特列为历史前五。评论：这反映了同行对其技术全面性和持久竞争力的认可。尽管杜兰特已步入职业生涯后期，但其进攻效率仍居联盟前列。传闻：无相关传闻涉及其退役计划或健康隐患。此评价为主观观点，不代表官方排名。",
+      "titleZh": "14-year NBA veteran still views Kevin Durant as a top-five player",
+      "summaryZh": "14-year NBA veteran still views Kevin Durant as a top-five player Rockets Wire",
+      "detailsZh": "14-year NBA veteran still views Kevin Durant as a top-five player Rockets Wire",
       "keyPoints": [
-        "14年球龄老将给予高度评价",
-        "认可其历史级地位",
-        "体现其竞技状态保持良好"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMickFVX3lxTE0waVdXNXRwWWlOS0RseGMwc2JtdUpRMl9DOXhFRFdaTU5hZWdnOHpOdHNDV1lOUW8zbWpLeGdSa0x6SkJTUUNYeWhJQ3pDU2JINTRlMV8yTDByOG55NU9qeUdBS25Ic0otMTdCcDlrVmdBUQ",
-      "title": "去掉罚球，近三年NBA总得分前十：杜兰特第五，约基奇第二，那亚历山大呢？",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0waVdXNXRwWWlOS0RseGMwc2JtdUpRMl9DOXhFRFdaTU5hZWdnOHpOdHNDV1lOUW8zbWpLeGdSa0x6SkJTUUNYeWhJQ3pDU2JINTRlMV8yTDByOG55NU9qeUdBS25Ic0otMTdCcDlrVmdBUQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-10T07:42:39.000Z",
-      "description": "去掉罚球，近三年NBA总得分前十：杜兰特第五，约基奇第二，那亚历山大呢？ 新浪网",
-      "titleZh": "近三年去罚球总得分杜兰特第五",
-      "summaryZh": "数据统计显示，在近三年的NBA比赛中，若剔除罚球得分，凯文·杜兰特位列总得分榜第五位，仅次于约基奇等球员。这一数据凸显了其真实投篮能力的高效性。",
-      "detailsZh": "事实：根据特定统计周期（近三个赛季），去除罚球后的总得分排名中，杜兰特排在第五。约基奇排名第二。评论：这一指标通常用于衡量球员在非造犯规情况下的自主得分能力，杜兰特的排名证明了其作为顶级得分手的稳定性。传闻：无关于数据造假或统计错误的指控。此数据为客观统计结果，有助于评估其进攻威胁的真实构成。",
-      "keyPoints": [
-        "近三年去罚球得分排第五",
-        "约基奇排名第二",
-        "体现高效自主得分能力"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPRWZoT1JUdVg2S0RWc21Vd2J6WnRtUzhpbm1VVnBHWG5LenJnSHM3ZFdCazNWSzd6WlJURUx4LVFyakxiUDZUSEIxWkRJQVR6TC1xVXNZdTFkckZpSXlZb1BkVmlNbWJOekFqN1lLRmpYWUZrcHZxMWdMMl82Uld6SXFIT1BHNW5Vb25zNA",
-      "title": "进攻历史顶级，却终身难成球队老大？杜兰特领袖短板彻底看透！",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWZoT1JUdVg2S0RWc21Vd2J6WnRtUzhpbm1VVnBHWG5LenJnSHM3ZFdCazNWSzd6WlJURUx4LVFyakxiUDZUSEIxWkRJQVR6TC1xVXNZdTFkckZpSXlZb1BkVmlNbWJOekFqN1lLRmpYWUZrcHZxMWdMMl82Uld6SXFIT1BHNW5Vb25zNA?oc=5",
-      "source": "sohu.com",
-      "publishedAt": "2026-09-10T08:14:28.000Z",
-      "description": "进攻历史顶级，却终身难成球队老大？杜兰特领袖短板彻底看透！ sohu.com",
-      "titleZh": "分析杜兰特领袖角色短板",
-      "summaryZh": "媒体文章探讨杜兰特虽拥有历史顶级的进攻天赋，但在建立球队文化和担任绝对领袖方面存在短板。文章认为其性格和过往经历使其难以成为传统意义上的球队老大。",
-      "detailsZh": "事实：杜兰特职业生涯多次效力于已有强核的球队（如勇士）。评论：分析指出，相较于詹姆斯或乔丹，杜兰特更倾向于融入现有体系而非强行重塑体系，这在某些文化中被视为“缺乏霸气”。传闻：无证据表明其有意争夺更多话语权。此为媒体主观分析，旨在探讨其领导风格特点，非事实陈述。",
-      "keyPoints": [
-        "进攻天赋历史顶级",
-        "领导风格偏向融入而非主导",
-        "媒体对其领袖气质的争议性分析"
+        "14-year NBA veteran still views Kevin Durant as a top-five player"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQOXZoT1ZOUjBSaEZoZWFvZEpzWVdqVllSQ3NuYkxIYUk2RHZ1R0dZVVAwa09XRk51UW5Qd0VJUVUyV3ZZYkhQMkJaNjhMS1hSUTlGV2YwM21LWVpJOTNxa1U3U3JJS1RiU3NydzlJZER6Y0x5SjA3cmdiVHZLaF9NTHpZeUhlLTFmSzV1UQ",
-      "title": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXZoT1ZOUjBSaEZoZWFvZEpzWVdqVllSQ3NuYkxIYUk2RHZ1R0dZVVAwa09XRk51UW5Qd0VJUVUyV3ZZYkhQMkJaNjhMS1hSUTlGV2YwM21LWVpJOTNxa1U3U3JJS1RiU3NydzlJZER6Y0x5SjA3cmdiVHZLaF9NTHpZeUhlLTFmSzV1UQ?oc=5",
-      "source": "sohu.com",
-      "publishedAt": "2026-09-11T02:59:17.000Z",
-      "description": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他 sohu.com",
-      "titleZh": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他",
-      "summaryZh": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他 sohu.com",
-      "detailsZh": "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他 sohu.com",
+      "id": "durant:CBMiTkFVX3lxTE4zeDhiZU0wMlk3Wkc1WHJjU3hybk1RRG9tVmdmZElSMTdCb1BKSEpleXRLYnNLVXFLOGtzZ1d2WmVfU293QWNSZkZkZ2FDUQ",
+      "title": "杜兰特：百威娱乐曾邀请我一起加盟76人，但我认为那种阵容是作弊",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zeDhiZU0wMlk3Wkc1WHJjU3hybk1RRG9tVmdmZElSMTdCb1BKSEpleXRLYnNLVXFLOGtzZ1d2WmVfU293QWNSZkZkZ2FDUQ?oc=5",
+      "source": "体坛加",
+      "publishedAt": "2026-09-10T16:44:21.000Z",
+      "description": "杜兰特：百威娱乐曾邀请我一起加盟76人，但我认为那种阵容是作弊 体坛加",
+      "titleZh": "杜兰特：百威娱乐曾邀请我一起加盟76人，但我认为那种阵容是作弊",
+      "summaryZh": "杜兰特：百威娱乐曾邀请我一起加盟76人，但我认为那种阵容是作弊 体坛加",
+      "detailsZh": "杜兰特：百威娱乐曾邀请我一起加盟76人，但我认为那种阵容是作弊 体坛加",
       "keyPoints": [
-        "杜兰特：詹姆斯数据比我好因为打的时间长，别忘了我曾4-0横扫他"
+        "杜兰特：百威娱乐曾邀请我一起加盟76人，但我认为那种阵容是作弊"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -141,7 +114,24 @@
         "詹姆斯未来还有机会反超杜兰特重登薪资榜第一吗？"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiUEFVX3lxTE5tdkxtUW9kM3l0bEd4aHFLN0tZaWp5NTY1VjB4Y0E5YXloR1hYU0g2Um1CN1pkeVpHbzJjUUp3Y0ZSZUgzQUs3dm1BWnU4UlJC",
+      "title": "C7娱乐安卓版下载激战正酣：库里杜兰特对决引爆全场",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tdkxtUW9kM3l0bEd4aHFLN0tZaWp5NTY1VjB4Y0E5YXloR1hYU0g2Um1CN1pkeVpHbzJjUUp3Y0ZSZUgzQUs3dm1BWnU4UlJC?oc=5",
+      "source": "体坛加",
+      "publishedAt": "2026-09-10T16:08:53.000Z",
+      "description": "C7娱乐安卓版下载激战正酣：库里杜兰特对决引爆全场 体坛加",
+      "titleZh": "C7娱乐安卓版下载激战正酣：库里杜兰特对决引爆全场",
+      "summaryZh": "C7娱乐安卓版下载激战正酣：库里杜兰特对决引爆全场 体坛加",
+      "detailsZh": "C7娱乐安卓版下载激战正酣：库里杜兰特对决引爆全场 体坛加",
+      "keyPoints": [
+        "C7娱乐安卓版下载激战正酣：库里杜兰特对决引爆全场"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -166,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-11T04:37:04.678Z",
+      "publishedAt": "2026-09-11T09:39:27.851Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -183,7 +173,7 @@
       "title": "陈泽杯",
       "url": "https://baike.baidu.com/item/陈泽杯/68667861",
       "source": "百度百科",
-      "publishedAt": "2026-09-11T04:37:04.678Z",
+      "publishedAt": "2026-09-11T09:39:27.851Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "陈泽杯",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -212,23 +202,6 @@
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE5lSzh5TWxKaTZxOWdBZ2UtTm84d19LZXpSZzN4ZXBMLVh4Z1I1ZW5USHI5Y24wTUdVX3dCRW9qUUpIYnJ0VFIyVENwV2I2a3lXNEJBX09n",
-      "title": "当王征宇遇上陈泽，这综艺效果直接拉满了",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lSzh5TWxKaTZxOWdBZ2UtTm84d19LZXpSZzN4ZXBMLVh4Z1I1ZW5USHI5Y24wTUdVX3dCRW9qUUpIYnJ0VFIyVENwV2I2a3lXNEJBX09n?oc=5",
-      "source": "news.qq.com",
-      "publishedAt": "2026-09-08T18:50:00.000Z",
-      "description": "当王征宇遇上陈泽，这综艺效果直接拉满了 news.qq.com",
-      "titleZh": "当王征宇遇上陈泽，这综艺效果直接拉满了",
-      "summaryZh": "当王征宇遇上陈泽，这综艺效果直接拉满了 news.qq.com",
-      "detailsZh": "当王征宇遇上陈泽，这综艺效果直接拉满了 news.qq.com",
-      "keyPoints": [
-        "当王征宇遇上陈泽，这综艺效果直接拉满了"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "id": "chenze:chenze-douyin-live",
       "title": "陈泽- 抖音直播间",
       "url": "https://live.douyin.com/9896719",
@@ -252,12 +225,12 @@
       "id": "chenze:CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw",
       "title": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3ZITDhQYVVwTE5uNXJib1VNNHhXSExFWF9kOFdjS19idU1XUWd6a0Q5bWJFU2dPbC1OeEtobTVWUkh2MG0xcmxELWlnNHBseFBwVy1mNUlFU0lqdV9TQ0hfRnRDQlpNYmtYUkF2b1RTWU5xSW5rQkdkbXRPaVpfM1gwWC03Y3VQb1Rhei1Mcw?oc=5",
-      "source": "sohu.com",
+      "source": "Sohu",
       "publishedAt": "2026-08-25T22:30:54.000Z",
-      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 sohu.com",
+      "description": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "titleZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽",
-      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 sohu.com",
-      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 sohu.com",
+      "summaryZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
+      "detailsZh": "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽 Sohu",
       "keyPoints": [
         "#媒体原创 陈泽自制综艺《OK了老铁们》第二季爆笑上线，1小时点赞突破百万。#陈泽"
       ],
@@ -299,6 +272,23 @@
       "importance": 3
     },
     {
+      "subject": "chenze",
+      "id": "chenze:CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o",
+      "title": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2pJUVYxMEhORng4cWRNN18wNkc5dU1OZ0hhZHVoZEhweFQxLUYwYjlKNGxyaWVnUVRDSk5LZ0F6VXAtelk5cWRKbndWQU1sRk5MdkNRS0JHdGE0YzdVQS1RLUg1cTh4THVfZm9kTHJGRDlORXczQWwzTEVHTG1UODRNY3o?oc=5",
+      "source": "封面新闻",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "description": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "titleZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万",
+      "summaryZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "detailsZh": "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万 封面新闻",
+      "keyPoints": [
+        "陈泽自制综艺《OK了老铁们》第二集爆笑上线，1小时点赞突破百万"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -307,13 +297,13 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作脉络的客观记录，非时效性新闻。",
-      "detailsZh": "该条目为关于网络写手“大咕咕咕鸡”的基础资料聚合页。事实层面，记录了其作为知名网络写手的身份，以及其在中文互联网语境下的常用笔名和主要创作风格。评论层面，维基百科通常保持中立立场，对其在网络语言传播中的角色进行背景化描述，而非主观褒贬。传闻层面，此页面不涉及未经证实的个人八卦或争议事件。需注意的是，该链接指向的是静态的人物百科资料，旨在提供长期稳定的参考信息，而非针对特定日期的动态报道。对于研究其创作生涯和网络文化影响的读者而言，这是获取系统性背景知识的重要入口。",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景，提供其网络影响力的基础档案信息。",
+      "detailsZh": "该条目为固定的人物资料入口，非当日新闻。内容涵盖大咕咕咕鸡作为知名网络写手的身份界定，重点梳理了其独特的语言风格与在中文互联网语境下的传播影响。事实部分确认了其笔名使用情况及主要活跃平台；评论部分涉及对其文字幽默感与社会观察力的学术或媒体评价；传闻部分则可能包含关于其真实身份的非官方猜测，需结合其他信源交叉验证。此页面旨在提供结构化背景知识，便于读者快速了解该人物的基本轮廓与创作脉络，是研究其网络形象的重要参考索引。",
       "keyPoints": [
-        "记录常用笔名与创作风格",
-        "提供网络影响背景资料",
-        "属于静态百科而非新闻",
-        "来源为维基百科"
+        "提供人物基础档案与笔名列表",
+        "梳理创作风格与语言特色",
+        "记录网络影响力与历史背景",
+        "区分事实陈述与外部评价"
       ],
       "category": "作品",
       "importance": 4
@@ -326,16 +316,36 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "新浪微博超话主页",
-      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话入口，聚合其公开动态与读者讨论。此为固定社交账号索引，用于追踪最新互动，非独立新闻报道。",
-      "detailsZh": "该链接为大咕咕咕鸡在微博平台的官方超话（Super Topic）首页。事实层面，它展示了粉丝社区的结构、置顶公告及近期热门话题标签。评论层面，此处汇集了读者的自发讨论、对作品的反馈以及对作者日常生活的关注，反映了其在社交媒体上的活跃度与受众粘性。传闻层面，超话内可能包含各类未经核实的粉丝猜测，编辑时需严格区分事实陈述与流言。此页面是观察其公众形象维护、粉丝互动模式以及突发舆情发酵的第一现场。由于微博内容的即时性与碎片化特征，该入口更适合作为动态监测工具，而非深度分析的资料源。",
+      "titleZh": "微博超话动态聚合页",
+      "summaryZh": "新浪微博大咕咕咕鸡超话入口，聚合其公开动态、粉丝讨论及互动内容，是追踪其近期发声的主要渠道。",
+      "detailsZh": "此为固定的社交媒体话题聚合页，非特定新闻事件。该页面实时展示大咕咕咕鸡在微博平台的公开言论、转发内容及粉丝社区的互动热点。事实层面记录了其发布频率、热门话题标签及关键时间节点；评论层面反映了读者群体对其观点的反应、争议点及情感倾向；传闻层面则可能夹杂未经证实的圈内消息或断章取义的解读。作为核心社交阵地，此处内容具有高度时效性，但需注意甄别营销号搬运与原始发言的区别，建议结合具体日期筛选有效信息，避免被算法推荐的非相关噪音干扰。",
       "keyPoints": [
-        "微博官方超话入口",
-        "聚合读者讨论与动态",
-        "反映粉丝互动模式",
-        "内容具有即时性"
+        "实时追踪公开动态与言论",
+        "反映粉丝社区互动热度",
+        "需甄别原始发言与二次传播",
+        "存在大量非结构化讨论噪音"
       ],
       "category": "公开发言",
+      "importance": 5
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络段子手生态的影响，具历史参考价值。",
+      "detailsZh": "这是一篇发布于2015年的历史深度报道，属于固定参考资料而非即时新闻。文章从媒体视角剖析了大咕咕咕鸡早期的创作手法，将其置于当时网络段子手兴起的背景下进行考察。事实部分引用了其当时的代表作品及数据表现；评论部分由记者撰写，评估其对网络流行语的贡献及文化现象意义；传闻部分较少，主要基于当时的公开信息进行推演。由于时间跨度较大，部分内容可能已滞后于现状，但作为理解其早期成名路径及行业地位的关键文献，仍具备重要的史料价值，适合用于纵向对比其风格演变。",
+      "keyPoints": [
+        "2015年历史深度报道",
+        "分析早期创作风格与影响",
+        "提供行业背景与文化视角",
+        "内容可能随时间推移而滞后"
+      ],
+      "category": "讨论",
       "importance": 3
     },
     {
@@ -346,36 +356,13 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩相关视频聚合",
-      "summaryZh": "B站搜索“大咕咕咕鸡”的结果页，包含作品朗读、二创视频及历史讨论。此为多媒体内容索引，展示其跨平台影响力，非单一新闻事件。",
-      "detailsZh": "该链接指向哔哩哔哩平台关于“大咕咕咕鸡”的搜索结果聚合页。事实层面，涵盖了由其本人上传的作品朗读音频、粉丝制作的二创视频以及相关的解说评论。评论层面，视频下方的弹幕和评论区构成了二次传播场域，体现了年轻受众对其文本风格的解构与再创造。传闻层面，部分UP主可能在视频中引用未经验证的轶事以吸引流量。此页面揭示了大咕咕咕鸡在视频时代的传播形态，从纯文字向视听结合的转变。它不仅是作品存档库，也是观察网络亚文化如何吸收并重塑其形象的关键窗口。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "包含作品朗读与二创视频",
-        "展示跨平台传播形态",
-        "弹幕评论构成二次传播",
-        "反映年轻受众解读方式"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，探讨大咕咕咕鸡的创作风格及其对网络段子手生态的影响。属历史性媒体分析，具参考价值。",
-      "detailsZh": "这是一篇发布于2015年的媒体深度报道，由界面新闻刊出。事实层面，文章梳理了当时大咕咕咕鸡的主要作品特征及其在社交媒体上的传播路径。评论层面，记者将其置于“网络段子手”这一 broader 的群体中进行审视，分析了其语言风格对当时网络流行语的塑造作用，具有一定的行业观察价值。传闻层面，报道中若提及具体人际冲突或私下言论，需警惕其真实性，但此类深度报道通常经过一定核实。尽管时间较早，但该文章为理解其早期成名机制及在中文互联网发展史上的地位提供了重要的第三方视角，是研究其职业生涯起点的重要文献。",
-      "keyPoints": [
-        "2015年媒体深度报道",
-        "分析创作风格与网络影响",
-        "置于段子手生态背景下审视",
-        "具历史研究价值"
-      ],
-      "category": "讨论",
+      "category": "场外",
       "importance": 4
     },
     {
