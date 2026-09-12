@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T21:46:00.077Z",
+  "updatedAt": "2026-09-12T00:20:11.917Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "杜兰特谈同代球员逐渐离开:下一个就是我了",
       "url": "https://www.163.com/dy/article/L6AKFU2H05506BEH.html",
       "source": "网易",
-      "publishedAt": "2026-09-11T21:43:00.710Z",
+      "publishedAt": "2026-09-12T00:16:51.460Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "杜兰特谈同代球员逐渐离开:下一个就是我了",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +37,7 @@
       "title": "9月5日:塔图姆5412万薪资低于杜兰特却先拿冠军还入选国家队",
       "url": "https://sports.sohu.com/a/1072071342_121608586",
       "source": "搜狐网",
-      "publishedAt": "2026-09-11T21:43:00.710Z",
+      "publishedAt": "2026-09-12T00:16:51.460Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "9月5日:塔图姆5412万薪资低于杜兰特却先拿冠军还入选国家队",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -50,17 +50,34 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxOTzBIT1Z2a2dnU1pTWS1ObE13MGpyekgxRjFXMU03REJGeXVzaE5NaWxSZWd3QVdreUpKWXA3N1pRTUo2S29iYXpYcWFweUllUzhvU3lsMjFtTkc5MTI0T3oxOU8tYk5QVkMxZldwX1YwSzRwdzFHeldla2dmNlZZNnNueGtDcWJsZjhPVmkyOA",
-      "title": "美媒评新季前27小前锋：大伤后的塔图姆位列榜首 KD杀进前五",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzBIT1Z2a2dnU1pTWS1ObE13MGpyekgxRjFXMU03REJGeXVzaE5NaWxSZWd3QVdreUpKWXA3N1pRTUo2S29iYXpYcWFweUllUzhvU3lsMjFtTkc5MTI0T3oxOU8tYk5QVkMxZldwX1YwSzRwdzFHeldla2dmNlZZNnNueGtDcWJsZjhPVmkyOA?oc=5",
+      "id": "durant:CBMijgFBVV95cUxOcUxvUUprWTVGbmlCYjVWRVpoRkJ2eW95SV96S1dIYjdQekdGVGo0OUx6M3lSZjdZbXRkSDA5aG1Bcksyckx4MmdmQU1uRFg3TVNwcjBMVWJWWk9wR1ByZW43bkI4NDl2YU13bVE5SjFkUFAzV2lvNEd0c2p4bU9UQm1DaE1IZndKLWNyZi1R",
+      "title": "美媒公布10大交易目标排名：加兰居首杜兰特第3 欧文第4浓眉第6",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUxvUUprWTVGbmlCYjVWRVpoRkJ2eW95SV96S1dIYjdQekdGVGo0OUx6M3lSZjdZbXRkSDA5aG1Bcksyckx4MmdmQU1uRFg3TVNwcjBMVWJWWk9wR1ByZW43bkI4NDl2YU13bVE5SjFkUFAzV2lvNEd0c2p4bU9UQm1DaE1IZndKLWNyZi1R?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-09-11T21:37:00.000Z",
-      "description": "美媒评新季前27小前锋：大伤后的塔图姆位列榜首 KD杀进前五 新浪网",
-      "titleZh": "美媒评新季前27小前锋：大伤后的塔图姆位列榜首 KD杀进前五",
-      "summaryZh": "美媒评新季前27小前锋：大伤后的塔图姆位列榜首 KD杀进前五 新浪网",
-      "detailsZh": "美媒评新季前27小前锋：大伤后的塔图姆位列榜首 KD杀进前五 新浪网",
+      "publishedAt": "2026-09-11T23:53:30.000Z",
+      "description": "美媒公布10大交易目标排名：加兰居首杜兰特第3 欧文第4浓眉第6 新浪网",
+      "titleZh": "美媒公布10大交易目标排名：加兰居首杜兰特第3 欧文第4浓眉第6",
+      "summaryZh": "美媒公布10大交易目标排名：加兰居首杜兰特第3 欧文第4浓眉第6 新浪网",
+      "detailsZh": "美媒公布10大交易目标排名：加兰居首杜兰特第3 欧文第4浓眉第6 新浪网",
       "keyPoints": [
-        "美媒评新季前27小前锋：大伤后的塔图姆位列榜首 KD杀进前五"
+        "美媒公布10大交易目标排名：加兰居首杜兰特第3 欧文第4浓眉第6"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTE5LU3c1VjhrTnVvSWlyU1pGRThodnZXVnlpVURFMlotaUlYV1JRb3pvdXBPdmdTSjRXWDBHT0Q5aXEtSU9iNUdHbnRwQnRnc0N5R2pGRWMwLWxSZnhpU1RDaTQwSXZMRXJOS0VETnRqUThBMjA",
+      "title": "耐克终身合同：乔丹 杜兰特 詹姆斯 C罗？ 还有谁呢 欢迎补充",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LU3c1VjhrTnVvSWlyU1pGRThodnZXVnlpVURFMlotaUlYV1JRb3pvdXBPdmdTSjRXWDBHT0Q5aXEtSU9iNUdHbnRwQnRnc0N5R2pGRWMwLWxSZnhpU1RDaTQwSXZMRXJOS0VETnRqUThBMjA?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-11T17:19:08.000Z",
+      "description": "耐克终身合同：乔丹 杜兰特 詹姆斯 C罗？ 还有谁呢 欢迎补充 新浪网",
+      "titleZh": "耐克终身合同：乔丹 杜兰特 詹姆斯 C罗？ 还有谁呢 欢迎补充",
+      "summaryZh": "耐克终身合同：乔丹 杜兰特 詹姆斯 C罗？ 还有谁呢 欢迎补充 新浪网",
+      "detailsZh": "耐克终身合同：乔丹 杜兰特 詹姆斯 C罗？ 还有谁呢 欢迎补充 新浪网",
+      "keyPoints": [
+        "耐克终身合同：乔丹 杜兰特 詹姆斯 C罗？ 还有谁呢 欢迎补充"
       ],
       "category": "场外",
       "importance": 3
@@ -101,51 +118,34 @@
     },
     {
       "subject": "durant",
+      "id": "durant:CBMipgFBVV95cUxNWDBleXRGNmQ2R2ZBampQbTZ2ZWU4bmQydDd2SENlREJLN1BMblVsZUZ6OWFUczJYRzE4aE9fb2l3d0FBM2FDRExhY0NFeURwam81eTE2QkVfd195X240cGkxMXJNWGNXaWJxN1FhNUlDUjVfamZvUGU0OExwZGVBYk1MWTJjYUxYSW5UQ2FOTlhJRU56OGdqMXhrXzdoMTc5REZFVDRn0gGmAUFVX3lxTE1YMGV5dEY2ZDZHZkFqalBtNnZlZThuZDJ0N3ZIQ2VEQks3UExuVWxlRno5YVRzMlhHMThoT19vaXd3QUEzYUNETGFjQ0V5RHBqbzV5MTZCRV93X3lfbjRwaTExck1YY1dpYnE3UWE1SUNSNV9qZm9QZTQ4THBkZUFiTUxZMmNhTFhJblRDYU5OWElFTno4Z2oxeGtfN2gxNzlERkVUNGc",
+      "title": "Kevin Durant encourages every player to represent their country",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDBleXRGNmQ2R2ZBampQbTZ2ZWU4bmQydDd2SENlREJLN1BMblVsZUZ6OWFUczJYRzE4aE9fb2l3d0FBM2FDRExhY0NFeURwam81eTE2QkVfd195X240cGkxMXJNWGNXaWJxN1FhNUlDUjVfamZvUGU0OExwZGVBYk1MWTJjYUxYSW5UQ2FOTlhJRU56OGdqMXhrXzdoMTc5REZFVDRn0gGmAUFVX3lxTE1YMGV5dEY2ZDZHZkFqalBtNnZlZThuZDJ0N3ZIQ2VEQks3UExuVWxlRno5YVRzMlhHMThoT19vaXd3QUEzYUNETGFjQ0V5RHBqbzV5MTZCRV93X3lfbjRwaTExck1YY1dpYnE3UWE1SUNSNV9qZm9QZTQ4THBkZUFiTUxZMmNhTFhJblRDYU5OWElFTno4Z2oxeGtfN2gxNzlERkVUNGc?oc=5",
+      "source": "TalkBasket.net",
+      "publishedAt": "2026-09-11T15:26:32.000Z",
+      "description": "Kevin Durant encourages every player to represent their country TalkBasket.net",
+      "titleZh": "Kevin Durant encourages every player to represent their country",
+      "summaryZh": "Kevin Durant encourages every player to represent their country TalkBasket.net",
+      "detailsZh": "Kevin Durant encourages every player to represent their country TalkBasket.net",
+      "keyPoints": [
+        "Kevin Durant encourages every player to represent their country"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
       "id": "durant:CBMiuwFBVV95cUxQQU45akdxbXVSMng1WFpGUzlrOEZPaXFFVHhacjdPTkxpSzN2MXlNVjgxN2ZueFhucWZ0S0lhZWNid01oTWI0ZTJfbk1aMEgyYlpyZlRDRDhLOGFFN1ZMdDhmbG1qMV9rTDU2bEpVbFhzMHFCUmI2TzRqc1VnUmJwdzZEMnF5enZjVVVLYmFHbGVtaDJNajYyQ3BKOEdCMHRiSE81bmJxMWZmY0dPSlhCOW9EMDZMRkRSdnNF",
       "title": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQU45akdxbXVSMng1WFpGUzlrOEZPaXFFVHhacjdPTkxpSzN2MXlNVjgxN2ZueFhucWZ0S0lhZWNid01oTWI0ZTJfbk1aMEgyYlpyZlRDRDhLOGFFN1ZMdDhmbG1qMV9rTDU2bEpVbFhzMHFCUmI2TzRqc1VnUmJwdzZEMnF5enZjVVVLYmFHbGVtaDJNajYyQ3BKOEdCMHRiSE81bmJxMWZmY0dPSlhCOW9EMDZMRkRSdnNF?oc=5",
-      "source": "Eurohoops",
+      "source": "eurohoops.net",
       "publishedAt": "2026-09-11T15:15:00.000Z",
-      "description": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles Eurohoops",
+      "description": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles eurohoops.net",
       "titleZh": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles",
-      "summaryZh": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles Eurohoops",
-      "detailsZh": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles Eurohoops",
+      "summaryZh": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles eurohoops.net",
+      "detailsZh": "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles eurohoops.net",
       "keyPoints": [
         "Kevin Durant sets his sights on a fifth olympic gold in Los Angeles"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiqwFBVV95cUxQLS1MVXFvTE4xbnhfUGgtOGlVRzZ5cVhXdWxHVmxSeEFTUjFOcVJpWEFmV2ZGbkxuQmNRRG9TT2lWWG5IYmoxSEp5aFFBM3UzeFpZbUxoalV6MjRqS09PVUJpd2ZzdXZhRUtqTFExYThPQWdxR0h6bGlLZEFiZDZIQlpjNzBlcEVPMUdnZzFDM2UxLTUtTVBETnJ0NjJlR0k0Z1hIRFE0LXotZ0k",
-      "title": "Chris Paul Following in Kevin Durant’s Business Footprints",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLS1MVXFvTE4xbnhfUGgtOGlVRzZ5cVhXdWxHVmxSeEFTUjFOcVJpWEFmV2ZGbkxuQmNRRG9TT2lWWG5IYmoxSEp5aFFBM3UzeFpZbUxoalV6MjRqS09PVUJpd2ZzdXZhRUtqTFExYThPQWdxR0h6bGlLZEFiZDZIQlpjNzBlcEVPMUdnZzFDM2UxLTUtTVBETnJ0NjJlR0k0Z1hIRFE0LXotZ0k?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-09-11T15:00:00.000Z",
-      "description": "Chris Paul Following in Kevin Durant’s Business Footprints Sports Illustrated",
-      "titleZh": "Chris Paul Following in Kevin Durant’s Business Footprints",
-      "summaryZh": "Chris Paul Following in Kevin Durant’s Business Footprints Sports Illustrated",
-      "detailsZh": "Chris Paul Following in Kevin Durant’s Business Footprints Sports Illustrated",
-      "keyPoints": [
-        "Chris Paul Following in Kevin Durant’s Business Footprints"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMioAJBVV95cUxORWltSzRWVGJkSnF5WE4ycmJUMzBkSnlNaDhnclpIeUZYdWxIVVFOajJPRlJzOG9WUkJWQ2s4YjkzelNjR19XakRIMnBHUzFNTlAtVVhSZ1ZqczRmeHlkalJqRE1PVFV1U3hyS1QySmJqc0pJQk0zOWRJTmhNdVlmbW44SUlyNW1qNEJKUWpzMVRrQ0MzMkg2NUhzaG51c0VCRzBHSU9zS280cVNzUE94cWxYdnVhQnBqS25sWldRb3hqdHo2SHNpYmJPUVNlakhzRzdkY2VnbG1kR0loV3p2N0RieGxFLXd2SGE3VXM2NTY5TXJCQ3I3ZGFURlQ0QWhQb2xBVVdVWGZ0aFRwQnJPQm5NT1Qxb3g0d29WUEozTHc",
-      "title": "Kevin Durant Rockets PREVIEW: Why This Is A MAKE OR BREAK Season For KD In Houston",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORWltSzRWVGJkSnF5WE4ycmJUMzBkSnlNaDhnclpIeUZYdWxIVVFOajJPRlJzOG9WUkJWQ2s4YjkzelNjR19XakRIMnBHUzFNTlAtVVhSZ1ZqczRmeHlkalJqRE1PVFV1U3hyS1QySmJqc0pJQk0zOWRJTmhNdVlmbW44SUlyNW1qNEJKUWpzMVRrQ0MzMkg2NUhzaG51c0VCRzBHSU9zS280cVNzUE94cWxYdnVhQnBqS25sWldRb3hqdHo2SHNpYmJPUVNlakhzRzdkY2VnbG1kR0loV3p2N0RieGxFLXd2SGE3VXM2NTY5TXJCQ3I3ZGFURlQ0QWhQb2xBVVdVWGZ0aFRwQnJPQm5NT1Qxb3g0d29WUEozTHc?oc=5",
-      "source": "13newsnow.com",
-      "publishedAt": "2026-09-11T14:44:00.000Z",
-      "description": "Kevin Durant Rockets PREVIEW: Why This Is A MAKE OR BREAK Season For KD In Houston 13newsnow.com",
-      "titleZh": "Kevin Durant Rockets PREVIEW: Why This Is A MAKE OR BREAK Season For KD In Houston",
-      "summaryZh": "Kevin Durant Rockets PREVIEW: Why This Is A MAKE OR BREAK Season For KD In Houston 13newsnow.com",
-      "detailsZh": "Kevin Durant Rockets PREVIEW: Why This Is A MAKE OR BREAK Season For KD In Houston 13newsnow.com",
-      "keyPoints": [
-        "Kevin Durant Rockets PREVIEW: Why This Is A MAKE OR BREAK Season For KD In Houston"
       ],
       "category": "场外",
       "importance": 3
@@ -156,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-11T21:42:56.505Z",
+      "publishedAt": "2026-09-12T00:16:50.097Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -296,13 +296,13 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格演变及在中文互联网语境下的文化影响。",
-      "detailsZh": "该条目为固定的人物背景资料入口，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份标识，包括其活跃时期、代表性作品类型以及在特定网络亚文化圈层中的地位。事实部分基于公开可查的百科信息，评论部分涉及对其文字风格（如幽默、讽刺或解构主义）的学术性或大众化评价。需注意的是，网络百科存在编辑滞后性，具体细节应以最新权威来源为准。此页面旨在提供基础认知框架，而非动态追踪。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录该写手的常用笔名、创作风格及作品背景，提供其网络影响的综合资料入口。",
+      "detailsZh": "事实：该页面为关于网络写手“大咕咕咕鸡”的百科条目，涵盖其常用笔名、主要创作风格及代表作品。评论：作为第三方知识平台，内容经过整理，具有较高的参考价值。传闻：无。注意：此为固定资料入口，非当日新闻。",
       "keyPoints": [
-        "提供人物基础档案与笔名对照",
-        "概述创作风格与文学特征",
-        "记录在网络文化中的历史定位"
+        "收录常用笔名与创作风格",
+        "提供作品与网络影响背景",
+        "属于固定百科资料入口"
       ],
       "category": "作品",
       "importance": 4
@@ -315,15 +315,34 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话聚合页，汇集其公开动态、粉丝互动及相关讨论，是追踪其近期言论的核心社区入口。",
-      "detailsZh": "此为固定的社交媒体社区主页，用于聚合用户生成内容。事实层面，它展示了粉丝群体的活跃度及话题热度；传闻层面，评论区常包含未经证实的八卦或读者对作品的解读。由于微博内容的即时性与碎片化，此处信息多为动态更新，建议结合具体日期筛选。该页面不直接发布官方新闻，而是作为舆论场的观察窗口，反映受众对其作品的接受度与争议点。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博相关动态与读者讨论的聚合入口，展示其公开社交账号信息及粉丝互动情况。",
+      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话页面，包含其公开动态与读者讨论。评论：超话是粉丝聚集和讨论的主要场所。传闻：无。注意：此为固定主页入口，用于追踪公开动态，非特定新闻事件。",
       "keyPoints": [
-        "粉丝互动与舆论风向标",
-        "聚合非官方二次创作内容",
-        "实时反映读者情绪与争议"
+        "微博超话官方入口",
+        "聚合公开动态与讨论",
+        "粉丝互动核心区域"
       ],
-      "category": "讨论",
+      "category": "公开发言",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索聚合页，汇集其作品朗读、相关讨论及历史视频，便于检索视听内容。",
+      "detailsZh": "事实：该链接为B站关键词搜索结果页，展示与大咕咕咕鸡相关的视频内容，包括作品朗读和讨论。评论：B站是其内容传播的重要渠道之一。传闻：无。注意：此为动态搜索结果页，非固定主页或单一新闻。",
+      "keyPoints": [
+        "B站作品朗读与讨论聚合",
+        "历史视频检索入口",
+        "视听内容传播渠道"
+      ],
+      "category": "作品",
       "importance": 3
     },
     {
@@ -334,35 +353,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言生态的影响，具有较高史料价值。",
-      "detailsZh": "这是一篇发布于2015年的历史新闻报道，属于固定参考资料而非当日动态。事实部分记录了当时大咕咕咕鸡在网文界的地位及具体作品案例；评论部分由记者撰写，探讨其语言风格对当时网络流行语的塑造作用。鉴于时间跨度较大，部分内容可能已随时代变迁而过时，但作为研究其早期创作轨迹和媒体形象的重要文献，仍具参考价值。需警惕将十年前的观点直接套用于当前语境。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，分析其创作风格及对网络语言的影响，具有历史文献价值。",
+      "detailsZh": "事实：界面新闻于2015年5月12日发布文章，介绍大咕咕咕鸡的创作风格及其对网络语言的影响。评论：该报道提供了早期对其创作生态的专业视角。传闻：无。注意：此为历史新闻报道，反映当时语境下的评价。",
       "keyPoints": [
-        "2015年媒体视角的历史定调",
-        "分析早期创作风格与社会影响",
-        "具备一定学术研究参考价值"
+        "2015年媒体深度报道",
+        "分析创作风格与语言影响",
+        "具有历史文献价值"
       ],
-      "category": "公开发言",
+      "category": "讨论",
       "importance": 4
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "哔哩哔哩相关视频聚合搜索",
-      "summaryZh": "B站搜索关键词“大咕咕咕鸡”的结果页，包含作品朗读、解说视频及粉丝剪辑，反映其在视频平台的传播形态。",
-      "detailsZh": "此为动态搜索结果页，非固定主页。内容涵盖官方授权的有声书、第三方UP主的书评视频及同人创作。事实层面，视频播放量与弹幕数可量化其跨媒介影响力；传闻层面，部分视频标题可能含有夸大或误导性描述。由于算法推荐机制，不同用户看到的排序差异巨大，且内容质量参差不齐。建议通过筛选“最新发布”或“最高播放”来获取更具代表性的信息，避免被低质营销号误导。",
-      "keyPoints": [
-        "跨媒介传播的数据指标",
-        "粉丝二创与官方授权并存",
-        "受算法影响导致信息碎片化"
-      ],
-      "category": "作品",
-      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
