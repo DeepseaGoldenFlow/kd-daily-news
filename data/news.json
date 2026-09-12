@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T04:43:51.667Z",
+  "updatedAt": "2026-09-12T09:23:08.091Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "杜兰特谈同代球员逐渐离开:下一个就是我了",
       "url": "https://www.163.com/dy/article/L6AKFU2H05506BEH.html",
       "source": "网易",
-      "publishedAt": "2026-09-12T04:39:48.514Z",
+      "publishedAt": "2026-09-12T09:19:19.487Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "杜兰特谈同代球员逐渐离开:下一个就是我了",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -33,20 +33,37 @@
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://sports.sohu.com/a/1072071342_121608586",
-      "title": "9月5日:塔图姆5412万薪资低于杜兰特却先拿冠军还入选国家队",
-      "url": "https://sports.sohu.com/a/1072071342_121608586",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-12T04:39:48.514Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "9月5日:塔图姆5412万薪资低于杜兰特却先拿冠军还入选国家队",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "id": "durant:CBMijwFBVV95cUxQV3BDNThQODhMT3pSZkxYSDczdVNfVU1fRW1ZRmt1bzBVREZDdXFSV2phS2psZ1pKSm1mVlNSYWZDbkdxalZRUEJOMGxqbEU4empuNzIxRG5WYnlOdmY2djVuQVpTQ3ZYdUJ4NTBBUjU4WG5sZUdwN1hWYmc0alJ6UEhWUC1qejlHc3pKMklJYw",
+      "title": "徐静雨埋坑，追梦：库里/KD不分老大，我们有幸有两个真正的老大",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3BDNThQODhMT3pSZkxYSDczdVNfVU1fRW1ZRmt1bzBVREZDdXFSV2phS2psZ1pKSm1mVlNSYWZDbkdxalZRUEJOMGxqbEU4empuNzIxRG5WYnlOdmY2djVuQVpTQ3ZYdUJ4NTBBUjU4WG5sZUdwN1hWYmc0alJ6UEhWUC1qejlHc3pKMklJYw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-12T06:14:00.000Z",
+      "description": "徐静雨埋坑，追梦：库里/KD不分老大，我们有幸有两个真正的老大 新浪网",
+      "titleZh": "徐静雨埋坑，追梦：库里/KD不分老大，我们有幸有两个真正的老大",
+      "summaryZh": "徐静雨埋坑，追梦：库里/KD不分老大，我们有幸有两个真正的老大 新浪网",
+      "detailsZh": "徐静雨埋坑，追梦：库里/KD不分老大，我们有幸有两个真正的老大 新浪网",
       "keyPoints": [
-        "9月5日:塔图姆5412万薪资低于杜兰特却先拿冠军还入选国家队"
+        "徐静雨埋坑，追梦：库里/KD不分老大，我们有幸有两个真正的老大"
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxQSGt6bU9NamxQVVRuQVlSTTA1WmRLZ1JSXzBRdWVfbEFQSWFvTkFuU0ltSGlaeDVyZlVneHZYSEhvQlJrSWQzNFhiSWh1S3U4RE9uQ0xkVVJKLWd2cnV6b3BUalo5dV9UczFUV2c0R1NqTFBxcEhqUkFGbDVCMHZGdEJtb1hpT1lVQVc4OXhCTQ",
+      "title": "库里近距离目睹杜兰特身上发生的一切：换队夺冠反而会被黑",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGt6bU9NamxQVVRuQVlSTTA1WmRLZ1JSXzBRdWVfbEFQSWFvTkFuU0ltSGlaeDVyZlVneHZYSEhvQlJrSWQzNFhiSWh1S3U4RE9uQ0xkVVJKLWd2cnV6b3BUalo5dV9UczFUV2c0R1NqTFBxcEhqUkFGbDVCMHZGdEJtb1hpT1lVQVc4OXhCTQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-12T05:23:51.000Z",
+      "description": "库里近距离目睹杜兰特身上发生的一切：换队夺冠反而会被黑 新浪网",
+      "titleZh": "库里近距离目睹杜兰特身上发生的一切：换队夺冠反而会被黑",
+      "summaryZh": "库里近距离目睹杜兰特身上发生的一切：换队夺冠反而会被黑 新浪网",
+      "detailsZh": "库里近距离目睹杜兰特身上发生的一切：换队夺冠反而会被黑 新浪网",
+      "keyPoints": [
+        "库里近距离目睹杜兰特身上发生的一切：换队夺冠反而会被黑"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -134,29 +151,12 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMipwFBVV95cUxPMVVCZ3FPelFtTUYxSTBXUXo0NFlVN1RWSzRHVWd3bm93Wm5rRmFOMkxXYVFocFhXYWMtakZUX2V1cjlPLURwZHZucjlCN21ha0lfSm54ZHhudTFYUFIzV1ZqNEJ2ZUx3QTBQR3BGR0JXQjlteTNlOC02RE0yUWJLLTZXcE5oa3dwakFkcVV1eEwxM2taZDNCSFYwdE15eVU3TnVFdTZjMA",
-      "title": "Kevin Durant gets brutally honest about LeBron James joining the 76ers",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVVCZ3FPelFtTUYxSTBXUXo0NFlVN1RWSzRHVWd3bm93Wm5rRmFOMkxXYVFocFhXYWMtakZUX2V1cjlPLURwZHZucjlCN21ha0lfSm54ZHhudTFYUFIzV1ZqNEJ2ZUx3QTBQR3BGR0JXQjlteTNlOC02RE0yUWJLLTZXcE5oa3dwakFkcVV1eEwxM2taZDNCSFYwdE15eVU3TnVFdTZjMA?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-09-12T00:14:10.000Z",
-      "description": "Kevin Durant gets brutally honest about LeBron James joining the 76ers BasketNews.com",
-      "titleZh": "Kevin Durant gets brutally honest about LeBron James joining the 76ers",
-      "summaryZh": "Kevin Durant gets brutally honest about LeBron James joining the 76ers BasketNews.com",
-      "detailsZh": "Kevin Durant gets brutally honest about LeBron James joining the 76ers BasketNews.com",
-      "keyPoints": [
-        "Kevin Durant gets brutally honest about LeBron James joining the 76ers"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-12T04:39:43.582Z",
+      "publishedAt": "2026-09-12T09:19:20.165Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -296,13 +296,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡词条，涵盖其常用笔名、创作风格及网络影响力等背景资料。作为固定资料入口，提供基础事实参考。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的综合性背景资料页面。内容主要基于公开可查的信息，梳理了其作为网络创作者的基本画像，包括常用的笔名变体、主要的创作领域以及其在中文互联网语境下的早期影响。此类资料通常具有相对稳定性，旨在为读者提供关于该人物的基础认知框架，而非报道具体的每日动态。需注意，百科类内容可能存在编辑滞后或信息不全的情况，应结合其他一手来源进行交叉验证。此条目属于固定主页或资料入口性质，不应被误读为当日发生的新闻事件。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录了网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。该页面作为基础资料入口，梳理了其网络影响与文学定位，非时效性新闻。",
+      "detailsZh": "事实：该词条存在并持续更新，记录了其作为网络写手的身份及主要作品脉络。评论：维基百科条目通常具备较高的中立性与参考性，是了解其公众形象的基础渠道。传闻：无特定传闻涉及，但需注意网络百科内容可能滞后于最新动态。此链接为固定资料入口，旨在提供长期稳定的背景信息，而非当日突发新闻。",
       "keyPoints": [
-        "提供人物基础背景与笔名信息",
-        "记录创作风格与网络影响",
-        "属于静态资料入口，非动态新闻"
+        "记录常用笔名与创作风格",
+        "梳理作品与网络影响",
+        "作为基础背景资料入口",
+        "非时效性新闻报道"
       ],
       "category": "作品",
       "importance": 4
@@ -315,15 +316,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "新浪微博超话社区入口",
-      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话页面，聚合了相关公开动态与读者讨论。此为固定的粉丝互动与资讯聚合入口，非单日新闻。",
-      "detailsZh": "该链接指向大咕咕咕鸡在微博平台的专属超话（Super Topic）索引页。该页面是粉丝群体聚集、分享同人作品、讨论剧情及获取最新连载信息的中心枢纽。虽然页面内容随时间不断更新，但该URL本身是一个固定的社区入口地址，用于长期追踪该IP的相关话题。对于观察者而言，这里提供了大量用户生成内容（UGC），其中包含对作品的解读、吐槽及二创，但需区分官方公告与粉丝传闻。此条目明确标识为资料入口，不具备单一新闻事件的时效性特征。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博大咕咕咕鸡超话是其公开动态与读者讨论的核心入口。该页面聚合了相关话题，便于追踪其近期活动与粉丝互动，属于固定主页性质。",
+      "detailsZh": "事实：微博超话是粉丝聚集地，包含大量用户生成内容（UGC）及官方转发。评论：此处反映了其在社交媒体上的活跃度及受众基础，是观察其舆论风向的重要窗口。传闻：超话内可能存在未经证实的八卦或谣言，需甄别。此链接为固定主页，用于日常动态追踪，不具备单一新闻事件的属性。",
       "keyPoints": [
-        "微博平台粉丝互动核心区域",
-        "聚合读者讨论与同人内容",
-        "固定入口地址，非单日动态"
+        "聚合公开动态与粉丝讨论",
+        "反映社交媒体活跃度",
+        "包含大量用户生成内容",
+        "属固定主页非单条新闻"
       ],
-      "category": "讨论",
+      "category": "公开发言",
       "importance": 3
     },
     {
@@ -334,35 +336,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩作品朗读与视频聚合",
-      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，聚合了作品朗读、相关讨论及历史视频。此为动态搜索结果入口，非特定新闻。",
-      "detailsZh": "该链接为哔哩哔哩平台针对“大咕咕咕鸡”关键词的通用搜索结果页。由于B站内容生态丰富，此处可能包含官方发布的有声书、UP主制作的解说视频、粉丝剪辑以及相关的弹幕讨论。这些内容构成了该网络写手在视频平台的数字足迹。需要注意的是，搜索结果页的内容是实时变化的，且包含大量非官方性质的二次创作或评论。因此，该条目更适合作为一个资源检索的起点，而非一条独立的新闻报道。它反映了该IP在视频领域的传播广度，但具体内容的真实性与权威性需逐一甄别。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索页聚合了大咕咕咕鸡的作品朗读、相关讨论及历史视频。该页面展示了其作品在音频/视频平台的传播情况，为动态资源入口。",
+      "detailsZh": "事实：B站上有大量关于其作品的朗读音频及二次创作视频。评论：这体现了其作品跨媒介传播的能力及年轻受众的接受度。传闻：部分视频标题可能夸大或与原作不符，需结合原文判断。此链接为搜索结果页，随时间推移内容会变化，但本质上是资源索引，非特定新闻事件。",
       "keyPoints": [
-        "B站视频内容聚合搜索入口",
-        "包含朗读、解说及二创视频",
-        "内容为动态变化，需甄别来源"
+        "展示跨媒介传播情况",
+        "包含作品朗读与二创视频",
+        "体现年轻受众接受度",
+        "属资源索引非特定新闻"
       ],
       "category": "作品",
       "importance": 3
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "第三方数据平台账号资料",
-      "summaryZh": "领库数据显示的大咕咕咕鸡微博账号公开资料与传播数据。此为第三方商业数据页面的快照，反映账号基本运营状况。",
-      "detailsZh": "该条目来自第三方KOL数据分析平台“领库”，展示了大咕咕咕鸡微博账号的公开统计数据，如粉丝数、互动率等量化指标。这类数据主要用于评估网红的商业价值或影响力规模，属于客观存在的数字痕迹。然而，第三方数据平台的数据准确性依赖于其抓取算法和更新频率，可能存在偏差。此外，该页面仅为账号资料的展示窗口，不包含任何新的叙事性内容或独家爆料。它作为辅助参考材料，帮助理解该人物在社交媒体上的受众规模，但不具备独立的事件意义。",
-      "keyPoints": [
-        "第三方平台提供的账号数据",
-        "反映粉丝规模与互动指标",
-        "数据仅供参考，非原创内容"
-      ],
-      "category": "场外",
-      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -372,15 +356,33 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其创作风格的历史报道。此为过往媒体分析文章，反映早期网络语言生态。",
-      "detailsZh": "这是一篇发布于2015年的媒体深度报道，由界面新闻刊出。文章从宏观视角探讨了以“大咕咕咕鸡”为代表的网络段子手群体的创作风格及其对当时网络语言环境的影响。作为一篇历史文献，它记录了该人物在特定时间节点的社会文化意义，具有较高的史料价值。然而，由于发布时间较早，其中的观点和数据可能已不适用于当前的网络环境。该报道属于过去的媒体评论与分析，而非近期的个人动态或新作发布。阅读时应将其置于2015年的互联网语境中理解，避免用当下的标准去衡量当时的评价。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年报道深入分析了大咕咕咕鸡的创作风格及其在网络语言生态中的位置。该文具有历史深度，是理解其早期影响力的重要文献。",
+      "detailsZh": "事实：2015年5月12日发布的深度报道，探讨了其作为网络段子手的创作特点及对网络语言的影响。评论：该报道提供了媒体视角下的专业分析，有助于理解其成名背景及行业地位。传闻：无直接传闻，但需注意时代背景差异可能导致观点过时。此为历史性深度报道，虽非当日新闻，但对研究其职业生涯具有重要参考价值。",
       "keyPoints": [
-        "2015年媒体历史深度报道",
-        "分析早期创作风格与语言影响",
-        "具史料价值，非近期动态"
+        "分析创作风格与网络语言影响",
+        "提供媒体视角的专业分析",
+        "理解早期影响力的关键文献",
+        "具历史深度参考价值"
       ],
-      "category": "公开发言",
+      "category": "讨论",
+      "importance": 5
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
       "importance": 4
     }
   ]
