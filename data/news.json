@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:10:44.873Z",
+  "updatedAt": "2026-09-12T19:22:08.706Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -15,74 +15,137 @@
   },
   "items": [
     {
-      "id": "durant:durant-nba-profile",
-      "title": "凯文·杜兰特 NBA 官方球员档案",
-      "url": "https://www.nba.com/player/201142/kevin-durant",
-      "source": "NBA.com",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "凯文·杜兰特的 NBA 官方资料、赛季数据和状态入口。",
       "subject": "durant",
-      "titleZh": "凯文·杜兰特 NBA 官方球员档案入口",
-      "summaryZh": "此为凯文·杜兰特的NBA官方网站固定资料页面，非当日新闻报道。该页面提供其职业生涯数据、实时状态及官方背景信息，是查询其基础资料的权威入口。",
-      "detailsZh": "事实：该链接指向NBA.com上凯文·杜兰特（ID: 201142）的专属主页，包含其基本个人信息、选秀历史、球队履历及累计统计数据。评论：作为联盟顶级球星，其官方档案是媒体和球迷获取准确数据的唯一标准来源，具有极高的参考价值。传闻：无。说明：此内容属于网站固定的导航或资料索引模块，旨在引导用户查看长期更新的数据库，不具备突发新闻属性，不应被误读为特定日期的动态事件。",
+      "id": "durant:CBMicEFVX3lxTE1ya2xRSFpTS2libV9lUFk4aVJ1RXo3dk04eS00U2ZoZ3RMUlItOTVabG5pTmlDRVRwdzg3dmU4R2NMNkM2bk12TjNHUFk3WmZ6UlhScGhNcUhXak5LVUJDM2dnWVJLc2QyaVJvQ0xrY2M",
+      "title": "美媒评新赛季十大小前锋：詹姆斯落选，杜兰特第5，弗拉格飙升",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ya2xRSFpTS2libV9lUFk4aVJ1RXo3dk04eS00U2ZoZ3RMUlItOTVabG5pTmlDRVRwdzg3dmU4R2NMNkM2bk12TjNHUFk3WmZ6UlhScGhNcUhXak5LVUJDM2dnWVJLc2QyaVJvQ0xrY2M?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-12T18:00:00.000Z",
+      "description": "美媒评新赛季十大小前锋：詹姆斯落选，杜兰特第5，弗拉格飙升 新浪网",
+      "titleZh": "美媒评新赛季十大小前锋：詹姆斯落选，杜兰特第5，弗拉格飙升",
+      "summaryZh": "美媒评新赛季十大小前锋：詹姆斯落选，杜兰特第5，弗拉格飙升 新浪网",
+      "detailsZh": "美媒评新赛季十大小前锋：詹姆斯落选，杜兰特第5，弗拉格飙升 新浪网",
       "keyPoints": [
-        "NBA官网权威球员主页",
-        "非当日新闻报道",
-        "提供生涯数据与基本信息",
-        "固定资料入口"
+        "美媒评新赛季十大小前锋：詹姆斯落选，杜兰特第5，弗拉格飙升"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMigAFBVV95cUxPUmdhYUtwYzRONm80dDFGNzhCdTFUbVBkOEtGc01pMDNfNTdVTHRZb2tCLVpCU2NzVGpuZlVvbmVVUFZXakY1YlhkRmk5SThDR09JYjV5YTB1NXFuZEY5V3hOZlRZX3VINUF1OGh5bEI5cGhiaHBzRDZiLWg4YXVnaw",
+      "title": "40岁还想征战奥运！杜兰特冲击第5枚金牌，科尔点明他的特殊价值",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmdhYUtwYzRONm80dDFGNzhCdTFUbVBkOEtGc01pMDNfNTdVTHRZb2tCLVpCU2NzVGpuZlVvbmVVUFZXakY1YlhkRmk5SThDR09JYjV5YTB1NXFuZEY5V3hOZlRZX3VINUF1OGh5bEI5cGhiaHBzRDZiLWg4YXVnaw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-12T15:30:04.000Z",
+      "description": "40岁还想征战奥运！杜兰特冲击第5枚金牌，科尔点明他的特殊价值 新浪网",
+      "titleZh": "40岁还想征战奥运！杜兰特冲击第5枚金牌，科尔点明他的特殊价值",
+      "summaryZh": "40岁还想征战奥运！杜兰特冲击第5枚金牌，科尔点明他的特殊价值 新浪网",
+      "detailsZh": "40岁还想征战奥运！杜兰特冲击第5枚金牌，科尔点明他的特殊价值 新浪网",
+      "keyPoints": [
+        "40岁还想征战奥运！杜兰特冲击第5枚金牌，科尔点明他的特殊价值"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMimgFBVV95cUxOVWdRYXNIaGdyMFZGMUJFZEZ3VUZFRzFHbC13MTNfRzZkZlR6SlBUZHpVUDhnQ1hMSkphcmh0UVYxV3RsUnB5blkyVHdFbTBHeTFGSFlabXRaSnFnaWM1cGFUMlE1d2xqX2tJS2JMMjRIQW1Cd2xQWTVwT29lVzM3RkhWTm92SlU5MTZsakNIV1FsVHNsem0zLVln",
+      "title": "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWdRYXNIaGdyMFZGMUJFZEZ3VUZFRzFHbC13MTNfRzZkZlR6SlBUZHpVUDhnQ1hMSkphcmh0UVYxV3RsUnB5blkyVHdFbTBHeTFGSFlabXRaSnFnaWM1cGFUMlE1d2xqX2tJS2JMMjRIQW1Cd2xQWTVwT29lVzM3RkhWTm92SlU5MTZsakNIV1FsVHNsem0zLVln?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-12T13:00:12.000Z",
+      "description": "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board heavy.com",
+      "titleZh": "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board",
+      "summaryZh": "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board heavy.com",
+      "detailsZh": "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board heavy.com",
+      "keyPoints": [
+        "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
-      "title": "英雄联盟主播、游戏领域自媒体创作者",
-      "url": "https://baike.baidu.com/item/陈泽/63933344",
-      "source": "百度百科",
-      "publishedAt": "2026-09-12T17:08:09.023Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "subject": "durant",
+      "id": "durant:CBMiogFBVV95cUxQVzlpdnk0dnBfZGRsNDFlU1NYX2tOZlZfb0xCYmw2TW44UWUzZERQaG15d09KaWt4UXh6Sk0wdWxfUDBEQ1E0VHNJU2VWVFE3WGNJb25OYl8tV1k4bUdLU3BETl8wcWVZOFM3VFp0WFFLLUpJNnJZNDNQTVNwc0V3ZS1wRUt1eU9VVG5YUl9ZQ1dxUDlGQ19FS2p2Z3BZc0JpbWc",
+      "title": "Kevin Durant Shares Advice for Rising Star Athletes",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzlpdnk0dnBfZGRsNDFlU1NYX2tOZlZfb0xCYmw2TW44UWUzZERQaG15d09KaWt4UXh6Sk0wdWxfUDBEQ1E0VHNJU2VWVFE3WGNJb25OYl8tV1k4bUdLU3BETl8wcWVZOFM3VFp0WFFLLUpJNnJZNDNQTVNwc0V3ZS1wRUt1eU9VVG5YUl9ZQ1dxUDlGQ19FS2p2Z3BZc0JpbWc?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-12T12:00:04.000Z",
+      "description": "Kevin Durant Shares Advice for Rising Star Athletes Sports Illustrated",
+      "titleZh": "Kevin Durant Shares Advice for Rising Star Athletes",
+      "summaryZh": "Kevin Durant Shares Advice for Rising Star Athletes Sports Illustrated",
+      "detailsZh": "Kevin Durant Shares Advice for Rising Star Athletes Sports Illustrated",
       "keyPoints": [
-        "英雄联盟主播、游戏领域自媒体创作者"
+        "Kevin Durant Shares Advice for Rising Star Athletes"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
-      "id": "chenze:chenze-douyin-live",
-      "title": "陈泽- 抖音直播间",
-      "url": "https://live.douyin.com/9896719",
-      "source": "抖音直播",
-      "categoryHint": "直播",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "陈泽- 抖音直播间",
-      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOeWhVOGNjRVI1RjFRQ2E2VXBwNjVBUFVsZ2tKbERBdXljdE44dno3c205MmxhZTQ5NWhMTHFNTlBBZzFxbzA1UHduZVVuZUlXd1FzMVNIYnpNNktLNHJXN2JJVS02YjloWUtZY0dJX1V1WHB2MEhjUnhvYmEwbU1GZ0tFTUQ",
+      "title": "剑指第五金！杜兰特表态愿出战2028年奥运会！球痴亦是FIBA之神",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWhVOGNjRVI1RjFRQ2E2VXBwNjVBUFVsZ2tKbERBdXljdE44dno3c205MmxhZTQ5NWhMTHFNTlBBZzFxbzA1UHduZVVuZUlXd1FzMVNIYnpNNktLNHJXN2JJVS02YjloWUtZY0dJX1V1WHB2MEhjUnhvYmEwbU1GZ0tFTUQ?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-12T11:27:00.000Z",
+      "description": "剑指第五金！杜兰特表态愿出战2028年奥运会！球痴亦是FIBA之神 Sina Sports",
+      "titleZh": "剑指第五金！杜兰特表态愿出战2028年奥运会！球痴亦是FIBA之神",
+      "summaryZh": "剑指第五金！杜兰特表态愿出战2028年奥运会！球痴亦是FIBA之神 Sina Sports",
+      "detailsZh": "剑指第五金！杜兰特表态愿出战2028年奥运会！球痴亦是FIBA之神 Sina Sports",
       "keyPoints": [
-        "陈泽- 抖音直播间"
+        "剑指第五金！杜兰特表态愿出战2028年奥运会！球痴亦是FIBA之神"
       ],
-      "category": "直播",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     },
     {
-      "id": "chenze:chenze-bilibili-search",
-      "title": "哔哩哔哩陈泽相关视频",
-      "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
-      "subject": "chenze",
-      "titleZh": "哔哩哔哩陈泽相关视频",
-      "summaryZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
-      "detailsZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxOM1JPbnJFQVJEcUUtZmJSWGV0ZXBVdjVEMmM1VVByVllHbGJnak5YSUJPLWZiX1JUVjlaOFZBbTVsT3VrVlJlSWJZdmVrNG1FRkdfMUhTOTYyajBfYS0zbXQtTzJqblhUdzVqQzJ4ZWYwOWpvWl9Wc0JFcE1fWjJ5R1BoNWNHVHI3VkxGbw",
+      "title": "美媒评选新赛季TOP27小前锋！杜兰特仅排第5，小卡第6，19岁弗拉格升第2",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1JPbnJFQVJEcUUtZmJSWGV0ZXBVdjVEMmM1VVByVllHbGJnak5YSUJPLWZiX1JUVjlaOFZBbTVsT3VrVlJlSWJZdmVrNG1FRkdfMUhTOTYyajBfYS0zbXQtTzJqblhUdzVqQzJ4ZWYwOWpvWl9Wc0JFcE1fWjJ5R1BoNWNHVHI3VkxGbw?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-12T11:12:27.000Z",
+      "description": "美媒评选新赛季TOP27小前锋！杜兰特仅排第5，小卡第6，19岁弗拉格升第2 Sohu",
+      "titleZh": "美媒评选新赛季TOP27小前锋！杜兰特仅排第5，小卡第6，19岁弗拉格升第2",
+      "summaryZh": "美媒评选新赛季TOP27小前锋！杜兰特仅排第5，小卡第6，19岁弗拉格升第2 Sohu",
+      "detailsZh": "美媒评选新赛季TOP27小前锋！杜兰特仅排第5，小卡第6，19岁弗拉格升第2 Sohu",
       "keyPoints": [
-        "哔哩哔哩陈泽相关视频"
+        "美媒评选新赛季TOP27小前锋！杜兰特仅排第5，小卡第6，19岁弗拉格升第2"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiWEFVX3lxTE1UcTd2WjMyME5UVTJXSF91RHpsT2xtQzNoRnhRdFlqN21jMGZ0RGtWaDZGdWtUOHNQbWtQTFRqY0FTVmZCVktZVUZyVG96eENobXVsQldDdlA",
+      "title": "杜兰特重申渴望参加2028年洛杉矶奥运会：这就是纯粹的篮球乐趣",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UcTd2WjMyME5UVTJXSF91RHpsT2xtQzNoRnhRdFlqN21jMGZ0RGtWaDZGdWtUOHNQbWtQTFRqY0FTVmZCVktZVUZyVG96eENobXVsQldDdlA?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-09-12T09:29:54.000Z",
+      "description": "杜兰特重申渴望参加2028年洛杉矶奥运会：这就是纯粹的篮球乐趣 企鹅体育",
+      "titleZh": "杜兰特重申渴望参加2028年洛杉矶奥运会：这就是纯粹的篮球乐趣",
+      "summaryZh": "杜兰特重申渴望参加2028年洛杉矶奥运会：这就是纯粹的篮球乐趣 企鹅体育",
+      "detailsZh": "杜兰特重申渴望参加2028年洛杉矶奥运会：这就是纯粹的篮球乐趣 企鹅体育",
+      "keyPoints": [
+        "杜兰特重申渴望参加2028年洛杉矶奥运会：这就是纯粹的篮球乐趣"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiWEFVX3lxTE5GRS0tTGE5UWk3RG8xYVRVQ2dfOHpKRHdQRzkxeUM3Ul9Ba24xMm1yc0FwODF3YVh1UFYyQ2NsNW1IMV9LaFJiM0xueGFTa2pnWkltSk43RXE",
+      "title": "追梦：当初是勇士主动接触杜兰特 绝不是他主动联系我们加盟的",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GRS0tTGE5UWk3RG8xYVRVQ2dfOHpKRHdQRzkxeUM3Ul9Ba24xMm1yc0FwODF3YVh1UFYyQ2NsNW1IMV9LaFJiM0xueGFTa2pnWkltSk43RXE?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-09-12T08:05:21.000Z",
+      "description": "追梦：当初是勇士主动接触杜兰特 绝不是他主动联系我们加盟的 企鹅体育",
+      "titleZh": "追梦：当初是勇士主动接触杜兰特 绝不是他主动联系我们加盟的",
+      "summaryZh": "追梦：当初是勇士主动接触杜兰特 绝不是他主动联系我们加盟的 企鹅体育",
+      "detailsZh": "追梦：当初是勇士主动接触杜兰特 绝不是他主动联系我们加盟的 企鹅体育",
+      "keyPoints": [
+        "追梦：当初是勇士主动接触杜兰特 绝不是他主动联系我们加盟的"
       ],
       "category": "场外",
       "importance": 3
@@ -97,12 +160,124 @@
       "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
       "subject": "chenze",
       "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
-      "summaryZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
-      "detailsZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "summaryZh": "游戏主播陈泽近期公开行程显示其前往海南庆祝生日，同时相关综艺节目已正式上线。该动态涵盖了其线下活动与线上作品发布情况，反映了其近期的主要工作重心与公众曝光节奏。",
+      "detailsZh": "事实层面，游戏主播陈泽在2026年8月中旬确认了赴海南的行程，旨在庆祝个人生日。与此同时，与其相关的综艺节目内容已在主流视频平台完成上线播出。评论方面，此次行程被视为其从纯直播领域向多元化娱乐内容拓展的重要一步，有助于提升其个人IP的商业价值。传闻部分暂无确凿证据表明其有长期定居海外的计划，现有信息仅指向短期庆生活动。此动态证实了其持续活跃于公众视野的状态，且节目上线标志着其内容生产能力的进一步成熟。",
       "keyPoints": [
-        "陈泽行程动态：赴海南庆生及综艺上线"
+        "确认赴海南进行生日庆祝活动",
+        "个人参与综艺节目正式上线播出",
+        "展现从直播向综艺多元化的发展路径"
       ],
       "category": "节目",
+      "importance": 4
+    },
+    {
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "这是游戏主播陈泽自2024年转战后的官方直播入口，位于抖音平台，抖音号为9896719。该链接为固定主页资料，非当日新闻，通常晚间开播，具体状态需以平台实时显示为准。",
+      "detailsZh": "事实层面，游戏主播陈泽自2024年起将其直播主阵地迁移至抖音平台，官方直播间账号为9896719。该条目为固定的资料入口链接，用于指引观众找到其当前唯一的官方直播渠道，绝非虎牙旧房间或临时测试号。评论方面，这一迁移标志着其职业生涯的新阶段，抖音成为其获取流量和维持粉丝粘性的核心场所。传闻部分无涉及。需要明确的是，此条目属于静态资料库内容，不具备时效性新闻特征，用户应通过该固定入口关注其日常直播安排，而非将其误读为突发新闻事件。",
+      "keyPoints": [
+        "2024年起直播主阵地正式转移至抖音",
+        "官方抖音直播间账号为9896719",
+        "此为固定资料入口，非当日突发新闻"
+      ],
+      "category": "直播",
+      "importance": 5
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMihgFBVV95cUxPY3lrNEVGS25Ya0V6bTNOZG1HZ0pnNzUxY1F5ejFBTzdHVFdTbW9vaElNUEt3RGFJT1ZKcVl1dndIMkRHLUw1VTNJVmJPWG1BbnI2aFU0YlpheG9fSnJmNjNoRmN3TUVqSjIzVGhLNmNMWFFZdGJXUlZzQ0hyRTF5ZHRJY1czdw",
+      "title": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY3lrNEVGS25Ya0V6bTNOZG1HZ0pnNzUxY1F5ejFBTzdHVFdTbW9vaElNUEt3RGFJT1ZKcVl1dndIMkRHLUw1VTNJVmJPWG1BbnI2aFU0YlpheG9fSnJmNjNoRmN3TUVqSjIzVGhLNmNMWFFZdGJXUlZzQ0hyRTF5ZHRJY1czdw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-09T22:18:50.000Z",
+      "description": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke 新浪网",
+      "titleZh": "怎么有逗猫棒，咪咪最喜欢了 直播切片｜陈泽｜coke",
+      "summaryZh": "新浪新闻报道了游戏主播陈泽的一段直播切片内容，主题为“怎么有逗猫棒，咪咪最喜欢了”。该片段展示了其在直播中与宠物互动的轻松时刻，体现了其直播风格的趣味性与生活化一面。",
+      "detailsZh": "事实层面，该条目源自新浪网转载的直播切片视频，内容聚焦于陈泽在直播过程中出现逗猫棒并与宠物“咪咪”互动的场景。评论方面，此类生活化切片有助于拉近主播与观众的距离，展示其私下性格，增强粉丝的情感连接，是其直播内容生态的重要组成部分。传闻部分无涉及。该报道并非重大行业新闻，而是对其日常直播内容的补充记录，反映了其直播内容中休闲、娱乐属性的占比。对于关注其直播风格变化的受众而言，此类细节具有参考价值，但不构成影响其职业发展的关键事件。",
+      "keyPoints": [
+        "直播切片展示与宠物互动的生活化场景",
+        "体现直播内容的趣味性与亲和力",
+        "反映主播日常直播风格的轻松一面"
+      ],
+      "category": "直播",
+      "importance": 2
+    },
+    {
+      "id": "chenze:chenze-bilibili-search",
+      "title": "哔哩哔哩陈泽相关视频",
+      "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
+      "subject": "chenze",
+      "titleZh": "哔哩哔哩陈泽相关视频",
+      "summaryZh": "哔哩哔哩平台聚合了与游戏主播陈泽相关的视频、切片及讨论内容。该页面为资源搜索入口，非当日新闻。它提供了粉丝观看回放、精彩集锦及社区讨论的渠道，是陈泽数字足迹的重要组成部分。",
+      "detailsZh": "事实层面，哔哩哔哩设有专门针对游戏主播陈泽的视频搜索聚合页，包含其过往直播切片、二创内容及粉丝讨论帖。该条目为固定的资源导航链接，不属于时效性新闻报道。评论方面，B站作为重要的长尾内容分发渠道，弥补了抖音直播即时性的不足，使得陈泽的优质内容得以沉淀和二次传播。传闻部分无涉及。编辑需明确指出，此条目为静态资料入口，旨在提供内容检索服务，不应被误解为陈泽在B站发布了新的独家新闻或公告。用户可通过此入口回溯其历史高光时刻，但无法获取实时动态。",
+      "keyPoints": [
+        "B站聚合陈泽相关视频、切片及讨论",
+        "作为内容沉淀与二次传播的重要渠道",
+        "此为固定资源入口，非当日新闻"
+      ],
+      "category": "直播",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
+      "title": "英雄联盟主播、游戏领域自媒体创作者",
+      "url": "https://baike.baidu.com/item/陈泽/63933344",
+      "source": "百度百科",
+      "publishedAt": "2026-09-12T19:19:08.973Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "英雄联盟主播、游戏领域自媒体创作者"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMia0FVX3lxTE9CY0pSdkRveTdkTjdhek1ZTlhxVDk0UTlfMk9VZElWOE9oVXZqQU1pazhuUmxGMkZtVlJneG44YmNCZHJUazFlV2ppc19rYkFtTXRXTnRUZldya0dMenJhNk1IbGVCeUNqelU4",
+      "title": "不是陈泽相关内容分享",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CY0pSdkRveTdkTjdhek1ZTlhxVDk0UTlfMk9VZElWOE9oVXZqQU1pazhuUmxGMkZtVlJneG44YmNCZHJUazFlV2ppc19rYkFtTXRXTnRUZldya0dMenJhNk1IbGVCeUNqelU4?oc=5",
+      "source": "微博",
+      "publishedAt": "2026-09-11T11:12:32.000Z",
+      "description": "不是陈泽相关内容分享 微博",
+      "titleZh": "不是陈泽相关内容分享",
+      "summaryZh": "不是陈泽相关内容分享 微博",
+      "detailsZh": "不是陈泽相关内容分享 微博",
+      "keyPoints": [
+        "不是陈泽相关内容分享"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMic0FVX3lxTE1PVkpTdEZqSXpuWXpjWUdhMndjYzFCZERvMnFRS1k3eXFVNE5FeUxSTXFmVUVWMngwVFF3Uzl3VHItN3dyTVFCVFhqa0ZDbXpBSkNGS2JVV2pXZlRXVngwS1pWcHFMdkJaWDVzMXQ2YUV0QUE",
+      "title": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PVkpTdEZqSXpuWXpjWUdhMndjYzFCZERvMnFRS1k3eXFVNE5FeUxSTXFmVUVWMngwVFF3Uzl3VHItN3dyTVFCVFhqa0ZDbXpBSkNGS2JVV2pXZlRXVngwS1pWcHFMdkJaWDVzMXQ2YUV0QUE?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-08-17T20:57:03.000Z",
+      "description": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ 新浪网",
+      "titleZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​",
+      "summaryZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ 新浪网",
+      "detailsZh": "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​ 新浪网",
+      "keyPoints": [
+        "网友：我一眼就能看出谁是真正的小丑 黑白｜陈泽｜直播 ​"
+      ],
+      "category": "场外",
       "importance": 3
     },
     {
@@ -133,16 +308,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格及网络影响背景。作为人物基础档案入口，提供相对客观的传记信息。",
-      "detailsZh": "该条目为固定的人物资料入口，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其常用的笔名变体、主要的创作领域以及其在中文互联网语境下的影响力评估。事实部分基于公开可查的网络痕迹整理；评论部分涉及对其文风在特定时期传播效果的学术性或媒体性评价；传闻部分较少，主要聚焦于已确认的公众形象。此页面旨在提供标准化的参考索引，建议读者将其视为静态知识库而非动态资讯源。",
+      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供其网络影响力的基础信息索引。",
+      "detailsZh": "此为固定资料入口，非当日新闻。页面汇总了“大咕咕咕鸡”作为网络写手的基本档案，涵盖其活跃时期、主要创作领域以及在中文互联网语境下的符号意义。内容侧重于客观事实记录，包括其代表作的传播路径和对特定网络亚文化的影响。由于维基百科具有动态更新特性，具体细节需以最新编辑版本为准。该条目旨在为研究者或读者提供快速了解该人物创作生态的背景知识，不涉及对其个人生活或近期未公开言论的评论与传闻。",
       "keyPoints": [
-        "提供人物基础传记信息",
-        "涵盖笔名与创作风格概述",
-        "属于静态资料入口",
-        "非实时新闻动态"
+        "提供人物基本档案与笔名对照",
+        "梳理主要作品与创作风格",
+        "记录网络影响力与社会评价"
       ],
-      "category": "作品",
-      "importance": 4
+      "category": "场外",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -152,17 +326,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博上的大咕咕咕鸡官方超话页面，聚合其公开动态与读者讨论。此为粉丝互动与信息发布的核心社区入口，具有长期有效性。",
-      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话（Super Topic），是粉丝群体进行日常交流、获取作者最新公告及分享同人作品的主要场所。事实层面，它记录了作者的公开社交行为轨迹；评论层面，反映了核心受众对作品的反馈与情感投射；传闻层面，超话内可能流传未经证实的创作八卦或谣言，需用户自行甄别。由于超话内容随时间动态更新，本条目仅作为访问该社区的固定门户，不直接代表某一日期的具体新闻事件，适合用于追踪长期动态。",
+      "titleZh": "大咕咕咕鸡微博超话主页",
+      "summaryZh": "新浪微博官方超话聚合页，汇集该写手的公开动态、粉丝讨论及互动内容，是追踪其社交活动的主要入口。",
+      "detailsZh": "此为固定主页链接，非单日新闻。该超话页面集中展示了“大咕咕咕鸡”在新浪微博平台上的公开社交轨迹。内容包括其发布的原创文字、转发内容以及与读者的互动评论。页面结构允许用户按时间顺序浏览历史动态，并查看热门话题标签下的粉丝二次创作与讨论。此入口主要用于监测其公开言论的变化趋势及社区反应，不包含任何未经证实的内部消息或个人隐私泄露内容。所有展示内容均基于平台公开数据，旨在反映其在社交媒体上的公众形象。",
       "keyPoints": [
-        "微博官方粉丝社区入口",
-        "聚合公开动态与读者讨论",
-        "内容随时间动态更新",
-        "需甄别社区内传闻"
+        "聚合公开社交动态与互动",
+        "粉丝讨论与二次创作中心",
+        "实时追踪舆论风向"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "公开发言",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -173,36 +346,15 @@
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡B站相关视频聚合",
-      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，包含作品朗读、二创视频及相关讨论。此为多媒体内容的检索入口，非单一视频页面。",
-      "detailsZh": "该链接为B站的通用搜索结果页，展示了与“大咕咕咕鸡”相关的各类视频内容，包括但不限于官方朗读音频、粉丝制作的二创视频、剧情解析及争议讨论。事实部分涉及视频播放量、点赞数等公开数据；评论部分来自UP主和弹幕用户的观点碰撞；传闻部分可能夹杂对作者私生活或创作动机的猜测。由于搜索结果具有时效性和算法推荐特性，本条目仅作为多媒体资源发现的工具性入口，不具备独立新闻价值，且内容庞杂，需用户进一步筛选。",
+      "summaryZh": "哔哩哔哩搜索结果页，包含其作品朗读、相关解说视频及历史影像，反映其在视频平台的受众覆盖情况。",
+      "detailsZh": "此为搜索聚合结果页，非固定单篇内容。该页面通过关键词检索，汇集了哔哩哔哩平台上与“大咕咕咕鸡”相关的各类视频资源。内容类型多样，既包括其本人可能参与的音频朗读或视频出镜（如有），也大量包含UP主对其作品的解读、鬼畜剪辑或相关社会现象的评论视频。这些内容反映了该写手在年轻网民群体中的传播广度与文化渗透力。需要注意的是，搜索结果中包含大量第三方创作，需区分官方认证内容与普通用户投稿，避免将同人创作误认为其本人行为。",
       "keyPoints": [
-        "B站多媒体内容检索入口",
-        "包含朗读、二创及讨论视频",
-        "结果受算法推荐影响",
-        "内容需进一步筛选甄别"
+        "汇聚作品朗读与解说视频",
+        "反映跨平台文化传播力",
+        "区分官方内容与UGC二创"
       ],
       "category": "作品",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据资料",
-      "summaryZh": "领库平台提供的大咕咕咕鸡微博账号公开资料与传播数据页面。此类第三方数据平台通常提供历史归档信息，非实时新闻。",
-      "detailsZh": "该页面由第三方KOL数据分析平台“领库”生成，主要展示大咕咕咕鸡微博账号的历史传播数据、粉丝增长趋势及互动指标。事实部分基于平台抓取的数据统计；评论部分极少，主要为数据可视化呈现；传闻部分不存在。需要注意的是，第三方数据平台的准确性依赖于其数据采集算法，可能存在偏差。此条目作为历史数据查询工具，有助于分析其社交媒体影响力的变化轨迹，但不构成关于其个人动态的新闻报道。",
-      "keyPoints": [
-        "第三方数据平台提供的账号资料",
-        "展示历史传播与互动数据",
-        "数据准确性依赖采集算法",
-        "属历史归档性质非实时新闻"
-      ],
-      "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -213,16 +365,32 @@
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
       "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，介绍大咕咕咕鸡的创作风格及其对网络语言的影响。此为历史性媒体文章，反映特定时期的公众认知。",
-      "detailsZh": "这是一篇发布于2015年的媒体深度报道，从社会学或语言学角度分析了大咕咕咕鸡的创作风格及其在当时网络文化中的地位。事实部分引用了当时的网络现象和数据；评论部分代表了媒体编辑部的观点，具有一定的时代局限性；传闻部分未涉及。鉴于文章发布时间较早，其反映的观点和背景可能与当前情况存在差异，因此仅作为了解其早期公众形象和媒体评价的历史文献参考，不具备当前的新闻时效性。",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析其创作风格及对网络语言生态的影响，具有重要的史料价值。",
+      "detailsZh": "这是一篇发布于2015年的历史新闻报道，属于固定参考资料而非即时动态。文章深入探讨了“大咕咕咕鸡”作为早期网络红人的创作特点，特别是其如何通过独特的语言风格影响当时的网络交流习惯。报道结合了当时的社会背景，分析了此类段子手现象背后的心理机制与社会动因。虽然时间较早，但该报道提供了理解其早期成名原因及核心创作理念的关键视角。文中观点代表了当时媒体界对该人物的认知水平，可作为后续研究其形象演变的历史参照点，但不适用于描述其当前状态。",
       "keyPoints": [
-        "2015年发布的媒体深度报道",
-        "分析创作风格与网络语言影响",
-        "反映特定历史时期的公众认知",
-        "观点具有时代局限性"
+        "分析早期创作风格与语言特色",
+        "探讨网络语言生态影响",
+        "提供历史视角下的媒体评价"
       ],
-      "category": "公开发言",
-      "importance": 3
+      "category": "讨论",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
+      "importance": 4
     }
   ]
 }
