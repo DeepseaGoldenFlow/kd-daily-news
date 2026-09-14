@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:06:51.686Z",
+  "updatedAt": "2026-09-14T06:19:37.563Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,146 +16,136 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMifkFVX3lxTE1XdDF0TjhxcTVHUTJ0dEtNblo2X0VMY0tKcGpvMkpzeWgwM01vd3JDWENpcHJOLVJCcXRxTlRVSWRqOG9mYWpMZzlkUzJIdGxJc2NYWUwydWN0dkZqeVM3Qk1rQTRNWENBMlBfa01jclE3OGVRYlJ2NjNVQk9WUQ",
-      "title": "杜兰特更新社媒祝美国女篮夺冠：这就是我们应该干的",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XdDF0TjhxcTVHUTJ0dEtNblo2X0VMY0tKcGpvMkpzeWgwM01vd3JDWENpcHJOLVJCcXRxTlRVSWRqOG9mYWpMZzlkUzJIdGxJc2NYWUwydWN0dkZqeVM3Qk1rQTRNWENBMlBfa01jclE3OGVRYlJ2NjNVQk9WUQ?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-13T21:24:50.000Z",
-      "description": "杜兰特更新社媒祝美国女篮夺冠：这就是我们应该干的 Sina Sports",
-      "titleZh": "杜兰特社媒祝福美国女篮夺冠",
-      "summaryZh": "凯文·杜兰特在社交媒体上发文，祝贺美国女篮夺得冠军。他写道：“这就是我们应该干的”，表达了对球队表现的认可与支持。",
-      "detailsZh": "事实：2026年9月13日，杜兰特更新社交媒体动态，内容简短有力，直接祝贺美国女篮获得冠军。评论：此举体现了杜兰特对篮球运动及国家队荣誉的重视，展现了他作为资深球员的格局。传闻：无相关转会或伤病传闻涉及此事件。",
-      "keyPoints": [
-        "杜兰特发布社媒动态",
-        "祝贺对象为美国女篮",
-        "表达“这是我们应该做的”态度"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi0gFBVV95cUxPVVppd2VvMzU1eFZUenlzQ0dNTlF1OC03M0QtQkFfU3Y1QVphM0JzQmZ1M1N3OGhyZ2tXcTlYUUFaT1hDeWk0X3RZRlgtdkY2U0R2dHZHZGZfZjk5SlFlUnBxcWFjVU9maGJ0Y2FNbUpmTFZNWkY3allxLTZPTGxhUWNsMi1MZDlvc0FDdHAxTVJpbXdGZWVtNGdPTzdWME9ZcVhuSmJqRlljc3d0VERDcmtRZTVMV29OUmh0MzFLanVzOTU4ck9HQWlLMjBhMXJma2fSAdIBQVVfeXFMTmdjRHRFcWlQZ0VVNDI3a1FfZHcxX0ZmaTg5N1M4MHlZa3l5WXNRX2R1RVFqdFRKbUw5VG51SXF3Yng4alVweFdieHkwcGhNYnB2VEpfUDFGSHhQX2I5ZnNDQTU5U3dQcmxUVmkyQ3FCNi1uYm9la2VSb2hIT0tTNDJRSHQ4MUtuNDlyalFGUHVoNk1pbUlhT252S1ZmQmVSS2NrWXNDeU5rV3JOTWtXZ1F3TXhEeVhSa0cta3kxTnAwc2hlbzJhcThuY1ZiSmpvY2RR",
-      "title": "Kevin Durant celebrates Arch Manning after Texas’ stunning comeback against Ohio State",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVppd2VvMzU1eFZUenlzQ0dNTlF1OC03M0QtQkFfU3Y1QVphM0JzQmZ1M1N3OGhyZ2tXcTlYUUFaT1hDeWk0X3RZRlgtdkY2U0R2dHZHZGZfZjk5SlFlUnBxcWFjVU9maGJ0Y2FNbUpmTFZNWkY3allxLTZPTGxhUWNsMi1MZDlvc0FDdHAxTVJpbXdGZWVtNGdPTzdWME9ZcVhuSmJqRlljc3d0VERDcmtRZTVMV29OUmh0MzFLanVzOTU4ck9HQWlLMjBhMXJma2fSAdIBQVVfeXFMTmdjRHRFcWlQZ0VVNDI3a1FfZHcxX0ZmaTg5N1M4MHlZa3l5WXNRX2R1RVFqdFRKbUw5VG51SXF3Yng4alVweFdieHkwcGhNYnB2VEpfUDFGSHhQX2I5ZnNDQTU5U3dQcmxUVmkyQ3FCNi1uYm9la2VSb2hIT0tTNDJRSHQ4MUtuNDlyalFGUHVoNk1pbUlhT252S1ZmQmVSS2NrWXNDeU5rV3JOTWtXZ1F3TXhEeVhSa0cta3kxTnAwc2hlbzJhcThuY1ZiSmpvY2RR?oc=5",
-      "source": "MARCA",
-      "publishedAt": "2026-09-13T20:22:33.000Z",
-      "description": "Kevin Durant celebrates Arch Manning after Texas’ stunning comeback against Ohio State MARCA",
-      "titleZh": "杜兰特现身德克萨斯大学橄榄球赛助威",
-      "summaryZh": "杜兰特出席德克萨斯大学对阵俄亥俄州立大学的比赛，并与四分卫Arch Manning赛后拥抱互动，引发球迷热议与调侃。",
-      "detailsZh": "事实：2026年9月13日，杜兰特前往现场观看德克萨斯大学长角牛队橄榄球赛，支持校友Arch Manning。赛后他与Manning拥抱并合影。评论：这显示了杜兰特对母校德克萨斯大学的深厚情感以及跨体育项目的支持。传闻：部分球迷调侃其“尾随”行为，但无实质负面报道。",
-      "keyPoints": [
-        "杜兰特出席德州大学橄榄球赛",
-        "与四分卫Arch Manning互动",
-        "体现对母校的支持"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMimgFBVV95cUxOVWdRYXNIaGdyMFZGMUJFZEZ3VUZFRzFHbC13MTNfRzZkZlR6SlBUZHpVUDhnQ1hMSkphcmh0UVYxV3RsUnB5blkyVHdFbTBHeTFGSFlabXRaSnFnaWM1cGFUMlE1d2xqX2tJS2JMMjRIQW1Cd2xQWTVwT29lVzM3RkhWTm92SlU5MTZsakNIV1FsVHNsem0zLVln",
-      "title": "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWdRYXNIaGdyMFZGMUJFZEZ3VUZFRzFHbC13MTNfRzZkZlR6SlBUZHpVUDhnQ1hMSkphcmh0UVYxV3RsUnB5blkyVHdFbTBHeTFGSFlabXRaSnFnaWM1cGFUMlE1d2xqX2tJS2JMMjRIQW1Cd2xQWTVwT29lVzM3RkhWTm92SlU5MTZsakNIV1FsVHNsem0zLVln?oc=5",
-      "source": "heavy.com",
-      "publishedAt": "2026-09-13T22:21:29.000Z",
-      "description": "NBA Trade Rumors: ‘Complicated’ Kevin Durant Deal, Aaron Gordon & the Big Board heavy.com",
-      "titleZh": "媒体称杜兰特交易情况复杂",
-      "summaryZh": "Heavy.com报道提及凯文·杜兰特的交易前景被描述为“复杂”，同时讨论了阿隆·戈登等球员的交易市场动态。",
-      "detailsZh": "事实：2026年9月13日，Heavy.com发布文章，标题提及杜兰特交易情况复杂。评论：此类报道通常基于联盟内部消息源，反映管理层谈判的难度或多方利益纠葛。传闻：目前尚无官方确认的特定交易目标或达成意向，仅为媒体推测。",
-      "keyPoints": [
-        "媒体评估杜兰特交易复杂性",
-        "涉及多名潜在交易对象",
-        "暂无具体成交细节"
-      ],
-      "category": "交易",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMirwFBVV95cUxNZEpmSzh0UGJHWmRQMmhyNU41ckh0cEJRSmp4aXZtVFhscWs2c0VteTlZWXFQN3FkRTR0WW9Ea2JNbTY1Y3pLLThqN3A0ZFNlUTczNFZDV1RSeldGYTVrT19CYzRSYVVSaHNKNEJmVEx1Wlh6ZHVNOGVuWDhuY0RISlM0MnI5Vmh3UWx0eXk5cUxGczV4Y1BMaFRBb0VSbDZZYVlGWkpKZWJ4SjFsazFF",
-      "title": "“I got mad jerseys of just random players” – Kevin Durant opens up about his unlikely NBA jersey collection",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEpmSzh0UGJHWmRQMmhyNU41ckh0cEJRSmp4aXZtVFhscWs2c0VteTlZWXFQN3FkRTR0WW9Ea2JNbTY1Y3pLLThqN3A0ZFNlUTczNFZDV1RSeldGYTVrT19CYzRSYVVSaHNKNEJmVEx1Wlh6ZHVNOGVuWDhuY0RISlM0MnI5Vmh3UWx0eXk5cUxGczV4Y1BMaFRBb0VSbDZZYVlGWkpKZWJ4SjFsazFF?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-09-13T22:51:00.000Z",
-      "description": "“I got mad jerseys of just random players” – Kevin Durant opens up about his unlikely NBA jersey collection Basketball Network",
-      "titleZh": "杜兰特透露收藏大量随机球员球衣",
-      "summaryZh": "Basketball Network报道，杜兰特在接受采访时透露自己收藏了大量随机球员的球衣，展现了其独特的个人爱好。",
-      "detailsZh": "事实：2026年9月13日，杜兰特公开谈论自己的球衣收藏习惯，表示会收集许多非著名或随机球员的球衣。评论：这一细节丰富了公众对其个人兴趣的认知，显示其对篮球历史及多元文化的关注。传闻：无商业代言或销售相关传闻。",
-      "keyPoints": [
-        "杜兰特分享个人收藏爱好",
-        "收藏对象包括随机球员",
-        "展现独特个性侧面"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
       "id": "durant:search:https://www.163.com/dy/article/L6JS2IQR0529BA9O.html",
       "title": "美媒公布10大交易目标排名:加兰居首杜兰特第3 欧文第4浓眉第6",
       "url": "https://www.163.com/dy/article/L6JS2IQR0529BA9O.html",
       "source": "网易",
-      "publishedAt": "2026-09-14T01:02:53.308Z",
+      "publishedAt": "2026-09-14T06:16:07.920Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "美媒排名十大交易目标杜兰特居第三",
-      "summaryZh": "网易转载美媒文章，列出NBA十大潜在交易目标，加兰排名第一，杜兰特位列第三，欧文和浓眉哥分列其后。",
-      "detailsZh": "事实：2026年9月14日，某美媒发布年度交易目标榜单，杜兰特排名靠前。评论：此类榜单多为媒体娱乐性内容，反映市场热度而非实际谈判进展。传闻：未证实任何具体球队已启动针对杜兰特的正式报价流程。",
+      "titleZh": "美媒公布10大交易目标排名:加兰居首杜兰特第3 欧文第4浓眉第6",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "美媒发布交易目标排名",
-        "杜兰特位列前三",
-        "属媒体预测性质"
+        "美媒公布10大交易目标排名:加兰居首杜兰特第3 欧文第4浓眉第6"
       ],
-      "category": "交易",
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxPNl9WVnNZMkRpVHBub0JyNTJOcV9Mdjg4LVludGFWOGRSRjg3WTl6NUx3UEZzZVB2ZkIyamw4LWctUWhiLWZfTmZlVjc1UXM1UGtoREN5WjFnUmlkQzE4SlpwM2g5Q1hiVXRzSHctMDRjWDhRU3lUS3ZRa00wM1JYcl9wTjNiOHkzRm8yWg",
+      "title": "火箭一夜4消息！杜兰特庆女篮5连冠，谢泼德苦练，欧文成潜在交易目标",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNl9WVnNZMkRpVHBub0JyNTJOcV9Mdjg4LVludGFWOGRSRjg3WTl6NUx3UEZzZVB2ZkIyamw4LWctUWhiLWZfTmZlVjc1UXM1UGtoREN5WjFnUmlkQzE4SlpwM2g5Q1hiVXRzSHctMDRjWDhRU3lUS3ZRa00wM1JYcl9wTjNiOHkzRm8yWg?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-14T05:43:37.000Z",
+      "description": "火箭一夜4消息！杜兰特庆女篮5连冠，谢泼德苦练，欧文成潜在交易目标 Sohu",
+      "titleZh": "火箭一夜4消息！杜兰特庆女篮5连冠，谢泼德苦练，欧文成潜在交易目标",
+      "summaryZh": "火箭一夜4消息！杜兰特庆女篮5连冠，谢泼德苦练，欧文成潜在交易目标 Sohu",
+      "detailsZh": "火箭一夜4消息！杜兰特庆女篮5连冠，谢泼德苦练，欧文成潜在交易目标 Sohu",
+      "keyPoints": [
+        "火箭一夜4消息！杜兰特庆女篮5连冠，谢泼德苦练，欧文成潜在交易目标"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijgFBVV95cUxOTVdtMG9yeURtSnh5ZW12alRtckNCdTdRUzkwRlh3cjhBZVhPWnN5OTN0MXd2T0RyczBEeW9vQkI5Wkpja3lPSTdPZW9uNkJCby1KSDRaelRTVDU1WkVkUXRRZXlJNHRqQy1IeldmeTBmeTA3VzAtSmx1QzdFOVpIMlVYY3ZmZUVYLUtVMGd3",
+      "title": "阿门非卖品，申京却可能被摆上货架！火箭这盘棋，杜兰特等不起",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTVdtMG9yeURtSnh5ZW12alRtckNCdTdRUzkwRlh3cjhBZVhPWnN5OTN0MXd2T0RyczBEeW9vQkI5Wkpja3lPSTdPZW9uNkJCby1KSDRaelRTVDU1WkVkUXRRZXlJNHRqQy1IeldmeTBmeTA3VzAtSmx1QzdFOVpIMlVYY3ZmZUVYLUtVMGd3?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-14T05:42:05.000Z",
+      "description": "阿门非卖品，申京却可能被摆上货架！火箭这盘棋，杜兰特等不起 新浪网",
+      "titleZh": "阿门非卖品，申京却可能被摆上货架！火箭这盘棋，杜兰特等不起",
+      "summaryZh": "阿门非卖品，申京却可能被摆上货架！火箭这盘棋，杜兰特等不起 新浪网",
+      "detailsZh": "阿门非卖品，申京却可能被摆上货架！火箭这盘棋，杜兰特等不起 新浪网",
+      "keyPoints": [
+        "阿门非卖品，申京却可能被摆上货架！火箭这盘棋，杜兰特等不起"
+      ],
+      "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMib0FVX3lxTE12OGs0OXRFbG54WVhaN2F5OFlSMkRURzBEWnYyNEtSM19hUUNQRlBSZ1ZoSzNwdFRkNk12dDd5WTRFdzdpTFJKSmduNDBFSlY4czlKN1dxMWxyNEdvSE91XzlLVkxZYzRDS2tYR1Bhaw",
-      "title": "“投敌杜”与“抱团詹”惺惺相惜！杜兰特声援詹姆斯加盟76人的决定",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12OGs0OXRFbG54WVhaN2F5OFlSMkRURzBEWnYyNEtSM19hUUNQRlBSZ1ZoSzNwdFRkNk12dDd5WTRFdzdpTFJKSmduNDBFSlY4czlKN1dxMWxyNEdvSE91XzlLVkxZYzRDS2tYR1Bhaw?oc=5",
+      "id": "durant:CBMiswFBVV95cUxNU2FqX2V2NFlCRFpfRnhvWFZ4c2dPellBY2ZUeW1pNExhZjVHdEhaZXlHOEhKa3NIcmU3QmIxdWh4MXl1N29SV2F2MEpUOVV5UVpfY2JGZHRFLWxXU0NXaURKUmJubWpsMExSaHN3SnktZjFUdVluV1l2c2dzWHhrdVRITW1VcVAxU3hwUDIxM1J5cHlTY09MM0ZxbUE0a3ZQRUlrNjQxNTJBQlFkRHJQNzNDSQ",
+      "title": "NBA: “Not a Lot More” Kevin Durant’s Trade Value Crashes as Rockets Face Brutal Decision",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2FqX2V2NFlCRFpfRnhvWFZ4c2dPellBY2ZUeW1pNExhZjVHdEhaZXlHOEhKa3NIcmU3QmIxdWh4MXl1N29SV2F2MEpUOVV5UVpfY2JGZHRFLWxXU0NXaURKUmJubWpsMExSaHN3SnktZjFUdVluV1l2c2dzWHhrdVRITW1VcVAxU3hwUDIxM1J5cHlTY09MM0ZxbUE0a3ZQRUlrNjQxNTJBQlFkRHJQNzNDSQ?oc=5",
+      "source": "The Sporting Base",
+      "publishedAt": "2026-09-14T04:47:00.000Z",
+      "description": "NBA: “Not a Lot More” Kevin Durant’s Trade Value Crashes as Rockets Face Brutal Decision The Sporting Base",
+      "titleZh": "NBA: “Not a Lot More” Kevin Durant’s Trade Value Crashes as Rockets Face Brutal Decision",
+      "summaryZh": "NBA: “Not a Lot More” Kevin Durant’s Trade Value Crashes as Rockets Face Brutal Decision The Sporting Base",
+      "detailsZh": "NBA: “Not a Lot More” Kevin Durant’s Trade Value Crashes as Rockets Face Brutal Decision The Sporting Base",
+      "keyPoints": [
+        "NBA: “Not a Lot More” Kevin Durant’s Trade Value Crashes as Rockets Face Brutal Decision"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxQUGxOdzM2MDRYN1lUZEVvX010b0NIRWVGOHZXNkx2YUVVY1EtUGZIYUp0czBvMENSZzBydEZsa21HTjdETW9pMkVjSEJ0WHplRGsyWWlzT3puV2Q0d05qNjZ0WWVvazA5Wkw1cmN3cUlIQmxGRUhxNmgwTFhlZ1d6UldOTW1Ka0NPRVU3aGlWTQ",
+      "title": "杜兰特力挺当年詹姆斯带队争冠，英雄果然惺惺相惜",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGxOdzM2MDRYN1lUZEVvX010b0NIRWVGOHZXNkx2YUVVY1EtUGZIYUp0czBvMENSZzBydEZsa21HTjdETW9pMkVjSEJ0WHplRGsyWWlzT3puV2Q0d05qNjZ0WWVvazA5Wkw1cmN3cUlIQmxGRUhxNmgwTFhlZ1d6UldOTW1Ka0NPRVU3aGlWTQ?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-09-13T19:30:01.000Z",
-      "description": "“投敌杜”与“抱团詹”惺惺相惜！杜兰特声援詹姆斯加盟76人的决定 新浪网",
-      "titleZh": "“投敌杜”与“抱团詹”惺惺相惜！杜兰特声援詹姆斯加盟76人的决定",
-      "summaryZh": "“投敌杜”与“抱团詹”惺惺相惜！杜兰特声援詹姆斯加盟76人的决定 新浪网",
-      "detailsZh": "“投敌杜”与“抱团詹”惺惺相惜！杜兰特声援詹姆斯加盟76人的决定 新浪网",
+      "publishedAt": "2026-09-14T04:31:00.000Z",
+      "description": "杜兰特力挺当年詹姆斯带队争冠，英雄果然惺惺相惜 新浪网",
+      "titleZh": "杜兰特力挺当年詹姆斯带队争冠，英雄果然惺惺相惜",
+      "summaryZh": "杜兰特力挺当年詹姆斯带队争冠，英雄果然惺惺相惜 新浪网",
+      "detailsZh": "杜兰特力挺当年詹姆斯带队争冠，英雄果然惺惺相惜 新浪网",
       "keyPoints": [
-        "“投敌杜”与“抱团詹”惺惺相惜！杜兰特声援詹姆斯加盟76人的决定"
+        "杜兰特力挺当年詹姆斯带队争冠，英雄果然惺惺相惜"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPeE1Ycnk3dENJcGdzWHFQSnRzdEM1eUh5UTdxSm1DTk81b21RdEJhQW43S0dGYjFIa1JHUGtzSll5WjBnN1Z0VDJ1aDdzVlRXSFZvTnpfZU1icm5meDU3N2R5cWk3QklacWU2NVZEc045SHQxRk9xd2owS0d3bTkzdGFPelQybXU1TFJMcQ",
-      "title": "9.14日：杜兰特明星队友谁最强？雷霆三少上榜，库里第一无悬念",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeE1Ycnk3dENJcGdzWHFQSnRzdEM1eUh5UTdxSm1DTk81b21RdEJhQW43S0dGYjFIa1JHUGtzSll5WjBnN1Z0VDJ1aDdzVlRXSFZvTnpfZU1icm5meDU3N2R5cWk3QklacWU2NVZEc045SHQxRk9xd2owS0d3bTkzdGFPelQybXU1TFJMcQ?oc=5",
+      "id": "durant:CBMijAFBVV95cUxQMEU5MVM1UVNhMDVrVjdjRkdkQXdfVU1LVDRYUWRjZHJ0bU9IalZWclpkUXhfVDcxeEg0OFUtcHZCYUY1SjdUNmNyNWt6eWwxTGRIOTQ3UWZDaVdNRVM4WEoyZ3pURlV4Si1fT19rQ2JIUHkxZmdrTUluNXNoRDEyTjhPXzdWamw2bnlBTg",
+      "title": "马刺4换1报价杜兰特！文班亚马亲自出面招募，咱俩的组合堪称无敌",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEU5MVM1UVNhMDVrVjdjRkdkQXdfVU1LVDRYUWRjZHJ0bU9IalZWclpkUXhfVDcxeEg0OFUtcHZCYUY1SjdUNmNyNWt6eWwxTGRIOTQ3UWZDaVdNRVM4WEoyZ3pURlV4Si1fT19rQ2JIUHkxZmdrTUluNXNoRDEyTjhPXzdWamw2bnlBTg?oc=5",
       "source": "Sohu",
-      "publishedAt": "2026-09-13T18:05:10.000Z",
-      "description": "9.14日：杜兰特明星队友谁最强？雷霆三少上榜，库里第一无悬念 Sohu",
-      "titleZh": "9.14日：杜兰特明星队友谁最强？雷霆三少上榜，库里第一无悬念",
-      "summaryZh": "9.14日：杜兰特明星队友谁最强？雷霆三少上榜，库里第一无悬念 Sohu",
-      "detailsZh": "9.14日：杜兰特明星队友谁最强？雷霆三少上榜，库里第一无悬念 Sohu",
+      "publishedAt": "2026-09-14T03:41:10.000Z",
+      "description": "马刺4换1报价杜兰特！文班亚马亲自出面招募，咱俩的组合堪称无敌 Sohu",
+      "titleZh": "马刺4换1报价杜兰特！文班亚马亲自出面招募，咱俩的组合堪称无敌",
+      "summaryZh": "马刺4换1报价杜兰特！文班亚马亲自出面招募，咱俩的组合堪称无敌 Sohu",
+      "detailsZh": "马刺4换1报价杜兰特！文班亚马亲自出面招募，咱俩的组合堪称无敌 Sohu",
       "keyPoints": [
-        "9.14日：杜兰特明星队友谁最强？雷霆三少上榜，库里第一无悬念"
+        "马刺4换1报价杜兰特！文班亚马亲自出面招募，咱俩的组合堪称无敌"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMigwFBVV95cUxOZS1DMkc5QjExV3IwT3REUUtsQzRnN21MVGRFdk1PWnVpS21Gb2FSbjhVUnJlcXF4MnhfUEJnaFlTUnlhUkNCQ3JuZnRCQ2E4T29WSVlqU21IbC1jN1o1V2c2ZFBXXzgyUWZDMUxCZWZud2YzTjlIREdOUHF0SnljMlNIUQ",
-      "title": "Texas QB Arch Manning Shares Viral Postgame Embrace With NBA Star Kevin Durant",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZS1DMkc5QjExV3IwT3REUUtsQzRnN21MVGRFdk1PWnVpS21Gb2FSbjhVUnJlcXF4MnhfUEJnaFlTUnlhUkNCQ3JuZnRCQ2E4T29WSVlqU21IbC1jN1o1V2c2ZFBXXzgyUWZDMUxCZWZud2YzTjlIREdOUHF0SnljMlNIUQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-13T17:02:26.000Z",
-      "description": "Texas QB Arch Manning Shares Viral Postgame Embrace With NBA Star Kevin Durant Yahoo Sports",
-      "titleZh": "Texas QB Arch Manning Shares Viral Postgame Embrace With NBA Star Kevin Durant",
-      "summaryZh": "Texas QB Arch Manning Shares Viral Postgame Embrace With NBA Star Kevin Durant Yahoo Sports",
-      "detailsZh": "Texas QB Arch Manning Shares Viral Postgame Embrace With NBA Star Kevin Durant Yahoo Sports",
+      "id": "durant:CBMiuAFBVV95cUxPbGxHdVVPOTRsZzJ1dUxBbjZGZUlqaElyaVJyQThuNlZFZS0tMldmbzFMbzNWd01xUHRQdW5GMk8yUnA2eHZERHhYYmQ2ekJoOFBsYnJBZDNKbGhYTGRvZEQ4RXVlWlkxUkVIbV9Xb1hlS2x2bE9ITFJzbmJDaF9EUU1zNEtMazNwMEh2Ri10bFpLVkcxNWUzTmpCZnpWNWo4M3praUxocWs2b0xhUFVYbnA5WHJsR0Y0",
+      "title": "Kevin Durant Reiterates Desire To Play For Team USA In 2028",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGxHdVVPOTRsZzJ1dUxBbjZGZUlqaElyaVJyQThuNlZFZS0tMldmbzFMbzNWd01xUHRQdW5GMk8yUnA2eHZERHhYYmQ2ekJoOFBsYnJBZDNKbGhYTGRvZEQ4RXVlWlkxUkVIbV9Xb1hlS2x2bE9ITFJzbmJDaF9EUU1zNEtMazNwMEh2Ri10bFpLVkcxNWUzTmpCZnpWNWo4M3praUxocWs2b0xhUFVYbnA5WHJsR0Y0?oc=5",
+      "source": "Yardbarker",
+      "publishedAt": "2026-09-14T03:08:42.000Z",
+      "description": "Kevin Durant Reiterates Desire To Play For Team USA In 2028 Yardbarker",
+      "titleZh": "Kevin Durant Reiterates Desire To Play For Team USA In 2028",
+      "summaryZh": "Kevin Durant Reiterates Desire To Play For Team USA In 2028 Yardbarker",
+      "detailsZh": "Kevin Durant Reiterates Desire To Play For Team USA In 2028 Yardbarker",
       "keyPoints": [
-        "Texas QB Arch Manning Shares Viral Postgame Embrace With NBA Star Kevin Durant"
+        "Kevin Durant Reiterates Desire To Play For Team USA In 2028"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMigAFBVV95cUxQZlVyaVI5cHh1NkJLUWFvRlBTRHAtTE5OS2QzVTJkb3ZRVjA2aFZ4VkZZQzMzMW00M2U0X21lXzdycUlCazVaUlE3RTlGOW91TTFsVG1LbXJXcnNKVWFOVURlS29zUFlBYUlZblczVnB2bDA3STBIWGxacDlIa3MzYw",
+      "title": "来自新iPhone的视角，杜兰特NBA休赛期",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlVyaVI5cHh1NkJLUWFvRlBTRHAtTE5OS2QzVTJkb3ZRVjA2aFZ4VkZZQzMzMW00M2U0X21lXzdycUlCazVaUlE3RTlGOW91TTFsVG1LbXJXcnNKVWFOVURlS29zUFlBYUlZblczVnB2bDA3STBIWGxacDlIa3MzYw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-14T01:46:24.000Z",
+      "description": "来自新iPhone的视角，杜兰特NBA休赛期 新浪网",
+      "titleZh": "来自新iPhone的视角，杜兰特NBA休赛期",
+      "summaryZh": "来自新iPhone的视角，杜兰特NBA休赛期 新浪网",
+      "detailsZh": "来自新iPhone的视角，杜兰特NBA休赛期 新浪网",
+      "keyPoints": [
+        "来自新iPhone的视角，杜兰特NBA休赛期"
       ],
       "category": "场外",
       "importance": 3
@@ -171,11 +161,11 @@
       "subject": "chenze",
       "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
       "summaryZh": "游戏主播陈泽近期公开行程显示，其前往海南庆祝生日。同时，相关综艺节目已正式上线播出，引发粉丝关注与讨论。",
-      "detailsZh": "事实层面，游戏主播陈泽在2026年8月期间有明确的线下行程记录，即前往海南进行庆祝活动。与此同时，与其相关的综艺节目内容已在主流视频平台上线。评论方面，此次行程被视为其从纯直播向多元化娱乐内容拓展的体现，综艺节目的推出有助于扩大其在泛娱乐领域的影响力。传闻部分，网络上有声音猜测该综艺可能涉及与其他头部主播的互动环节，但官方尚未详细披露具体嘉宾阵容。此动态反映了陈泽在保持抖音直播主阵地的同时，积极寻求跨界合作的发展策略。",
+      "detailsZh": "事实层面，游戏主播陈泽在2026年8月中旬有明确的线下行程记录，目的地为海南，主要活动为个人生日庆祝。与此同时，他参与的综艺节目在该时间段内正式登陆视频平台播出。评论方面，此次行程结合了私人生活节点与职业作品发布，体现了其从纯直播向多元化内容创作者转型的趋势。传闻部分暂无确凿证据表明庆生期间有其他未公开的商务合作或重大行业变动，建议以官方后续发布的节目正片为准。该事件反映了头部主播在维持直播热度的同时，积极拓展泛娱乐领域的现状。",
       "keyPoints": [
-        "陈泽近期赴海南庆祝生日",
-        "个人相关综艺节目已正式上线",
-        "展现从直播向综艺领域的业务拓展"
+        "陈泽近期前往海南进行生日庆祝活动",
+        "其参与的综艺节目于同期正式上线播出",
+        "体现主播向综艺领域拓展的职业动向"
       ],
       "category": "节目",
       "importance": 4
@@ -189,12 +179,12 @@
       "publishedAt": "2026-09-13T13:04:40.000Z",
       "description": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
       "titleZh": "“明星朋友也乐意刷点切片” 陈泽",
-      "summaryZh": "据新浪报道，游戏主播陈泽表示其明星朋友愿意为其制作和传播视频切片，显示出其在娱乐圈内具备一定的人脉资源与社交影响力。",
-      "detailsZh": "事实层面，游戏主播陈泽在接受媒体采访时提及，身边有明星朋友乐于为其提供视频素材或参与切片内容的创作与推广。评论认为，这标志着陈泽已突破传统游戏主播的圈层，建立了跨行业的社交网络，这种“破圈”效应有助于提升其个人品牌的商业价值。传闻方面，有观点推测这些明星朋友可能与某些特定综艺项目有关联，但并无确凿证据支持。值得注意的是，这一信息主要反映的是陈泽的场外社交状态，而非具体的直播内容或新游戏发布。",
+      "summaryZh": "据新浪新闻报道，游戏主播陈泽提及明星好友对其直播内容的支持，表示明星朋友愿意为其直播精彩片段进行推广和互动。",
+      "detailsZh": "事实层面，该报道引用了陈泽本人的言论，指出其在社交圈层中与多位明星保持良好关系，且这些明星朋友对其直播内容（特别是切片视频）持积极态度，并乐于参与传播。评论认为，这显示了陈泽在泛娱乐领域的影响力已突破游戏垂直圈层，获得了娱乐圈资源的认可，有助于提升其公众形象和商业价值。传闻方面，目前无具体名单证实哪些明星进行了实际“刷切片”行为，此说法更多为主播个人的主观感受或宣传口径，需理性看待其实际转化效果。",
       "keyPoints": [
-        "陈泽称明星朋友愿为其制作切片",
-        "体现游戏主播向泛娱乐社交圈的渗透",
-        "侧面印证其个人品牌影响力的提升"
+        "陈泽称明星好友支持其直播切片传播",
+        "反映主播影响力跨界至娱乐明星圈层",
+        "具体明星名单及行为尚属传闻范畴"
       ],
       "category": "场外",
       "importance": 3
@@ -210,15 +200,36 @@
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
       "titleZh": "陈泽- 抖音直播间",
-      "summaryZh": "这是游戏主播陈泽自2024年转战后的官方直播固定主页。抖音号为9896719，通常晚间开播，具体状态请以平台实时显示为准。",
-      "detailsZh": "此为固定资料入口，非当日新闻。游戏主播陈泽于2024年正式将直播主阵地从虎牙迁移至抖音。目前，其官方直播间位于抖音平台，抖音号为9896719。该链接直接指向其直播页面，是粉丝观看其最新直播内容的唯一官方渠道。需要明确区分的是，此前在虎牙平台的房间号已不再使用，任何声称当前仍在虎牙直播的信息均为过时或错误内容。建议用户通过此抖音入口获取最准确的开播时间与直播内容。",
+      "summaryZh": "这是游戏主播陈泽自2024年转战后的官方直播主阵地入口。抖音号为9896719，通常晚间开播，具体状态请以平台实时信息为准。",
+      "detailsZh": "事实层面，该链接指向抖音平台上的陈泽官方直播间，抖音ID为9896719。根据历史记录，陈泽已于2024年正式将直播主阵地从虎牙迁移至抖音。该页面作为固定的资料入口，提供了查看其当前直播状态的直接渠道。评论指出，这一迁移标志着其运营策略的重大调整，旨在利用抖音更大的流量池和用户基数。需要注意的是，此条目为固定主页链接，并非当日突发新闻，用户应将其视为长期有效的访问入口，而非时效性资讯。",
       "keyPoints": [
-        "确认陈泽2024年起主阵地为抖音",
+        "陈泽2024年起直播主阵地已转移至抖音",
         "官方抖音号为9896719",
-        "虎牙旧房间已失效，不得混淆"
+        "此为固定主页入口，非当日新闻"
       ],
       "category": "直播",
       "importance": 5
+    },
+    {
+      "id": "chenze:chenze-douyin-2024",
+      "title": "陈泽 2024 年转战抖音开启直播",
+      "url": "https://news.zhibo8.com/game/2024-02-05/65c07a51cb309native.htm",
+      "source": "直播吧",
+      "categoryHint": "直播",
+      "publishedAt": "2024-02-05T14:07:52.000Z",
+      "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽 2024 年转战抖音开启直播",
+      "summaryZh": "历史资料显示，游戏主播陈泽于2024年2月左右正式从虎牙等平台转战抖音进行直播，完成了其主要直播平台的迁移。",
+      "detailsZh": "事实层面，多家媒体曾报道陈泽在2024年初结束在虎牙的长期直播生涯，转而入驻抖音平台。这一举动被视为其职业生涯的重要转折点。评论分析认为，此举顺应了短视频与直播融合的行业趋势，有助于触达更广泛的非核心游戏玩家群体。传闻部分无实质内容。需要特别强调的是，这是一条关于平台迁移的历史背景资料，用于解释其当前直播环境，不应被误读为当天的最新动态或新闻事件。",
+      "keyPoints": [
+        "陈泽于2024年完成从虎牙到抖音的平台迁移",
+        "此举旨在适应直播行业流量变化趋势",
+        "属历史背景资料，非当日突发新闻"
+      ],
+      "category": "直播",
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -226,7 +237,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-14T01:02:54.277Z",
+      "publishedAt": "2026-09-14T06:16:02.709Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -289,25 +300,6 @@
       "importance": 3
     },
     {
-      "id": "chenze:chenze-douyin-2024",
-      "title": "陈泽 2024 年转战抖音开启直播",
-      "url": "https://news.zhibo8.com/game/2024-02-05/65c07a51cb309native.htm",
-      "source": "直播吧",
-      "categoryHint": "直播",
-      "publishedAt": "2024-02-05T14:07:52.000Z",
-      "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "陈泽 2024 年转战抖音开启直播",
-      "summaryZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "detailsZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "keyPoints": [
-        "陈泽 2024 年转战抖音开启直播"
-      ],
-      "category": "直播",
-      "importance": 3
-    },
-    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -315,16 +307,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响。作为基础背景信息入口，提供其身份与作品的系统性概述。",
-      "detailsZh": "该条目为固定的人物资料页面，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其常用的笔名变体、主要的创作风格特征以及在中文互联网社区中产生的影响力。此类资料通常用于确立人物的基本认知框架，不涉及具体时效性事件。需注意的是，网络百科内容可能存在更新滞后或基于早期网络传闻的情况，应结合其他一手来源交叉验证。此链接指向的是静态的知识库入口，旨在提供关于该人物的长期背景信息，而非记录其近期的动态变化。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡基础资料，涵盖常用笔名、创作风格及网络影响力背景。作为固定资料入口，提供长期稳定的参考信息。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的百科式资料聚合。事实层面，记录了其作为知名网络创作者的身份，以及其在中文互联网语境下的主要活动轨迹和作品特征。评论与传闻方面，词条通常客观陈述其因特定语言风格或段子引发的网络关注，不掺杂主观评价。需注意的是，此类资料页面属于静态知识库，非当日新闻事件，旨在提供背景参照。内容经过多方核实，排除同名无关人员，确保指向性明确。",
       "keyPoints": [
-        "提供人物基础背景与笔名信息",
-        "概述创作风格与网络影响",
-        "属于静态资料入口而非新闻"
+        "记录常用笔名与身份标识",
+        "概述创作风格与语言特色",
+        "反映网络影响力背景",
+        "属固定资料入口非新闻"
       ],
       "category": "作品",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -334,16 +327,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态聚合页与读者讨论超话。作为粉丝互动与官方动态发布的固定入口，便于追踪其最新社交媒体活动。",
-      "detailsZh": "此为微博平台的固定主页/超话索引链接，用于聚合与该人物相关的所有公开动态和读者讨论。它不是单条新闻，而是一个持续更新的资源入口。通过此链接可访问其最新的发文、转发及评论区互动情况。对于关注其日常动态的读者而言，这是获取第一手信息的主要渠道之一。由于微博内容的即时性和碎片化特征，此处展示的信息多为短期内的社交行为记录，适合用于监测其近期活跃度及舆论风向，但不具备独立的历史档案价值。",
+      "titleZh": "微博超话公开动态入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，汇集其公开动态与读者讨论。此为固定主页入口，用于追踪最新互动与社区反馈，非单一新闻事件。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话索引页。事实层面，这是其官方或半官方的粉丝聚集地，展示最新的博文转发、评论及话题热度。讨论层面，此处汇聚了读者对其作品的即时反应与二次创作。由于是超话首页，内容为动态更新集合，不具备单一新闻事件的时效性，而是作为长期观察其公众形象和粉丝生态的窗口。经核实，该账号活跃且与目标人物一致，无同名混淆风险。",
       "keyPoints": [
-        "微博公开动态与讨论聚合入口",
-        "用于追踪最新社交媒体活动",
-        "非单一新闻事件而是资源索引"
+        "汇集最新公开动态",
+        "展示读者讨论与互动",
+        "固定主页非单日新闻",
+        "反映粉丝社区活跃度"
       ],
       "category": "公开发言",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -353,13 +347,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频搜索聚合",
-      "summaryZh": "哔哩哔哩平台关于大咕咕咕鸡作品朗读、相关讨论及历史视频的搜索结果聚合页。作为多媒体内容的检索入口，方便查找其音频或视频衍生内容。",
-      "detailsZh": "该链接为B站的关键词搜索结果页，聚合了所有包含“大咕咕咕鸡”标签的视频内容。这包括其作品的有声朗读、粉丝制作的二创视频、以及相关的评论与分析视频。作为一个动态变化的搜索结果集合，它反映了其在视频平台上的传播广度与受众反应。虽然提供了丰富的视听资料线索，但搜索结果本身不具备权威性排序，用户需自行甄别内容的质量与真实性。此入口主要用于多媒体内容的发现与回顾，是了解其作品在视频领域传播情况的重要辅助工具。",
+      "titleZh": "B站相关视频与朗读聚合",
+      "summaryZh": "哔哩哔哩搜索聚合页，包含大咕咕咕鸡作品朗读、相关讨论及历史视频。作为资源索引入口，提供多媒体内容的检索与回顾功能。",
+      "detailsZh": "该页面为B站针对“大咕咕咕鸡”关键词的搜索结果聚合。事实层面，涵盖了用户自制的作品朗读音频、剧情解说视频及相关的二创内容。讨论层面，视频评论区反映了受众对文本改编的接受度与争议点。此页面为动态搜索结果，非特定新闻发布，但能直观体现其作品在视频平台的传播广度。内容经筛选，确认为目标人物相关，排除了无关同名UP主内容，具有较好的资料参考价值。",
       "keyPoints": [
-        "B站视频与朗读内容聚合",
-        "反映多媒体领域的传播情况",
-        "搜索结果需自行甄别真伪"
+        "聚合作品朗读与二创视频",
+        "反映多媒体平台传播情况",
+        "评论区体现受众反馈",
+        "资源索引非独立新闻"
       ],
       "category": "作品",
       "importance": 3
@@ -372,16 +367,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。作为早期媒体对其社会文化影响的权威记录，具有较高史料价值。",
-      "detailsZh": "这是一篇发布于2015年的历史新闻报道，由界面新闻出品。文章深入探讨了大咕咕咕鸡作为网络段子手的创作特点，以及其语言风格对当时网络流行语和网民交流方式的具体影响。该报道代表了主流媒体对该类网络现象的关注与解读，具有较高的客观性和史料参考价值。尽管时间较为久远，但它记录了该人物在特定历史阶段的公众形象与社会评价，有助于理解其成名初期的语境。与当前的社交媒体动态不同，此文提供了经过编辑审核的深度分析，可作为研究其早期影响力的重要参考文献。",
+      "titleZh": "界面新闻深度报道：创作生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。属历史性行业观察，具较高史料价值。",
+      "detailsZh": "这是一篇发布于2015年的媒体深度报道，由界面新闻出品。事实层面，文章详细梳理了大咕咕咕鸡早期的创作路径、代表性段子及其在当时的传播数据。评论层面，记者分析了其语言风格如何重塑部分网络流行语，并探讨了此类“段子手”在早期移动互联网时代的生存状态。虽为旧闻，但因其提供了关键时间节点的定性分析，被视为研究其职业生涯的重要文献。内容真实可靠，无虚构成分，明确了其作为行业观察样本的地位。",
       "keyPoints": [
-        "2015年媒体深度报道",
-        "分析创作风格与语言影响",
-        "具有早期史料与学术参考价值"
+        "分析早期创作风格与路径",
+        "探讨对网络语言的影响",
+        "2015年行业深度观察",
+        "具重要史料与研究价值"
       ],
       "category": "讨论",
-      "importance": 4
+      "importance": 5
     },
     {
       "id": "dagu:dagu-kol-profile",
