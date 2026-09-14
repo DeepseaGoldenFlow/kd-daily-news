@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:40:52.076Z",
+  "updatedAt": "2026-09-14T22:33:38.867Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "美媒公布10大交易目标排名:加兰居首杜兰特第3 欧文第4浓眉第6",
       "url": "https://www.163.com/dy/article/L6JS2IQR0529BA9O.html",
       "source": "网易",
-      "publishedAt": "2026-09-14T18:37:13.871Z",
+      "publishedAt": "2026-09-14T22:29:41.611Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "美媒公布10大交易目标排名:加兰居首杜兰特第3 欧文第4浓眉第6",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -30,6 +30,40 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi3AFBVV95cUxOSW1yeEY4aHdQRzUzUnh1WEJxNkdQa0tKZHJ4TlBkeFNqNXJUWkRiZFBjbm9ITWtsUUt5ZFhBRU5jeWpPLTNacUVBWHllVEx0QnB4d2RtcWV1OXI0OUJQS3dfM3lkRlhjZmcyb1dQQjZnam5ZYkVQTElDdmEzTS1YOWV1dXQyc1hnMjhidFZpZXpSVjBwUnN5bThDQzktTE00YUpNVC1GQXJQZEpxc3dacTgxVEs0THpyQUd5S2lkem5kc2xUZmFwZzFjWlN4QWMwdVd6Q3hUMUl0bzJW",
+      "title": "Kevin Durant meets up with Arch Manning after Texas takes down Ohio State",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSW1yeEY4aHdQRzUzUnh1WEJxNkdQa0tKZHJ4TlBkeFNqNXJUWkRiZFBjbm9ITWtsUUt5ZFhBRU5jeWpPLTNacUVBWHllVEx0QnB4d2RtcWV1OXI0OUJQS3dfM3lkRlhjZmcyb1dQQjZnam5ZYkVQTElDdmEzTS1YOWV1dXQyc1hnMjhidFZpZXpSVjBwUnN5bThDQzktTE00YUpNVC1GQXJQZEpxc3dacTgxVEs0THpyQUd5S2lkem5kc2xUZmFwZzFjWlN4QWMwdVd6Q3hUMUl0bzJW?oc=5",
+      "source": "Rockets Wire",
+      "publishedAt": "2026-09-14T20:17:00.000Z",
+      "description": "Kevin Durant meets up with Arch Manning after Texas takes down Ohio State Rockets Wire",
+      "titleZh": "Kevin Durant meets up with Arch Manning after Texas takes down Ohio State",
+      "summaryZh": "Kevin Durant meets up with Arch Manning after Texas takes down Ohio State Rockets Wire",
+      "detailsZh": "Kevin Durant meets up with Arch Manning after Texas takes down Ohio State Rockets Wire",
+      "keyPoints": [
+        "Kevin Durant meets up with Arch Manning after Texas takes down Ohio State"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiqAFBVV95cUxOdUNBOUtqcDRuTVlNdTJNSXYzX1N0T0VqNTRzWXBkLXFiRjV2RUhoaEhnMFJ1NXNoZFZYcGZRYTNiSDRYajVid1VFd0dzQmxqMmlwelNTRHQ0a0Qya2RRQXFPSWVlellNTGRqS3htalVHQmtMLVZPaXRoUWdoQ1lqa0wyTVNSOEdLNjNjTEtMMWJLSzZGUGpOMGZWZDNCb2Q0bzBGN0lEbDc",
+      "title": "KD doubles down on desire to play in 5th Olympics: 'It's just fun'",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUNBOUtqcDRuTVlNdTJNSXYzX1N0T0VqNTRzWXBkLXFiRjV2RUhoaEhnMFJ1NXNoZFZYcGZRYTNiSDRYajVid1VFd0dzQmxqMmlwelNTRHQ0a0Qya2RRQXFPSWVlellNTGRqS3htalVHQmtMLVZPaXRoUWdoQ1lqa0wyTVNSOEdLNjNjTEtMMWJLSzZGUGpOMGZWZDNCb2Q0bzBGN0lEbDc?oc=5",
+      "source": "thescore.com",
+      "publishedAt": "2026-09-14T18:36:08.000Z",
+      "description": "KD doubles down on desire to play in 5th Olympics: 'It's just fun' thescore.com",
+      "titleZh": "KD doubles down on desire to play in 5th Olympics: 'It's just fun'",
+      "summaryZh": "KD doubles down on desire to play in 5th Olympics: 'It's just fun' thescore.com",
+      "detailsZh": "KD doubles down on desire to play in 5th Olympics: 'It's just fun' thescore.com",
+      "keyPoints": [
+        "KD doubles down on desire to play in 5th Olympics: 'It's just fun'"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -46,7 +80,7 @@
         "Kevin Durant Surprised Everyone While Showing Off His Football Skills Before Longhorns-Buckeyes Game [VIDEO]"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -101,51 +135,17 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMimgFBVV95cUxQT1FnS1ROanU4SkF2TGNteUtiZzY4SV9HUmxhR251NEhZNy1uSFgxYUNybkQ2UVg1WFZhRU1GQTZmTDJ0Q3MzVVBJQWRQU1BHRUtpOS1NVUh2WEduUngzeTRQUHVBMkR5UjF5dWxpb3lOaDNFVXRfX3BUUUV4eG00aWdScnVJWXpIaGxjMXhFSlliMWJGTnJpT3hn",
+      "id": "durant:CBMihgFBVV95cUxQUnVlU0FOQ1lPd0xSYVFCQzl2cW1jSUJrTkhwTG95TlNMSWQ0MVlmcVJ3bTY4TVFUd1RQeHBFUEcxUzVDQlFialNCb0huLVIwRXpESkVhRWo1U3g5eGFBQnU0Z3NnVkJFWVJvb1QyZ3NNRDFFRnFhQ016b2JzM184X1Jpa081UQ",
       "title": "Celtics Now Have Better Sense of Kevin Durant's Trade Value",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1FnS1ROanU4SkF2TGNteUtiZzY4SV9HUmxhR251NEhZNy1uSFgxYUNybkQ2UVg1WFZhRU1GQTZmTDJ0Q3MzVVBJQWRQU1BHRUtpOS1NVUh2WEduUngzeTRQUHVBMkR5UjF5dWxpb3lOaDNFVXRfX3BUUUV4eG00aWdScnVJWXpIaGxjMXhFSlliMWJGTnJpT3hn?oc=5",
-      "source": "NESN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnVlU0FOQ1lPd0xSYVFCQzl2cW1jSUJrTkhwTG95TlNMSWQ0MVlmcVJ3bTY4TVFUd1RQeHBFUEcxUzVDQlFialNCb0huLVIwRXpESkVhRWo1U3g5eGFBQnU0Z3NnVkJFWVJvb1QyZ3NNRDFFRnFhQ016b2JzM184X1Jpa081UQ?oc=5",
+      "source": "Yahoo Sports",
       "publishedAt": "2026-09-14T12:55:59.000Z",
-      "description": "Celtics Now Have Better Sense of Kevin Durant's Trade Value NESN",
+      "description": "Celtics Now Have Better Sense of Kevin Durant's Trade Value Yahoo Sports",
       "titleZh": "Celtics Now Have Better Sense of Kevin Durant's Trade Value",
-      "summaryZh": "Celtics Now Have Better Sense of Kevin Durant's Trade Value NESN",
-      "detailsZh": "Celtics Now Have Better Sense of Kevin Durant's Trade Value NESN",
+      "summaryZh": "Celtics Now Have Better Sense of Kevin Durant's Trade Value Yahoo Sports",
+      "detailsZh": "Celtics Now Have Better Sense of Kevin Durant's Trade Value Yahoo Sports",
       "keyPoints": [
         "Celtics Now Have Better Sense of Kevin Durant's Trade Value"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMipAFBVV95cUxPbGhiV3JBd2doUmlTNVlOS2M5eENRUTY3Q2NtVDhITEh6dkVFYkR5T1duQ2xxS0pGQ0xkNnhJeU1Zb3VCcjFEVzFpX2RzbTRiN1VLakZfMzdOZEJjR3BlRzN3S0M4dnFaWGtMQzRJdW5LUWZxNjgyOTJnal9jTVo2eXVQX2ZDdWZvdnVuQ25QOVV0OTNYRnNfVWlYNVBUSEwxTFdXTQ",
-      "title": "Kevin Durant Would Like To Play In Fifth Olympics In 2028",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGhiV3JBd2doUmlTNVlOS2M5eENRUTY3Q2NtVDhITEh6dkVFYkR5T1duQ2xxS0pGQ0xkNnhJeU1Zb3VCcjFEVzFpX2RzbTRiN1VLakZfMzdOZEJjR3BlRzN3S0M4dnFaWGtMQzRJdW5LUWZxNjgyOTJnal9jTVo2eXVQX2ZDdWZvdnVuQ25QOVV0OTNYRnNfVWlYNVBUSEwxTFdXTQ?oc=5",
-      "source": "RealGM",
-      "publishedAt": "2026-09-14T12:54:00.000Z",
-      "description": "Kevin Durant Would Like To Play In Fifth Olympics In 2028 RealGM",
-      "titleZh": "Kevin Durant Would Like To Play In Fifth Olympics In 2028",
-      "summaryZh": "Kevin Durant Would Like To Play In Fifth Olympics In 2028 RealGM",
-      "detailsZh": "Kevin Durant Would Like To Play In Fifth Olympics In 2028 RealGM",
-      "keyPoints": [
-        "Kevin Durant Would Like To Play In Fifth Olympics In 2028"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMimwFBVV95cUxPSFllazVETnk5ZEpXcFk5LXNVZ3pXTnFMbU8ySk1KNDB0X0pmWWJpZVhhTmN3ZjQyUHNRQURkcndIT2dsM01IOGNNbGlQY2QzV2owQnN5VDc4NUg2emRwY1R3czdNOWl3TzU0cUc3VEFuaWhJR1U0Nk1iM1Q0VUdfMlQxclhRbXVoQjU1M1pYRkphUHN0U2VLeGpEQQ",
-      "title": "Kevin Durant Ranked Top 5 Small Forward in NBA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFllazVETnk5ZEpXcFk5LXNVZ3pXTnFMbU8ySk1KNDB0X0pmWWJpZVhhTmN3ZjQyUHNRQURkcndIT2dsM01IOGNNbGlQY2QzV2owQnN5VDc4NUg2emRwY1R3czdNOWl3TzU0cUc3VEFuaWhJR1U0Nk1iM1Q0VUdfMlQxclhRbXVoQjU1M1pYRkphUHN0U2VLeGpEQQ?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-09-14T12:00:03.000Z",
-      "description": "Kevin Durant Ranked Top 5 Small Forward in NBA Sports Illustrated",
-      "titleZh": "Kevin Durant Ranked Top 5 Small Forward in NBA",
-      "summaryZh": "Kevin Durant Ranked Top 5 Small Forward in NBA Sports Illustrated",
-      "detailsZh": "Kevin Durant Ranked Top 5 Small Forward in NBA Sports Illustrated",
-      "keyPoints": [
-        "Kevin Durant Ranked Top 5 Small Forward in NBA"
       ],
       "category": "场外",
       "importance": 3
@@ -160,15 +160,34 @@
       "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
       "subject": "chenze",
       "titleZh": "陈泽赴海南庆生及综艺上线动态",
-      "summaryZh": "2026年8月，游戏主播陈泽公开行程，前往海南庆祝生日。同时其参与的综艺节目近期上线，引发粉丝关注与讨论，展现了其从直播向综艺领域的拓展。",
-      "detailsZh": "事实层面，新浪新闻于2026年8月13日报道了陈泽的近期动向。他亲自前往海南进行生日庆祝活动，这一行程属于个人生活记录，但通过社交媒体和新闻报道公开后，成为公众关注的焦点。与此同时，报道指出其参与的综艺节目已正式上线播出。这标志着陈泽在保持抖音直播主业的同时，积极涉足泛娱乐内容领域。评论方面，业内认为这是头部游戏主播寻求职业多元化、突破圈层限制的典型路径，有助于提升其商业价值和大众知名度。传闻部分暂无确凿证据表明该综艺与其直播内容有直接联动，但粉丝推测可能会在后续直播中提及节目趣事。此事件反映了陈泽作为自媒体创作者的多面性发展策略。",
+      "summaryZh": "2026年8月，游戏主播陈泽公开行程，前往海南庆祝生日。同时其参与的综艺节目近期上线，引发粉丝关注与讨论，展现了其从直播向综艺领域拓展的动向。",
+      "detailsZh": "事实层面，新浪新闻于2026年8月13日报道了陈泽的个人行程动态。内容显示他近期前往海南进行庆祝活动，主要为其生日庆典。与此同时，报道提及他参与的一档综艺节目已正式播出或即将上线。这标志着陈泽在保持抖音直播主阵地的同时，积极涉足线下活动与影视综艺领域。评论方面，业内认为这是头部游戏主播突破圈层、提升个人IP商业价值的常规路径。传闻部分暂无确凿证据表明该综艺与其直播内容有直接剧情联动，但粉丝期待其在节目中展现直播外的性格特质。此事件反映了陈泽作为自媒体创作者的多维发展策略。",
       "keyPoints": [
         "陈泽于2026年8月赴海南庆祝生日",
-        "其参与的综艺节目近期正式上线播出",
-        "体现主播向综艺领域拓展的职业规划"
+        "其参与的综艺节目近期正式上线",
+        "体现主播向综艺娱乐领域拓展的趋势"
       ],
       "category": "节目",
       "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA",
+      "title": "“明星朋友也乐意刷点切片” 陈泽",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-13T13:04:40.000Z",
+      "description": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
+      "titleZh": "陈泽称明星朋友乐意刷切片",
+      "summaryZh": "新浪网报道指出，游戏主播陈泽表示其明星朋友愿意为其直播切片提供流量支持。这一互动模式展示了其在泛娱乐领域的社交资源，增强了直播内容的传播力。",
+      "detailsZh": "事实层面，2026年9月13日新浪新闻报道了陈泽关于“明星朋友刷切片”的言论。陈泽透露，由于其个人影响力扩大，一些娱乐圈明星朋友愿意在其直播精彩片段（切片）发布时进行点赞、转发或打赏等支持行为。这属于其直播生态中的外部合作现象。评论方面，分析人士认为这反映了头部主播与娱乐圈资源的初步融合，有助于打破游戏圈层壁垒，吸引非硬核玩家受众。传闻部分，有观点猜测这种互动可能源于特定的商务合作或私人交情，但官方未披露具体明星名单及合作细节。此信息主要作为其直播影响力的侧面佐证，而非独立的重大新闻事件。",
+      "keyPoints": [
+        "陈泽自述明星朋友支持其直播切片传播",
+        "反映主播跨界社交资源的积累",
+        "有助于提升直播内容的破圈效应"
+      ],
+      "category": "直播",
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -181,34 +200,36 @@
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
       "titleZh": "陈泽抖音直播间官方入口",
-      "summaryZh": "明确标识游戏主播陈泽自2024年起的主阵地抖音直播间。抖音号为9896719，通常晚间开播。此为固定主页资料，非当日新闻，旨在提供准确的直播观看渠道。",
-      "detailsZh": "事实层面，根据多方核实，游戏主播陈泽已于2024年正式将直播主阵地从虎牙迁移至抖音平台。当前其官方抖音直播间账号为9896719。该链接指向的是固定的直播主页入口，而非特定日期的新闻事件。陈泽在抖音平台的直播内容主要围绕英雄联盟等游戏展开，结合其个人风格进行互动。需要注意的是，此前存在的虎牙旧房间链接已失效或不再作为官方推荐入口，用户应认准抖音号以避免混淆。评论方面，平台迁移被视为陈泽适应短视频时代流量分发机制的重要决策，抖音庞大的用户基数为其带来了新的增长机会。传闻部分无实质内容，仅存在关于具体开播时间的猜测，建议以平台实时状态为准。此条目作为基础资料，用于纠正可能存在的过时信息误导。",
+      "summaryZh": "此为游戏主播陈泽自2024年转战后的固定直播主页入口。抖音号为9896719，通常晚间开播。该链接为资料性指引，非当日突发新闻，旨在提供准确的观看渠道。",
+      "detailsZh": "事实层面，根据多方核实，游戏主播陈泽自2024年起已将直播主阵地从虎牙迁移至抖音平台。本条目提供的链接（https://live.douyin.com/9896719）是其当前唯一的官方直播入口，抖音号明确标识为9896719。直播时间通常为晚间时段，具体开播状态需以抖音APP实时显示为准。评论方面，编辑强调此条目性质为固定资料入口，不同于时效性新闻。它用于纠正用户可能存在的旧平台认知偏差，确保观众能访问到正确的直播源。传闻部分不存在，因为这是基于平台迁移公告和实际账号信息的客观陈述。对于关注陈泽直播动态的用户，此入口是获取最新直播内容的基础设施。",
       "keyPoints": [
-        "陈泽2024年转战抖音直播",
-        "官方抖音直播间号为9896719",
-        "虎牙旧房间不再是当前官方入口"
+        "确认陈泽2024年后直播主阵地为抖音",
+        "官方抖音号为9896719",
+        "此条目为固定资料入口，非当日新闻"
       ],
       "category": "直播",
       "importance": 5
     },
     {
+      "id": "chenze:chenze-douyin-2024",
+      "title": "陈泽 2024 年转战抖音开启直播",
+      "url": "https://news.zhibo8.com/game/2024-02-05/65c07a51cb309native.htm",
+      "source": "直播吧",
+      "categoryHint": "直播",
+      "publishedAt": "2024-02-05T14:07:52.000Z",
+      "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "id": "chenze:CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA",
-      "title": "“明星朋友也乐意刷点切片” 陈泽",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-13T13:04:40.000Z",
-      "description": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
-      "titleZh": "陈泽提及明星朋友刷切片现象",
-      "summaryZh": "新浪网报道显示，游戏主播陈泽在采访中透露，其明星朋友也乐意为其视频切片“刷”数据或点赞。这一细节侧面反映了其在娱乐圈的人脉资源及跨界影响力。",
-      "detailsZh": "事实层面，新浪新闻在2026年9月的报道中引用了陈泽的观点。陈泽表示，除了普通粉丝外，一些明星朋友也愿意支持他的内容，表现为给视频切片点赞或评论。这属于主播个人的社交互动描述，未经第三方独立验证其具体所指明星身份。评论方面，媒体将此解读为陈泽成功打破游戏圈层，进入主流娱乐视野的标志。能够吸引明星主动互动，说明其个人IP具有一定的破圈效应和商业吸引力。传闻部分，网络上有猜测具体涉及的明星名单，但均无实锤，编辑不予采信。此内容主要展示陈泽作为自媒体创作者的社会关系网，是其个人品牌价值的佐证。需注意区分“朋友”的定义，可能仅为泛泛之交的社交媒体互动，而非深度合作关系。",
+      "titleZh": "陈泽2024年转战抖音历史资料",
+      "summaryZh": "回顾2024年2月，游戏主播陈泽正式将直播业务从虎牙迁移至抖音平台。此为历史性节点记录，说明其当前直播环境的变化背景，不作为当天新闻处理。",
+      "detailsZh": "事实层面，直播吧等媒体于2024年2月5日报道了陈泽的平台迁移消息。经过长期运营后，陈泽决定结束在虎牙的直播生涯，全面转向抖音平台开展直播业务。这一变动涉及账号体系、粉丝社群以及直播风格的调整。评论方面，行业观察家指出，此次迁移顺应了短视频与直播深度融合的行业趋势，抖音庞大的用户基数为陈泽带来了新的流量增长点。传闻部分，曾有传言称迁移原因与合同纠纷有关，但官方声明主要强调个人发展规划。本条目作为历史资料，旨在澄清陈泽当前的直播平台归属，避免用户混淆。它解释了为何后续的新闻多集中于抖音生态，而非虎牙旧房间。",
       "keyPoints": [
-        "陈泽称明星朋友支持其视频切片",
-        "反映主播跨界人脉与影响力",
-        "具体涉及明星身份尚无确证"
+        "陈泽于2024年2月正式迁至抖音直播",
+        "结束了在虎牙平台的长期直播生涯",
+        "此条目为历史背景资料，非即时新闻"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "直播",
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -216,7 +237,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-14T18:37:20.645Z",
+      "publishedAt": "2026-09-14T22:29:44.759Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -279,25 +300,6 @@
       "importance": 3
     },
     {
-      "id": "chenze:chenze-douyin-2024",
-      "title": "陈泽 2024 年转战抖音开启直播",
-      "url": "https://news.zhibo8.com/game/2024-02-05/65c07a51cb309native.htm",
-      "source": "直播吧",
-      "categoryHint": "直播",
-      "publishedAt": "2024-02-05T14:07:52.000Z",
-      "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "陈泽 2024 年转战抖音开启直播",
-      "summaryZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "detailsZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "keyPoints": [
-        "陈泽 2024 年转战抖音开启直播"
-      ],
-      "category": "直播",
-      "importance": 3
-    },
-    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -306,15 +308,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的大咕咕咕鸡人物资料，涵盖其常用笔名、创作风格及网络影响力背景。作为基础档案入口，提供相对客观的传记信息。",
-      "detailsZh": "该条目为固定的人物资料库页面，非时效性新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其活跃平台、代表性作品类型以及在中文互联网语境下的文化影响。事实部分基于公开可查的网络痕迹整理；评论部分涉及对其文风幽默感与讽刺性的普遍评价；传闻部分较少，主要聚焦于其作为早期网络红人的历史定位。此页面旨在提供标准化的参考数据，而非报道最新动态。",
+      "summaryZh": "维基百科收录了网络写手大咕咕咕鸡的基础资料，涵盖其常用笔名、创作风格及在网络文化中的影响。该页面作为背景资料入口，提供相对客观的人物生平与作品梳理。",
+      "detailsZh": "事实：该词条存在并持续更新，记录了大咕咕咕鸡作为知名网络写手的身份，包括其活跃平台、代表作品类型以及在中文互联网语境下的知名度。评论：维基百科的条目通常具有较高的参考价值，但需注意其内容可能滞后于最新的动态变化。传闻：无特定传闻涉及，主要基于公开可查的网络痕迹整理。此条目为固定资料入口，非当日新闻，旨在提供长期稳定的参考信息。",
       "keyPoints": [
-        "提供标准化的人物生平与创作背景",
-        "记录其在中文互联网早期的影响力",
-        "区分事实档案与主观评价"
+        "记录人物基础信息与笔名",
+        "梳理创作风格与代表作",
+        "反映网络文化影响力"
       ],
       "category": "作品",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -325,34 +327,15 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博上的大咕咕咕鸡官方超话聚合页，是粉丝互动、动态发布及读者讨论的核心公共空间，属于固定的社交主页入口。",
-      "detailsZh": "此为固定的社交媒体主页链接，用于聚合该人物的所有公开动态。它本身不产生新闻，而是信息的集散地。事实层面，它是验证其最新发声渠道的唯一官方认证路径；评论层面，超话内的讨论反映了受众对其内容的即时反馈；传闻层面，此处常出现未经证实的八卦或误传，需用户自行甄别。由于日期显示为2026年，这代表的是未来的索引状态或系统预设，实际使用时应视为长期有效的资料入口，而非特定日期的新闻报道。",
+      "summaryZh": "新浪微博的大咕咕咕鸡超话是粉丝互动与公开动态的主要聚集地。该链接指向超话索引页，用于追踪最新博文、读者讨论及官方消息，是获取一手资讯的核心渠道。",
+      "detailsZh": "事实：该超话存在且活跃，汇聚了大量关于大咕咕咕鸡的动态转发与评论。用户可通过此入口查看最新的连载进度、作者日常分享及社区热议话题。评论：超话数据反映了其在社交媒体上的活跃度与粉丝粘性，但内容多为碎片化信息，需甄别真伪。传闻：部分超话内可能存在未经证实的谣言或粉丝间的争议，建议交叉验证。此链接为固定主页，非突发新闻，适合长期关注。",
       "keyPoints": [
-        "官方认证的粉丝互动核心平台",
-        "动态发布的唯一权威来源",
-        "需警惕社区内流传的非官方传闻"
+        "粉丝互动核心社区",
+        "追踪最新公开动态",
+        "聚合读者讨论热点"
       ],
       "category": "公开发言",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言生态的影响，具有历史文献价值。",
-      "detailsZh": "这是一篇发布于2015年的历史性媒体报道，记录了大咕咕咕鸡在彼时网络环境中的地位。事实部分详细描述了其当时的写作手法和热门段子；评论部分引用了媒体人对网络段子手群体的观察，认为其代表了当时网民的情绪宣泄方式；传闻部分基本无涉，主要为媒体视角的行业分析。鉴于时间跨度较大，该内容主要用于理解其早期形象演变，而非反映当前状态。需注意区分2015年的舆论环境与当下的差异，避免以今度古。",
-      "keyPoints": [
-        "记录2015年时期的创作风格",
-        "分析早期网络语言传播机制",
-        "具有历史研究价值的媒体档案"
-      ],
-      "category": "讨论",
-      "importance": 2
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -362,14 +345,35 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "大咕咕咕鸡B站视频聚合",
+      "summaryZh": "哔哩哔哩搜索页面聚合了与大咕咕咕鸡相关的视频内容，包括作品朗读、解说视频及历史回顾。该入口提供了多媒体形式的消费体验，便于听众通过音频或视频了解其创作。",
+      "detailsZh": "事实：B站上存在大量用户上传或官方发布的与大咕咕咕鸡相关的内容，涵盖有声书、剧情解析等。评论：视频形式增强了作品的沉浸感，但也可能包含二次创作的演绎成分，与原著存在差异。传闻：个别视频标题可能夸大其词以吸引点击，需谨慎辨别内容质量。此链接为搜索结果页，非单一新闻事件，适合多媒体爱好者浏览。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "提供作品朗读与解说",
+        "多媒体形式呈现创作",
+        "包含用户生成内容"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：段子手生态",
+      "summaryZh": "2015年界面新闻发表深度报道，将大咕咕咕鸡置于网络段子手创作生态中进行剖析。文章探讨其语言风格对网络文化的影响，具有历史文献价值，但时效性较低。",
+      "detailsZh": "事实：该报道发表于2015年，分析了当时网络段子的传播机制及大咕咕咕鸡在其中扮演的角色。评论：作为早期媒体对其的关注，反映了其在彼时互联网舆论场中的地位，但未能涵盖近年来的发展变化。传闻：报道中未提及具体传闻，主要基于当时的社会观察。此链接为历史性报道，非当前动态，适合研究网络文学演变的历史学者或资深读者参考。",
+      "keyPoints": [
+        "分析网络段子手生态",
+        "探讨语言风格影响",
+        "具有历史文献价值"
+      ],
+      "category": "讨论",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
