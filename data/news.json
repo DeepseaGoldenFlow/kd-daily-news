@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T16:56:45.325Z",
+  "updatedAt": "2026-09-16T20:10:08.342Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,13 +20,30 @@
       "title": "NBA最新消息!休媒不满KD排杰威之后!建议追加兰组4巨 暗示火箭无交易阿杜计划 ",
       "url": "https://sports.sohu.com/a/1075147322_121924582",
       "source": "搜狐网",
-      "publishedAt": "2026-09-16T16:52:33.261Z",
+      "publishedAt": "2026-09-16T20:06:28.159Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "NBA最新消息!休媒不满KD排杰威之后!建议追加兰组4巨 暗示火箭无交易阿杜计划 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
         "NBA最新消息!休媒不满KD排杰威之后!建议追加兰组4巨 暗示火箭无交易阿杜计划 "
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi4gFBVV95cUxOSmRsRkVZbUswVmZiVXRFQnVJZFVmUUJvc0I3M29sLVZxR3AxLXhhWE9BYkY5b2o0QWRhTVZRWnNETmNfZGZsdkxRVkJ4RDYycjF6UlYyNHpQVWZmRk5COUdXMVFNUWx1ZnltXzI5cGFzS1dnQ1ZsRmxTWVdLcE16QXU1NlZoX3NQTlI2YjJNVnc3Ul85MWlqbmlqa25sangxdE9zSVl3MFBueW9uV1dkajd6RFFEbFVvVjFETlNhYXBsM0tSeUNmcXlIRlFHM0V1X0JyVWxhYTUzVmFRY3dwaW9R",
+      "title": "Lakers Urged to Target Kevin Durant as NBA Executive Reveals Rockets Star’s Trade Value",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSmRsRkVZbUswVmZiVXRFQnVJZFVmUUJvc0I3M29sLVZxR3AxLXhhWE9BYkY5b2o0QWRhTVZRWnNETmNfZGZsdkxRVkJ4RDYycjF6UlYyNHpQVWZmRk5COUdXMVFNUWx1ZnltXzI5cGFzS1dnQ1ZsRmxTWVdLcE16QXU1NlZoX3NQTlI2YjJNVnc3Ul85MWlqbmlqa25sangxdE9zSVl3MFBueW9uV1dkajd6RFFEbFVvVjFETlNhYXBsM0tSeUNmcXlIRlFHM0V1X0JyVWxhYTUzVmFRY3dwaW9R?oc=5",
+      "source": "essentiallysports.com",
+      "publishedAt": "2026-09-16T18:28:00.000Z",
+      "description": "Lakers Urged to Target Kevin Durant as NBA Executive Reveals Rockets Star’s Trade Value essentiallysports.com",
+      "titleZh": "Lakers Urged to Target Kevin Durant as NBA Executive Reveals Rockets Star’s Trade Value",
+      "summaryZh": "Lakers Urged to Target Kevin Durant as NBA Executive Reveals Rockets Star’s Trade Value essentiallysports.com",
+      "detailsZh": "Lakers Urged to Target Kevin Durant as NBA Executive Reveals Rockets Star’s Trade Value essentiallysports.com",
+      "keyPoints": [
+        "Lakers Urged to Target Kevin Durant as NBA Executive Reveals Rockets Star’s Trade Value"
       ],
       "category": "场外",
       "importance": 4
@@ -46,7 +63,7 @@
         "Ex-NBA Player Says Kawhi Leonard Is Way Better Than Kevin Durant"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -70,14 +87,31 @@
       "id": "durant:CBMitAFBVV95cUxNbzExOFdjVElyOGxQSXd6eXRRaDJxVGtUS01WaWFzRTNjWHQ0cnMtcDFUVUlZeFhvMUdTcHFINEtKS2YtZDQ4TEFUWGhxaGxyLWhPazlEQkVZMnRtZmE0SFlYdGZta3BlMzJFcW9LczRta0g5T0d6X2taNlByQ0k0RFh1ZURxOWVHUDIxUWZjQVR5dm5QWlRxa1BBV0ZYejl2UTdOS0VkV3BRT1daSUpEYXdBNnI",
       "title": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzExOFdjVElyOGxQSXd6eXRRaDJxVGtUS01WaWFzRTNjWHQ0cnMtcDFUVUlZeFhvMUdTcHFINEtKS2YtZDQ4TEFUWGhxaGxyLWhPazlEQkVZMnRtZmE0SFlYdGZta3BlMzJFcW9LczRta0g5T0d6X2taNlByQ0k0RFh1ZURxOWVHUDIxUWZjQVR5dm5QWlRxa1BBV0ZYejl2UTdOS0VkV3BRT1daSUpEYXdBNnI?oc=5",
-      "source": "bleacherreport.com",
+      "source": "Bleacher Report",
       "publishedAt": "2026-09-16T13:42:03.000Z",
-      "description": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo bleacherreport.com",
+      "description": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo Bleacher Report",
       "titleZh": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo",
-      "summaryZh": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo bleacherreport.com",
-      "detailsZh": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo bleacherreport.com",
+      "summaryZh": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo Bleacher Report",
+      "detailsZh": "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo Bleacher Report",
       "keyPoints": [
         "Kevin Durant Makes Cameo in Drake's 'FOMO' Short Film, Wears OVO Chain in Photo"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi-AFBVV95cUxNLVE4czlCY1d6VE1iTUozelhFbExNWTF6dlcxWWwwU29tdTlnLXI2dGlmaUhwcWFTQWk3UzAxUkVub2lXQ1N1Z2F2VmVPTHlpdnBTYnlldkU5Wk14dGd4aEJ6eDVoMUpFQ3FKM2VPdmctNHdaWm5BRXgtTldOZ1JaZ0JMN2ZWRFRvUUJWRjNVZ19lbUZQUHV4RUlKMzB4ckY4OEVuNlhkV29xX2dvV0xxaUFndWhMaFlsazdVcGtOYXhPOWhZc0dIdHVTeWZ0QTJLRWpRY1hjS0swdkhZdFJFMHdqNDJPWllfdC1qWUo3dktFbmhFWF9RQg",
+      "title": "\"He was dead in the water\" - Kevin Durant Disses Iman Shumpert In Deleted Post After Ex-LeBron James' Teammate Pins Two Rings on Warriors' KD",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLVE4czlCY1d6VE1iTUozelhFbExNWTF6dlcxWWwwU29tdTlnLXI2dGlmaUhwcWFTQWk3UzAxUkVub2lXQ1N1Z2F2VmVPTHlpdnBTYnlldkU5Wk14dGd4aEJ6eDVoMUpFQ3FKM2VPdmctNHdaWm5BRXgtTldOZ1JaZ0JMN2ZWRFRvUUJWRjNVZ19lbUZQUHV4RUlKMzB4ckY4OEVuNlhkV29xX2dvV0xxaUFndWhMaFlsazdVcGtOYXhPOWhZc0dIdHVTeWZ0QTJLRWpRY1hjS0swdkhZdFJFMHdqNDJPWllfdC1qWUo3dktFbmhFWF9RQg?oc=5",
+      "source": "Sportskeeda",
+      "publishedAt": "2026-09-16T13:12:00.000Z",
+      "description": "\"He was dead in the water\" - Kevin Durant Disses Iman Shumpert In Deleted Post After Ex-LeBron James' Teammate Pins Two Rings on Warriors' KD Sportskeeda",
+      "titleZh": "\"He was dead in the water\" - Kevin Durant Disses Iman Shumpert In Deleted Post After Ex-LeBron James' Teammate Pins Two Rings on Warriors' KD",
+      "summaryZh": "\"He was dead in the water\" - Kevin Durant Disses Iman Shumpert In Deleted Post After Ex-LeBron James' Teammate Pins Two Rings on Warriors' KD Sportskeeda",
+      "detailsZh": "\"He was dead in the water\" - Kevin Durant Disses Iman Shumpert In Deleted Post After Ex-LeBron James' Teammate Pins Two Rings on Warriors' KD Sportskeeda",
+      "keyPoints": [
+        "\"He was dead in the water\" - Kevin Durant Disses Iman Shumpert In Deleted Post After Ex-LeBron James' Teammate Pins Two Rings on Warriors' KD"
       ],
       "category": "场外",
       "importance": 3
@@ -104,12 +138,12 @@
       "id": "durant:CBMiqAFBVV95cUxPaVZKWVpTeWFPdmRwQ0lXWTFsTWFzc2NRZ2ctTzRDU3RybktlWVlSVlpRQUZKUG1iUlRBcmdEWXBXRXhvWVJrdklaWnRTNDNQbWdNeFdiYVlhb0hWaTVtZGRnd0NHYm5KVWQtNDlOUkluWUZNcWszRWk5RDFNcFdRcWd3MEctMTEydEZDUXJoRWR4XzlTSnd5blJDZFZIb0kwVGh6a2M1ZmI",
       "title": "Should Houston Trade Kevin Durant to the New York Knicks?",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVZKWVpTeWFPdmRwQ0lXWTFsTWFzc2NRZ2ctTzRDU3RybktlWVlSVlpRQUZKUG1iUlRBcmdEWXBXRXhvWVJrdklaWnRTNDNQbWdNeFdiYVlhb0hWaTVtZGRnd0NHYm5KVWQtNDlOUkluWUZNcWszRWk5RDFNcFdRcWd3MEctMTEydEZDUXJoRWR4XzlTSnd5blJDZFZIb0kwVGh6a2M1ZmI?oc=5",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "publishedAt": "2026-09-16T12:00:04.000Z",
-      "description": "Should Houston Trade Kevin Durant to the New York Knicks? Sports Illustrated",
+      "description": "Should Houston Trade Kevin Durant to the New York Knicks? si.com",
       "titleZh": "Should Houston Trade Kevin Durant to the New York Knicks?",
-      "summaryZh": "Should Houston Trade Kevin Durant to the New York Knicks? Sports Illustrated",
-      "detailsZh": "Should Houston Trade Kevin Durant to the New York Knicks? Sports Illustrated",
+      "summaryZh": "Should Houston Trade Kevin Durant to the New York Knicks? si.com",
+      "detailsZh": "Should Houston Trade Kevin Durant to the New York Knicks? si.com",
       "keyPoints": [
         "Should Houston Trade Kevin Durant to the New York Knicks?"
       ],
@@ -117,35 +151,40 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMi-gFBVV95cUxOa0FOUndLRENhTWlQaTZHaWhnLWNIS01ULVJNS19qdXRLcVFGbWJtbWtkaWNHTU51SjNNOF9iWlhyYXBVVlJJUlZsMVZkV0ZDbEZHSEVOY2o0ZFl6SFU1QmFUaGpvdFFDWmZtLUtuZVBnX2NPNFYzQVhTbTd5MnJZMlNjMUNreFI0bWJ2VjdNNF9DTnVWMHdSWjlUSlAyTUpsWmRWWW1KTjRVTEdwcXhqRmdaWmpMSWFDQzI1THVGal93NFZPUkdBZTA0dkV3OXlla1R5SmtQWlRVV3Zldmd6Tl9SMU4yTm5QRzBvYVpoSldEd3JTc1lIS3hR",
-      "title": "Iman Shumpert Labels Kevin Durant 'Petty' for Response to His Brutal Accusation: \"I Missed Out On Two Rings\"",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa0FOUndLRENhTWlQaTZHaWhnLWNIS01ULVJNS19qdXRLcVFGbWJtbWtkaWNHTU51SjNNOF9iWlhyYXBVVlJJUlZsMVZkV0ZDbEZHSEVOY2o0ZFl6SFU1QmFUaGpvdFFDWmZtLUtuZVBnX2NPNFYzQVhTbTd5MnJZMlNjMUNreFI0bWJ2VjdNNF9DTnVWMHdSWjlUSlAyTUpsWmRWWW1KTjRVTEdwcXhqRmdaWmpMSWFDQzI1THVGal93NFZPUkdBZTA0dkV3OXlla1R5SmtQWlRVV3Zldmd6Tl9SMU4yTm5QRzBvYVpoSldEd3JTc1lIS3hR?oc=5",
-      "source": "EssentiallySports",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "description": "Iman Shumpert Labels Kevin Durant 'Petty' for Response to His Brutal Accusation: \"I Missed Out On Two Rings\" EssentiallySports",
-      "titleZh": "Iman Shumpert Labels Kevin Durant 'Petty' for Response to His Brutal Accusation: \"I Missed Out On Two Rings\"",
-      "summaryZh": "Iman Shumpert Labels Kevin Durant 'Petty' for Response to His Brutal Accusation: \"I Missed Out On Two Rings\" EssentiallySports",
-      "detailsZh": "Iman Shumpert Labels Kevin Durant 'Petty' for Response to His Brutal Accusation: \"I Missed Out On Two Rings\" EssentiallySports",
+      "subject": "chenze",
+      "id": "chenze:CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA",
+      "title": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA?oc=5",
+      "source": "体坛加",
+      "publishedAt": "2026-09-15T18:24:55.000Z",
+      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
+      "titleZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
+      "summaryZh": "游戏主播陈泽的自制综艺《微星娱乐登录网址》第二季正式回归。该节目由原班人马打造，延续了之前的制作风格与内容形式，标志着其个人IP在视频内容领域的持续深耕与拓展。",
+      "detailsZh": "事实：陈泽推出的自制综艺节目《微星娱乐登录网址》宣布第二季上线，官方宣传强调“原班人马”回归。评论：这体现了陈泽从单一直播向多元化内容制作的转型，旨在通过固定栏目增强粉丝粘性。传闻：目前无确切消息表明该节目涉及重大商业赞助变动或核心团队成员流失，但具体播出平台及更新频率需以官方后续公告为准。此项目属于其场外内容创作的重要部分。",
       "keyPoints": [
-        "Iman Shumpert Labels Kevin Durant 'Petty' for Response to His Brutal Accusation: \"I Missed Out On Two Rings\""
+        "《微星娱乐登录网址》第二季正式上线",
+        "原班人马回归参与制作",
+        "体现主播向自制综艺转型"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "节目",
+      "importance": 4
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMiWEFVX3lxTE1kc0hjNUVFTDNWN3BjZjdGSGxVQm90UDlkMjFpc3BneTFaVWFoQkttRlFkMWwxS0REVWZVUTA5Q0Z4Q1ZKdl9kQl9uSXpRTWlYb0hjMlJrN0I",
-      "title": "30天30队：杜兰特联手申京阿门再冲冠 亚当斯成火箭最大X因素",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kc0hjNUVFTDNWN3BjZjdGSGxVQm90UDlkMjFpc3BneTFaVWFoQkttRlFkMWwxS0REVWZVUTA5Q0Z4Q1ZKdl9kQl9uSXpRTWlYb0hjMlJrN0I?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-09-16T10:34:14.000Z",
-      "description": "30天30队：杜兰特联手申京阿门再冲冠 亚当斯成火箭最大X因素 企鹅体育",
-      "titleZh": "30天30队：杜兰特联手申京阿门再冲冠 亚当斯成火箭最大X因素",
-      "summaryZh": "30天30队：杜兰特联手申京阿门再冲冠 亚当斯成火箭最大X因素 企鹅体育",
-      "detailsZh": "30天30队：杜兰特联手申京阿门再冲冠 亚当斯成火箭最大X因素 企鹅体育",
+      "id": "chenze:chenze-sina-20260813",
+      "title": "陈泽行程动态：赴海南庆生及综艺上线",
+      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
+      "source": "新浪新闻",
+      "categoryHint": "节目",
+      "publishedAt": "2026-08-13T20:20:54.000Z",
+      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "subject": "chenze",
+      "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
+      "summaryZh": "近期公开信息显示，游戏主播陈泽有赴海南庆祝生日的行程，同时其相关综艺节目处于上线阶段。这些动态反映了其线下活动与线上内容发布的同步节奏。",
+      "detailsZh": "事实：据新浪新闻等渠道报道，陈泽近期有前往海南的活动记录，主要关联其生日庆祝；同期其自制综艺《微星娱乐登录网址》正在推广或上线中。评论：此类行程通常伴随社交媒体互动和粉丝福利，是主播维护私域流量的一种方式。传闻：关于庆生活动的具体规模、出席人员及是否有未公开的商务合作，目前缺乏详细证实，建议以当事人官方账号发布为准。",
       "keyPoints": [
-        "30天30队：杜兰特联手申京阿门再冲冠 亚当斯成火箭最大X因素"
+        "陈泽近期有海南庆生行程",
+        "综艺上线与线下活动同步",
+        "具体活动细节待官方确认"
       ],
       "category": "场外",
       "importance": 3
@@ -160,55 +199,16 @@
       "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "陈泽抖音直播间官方入口说明",
-      "summaryZh": "明确游戏主播陈泽自2024年起的主播阵地已转移至抖音平台。该条目为固定主页及资料入口，非当日新闻，提供其抖音号及常规开播时间参考。",
-      "detailsZh": "事实：根据多方核实，游戏主播陈泽已于2024年正式从虎牙等平台转战抖音进行直播活动。当前其官方直播主阵地确认为抖音，抖音号为9896719。该页面作为固定的个人资料与直播入口存在，旨在方便粉丝关注。评论：这一迁移标志着其职业生涯进入新阶段，依托抖音庞大的用户基数拓展影响力。传闻：无确切证据表明其完全放弃其他平台内容分发，但直播重心已明确转移。注意：此条目属于静态资料索引，不具备时效性新闻特征，不得将其伪装成突发动态或最新行程报道。",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "这是游戏主播陈泽自2024年转战后的官方直播主阵地。抖音号为9896719。请注意，此为固定主页入口，非当日突发新闻，具体开播时间请以平台实时状态为准。",
+      "detailsZh": "事实：陈泽于2024年正式将直播主阵地迁移至抖音平台，抖音号为9896719。此前其在虎牙等平台的活动已成为历史资料。评论：这一迁移标志着其直播生涯的新阶段，抖音成为其获取流量和变现的核心渠道。传闻：无。注意：本条目为功能性资料入口，不代表任何特定日期的直播事件或新闻，请勿将其误读为当天动态。",
       "keyPoints": [
-        "2024年起直播主阵地转为抖音",
-        "抖音号为9896719",
-        "属固定资料入口，非当日新闻"
+        "2024年起抖音为主播阵地",
+        "抖音号：9896719",
+        "非当日新闻，系固定入口"
       ],
       "category": "直播",
       "importance": 5
-    },
-    {
-      "id": "chenze:chenze-sina-20260813",
-      "title": "陈泽行程动态：赴海南庆生及综艺上线",
-      "url": "https://www.sina.cn/news/detail/5331548391866612.html",
-      "source": "新浪新闻",
-      "categoryHint": "节目",
-      "publishedAt": "2026-08-13T20:20:54.000Z",
-      "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
-      "subject": "chenze",
-      "titleZh": "陈泽海南庆生及综艺上线动态",
-      "summaryZh": "新浪新闻报道陈泽近期行程包括赴海南庆祝生日，同时其参与的综艺节目即将上线。内容涵盖个人生活记录与职业项目进展，反映其线下活跃度。",
-      "detailsZh": "事实：据新浪新闻2026年8月13日报道，游戏主播陈泽近期有明确的公开行程，包括前往海南进行庆祝活动（庆生）。此外，报道提及他参与的某档综艺节目即将上线播出。评论：这表明陈泽在保持线上直播的同时，正积极拓展线下社交圈及影视综艺领域，试图打破单一游戏主播标签。传闻：关于庆生的具体参与人员及综艺节目的详细名称，网络上有多种猜测，但官方未逐一证实。需区分事实报道与粉丝推测，目前仅确认行程与节目上线意向属实。",
-      "keyPoints": [
-        "近期赴海南庆生",
-        "参与的综艺节目即将上线",
-        "展现线下活动与多栖发展"
-      ],
-      "category": "节目",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA",
-      "title": "“明星朋友也乐意刷点切片” 陈泽",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-13T13:04:40.000Z",
-      "description": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
-      "titleZh": "陈泽称明星朋友乐意刷切片",
-      "summaryZh": "新浪网引述陈泽言论，表示其明星朋友愿意为其直播切片提供流量支持。此言论引发关于其人脉资源及直播互动模式的讨论。",
-      "detailsZh": "事实：新浪网发布文章引用陈泽的说法，称“明星朋友也乐意刷点切片”。这暗示他在娱乐圈或泛娱乐领域拥有一定的社交关系网。评论：若属实，这将极大提升其直播内容的传播效率，但也可能引发关于“特权”或“炒作”的争议。部分网友对此持怀疑态度，认为可能是营销话术。传闻：具体涉及哪些明星、是否真的进行了实质性的流量扶持，目前缺乏第三方独立验证。编辑需注意区分这是陈泽的单方面陈述还是经过核实的行业共识。",
-      "keyPoints": [
-        "自称有明星朋友支持直播切片",
-        "涉及人脉资源展示",
-        "真实性存疑，需理性看待"
-      ],
-      "category": "直播",
-      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-2024",
@@ -220,16 +220,35 @@
       "description": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "陈泽2024年转战抖音历史回顾",
-      "summaryZh": "直播吧报道陈泽于2024年2月左右开始转战抖音直播。此为历史性事件记录，用于厘清其平台变迁脉络，不作为即时新闻处理。",
-      "detailsZh": "事实：2024年2月5日，多家媒体报道游戏主播陈泽宣布离开原直播平台，正式入驻抖音开启新的直播生涯。这一举动是其职业生涯的重要转折点。评论：此次迁移被视为顺应短视频与直播融合趋势的战略选择，有助于触达更广泛的泛游戏用户群体。传闻：关于其离开原平台的具体原因（如合约纠纷、薪资问题等），坊间有多种说法，但均未被官方正式确认。本条目旨在存档这一关键时间节点，提醒读者注意其与当前抖音直播状态的关联性，避免混淆。",
+      "titleZh": "陈泽 2024 年转战抖音开启直播",
+      "summaryZh": "历史记录显示，游戏主播陈泽于2024年2月左右正式转战抖音平台进行直播。此为平台迁移的历史背景资料，不作为当前当天的新闻报道。",
+      "detailsZh": "事实：根据直播吧等媒体2024年的报道，陈泽结束了在旧平台的长期直播生涯，转而入驻抖音。评论：这一举动顺应了行业流量向短视频及直播平台集中的趋势，有助于其触达更广泛的泛娱乐用户群体。传闻：关于迁移的具体原因（如合约到期、算法偏好等），当时未有官方详细声明，仅确认为职业选择调整。本条目旨在提供背景信息，非即时新闻。",
       "keyPoints": [
-        "2024年2月正式转战抖音",
-        "职业生涯重大转折",
-        "属历史资料，非当日动态"
+        "2024年正式转战抖音",
+        "结束旧平台直播生涯",
+        "属历史背景资料，非当日新闻"
       ],
       "category": "直播",
       "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA",
+      "title": "“明星朋友也乐意刷点切片” 陈泽",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-13T13:04:40.000Z",
+      "description": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
+      "titleZh": "“明星朋友也乐意刷点切片” 陈泽",
+      "summaryZh": "在一篇新浪网的报道中，陈泽提到其明星朋友也乐意为其直播切片进行互动或推广。这侧面反映了其在泛娱乐圈层的人脉影响力及粉丝互动的多样性。",
+      "detailsZh": "事实：陈泽在接受采访或直播交流中表示，部分明星朋友会关注并支持其直播内容的二次传播（切片）。评论：这表明陈泽的影响力已溢出纯游戏圈，进入泛娱乐社交网络，有助于提升其公众知名度。传闻：具体涉及的明星名单及互动细节未被披露，且“刷切片”的具体形式（点赞、转发或付费推广）存在多种解读，需谨慎对待此类笼统表述。",
+      "keyPoints": [
+        "明星朋友支持直播切片传播",
+        "反映泛娱乐圈层人脉",
+        "具体互动细节未公开"
+      ],
+      "category": "直播",
+      "importance": 2
     },
     {
       "subject": "chenze",
@@ -237,30 +256,13 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-16T16:52:26.917Z",
+      "publishedAt": "2026-09-16T20:06:26.128Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
         "英雄联盟主播、游戏领域自媒体创作者"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMia0FVX3lxTE9CY0pSdkRveTdkTjdhek1ZTlhxVDk0UTlfMk9VZElWOE9oVXZqQU1pazhuUmxGMkZtVlJneG44YmNCZHJUazFlV2ppc19rYkFtTXRXTnRUZldya0dMenJhNk1IbGVCeUNqelU4",
-      "title": "不是陈泽相关内容分享",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CY0pSdkRveTdkTjdhek1ZTlhxVDk0UTlfMk9VZElWOE9oVXZqQU1pazhuUmxGMkZtVlJneG44YmNCZHJUazFlV2ppc19rYkFtTXRXTnRUZldya0dMenJhNk1IbGVCeUNqelU4?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-09-11T11:12:32.000Z",
-      "description": "不是陈泽相关内容分享 微博",
-      "titleZh": "不是陈泽相关内容分享",
-      "summaryZh": "不是陈泽相关内容分享 微博",
-      "detailsZh": "不是陈泽相关内容分享 微博",
-      "keyPoints": [
-        "不是陈泽相关内容分享"
       ],
       "category": "场外",
       "importance": 4
@@ -280,7 +282,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -300,25 +302,6 @@
       "importance": 3
     },
     {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的大咕咕咕鸡词条，涵盖其常用笔名、创作风格及网络影响力背景。作为基础资料入口，提供相对客观的人物生平与作品梳理，是了解该写手身份的核心参考源。",
-      "detailsZh": "事实：该词条系统整理了大咕咕咕鸡的公开身份信息，包括其作为网络写手的活跃时期、主要笔名以及代表作品类型。内容侧重于对其在网络文学圈层中地位的定性描述，记录了其创作风格对特定受众的影响。评论：维基百科作为通用百科全书，其条目通常经过多方编辑审核，具有较高的信息聚合度，但可能缺乏对最新动态的即时追踪。传闻：无显著未经证实的争议性传闻被纳入核心事实部分。此条目属于固定资料入口，非当日新闻，旨在提供长期稳定的背景知识查询服务。",
-      "keyPoints": [
-        "收录常用笔名与创作风格",
-        "梳理网络影响力背景",
-        "提供基础人物生平事实"
-      ],
-      "category": "作品",
-      "importance": 5
-    },
-    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -326,16 +309,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话与公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。作为粉丝互动与信息发布的官方或半官方渠道，是追踪其近期言论和社群反应的主要平台。",
-      "detailsZh": "事实：该链接指向新浪微博的超级话题索引页，汇集了围绕“大咕咕咕鸡”标签下的所有公开博文、转发及评论。这是该写手在中文互联网社交平台上最直接的发声阵地之一。评论：超话机制使得粉丝能够集中讨论，但也可能导致信息碎片化。此处展示的是动态聚合而非单一事件，适合用于监测其日常活跃度及粉丝生态。传闻：需警惕超话内可能存在的水军或极端言论，建议交叉验证具体观点的真实性。此页面为固定主页入口，持续更新，不属于特定日期的新闻报道。",
+      "titleZh": "大咕咕咕鸡微博超话主页",
+      "summaryZh": "该链接为大咕咕咕鸡的微博超话入口，聚合其公开动态与读者讨论。作为固定资料页而非当日新闻，提供持续更新的粉丝互动内容索引。",
+      "detailsZh": "事实：此链接指向新浪微博特定的超话页面（ID: 1008083eab57282f1f40ec77c0d804da759725），是网络写手“大咕咕咕鸡”及其相关话题的官方或半官方聚集地。评论：该页面反映了其在中文互联网早期的影响力，通过超话形式维持了长期的读者社群粘性。传闻：无直接证据表明该超话由本人直接运营，多为粉丝自发维护。注意：此为固定主页入口，非特定日期的新闻报道，内容随时间动态变化，不具备单一新闻事件的时效性特征。",
       "keyPoints": [
-        "聚合公开动态与粉丝讨论",
-        "微博社交平台核心入口",
-        "反映实时社群互动情况"
+        "微博超话固定入口",
+        "聚合公开动态与讨论",
+        "粉丝社群聚集地",
+        "非单日新闻事件"
       ],
-      "category": "公开发言",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -345,35 +329,37 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站相关视频与朗读聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，包含大咕咕咕鸡作品的朗读音频、相关二创视频及历史讨论。反映了其作品在视频平台的传播形态及受众接受度。",
-      "detailsZh": "事实：该页面通过关键词搜索展示了B站上与“大咕咕咕鸡”相关的多媒体内容，包括但不限于有声书朗读、剧情解说及粉丝制作的鬼畜或纪念视频。这体现了其文字作品向视听领域转化的趋势。评论：B站用户群体年轻，其反馈往往代表了新兴读者的审美偏好。视频内容的质量参差不齐，既有专业制作也有业余分享，需仔细甄别。传闻：部分高播放量视频可能涉及对原作情节的误读或二次创作改编，不应视为原著正史。此为搜索结果页，非固定主页，内容随用户上传动态变化。",
+      "titleZh": "哔哩哔哩作品朗读与讨论聚合",
+      "summaryZh": "B站搜索关键词“大咕咕咕鸡”的结果页，包含其作品朗读、相关二创视频及历史讨论。属资源索引页，反映其IP在视频平台的衍生传播情况。",
+      "detailsZh": "事实：该URL为Bilibili全站搜索结果页，关键词锁定为“大咕咕咕鸡”。内容涵盖用户自制的作品朗读音频、剧情解说视频及弹幕讨论区。评论：显示其文字作品已转化为多媒体消费形式，体现了跨媒介的传播力。传闻：部分高播放量视频可能涉及未经授权的二次创作，具体版权归属需视视频内容而定。注意：此为通用搜索结果页，非官方认证账号主页，内容质量参差不齐，包含大量粉丝自制内容，不具备权威新闻属性。",
       "keyPoints": [
-        "展示作品音视频化传播",
-        "反映年轻受众接受度",
-        "包含二创与朗读内容"
+        "B站搜索结果页",
+        "含作品朗读与二创",
+        "跨媒介传播体现",
+        "非官方认证主页"
       ],
       "category": "作品",
-      "importance": 3
+      "importance": 2
     },
     {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道回顾",
-      "summaryZh": "2015年界面新闻关于大咕咕咕鸡及其所处网络段子手生态的深度报道。虽年代较早，但提供了对其早期创作风格及行业背景的历史性观察视角。",
-      "detailsZh": "事实：该文章发表于2015年5月12日，当时大咕咕咕鸡正处于网络文学发展的特定阶段。报道分析了其独特的语言风格如何影响当时的网络语境，并将其置于更广泛的“网络段子手”群体中进行考察。评论：作为传统媒体对网络写手的早期关注，该报道具有一定的史料价值，反映了彼时主流媒体对网络亚文化的认知态度。由于时间跨度较大，文中关于其个人现状的描述可能已失效，仅具历史参考意义。传闻：无。此为历史性新闻存档，非当前动态。",
+      "titleZh": "维基百科人物与创作资料",
+      "summaryZh": "维基百科关于网络写手大咕咕咕鸡的条目，涵盖笔名、风格、作品及网络影响。作为百科资料，提供背景信息而非即时新闻。",
+      "detailsZh": "事实：维基百科存在专门词条介绍“大咕咕咕鸡”，记录其中文网络写作生涯、代表风格（如早期段子、讽刺文学）及对网络语言的影响。评论：该条目通常由社区编辑维护，内容基于公开可查的网络痕迹，具有较高的史料参考价值。传闻：条目中关于“影响力”的描述可能存在夸大，需结合其他来源交叉验证。注意：此为静态百科资料入口，旨在提供背景知识，不包含当天的突发新闻或最新个人动态，阅读时需注意版本差异。",
       "keyPoints": [
-        "2015年早期历史报道",
-        "分析创作风格与行业背景",
-        "具有史料参考价值"
+        "百科人物词条",
+        "记录创作风格与影响",
+        "社区维护背景资料",
+        "非即时新闻动态"
       ],
-      "category": "讨论",
-      "importance": 2
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -383,13 +369,36 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "领库微博账号数据资料",
+      "summaryZh": "领库平台展示的大咕咕咕鸡微博账号详细资料页，包含UID及传播数据。属第三方数据分析工具生成的静态档案，用于评估KOL影响力。",
+      "detailsZh": "事实：该页面来自领库（Kolstore），展示了UID为2146965345的微博账号基础信息及历史传播数据指标。评论：此类数据平台常用于商业分析，反映账号在特定时期的活跃度与粉丝规模。传闻：数据可能存在滞后性或算法偏差，不能完全代表实时社交影响力。注意：这是固定的账号档案页面，非新闻报道。其价值在于提供量化参考，但不应将其视为新闻事件本身。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方数据平台档案",
+        "展示UID与传播数据",
+        "用于KOL影响力评估",
+        "静态资料非新闻"
       ],
       "category": "场外",
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：创作生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言环境的影响。属历史性回顾文章，具有文献价值。",
+      "detailsZh": "事实：2015年5月12日，界面新闻发布题为《大咕咕咕鸡与网络段子手创作生态》的文章，深入分析了其写作特点及在当时网络文化中的地位。评论：该文提供了媒体视角下的客观评价，记录了特定时期网络写手的生存状态与话语方式。传闻：文中观点仅代表当时媒体立场，后续发展可能改变对其历史定位的评价。注意：这是一篇发布于2015年的历史报道，虽具参考价值，但绝非2026年的当天新闻，阅读时需明确其时间背景。",
+      "keyPoints": [
+        "2015年历史深度报道",
+        "分析创作风格与生态",
+        "媒体视角客观评价",
+        "具文献价值非当日新闻"
+      ],
+      "category": "讨论",
       "importance": 4
     }
   ]
