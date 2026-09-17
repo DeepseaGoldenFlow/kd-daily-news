@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T07:41:34.859Z",
+  "updatedAt": "2026-09-17T13:29:35.328Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,136 +16,136 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://sports.sohu.com/a/1075147322_121924582",
-      "title": "NBA最新消息!休媒不满KD排杰威之后!建议追加兰组4巨 暗示火箭无交易阿杜计划 ",
-      "url": "https://sports.sohu.com/a/1075147322_121924582",
+      "id": "durant:search:https://www.sohu.com/a/1077249832_122001004",
+      "title": "杜兰特交易传闻再起!火箭为何将他视为非卖品? ",
+      "url": "https://www.sohu.com/a/1077249832_122001004",
       "source": "搜狐网",
-      "publishedAt": "2026-09-17T07:37:18.012Z",
+      "publishedAt": "2026-09-17T13:25:36.041Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "NBA最新消息!休媒不满KD排杰威之后!建议追加兰组4巨 暗示火箭无交易阿杜计划 ",
+      "titleZh": "杜兰特交易传闻再起!火箭为何将他视为非卖品? ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "NBA最新消息!休媒不满KD排杰威之后!建议追加兰组4巨 暗示火箭无交易阿杜计划 "
+        "杜兰特交易传闻再起!火箭为何将他视为非卖品? "
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxQSl8zTERFVXVybXl6ZjNpTW1YREtOVjlBU1FtU0JMTW1CdzhQTWFVT0daUkJ5LUNUOWF6LXkxN1NnWDdfRXE4RVUtRDRBNGozNTN6TC1tY0VhRlVyNkdzTGJsQWI5aDhKaV94bFl3VmRiMGVjdnljMXh1UVZJazl1b01B",
+      "title": "杜兰特被迫当老大？火箭五位不合格领袖曝光",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSl8zTERFVXVybXl6ZjNpTW1YREtOVjlBU1FtU0JMTW1CdzhQTWFVT0daUkJ5LUNUOWF6LXkxN1NnWDdfRXE4RVUtRDRBNGozNTN6TC1tY0VhRlVyNkdzTGJsQWI5aDhKaV94bFl3VmRiMGVjdnljMXh1UVZJazl1b01B?oc=5",
+      "source": "k.sina.com.cn",
+      "publishedAt": "2026-09-17T13:01:10.000Z",
+      "description": "杜兰特被迫当老大？火箭五位不合格领袖曝光 k.sina.com.cn",
+      "titleZh": "杜兰特被迫当老大？火箭五位不合格领袖曝光",
+      "summaryZh": "杜兰特被迫当老大？火箭五位不合格领袖曝光 k.sina.com.cn",
+      "detailsZh": "杜兰特被迫当老大？火箭五位不合格领袖曝光 k.sina.com.cn",
+      "keyPoints": [
+        "杜兰特被迫当老大？火箭五位不合格领袖曝光"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMie0FVX3lxTE5Id0NFcG5HZW1vbTZHM2oxSEZwZWg4c1k4b1dsbVRGZGtZazI2WU9ISk0zcVZJTkpsR2JOSi1ualdzd3RpSHBUUmd4SmVpQi15MXhrNHFXT0pnZFVhcVZoekJqekt3czY0Z0FKc0xTZU5saTJ1dTlwaGMzUQ",
+      "title": "Celtics Proposed to Land Kevin Durant in Derrick White-Centered Trade",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Id0NFcG5HZW1vbTZHM2oxSEZwZWg4c1k4b1dsbVRGZGtZazI2WU9ISk0zcVZJTkpsR2JOSi1ualdzd3RpSHBUUmd4SmVpQi15MXhrNHFXT0pnZFVhcVZoekJqekt3czY0Z0FKc0xTZU5saTJ1dTlwaGMzUQ?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-17T11:17:41.000Z",
+      "description": "Celtics Proposed to Land Kevin Durant in Derrick White-Centered Trade heavy.com",
+      "titleZh": "Celtics Proposed to Land Kevin Durant in Derrick White-Centered Trade",
+      "summaryZh": "Celtics Proposed to Land Kevin Durant in Derrick White-Centered Trade heavy.com",
+      "detailsZh": "Celtics Proposed to Land Kevin Durant in Derrick White-Centered Trade heavy.com",
+      "keyPoints": [
+        "Celtics Proposed to Land Kevin Durant in Derrick White-Centered Trade"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxNVlhpVWh4NkFCU1dxNW5zdTRNY0d6U19zUktCZjA1dDh1Y0NwS2Flcm03VXVuQV9mRmxORHV0UFpnV2hKM1dIRkpZdFhjYkVIUklOMkhwZUlpMzFVMjM5ejl2QVhFYk1TS1lFNjZ4bndxRUlhNjJDeGI1aThfUGp5RkF6cFk",
+      "title": "老瑞秋：杜兰特在火箭很开心 暂时不会去其他地方 包括热火",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlhpVWh4NkFCU1dxNW5zdTRNY0d6U19zUktCZjA1dDh1Y0NwS2Flcm03VXVuQV9mRmxORHV0UFpnV2hKM1dIRkpZdFhjYkVIUklOMkhwZUlpMzFVMjM5ejl2QVhFYk1TS1lFNjZ4bndxRUlhNjJDeGI1aThfUGp5RkF6cFk?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-17T09:24:50.000Z",
+      "description": "老瑞秋：杜兰特在火箭很开心 暂时不会去其他地方 包括热火 Sina Sports",
+      "titleZh": "老瑞秋：杜兰特在火箭很开心 暂时不会去其他地方 包括热火",
+      "summaryZh": "老瑞秋：杜兰特在火箭很开心 暂时不会去其他地方 包括热火 Sina Sports",
+      "detailsZh": "老瑞秋：杜兰特在火箭很开心 暂时不会去其他地方 包括热火 Sina Sports",
+      "keyPoints": [
+        "老瑞秋：杜兰特在火箭很开心 暂时不会去其他地方 包括热火"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMizAFBVV95cUxQRUs5N3FNTVA1cjlFd2tqNlAwTkRYOWRWNkE5bUtOVTQwX1BELTlSQWJQNDNWUGlwVFNfbG82M2hJeVlqTnVxNFFic3Q4aER5ZENYSHk2VHRDOVNqMFU2YVYxUzZtU2pQQ1huRGZsOThWY2ZILTZVT2Q5b2JOVmdQUC1qcjZ3eTAtRXhkUlZOSUM5YmlhcFFUQ2JyVmdQWTRWLW9KdmgyMWZZbkM3MU1NeUk4QXhjWHpiWmVDaG5kWUN3U0xFOUFodnBVUDE",
+      "title": "香波特怪杜兰特让他少拿两冠！KD回怼后秒删：硬气点吧，小子",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUs5N3FNTVA1cjlFd2tqNlAwTkRYOWRWNkE5bUtOVTQwX1BELTlSQWJQNDNWUGlwVFNfbG82M2hJeVlqTnVxNFFic3Q4aER5ZENYSHk2VHRDOVNqMFU2YVYxUzZtU2pQQ1huRGZsOThWY2ZILTZVT2Q5b2JOVmdQUC1qcjZ3eTAtRXhkUlZOSUM5YmlhcFFUQ2JyVmdQWTRWLW9KdmgyMWZZbkM3MU1NeUk4QXhjWHpiWmVDaG5kWUN3U0xFOUFodnBVUDE?oc=5",
+      "source": "k.sina.com.cn",
+      "publishedAt": "2026-09-17T05:40:34.000Z",
+      "description": "香波特怪杜兰特让他少拿两冠！KD回怼后秒删：硬气点吧，小子 k.sina.com.cn",
+      "titleZh": "香波特怪杜兰特让他少拿两冠！KD回怼后秒删：硬气点吧，小子",
+      "summaryZh": "香波特怪杜兰特让他少拿两冠！KD回怼后秒删：硬气点吧，小子 k.sina.com.cn",
+      "detailsZh": "香波特怪杜兰特让他少拿两冠！KD回怼后秒删：硬气点吧，小子 k.sina.com.cn",
+      "keyPoints": [
+        "香波特怪杜兰特让他少拿两冠！KD回怼后秒删：硬气点吧，小子"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxNSXIyZ1ZQMkN5b215WUNkRHB5aE5OR05vbVVUWkVPcEhkOFdKRVRmU0FKaEYxcmN0NERoMXp0VWtDbGJCNi1tT0VUNUNiOTdKSHNHTkNhZVdvMDNSMlg0Y2dSM0JJaE5TTXVLRm5WaXNESW5uUEs5QVF0bUVWb1g0SjdUOGJKM2dRZXh6V2Nkbw",
+      "title": "香波特称杜兰特毁掉自己两冠！加盟73胜勇士不公平 KD回怼随后删帖",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXIyZ1ZQMkN5b215WUNkRHB5aE5OR05vbVVUWkVPcEhkOFdKRVRmU0FKaEYxcmN0NERoMXp0VWtDbGJCNi1tT0VUNUNiOTdKSHNHTkNhZVdvMDNSMlg0Y2dSM0JJaE5TTXVLRm5WaXNESW5uUEs5QVF0bUVWb1g0SjdUOGJKM2dRZXh6V2Nkbw?oc=5",
+      "source": "k.sina.com.cn",
+      "publishedAt": "2026-09-17T05:26:14.000Z",
+      "description": "香波特称杜兰特毁掉自己两冠！加盟73胜勇士不公平 KD回怼随后删帖 k.sina.com.cn",
+      "titleZh": "香波特称杜兰特毁掉自己两冠！加盟73胜勇士不公平 KD回怼随后删帖",
+      "summaryZh": "香波特称杜兰特毁掉自己两冠！加盟73胜勇士不公平 KD回怼随后删帖 k.sina.com.cn",
+      "detailsZh": "香波特称杜兰特毁掉自己两冠！加盟73胜勇士不公平 KD回怼随后删帖 k.sina.com.cn",
+      "keyPoints": [
+        "香波特称杜兰特毁掉自己两冠！加盟73胜勇士不公平 KD回怼随后删帖"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
       "id": "durant:CBMi6gFBVV95cUxOeXB6U2NaakZQSVJRMXZwUUtmdlV4ZHBLM0ZyMXZQa0xIZFpTM1h2d1VQZHFpZHNBY1pmMEp1Q0EzT0lYUjJHUUVXWEZJNUJjR0h5REZNbXk1VHRRM2tjcnhUTmZ4UDFmZ3hHVkI3dWh2ZVhYU0dtT0NwdjZPbXRHWHlVZmYtb1BiU0xWbnc1YW5wWTVVdHZxTVpzbUFJSzlUcklyLXlRbXk1c3JMOE1IakZkTE9XZWF2d2Mtc1JJdzJrUENhcHN5UDVjcEFlZDV0d01NNVNZV0xZRDBIbzVsZk92enRJaDRwekE",
       "title": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeXB6U2NaakZQSVJRMXZwUUtmdlV4ZHBLM0ZyMXZQa0xIZFpTM1h2d1VQZHFpZHNBY1pmMEp1Q0EzT0lYUjJHUUVXWEZJNUJjR0h5REZNbXk1VHRRM2tjcnhUTmZ4UDFmZ3hHVkI3dWh2ZVhYU0dtT0NwdjZPbXRHWHlVZmYtb1BiU0xWbnc1YW5wWTVVdHZxTVpzbUFJSzlUcklyLXlRbXk1c3JMOE1IakZkTE9XZWF2d2Mtc1JJdzJrUENhcHN5UDVjcEFlZDV0d01NNVNZV0xZRDBIbzVsZk92enRJaDRwekE?oc=5",
-      "source": "手机新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-09-17T05:15:23.000Z",
-      "description": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人 手机新浪网",
+      "description": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人 k.sina.com.cn",
       "titleZh": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人",
-      "summaryZh": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人 手机新浪网",
-      "detailsZh": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人 手机新浪网",
+      "summaryZh": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人 k.sina.com.cn",
+      "detailsZh": "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人 k.sina.com.cn",
       "keyPoints": [
         "美媒盛赞火箭阵容联盟第四好！建议用杜兰特1换3，名嘴：阵容厚度吓人"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxPaWtvUnlNZ19KVnNuWWViQms4NFJnZlZseHQ2OV9uRXE5N0pLd0YzeEVGbXg0WFRvdzZ5cFdoemh5VXgxX2YtMjZHcnhhb0xEaDlzanRHNDNkamxxejRjeUhvNXM3bW1fTkhmTzV5YWk3NEpLa3BDZV9IYzZMRHo0V0s2QlZKQQ",
+      "id": "durant:CBMihwFBVV95cUxPUExiNTUyajVtd3FGNmEtb3VwejZGSW9VZnhpWElyWjhERTYxWlhNMnQ0SGNpY05KSnBpVWhaSEk3Vjh6Tnp2SGdRLWl0VV9wVUFodmlhZ29jSm9UamdGTTJlVDFJZjNCLWxnMXEzdHJUV0ZudEJBNlZLVjdZUFpjYksta1RmUTQ",
       "title": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWtvUnlNZ19KVnNuWWViQms4NFJnZlZseHQ2OV9uRXE5N0pLd0YzeEVGbXg0WFRvdzZ5cFdoemh5VXgxX2YtMjZHcnhhb0xEaDlzanRHNDNkamxxejRjeUhvNXM3bW1fTkhmTzV5YWk3NEpLa3BDZV9IYzZMRHo0V0s2QlZKQQ?oc=5",
-      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUExiNTUyajVtd3FGNmEtb3VwejZGSW9VZnhpWElyWjhERTYxWlhNMnQ0SGNpY05KSnBpVWhaSEk3Vjh6Tnp2SGdRLWl0VV9wVUFodmlhZ29jSm9UamdGTTJlVDFJZjNCLWxnMXEzdHJUV0ZudEJBNlZLVjdZUFpjYksta1RmUTQ?oc=5",
+      "source": "Yahoo Sports",
       "publishedAt": "2026-09-17T04:50:00.000Z",
-      "description": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser Yahoo",
+      "description": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser Yahoo Sports",
       "titleZh": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser",
-      "summaryZh": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser Yahoo",
-      "detailsZh": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser Yahoo",
+      "summaryZh": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser Yahoo Sports",
+      "detailsZh": "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser Yahoo Sports",
       "keyPoints": [
         "Thunder Fan Claims Kevin Durant Cursed When Asked To Help With Oklahoma Kids’ Fundraiser"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi3AFBVV95cUxOeEpFLXp3OEhsUGxnYklwYWZRcWJsdDZndGRwZWUtNnNXdWZfaEc4ellwQUxtNjlVQVpnV0FReGxELUxYSTg4ZkZJSzFKTUNKWUFqR0x6eWRWekVuZWdKSWRpNUV3cFBzR3VBTmxxOUFuTXMtdl96SGxHbjJLU1pMZXZRdThyRmY5WnQyZ3ctQTd3REdRN1Zpb2RBUXV0c3h4Z2FDYUY0ZGpqVFNDT3Z0TWZRdVNvQkZJeDgyQ084eHNURWxac3MxdHc1LVhlcVIySUd2YjRsTWhpZUhR",
-      "title": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休城",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEpFLXp3OEhsUGxnYklwYWZRcWJsdDZndGRwZWUtNnNXdWZfaEc4ellwQUxtNjlVQVpnV0FReGxELUxYSTg4ZkZJSzFKTUNKWUFqR0x6eWRWekVuZWdKSWRpNUV3cFBzR3VBTmxxOUFuTXMtdl96SGxHbjJLU1pMZXZRdThyRmY5WnQyZ3ctQTd3REdRN1Zpb2RBUXV0c3h4Z2FDYUY0ZGpqVFNDT3Z0TWZRdVNvQkZJeDgyQ084eHNURWxac3MxdHc1LVhlcVIySUd2YjRsTWhpZUhR?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-17T04:03:15.000Z",
-      "description": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休城 手机新浪网",
-      "titleZh": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休城",
-      "summaryZh": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休城 手机新浪网",
-      "detailsZh": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休城 手机新浪网",
-      "keyPoints": [
-        "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休城"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijgFBVV95cUxPQlROTV9yUFRfV1g0VlZrMjlJS1BfYkc1dDVfMFpSUWlCWU50bXVTVlE3SVQ3OC1tWFZSMVZQaFBVMUdqcHM1a2h6TXRXbHh1WFl1TTlrV1ZZX21uYkZXTU5OMThDNXFobUN4eWd0X0V4X2tnQTUwNGhrcG9qNlhzb3o4WkZJTktfdXJ4RDlR",
-      "title": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休斯顿",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlROTV9yUFRfV1g0VlZrMjlJS1BfYkc1dDVfMFpSUWlCWU50bXVTVlE3SVQ3OC1tWFZSMVZQaFBVMUdqcHM1a2h6TXRXbHh1WFl1TTlrV1ZZX21uYkZXTU5OMThDNXFobUN4eWd0X0V4X2tnQTUwNGhrcG9qNlhzb3o4WkZJTktfdXJ4RDlR?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-17T03:54:54.000Z",
-      "description": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休斯顿 手机新浪网",
-      "titleZh": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休斯顿",
-      "summaryZh": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休斯顿 手机新浪网",
-      "detailsZh": "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休斯顿 手机新浪网",
-      "keyPoints": [
-        "KD交易价值下滑？休媒再证阿杜为火箭非卖品 名嘴：他更想长留休斯顿"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQaWI5aXhib1dkbmtrOWtuN3hYZ2hfN3p3NVFCZjA2RWxFTE9WTVJfOUlIdXFjeDlWVzkyUVA2R0dxOS01cVFtM0RDZ2dYejhHT1NyTlE0N2tJYXRlTll5WXlqQ2tYdGdvUGJaVG1OUkZROTFMbWY5cW01ZG9VbnNmeXduTW5ZbVdfamxyQmlDWQ",
-      "title": "火箭一夜4消息！阿门投射潜力被看好 申京苦练+杜兰特单防联盟第1",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWI5aXhib1dkbmtrOWtuN3hYZ2hfN3p3NVFCZjA2RWxFTE9WTVJfOUlIdXFjeDlWVzkyUVA2R0dxOS01cVFtM0RDZ2dYejhHT1NyTlE0N2tJYXRlTll5WXlqQ2tYdGdvUGJaVG1OUkZROTFMbWY5cW01ZG9VbnNmeXduTW5ZbVdfamxyQmlDWQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-17T03:34:41.000Z",
-      "description": "火箭一夜4消息！阿门投射潜力被看好 申京苦练+杜兰特单防联盟第1 手机新浪网",
-      "titleZh": "火箭一夜4消息！阿门投射潜力被看好 申京苦练+杜兰特单防联盟第1",
-      "summaryZh": "火箭一夜4消息！阿门投射潜力被看好 申京苦练+杜兰特单防联盟第1 手机新浪网",
-      "detailsZh": "火箭一夜4消息！阿门投射潜力被看好 申京苦练+杜兰特单防联盟第1 手机新浪网",
-      "keyPoints": [
-        "火箭一夜4消息！阿门投射潜力被看好 申京苦练+杜兰特单防联盟第1"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMizwFBVV95cUxNbTdQMWRoSnVzWVA0QldGYmlvcXFfUVNHTGlkX0ZaMUxyeUg2cWNXUDBla3kzSkRTekI1TlJSU3E4ajRNVHRTTjU4VnpsdXBHZGZScEY3QU5YNDY1Q1ZuRkt1STNjNzZEMk9ycFFxRGFjZERuc1ZQdnBLSmZUai12VUROVldWX3hmalFjR2czU09lbGMtT3lMeGwtbDBhQkJFeGllb0diOWxQSFM1MFQtX2VwY0dlSVlRZzZ4YWlvWVpSTUxyV0t2WVhsNXUyLUU",
-      "title": "德雷蒙德格林回应杜兰特被骂投敌一事，伊戈达拉也做了，没人说他",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbTdQMWRoSnVzWVA0QldGYmlvcXFfUVNHTGlkX0ZaMUxyeUg2cWNXUDBla3kzSkRTekI1TlJSU3E4ajRNVHRTTjU4VnpsdXBHZGZScEY3QU5YNDY1Q1ZuRkt1STNjNzZEMk9ycFFxRGFjZERuc1ZQdnBLSmZUai12VUROVldWX3hmalFjR2czU09lbGMtT3lMeGwtbDBhQkJFeGllb0diOWxQSFM1MFQtX2VwY0dlSVlRZzZ4YWlvWVpSTUxyV0t2WVhsNXUyLUU?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-17T03:17:00.000Z",
-      "description": "德雷蒙德格林回应杜兰特被骂投敌一事，伊戈达拉也做了，没人说他 手机新浪网",
-      "titleZh": "德雷蒙德格林回应杜兰特被骂投敌一事，伊戈达拉也做了，没人说他",
-      "summaryZh": "德雷蒙德格林回应杜兰特被骂投敌一事，伊戈达拉也做了，没人说他 手机新浪网",
-      "detailsZh": "德雷蒙德格林回应杜兰特被骂投敌一事，伊戈达拉也做了，没人说他 手机新浪网",
-      "keyPoints": [
-        "德雷蒙德格林回应杜兰特被骂投敌一事，伊戈达拉也做了，没人说他"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxNYVFEZ29kR3BZMUw2dFQyNmRwMGJXT3hEU1A0ZDQ3dF85eEc5eVFkUXpkU28yR0VZbHZtaEo2NU1VSE1vQUxMNDJFTHFNR0xiMFlOTmxCd3lzdWJGTnFuNFZBNTluRUMtZjBkOWxTTVVSZVU2YmFpVmFNanZHTS05dzdUOF9SbDc1c2RDRg",
-      "title": "勇士4换1正式报价杜兰特！拉科布怒砸6000万奢侈税，库里出面劝说",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVFEZ29kR3BZMUw2dFQyNmRwMGJXT3hEU1A0ZDQ3dF85eEc5eVFkUXpkU28yR0VZbHZtaEo2NU1VSE1vQUxMNDJFTHFNR0xiMFlOTmxCd3lzdWJGTnFuNFZBNTluRUMtZjBkOWxTTVVSZVU2YmFpVmFNanZHTS05dzdUOF9SbDc1c2RDRg?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-17T03:13:58.000Z",
-      "description": "勇士4换1正式报价杜兰特！拉科布怒砸6000万奢侈税，库里出面劝说 Sohu",
-      "titleZh": "勇士4换1正式报价杜兰特！拉科布怒砸6000万奢侈税，库里出面劝说",
-      "summaryZh": "勇士4换1正式报价杜兰特！拉科布怒砸6000万奢侈税，库里出面劝说 Sohu",
-      "detailsZh": "勇士4换1正式报价杜兰特！拉科布怒砸6000万奢侈税，库里出面劝说 Sohu",
-      "keyPoints": [
-        "勇士4换1正式报价杜兰特！拉科布怒砸6000万奢侈税，库里出面劝说"
       ],
       "category": "场外",
       "importance": 3
@@ -156,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-17T07:37:09.686Z",
+      "publishedAt": "2026-09-17T13:25:33.671Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -172,12 +172,12 @@
       "id": "chenze:CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA",
       "title": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA?oc=5",
-      "source": "体坛加",
+      "source": "体坛",
       "publishedAt": "2026-09-15T18:24:55.000Z",
-      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
+      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
       "titleZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
-      "summaryZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
-      "detailsZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
+      "summaryZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
+      "detailsZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
       "keyPoints": [
         "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线"
       ],
@@ -189,12 +189,12 @@
       "id": "chenze:CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA",
       "title": "“明星朋友也乐意刷点切片” 陈泽",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA?oc=5",
-      "source": "手机新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-09-13T13:04:40.000Z",
-      "description": "“明星朋友也乐意刷点切片” 陈泽 手机新浪网",
+      "description": "“明星朋友也乐意刷点切片” 陈泽 k.sina.com.cn",
       "titleZh": "“明星朋友也乐意刷点切片” 陈泽",
-      "summaryZh": "“明星朋友也乐意刷点切片” 陈泽 手机新浪网",
-      "detailsZh": "“明星朋友也乐意刷点切片” 陈泽 手机新浪网",
+      "summaryZh": "“明星朋友也乐意刷点切片” 陈泽 k.sina.com.cn",
+      "detailsZh": "“明星朋友也乐意刷点切片” 陈泽 k.sina.com.cn",
       "keyPoints": [
         "“明星朋友也乐意刷点切片” 陈泽"
       ],
@@ -283,15 +283,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供其网络影响力的基础信息索引。",
-      "detailsZh": "此为固定人物资料入口，非当日新闻。内容涵盖大咕咕咕鸡作为网络写手的基本档案，包括其活跃平台、代表性段子风格以及对中文互联网语境的影响。事实部分确认其身份为知名网络创作者；评论部分涉及对其语言幽默感的学术或大众评价；传闻部分需结合具体条目核实，此处仅作为资料聚合页存在。",
+      "summaryZh": "维基百科收录的大咕咕咕鸡人物资料，涵盖其常用笔名、创作风格及网络影响力背景。作为基础档案入口，提供相对客观的传记信息。",
+      "detailsZh": "该条目为固定的人物资料库页面，非时效性新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，重点记录其独特的语言风格和早期在网络社区的形成过程。事实部分包括其活跃的平台和时间线；评论部分涉及对其文字幽默感和讽刺艺术的评价；传闻部分较少，主要集中在对其真实身份的模糊处理。此页面旨在提供标准化的参考数据，而非动态报道。",
       "keyPoints": [
-        "提供人物基本档案与笔名",
-        "记录创作风格与代表作",
-        "汇总网络影响力数据"
+        "提供标准化的人物生平与创作背景",
+        "记录其网络语言风格的历史演变",
+        "区分事实档案与主观评价"
       ],
-      "category": "场外",
-      "importance": 5
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -302,15 +302,15 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博官方认证的超级话题页面，聚合该写手的公开动态、粉丝讨论及互动内容，是核心社交阵地。",
-      "detailsZh": "此为固定主页入口，用于追踪最新公开动态。事实层面显示该超话拥有大量关注者和日常更新；评论层面反映读者对其内容的即时反馈；传闻层面可能包含未经证实的八卦，需用户自行甄别。该页面不产生原创新闻，而是作为信息集散地存在。",
+      "summaryZh": "新浪微博上的官方或粉丝维护的超话聚合页，用于展示公开动态和读者讨论。属于固定的社交账号索引入口，非单日新闻。",
+      "detailsZh": "此为社交媒体平台的固定功能页面，持续更新但本质为资料索引。事实层面展示了其微博账号的基本信息和互动数据；评论层面反映了粉丝群体的活跃度及对内容的反馈；传闻层面可能包含未经证实的粉丝猜测。该页面作为连接作者与读者的桥梁，提供了观察其公众形象的一手素材，但不具备独立新闻事件的属性。",
       "keyPoints": [
-        "官方认证粉丝社区",
-        "聚合最新公开动态",
-        "实时互动讨论中心"
+        "微博平台固定的话题聚合入口",
+        "展示粉丝互动与公开动态索引",
+        "反映社群舆论风向"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -320,16 +320,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩作品朗读与讨论聚合",
-      "summaryZh": "B站搜索聚合页，汇集大咕咕咕鸡作品的音频朗读、相关二创视频及历史讨论，反映其在视频平台的传播情况。",
-      "detailsZh": "此为动态搜索结果页，非固定单篇报道。事实部分展示其作品在B站的播放量与转载情况；评论部分体现听众对段子改编的接受度；传闻部分可能涉及未公开的幕后故事。该页面随时间推移不断更新，需区分静态资料与动态趋势。",
+      "titleZh": "大咕咕咕鸡B站视频搜索聚合",
+      "summaryZh": "哔哩哔哩上关于大咕咕咕鸡作品的朗读、二创及讨论视频的搜索结果页。属于内容检索入口，非特定新闻报道。",
+      "detailsZh": "该链接指向B站的通用搜索结果，汇集了用户生成的内容（UGC）和官方上传的视频。事实部分包括视频标题、播放量等元数据；评论部分体现观众对文本改编的接受度；传闻部分可能涉及视频评论区中的八卦讨论。由于是搜索聚合页，内容具有碎片化和时效性弱的特点，主要用于追溯其作品在视频平台的传播情况。",
       "keyPoints": [
-        "作品音频朗读资源",
-        "粉丝二创视频集合",
-        "跨平台传播数据参考"
+        "B站视频内容的综合检索入口",
+        "涵盖朗读、二创及讨论视频",
+        "反映跨媒介传播效果"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "作品",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -339,13 +339,13 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态分析",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言环境的影响，具有历史文献价值。",
-      "detailsZh": "此为历史性新闻报道，非近期事件。事实部分记录了当时其段子的流行程度及具体案例；评论部分引用媒体对其文学性与娱乐性的平衡看法；传闻部分需排除文中未证实的轶事。该文章提供了早期创作生涯的关键节点信息，有助于理解其发展脉络。",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。虽为旧闻，但具重要史料价值，分析其创作风格影响。",
+      "detailsZh": "这是一篇发布于2015年的历史性报道，具有较高的参考价值。事实部分详细记录了当时网络段子的流行趋势及大咕咕咕鸡的代表作；评论部分由记者撰写，分析了其语言技巧和社会讽刺意义；传闻部分极少。尽管发布时间较早，但它确立了其在早期网络文学中的地位，是研究其创作生涯的重要文献，而非当日动态。",
       "keyPoints": [
-        "2015年媒体深度访谈",
-        "分析创作风格演变",
-        "探讨网络语言影响"
+        "2015年发布的历史深度报道",
+        "分析早期创作风格与社会影响",
+        "具有史料价值的非时效新闻"
       ],
       "category": "公开发言",
       "importance": 4
@@ -358,16 +358,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库KOL账号资料页",
-      "summaryZh": "第三方数据平台提供的微博账号传播数据与画像，用于评估其商业价值与受众分布，属行业分析资料。",
-      "detailsZh": "此为固定数据档案，非新闻事件。事实部分列出粉丝数、互动率等量化指标；评论部分基于数据的行业解读；传闻部分应完全排除。该页面服务于营销与市场分析，不涉及个人生活细节或创作内容本身，仅作为客观数据源存在。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "第三方数据平台档案",
-        "粉丝画像与传播数据",
-        "商业价值评估参考"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 4
     }
   ]
 }
