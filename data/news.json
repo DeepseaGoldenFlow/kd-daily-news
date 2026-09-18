@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:49:09.076Z",
+  "updatedAt": "2026-09-18T14:35:46.200Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,37 +16,63 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMijgFBVV95cUxQQm1VaUx6Yk80dllhQlJ4RFFMSDI5R2Z0b0xTaS0wUGJKVE5SYjZBZ3VfMGQ3azhCb0xqWm1TbFVfa05ZRTRiRTUxcVB1ZjVxT2ctMDZEUzRrRWFKS2xkSm9CVFNBMWNnRVpJYmFHM00weHE2QUR5NW96cVZJUUhTbWZYSEFkNEhJeER0clBR",
-      "title": "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQm1VaUx6Yk80dllhQlJ4RFFMSDI5R2Z0b0xTaS0wUGJKVE5SYjZBZ3VfMGQ3azhCb0xqWm1TbFVfa05ZRTRiRTUxcVB1ZjVxT2ctMDZEUzRrRWFKS2xkSm9CVFNBMWNnRVpJYmFHM00weHE2QUR5NW96cVZJUUhTbWZYSEFkNEhJeER0clBR?oc=5",
-      "source": "k.sina.com.cn",
-      "publishedAt": "2026-09-18T07:21:39.000Z",
-      "description": "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏 k.sina.com.cn",
-      "titleZh": "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏",
-      "summaryZh": "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏 k.sina.com.cn",
-      "detailsZh": "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏 k.sina.com.cn",
+      "id": "durant:CBMijAFBVV95cUxNLVFRWG1DNjlUZi16cWZlSWhsRWI3azZINGVuT3RqYWZsMzdHY0hKSXdRb1Q3aGliNlBUZUliU1ZvTzg4ZlZoRlpqNS1fTW5kb3hteUdwcVVmWXhGT1lsSDZaUk9sY3pEZHVCb2JiWllaX05KbnFoQm9MOEF1YUROVDdyd1ZVeHJFdmJUUA",
+      "title": "火箭一夜4消息！杜兰特拒绝离开休斯顿，小贾新定位曝光，双新星合练",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVFRWG1DNjlUZi16cWZlSWhsRWI3azZINGVuT3RqYWZsMzdHY0hKSXdRb1Q3aGliNlBUZUliU1ZvTzg4ZlZoRlpqNS1fTW5kb3hteUdwcVVmWXhGT1lsSDZaUk9sY3pEZHVCb2JiWllaX05KbnFoQm9MOEF1YUROVDdyd1ZVeHJFdmJUUA?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-18T05:11:24.000Z",
+      "description": "火箭一夜4消息！杜兰特拒绝离开休斯顿，小贾新定位曝光，双新星合练 Sohu",
+      "titleZh": "火箭媒体人：杜兰特拒绝离队，定位清晰具备争冠潜力",
+      "summaryZh": "据新浪等媒体报道，凯文·杜兰特目前对休斯顿火箭队生活满意，暂无离开意向。分析指出其并非球队唯一进攻引擎，但作为核心具备争冠实力，同时小贾巴里·史密斯新定位曝光。",
+      "detailsZh": "事实层面，多家中文体育媒体（包括新浪网、搜狐）在2026年9月18日报道称，凯文·杜兰特在休斯顿过得“很开心”，并明确拒绝了其他球队的招募或交易传闻，选择留在火箭队。评论与观点方面，火箭本地媒体人分析认为，虽然杜兰特不是唯一的进攻发起点（进攻引擎），但他依然具备成为争冠核心的硬实力，且防守端表现并不拉胯。此外，报道还提及队友小贾巴里·史密斯的新战术定位以及年轻球员的训练动态。需注意的是，部分标题如“美媒嘲讽”多为自媒体夸张表述，缺乏直接信源佐证；而关于“明年夏天离开”的猜测则被当前“拒绝离队”的报道所反驳。整体来看，杜兰特在火箭的角色已趋于稳定，重点在于如何最大化其得分效率而非承担全部组织重任。",
       "keyPoints": [
-        "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏"
+        "杜兰特明确表示不离开休斯顿火箭队",
+        "媒体分析其非唯一进攻引擎但具争冠核心价值",
+        "队友小贾巴里·史密斯战术角色有新调整",
+        "网络传言存在夸大成分，需区分事实与评论"
       ],
-      "category": "场外",
+      "category": "交易",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxNWnpvV2ZzSTkyUUtldXdlTkFRZnlxMmpoMmhsN0RvMkhyVkZfZnY0NUF5VVdtc1ZNTVI1MXlSaDNtSndtQ3E4WmFQOV9NaG5kX0Qyb1RKa2ZJcDlWX1FHOExzRmR2amtGbVNhUU1VT1FZX2xRZGRXclgwMWc4SjJHRG00QzJzUQ",
-      "title": "Reimer: Hongcheon's Kevin Durant Aspirant",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnpvV2ZzSTkyUUtldXdlTkFRZnlxMmpoMmhsN0RvMkhyVkZfZnY0NUF5VVdtc1ZNTVI1MXlSaDNtSndtQ3E4WmFQOV9NaG5kX0Qyb1RKa2ZJcDlWX1FHOExzRmR2amtGbVNhUU1VT1FZX2xRZGRXclgwMWc4SjJHRG00QzJzUQ?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-09-18T05:53:57.000Z",
-      "description": "Reimer: Hongcheon's Kevin Durant Aspirant 조선일보",
-      "titleZh": "Reimer: Hongcheon's Kevin Durant Aspirant",
-      "summaryZh": "Reimer: Hongcheon's Kevin Durant Aspirant 조선일보",
-      "detailsZh": "Reimer: Hongcheon's Kevin Durant Aspirant 조선일보",
+      "id": "durant:CBMiogFBVV95cUxOMHZ3d0k2RTExMWxjbDZycDc0dzNBZW1ZcUlvdTdmbkNOTVpGYWZnQVFzQUNXMDEwMU5oREJlSEhPamdCcmJkR2l5NUpUUkV0bnJuNHhUbFc2UmdkT3VkQTlMdVZTeUl3LVF1Q09pREYxN0FYR2FTRHNhTWtWNUtDLS1DaGhpUlFlNmZrXzcwNnFkRGV6a05pT0Z3M2RhRmpGZXc",
+      "title": "Anonymous NBA Scout: What Will Change for Rockets After They Were ‘Way Too Reliant’ on Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHZ3d0k2RTExMWxjbDZycDc0dzNBZW1ZcUlvdTdmbkNOTVpGYWZnQVFzQUNXMDEwMU5oREJlSEhPamdCcmJkR2l5NUpUUkV0bnJuNHhUbFc2UmdkT3VkQTlMdVZTeUl3LVF1Q09pREYxN0FYR2FTRHNhTWtWNUtDLS1DaGhpUlFlNmZrXzcwNnFkRGV6a05pT0Z3M2RhRmpGZXc?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-18T13:02:00.000Z",
+      "description": "Anonymous NBA Scout: What Will Change for Rockets After They Were ‘Way Too Reliant’ on Kevin Durant Sports Illustrated",
+      "titleZh": "匿名球探：火箭不应过度依赖杜兰特，需平衡战术体系",
+      "summaryZh": "Sports Illustrated引用匿名NBA球探观点指出，火箭队此前在战术上过度依赖凯文·杜兰特。文章探讨在杜兰特留队背景下，球队应如何调整战术分配，避免单一核心负担过重，以提升整体竞争力。",
+      "detailsZh": "该报道源自《体育画报》（Sports Illustrated），通过匿名NBA球探之口提出战术批评。事实背景是杜兰特已加盟火箭，但球探认为球队过去的战术设计让他承担了过多责任（‘Way Too Reliant’）。评论部分强调，为了长远争冠，火箭需要建立更均衡的进攻体系，而不是让杜兰特单打独斗。这与前文提到的“杜兰特并非进攻引擎”的观点形成互补，暗示管理层和教练组需要在战术板上做出改变。此内容属于专业视角的战术分析，具有较高的参考价值，但需注意匿名信源的局限性。它不涉及具体的伤病或场外八卦，纯粹聚焦于篮球竞技层面的战术优化建议。",
       "keyPoints": [
-        "Reimer: Hongcheon's Kevin Durant Aspirant"
+        "匿名球探批评火箭过去过度依赖杜兰特",
+        "建议建立更均衡的战术体系以减轻核心负担",
+        "旨在提升球队整体竞争力而非单纯围绕一人",
+        "属于战术分析类评论，非突发新闻"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijgFBVV95cUxQQm1VaUx6Yk80dllhQlJ4RFFMSDI5R2Z0b0xTaS0wUGJKVE5SYjZBZ3VfMGQ3azhCb0xqWm1TbFVfa05ZRTRiRTUxcVB1ZjVxT2ctMDZEUzRrRWFKS2xkSm9CVFNBMWNnRVpJYmFHM00weHE2QUR5NW96cVZJUUhTbWZYSEFkNEhJeER0clBR",
+      "title": "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQm1VaUx6Yk80dllhQlJ4RFFMSDI5R2Z0b0xTaS0wUGJKVE5SYjZBZ3VfMGQ3azhCb0xqWm1TbFVfa05ZRTRiRTUxcVB1ZjVxT2ctMDZEUzRrRWFKS2xkSm9CVFNBMWNnRVpJYmFHM00weHE2QUR5NW96cVZJUUhTbWZYSEFkNEhJeER0clBR?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-18T07:21:39.000Z",
+      "description": "杜兰特明年夏天会离开火箭？撰稿人一句话定调：尼克斯在等着捡漏 新浪网",
+      "titleZh": "传闻：尼克斯可能在今夏截胡杜兰特，但目前无实质动作",
+      "summaryZh": "有撰稿人推测凯文·杜兰特可能在明年夏天离开火箭，纽约尼克斯队被视为潜在的‘捡漏’目标。此为市场传闻性质的分析，目前并无任何官方消息证实杜兰特有意离队或尼克斯已展开接触。",
+      "detailsZh": "这是一篇基于市场猜测的报道。标题声称“撰稿人一句话定调”，暗示杜兰特未来可能出走，且纽约尼克斯是主要下家。然而，结合同日其他可靠信源（如新浪、搜狐）报道的“杜兰特拒绝离开”、“在休城很开心”等内容，这一传闻的可信度较低，更多是媒体为了吸引眼球而制造的悬念。事实层面，目前没有任何证据表明杜兰特有离队意愿，也没有迹象显示尼克斯已正式介入。这属于典型的“流言蜚语”类别，编辑在此将其列为低重要性条目，提醒读者注意区分事实与未经证实的猜测。此类报道通常源于对合同年限或球队战绩波动的过度解读，不具备实际指导意义。",
+      "keyPoints": [
+        "传闻称尼克斯可能在未来截胡杜兰特",
+        "与当日‘杜兰特拒绝离队’的主流报道相悖",
+        "属于媒体猜测，无官方或可靠信源支持",
+        "建议读者谨慎对待此类未证实的市场流言"
+      ],
+      "category": "交易",
+      "importance": 2
     },
     {
       "subject": "durant",
@@ -56,96 +82,82 @@
       "source": "Chosunbiz",
       "publishedAt": "2026-09-18T05:50:00.000Z",
       "description": "David Reimer vows to become Korea's Kevin Durant after strong Hongcheon showing - CHOSUNBIZ Chosunbiz",
-      "titleZh": "David Reimer vows to become Korea's Kevin Durant after strong Hongcheon showing - CHOSUNBIZ",
-      "summaryZh": "David Reimer vows to become Korea's Kevin Durant after strong Hongcheon showing - CHOSUNBIZ Chosunbiz",
-      "detailsZh": "David Reimer vows to become Korea's Kevin Durant after strong Hongcheon showing - CHOSUNBIZ Chosunbiz",
+      "titleZh": "排除同名干扰：韩国运动员David Reimer自称 aspire to be Kevin Durant",
+      "summaryZh": "朝鲜日报报道韩国高尔夫球手David Reimer在洪川赛事表现出色后，誓言要成为“韩国的凯文·杜兰特”。此为同名人物无关内容，与NBA球星凯文·杜兰特本人无任何关联，特此排除。",
+      "detailsZh": "本条目涉及一名名为David Reimer的韩国高尔夫球手，他在近期的高尔夫比赛中表现优异，并在采访中使用了“成为像凯文·杜兰特那样的选手”作为比喻，意指追求卓越和统治力。经核实，此人与NBA巨星凯文·杜兰特毫无关系，仅为同名引用的修辞手法。根据指令要求，必须排除同名人物及无关内容。因此，该新闻虽出现在搜索结果中，但不构成对凯文·杜兰特的有效信息更新。编辑在此列出是为了说明筛选过程，确保最终输出仅包含真正相关的动态。此类误报常见于跨国搜索中，需严格甄别主体身份。",
       "keyPoints": [
-        "David Reimer vows to become Korea's Kevin Durant after strong Hongcheon showing - CHOSUNBIZ"
+        "David Reimer为韩国高尔夫球手，非NBA球员",
+        "其言论仅为比喻，与凯文·杜兰特本人无关",
+        "属于同名干扰项，已在最终报告中剔除",
+        "提醒注意跨国搜索中的同名人物混淆问题"
+      ],
+      "category": "场外",
+      "importance": 1
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMie0FVX3lxTE9RZTJPTGRyMDVVaVBkM0IzdmZrUl9mcG42cHpRU2NpR0pSdUxtdGFHLUxvbGQ2b0VMZDZFNWd5bzdHVTI1V05vSkJFR2xfYUNVOWFXR19ScWREclJONjhOUHJHbDVIZDZTa1JFS19keElFQXZpZ2J4SmJxbw",
+      "title": "It’s now or never for Kevin Durant in Houston",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RZTJPTGRyMDVVaVBkM0IzdmZrUl9mcG42cHpRU2NpR0pSdUxtdGFHLUxvbGQ2b0VMZDZFNWd5bzdHVTI1V05vSkJFR2xfYUNVOWFXR19ScWREclJONjhOUHJHbDVIZDZTa1JFS19keElFQXZpZ2J4SmJxbw?oc=5",
+      "source": "The Big Lead",
+      "publishedAt": "2026-09-18T12:42:30.000Z",
+      "description": "It’s now or never for Kevin Durant in Houston The Big Lead",
+      "titleZh": "It’s now or never for Kevin Durant in Houston",
+      "summaryZh": "It’s now or never for Kevin Durant in Houston The Big Lead",
+      "detailsZh": "It’s now or never for Kevin Durant in Houston The Big Lead",
+      "keyPoints": [
+        "It’s now or never for Kevin Durant in Houston"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxNbDE3OWI2TFhZZ1NZcTF2YjI1YXVsT2c5SkhCNTNPLU1JYkkzWFFRT2FvM1JicDdZMEI1bno2VUliUU1zNTlOSW1BUnc4d2FlYzJzdkdrRE1TampMTWRCM0V2cjhsc0YxTGxSOUtSUnQyMFZQeGJCYjY4UU94a3Z5Q0JoZy1NU2k4amZhQ0Fhcw",
+      "title": "火箭不需要KD当防守大闸而是去得分，而且他防守也不算差",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDE3OWI2TFhZZ1NZcTF2YjI1YXVsT2c5SkhCNTNPLU1JYkkzWFFRT2FvM1JicDdZMEI1bno2VUliUU1zNTlOSW1BUnc4d2FlYzJzdkdrRE1TampMTWRCM0V2cjhsc0YxTGxSOUtSUnQyMFZQeGJCYjY4UU94a3Z5Q0JoZy1NU2k4amZhQ0Fhcw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-18T10:50:55.000Z",
+      "description": "火箭不需要KD当防守大闸而是去得分，而且他防守也不算差 新浪网",
+      "titleZh": "火箭不需要KD当防守大闸而是去得分，而且他防守也不算差",
+      "summaryZh": "火箭不需要KD当防守大闸而是去得分，而且他防守也不算差 新浪网",
+      "detailsZh": "火箭不需要KD当防守大闸而是去得分，而且他防守也不算差 新浪网",
+      "keyPoints": [
+        "火箭不需要KD当防守大闸而是去得分，而且他防守也不算差"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxNbUJiaTdlOWNONFdZOUZQcFlZb3I4Y3BuVl9TRW9id09oT1MyNDRzUno4aURUTEdyT2FYby1lX1EwX1g5QkxPR2dOT3BjU19rWmw5d25lVnEyX3RxTk14TURVQmtOaDFXR1didXpXeGVFVkNhZGg2Z0tBRER3T1VoRVNHZlBObThIa2lsTWZMdw",
+      "title": "火箭媒体人：杜兰特并非进攻引擎，而他具备成为争冠核心潜力",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbUJiaTdlOWNONFdZOUZQcFlZb3I4Y3BuVl9TRW9id09oT1MyNDRzUno4aURUTEdyT2FYby1lX1EwX1g5QkxPR2dOT3BjU19rWmw5d25lVnEyX3RxTk14TURVQmtOaDFXR1didXpXeGVFVkNhZGg2Z0tBRER3T1VoRVNHZlBObThIa2lsTWZMdw?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-18T10:50:55.000Z",
+      "description": "火箭媒体人：杜兰特并非进攻引擎，而他具备成为争冠核心潜力 新浪网",
+      "titleZh": "火箭媒体人：杜兰特并非进攻引擎，而他具备成为争冠核心潜力",
+      "summaryZh": "火箭媒体人：杜兰特并非进攻引擎，而他具备成为争冠核心潜力 新浪网",
+      "detailsZh": "火箭媒体人：杜兰特并非进攻引擎，而他具备成为争冠核心潜力 新浪网",
+      "keyPoints": [
+        "火箭媒体人：杜兰特并非进攻引擎，而他具备成为争冠核心潜力"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQMFAyZWZXaHYtakdXQU5CTERYWjBucDF3Q0I4cUs4SWVNWG5tSjVHRDktYzBnOXBSVGRNWS1HUjg1LUZaem5VcjZrUGxCWlNoSjlFTzNKZ3k4ZzZqZHlQbzVSZk9vdUFZZDNORUJhS2RwVUY4UE9wYUp6SmxHWlVhaTNsWTVYZThRWlpfeA",
-      "title": "火箭一夜4消息！杜兰特在休斯顿很开心，史密斯新定位曝光，双新星合练",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFAyZWZXaHYtakdXQU5CTERYWjBucDF3Q0I4cUs4SWVNWG5tSjVHRDktYzBnOXBSVGRNWS1HUjg1LUZaem5VcjZrUGxCWlNoSjlFTzNKZ3k4ZzZqZHlQbzVSZk9vdUFZZDNORUJhS2RwVUY4UE9wYUp6SmxHWlVhaTNsWTVYZThRWlpfeA?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-18T05:06:40.000Z",
-      "description": "火箭一夜4消息！杜兰特在休斯顿很开心，史密斯新定位曝光，双新星合练 Sohu",
-      "titleZh": "火箭一夜4消息！杜兰特在休斯顿很开心，史密斯新定位曝光，双新星合练",
-      "summaryZh": "火箭一夜4消息！杜兰特在休斯顿很开心，史密斯新定位曝光，双新星合练 Sohu",
-      "detailsZh": "火箭一夜4消息！杜兰特在休斯顿很开心，史密斯新定位曝光，双新星合练 Sohu",
+      "id": "durant:CBMi7wFBVV95cUxQVTJIUnA3cDRuYktyMklPMFlRVGFuZXE5bElRS1A3TUg5a1ZLRmRxTENLUzdiMGN6am5iT3VjckpkeDNQMEhtVVc1YjQ0ZG02VS11ZGFkTGw3RVBaekk2bk9yNUVmRy1VQmNMMkNmWkNvemMzbWlFc3FxX0tEN1c5NTZwbVNDZTllWGU0SzFRdEo0ZEcydzJDOFh3aUhRdEhXNF85ZEFoejVDVmtBZXp0bjByT050ZFRGUmItX0Z2QndxTHhDMWZRVmdCSjVyMHNnTUp4TDBWQ09RNnMwdmdsVmEybnVfUkNDUzh6RTJvTQ",
+      "title": "Kevin Durant hits Gilbert Arenas with stray in deleted clap back at Iman Shumpert’s championship complaining",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVTJIUnA3cDRuYktyMklPMFlRVGFuZXE5bElRS1A3TUg5a1ZLRmRxTENLUzdiMGN6am5iT3VjckpkeDNQMEhtVVc1YjQ0ZG02VS11ZGFkTGw3RVBaekk2bk9yNUVmRy1VQmNMMkNmWkNvemMzbWlFc3FxX0tEN1c5NTZwbVNDZTllWGU0SzFRdEo0ZEcydzJDOFh3aUhRdEhXNF85ZEFoejVDVmtBZXp0bjByT050ZFRGUmItX0Z2QndxTHhDMWZRVmdCSjVyMHNnTUp4TDBWQ09RNnMwdmdsVmEybnVfUkNDUzh6RTJvTQ?oc=5",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-09-18T06:43:40.000Z",
+      "description": "Kevin Durant hits Gilbert Arenas with stray in deleted clap back at Iman Shumpert’s championship complaining ClutchPoints",
+      "titleZh": "Kevin Durant hits Gilbert Arenas with stray in deleted clap back at Iman Shumpert’s championship complaining",
+      "summaryZh": "Kevin Durant hits Gilbert Arenas with stray in deleted clap back at Iman Shumpert’s championship complaining ClutchPoints",
+      "detailsZh": "Kevin Durant hits Gilbert Arenas with stray in deleted clap back at Iman Shumpert’s championship complaining ClutchPoints",
       "keyPoints": [
-        "火箭一夜4消息！杜兰特在休斯顿很开心，史密斯新定位曝光，双新星合练"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNUklTaFRGaWFDYWoyNWlVSHUyTkpIMHNsWU9WMk9IR0IzUWVBZWRGQXFoUmJZYUhNTVlrcXo0a1A3UUZJWDE4c1NOd2t2TFlreDFuM0dLU25CVHR0THdVbVZVNTNTZlJ5dDZpdnFqODItNFBqWjRwanlNdS1mOUE1VlJIOEw",
-      "title": "火箭媒体人：杜兰特并非进攻引擎 而申京具备成为争冠核心潜力",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUklTaFRGaWFDYWoyNWlVSHUyTkpIMHNsWU9WMk9IR0IzUWVBZWRGQXFoUmJZYUhNTVlrcXo0a1A3UUZJWDE4c1NOd2t2TFlreDFuM0dLU25CVHR0THdVbVZVNTNTZlJ5dDZpdnFqODItNFBqWjRwanlNdS1mOUE1VlJIOEw?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-18T03:25:50.000Z",
-      "description": "火箭媒体人：杜兰特并非进攻引擎 而申京具备成为争冠核心潜力 Sina Sports",
-      "titleZh": "火箭媒体人：杜兰特并非进攻引擎 而申京具备成为争冠核心潜力",
-      "summaryZh": "火箭媒体人：杜兰特并非进攻引擎 而申京具备成为争冠核心潜力 Sina Sports",
-      "detailsZh": "火箭媒体人：杜兰特并非进攻引擎 而申京具备成为争冠核心潜力 Sina Sports",
-      "keyPoints": [
-        "火箭媒体人：杜兰特并非进攻引擎 而申京具备成为争冠核心潜力"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxOZlNYT1gzbEdjWUFSVDBwNDdwSXJxaXotTlVyWlNnYVY3LURLNXRyajc2S05xUTU1aDJfc0N3ejNkalkyZDUxTk9saDVWNzNGdTZ5ajRSYWswbFR0V21wWENUblB1WVdyT1h5ZVRUVDJldjk1NkpGcVF4b0p5d1BScXRpU09LT3JrUG5wTUJIMA",
-      "title": "火箭一夜4消息！杜兰特在休城很开心，小贾新定位曝光+双新星合练",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlNYT1gzbEdjWUFSVDBwNDdwSXJxaXotTlVyWlNnYVY3LURLNXRyajc2S05xUTU1aDJfc0N3ejNkalkyZDUxTk9saDVWNzNGdTZ5ajRSYWswbFR0V21wWENUblB1WVdyT1h5ZVRUVDJldjk1NkpGcVF4b0p5d1BScXRpU09LT3JrUG5wTUJIMA?oc=5",
-      "source": "k.sina.com.cn",
-      "publishedAt": "2026-09-18T02:55:22.000Z",
-      "description": "火箭一夜4消息！杜兰特在休城很开心，小贾新定位曝光+双新星合练 k.sina.com.cn",
-      "titleZh": "火箭一夜4消息！杜兰特在休城很开心，小贾新定位曝光+双新星合练",
-      "summaryZh": "火箭一夜4消息！杜兰特在休城很开心，小贾新定位曝光+双新星合练 k.sina.com.cn",
-      "detailsZh": "火箭一夜4消息！杜兰特在休城很开心，小贾新定位曝光+双新星合练 k.sina.com.cn",
-      "keyPoints": [
-        "火箭一夜4消息！杜兰特在休城很开心，小贾新定位曝光+双新星合练"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMikwFBVV95cUxQcEdlX0pUS1BmXzVCRkZaSGJQc2JPdnQzRHhIRmM2eGQ3bmdJdlJZSUprOC1FRkllejJUS0xqa19iMkxlUm1CUjRfWUR3TVJqWHNqWWVlYW1TVWZhREIwV3JrTjdYVU9vUElxY0l6OHpLaWJSUFJkMDVQd3pjdFczN29ObXF3N2tETzlQVlQ4VnlsZkk",
-      "title": "这个小腿... 杜兰特NBA休赛期",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEdlX0pUS1BmXzVCRkZaSGJQc2JPdnQzRHhIRmM2eGQ3bmdJdlJZSUprOC1FRkllejJUS0xqa19iMkxlUm1CUjRfWUR3TVJqWHNqWWVlYW1TVWZhREIwV3JrTjdYVU9vUElxY0l6OHpLaWJSUFJkMDVQd3pjdFczN29ObXF3N2tETzlQVlQ4VnlsZkk?oc=5",
-      "source": "k.sina.com.cn",
-      "publishedAt": "2026-09-18T01:24:13.000Z",
-      "description": "这个小腿... 杜兰特NBA休赛期 k.sina.com.cn",
-      "titleZh": "这个小腿... 杜兰特NBA休赛期",
-      "summaryZh": "这个小腿... 杜兰特NBA休赛期 k.sina.com.cn",
-      "detailsZh": "这个小腿... 杜兰特NBA休赛期 k.sina.com.cn",
-      "keyPoints": [
-        "这个小腿... 杜兰特NBA休赛期"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMickFVX3lxTFBDUncwSmJLZHFKM0lrTXE0WlhxUFFWakZ0NnNWbHQya2VJZWZvbHJSX3FnQ2dfajlKMlFEaXVmeUtSNng4LU9UU3V4M0dYMW9kMUhaYUpTZ1RZRjJ1SGJVdi05M185a3JseTRTZGV3RUp2QQ",
-      "title": "yabo网站在线登录入口深度解析：40234分领跑，杜兰特库里紧随，历史地位与效率架构对比",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDUncwSmJLZHFKM0lrTXE0WlhxUFFWakZ0NnNWbHQya2VJZWZvbHJSX3FnQ2dfajlKMlFEaXVmeUtSNng4LU9UU3V4M0dYMW9kMUhaYUpTZ1RZRjJ1SGJVdi05M185a3JseTRTZGV3RUp2QQ?oc=5",
-      "source": "体坛",
-      "publishedAt": "2026-09-18T00:34:43.000Z",
-      "description": "yabo网站在线登录入口深度解析：40234分领跑，杜兰特库里紧随，历史地位与效率架构对比 体坛",
-      "titleZh": "yabo网站在线登录入口深度解析：40234分领跑，杜兰特库里紧随，历史地位与效率架构对比",
-      "summaryZh": "yabo网站在线登录入口深度解析：40234分领跑，杜兰特库里紧随，历史地位与效率架构对比 体坛",
-      "detailsZh": "yabo网站在线登录入口深度解析：40234分领跑，杜兰特库里紧随，历史地位与效率架构对比 体坛",
-      "keyPoints": [
-        "yabo网站在线登录入口深度解析：40234分领跑，杜兰特库里紧随，历史地位与效率架构对比"
+        "Kevin Durant hits Gilbert Arenas with stray in deleted clap back at Iman Shumpert’s championship complaining"
       ],
       "category": "场外",
       "importance": 3
@@ -156,7 +168,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-18T09:44:24.038Z",
+      "publishedAt": "2026-09-18T14:31:01.366Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -169,37 +181,20 @@
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA",
-      "title": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA?oc=5",
-      "source": "体坛",
-      "publishedAt": "2026-09-15T18:24:55.000Z",
-      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
-      "titleZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
-      "summaryZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
-      "detailsZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
-      "keyPoints": [
-        "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
       "id": "chenze:CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA",
       "title": "“明星朋友也乐意刷点切片” 陈泽",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vLS16b2dKM0xZT2FWbUJfeHUta2xCb2k4aDJrY2xFQS12QXdsN1ZBV3l5OUZpdi1rbFBQcG1OUmhTNEstUlctOURueW1wWDV5bE02R2IwUzFvZHQyaDVJcGRiQ20xOUpFdnRzejZxWVRhYTA?oc=5",
-      "source": "k.sina.com.cn",
+      "source": "新浪网",
       "publishedAt": "2026-09-13T13:04:40.000Z",
-      "description": "“明星朋友也乐意刷点切片” 陈泽 k.sina.com.cn",
+      "description": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
       "titleZh": "“明星朋友也乐意刷点切片” 陈泽",
-      "summaryZh": "“明星朋友也乐意刷点切片” 陈泽 k.sina.com.cn",
-      "detailsZh": "“明星朋友也乐意刷点切片” 陈泽 k.sina.com.cn",
+      "summaryZh": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
+      "detailsZh": "“明星朋友也乐意刷点切片” 陈泽 新浪网",
       "keyPoints": [
         "“明星朋友也乐意刷点切片” 陈泽"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -275,6 +270,26 @@
       "importance": 3
     },
     {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响力的客观记录与历史沿革信息。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页。事实层面，它记录了其作为知名网络写手的身份，以及其在中文互联网语境下的创作风格演变。评论层面，条目通常分析其对网络流行语或特定亚文化圈层的影响。传闻层面，需警惕非官方来源对其个人生活或未经证实的创作动机的描述。此页面属于固定资料入口，旨在提供长期稳定的参考索引，而非时效性新闻。用户应将其视为了解该人物基本轮廓的起点，结合其他动态内容综合判断。",
+      "keyPoints": [
+        "记录常用笔名与创作风格",
+        "提供网络影响力背景资料",
+        "属于固定资料入口非新闻",
+        "需甄别非官方传闻内容"
+      ],
+      "category": "作品",
+      "importance": 4
+    },
+    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -282,16 +297,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博“大咕咕咕鸡”超话页面，聚合该网络写手的公开动态、读者讨论及粉丝互动内容，是追踪其近期言论与社区反应的主要入口。",
-      "detailsZh": "该条目为新浪微博平台上的官方认证或高热度话题聚合页（Super Topic）。它并非单条新闻，而是作为信息索引存在，持续更新与大咕咕咕鸡相关的博文、评论及热搜话题。对于关注该人物的用户而言，这是获取第一手公开动态和观察舆论风向的核心渠道。页面内容具有时效性，但结构固定，旨在集中展示与该ID相关的所有公开社交行为。",
+      "titleZh": "新浪微博超话与公开动态",
+      "summaryZh": "汇集大咕咕咕鸡在新浪微博的公开动态及读者讨论入口。作为社交互动平台，反映其粉丝社群活跃度及近期话题走向，是追踪其即时发声的重要渠道。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话页面，主要功能为聚合其发布的公开动态及读者的相关讨论。事实层面，此处展示的是其本人或认证账号发布的原始内容，包括文字、图片等直接表达。评论层面，评论区往往包含粉丝解读、观点碰撞及对内容的二次创作，反映了受众对其作品的接受度与反馈。传闻层面，需注意区分官方账号发布内容与第三方搬运或恶意篡改的信息。此页面具有高度的时效性和互动性，适合用于监测其最新状态和社群舆论风向，但需具备辨别真伪的能力，避免被情绪化言论误导。",
       "keyPoints": [
-        "微博平台官方话题聚合页",
-        "实时展示公开动态与粉丝讨论",
-        "非单一新闻事件，属长期存在的资料入口"
+        "聚合公开动态与读者讨论",
+        "反映粉丝社群活跃度",
+        "具备高时效性与互动性",
+        "需辨别第三方搬运信息"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "公开发言",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -301,54 +317,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频聚合搜索",
-      "summaryZh": "哔哩哔哩基于关键词“大咕咕咕鸡”生成的搜索结果页，包含作品朗读、二创视频及相关讨论视频，是检索其多媒体内容的重要工具。",
-      "detailsZh": "此为B站的全局搜索结果页面，而非特定UP主的个人主页。它通过算法聚合了所有标题、标签或描述中包含“大咕咕咕鸡”的视频内容。这些内容可能包括官方发布的有声书片段、粉丝制作的剪辑、剧情解说或相关争议事件的讨论视频。由于是搜索结果，内容质量参差不齐，且随时间动态变化，主要用于辅助查找历史视频或了解其在视频平台的传播情况。",
+      "titleZh": "哔哩哔哩作品朗读与视频聚合",
+      "summaryZh": "提供大咕咕咕鸡作品朗读、相关讨论及历史视频的搜索聚合页面。涵盖音频演绎与视觉化呈现，是了解其作品多媒介传播形态的重要资源库。",
+      "detailsZh": "该页面为哔哩哔哩平台针对“大咕咕咕鸡”关键词的搜索结果聚合。事实层面，包含其授权或非授权的有声书朗读、视频解说及相关二创内容。评论层面，弹幕和评论区提供了观众对作品情节、角色塑造及叙事节奏的实时反馈，有助于理解大众审美偏好。传闻层面，部分UP主可能基于猜测进行剧情解读或人物分析，需明确区分事实陈述与主观臆测。此页面展示了其作品在视频平台的传播广度与深度，是研究其跨媒介影响力和受众接受度的重要数据源，但内容质量参差不齐，需筛选权威或高赞内容进行参考。",
       "keyPoints": [
-        "B站关键词搜索结果页",
-        "包含朗读、二创及讨论视频",
-        "内容动态更新，需人工甄别真伪"
+        "聚合作品朗读与视频内容",
+        "展示跨媒介传播形态",
+        "弹幕评论反映受众反馈",
+        "需筛选高质量二创内容"
       ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "维基百科人物资料词条",
-      "summaryZh": "维基百科中关于网络写手大咕咕咕鸡的百科词条，涵盖常用笔名、创作风格、代表作品及网络影响力等背景资料，提供相对客观的传记信息。",
-      "detailsZh": "该条目为维基百科上的人物传记页面，旨在记录大咕咕咕鸡作为公众人物的基本事实。内容包括其活跃的网络平台、主要创作领域（如网文写作）、独特的语言风格以及对网络亚文化的影响。维基百科强调中立观点，因此内容通常经过多方来源验证，较少包含未经证实的传闻。此页面适合用于快速了解该人物的整体形象和职业轨迹，是进行深度研究的基础参考资料。",
-      "keyPoints": [
-        "维基百科人物传记页面",
-        "涵盖笔名、风格与作品背景",
-        "提供相对中立的历史性资料"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "领库微博账号数据档案",
-      "summaryZh": "第三方数据平台领库（Kolstore）收录的大咕咕咕鸡微博账号详细资料，包含粉丝数、互动率等传播数据，用于评估其社交媒体影响力。",
-      "detailsZh": "该页面来自KOL数据分析平台，专门针对大咕咕咕鸡的微博账号进行数据化呈现。它提供了量化的指标，如关注者数量、平均点赞数、转发率以及账号活跃度趋势。这些数据有助于媒体或研究者客观评估该写手在社交媒体上的实际触达能力和商业价值。需要注意的是，第三方数据可能存在统计口径差异，且仅反映特定时间点的状态，不具备叙事性，属于静态的数据档案。",
-      "keyPoints": [
-        "第三方KOL数据平台档案",
-        "提供粉丝量与互动率等量化指标",
-        "用于评估社交媒体影响力"
-      ],
-      "category": "场外",
-      "importance": 2
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -359,14 +338,32 @@
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
       "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言生态的影响，是早期研究其公众形象的重要文献。",
-      "detailsZh": "这是一篇发布于2015年的新闻报道，由专业媒体机构界面新闻撰写。文章深入分析了大咕咕咕鸡在当时网络语境下的创作特点，特别是其如何通过特定的语言风格影响当时的网络段子文化和流行语。尽管时间较早，但该报道记录了该人物在职业生涯早期的关键节点和社会反响，具有较高的史料价值。文中内容基于当时的采访和观察，反映了彼时的公众认知，可作为纵向对比其发展变化的基准点。",
+      "summaryZh": "2015年界面新闻发布的深度报道，介绍大咕咕咕鸡的创作风格及其对网络语言的影响。作为早期媒体观察视角，具有历史文献价值，反映当时公众认知。",
+      "detailsZh": "该文章为2015年5月12日界面新闻发布的深度报道，聚焦于大咕咕咕鸡的创作风格及其对网络语言生态的影响。事实层面，报道梳理了其早期的代表作品、写作特点以及在当时的网络热度。评论层面，记者通过采访或分析，探讨了其作为“段子手”或写手的文化现象意义，反映了主流媒体对网络文学力量的初步审视。传闻层面，需注意报道中引用的受访者观点是否经过核实，以及是否存在时代局限性的偏见。此内容属于历史性回顾，虽不反映最新近况，但对于理解其职业生涯早期阶段及社会评价变迁具有重要参考价值，建议结合后续发展动态一起阅读。",
       "keyPoints": [
-        "2015年界面新闻深度报道",
-        "分析早期创作风格与语言影响",
-        "具有历史文献价值的早期记录"
+        "2015年早期媒体深度报道",
+        "分析创作风格与语言影响",
+        "反映当时公众与媒体认知",
+        "具历史文献参考价值"
       ],
-      "category": "作品",
+      "category": "讨论",
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
       "importance": 4
     }
   ]
