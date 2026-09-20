@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:27:35.516Z",
+  "updatedAt": "2026-09-20T16:06:59.890Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,83 +16,20 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn",
-      "title": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-20T08:29:00.000Z",
-      "description": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
-      "titleZh": "美媒曝杜兰特交易至尼克斯方案",
-      "summaryZh": "休赛期期间，有美国媒体提出火箭队将杜兰特送至纽约尼克斯的三方交易构想。该方案涉及多名球员互换，引发球迷关于“白菜价”交易的讨论，目前仅为媒体猜测，无官方确认。",
-      "detailsZh": "事实：近期有多家体育媒体在休赛期报道了关于凯文·杜兰特的潜在交易流言，其中一份具体方案指向纽约尼克斯队。传闻称火箭队可能通过一笔复杂的三方交易送出杜兰特，以换取其他资产或年轻球员。评论指出，鉴于杜兰特与火箭队的合同状况及球队重建方向，此类交易在逻辑上存在可能性，但执行难度极大。部分网友认为若发生交易，杜兰特的身价可能被低估。需明确的是，截至目前，没有任何球队官方宣布与杜兰特进行谈判，所有信息均源自非官方媒体的推测性文章，属于典型的休赛期谣言循环。",
+      "id": "durant:search:https://www.163.com/dy/article/L74DIH140549O5BQ.html",
+      "title": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
+      "url": "https://www.163.com/dy/article/L74DIH140549O5BQ.html",
+      "source": "网易",
+      "publishedAt": "2026-09-20T16:03:21.002Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "美媒提出火箭送杜兰特至尼克斯的交易构想",
-        "涉及多方球员互换，细节未经证实",
-        "舆论场出现对杜兰特市场价值的争议性评价",
-        "目前无任何球队官方确认相关谈判"
-      ],
-      "category": "交易",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMidkFVX3lxTE1CRXNjWnRNV0FyQWw5TnVMQjVwdkVYb2pqZUZoSVBLNmNfTFJOSXdYeXBNelAwTHNQZU9wUzZlazVTUEtCdlB6YzZHX29fU19HcWUwdmhQU0liUUh6eFpQQ0FYWElDTm42TUVmVFZmR3Z4bXBsc1E",
-      "title": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CRXNjWnRNV0FyQWw5TnVMQjVwdkVYb2pqZUZoSVBLNmNfTFJOSXdYeXBNelAwTHNQZU9wUzZlazVTUEtCdlB6YzZHX29fU19HcWUwdmhQU0liUUh6eFpQQ0FYWElDTm42TUVmVFZmR3Z4bXBsc1E?oc=5",
-      "source": "Hoops Wire",
-      "publishedAt": "2026-09-20T05:11:46.000Z",
-      "description": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence Hoops Wire",
-      "titleZh": "球探分析范弗里特缓解火箭依赖",
-      "summaryZh": "一名NBA球探指出，弗雷德·范弗里特在火箭队战术体系中扮演关键角色，有助于减轻球队对凯文·杜兰特的进攻依赖。此观点侧重于战术层面的互补性分析。",
-      "detailsZh": "事实：在火箭队的训练和战术准备中，控卫弗雷德·范弗里特被赋予更多组织重任。评论：一位匿名NBA球探在接受采访时分析认为，范弗里特的持球能力和外线投射能有效分担杜兰特的进攻压力，使火箭队在杜兰特休息或手感不佳时保持竞争力。这种战术搭配被视为火箭队休赛期补强的核心逻辑之一。传闻：尽管有分析支持这一观点，但并未提及杜兰特本人对此战术安排的具体反馈，也未确认这是否已转化为最终的赛季首发阵容安排。该报道主要反映外界对火箭队新阵容化学反应的专业解读，而非既定事实。",
-      "keyPoints": [
-        "NBA球探评估范弗里特对杜兰特的战术辅助作用",
-        "强调双核驱动对减轻KD进攻负担的重要性",
-        "反映外界对火箭队新赛季战术体系的预期",
-        "缺乏杜兰特本人对战术角色的公开回应"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOWFB0TnhvX1lBa2pWOUhKTWtCVGUyYlBBX21yU1o3U01oREtwTFpZNnBWdXNBYzRtUm5WeENwZzA0MHl2N2JhZXJxY0Z4dURPam55RDFBMlU0aUlYdlV5blgwN2NCdUFhTUpWSHkxTWplbXlVWEJYT21JZmNMNXFIQkhtQkdZTXNxSHBPOA",
-      "title": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFB0TnhvX1lBa2pWOUhKTWtCVGUyYlBBX21yU1o3U01oREtwTFpZNnBWdXNBYzRtUm5WeENwZzA0MHl2N2JhZXJxY0Z4dURPam55RDFBMlU0aUlYdlV5blgwN2NCdUFhTUpWSHkxTWplbXlVWEJYT21JZmNMNXFIQkhtQkdZTXNxSHBPOA?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-20T04:37:38.000Z",
-      "description": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿 Sohu",
-      "titleZh": "杜兰特与范弗里特首次合练消息",
-      "summaryZh": "据媒体报道，凯文·杜兰特与弗雷德·范弗里特在休斯顿进行了首次联合训练。此次合练标志着两人作为队友的初步磨合开始，是火箭队休赛期阵容整合的重要一步。",
-      "detailsZh": "事实：多家体育新闻源报道，凯文·杜兰特与火箭队新援弗雷德·范弗里特在休斯顿的训练设施中共同参与了训练。这是两人自杜兰特加盟火箭后首次在同一场地进行系统性的合练。评论：这次合练被视为火箭队新赛季战术体系落地的信号，特别是针对杜兰特与后卫线的配合问题。媒体普遍认为，范弗里特的到来旨在优化杜兰德的持球环境。然而，具体的训练内容、时长以及教练组对两人搭档时间的限制等细节并未完全公开。目前仅能确认合练事件本身，其对未来比赛的实际影响仍需等待季前赛的检验。",
-      "keyPoints": [
-        "杜兰特与范弗里特完成首次联合训练",
-        "标志火箭队新阵容磨合期的正式开始",
-        "媒体关注点集中在两人战术配合的潜力",
-        "具体训练细节及教练组意图尚未完全披露"
-      ],
-      "category": "比赛",
-      "importance": 5
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxQZ2hFREJNQmkwcjR4aENNQTlwOGQ0RmRjeDNuWnlkUFREVVhqVHVURW1UTkUtVlFZMVFMMzc1TmU0amgzeWRJQjhLaDN0VFI3U1o2TEdzOXV2TC13czl5d3VRRkMzWlVtZUVvOERXT1g3UzUwLU1FRXNfTzNpeWNFUGJmRGE",
-      "title": "谁说我没根了？老佩顿：要在KD太老前把他带回西雅图 复兴超音速",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2hFREJNQmkwcjR4aENNQTlwOGQ0RmRjeDNuWnlkUFREVVhqVHVURW1UTkUtVlFZMVFMMzc1TmU0amgzeWRJQjhLaDN0VFI3U1o2TEdzOXV2TC13czl5d3VRRkMzWlVtZUVvOERXT1g3UzUwLU1FRXNfTzNpeWNFUGJmRGE?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-09-20T03:27:49.000Z",
-      "description": "谁说我没根了？老佩顿：要在KD太老前把他带回西雅图 复兴超音速 新浪网",
-      "titleZh": "老佩顿呼吁将杜兰特带回西雅图",
-      "summaryZh": "前NBA球星格伦·罗宾逊三世（注：此处原文指老佩顿Gary Payton，需核实，通常老佩顿关联超音速）或相关人士提出希望将杜兰特带回西雅图以复兴超音速品牌。此为场外言论，反映历史情怀与商业想象。",
-      "detailsZh": "事实：有媒体报道称，前NBA巨星加里·佩顿（Gary Payton）或其相关言论提及希望凯文·杜兰特能在职业生涯后期回到西雅图，助力当地球队或品牌复兴。评论：这一提议更多基于情感纽带和历史渊源，而非现实的交易可行性。西雅图目前拥有雷霆队，且杜兰特与俄克拉荷马城有着深厚的历史联系。然而，从竞技状态、合同条款及球队规划来看，将杜兰特引入西雅图面临巨大障碍。该言论属于典型的“怀旧型”场外话题，旨在引发球迷共鸣和媒体讨论，不具备实质性的操作意义。",
-      "keyPoints": [
-        "前球星呼吁杜兰特回归西雅图背景",
-        "言论基于历史情怀而非现实交易逻辑",
-        "涉及西雅图篮球文化复兴的想象空间",
-        "实际执行可能性极低，属场外娱乐话题"
+        "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -126,7 +63,75 @@
         "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn",
+      "title": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-20T08:29:00.000Z",
+      "description": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
+      "titleZh": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价",
+      "summaryZh": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
+      "detailsZh": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
+      "keyPoints": [
+        "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMidkFVX3lxTE1CRXNjWnRNV0FyQWw5TnVMQjVwdkVYb2pqZUZoSVBLNmNfTFJOSXdYeXBNelAwTHNQZU9wUzZlazVTUEtCdlB6YzZHX29fU19HcWUwdmhQU0liUUh6eFpQQ0FYWElDTm42TUVmVFZmR3Z4bXBsc1E",
+      "title": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CRXNjWnRNV0FyQWw5TnVMQjVwdkVYb2pqZUZoSVBLNmNfTFJOSXdYeXBNelAwTHNQZU9wUzZlazVTUEtCdlB6YzZHX29fU19HcWUwdmhQU0liUUh6eFpQQ0FYWElDTm42TUVmVFZmR3Z4bXBsc1E?oc=5",
+      "source": "Hoops Wire",
+      "publishedAt": "2026-09-20T05:11:46.000Z",
+      "description": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence Hoops Wire",
+      "titleZh": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence",
+      "summaryZh": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence Hoops Wire",
+      "detailsZh": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence Hoops Wire",
+      "keyPoints": [
+        "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxOWFB0TnhvX1lBa2pWOUhKTWtCVGUyYlBBX21yU1o3U01oREtwTFpZNnBWdXNBYzRtUm5WeENwZzA0MHl2N2JhZXJxY0Z4dURPam55RDFBMlU0aUlYdlV5blgwN2NCdUFhTUpWSHkxTWplbXlVWEJYT21JZmNMNXFIQkhtQkdZTXNxSHBPOA",
+      "title": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFB0TnhvX1lBa2pWOUhKTWtCVGUyYlBBX21yU1o3U01oREtwTFpZNnBWdXNBYzRtUm5WeENwZzA0MHl2N2JhZXJxY0Z4dURPam55RDFBMlU0aUlYdlV5blgwN2NCdUFhTUpWSHkxTWplbXlVWEJYT21JZmNMNXFIQkhtQkdZTXNxSHBPOA?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-20T04:37:38.000Z",
+      "description": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿 Sohu",
+      "titleZh": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿",
+      "summaryZh": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿 Sohu",
+      "detailsZh": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿 Sohu",
+      "keyPoints": [
+        "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxNZ1J3Q0psWmFIUHRWWHAwWnlqR21NdnJrLTZPSVJ6elF3Q2stNDhrLTFTbVJjemN6dUp0MkxwWHdaOV9qVVFUblR2VGdES0dFSndaWVdsWWJqamhRWXlHankwQzNqcmJWZDdSeW5FdjhfWmdIa1BHcVlfZV9rQVBmQjQtV0cxckpESHlxUA",
+      "title": "火箭争冠三大致命问题曝光！美媒直言杜兰特太累，点名申京太拉垮",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1J3Q0psWmFIUHRWWHAwWnlqR21NdnJrLTZPSVJ6elF3Q2stNDhrLTFTbVJjemN6dUp0MkxwWHdaOV9qVVFUblR2VGdES0dFSndaWVdsWWJqamhRWXlHankwQzNqcmJWZDdSeW5FdjhfWmdIa1BHcVlfZV9rQVBmQjQtV0cxckpESHlxUA?oc=5",
+      "source": "Sohu",
+      "publishedAt": "2026-09-20T03:47:40.000Z",
+      "description": "火箭争冠三大致命问题曝光！美媒直言杜兰特太累，点名申京太拉垮 Sohu",
+      "titleZh": "火箭争冠三大致命问题曝光！美媒直言杜兰特太累，点名申京太拉垮",
+      "summaryZh": "火箭争冠三大致命问题曝光！美媒直言杜兰特太累，点名申京太拉垮 Sohu",
+      "detailsZh": "火箭争冠三大致命问题曝光！美媒直言杜兰特太累，点名申京太拉垮 Sohu",
+      "keyPoints": [
+        "火箭争冠三大致命问题曝光！美媒直言杜兰特太累，点名申京太拉垮"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -146,29 +151,12 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxNcWtaRktRak83ZmwtQ3daaHNEdFZ0UzIzaldSeXI4Y1MyOXM5bUE2SDc2a00xdkk3blBDRVg5cWk3TTNUZV9EUHlCVS1XTS1SWDlmMUNJOTRHUE9hQmZwYzZKakVPdDVmbG5YNWZ1THZBaVZFUUZ4RmJfUC00MXFPOUFXbVFaZldnWG1WOQ",
-      "title": "杜兰特撕毁火箭2年4000万羞辱合同！如果不满足自己的要求将离队",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWtaRktRak83ZmwtQ3daaHNEdFZ0UzIzaldSeXI4Y1MyOXM5bUE2SDc2a00xdkk3blBDRVg5cWk3TTNUZV9EUHlCVS1XTS1SWDlmMUNJOTRHUE9hQmZwYzZKakVPdDVmbG5YNWZ1THZBaVZFUUZ4RmJfUC00MXFPOUFXbVFaZldnWG1WOQ?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-20T03:33:02.000Z",
-      "description": "杜兰特撕毁火箭2年4000万羞辱合同！如果不满足自己的要求将离队 Sohu",
-      "titleZh": "杜兰特撕毁火箭2年4000万羞辱合同！如果不满足自己的要求将离队",
-      "summaryZh": "杜兰特撕毁火箭2年4000万羞辱合同！如果不满足自己的要求将离队 Sohu",
-      "detailsZh": "杜兰特撕毁火箭2年4000万羞辱合同！如果不满足自己的要求将离队 Sohu",
-      "keyPoints": [
-        "杜兰特撕毁火箭2年4000万羞辱合同！如果不满足自己的要求将离队"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-20T11:22:45.167Z",
+      "publishedAt": "2026-09-20T16:03:09.266Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -218,12 +206,12 @@
       "id": "chenze:CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA",
       "title": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA?oc=5",
-      "source": "体坛",
+      "source": "titan24.com",
       "publishedAt": "2026-09-15T18:24:55.000Z",
-      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
+      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 titan24.com",
       "titleZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
-      "summaryZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
-      "detailsZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛",
+      "summaryZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 titan24.com",
+      "detailsZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 titan24.com",
       "keyPoints": [
         "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线"
       ],
@@ -311,17 +299,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与身份信息的结构化整理，非时效性新闻。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页面。事实层面，它记录了其作为知名网络写手的身份，梳理了其常用的笔名变体以及主要的创作风格特征，如幽默讽刺或特定题材的叙事手法。评论层面，维基百科编辑者试图客观呈现其在中文互联网语境下的文化影响力，将其置于网络段子手与早期自媒体发展的历史脉络中进行评估。传闻层面，部分未经验证的轶事可能被标记为需引用来源，但整体基调保持中立。此页面属于固定的人物百科资料入口，旨在提供长期稳定的参考信息，而非报道当天的具体动态或突发事件。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录该写手的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响力和文学创作的客观记录，非当日新闻。",
+      "detailsZh": "事实：该词条系统整理了“大咕咕咕鸡”的笔名沿革、代表作品列表及在中文互联网语境下的文化影响。评论：内容基于公开可查的网络档案，具有较高的参考性，但需注意维基百科内容的动态更新特性。传闻：无显著未经证实的争议性传闻收录于此条目中。此页面为固定的人物资料库，旨在提供长期稳定的背景信息，而非时效性报道。",
       "keyPoints": [
-        "记录常用笔名与身份标识",
-        "分析主要创作风格与题材",
-        "梳理网络影响力与历史定位",
-        "提供结构化背景资料"
+        "收录常用笔名与创作风格演变",
+        "整理代表作品与网络影响力数据",
+        "提供长期稳定的背景资料入口"
       ],
       "category": "作品",
-      "importance": 4
+      "importance": 5
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -331,17 +318,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，汇集其公开动态与读者讨论。此为固定的社区互动入口，用于追踪粉丝交流及官方发布内容，非单日新闻事件。",
-      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话（Super Topic），是粉丝聚集和作者互动的核心社区空间。事实层面，这里实时展示作者的公开博文、转发内容及粉丝的评论互动数据。评论层面，超话内的氛围反映了受众对其作品的接受度与情感投射，常包含对更新频率的期待或对特定情节的解读。传闻层面，偶尔会有粉丝在评论区传播未经证实的创作内幕或谣言，需甄别。此页面本质上是固定的主页或资料入口，用于持续跟踪其社交媒体活动轨迹，不具备单一新闻事件的时效性特征，而是作为长期观察其公众形象的窗口。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博官方超话页面，聚合该写手的公开动态及读者讨论。作为粉丝互动与信息发布的固定入口，提供实时动态追踪功能，非单日新闻事件。",
+      "detailsZh": "事实：该链接指向微博超级话题页，是作者与读者进行日常互动、发布新书预告或生活片段的主要平台。评论：此处内容多为碎片化信息，需结合具体日期筛选有价值的内容。传闻：社区内可能存在关于其创作进度的各种猜测，但应以官方账号发布为准。此页面为固定的社交主页入口，用于持续跟踪其公开活动，不具备单一新闻事件的属性。",
       "keyPoints": [
-        "汇集公开动态与粉丝互动",
-        "反映受众接受度与情感反馈",
-        "存在需甄别的非正式传闻",
-        "作为长期社交活动监控入口"
+        "聚合作者最新公开动态",
+        "提供读者讨论与互动空间",
+        "作为社交媒体信息的固定入口"
       ],
       "category": "公开发言",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -351,14 +337,13 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站相关视频与朗读聚合页",
-      "summaryZh": "哔哩哔哩搜索聚合页，包含大咕咕咕鸡作品朗读、二创视频及相关讨论。此为动态搜索结果入口，非固定主页，内容随用户行为变化而更新。",
-      "detailsZh": "该链接为哔哩哔哩平台针对“大咕咕咕鸡”关键词的搜索结果聚合页。事实层面，它展示了用户上传的作品有声朗读、剧情解说、鬼畜二创以及相关UP主的讨论视频。评论层面，视频弹幕和评论区构成了二次创作的文化景观，体现了年轻群体对其文本的解构与再演绎能力。传闻层面，部分视频可能涉及对作者私生活或创作动机的臆测，缺乏权威来源。此页面并非固定的个人主页，而是基于关键词的动态检索结果，内容具有高度流动性，取决于当前热门视频和用户生成内容（UGC）的趋势，因此不适合直接归类为静态资料或当日新闻，更适合作为多媒体内容的发现入口。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索聚合页，包含作品朗读音频、相关讨论视频及历史影像。作为多媒体内容的检索入口，展示其作品的听觉呈现形式，非特定新闻。",
+      "detailsZh": "事实：该页面通过关键词搜索聚合了B站用户上传的有声书片段、书评视频及二次创作内容。评论：内容质量参差不齐，既有官方授权的朗读，也有粉丝自制的解说，需甄别来源。传闻：部分视频标题可能夸大其词以吸引点击，实际内容与作者本意无关。此页面为动态搜索结果集合，属于多媒体资料的索引入口，用于丰富对作者作品形式的认知，而非报道具体新闻事件。",
       "keyPoints": [
-        "聚合作品朗读与二创视频",
-        "体现年轻群体的解构与再演绎",
-        "内容具高度流动性与非固定性",
-        "需区分官方内容与用户生成内容"
+        "聚合作品朗读与书评视频",
+        "展示多媒体形式的作品传播",
+        "作为视听资料的检索入口"
       ],
       "category": "作品",
       "importance": 3
@@ -371,17 +356,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态",
-      "summaryZh": "2015年界面新闻深度报道，探讨大咕咕咕鸡的创作风格及其对网络语言的影响。属历史性行业分析，非近期动态，需结合时代背景理解。",
-      "detailsZh": "这是一篇发布于2015年的界面新闻深度报道，聚焦于大咕咕咕鸡的创作风格及其在当时的网络语言生态中的地位。事实层面，文章分析了其独特的行文逻辑、用词习惯以及对当时网络流行语的贡献。评论层面，记者将其视为早期网络段子手向专业化写手转型的代表案例，探讨了流量变现前的内容生产模式。传闻层面，报道中可能提及了一些当时的行业八卦，但经过媒体审核，可信度较高。由于发布时间较早，该报道反映的是十年前的行业状况，对于理解其职业生涯的起点和早期影响力具有重要参考价值，但不能代表其当前的创作状态或最新观点，属于历史档案性质的资料。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，分析其创作风格及对网络语言的影响。作为历史性媒体档案，反映早期网络文学生态，非当前动态。",
+      "detailsZh": "事实：该报道发表于2015年，深入探讨了“大咕咕咕鸡”独特的幽默写作手法及其在当时的网络流行语中的地位。评论：文章提供了特定历史时期的行业视角，有助于理解其创作风格的起源，但需注意时代背景的变迁。传闻：报道中未涉及未经核实的个人隐私或谣言。此链接为固定的历史新闻报道存档，用于学术研究或背景了解，明确标注为过往资料，不得误读为近期新闻。",
       "keyPoints": [
-        "分析早期创作风格与语言影响",
-        "定位为早期网络写手转型案例",
-        "反映2015年行业背景与生态",
-        "属历史性深度报道，非近期动态"
+        "分析早期创作风格与网络影响",
+        "提供2015年媒体视角的历史档案",
+        "反映当时网络文学生态现状"
       ],
       "category": "讨论",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
