@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T16:06:59.890Z",
+  "updatedAt": "2026-09-20T18:50:01.088Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,70 +16,21 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L74DIH140549O5BQ.html",
-      "title": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
-      "url": "https://www.163.com/dy/article/L74DIH140549O5BQ.html",
-      "source": "网易",
-      "publishedAt": "2026-09-20T16:03:21.002Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi0AFBVV95cUxPd0hJVzBVenJSTHNQRUhQSi04cUpMQ0NmZEdZTUpTZmc3Qy1iWmhhZ2JaS3A4OHIwUVhfeFd1OXRJT1ZPVVFhVlNYbmQwUWhMRzRSM3NPNmxSMGJhdlBvRGJWd29TV19xUGNUV1N0SVg5X0EwWlRya1N0SDNDb1VqMWhqcU8wX3hFWGlNZ1A3UzlJTEgwb2VORTNFMFJtcldEV1VoekowbTVQMHJMZDV0Y0QzRkRiLTJJMnFxcHNMMjlXQzZpS1d0Y3ZGbkpITHQ1",
-      "title": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0hJVzBVenJSTHNQRUhQSi04cUpMQ0NmZEdZTUpTZmc3Qy1iWmhhZ2JaS3A4OHIwUVhfeFd1OXRJT1ZPVVFhVlNYbmQwUWhMRzRSM3NPNmxSMGJhdlBvRGJWd29TV19xUGNUV1N0SVg5X0EwWlRya1N0SDNDb1VqMWhqcU8wX3hFWGlNZ1A3UzlJTEgwb2VORTNFMFJtcldEV1VoekowbTVQMHJMZDV0Y0QzRkRiLTJJMnFxcHNMMjlXQzZpS1d0Y3ZGbkpITHQ1?oc=5",
-      "source": "heavy.com",
-      "publishedAt": "2026-09-20T11:18:41.000Z",
-      "description": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate heavy.com",
-      "titleZh": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate",
-      "summaryZh": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate heavy.com",
-      "detailsZh": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate heavy.com",
-      "keyPoints": [
-        "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTFBSVWF5aGhJdm12UEY1TmdseWwtWWVmUGtRNGtzSVNjNHpKY3pGbU5wbFhQNmxVbWhEb2RGaU9lcDhCemMxLUxiWEdmemdUNlY5UFJDcGVkdENYbXFkUktXSGk5MjlESzRsckpvVmlQNnFfQjg",
-      "title": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSVWF5aGhJdm12UEY1TmdseWwtWWVmUGtRNGtzSVNjNHpKY3pGbU5wbFhQNmxVbWhEb2RGaU9lcDhCemMxLUxiWEdmemdUNlY5UFJDcGVkdENYbXFkUktXSGk5MjlESzRsckpvVmlQNnFfQjg?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-20T10:13:11.000Z",
-      "description": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 手机新浪网",
-      "titleZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特",
-      "summaryZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 手机新浪网",
-      "detailsZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 手机新浪网",
-      "keyPoints": [
-        "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn",
       "title": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn?oc=5",
-      "source": "手机新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-09-20T08:29:00.000Z",
-      "description": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
-      "titleZh": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价",
-      "summaryZh": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
-      "detailsZh": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
+      "description": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 k.sina.com.cn",
+      "titleZh": "美媒曝杜兰特1换3转投尼克斯交易方案",
+      "summaryZh": "美国媒体提出火箭队将凯文·杜兰特作为筹码，搭配其他球员换取三名球员转投纽约尼克斯的交易构想。该方案引发网友热议，部分观点认为这是“白菜价”甩卖，但仅为媒体猜测，非官方消息。",
+      "detailsZh": "事实：多家体育媒体在休赛期期间提出了各种关于凯文·杜兰特的潜在交易方案，其中涉及将其送往纽约尼克斯的“1换3”构想被广泛传播。评论：分析人士指出，考虑到杜兰特的年龄、合同状况及竞技状态，这种交易在现实中操作难度极大，更多是满足球迷想象或媒体流量需求。传闻：网络上有声音质疑该报价是否低估了杜兰特的市场价值，但截至目前，没有任何球队官方确认与此相关的谈判。",
       "keyPoints": [
-        "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价"
+        "媒体提出杜兰特转会尼克斯的1换3构想",
+        "网友评价该方案为“白菜价”",
+        "目前无官方交易确认"
       ],
-      "category": "场外",
+      "category": "交易",
       "importance": 3
     },
     {
@@ -90,14 +41,16 @@
       "source": "Hoops Wire",
       "publishedAt": "2026-09-20T05:11:46.000Z",
       "description": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence Hoops Wire",
-      "titleZh": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence",
-      "summaryZh": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence Hoops Wire",
-      "detailsZh": "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence Hoops Wire",
+      "titleZh": "球探分析范弗利特对缓解火箭依赖杜兰特的作用",
+      "summaryZh": "NBA球探指出，弗雷德·范弗利特在战术体系中扮演关键角色，有助于减轻火箭队对凯文·杜兰特单打得分的过度依赖。这一观点强调了团队篮球和多点开花的重要性，而非单纯依靠巨星个人能力。",
+      "detailsZh": "事实：休斯顿火箭队在拥有凯文·杜兰特后，进攻端往往呈现高度集中化趋势。评论：专业球探认为，范弗利特的组织能力和外线投射能够拉开空间，创造更多机会，从而降低杜兰特在高压下的体能消耗和出手负担。传闻：有内部消息暗示管理层正在调整战术板，旨在平衡核心球员的负荷，但这尚未得到教练组的正式公开证实。",
       "keyPoints": [
-        "NBA scout sees Fred VanVleet as key to easing Rockets’ Kevin Durant dependence"
+        "范弗利特被视为战术关键人物",
+        "旨在减轻杜兰特单打压力",
+        "强调团队进攻均衡性"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "比赛",
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -107,14 +60,88 @@
       "source": "Sohu",
       "publishedAt": "2026-09-20T04:37:38.000Z",
       "description": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿 Sohu",
-      "titleZh": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿",
-      "summaryZh": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿 Sohu",
-      "detailsZh": "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿 Sohu",
+      "titleZh": "杜兰特与范弗利特首次同框合练引发关注",
+      "summaryZh": "社交媒体流传出凯文·杜兰特与弗雷德·范弗利特在训练场首次同框合练的照片和视频。这一画面展示了新援之间的初步磨合，标志着火箭队新赛季阵容化学反应的开始，同时也引发了关于阿门·汤普森等年轻球员未来的讨论。",
+      "detailsZh": "事实：杜兰特加盟火箭后，近期参加了球队组织的训练营活动，并与队友范弗利特进行了互动训练。评论：球迷和分析师普遍认为，两位球星的合作将为火箭带来巨大的进攻威胁，但也需警惕伤病风险。传闻：关于阿门·汤普森兄弟的合同前景及未来地位存在大量猜测，部分自媒体称其可能获得巨额续约，但缺乏实质依据。",
       "keyPoints": [
-        "火箭一夜4消息！杜兰特范乔丹首次同框合练，阿门兄弟有望冲10亿"
+        "杜兰特与范弗利特训练互动",
+        "展示球队新阵容磨合情况",
+        "年轻球员未来充满不确定性"
+      ],
+      "category": "比赛",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxQZ2hFREJNQmkwcjR4aENNQTlwOGQ0RmRjeDNuWnlkUFREVVhqVHVURW1UTkUtVlFZMVFMMzc1TmU0amgzeWRJQjhLaDN0VFI3U1o2TEdzOXV2TC13czl5d3VRRkMzWlVtZUVvOERXT1g3UzUwLU1FRXNfTzNpeWNFUGJmRGE",
+      "title": "谁说我没根了？老佩顿：要在KD太老前把他带回西雅图 复兴超音速",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2hFREJNQmkwcjR4aENNQTlwOGQ0RmRjeDNuWnlkUFREVVhqVHVURW1UTkUtVlFZMVFMMzc1TmU0amgzeWRJQjhLaDN0VFI3U1o2TEdzOXV2TC13czl5d3VRRkMzWlVtZUVvOERXT1g3UzUwLU1FRXNfTzNpeWNFUGJmRGE?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-20T03:27:49.000Z",
+      "description": "谁说我没根了？老佩顿：要在KD太老前把他带回西雅图 复兴超音速 Sina Sports",
+      "titleZh": "老佩顿呼吁将杜兰特带回西雅图复兴超音速",
+      "summaryZh": "前NBA球星格伦·“大狗”·佩顿公开表示，希望在杜兰特职业生涯末期将其招募至西雅图，以复兴已解散的西雅图超音速队。这一言论带有强烈的情感色彩和个人情怀，反映了部分老将对于重返故土或建立新王朝的渴望。",
+      "detailsZh": "事实：佩顿在接受采访时表达了对西雅图篮球文化的热爱，并提及了杜兰特作为潜在目标。评论：体育界普遍认为，尽管情感动人，但现实中超音速队复活的法律和商业障碍重重，且杜兰特目前的职业规划更倾向于争冠而非重建。传闻：并无任何证据表明杜兰特有意愿或计划前往西雅图，这更多是佩顿个人的愿景表达。",
+      "keyPoints": [
+        "佩顿公开呼吁杜兰特加盟西雅图",
+        "意图复兴超音速品牌",
+        "现实可行性极低"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi0AFBVV95cUxPd0hJVzBVenJSTHNQRUhQSi04cUpMQ0NmZEdZTUpTZmc3Qy1iWmhhZ2JaS3A4OHIwUVhfeFd1OXRJT1ZPVVFhVlNYbmQwUWhMRzRSM3NPNmxSMGJhdlBvRGJWd29TV19xUGNUV1N0SVg5X0EwWlRya1N0SDNDb1VqMWhqcU8wX3hFWGlNZ1A3UzlJTEgwb2VORTNFMFJtcldEV1VoekowbTVQMHJMZDV0Y0QzRkRiLTJJMnFxcHNMMjlXQzZpS1d0Y3ZGbkpITHQ1",
+      "title": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0hJVzBVenJSTHNQRUhQSi04cUpMQ0NmZEdZTUpTZmc3Qy1iWmhhZ2JaS3A4OHIwUVhfeFd1OXRJT1ZPVVFhVlNYbmQwUWhMRzRSM3NPNmxSMGJhdlBvRGJWd29TV19xUGNUV1N0SVg5X0EwWlRya1N0SDNDb1VqMWhqcU8wX3hFWGlNZ1A3UzlJTEgwb2VORTNFMFJtcldEV1VoekowbTVQMHJMZDV0Y0QzRkRiLTJJMnFxcHNMMjlXQzZpS1d0Y3ZGbkpITHQ1?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-20T11:18:41.000Z",
+      "description": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate heavy.com",
+      "titleZh": "杜兰特就勇士王朝发表直言不讳的看法",
+      "summaryZh": "凯文·杜兰特在近期访谈中对金州勇士队的王朝时期发表了直接且坦率的看法，回应了伊曼·香珀特重新引发的旧日争议。他的言论旨在澄清过往误解，并确立自己在那段历史中的独特地位，展现了其一贯的直率风格。",
+      "detailsZh": "事实：杜兰特参与了媒体采访，话题涉及其在勇士队的经历及后续影响。评论：分析认为，杜兰特此举意在掌握叙事主动权，避免被他人定义其职业生涯片段。传闻：香珀特的言论可能只是导火索，杜兰特真正的意图是向公众展示他对自己职业选择的无悔态度，而非针对特定个人进行攻击。",
+      "keyPoints": [
+        "杜兰特回应勇士王朝相关争议",
+        "言论风格直接坦率",
+        "意在澄清个人历史定位"
       ],
       "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi3AFBVV95cUxNTjBmUVlORS0xdC10TG5GSFN3dWJsWFZsN2liVmZFNVdUaEdkUkIyWGhKN21NX0NtQVdVNHB4WlBfS2ZPQXAwdGlnTkNsR3dPV2tJX0RIQk5VRU5nc2x4elRVeDE5TFI1ZmZXUlRzZjZUSlJoWTVkYXZBRkE0TTJMYVBMbmdBQTVxanYwNXhyM0hUczJPTzFmYVB5dlI5SzFSTFlmSWM0N1BHMHp4cXdQRjRVbC1RdEg5TFV0OGVRMnMwTEgxY1EzY1lXemZuTE5DUWczNWMtS2E5aDJM",
+      "title": "Shumpert on what would happen if Kevin Durant played in WNBA",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTjBmUVlORS0xdC10TG5GSFN3dWJsWFZsN2liVmZFNVdUaEdkUkIyWGhKN21NX0NtQVdVNHB4WlBfS2ZPQXAwdGlnTkNsR3dPV2tJX0RIQk5VRU5nc2x4elRVeDE5TFI1ZmZXUlRzZjZUSlJoWTVkYXZBRkE0TTJMYVBMbmdBQTVxanYwNXhyM0hUczJPTzFmYVB5dlI5SzFSTFlmSWM0N1BHMHp4cXdQRjRVbC1RdEg5TFV0OGVRMnMwTEgxY1EzY1lXemZuTE5DUWczNWMtS2E5aDJM?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-09-20T16:33:00.000Z",
+      "description": "Shumpert on what would happen if Kevin Durant played in WNBA Basketball Network",
+      "titleZh": "Shumpert on what would happen if Kevin Durant played in WNBA",
+      "summaryZh": "Shumpert on what would happen if Kevin Durant played in WNBA Basketball Network",
+      "detailsZh": "Shumpert on what would happen if Kevin Durant played in WNBA Basketball Network",
+      "keyPoints": [
+        "Shumpert on what would happen if Kevin Durant played in WNBA"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTFBSVWF5aGhJdm12UEY1TmdseWwtWWVmUGtRNGtzSVNjNHpKY3pGbU5wbFhQNmxVbWhEb2RGaU9lcDhCemMxLUxiWEdmemdUNlY5UFJDcGVkdENYbXFkUktXSGk5MjlESzRsckpvVmlQNnFfQjg",
+      "title": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSVWF5aGhJdm12UEY1TmdseWwtWWVmUGtRNGtzSVNjNHpKY3pGbU5wbFhQNmxVbWhEb2RGaU9lcDhCemMxLUxiWEdmemdUNlY5UFJDcGVkdENYbXFkUktXSGk5MjlESzRsckpvVmlQNnFfQjg?oc=5",
+      "source": "k.sina.com.cn",
+      "publishedAt": "2026-09-20T10:13:11.000Z",
+      "description": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 k.sina.com.cn",
+      "titleZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特",
+      "summaryZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 k.sina.com.cn",
+      "detailsZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 k.sina.com.cn",
+      "keyPoints": [
+        "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -134,29 +161,12 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOZWR5NVBkcG9hdG5OTjJDN2RZcEpQVVJIWWdGVGpuaTNqcEp3UnJwalJ0Mi1rbVVUT2VEVF9UT3lOUXg0VEFGdmZxY1R5Z3dxV0FnbTFQczMzZTBTTDVLUmhfMlEyMzZhNDJxcEdCX1RzR0pFV0NtZ1FzdjBhS1pneVR1TWktOHNvS3dMNw",
-      "title": "火箭队一夜曝出4大消息！杜兰特首次亮相，阿门兄弟狂拿5亿美金？",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWR5NVBkcG9hdG5OTjJDN2RZcEpQVVJIWWdGVGpuaTNqcEp3UnJwalJ0Mi1rbVVUT2VEVF9UT3lOUXg0VEFGdmZxY1R5Z3dxV0FnbTFQczMzZTBTTDVLUmhfMlEyMzZhNDJxcEdCX1RzR0pFV0NtZ1FzdjBhS1pneVR1TWktOHNvS3dMNw?oc=5",
-      "source": "Sohu",
-      "publishedAt": "2026-09-20T03:46:36.000Z",
-      "description": "火箭队一夜曝出4大消息！杜兰特首次亮相，阿门兄弟狂拿5亿美金？ Sohu",
-      "titleZh": "火箭队一夜曝出4大消息！杜兰特首次亮相，阿门兄弟狂拿5亿美金？",
-      "summaryZh": "火箭队一夜曝出4大消息！杜兰特首次亮相，阿门兄弟狂拿5亿美金？ Sohu",
-      "detailsZh": "火箭队一夜曝出4大消息！杜兰特首次亮相，阿门兄弟狂拿5亿美金？ Sohu",
-      "keyPoints": [
-        "火箭队一夜曝出4大消息！杜兰特首次亮相，阿门兄弟狂拿5亿美金？"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-20T16:03:09.266Z",
+      "publishedAt": "2026-09-20T18:46:11.367Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -189,12 +199,12 @@
       "id": "chenze:CBMic0FVX3lxTFA0b3NwalpqeGZWa3Q1QUpRRU5PR0dFcllaWkZrNjhSV1Vuaml3aEZ1bjRfdEZ2aEoyS01pSXp1ZW8zMnZ6S2NGVF9tem44X0FvdGZ4VGpvUU9DWFNEd3J6OVlGcDZBTVBHVGNRNVdWRzZYcDA",
       "title": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0b3NwalpqeGZWa3Q1QUpRRU5PR0dFcllaWkZrNjhSV1Vuaml3aEZ1bjRfdEZ2aEoyS01pSXp1ZW8zMnZ6S2NGVF9tem44X0FvdGZ4VGpvUU9DWFNEd3J6OVlGcDZBTVBHVGNRNVdWRzZYcDA?oc=5",
-      "source": "手机新浪网",
+      "source": "k.sina.com.cn",
       "publishedAt": "2026-09-19T14:12:34.000Z",
-      "description": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​ 手机新浪网",
+      "description": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​ k.sina.com.cn",
       "titleZh": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​",
-      "summaryZh": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​ 手机新浪网",
-      "detailsZh": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​ 手机新浪网",
+      "summaryZh": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​ k.sina.com.cn",
+      "detailsZh": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​ k.sina.com.cn",
       "keyPoints": [
         "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​"
       ],
@@ -292,25 +302,6 @@
       "importance": 3
     },
     {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "维基百科收录该写手的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响力和文学创作的客观记录，非当日新闻。",
-      "detailsZh": "事实：该词条系统整理了“大咕咕咕鸡”的笔名沿革、代表作品列表及在中文互联网语境下的文化影响。评论：内容基于公开可查的网络档案，具有较高的参考性，但需注意维基百科内容的动态更新特性。传闻：无显著未经证实的争议性传闻收录于此条目中。此页面为固定的人物资料库，旨在提供长期稳定的背景信息，而非时效性报道。",
-      "keyPoints": [
-        "收录常用笔名与创作风格演变",
-        "整理代表作品与网络影响力数据",
-        "提供长期稳定的背景资料入口"
-      ],
-      "category": "作品",
-      "importance": 5
-    },
-    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -318,15 +309,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "新浪微博官方超话页面，聚合该写手的公开动态及读者讨论。作为粉丝互动与信息发布的固定入口，提供实时动态追踪功能，非单日新闻事件。",
-      "detailsZh": "事实：该链接指向微博超级话题页，是作者与读者进行日常互动、发布新书预告或生活片段的主要平台。评论：此处内容多为碎片化信息，需结合具体日期筛选有价值的内容。传闻：社区内可能存在关于其创作进度的各种猜测，但应以官方账号发布为准。此页面为固定的社交主页入口，用于持续跟踪其公开活动，不具备单一新闻事件的属性。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博“大咕咕咕鸡”超话页面，聚合该网络写手的公开动态、粉丝讨论及日常分享。作为其核心社交阵地，提供实时互动与内容检索功能。",
+      "detailsZh": "事实：该链接指向新浪微博特定用户或话题的超级帖子索引页（Super Index），URL结构表明其为官方认证的社区入口。评论：这是追踪大咕咕咕鸡最新言论和读者反馈的最直接渠道，具有较高的时效性。传闻：无。注意：此条目为固定主页/资料入口，非单日新闻事件，旨在提供持续性的信息聚合服务。",
       "keyPoints": [
-        "聚合作者最新公开动态",
-        "提供读者讨论与互动空间",
-        "作为社交媒体信息的固定入口"
+        "新浪微博官方认证的话题聚合页",
+        "包含用户公开动态与粉丝讨论",
+        "提供实时内容检索功能"
       ],
-      "category": "公开发言",
+      "category": "作品",
       "importance": 4
     },
     {
@@ -337,35 +328,35 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "哔哩哔哩搜索聚合页，包含作品朗读音频、相关讨论视频及历史影像。作为多媒体内容的检索入口，展示其作品的听觉呈现形式，非特定新闻。",
-      "detailsZh": "事实：该页面通过关键词搜索聚合了B站用户上传的有声书片段、书评视频及二次创作内容。评论：内容质量参差不齐，既有官方授权的朗读，也有粉丝自制的解说，需甄别来源。传闻：部分视频标题可能夸大其词以吸引点击，实际内容与作者本意无关。此页面为动态搜索结果集合，属于多媒体资料的索引入口，用于丰富对作者作品形式的认知，而非报道具体新闻事件。",
+      "titleZh": "大咕咕咕鸡B站视频聚合搜索",
+      "summaryZh": "哔哩哔哩平台针对“大咕咕咕鸡”关键词的视频搜索结果页，涵盖其作品朗读、相关二创视频及历史讨论内容，是多媒体内容的主要检索入口。",
+      "detailsZh": "事实：该链接为B站全站搜索结果的静态展示页，关键词锁定为“大咕咕咕鸡”。评论：由于该写手以文字为主，B站内容多为第三方上传的朗读或解说，需甄别版权与真实性。传闻：无。注意：此为通用搜索入口，非特定官方频道，内容质量参差不齐，建议结合其他来源核实。",
       "keyPoints": [
-        "聚合作品朗读与书评视频",
-        "展示多媒体形式的作品传播",
-        "作为视听资料的检索入口"
+        "B站全站视频搜索结果页",
+        "包含作品朗读与二创内容",
+        "内容来源多样，需甄别真伪"
       ],
       "category": "作品",
       "importance": 3
     },
     {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "界面新闻2015年深度报道，分析其创作风格及对网络语言的影响。作为历史性媒体档案，反映早期网络文学生态，非当前动态。",
-      "detailsZh": "事实：该报道发表于2015年，深入探讨了“大咕咕咕鸡”独特的幽默写作手法及其在当时的网络流行语中的地位。评论：文章提供了特定历史时期的行业视角，有助于理解其创作风格的起源，但需注意时代背景的变迁。传闻：报道中未涉及未经核实的个人隐私或谣言。此链接为固定的历史新闻报道存档，用于学术研究或背景了解，明确标注为过往资料，不得误读为近期新闻。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "中文维基百科关于网络写手大咕咕咕鸡的人物传记与创作背景资料，涵盖常用笔名、风格分析及网络影响，是了解其公众形象的基础参考资料。",
+      "detailsZh": "事实：维基百科词条记录了该人物的公开生平、主要作品及社会评价。评论：维基内容基于可查证的网络公开信息，具有相对中立的视角，但可能滞后于最新动态。传闻：无。注意：此为固定资料入口，用于背景查询，而非即时新闻报道。",
       "keyPoints": [
-        "分析早期创作风格与网络影响",
-        "提供2015年媒体视角的历史档案",
-        "反映当时网络文学生态现状"
+        "记录人物生平与创作风格",
+        "基于公开信息的中立综述",
+        "适合背景研究与快速查阅"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "作品",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -375,14 +366,35 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "大咕咕咕鸡微博账号数据档案",
+      "summaryZh": "领库平台提供的“大咕咕咕鸡”微博账号详细资料页，展示其粉丝数、互动率等传播数据，用于评估其在社交媒体上的影响力与活跃度。",
+      "detailsZh": "事实：该页面由第三方数据机构“领库”生成，引用微博开放接口数据。评论：数据反映了其商业价值与受众规模，但需注意数据抓取时间与统计口径的差异。传闻：无。注意：此为固定数据档案，非当日新闻，适用于长期趋势分析。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方平台提供的账号数据",
+        "展示粉丝量与互动指标",
+        "用于影响力评估与数据分析"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
+      "summaryZh": "2015年界面新闻发布的深度文章，探讨大咕咕咕鸡的创作风格及其对网络语言生态的影响，是研究其早期公众形象的重要历史文献。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，由界面新闻发布，标题涉及“段子手创作生态”。评论：作为早期媒体对其的正式报道，具有较高的史料价值，但观点可能受当时舆论环境影响。传闻：无。注意：此为历史性报道，非近期动态，仅反映过去某一时间点的公众认知。",
+      "keyPoints": [
+        "2015年发布的深度媒体报道",
+        "分析创作风格与语言影响",
+        "具有历史文献与研究价值"
+      ],
+      "category": "公开发言",
+      "importance": 3
     }
   ]
 }
