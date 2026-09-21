@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T05:02:40.261Z",
+  "updatedAt": "2026-09-21T10:46:00.760Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,103 +16,105 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPNUZvazNqUDZUY25yUmRwR0ttWTNnNVo1SlRBV0hlREZiUzJacE5ScDJSTGt1TW5VdjR3d3IwUGFpLTBZeDluSEN0cm9FZkFRRHlyWjA0YlhYTjBUWmtpRGFfbHJ1M0hydzd4MjhpZTc5b1BlNE41UUVYN29jLVZCS2tNaUR2NlJLelpVeA",
-      "title": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUZvazNqUDZUY25yUmRwR0ttWTNnNVo1SlRBV0hlREZiUzJacE5ScDJSTGt1TW5VdjR3d3IwUGFpLTBZeDluSEN0cm9FZkFRRHlyWjA0YlhYTjBUWmtpRGFfbHJ1M0hydzd4MjhpZTc5b1BlNE41UUVYN29jLVZCS2tNaUR2NlJLelpVeA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-21T03:29:04.000Z",
-      "description": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队 搜狐网",
-      "titleZh": "杜兰特表态：即便离开火箭也不会加盟骑士，仅考虑两支球队",
-      "summaryZh": "据搜狐网报道，凯文·杜兰特明确表示，即使未来离开休斯顿火箭队，他也不会加盟克利夫兰骑士队。他强调全联盟范围内，自己只可能加盟两支特定的球队，这一表态引发了外界对其潜在下家的广泛猜测与讨论。",
-      "detailsZh": "该消息源自搜狐网于2026年9月21日的报道。文中指出，杜兰特在近期交流中澄清了关于其未来去向的传闻，特别是针对加盟骑士队的可能性予以否定。尽管目前他身处火箭队体系内，但杜兰特明确划定了未来的选择范围，声称仅有两支球队符合他的加盟条件。这一声明不仅排除了骑士队，也暗示了他对现有合同或球队环境的某种态度。鉴于杜兰特职业生涯中多次转会且每次动向均引发巨大关注，此类表态通常被视为其有意寻求交易或自由球员市场变动的信号。然而，由于未具体指明那“两支球队”是谁，媒体和球迷仍在进行各种推测。此内容属于场外动态中的言论表态，需结合后续官方消息验证其真实性及具体指向。",
+      "id": "durant:search:https://www.163.com/dy/article/L74DIH140549O5BQ.html",
+      "title": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
+      "url": "https://www.163.com/dy/article/L74DIH140549O5BQ.html",
+      "source": "网易",
+      "publishedAt": "2026-09-21T10:41:29.003Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "杜兰特否认加盟骑士队的可能性",
-        "表示若离队仅考虑两支特定球队",
-        "当前身份仍关联火箭队背景",
-        "言论引发市场对潜在下家猜测"
+        "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOUy1VUFEwaVEtdmlFSnZuU0VrMTZsRHdZYWh2bDdCT1NtR3g1YUNHSko2Rzl2TnN3RzlSZDB5TUFYSkJ5Vm4wZ3Y4dWk5X3Y5ZWJTaGVIczRfT1puanZyNENTZTJKUDRELXU2TEs0WWtMSTJrY0JkamltS2xxNWdoLUVOQXB5cC1Ua1F3aw",
-      "title": "火箭3换1正式报价哈登！杜兰特亲自发起招募，休城球迷欢迎登哥",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUy1VUFEwaVEtdmlFSnZuU0VrMTZsRHdZYWh2bDdCT1NtR3g1YUNHSko2Rzl2TnN3RzlSZDB5TUFYSkJ5Vm4wZ3Y4dWk5X3Y5ZWJTaGVIczRfT1puanZyNENTZTJKUDRELXU2TEs0WWtMSTJrY0JkamltS2xxNWdoLUVOQXB5cC1Ua1F3aw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-21T03:27:16.000Z",
-      "description": "火箭3换1正式报价哈登！杜兰特亲自发起招募，休城球迷欢迎登哥 搜狐网",
-      "titleZh": "传闻：杜兰特亲自招募哈登，火箭提出3换1报价",
-      "summaryZh": "搜狐网报道称，休斯顿火箭队正式提出3换1报价引进詹姆斯·哈登。报道称此次招募行动由凯文·杜兰特亲自发起并推动，旨在增强球队阵容。同时提到休城球迷对此持欢迎态度，期待哈登回归。",
-      "detailsZh": "根据搜狐网2026年9月21日的报道，火箭队正在积极运作引进前队友詹姆斯·哈登的交易，方案为3换1。报道特别强调，这一招募计划是由队内核心凯文·杜兰特亲自发起并主导的，显示出杜兰特在球队管理层决策或球员招募中的影响力。此举被解读为火箭试图通过召回熟悉战术体系的哈登来提升竞争力。然而，此类涉及具体交易细节（如3换1）及球员私人互动（杜兰特亲自招募）的消息，往往带有较强的自媒体渲染色彩。截至目前，尚未有NBA官方或权威记者证实该交易的具体构成及杜兰特的直接介入程度。这属于典型的场外交易传闻，真实性存疑，需警惕虚假新闻风险。",
+      "id": "durant:CBMijAFBVV95cUxNWE1US3ZYekl2Wm4xWG12R3dkd2tCTGgtY3hxc0szZjRycXhwZDVzdmhKaWUxWnVrRW9taldyclNpWm1nZzJxQVJSbEUyeC1oLUI1Wm5IeXhZX3RQR2IzZ2Z5LW93ZkozQlpyMENrdDBvS2hqRUhZQ3Fubnk3dHVOSlRCeHY2ZVI1Y1l5dA",
+      "title": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE1US3ZYekl2Wm4xWG12R3dkd2tCTGgtY3hxc0szZjRycXhwZDVzdmhKaWUxWnVrRW9taldyclNpWm1nZzJxQVJSbEUyeC1oLUI1Wm5IeXhZX3RQR2IzZ2Z5LW93ZkozQlpyMENrdDBvS2hqRUhZQ3Fubnk3dHVOSlRCeHY2ZVI1Y1l5dA?oc=5",
+      "source": "The Eastern Herald",
+      "publishedAt": "2026-09-21T10:14:12.000Z",
+      "description": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao The Eastern Herald",
+      "titleZh": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao",
+      "summaryZh": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao The Eastern Herald",
+      "detailsZh": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao The Eastern Herald",
       "keyPoints": [
-        "火箭提出3换1报价引进哈登",
-        "传闻称杜兰特亲自发起招募",
-        "休城球迷对哈登回归表示欢迎",
-        "缺乏官方证实，属高风险传闻"
-      ],
-      "category": "交易",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxNTklXMFBSUjlZMDZlRUJ4TXpjZzNQYjd4eXhwWGtmVlU0bGZBZU5hMjRYR0VZLWxLR1NTelNLeTZGQkgzajczbFhReE1iWlRpM19SQ0xoalhmOHE2b3VXN3BnV2p6SUI2VF9HWG10NGdpdFFJS3JtdUhaSEJzdFRERlV1eEh5VEswVjk1MA",
-      "title": "火箭正式报价哈利伯顿！杜兰特亲自接待，两大悍将+2个首轮离队",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTklXMFBSUjlZMDZlRUJ4TXpjZzNQYjd4eXhwWGtmVlU0bGZBZU5hMjRYR0VZLWxLR1NTelNLeTZGQkgzajczbFhReE1iWlRpM19SQ0xoalhmOHE2b3VXN3BnV2p6SUI2VF9HWG10NGdpdFFJS3JtdUhaSEJzdFRERlV1eEh5VEswVjk1MA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-21T03:20:46.000Z",
-      "description": "火箭正式报价哈利伯顿！杜兰特亲自接待，两大悍将+2个首轮离队 搜狐网",
-      "titleZh": "传闻：火箭报价哈利伯顿，杜兰特参与接待，多名球员离队",
-      "summaryZh": "搜狐网报道火箭队正式报价印第安纳步行者球星泰瑞斯·哈利伯顿。消息称杜兰特亲自参与了相关接待工作，作为交易筹码，火箭将送出两名悍将及两个首轮选秀权。该报道进一步加剧了关于火箭阵容大调整的猜测。",
-      "detailsZh": "2026年9月21日，搜狐网发布消息称火箭队向步行者队提出报价，目标球员为控卫泰瑞斯·哈利伯顿。报道声称凯文·杜兰特在交易中扮演了关键角色，甚至亲自参与了对方的接待工作。为了完成这笔交易，火箭预计将付出包括两名主力球员和两个首轮签在内的沉重代价。此类报道通常出现在非官方渠道，且细节过于具体（如“亲自接待”），具有明显的虚构或夸大成分。哈利伯顿作为全明星控卫，其交易价值极高，而杜兰特作为前锋，直接参与后卫交易的“接待”不符合常规篮球运营逻辑。此内容应视为未经核实的场外谣言，不具备事实依据。",
-      "keyPoints": [
-        "传闻火箭报价哈利伯顿",
-        "称杜兰特亲自参与接待流程",
-        "筹码涉及两名悍将与两个首轮",
-        "内容缺乏可信度，属典型谣言"
-      ],
-      "category": "交易",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihwFBVV95cUxQczdocGM1X092b2RGQUhQbUxhQXJFRTlYV1lvRnhuMjlzY2ptc2QtclNuX3BYcTd1QW96ZVZaQjE4Y1dza293WmJzSDFiUWRGZjU4NGpxZ2NOVFhIUVVWclV1M20zUW1tMGtDMXJuYk5fQS1XUWtSRURMYkxXR25YYkkxQ1BRdjQ",
-      "title": "Kevin Durant Left Oklahoma City And Golden State With 2 Very Different Legacies",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQczdocGM1X092b2RGQUhQbUxhQXJFRTlYV1lvRnhuMjlzY2ptc2QtclNuX3BYcTd1QW96ZVZaQjE4Y1dza293WmJzSDFiUWRGZjU4NGpxZ2NOVFhIUVVWclV1M20zUW1tMGtDMXJuYk5fQS1XUWtSRURMYkxXR25YYkkxQ1BRdjQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-20T19:19:07.000Z",
-      "description": "Kevin Durant Left Oklahoma City And Golden State With 2 Very Different Legacies Yahoo Sports",
-      "titleZh": "雅虎体育分析：杜兰特离开雷霆与勇士留下截然不同的遗产",
-      "summaryZh": "Yahoo Sports发表深度分析文章，探讨凯文·杜兰特在俄克拉荷马城雷霆队和金州勇士队留下的两种截然不同的职业生涯遗产。文章回顾了他在两支球队的不同角色、成就以及公众评价的差异，分析了其职业生涯轨迹的复杂性。",
-      "detailsZh": "2026年9月20日，Yahoo Sports刊文回顾杜兰特的职业生涯节点。文章指出，在雷霆时期，杜兰特是绝对的核心，带领球队取得辉煌战绩并荣膺MVP，留下了年轻天才领袖的遗产；而在勇士时期，尽管赢得了总冠军，但因加入方式及与队友的关系，其遗产充满了争议和批评。文章对比了这两种截然不同的公众认知和球队文化影响，指出杜兰特在不同环境下面临的压力和期望完全不同。这是一篇典型的赛后/生涯回顾类评论文章，旨在从历史角度评估杜兰特的地位。内容基于既定事实和历史评价，具有较高的参考价值，属于场外生涯回顾范畴。",
-      "keyPoints": [
-        "对比雷霆时期的MVP核心遗产",
-        "分析勇士时期的冠军与争议并存",
-        "探讨公众评价的两极分化",
-        "回顾职业生涯不同阶段的挑战"
+        "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNdVc1NDFrNF9wbW9lOWN6QXBPMC1xbUdIZ1BIbnpfc3pHb3VpWmYtQzJlN3FJdkY5TWRVZjdPbmhJTzEzRzJ0WHIwVEE1UHRGTFlGc2plWVN3OWx4Yk9nR0pmZVBQSnVJczJXSjIwX19BOTctalJXSzczSi1zOVoybHRjWVU",
-      "title": "阿里纳斯：拥有所有荣誉的杜兰特才有资格说MVP最有价值",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVc1NDFrNF9wbW9lOWN6QXBPMC1xbUdIZ1BIbnpfc3pHb3VpWmYtQzJlN3FJdkY5TWRVZjdPbmhJTzEzRzJ0WHIwVEE1UHRGTFlGc2plWVN3OWx4Yk9nR0pmZVBQSnVJczJXSjIwX19BOTctalJXSzczSi1zOVoybHRjWVU?oc=5",
+      "id": "durant:CBMifEFVX3lxTE5YUWRPZmhRazJFS0djWG5yZzFCSlhBZE05ZXFWc2tkbjdReUNBdWhlakhVSXZ0MXhfZk1MeUJWLVlpSm1xNDZOcUFhdC1BRmlaeC1zc1BtN3BSeXlNTGV6SE5mV0hpVF9pb2hXSFpBUzRHbkZ2RWpsMENqOEo",
+      "title": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YUWRPZmhRazJFS0djWG5yZzFCSlhBZE05ZXFWc2tkbjdReUNBdWhlakhVSXZ0MXhfZk1MeUJWLVlpSm1xNDZOcUFhdC1BRmlaeC1zc1BtN3BSeXlNTGV6SE5mV0hpVF9pb2hXSFpBUzRHbkZ2RWpsMENqOEo?oc=5",
       "source": "Sina Sports",
-      "publishedAt": "2026-09-21T02:27:48.000Z",
-      "description": "阿里纳斯：拥有所有荣誉的杜兰特才有资格说MVP最有价值 Sina Sports",
-      "titleZh": "阿里纳斯评论：只有拥有所有荣誉的杜兰特才配谈论MVP价值",
-      "summaryZh": "Sina Sports报道，前NBA球员吉尔伯特·阿里纳斯发表评论称，凯文·杜兰特因为已经获得了总冠军、FMVP等所有主要荣誉，因此才有资格去定义或讨论什么是真正的“最有价值球员”。这一言论强调了杜兰特成就的完整性。",
-      "detailsZh": "2026年9月21日，阿里纳斯在接受采访时表达了对杜兰特的看法。他认为，许多球员在尚缺关键荣誉时便对MVP概念指手画脚，而杜兰特因其履历完整（包含得分王、MVP、总冠军等），具备了评判MVP价值的权威性。阿里纳斯的观点倾向于认可杜兰特的历史地位，认为其成就使其言论更具分量。这属于名人评论类场外动态，反映了篮球界内部对杜兰特历史地位的某种共识或争议性看法。内容不涉及比赛结果或交易变动，仅为观点表达。",
+      "publishedAt": "2026-09-21T07:14:13.000Z",
+      "description": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强 Sina Sports",
+      "titleZh": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强",
+      "summaryZh": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强 Sina Sports",
+      "detailsZh": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强 Sina Sports",
       "keyPoints": [
-        "阿里纳斯肯定杜兰特的荣誉完整性",
-        "认为杜兰特有资格定义MVP价值",
-        "对比其他球员缺乏关键荣誉的现状",
-        "反映对杜兰特历史地位的正面评价"
+        "范乔丹回归火箭失误减少 杜兰特申京阿门会变强"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMickFVX3lxTFBLazBqR25uY0dlbWo4Ukx4SlpDeFZ1RUpzeEVZTF94c2ZjNThIeVlSX1VHSnJRSXdhV1VvQ1hKb29wU2pqd0pwb0lnOWo0Qm5oRHVxc0I0Q2hBZEFYVlVSandQcGc2LXMzWnF6YUJwalFLUQ",
+      "title": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLazBqR25uY0dlbWo4Ukx4SlpDeFZ1RUpzeEVZTF94c2ZjNThIeVlSX1VHSnJRSXdhV1VvQ1hKb29wU2pqd0pwb0lnOWo0Qm5oRHVxc0I0Q2hBZEFYVlVSandQcGc2LXMzWnF6YUJwalFLUQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-21T06:25:00.000Z",
+      "description": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存 手机新浪网",
+      "titleZh": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存",
+      "summaryZh": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存 手机新浪网",
+      "detailsZh": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存 手机新浪网",
+      "keyPoints": [
+        "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxPdU8zai1HQVRFaE9QbDFCV2JMVHNoOW1acXI5cEFqdm5zeHdOdDJUTHdWU0UyaWZsV1NuczFrMUJNNURhXzE5blphaGRuYkJWTVhUekRaY25KMEE0UXFyZkhfY19kYjlaUE9lTXlxZjdjZXplcEhQNUN2OUdWV2hyWGdmWDgyY3RMQjZxMA",
+      "title": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdU8zai1HQVRFaE9QbDFCV2JMVHNoOW1acXI5cEFqdm5zeHdOdDJUTHdWU0UyaWZsV1NuczFrMUJNNURhXzE5blphaGRuYkJWTVhUekRaY25KMEE0UXFyZkhfY19kYjlaUE9lTXlxZjdjZXplcEhQNUN2OUdWV2hyWGdmWDgyY3RMQjZxMA?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-09-21T06:01:35.000Z",
+      "description": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考 搜狐网",
+      "titleZh": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考",
+      "summaryZh": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考 搜狐网",
+      "detailsZh": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考 搜狐网",
+      "keyPoints": [
+        "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxNN3k3QzZsaE5mandXN3NuT0RuZ0ExLVdLdDU4YzVlZG1fRThWNDVFaERrVFkxTU43SDFVbHVlamxqUjZzMmtuOFozNEdLNG5HR1RNd2ZxRl93QTZJNVFMOGNSSEtkUG93MGE0VUkwRzN0X2FKcFlKWG1HQ3M1QXRjQmVNRDh1X0hPUjNBYl9iOA",
+      "title": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3k3QzZsaE5mandXN3NuT0RuZ0ExLVdLdDU4YzVlZG1fRThWNDVFaERrVFkxTU43SDFVbHVlamxqUjZzMmtuOFozNEdLNG5HR1RNd2ZxRl93QTZJNVFMOGNSSEtkUG93MGE0VUkwRzN0X2FKcFlKWG1HQ3M1QXRjQmVNRDh1X0hPUjNBYl9iOA?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-21T05:42:40.000Z",
+      "description": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归 手机新浪网",
+      "titleZh": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归",
+      "summaryZh": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归 手机新浪网",
+      "detailsZh": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归 手机新浪网",
+      "keyPoints": [
+        "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -129,38 +131,21 @@
         "当年的“小杜兰特”埃莫尼·贝茨的高中集锦！"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNUHhzcG1CTy1GOE4wZUQzN0RIR3hObTFIalJOS1hScDZieTRQS1lOWTlZckR2dzlMbDA0NGVMOVE4c0lyNzV3Y2lDMlRoSEVLbDBucXNsS0Z3LVZjN3ZTd3JlQ3NOM2JHLTdYa1RXUUQ0WERjY2c0N0FkMFhkSHQzb3QxTnI",
-      "title": "名记：火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHhzcG1CTy1GOE4wZUQzN0RIR3hObTFIalJOS1hScDZieTRQS1lOWTlZckR2dzlMbDA0NGVMOVE4c0lyNzV3Y2lDMlRoSEVLbDBucXNsS0Z3LVZjN3ZTd3JlQ3NOM2JHLTdYa1RXUUQ0WERjY2c0N0FkMFhkSHQzb3QxTnI?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-21T00:24:45.000Z",
-      "description": "名记：火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特 Sina Sports",
-      "titleZh": "名记：火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特",
-      "summaryZh": "名记：火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特 Sina Sports",
-      "detailsZh": "名记：火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特 Sina Sports",
+      "id": "durant:CBMijAFBVV95cUxPNUZvazNqUDZUY25yUmRwR0ttWTNnNVo1SlRBV0hlREZiUzJacE5ScDJSTGt1TW5VdjR3d3IwUGFpLTBZeDluSEN0cm9FZkFRRHlyWjA0YlhYTjBUWmtpRGFfbHJ1M0hydzd4MjhpZTc5b1BlNE41UUVYN29jLVZCS2tNaUR2NlJLelpVeA",
+      "title": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUZvazNqUDZUY25yUmRwR0ttWTNnNVo1SlRBV0hlREZiUzJacE5ScDJSTGt1TW5VdjR3d3IwUGFpLTBZeDluSEN0cm9FZkFRRHlyWjA0YlhYTjBUWmtpRGFfbHJ1M0hydzd4MjhpZTc5b1BlNE41UUVYN29jLVZCS2tNaUR2NlJLelpVeA?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-09-21T03:29:04.000Z",
+      "description": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队 搜狐网",
+      "titleZh": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队",
+      "summaryZh": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队 搜狐网",
+      "detailsZh": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队 搜狐网",
       "keyPoints": [
-        "名记：火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiYEFVX3lxTFBjVXJ3amU5bWl4UllSQWdNdG5PLUJ1ZEwxRFR2UGVnTXhLMjFNdERGcHdaYnRlajR3QW9ZaFEtbHB3YnEycXphdERXUWxSVDFUQ2paaVplRnFMQ0I5cE5iMw",
-      "title": "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVXJ3amU5bWl4UllSQWdNdG5PLUJ1ZEwxRFR2UGVnTXhLMjFNdERGcHdaYnRlajR3QW9ZaFEtbHB3YnEycXphdERXUWxSVDFUQ2paaVplRnFMQ0I5cE5iMw?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-09-20T21:20:57.000Z",
-      "description": "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞 企鹅体育",
-      "titleZh": "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞",
-      "summaryZh": "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞 企鹅体育",
-      "detailsZh": "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞 企鹅体育",
-      "keyPoints": [
-        "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞"
+        "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队"
       ],
       "category": "场外",
       "importance": 3
@@ -171,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-21T04:57:25.754Z",
+      "publishedAt": "2026-09-21T10:41:20.685Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -184,20 +169,37 @@
     },
     {
       "subject": "chenze",
+      "id": "chenze:CBMiVkFVX3lxTE14TUtnWE1YdGZIRHU2bDUzUF9HdzRiQzBWYmdwOGp1NWtnNTJNVjJXbW1LdUFqUnhoY0FLSW1XU1BEVXNMZF9nRkxXNDZnNVhWaWxSZHd3",
+      "title": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14TUtnWE1YdGZIRHU2bDUzUF9HdzRiQzBWYmdwOGp1NWtnNTJNVjJXbW1LdUFqUnhoY0FLSW1XU1BEVXNMZF9nRkxXNDZnNVhWaWxSZHd3?oc=5",
+      "source": "新榜",
+      "publishedAt": "2026-09-21T05:33:22.000Z",
+      "description": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？ 新榜",
+      "titleZh": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？",
+      "summaryZh": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？ 新榜",
+      "detailsZh": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？ 新榜",
+      "keyPoints": [
+        "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
       "id": "chenze:CBMiVkFVX3lxTE5yZE5rWkp0RnF5dlpOZjlTR01CR3NxZkRWVzhFcXlPX29QSWIwenhJZXFYQmtMXzRValdXbWVJWHVlQ01EM3FzY2tLRFJFWTFWVkx2Ml9n",
       "title": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yZE5rWkp0RnF5dlpOZjlTR01CR3NxZkRWVzhFcXlPX29QSWIwenhJZXFYQmtMXzRValdXbWVJWHVlQ01EM3FzY2tLRFJFWTFWVkx2Ml9n?oc=5",
-      "source": "weibo.com",
+      "source": "微博",
       "publishedAt": "2026-09-20T04:43:05.000Z",
-      "description": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 weibo.com",
+      "description": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 微博",
       "titleZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的",
-      "summaryZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 weibo.com",
-      "detailsZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 weibo.com",
+      "summaryZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 微博",
+      "detailsZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 微博",
       "keyPoints": [
         "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -212,23 +214,6 @@
       "detailsZh": "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​ 手机新浪网",
       "keyPoints": [
         "当陈泽遇到锐评主播，这个小嘴一时分不清谁才是锐评主播 #一分钟精选视频扶持计划# ​"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA",
-      "title": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA?oc=5",
-      "source": "体坛加",
-      "publishedAt": "2026-09-15T18:24:55.000Z",
-      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
-      "titleZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
-      "summaryZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
-      "detailsZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
-      "keyPoints": [
-        "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线"
       ],
       "category": "场外",
       "importance": 3
@@ -314,17 +299,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的客观记录，非当日新闻。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页。事实层面：记录了其作为知名网络写手的身份，涵盖常用笔名、主要创作风格（如幽默讽刺类段子）以及在中文互联网语境下的影响力。评论层面：部分编辑可能对其作品的文学性或社会意义进行主观评价，需甄别。传闻层面：涉及其个人生活细节或未经证实的创作轶事，需谨慎对待。此页面属于固定资料入口，旨在提供长期稳定的参考信息，而非报道特定日期的动态事件。内容更新依赖于社区维护，可能存在滞后性。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格及网络影响。作为基础背景资料入口，提供关于该人物身份与作品体系的系统性概述。",
+      "detailsZh": "事实：该页面为维基百科中关于“大咕咕咕鸡”的条目，旨在记录其作为网络写手的生平、主要作品及在中文互联网语境下的文化影响。内容通常包括对其早期成名作（如《全职高手》同人或原创段子）的梳理，以及其在特定亚文化圈层中的地位。评论：此类百科条目具有中立性特征，但可能因编辑者主观视角而侧重不同阶段的作品。传闻：需警惕非官方来源对笔名演变或真实身份的过度解读。注意：此为固定资料入口，非当日新闻事件，适用于背景查询而非时效性追踪。",
       "keyPoints": [
         "记录常用笔名与创作风格",
-        "梳理作品与网络影响",
-        "属固定资料入口非新闻",
-        "需甄别主观评论与传闻"
+        "梳理主要作品与网络影响",
+        "提供系统性背景资料"
       ],
       "category": "场外",
-      "importance": 5
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -334,54 +318,13 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。作为社交互动入口，反映粉丝社群活跃度，非单一新闻报道。",
-      "detailsZh": "此为新浪微博平台上的官方或半官方超话页面，是大咕咕咕鸡与其读者互动的主要场所。事实层面：展示了最新的公开动态、转发内容及评论区的高热度话题。评论层面：评论区常包含粉丝的个人观点、情感投射及对作者作品的解读，具有强烈的主观色彩。传闻层面：可能出现关于作者近况、未公开行程或私人生活的猜测性言论，真实性存疑。此页面属于固定的社交聚合入口，用于追踪长期动态和社群氛围，不具备传统新闻的时效性和权威性。用户应区分官方发布内容与UGC（用户生成内容）。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态聚合页与读者讨论超话。作为粉丝互动与信息发布的官方渠道之一，用于追踪其最新状态与社区反馈。",
+      "detailsZh": "事实：该链接指向新浪微博的超级话题索引页，汇集了大量关于“大咕咕咕鸡”的用户生成内容，包括转发、评论及原创讨论。这是观察其公众形象与受众反应的重要窗口。评论：超话内的言论多为粉丝情感表达或二次创作，真实性参差不齐，需结合其他信源交叉验证。传闻：部分热门帖子可能涉及未经证实的行程或合作消息，应视为潜在谣言高发区。注意：此为固定主页/资料入口，展示的是长期积累的社区内容，而非单一时间点的新闻报道。",
       "keyPoints": [
-        "聚合最新公开动态",
-        "反映粉丝社群活跃度",
-        "评论区含大量主观评论",
-        "存在未经证实的传闻风险"
-      ],
-      "category": "公开发言",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "B站作品朗读与讨论聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡作品朗读视频及相关讨论。作为多媒体内容索引，展示受众对文本的二次传播与演绎。",
-      "detailsZh": "该页面通过关键词搜索聚合了哔哩哔哩平台上与大咕咕咕鸡相关的视频内容。事实层面：包括官方授权的朗读音频、粉丝制作的二创视频、以及相关的解说或吐槽内容。评论层面：视频弹幕和评论区反映了观众对作品风格的接受度、喜爱点及争议点，是观察受众反馈的重要窗口。传闻层面：个别视频标题或简介可能夸大事实以吸引点击，内容真实性需核实。此页面属于动态搜索结果集合，随时间推移不断更新，但本身不是独立的新闻源。它体现了网络写手在视频平台的跨媒介影响力，适合用于分析其作品的传播形态。",
-      "keyPoints": [
-        "汇集作品朗读与二创视频",
-        "弹幕评论反映受众反馈",
-        "体现跨媒介传播形态",
-        "搜索结果具动态更新特性"
-      ],
-      "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "领库账号数据资料页",
-      "summaryZh": "领库平台提供的微博账号资料与传播数据页面。侧重商业价值评估指标，如粉丝量、互动率等，服务于KOL营销分析。",
-      "detailsZh": "此页面来自第三方KOL数据分析平台“领库”，专门针对大咕咕咕鸡的微博账号进行数据化呈现。事实层面：提供了粉丝数量、近期博文阅读量、点赞数、转发数等量化指标，以及账号的基本属性标签。评论层面：平台算法生成的“影响力评分”或“商业价值评级”带有模型假设成分，不完全等同于实际社会影响力。传闻层面：数据抓取可能存在延迟或误差，且无法验证粉丝的真实性（如是否存在水军）。此页面属于静态的数据档案，主要用于商业合作前的背景调查。它从侧面印证了作者在社交媒体上的活跃度和潜在商业价值，但不涉及具体的创作内容或思想表达。",
-      "keyPoints": [
-        "提供粉丝量与互动数据",
-        "侧重商业价值评估",
-        "数据可能存在抓取误差",
-        "适用于商业背景调查"
+        "汇聚公开动态与读者讨论",
+        "反映粉丝社区活跃度",
+        "非单一新闻事件的入口"
       ],
       "category": "场外",
       "importance": 2
@@ -394,17 +337,50 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言的影响。属历史性文献，反映早期公众认知。",
-      "detailsZh": "这是一篇发布于2015年的媒体深度报道，由界面新闻出品。事实层面：详细描述了当时大咕咕咕鸡的创作手法、代表作品片段，以及其在当时网络流行语生成中的作用。评论层面：记者基于当时的观察进行了行业分析，评价其作为“段子手”现象的社会学意义，观点受限于2015年的舆论环境。传闻层面：报道中引用的部分网友反应或内部消息可能未经严格交叉验证。此页面属于历史新闻存档，对于理解作者早期的公众形象和时代背景具有重要参考价值。但由于时间久远，部分内容可能已不符合现状，阅读时需结合后续发展进行批判性思考。",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。作为历史文献，记录了其早期在中文互联网文化中的标志性地位。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，由界面新闻撰写，主题聚焦于大咕咕咕鸡如何代表一类网络创作者，并探讨其文字风格对当时网络流行语的塑造作用。文中引用了其部分代表性段子及当时的社会反响。评论：媒体视角倾向于将其置于更广阔的网络文学发展史中进行评价，强调其作为“现象级”人物的社会学意义。传闻：报道中提及的部分私下轶事可能存在记忆偏差或夸大成分。注意：此为历史性深度报道，反映的是2015年的行业认知，不具当前时效性，但具有重要的史料价值。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "回顾早期创作风格与影响",
-        "观点受限于当时舆论环境",
-        "具社会学分析价值"
+        "2015年发布的历史深度报道",
+        "分析创作风格与语言影响",
+        "记录早期互联网文化地位"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "公开发言",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "keyPoints": [
+        "大咕咕咕鸡相关视频与作品朗读"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
+      "importance": 4
     }
   ]
 }
