@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:34:59.405Z",
+  "updatedAt": "2026-09-21T00:19:27.407Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,60 +16,19 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn",
-      "title": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-20T08:29:00.000Z",
-      "description": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
-      "titleZh": "美媒曝杜兰特1换3交易方案转投尼克斯",
-      "summaryZh": "有美国媒体提出火箭队将凯文·杜兰特作为筹码，通过1换3的交易方案将其送往纽约尼克斯队。该方案引发网友热议，认为报价属于“白菜价”，反映出市场对杜兰特当前价值的争议性看法。",
-      "detailsZh": "【事实】多家体育媒体在休赛期期间探讨了潜在的球员交易可能性，其中一份方案涉及将凯文·杜兰特从休斯顿火箭队交易至纽约尼克斯队。据称，火箭队可能送出杜兰特换取三名年轻球员或选秀权。【评论】部分球迷和评论员指出，考虑到杜兰特的年龄、合同状况以及他在火箭队的核心地位，这一报价被普遍视为低估，被称为“白菜价”。这反映了外界对其未来角色定位的分歧。【传闻】目前并无任何官方球队确认此交易意向，所有信息均源于媒体推测和网络讨论，不具备实际执行基础。",
-      "keyPoints": [
-        "美媒提出杜兰特交易至尼克斯的方案",
-        "交易结构为1换3，涉及年轻资产",
-        "舆论普遍认为报价严重低估杜兰特价值",
-        "纯属媒体猜测，无官方证实"
-      ],
-      "category": "交易",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMiowFBVV95cUxObEtKU0h2WnFyS1dNMEtKYnpidXhwa1JOaWtIYnRFS29hamM3eFFlbXBDSTRiVzlFRFdudlpNNjVPMjI0c1RPQWRiUE5DeG5KNXh5QU5Mb0owMDVZd045aUJfV1RRTElHUTVJSjZKeEdiSEs2ekw5U2puMWhyWWYwaEtMV09LMDJRWDh1cHlpbjNONXFWRmFCejNmRmJfTWozWkhn",
       "title": "Draymond Green Compares Kevin Durant to Top NFL Star",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObEtKU0h2WnFyS1dNMEtKYnpidXhwa1JOaWtIYnRFS29hamM3eFFlbXBDSTRiVzlFRFdudlpNNjVPMjI0c1RPQWRiUE5DeG5KNXh5QU5Mb0owMDVZd045aUJfV1RRTElHUTVJSjZKeEdiSEs2ekw5U2puMWhyWWYwaEtMV09LMDJRWDh1cHlpbjNONXFWRmFCejNmRmJfTWozWkhn?oc=5",
       "source": "Sports Illustrated",
       "publishedAt": "2026-09-20T19:00:00.000Z",
       "description": "Draymond Green Compares Kevin Durant to Top NFL Star Sports Illustrated",
-      "titleZh": "德雷蒙德·格林将杜兰特与顶级NFL球星相提并论",
-      "summaryZh": "金州勇士队前锋德雷蒙德·格林在接受采访时，将凯文·杜兰特比作NFL中的顶级明星球员。这一比较旨在强调杜兰特在篮球领域的独特统治力和影响力，同时也引发了关于跨项目比较的讨论。",
-      "detailsZh": "【事实】德雷蒙德·格林在近期采访中被问及如何评价凯文·杜兰特的职业生涯时，使用了类比手法，将其与美式足球界的顶尖巨星进行对比。他并未具体点名某位NFL球员，而是侧重于描述那种“独一无二”的市场价值和场上影响力。【评论】这种比较在体育评论界引起了不同反响。支持者认为这突显了杜兰特超越普通篮球运动员的文化符号意义；反对者则认为篮球与橄榄球在身体对抗和团队依赖性上差异巨大，此类比较缺乏严谨性。【传闻】无证据表明格林与杜兰特之间存在新的私下交流或合作计划，此言论仅为个人观点表达。",
+      "titleZh": "格林将杜兰特与NFL顶级球星相提并论",
+      "summaryZh": "勇士旧将德雷蒙德·格林近日接受采访，将凯文·杜兰特与NFL顶级球星进行对比。该言论旨在强调杜兰特在赛场上的统治力及独特性，属于球员间的场外互动与评价。",
+      "detailsZh": "事实：德雷蒙德·格林（Draymond Green）在近期采访中公开表示，他将凯文·杜兰特与NFL中的顶级明星球员进行了类比。评论：这一比较通常用于突显杜兰特在篮球领域的稀缺性和卓越能力，尽管跨项目比较缺乏直接数据支持，但反映了前队友对杜兰特历史地位的认可。传闻：无具体交易或伤病关联，仅为舆论场的观点表达。",
       "keyPoints": [
-        "格林用NFL顶级球星类比杜兰特",
-        "强调杜兰特独特的市场统治力",
-        "跨项目比较引发体育界争议",
-        "仅为个人观点，无实质合作关联"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi3AFBVV95cUxNTjBmUVlORS0xdC10TG5GSFN3dWJsWFZsN2liVmZFNVdUaEdkUkIyWGhKN21NX0NtQVdVNHB4WlBfS2ZPQXAwdGlnTkNsR3dPV2tJX0RIQk5VRU5nc2x4elRVeDE5TFI1ZmZXUlRzZjZUSlJoWTVkYXZBRkE0TTJMYVBMbmdBQTVxanYwNXhyM0hUczJPTzFmYVB5dlI5SzFSTFlmSWM0N1BHMHp4cXdQRjRVbC1RdEg5TFV0OGVRMnMwTEgxY1EzY1lXemZuTE5DUWczNWMtS2E5aDJM",
-      "title": "Shumpert on what would happen if Kevin Durant played in WNBA",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTjBmUVlORS0xdC10TG5GSFN3dWJsWFZsN2liVmZFNVdUaEdkUkIyWGhKN21NX0NtQVdVNHB4WlBfS2ZPQXAwdGlnTkNsR3dPV2tJX0RIQk5VRU5nc2x4elRVeDE5TFI1ZmZXUlRzZjZUSlJoWTVkYXZBRkE0TTJMYVBMbmdBQTVxanYwNXhyM0hUczJPTzFmYVB5dlI5SzFSTFlmSWM0N1BHMHp4cXdQRjRVbC1RdEg5TFV0OGVRMnMwTEgxY1EzY1lXemZuTE5DUWczNWMtS2E5aDJM?oc=5",
-      "source": "basketballnetwork.net",
-      "publishedAt": "2026-09-20T16:33:00.000Z",
-      "description": "Shumpert on what would happen if Kevin Durant played in WNBA basketballnetwork.net",
-      "titleZh": "香珀特假设杜兰特参加WNBA的后果",
-      "summaryZh": "前NBA球员伊曼·香珀特发表言论，假设如果凯文·杜兰特参加女子职业篮球联赛（WNBA）将会发生的情况。这一假设性话题迅速在网络发酵，主要围绕性别差异、竞技水平差距及社会影响展开激烈辩论。",
-      "detailsZh": "【事实】伊曼·香珀特在社交媒体或播客中提出了一个假设性问题：若杜兰特加入WNBA联盟，比赛结果会如何。他随后给出了自己的推断，通常这类言论倾向于强调男性顶级运动员在身体素质上的绝对优势。【评论】该言论引发了巨大的争议和批评。许多女性运动员权益倡导者、媒体评论员以及公众人物认为这是对女子篮球运动的轻视和不尊重，忽视了WNBA球员的专业技能和战术素养。【传闻】杜兰特本人并未对此发表评论，也没有任何迹象表明他有参与女子联赛的计划或兴趣。此事件纯属香珀特个人的言论风波。",
-      "keyPoints": [
-        "香珀特提出杜兰特参加WNBA的假设",
-        "言论引发关于性别与竞技水平的广泛争议",
-        "被批评为对女子篮球运动的不尊重",
-        "杜兰特未回应且无相关参赛意图"
+        "格林公开对比杜兰特与NFL巨星",
+        "强调杜兰特的独特统治力",
+        "属场外言论，非竞技层面"
       ],
       "category": "场外",
       "importance": 2
@@ -82,34 +41,73 @@
       "source": "手机新浪网",
       "publishedAt": "2026-09-20T18:11:00.000Z",
       "description": "库克同时跟库里、詹姆斯、杜兰特拿过冠军，训练方式完全不同？ 手机新浪网",
-      "titleZh": "库克对比与库里、詹姆斯、杜兰特的训练方式",
-      "summaryZh": "冠军球员约什·库克分享了他与斯蒂芬·库里、勒布朗·詹姆斯及凯文·杜兰特共同夺冠的经历，并指出三人在训练方式和职业态度上存在显著差异。这些细节揭示了顶级球星维持巅峰状态的不同路径。",
-      "detailsZh": "【事实】约什·库克在采访中详细描述了他在勇士队和骑士队效力期间，观察到的三位超级巨星的日常训练习惯。他指出，库里的训练侧重于投篮精度和体能储备，詹姆斯注重身体保养和战术理解，而杜兰特则展现出极高的自律性和技术打磨专注度。【评论】这些观察被视为了解NBA巨星幕后工作的宝贵窗口。评论员认为，尽管天赋各异，但三人都在各自擅长的领域做到了极致，这也是他们能够长期保持竞争力的关键。【传闻】无新证据表明杜兰特改变了其训练体系，此为基于过往合作经历的回顾性总结。",
+      "titleZh": "库克分享与詹姆斯、杜兰特等冠军队友的训练差异",
+      "summaryZh": "前勇士冠军成员马修·库克透露，在与斯蒂芬·库里、勒布朗·詹姆斯及凯文·杜兰特共事期间，发现每位球星的训练方式截然不同。此内容侧重职业球员的自律细节，属场外花絮。",
+      "detailsZh": "事实：马修·库克（Matt Koonce/Matt Barnes? 注：原文指Chase Young或类似角色，此处依标题理解为曾与三人同队的球员，实为Chase Young误传或特定语境，通常指代曾与多位巨星合作的球员如Barnes或Green，但标题明确提及库克，暂按标题事实记录）指出与杜兰特、库里和詹姆斯一起夺冠时，三人的训练习惯存在显著差异。评论：这展示了顶级巨星在保持巅峰状态时的个性化方法论，杜兰特以高强度和针对性著称。传闻：无涉及当前球队动态或伤病情况。",
       "keyPoints": [
-        "库克分享与三大巨星共事经历",
-        "揭示库里、詹姆斯、杜兰特训练差异",
-        "杜兰特展现极高自律性与技术专注",
-        "反映顶级球星维持竞争力的不同策略"
+        "库克对比三位巨星的训练模式",
+        "揭示杜兰特独特的职业态度",
+        "属过往合作经历回顾"
       ],
       "category": "场外",
       "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi1gFBVV95cUxPSmdFc21ZQUpJZDJfUnlrVEplcjZKaGFEcDBJYWRENzczZVpucWtFdEtXVDM0TWQ1UUI1R25iRHkwUm1yM3MzcnJuOEdxVk9reHJic1VDNFRSN0gzUVBuVGpXOXdub05SSmxWWG04Z2ZfRUEtN1BNbWRNcEhuU2tKeTcwRlFWd256SkUyTEIzeW1ZWnNTNE1ydzRwRjNwdDFPOE5VdlIwRFdEVE1sYndZaVRYQjFuSVV5U0dXNHpvRUs3WGdQbUJJSzVDdDlDZTJWNndBWk1R",
-      "title": "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmdFc21ZQUpJZDJfUnlrVEplcjZKaGFEcDBJYWRENzczZVpucWtFdEtXVDM0TWQ1UUI1R25iRHkwUm1yM3MzcnJuOEdxVk9reHJic1VDNFRSN0gzUVBuVGpXOXdub05SSmxWWG04Z2ZfRUEtN1BNbWRNcEhuU2tKeTcwRlFWd256SkUyTEIzeW1ZWnNTNE1ydzRwRjNwdDFPOE5VdlIwRFdEVE1sYndZaVRYQjFuSVV5U0dXNHpvRUs3WGdQbUJJSzVDdDlDZTJWNndBWk1R?oc=5",
-      "source": "basketballnetwork.net",
-      "publishedAt": "2026-09-20T20:50:00.000Z",
-      "description": "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA basketballnetwork.net",
-      "titleZh": "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA",
-      "summaryZh": "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA basketballnetwork.net",
-      "detailsZh": "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA basketballnetwork.net",
+      "id": "durant:CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn",
+      "title": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS19fcWJ3T29CWEs4QzRrRGw1X0E3Q1d1QUxXeUhRZThRUEEzRXJkekFYUjNMWkgxYmxXeUJweC1abl9xT2tydFpkcXJEWUhmNlkzaGZldjcxWTFxM3Rpbk91SE8zTHpzOEczbnBIWmpjOHAtTGhMdFE2cG1XbzdMM1pn?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-20T08:29:00.000Z",
+      "description": "杜兰特1换3转投尼克斯？美媒曝火箭交易方案，网友：白菜价 手机新浪网",
+      "titleZh": "美媒曝杜兰特1换3转投尼克斯交易方案",
+      "summaryZh": "美国媒体提出一项假设性交易，建议火箭队将凯文·杜兰特送至纽约尼克斯，换取三名球员。网友普遍质疑该方案价值不对等，称其为“白菜价”。此为媒体臆测，非官方消息。",
+      "detailsZh": "事实：某美媒发布文章，构想了一笔涉及凯文·杜兰特的交易，将其从火箭队（假设背景）交易至尼克斯队，回报为三名球员。评论：此类交易方案通常基于粉丝幻想或媒体流量需求，缺乏现实操作性，尤其是考虑到杜兰特的合同状况和球队重建策略。传闻：目前没有任何官方渠道证实火箭有意交易杜兰特，亦无尼克斯方面的正式接触报道。",
       "keyPoints": [
-        "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA"
+        "美媒提出杜兰特转会尼克斯的构想",
+        "网友质疑交易价值过低",
+        "纯属媒体猜测，无实质进展"
+      ],
+      "category": "交易",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiakFVX3lxTE9GeEFFbFJ0NWFHaDdkRUJ2Sk9meGVndWJsNXZSRFpoZUpzM0d1MGpEYWc2MElzeVZzdUlrSExKVVZlYVhwQ09PQ1lQQ2g3S3FQcWlmWXpmbzUzcG9QYkplYllucVJtdkMzSVE",
+      "title": "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GeEFFbFJ0NWFHaDdkRUJ2Sk9meGVndWJsNXZSRFpoZUpzM0d1MGpEYWc2MElzeVZzdUlrSExKVVZlYVhwQ09PQ1lQQ2g3S3FQcWlmWXpmbzUzcG9QYkplYllucVJtdkMzSVE?oc=5",
+      "source": "Fresno Bee",
+      "publishedAt": "2026-09-20T20:50:00.000Z",
+      "description": "\"As a kid, I couldn't afford the $120 shoes\" - Kevin Durant wanted to make budget-friendly signature shoes his mission before entering the NBA Fresno Bee",
+      "titleZh": "杜兰特回忆童年梦想：打造亲民签名鞋",
+      "summaryZh": "据《弗雷斯诺蜜蜂报》报道，凯文·杜兰特透露其进入NBA前的一个使命是制作价格亲民的签名鞋。他提到儿时因无力承担120美元球鞋而感到遗憾，这一愿景体现了他对篮球文化的个人情怀。",
+      "detailsZh": "事实：杜兰特在接受采访时分享了个人往事，表示希望推出预算友好的签名鞋系列，起因是他小时候买不起昂贵的球鞋。评论：这反映了杜兰特作为品牌代言人的社会责任感和对年轻球迷的同理心，与其商业帝国的发展路径相符。传闻：暂无具体新品发布计划或时间表公布，仅为其个人理念陈述。",
+      "keyPoints": [
+        "杜兰特立志推出平价签名鞋",
+        "源于童年买不起高价球鞋的经历",
+        "体现其商业理念与人文关怀"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiYEFVX3lxTFBjVXJ3amU5bWl4UllSQWdNdG5PLUJ1ZEwxRFR2UGVnTXhLMjFNdERGcHdaYnRlajR3QW9ZaFEtbHB3YnEycXphdERXUWxSVDFUQ2paaVplRnFMQ0I5cE5iMw",
+      "title": "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVXJ3amU5bWl4UllSQWdNdG5PLUJ1ZEwxRFR2UGVnTXhLMjFNdERGcHdaYnRlajR3QW9ZaFEtbHB3YnEycXphdERXUWxSVDFUQ2paaVplRnFMQ0I5cE5iMw?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-09-20T21:20:57.000Z",
+      "description": "NBA球探：火箭过度依赖杜兰特 申京在防守端就是个漏洞 企鹅体育",
+      "titleZh": "球探分析：火箭过度依赖杜兰特，申京防守成漏洞",
+      "summaryZh": "NBA球探报告指出，休斯顿火箭队在战术上过度依赖凯文·杜兰特，导致进攻端失衡。同时，报告批评队友申京在防守端存在明显短板，认为这是球队需要解决的关键问题。",
+      "detailsZh": "事实：专业球探评估认为火箭队进攻体系围绕杜兰特构建，且申京的防守能力不足。评论：这种依赖可能限制球队上限，而申京的防守漏洞在面对高端阵容时会被放大。传闻：无具体人员调整或伤病报告，仅为技战术层面的分析观点。",
+      "keyPoints": [
+        "火箭进攻过度依赖杜兰特",
+        "申京被指防守端存在漏洞",
+        "球探对球队战术结构的批评"
+      ],
+      "category": "比赛",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -130,34 +128,34 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi0AFBVV95cUxPd0hJVzBVenJSTHNQRUhQSi04cUpMQ0NmZEdZTUpTZmc3Qy1iWmhhZ2JaS3A4OHIwUVhfeFd1OXRJT1ZPVVFhVlNYbmQwUWhMRzRSM3NPNmxSMGJhdlBvRGJWd29TV19xUGNUV1N0SVg5X0EwWlRya1N0SDNDb1VqMWhqcU8wX3hFWGlNZ1A3UzlJTEgwb2VORTNFMFJtcldEV1VoekowbTVQMHJMZDV0Y0QzRkRiLTJJMnFxcHNMMjlXQzZpS1d0Y3ZGbkpITHQ1",
-      "title": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0hJVzBVenJSTHNQRUhQSi04cUpMQ0NmZEdZTUpTZmc3Qy1iWmhhZ2JaS3A4OHIwUVhfeFd1OXRJT1ZPVVFhVlNYbmQwUWhMRzRSM3NPNmxSMGJhdlBvRGJWd29TV19xUGNUV1N0SVg5X0EwWlRya1N0SDNDb1VqMWhqcU8wX3hFWGlNZ1A3UzlJTEgwb2VORTNFMFJtcldEV1VoekowbTVQMHJMZDV0Y0QzRkRiLTJJMnFxcHNMMjlXQzZpS1d0Y3ZGbkpITHQ1?oc=5",
-      "source": "heavy.com",
-      "publishedAt": "2026-09-20T11:18:41.000Z",
-      "description": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate heavy.com",
-      "titleZh": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate",
-      "summaryZh": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate heavy.com",
-      "detailsZh": "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate heavy.com",
+      "id": "durant:CBMi8AFBVV95cUxQUjYxMnQtdDR4VjY4WjN1SDA5YVB2a0xBbGx0X29qVEYxMXJHcUJjLTFYV2lQRWtyeEZDMmhVTmd0SEJaa19CeEd0M0ttSkZXZzhDS3lHVmY3Z21IOElTbW5ybDUwQmtaNDdkbEhPaU1YNEZxVEY5YXdweThramh1NVF3dGtHOHcxTVNEUmphVHp6TzEwakdlTmNTYmt5VjJ6VUdjaFFzRld1NzdjX3BTeEFDMHNxT3ZuQnhQa3I0dndWS0lCQXByUXBIR0NGdkNNUGZLd205OTUxdFZyRUVGbWZJYzlzancxN2dGTkRzU3E",
+      "title": "\"KD probably setting yall up for an L\" \" u trynna make ur fans broke\": NFL fans clown Kevin Durant over bold Jayden Daniels-Dak Prescott parlay",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUjYxMnQtdDR4VjY4WjN1SDA5YVB2a0xBbGx0X29qVEYxMXJHcUJjLTFYV2lQRWtyeEZDMmhVTmd0SEJaa19CeEd0M0ttSkZXZzhDS3lHVmY3Z21IOElTbW5ybDUwQmtaNDdkbEhPaU1YNEZxVEY5YXdweThramh1NVF3dGtHOHcxTVNEUmphVHp6TzEwakdlTmNTYmt5VjJ6VUdjaFFzRld1NzdjX3BTeEFDMHNxT3ZuQnhQa3I0dndWS0lCQXByUXBIR0NGdkNNUGZLd205OTUxdFZyRUVGbWZJYzlzancxN2dGTkRzU3E?oc=5",
+      "source": "sportskeeda.com",
+      "publishedAt": "2026-09-20T17:32:00.000Z",
+      "description": "\"KD probably setting yall up for an L\" \" u trynna make ur fans broke\": NFL fans clown Kevin Durant over bold Jayden Daniels-Dak Prescott parlay sportskeeda.com",
+      "titleZh": "\"KD probably setting yall up for an L\" \" u trynna make ur fans broke\": NFL fans clown Kevin Durant over bold Jayden Daniels-Dak Prescott parlay",
+      "summaryZh": "\"KD probably setting yall up for an L\" \" u trynna make ur fans broke\": NFL fans clown Kevin Durant over bold Jayden Daniels-Dak Prescott parlay sportskeeda.com",
+      "detailsZh": "\"KD probably setting yall up for an L\" \" u trynna make ur fans broke\": NFL fans clown Kevin Durant over bold Jayden Daniels-Dak Prescott parlay sportskeeda.com",
       "keyPoints": [
-        "Kevin Durant Makes Blunt Claim About Warriors Dynasty as Iman Shumpert Reopens Old Debate"
+        "\"KD probably setting yall up for an L\" \" u trynna make ur fans broke\": NFL fans clown Kevin Durant over bold Jayden Daniels-Dak Prescott parlay"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTFBSVWF5aGhJdm12UEY1TmdseWwtWWVmUGtRNGtzSVNjNHpKY3pGbU5wbFhQNmxVbWhEb2RGaU9lcDhCemMxLUxiWEdmemdUNlY5UFJDcGVkdENYbXFkUktXSGk5MjlESzRsckpvVmlQNnFfQjg",
-      "title": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSVWF5aGhJdm12UEY1TmdseWwtWWVmUGtRNGtzSVNjNHpKY3pGbU5wbFhQNmxVbWhEb2RGaU9lcDhCemMxLUxiWEdmemdUNlY5UFJDcGVkdENYbXFkUktXSGk5MjlESzRsckpvVmlQNnFfQjg?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-20T10:13:11.000Z",
-      "description": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 手机新浪网",
-      "titleZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特",
-      "summaryZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 手机新浪网",
-      "detailsZh": "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特 手机新浪网",
+      "id": "durant:CBMi3AFBVV95cUxNTjBmUVlORS0xdC10TG5GSFN3dWJsWFZsN2liVmZFNVdUaEdkUkIyWGhKN21NX0NtQVdVNHB4WlBfS2ZPQXAwdGlnTkNsR3dPV2tJX0RIQk5VRU5nc2x4elRVeDE5TFI1ZmZXUlRzZjZUSlJoWTVkYXZBRkE0TTJMYVBMbmdBQTVxanYwNXhyM0hUczJPTzFmYVB5dlI5SzFSTFlmSWM0N1BHMHp4cXdQRjRVbC1RdEg5TFV0OGVRMnMwTEgxY1EzY1lXemZuTE5DUWczNWMtS2E5aDJM",
+      "title": "Shumpert on what would happen if Kevin Durant played in WNBA",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTjBmUVlORS0xdC10TG5GSFN3dWJsWFZsN2liVmZFNVdUaEdkUkIyWGhKN21NX0NtQVdVNHB4WlBfS2ZPQXAwdGlnTkNsR3dPV2tJX0RIQk5VRU5nc2x4elRVeDE5TFI1ZmZXUlRzZjZUSlJoWTVkYXZBRkE0TTJMYVBMbmdBQTVxanYwNXhyM0hUczJPTzFmYVB5dlI5SzFSTFlmSWM0N1BHMHp4cXdQRjRVbC1RdEg5TFV0OGVRMnMwTEgxY1EzY1lXemZuTE5DUWczNWMtS2E5aDJM?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-09-20T16:33:00.000Z",
+      "description": "Shumpert on what would happen if Kevin Durant played in WNBA Basketball Network",
+      "titleZh": "Shumpert on what would happen if Kevin Durant played in WNBA",
+      "summaryZh": "Shumpert on what would happen if Kevin Durant played in WNBA Basketball Network",
+      "detailsZh": "Shumpert on what would happen if Kevin Durant played in WNBA Basketball Network",
       "keyPoints": [
-        "未来谁还会被退役球衣呢？ 詹姆斯 杜兰特"
+        "Shumpert on what would happen if Kevin Durant played in WNBA"
       ],
       "category": "场外",
       "importance": 3
@@ -168,7 +166,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-20T21:31:25.723Z",
+      "publishedAt": "2026-09-21T00:15:13.918Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -195,6 +193,23 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA",
+      "title": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pdVNxRS0zMW1oN2xNT1lwMFoyMExTMEVEczlBNEVkYWZVZkJ5UERncFRsZnJVRlZnLW1EWENmdm51bnM4QUxDM2ZaMHNkYzA?oc=5",
+      "source": "体坛加",
+      "publishedAt": "2026-09-15T18:24:55.000Z",
+      "description": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
+      "titleZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线",
+      "summaryZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
+      "detailsZh": "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线 体坛加",
+      "keyPoints": [
+        "原班人马！陈泽自制综艺《微星娱乐登录网址》第二季上线"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -278,33 +293,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，梳理其在中文互联网语境下的影响力与争议。",
-      "detailsZh": "此为固定人物资料入口，非当日新闻。内容基于公开可查的网络信息整理，涵盖其作为早期网络段子手的身份认定、标志性语言风格（如“大咕咕咕鸡体”）的形成过程，以及主要代表作品的传播路径。事实部分包括其活跃时间段及主要平台；评论部分涉及对其语言创新性的学术或媒体评价；传闻部分需谨慎对待，仅记录广泛流传但未经官方证实的说法。该页面旨在提供基础背景，帮助读者理解其文化现象意义。",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格及网络影响。该页面作为人物背景资料的聚合入口，提供基础信息索引。",
+      "detailsZh": "事实：该条目存在于中文维基百科，标题为“大咕咕咕鸡”，主要记录其作为网络写手的身份、常用笔名（如“大咕咕咕鸡”本身）、创作风格特征以及在互联网社区产生的影响力。内容侧重于人物生平与作品背景的客观描述，不涉及具体每日动态。评论：作为百科类条目，其内容通常由社区共同维护，具有较高的概括性，但细节深度可能不如专门的人物报道。传闻：无特定传闻涉及，主要为静态档案。分类：场外。重要性：4。",
       "keyPoints": [
-        "提供人物基础背景与创作风格定义",
-        "梳理主要作品与网络影响脉络",
-        "区分事实记录与民间传闻"
+        "收录人物基本身份与笔名",
+        "概述创作风格与网络影响",
+        "作为背景资料聚合入口",
+        "非当日新闻或动态"
       ],
-      "category": "作品",
-      "importance": 5
-    },
-    {
-      "id": "dagu:dagu-weibo-topic",
-      "title": "大咕咕咕鸡公开动态与超话",
-      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
-      "source": "新浪微博",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "指向新浪微博相关话题页的聚合链接，用于追踪其公开动态及读者讨论，属固定导航资源。",
-      "detailsZh": "此为固定主页或资料入口，明确说明其功能为聚合展示。该链接直接导向新浪微博的大咕咕咕鸡超级话题索引页，包含其历史发文、粉丝互动数据及热门讨论帖。事实层面，它记录了其在微博平台的活跃度轨迹；评论层面，反映了粉丝社群的组织形态；传闻层面，超话内可能存在的非官方消息需用户自行甄别。此条目不作为具体事件报道，而是作为持续更新的动态监控入口，建议定期访问以获取最新公开信息。",
-      "keyPoints": [
-        "微博官方话题聚合页链接",
-        "记录历史发文与粉丝互动",
-        "非新闻类，属动态监控入口"
-      ],
-      "category": "公开发言",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -315,16 +312,37 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻关于其创作生态的深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析其创作风格及对网络语言环境的影响，具较高史料价值。",
-      "detailsZh": "这是一篇发布于2015年的历史性深度报道，而非近期新闻。文章从社会学和语言学角度，客观分析了大咕咕咕鸡的创作手法及其在当时的网络流行程度。事实部分引用了具体的文本案例和数据；评论部分代表了当时主流媒体对网络亚文化的观察视角；传闻部分则排除了未经核实的八卦内容。该报道对于理解其早期影响力至关重要，但需注意其时效性仅限于2015年前后的语境，不可直接套用于当前状态。",
+      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言生态的影响。该文回顾了其早期在网络段子领域的地位与传播效应。",
+      "detailsZh": "事实：界面新闻于2015年5月12日发布文章《大咕咕咕鸡与网络段子手创作生态》（注：实际标题可能略有差异，此处依据输入描述），深入探讨了大咕咕咕鸡在当时的创作手法、文本特点以及其对当时网络流行语和段子文化的推动作用。该文属于历史回顾性质的媒体分析。评论：此报道被视为理解大咕咕咕鸡早期影响力的重要文献，反映了彼时网络自媒体与段子手的生存状态。传闻：无。分类：讨论。重要性：3。",
       "keyPoints": [
-        "2015年发布的历史深度报道",
-        "分析创作风格与网络语言影响",
-        "具有特定时间段的史料参考价值"
+        "2015年历史深度报道",
+        "分析创作风格与语言影响",
+        "探讨网络段子手生态",
+        "反映早期网络文化现象"
       ],
       "category": "讨论",
       "importance": 3
+    },
+    {
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话的聚合页面链接，用于展示相关公开动态与读者讨论。此为固定主页入口，非特定日期的新闻事件。",
+      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话（Super Topic）索引页。该页面汇集了粉丝发布的动态、讨论话题及相关资源。它作为一个固定的社区入口存在，持续更新。评论：超话是粉丝互动的主要阵地，反映了读者的活跃度和关注点，但内容多为碎片化讨论。传闻：无。分类：场外。重要性：2。",
+      "keyPoints": [
+        "微博超话官方聚合页",
+        "汇集粉丝动态与讨论",
+        "固定入口而非单日新闻",
+        "反映社区活跃度"
+      ],
+      "category": "场外",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -334,14 +352,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "哔哩哔哩大咕咕咕鸡搜索聚合页",
+      "summaryZh": "哔哩哔哩平台针对“大咕咕咕鸡”关键词的搜索结果聚合页，包含作品朗读、相关讨论及历史视频。此为动态搜索入口，非固定单篇内容。",
+      "detailsZh": "事实：该链接为B站全站搜索结果页，关键词为“大咕咕咕鸡”。结果包括用户上传的作品朗读音频、解说视频、二创内容及讨论串。由于是搜索结果，内容随时间变化而动态调整。评论：B站内容多为用户生成，质量参差不齐，但提供了多元化的二次创作视角。传闻：无。分类：场外。重要性：2。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "B站关键词搜索结果页",
+        "含朗读、二创与讨论视频",
+        "动态聚合非固定内容",
+        "用户生成内容为主"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
