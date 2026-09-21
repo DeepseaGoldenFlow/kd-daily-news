@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T10:46:00.760Z",
+  "updatedAt": "2026-09-21T17:06:09.814Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,11 +16,28 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:search:https://k.sina.cn/article_5887996859_15ef3b3bb0010173l4.html",
+      "title": "3换1交易方案出炉,杜兰特奔赴热火,联手字母哥,真能夺冠吗? ",
+      "url": "https://k.sina.cn/article_5887996859_15ef3b3bb0010173l4.html",
+      "source": "无",
+      "publishedAt": "2026-09-21T17:02:15.758Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "3换1交易方案出炉,杜兰特奔赴热火,联手字母哥,真能夺冠吗? ",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "3换1交易方案出炉,杜兰特奔赴热火,联手字母哥,真能夺冠吗? "
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
       "id": "durant:search:https://www.163.com/dy/article/L74DIH140549O5BQ.html",
       "title": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
       "url": "https://www.163.com/dy/article/L74DIH140549O5BQ.html",
       "source": "网易",
-      "publishedAt": "2026-09-21T10:41:29.003Z",
+      "publishedAt": "2026-09-21T17:02:15.758Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -30,6 +47,91 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://k.sina.cn/article_6583412353_18866e681001017ar6.html",
+      "title": "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 ",
+      "url": "https://k.sina.cn/article_6583412353_18866e681001017ar6.html",
+      "source": "无",
+      "publishedAt": "2026-09-21T17:02:15.758Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 ",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 "
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxNRldfWkxKM1NqbGV2cG9nQmdwSWw4TWRzSThLeEE5b3YzMENYcS10YnB3VnFnUXM3Q2xTRl9xYWtPNHVhMW95LUEzbXh5WW55bFN6THpIS1F2cUpGOTBQQmgtdTdScV9MRmJpNTVWcWJjODczQ1dqRXJBVFdPeTNqZ3o4TUQ",
+      "title": "暖心KD！哈利伯顿：我受伤后杜兰特提前到印城 专程来我家看我",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRldfWkxKM1NqbGV2cG9nQmdwSWw4TWRzSThLeEE5b3YzMENYcS10YnB3VnFnUXM3Q2xTRl9xYWtPNHVhMW95LUEzbXh5WW55bFN6THpIS1F2cUpGOTBQQmgtdTdScV9MRmJpNTVWcWJjODczQ1dqRXJBVFdPeTNqZ3o4TUQ?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-21T16:30:00.000Z",
+      "description": "暖心KD！哈利伯顿：我受伤后杜兰特提前到印城 专程来我家看我 Sina Sports",
+      "titleZh": "暖心KD！哈利伯顿：我受伤后杜兰特提前到印城 专程来我家看我",
+      "summaryZh": "暖心KD！哈利伯顿：我受伤后杜兰特提前到印城 专程来我家看我 Sina Sports",
+      "detailsZh": "暖心KD！哈利伯顿：我受伤后杜兰特提前到印城 专程来我家看我 Sina Sports",
+      "keyPoints": [
+        "暖心KD！哈利伯顿：我受伤后杜兰特提前到印城 专程来我家看我"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMinwFBVV95cUxQbW5DU1Fsd05DWk16WlA0bFRTNWdDSXZ3THpoYTdCSk1iaTFTU0JiYXVoWFFSVEtLeWtydmRHczVxQ0UzWjM3WE40d1poQWZrUGdQaGZVclh4MGtmNk9PemgtLVFRVmxUVFdkM2I5Nkthd0piTHNLRVItM21BSUE3MlRMTmV3a21GNzBpanZrc2pWb1ZueHJtaUREVjlXcjA",
+      "title": "3 Early NBA Destinations for Kevin Durant in 2027",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbW5DU1Fsd05DWk16WlA0bFRTNWdDSXZ3THpoYTdCSk1iaTFTU0JiYXVoWFFSVEtLeWtydmRHczVxQ0UzWjM3WE40d1poQWZrUGdQaGZVclh4MGtmNk9PemgtLVFRVmxUVFdkM2I5Nkthd0piTHNLRVItM21BSUE3MlRMTmV3a21GNzBpanZrc2pWb1ZueHJtaUREVjlXcjA?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-21T15:00:01.000Z",
+      "description": "3 Early NBA Destinations for Kevin Durant in 2027 Sports Illustrated",
+      "titleZh": "3 Early NBA Destinations for Kevin Durant in 2027",
+      "summaryZh": "3 Early NBA Destinations for Kevin Durant in 2027 Sports Illustrated",
+      "detailsZh": "3 Early NBA Destinations for Kevin Durant in 2027 Sports Illustrated",
+      "keyPoints": [
+        "3 Early NBA Destinations for Kevin Durant in 2027"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxQSklaTU9XU3lYVG5NSzNQdTRlZ1VSQ2tDMHBQRURucHJFNHN3ZTdCQWQwLU1YaXFsY3JNdWIzWndsV3BVa1c0YkljOFFvYWd4azB6OWo0RzktS2pmUHR3UHZyS3lPMGJXUWpiWHkxb092RTNzcTZmZHJCdjh0MllFdkRoYkE",
+      "title": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSklaTU9XU3lYVG5NSzNQdTRlZ1VSQ2tDMHBQRURucHJFNHN3ZTdCQWQwLU1YaXFsY3JNdWIzWndsV3BVa1c0YkljOFFvYWd4azB6OWo0RzktS2pmUHR3UHZyS3lPMGJXUWpiWHkxb092RTNzcTZmZHJCdjh0MllFdkRoYkE?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-21T14:24:54.000Z",
+      "description": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团 Sina Sports",
+      "titleZh": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团",
+      "summaryZh": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团 Sina Sports",
+      "detailsZh": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团 Sina Sports",
+      "keyPoints": [
+        "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMirgFBVV95cUxOOUZCRExCVU5iSC1UZ3lPeU12c2ZlMHlTTm43SHJqRXdMTVBsS1lTOE9uX1QtSWYwbjBKWlBCLW5SbWZ0c09fMVpteFZZWkpGdWl5VDlTOFZZYjB1aVlyUExrWlBfU2c2bndmSklyd2xkeUh4empISExrbjdjN3E1VkhOcVZpdjNTenUyMS1tbnRjaXBZSmRBLTFraHR4bm16X28tUmZGX0pXeWFIQ2c",
+      "title": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUZCRExCVU5iSC1UZ3lPeU12c2ZlMHlTTm43SHJqRXdMTVBsS1lTOE9uX1QtSWYwbjBKWlBCLW5SbWZ0c09fMVpteFZZWkpGdWl5VDlTOFZZYjB1aVlyUExrWlBfU2c2bndmSklyd2xkeUh4empISExrbjdjN3E1VkhOcVZpdjNTenUyMS1tbnRjaXBZSmRBLTFraHR4bm16X28tUmZGX0pXeWFIQ2c?oc=5",
+      "source": "roundtable.io",
+      "publishedAt": "2026-09-21T12:43:33.000Z",
+      "description": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season roundtable.io",
+      "titleZh": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season",
+      "summaryZh": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season roundtable.io",
+      "detailsZh": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season roundtable.io",
+      "keyPoints": [
+        "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -46,108 +148,6 @@
         "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMifEFVX3lxTE5YUWRPZmhRazJFS0djWG5yZzFCSlhBZE05ZXFWc2tkbjdReUNBdWhlakhVSXZ0MXhfZk1MeUJWLVlpSm1xNDZOcUFhdC1BRmlaeC1zc1BtN3BSeXlNTGV6SE5mV0hpVF9pb2hXSFpBUzRHbkZ2RWpsMENqOEo",
-      "title": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YUWRPZmhRazJFS0djWG5yZzFCSlhBZE05ZXFWc2tkbjdReUNBdWhlakhVSXZ0MXhfZk1MeUJWLVlpSm1xNDZOcUFhdC1BRmlaeC1zc1BtN3BSeXlNTGV6SE5mV0hpVF9pb2hXSFpBUzRHbkZ2RWpsMENqOEo?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-21T07:14:13.000Z",
-      "description": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强 Sina Sports",
-      "titleZh": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强",
-      "summaryZh": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强 Sina Sports",
-      "detailsZh": "范乔丹回归火箭失误减少 杜兰特申京阿门会变强 Sina Sports",
-      "keyPoints": [
-        "范乔丹回归火箭失误减少 杜兰特申京阿门会变强"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMickFVX3lxTFBLazBqR25uY0dlbWo4Ukx4SlpDeFZ1RUpzeEVZTF94c2ZjNThIeVlSX1VHSnJRSXdhV1VvQ1hKb29wU2pqd0pwb0lnOWo0Qm5oRHVxc0I0Q2hBZEFYVlVSandQcGc2LXMzWnF6YUJwalFLUQ",
-      "title": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLazBqR25uY0dlbWo4Ukx4SlpDeFZ1RUpzeEVZTF94c2ZjNThIeVlSX1VHSnJRSXdhV1VvQ1hKb29wU2pqd0pwb0lnOWo0Qm5oRHVxc0I0Q2hBZEFYVlVSandQcGc2LXMzWnF6YUJwalFLUQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-21T06:25:00.000Z",
-      "description": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存 手机新浪网",
-      "titleZh": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存",
-      "summaryZh": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存 手机新浪网",
-      "detailsZh": "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存 手机新浪网",
-      "keyPoints": [
-        "NBA退役球衣名单出炉，詹姆斯杜兰特都可能双队封存"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPdU8zai1HQVRFaE9QbDFCV2JMVHNoOW1acXI5cEFqdm5zeHdOdDJUTHdWU0UyaWZsV1NuczFrMUJNNURhXzE5blphaGRuYkJWTVhUekRaY25KMEE0UXFyZkhfY19kYjlaUE9lTXlxZjdjZXplcEhQNUN2OUdWV2hyWGdmWDgyY3RMQjZxMA",
-      "title": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdU8zai1HQVRFaE9QbDFCV2JMVHNoOW1acXI5cEFqdm5zeHdOdDJUTHdWU0UyaWZsV1NuczFrMUJNNURhXzE5blphaGRuYkJWTVhUekRaY25KMEE0UXFyZkhfY19kYjlaUE9lTXlxZjdjZXplcEhQNUN2OUdWV2hyWGdmWDgyY3RMQjZxMA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-21T06:01:35.000Z",
-      "description": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考 搜狐网",
-      "titleZh": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考",
-      "summaryZh": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考 搜狐网",
-      "detailsZh": "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考 搜狐网",
-      "keyPoints": [
-        "美媒曝火箭训练营3大焦点！37岁杜兰特决定上限，申京乌度卡迎大考"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxNN3k3QzZsaE5mandXN3NuT0RuZ0ExLVdLdDU4YzVlZG1fRThWNDVFaERrVFkxTU43SDFVbHVlamxqUjZzMmtuOFozNEdLNG5HR1RNd2ZxRl93QTZJNVFMOGNSSEtkUG93MGE0VUkwRzN0X2FKcFlKWG1HQ3M1QXRjQmVNRDh1X0hPUjNBYl9iOA",
-      "title": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3k3QzZsaE5mandXN3NuT0RuZ0ExLVdLdDU4YzVlZG1fRThWNDVFaERrVFkxTU43SDFVbHVlamxqUjZzMmtuOFozNEdLNG5HR1RNd2ZxRl93QTZJNVFMOGNSSEtkUG93MGE0VUkwRzN0X2FKcFlKWG1HQ3M1QXRjQmVNRDh1X0hPUjNBYl9iOA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-21T05:42:40.000Z",
-      "description": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归 手机新浪网",
-      "titleZh": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归",
-      "summaryZh": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归 手机新浪网",
-      "detailsZh": "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归 手机新浪网",
-      "keyPoints": [
-        "范乔丹回归，火箭失误减少，杜兰特申京阿门会变强，亚当斯也回归"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxOeFZTVzM1eGtvUzg2YlE0WXNuZW9pV0k2eVRlYkdzRXBGcy1BRjhXZF93QmVZRmdDUk40RFVraDdvMDVRWnBiNVRhRTRVM2tSWnpqOHV6YWM4SWJkRUZLVWZaSmMwTlBuVFFyTG45MTJZUGRRaTBsNkxTRDRnSDFSZnhR",
-      "title": "当年的“小杜兰特”埃莫尼·贝茨的高中集锦！",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeFZTVzM1eGtvUzg2YlE0WXNuZW9pV0k2eVRlYkdzRXBGcy1BRjhXZF93QmVZRmdDUk40RFVraDdvMDVRWnBiNVRhRTRVM2tSWnpqOHV6YWM4SWJkRUZLVWZaSmMwTlBuVFFyTG45MTJZUGRRaTBsNkxTRDRnSDFSZnhR?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-21T04:12:45.000Z",
-      "description": "当年的“小杜兰特”埃莫尼·贝茨的高中集锦！ 手机新浪网",
-      "titleZh": "当年的“小杜兰特”埃莫尼·贝茨的高中集锦！",
-      "summaryZh": "当年的“小杜兰特”埃莫尼·贝茨的高中集锦！ 手机新浪网",
-      "detailsZh": "当年的“小杜兰特”埃莫尼·贝茨的高中集锦！ 手机新浪网",
-      "keyPoints": [
-        "当年的“小杜兰特”埃莫尼·贝茨的高中集锦！"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPNUZvazNqUDZUY25yUmRwR0ttWTNnNVo1SlRBV0hlREZiUzJacE5ScDJSTGt1TW5VdjR3d3IwUGFpLTBZeDluSEN0cm9FZkFRRHlyWjA0YlhYTjBUWmtpRGFfbHJ1M0hydzd4MjhpZTc5b1BlNE41UUVYN29jLVZCS2tNaUR2NlJLelpVeA",
-      "title": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUZvazNqUDZUY25yUmRwR0ttWTNnNVo1SlRBV0hlREZiUzJacE5ScDJSTGt1TW5VdjR3d3IwUGFpLTBZeDluSEN0cm9FZkFRRHlyWjA0YlhYTjBUWmtpRGFfbHJ1M0hydzd4MjhpZTc5b1BlNE41UUVYN29jLVZCS2tNaUR2NlJLelpVeA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-21T03:29:04.000Z",
-      "description": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队 搜狐网",
-      "titleZh": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队",
-      "summaryZh": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队 搜狐网",
-      "detailsZh": "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队 搜狐网",
-      "keyPoints": [
-        "杜兰特：即便我离开火箭也不会加盟骑士，全联盟只会加盟两支球队"
-      ],
-      "category": "场外",
       "importance": 3
     },
     {
@@ -156,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-21T10:41:20.685Z",
+      "publishedAt": "2026-09-21T17:02:09.480Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -299,15 +299,15 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格及网络影响。作为基础背景资料入口，提供关于该人物身份与作品体系的系统性概述。",
-      "detailsZh": "事实：该页面为维基百科中关于“大咕咕咕鸡”的条目，旨在记录其作为网络写手的生平、主要作品及在中文互联网语境下的文化影响。内容通常包括对其早期成名作（如《全职高手》同人或原创段子）的梳理，以及其在特定亚文化圈层中的地位。评论：此类百科条目具有中立性特征，但可能因编辑者主观视角而侧重不同阶段的作品。传闻：需警惕非官方来源对笔名演变或真实身份的过度解读。注意：此为固定资料入口，非当日新闻事件，适用于背景查询而非时效性追踪。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡基础资料，涵盖常用笔名、创作风格及网络影响力背景。该页面为静态百科信息，非实时动态新闻，旨在提供长期稳定的参考依据。",
+      "detailsZh": "事实：该词条记录了“大咕咕咕鸡”作为中文互联网早期知名段子手的身份，其以幽默讽刺的文风著称。评论：维基百科作为通用知识库，提供了相对客观的第三方视角，有助于厘清其公众形象与真实身份的边界。传闻：部分网友推测其早期匿名创作经历可能涉及更广泛的网络亚文化圈层，但无确凿证据支持。注意：此条目属于固定主页或资料入口，内容更新频率低，不具备时效性新闻特征，不应被视为当日发生的特定事件报道。",
       "keyPoints": [
         "记录常用笔名与创作风格",
-        "梳理主要作品与网络影响",
-        "提供系统性背景资料"
+        "提供网络影响力背景资料",
+        "属静态百科而非实时新闻"
       ],
-      "category": "场外",
+      "category": "作品",
       "importance": 3
     },
     {
@@ -318,15 +318,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态聚合页与读者讨论超话。作为粉丝互动与信息发布的官方渠道之一，用于追踪其最新状态与社区反馈。",
-      "detailsZh": "事实：该链接指向新浪微博的超级话题索引页，汇集了大量关于“大咕咕咕鸡”的用户生成内容，包括转发、评论及原创讨论。这是观察其公众形象与受众反应的重要窗口。评论：超话内的言论多为粉丝情感表达或二次创作，真实性参差不齐，需结合其他信源交叉验证。传闻：部分热门帖子可能涉及未经证实的行程或合作消息，应视为潜在谣言高发区。注意：此为固定主页/资料入口，展示的是长期积累的社区内容，而非单一时间点的新闻报道。",
+      "titleZh": "新浪微博超话聚合页",
+      "summaryZh": "新浪微博平台上的“大咕咕咕鸡”超话入口，聚合了相关公开动态与读者讨论。此为社区互动入口，非单一新闻事件，反映粉丝群体的活跃状态与话题热度。",
+      "detailsZh": "事实：该链接指向微博超话索引页，展示用户发布的帖子、话题标签及互动数据。评论：超话是粉丝维护偶像形象、交流作品解读的重要阵地，体现了其在社交媒体上的社群凝聚力。传闻：偶尔有传言称超话内存在未经证实的私生活爆料，但此类内容通常缺乏核实且易被删除。注意：该页面为固定的社区入口，内容随时间动态变化，本身不构成独立的新闻报道，仅作为观察其公众舆论场的窗口。",
       "keyPoints": [
-        "汇聚公开动态与读者讨论",
-        "反映粉丝社区活跃度",
-        "非单一新闻事件的入口"
+        "聚合公开动态与读者讨论",
+        "体现粉丝社群活跃度",
+        "属社区入口非独立新闻"
       ],
-      "category": "场外",
+      "category": "讨论",
       "importance": 2
     },
     {
@@ -337,15 +337,15 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。作为历史文献，记录了其早期在中文互联网文化中的标志性地位。",
-      "detailsZh": "事实：该文章发表于2015年5月12日，由界面新闻撰写，主题聚焦于大咕咕咕鸡如何代表一类网络创作者，并探讨其文字风格对当时网络流行语的塑造作用。文中引用了其部分代表性段子及当时的社会反响。评论：媒体视角倾向于将其置于更广阔的网络文学发展史中进行评价，强调其作为“现象级”人物的社会学意义。传闻：报道中提及的部分私下轶事可能存在记忆偏差或夸大成分。注意：此为历史性深度报道，反映的是2015年的行业认知，不具当前时效性，但具有重要的史料价值。",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。文章回顾了其创作风格对当时网络语言的影响，具有历史文献价值。",
+      "detailsZh": "事实：该报道发表于2015年5月12日，分析了以“大咕咕咕鸡”为代表的早期网络段子手的创作机制与社会影响。评论：媒体将其视为网络亚文化现象的代表，探讨了幽默表达在公共空间中的演变。传闻：报道中未提及具体商业合作细节，但外界猜测其后续发展可能与新媒体营销有关。注意：这是一篇历史性报道，反映的是2015年的语境，不能直接等同于当前最新动向，需结合后续资料进行对比分析。",
       "keyPoints": [
-        "2015年发布的历史深度报道",
+        "2015年发布的历史报道",
         "分析创作风格与语言影响",
-        "记录早期互联网文化地位"
+        "反映早期网络段子手生态"
       ],
-      "category": "公开发言",
+      "category": "作品",
       "importance": 4
     },
     {
