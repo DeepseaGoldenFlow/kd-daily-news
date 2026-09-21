@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:06:09.814Z",
+  "updatedAt": "2026-09-21T21:06:33.236Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "3换1交易方案出炉,杜兰特奔赴热火,联手字母哥,真能夺冠吗? ",
       "url": "https://k.sina.cn/article_5887996859_15ef3b3bb0010173l4.html",
       "source": "无",
-      "publishedAt": "2026-09-21T17:02:15.758Z",
+      "publishedAt": "2026-09-21T21:03:17.995Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "3换1交易方案出炉,杜兰特奔赴热火,联手字母哥,真能夺冠吗? ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +37,7 @@
       "title": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
       "url": "https://www.163.com/dy/article/L74DIH140549O5BQ.html",
       "source": "网易",
-      "publishedAt": "2026-09-21T17:02:15.758Z",
+      "publishedAt": "2026-09-21T21:03:17.995Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -54,13 +54,47 @@
       "title": "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 ",
       "url": "https://k.sina.cn/article_6583412353_18866e681001017ar6.html",
       "source": "无",
-      "publishedAt": "2026-09-21T17:02:15.758Z",
+      "publishedAt": "2026-09-21T21:03:17.995Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
         "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 "
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMikwFBVV95cUxQZXB1NXlhMUFXTEtSdkZPZXVWdnhER3ZaY3ZhNHFHYU1TMVdsN291cjZtbmdkckhKVktOOXo3dXZvOUtQZUtucU13Q0xycldwcklha0dxdEVXTklwUjhIZldsUkJqZWoxUENnN1k2T3gxZWRGWjN6MDNfeUJGbUVrN1VpT0toaVlBaTBVdHdWbjFEM00",
+      "title": "NBA notebook: Durant to miss at least one more week",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXB1NXlhMUFXTEtSdkZPZXVWdnhER3ZaY3ZhNHFHYU1TMVdsN291cjZtbmdkckhKVktOOXo3dXZvOUtQZUtucU13Q0xycldwcklha0dxdEVXTklwUjhIZldsUkJqZWoxUENnN1k2T3gxZWRGWjN6MDNfeUJGbUVrN1VpT0toaVlBaTBVdHdWbjFEM00?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-21T19:35:51.000Z",
+      "description": "NBA notebook: Durant to miss at least one more week Yahoo",
+      "titleZh": "NBA notebook: Durant to miss at least one more week",
+      "summaryZh": "NBA notebook: Durant to miss at least one more week Yahoo",
+      "detailsZh": "NBA notebook: Durant to miss at least one more week Yahoo",
+      "keyPoints": [
+        "NBA notebook: Durant to miss at least one more week"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiiAFBVV95cUxOMmtNMVJrUTBIRGlNNEhyMjE2YW8xdXlMZkJYQnlkRy1Nb2tsdmVUZEVLY3R4OVZKRG1SMkk5Y205ejJEMi1WZVpKb2pkM2phNDhmdjlnbHJSZ3NTTFN1OGxMcDVOamRPRHUtTVlzdWVteF81VGFFZE9iN0pwb3JGWFlaVXhaRk0w",
+      "title": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmtNMVJrUTBIRGlNNEhyMjE2YW8xdXlMZkJYQnlkRy1Nb2tsdmVUZEVLY3R4OVZKRG1SMkk5Y205ejJEMi1WZVpKb2pkM2phNDhmdjlnbHJSZ3NTTFN1OGxMcDVOamRPRHUtTVlzdWVteF81VGFFZE9iN0pwb3JGWFlaVXhaRk0w?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-21T19:28:27.000Z",
+      "description": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card heavy.com",
+      "titleZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card",
+      "summaryZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card heavy.com",
+      "detailsZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card heavy.com",
+      "keyPoints": [
+        "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card"
       ],
       "category": "场外",
       "importance": 3
@@ -117,46 +151,12 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMirgFBVV95cUxOOUZCRExCVU5iSC1UZ3lPeU12c2ZlMHlTTm43SHJqRXdMTVBsS1lTOE9uX1QtSWYwbjBKWlBCLW5SbWZ0c09fMVpteFZZWkpGdWl5VDlTOFZZYjB1aVlyUExrWlBfU2c2bndmSklyd2xkeUh4empISExrbjdjN3E1VkhOcVZpdjNTenUyMS1tbnRjaXBZSmRBLTFraHR4bm16X28tUmZGX0pXeWFIQ2c",
-      "title": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUZCRExCVU5iSC1UZ3lPeU12c2ZlMHlTTm43SHJqRXdMTVBsS1lTOE9uX1QtSWYwbjBKWlBCLW5SbWZ0c09fMVpteFZZWkpGdWl5VDlTOFZZYjB1aVlyUExrWlBfU2c2bndmSklyd2xkeUh4empISExrbjdjN3E1VkhOcVZpdjNTenUyMS1tbnRjaXBZSmRBLTFraHR4bm16X28tUmZGX0pXeWFIQ2c?oc=5",
-      "source": "roundtable.io",
-      "publishedAt": "2026-09-21T12:43:33.000Z",
-      "description": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season roundtable.io",
-      "titleZh": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season",
-      "summaryZh": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season roundtable.io",
-      "detailsZh": "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season roundtable.io",
-      "keyPoints": [
-        "Warriors Shouldn’t Give Up on Kevin Durant Reunion This Season"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxNWE1US3ZYekl2Wm4xWG12R3dkd2tCTGgtY3hxc0szZjRycXhwZDVzdmhKaWUxWnVrRW9taldyclNpWm1nZzJxQVJSbEUyeC1oLUI1Wm5IeXhZX3RQR2IzZ2Z5LW93ZkozQlpyMENrdDBvS2hqRUhZQ3Fubnk3dHVOSlRCeHY2ZVI1Y1l5dA",
-      "title": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE1US3ZYekl2Wm4xWG12R3dkd2tCTGgtY3hxc0szZjRycXhwZDVzdmhKaWUxWnVrRW9taldyclNpWm1nZzJxQVJSbEUyeC1oLUI1Wm5IeXhZX3RQR2IzZ2Z5LW93ZkozQlpyMENrdDBvS2hqRUhZQ3Fubnk3dHVOSlRCeHY2ZVI1Y1l5dA?oc=5",
-      "source": "The Eastern Herald",
-      "publishedAt": "2026-09-21T10:14:12.000Z",
-      "description": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao The Eastern Herald",
-      "titleZh": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao",
-      "summaryZh": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao The Eastern Herald",
-      "detailsZh": "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao The Eastern Herald",
-      "keyPoints": [
-        "Cooper Flagg, Kevin Durant Open NBA’s Earliest Camp for China Games in Macao"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-21T17:02:09.480Z",
+      "publishedAt": "2026-09-21T21:03:11.611Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -183,23 +183,6 @@
       ],
       "category": "场外",
       "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE5yZE5rWkp0RnF5dlpOZjlTR01CR3NxZkRWVzhFcXlPX29QSWIwenhJZXFYQmtMXzRValdXbWVJWHVlQ01EM3FzY2tLRFJFWTFWVkx2Ml9n",
-      "title": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yZE5rWkp0RnF5dlpOZjlTR01CR3NxZkRWVzhFcXlPX29QSWIwenhJZXFYQmtMXzRValdXbWVJWHVlQ01EM3FzY2tLRFJFWTFWVkx2Ml9n?oc=5",
-      "source": "微博",
-      "publishedAt": "2026-09-20T04:43:05.000Z",
-      "description": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 微博",
-      "titleZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的",
-      "summaryZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 微博",
-      "detailsZh": "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的 微博",
-      "keyPoints": [
-        "陈泽喝鲫鱼汤名场面：刚入口吐了还称鱼是旱厕养的"
-      ],
-      "category": "场外",
-      "importance": 3
     },
     {
       "subject": "chenze",
@@ -292,25 +275,6 @@
       "importance": 3
     },
     {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡基础资料，涵盖常用笔名、创作风格及网络影响力背景。该页面为静态百科信息，非实时动态新闻，旨在提供长期稳定的参考依据。",
-      "detailsZh": "事实：该词条记录了“大咕咕咕鸡”作为中文互联网早期知名段子手的身份，其以幽默讽刺的文风著称。评论：维基百科作为通用知识库，提供了相对客观的第三方视角，有助于厘清其公众形象与真实身份的边界。传闻：部分网友推测其早期匿名创作经历可能涉及更广泛的网络亚文化圈层，但无确凿证据支持。注意：此条目属于固定主页或资料入口，内容更新频率低，不具备时效性新闻特征，不应被视为当日发生的特定事件报道。",
-      "keyPoints": [
-        "记录常用笔名与创作风格",
-        "提供网络影响力背景资料",
-        "属静态百科而非实时新闻"
-      ],
-      "category": "作品",
-      "importance": 3
-    },
-    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -318,35 +282,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "新浪微博超话聚合页",
-      "summaryZh": "新浪微博平台上的“大咕咕咕鸡”超话入口，聚合了相关公开动态与读者讨论。此为社区互动入口，非单一新闻事件，反映粉丝群体的活跃状态与话题热度。",
-      "detailsZh": "事实：该链接指向微博超话索引页，展示用户发布的帖子、话题标签及互动数据。评论：超话是粉丝维护偶像形象、交流作品解读的重要阵地，体现了其在社交媒体上的社群凝聚力。传闻：偶尔有传言称超话内存在未经证实的私生活爆料，但此类内容通常缺乏核实且易被删除。注意：该页面为固定的社区入口，内容随时间动态变化，本身不构成独立的新闻报道，仅作为观察其公众舆论场的窗口。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "该条目为新浪微博“大咕咕咕鸡”超话的聚合页面，收录其公开动态与读者讨论。作为固定主页资料，非当日新闻事件，提供粉丝互动与内容检索入口。",
+      "detailsZh": "事实：该链接指向新浪微博特定超话（Super Topic）索引页，ID为1008083eab57282f1f40ec77c0d804da759725。评论：此类超话通常由核心粉丝或官方运营，是观察该写手近期言论风向和社群情绪的重要窗口。传闻：部分用户反映超话内存在大量搬运内容，需甄别原创性。注意：此条目属于基础设施类资料，不具备时效新闻价值，仅作为长期存在的社区入口被记录。",
       "keyPoints": [
-        "聚合公开动态与读者讨论",
-        "体现粉丝社群活跃度",
-        "属社区入口非独立新闻"
-      ],
-      "category": "讨论",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。文章回顾了其创作风格对当时网络语言的影响，具有历史文献价值。",
-      "detailsZh": "事实：该报道发表于2015年5月12日，分析了以“大咕咕咕鸡”为代表的早期网络段子手的创作机制与社会影响。评论：媒体将其视为网络亚文化现象的代表，探讨了幽默表达在公共空间中的演变。传闻：报道中未提及具体商业合作细节，但外界猜测其后续发展可能与新媒体营销有关。注意：这是一篇历史性报道，反映的是2015年的语境，不能直接等同于当前最新动向，需结合后续资料进行对比分析。",
-      "keyPoints": [
-        "2015年发布的历史报道",
-        "分析创作风格与语言影响",
-        "反映早期网络段子手生态"
+        "新浪微博官方认证的超话聚合页",
+        "收录公开动态与粉丝讨论",
+        "属于固定主页资料而非新闻",
+        "用于追踪社群舆论风向"
       ],
       "category": "作品",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -356,13 +302,36 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "哔哩哔哩相关视频搜索聚合",
+      "summaryZh": "哔哩哔哩平台针对“大咕咕咕鸡”关键词的视频搜索结果页，包含作品朗读、二创及讨论视频。此为动态搜索结果入口，非固定主页，内容随时间变化。",
+      "detailsZh": "事实：该链接为B站全站搜索接口，关键词锁定“大咕咕咕鸡”。评论：B站是该写手受众聚集地之一，视频内容多为小说片段朗读、剧情解析或网友恶搞，反映了其在二次元及网文圈的影响力。传闻：部分高播放量视频可能涉及未经授权的音频使用，存在版权争议风险。注意：由于是搜索结果页，具体视频列表每日变动，故归类为动态资源入口，建议结合具体视频ID进行深度核实，避免将临时搜索结果误认为固定档案。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "B站关键词搜索结果页",
+        "包含朗读、二创及讨论视频",
+        "反映在二次元圈层影响力",
+        "内容为动态更新非固定档案"
       ],
-      "category": "场外",
+      "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "维基百科人物创作资料",
+      "summaryZh": "维基百科中关于网络写手大咕咕咕鸡的人物词条，涵盖常用笔名、创作风格及网络影响。作为百科资料，旨在提供客观背景信息，非即时新闻报道。",
+      "detailsZh": "事实：该词条记录了其作为网络写手的身份、主要笔名及代表性创作风格。评论：维基百科条目通常经过多方引用验证，具有较高的中立性和参考价值，但需注意编辑历史中的潜在偏见。传闻：有观点认为其网络影响力被过度夸大，词条内容可能存在粉饰倾向。注意：百科资料具有滞后性，无法反映最新动态，且需警惕“同名不同人”的混淆情况，此处特指网络写手大咕咕咕鸡。",
+      "keyPoints": [
+        "记录笔名、风格与网络影响",
+        "提供相对客观的背景资料",
+        "存在编辑历史与潜在偏见",
+        "资料具有滞后性非实时新闻"
+      ],
+      "category": "作品",
       "importance": 4
     },
     {
@@ -373,13 +342,36 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "领库微博账号数据资料",
+      "summaryZh": "第三方数据平台领库（Kolstore）对大咕咕咕鸡微博账号的传播数据分析页面。展示粉丝数、互动率等指标，属商业数据档案，非新闻事件。",
+      "detailsZh": "事实：该页面基于领库平台算法，统计了用户ID为2146965345的微博账号传播数据。评论：此类数据有助于量化其商业价值和粉丝粘性，但第三方数据可能存在统计口径差异。传闻：部分数据可能被刷量修饰，真实性需交叉验证。注意：这是典型的KOL画像资料，用于评估市场影响力，不具备新闻时效性，应明确其为静态或定期更新的档案数据。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方平台传播数据统计",
+        "展示粉丝数与互动率指标",
+        "用于评估商业价值与影响力",
+        "数据真实性需交叉验证"
       ],
       "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，探讨大咕咕咕鸡的创作风格及其对网络语言的影响。虽为历史文章，但具重要文献价值，非当日新闻。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，标题涉及网络段子手创作生态。评论：作为早期主流媒体对其的关注，反映了当时其在网络文化中的地位，具有重要的时代切片意义。传闻：报道细节可能存在记忆偏差或立场预设，需结合其他来源佐证。注意：尽管发布时间较早，但其分析框架仍具参考性，应视为历史文献而非突发新闻，使用时需标注时间背景。",
+      "keyPoints": [
+        "2015年媒体深度报道",
+        "探讨创作风格与语言影响",
+        "具重要历史文献价值",
+        "需标注时间背景使用"
+      ],
+      "category": "讨论",
       "importance": 4
     }
   ]
