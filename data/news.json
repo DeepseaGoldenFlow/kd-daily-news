@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T21:06:33.236Z",
+  "updatedAt": "2026-09-22T00:08:57.557Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "3换1交易方案出炉,杜兰特奔赴热火,联手字母哥,真能夺冠吗? ",
       "url": "https://k.sina.cn/article_5887996859_15ef3b3bb0010173l4.html",
       "source": "无",
-      "publishedAt": "2026-09-21T21:03:17.995Z",
+      "publishedAt": "2026-09-22T00:05:28.021Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "3换1交易方案出炉,杜兰特奔赴热火,联手字母哥,真能夺冠吗? ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +37,7 @@
       "title": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
       "url": "https://www.163.com/dy/article/L74DIH140549O5BQ.html",
       "source": "网易",
-      "publishedAt": "2026-09-21T21:03:17.995Z",
+      "publishedAt": "2026-09-22T00:05:28.021Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "暴跌90%!杜兰特交易价值崩盘,去年换半支球队,如今仅值1个首轮",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -54,13 +54,64 @@
       "title": "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 ",
       "url": "https://k.sina.cn/article_6583412353_18866e681001017ar6.html",
       "source": "无",
-      "publishedAt": "2026-09-21T21:03:17.995Z",
+      "publishedAt": "2026-09-22T00:05:28.021Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
         "火箭一夜4消息!杜兰特范乔丹首次同框训练,阿门兄弟有望冲10亿 "
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiYEFVX3lxTE9YRVdhZ0JsN1puUGFoZ2NNT0dGd0E0OHNUYmpPVHgtVGEyZTRzMmlsU2JrM1d3Ykp2MFFkTUhBSXNfV1l6dXFZVEpJWlk5aFNHQWZ5VmhWQUZyZDZUdDB4MQ",
+      "title": "哈利伯顿获杜兰特暖心探望：受伤后他特意来我家看我 那一刻我们成一辈子朋友",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YRVdhZ0JsN1puUGFoZ2NNT0dGd0E0OHNUYmpPVHgtVGEyZTRzMmlsU2JrM1d3Ykp2MFFkTUhBSXNfV1l6dXFZVEpJWlk5aFNHQWZ5VmhWQUZyZDZUdDB4MQ?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-09-21T22:31:03.000Z",
+      "description": "哈利伯顿获杜兰特暖心探望：受伤后他特意来我家看我 那一刻我们成一辈子朋友 企鹅体育",
+      "titleZh": "哈利伯顿获杜兰特暖心探望：受伤后他特意来我家看我 那一刻我们成一辈子朋友",
+      "summaryZh": "哈利伯顿获杜兰特暖心探望：受伤后他特意来我家看我 那一刻我们成一辈子朋友 企鹅体育",
+      "detailsZh": "哈利伯顿获杜兰特暖心探望：受伤后他特意来我家看我 那一刻我们成一辈子朋友 企鹅体育",
+      "keyPoints": [
+        "哈利伯顿获杜兰特暖心探望：受伤后他特意来我家看我 那一刻我们成一辈子朋友"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxPOVZIdkozWXp0U2V2c3haUVlQU05ZVExXUXFkRGVYYmlRTjVPUTJ6TS02ejFKMTZTQmpEM1lxcmliVVF4bnF2TEU5MU1JVWNVVklOdTBTdmZEUldzdU82NThZTmxWX3k0clJrMmNxQjc3STRDRGpEMWNub3dQTmg5WHNR",
+      "title": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVZIdkozWXp0U2V2c3haUVlQU05ZVExXUXFkRGVYYmlRTjVPUTJ6TS02ejFKMTZTQmpEM1lxcmliVVF4bnF2TEU5MU1JVWNVVklOdTBTdmZEUldzdU82NThZTmxWX3k0clJrMmNxQjc3STRDRGpEMWNub3dQTmg5WHNR?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-21T22:28:25.000Z",
+      "description": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card Yahoo Sports",
+      "titleZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card",
+      "summaryZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card Yahoo Sports",
+      "detailsZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card Yahoo Sports",
+      "keyPoints": [
+        "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxObW13b0lMc3Z4ZjBEUktBUkhHOThNa2hSbl8wTkZ4LTdaRzl5cVpZWUJEZ0lCNWd2Y3duNzFMUzd4M3JiRHlUQm03VU5UVUpJazdPSHI3MFYya3V5TmVSa0pSYXkyRmYxXzVnZHFtZFFDdng4VXlMQU1reFQwV0Jub2ZCc0M",
+      "title": "名记：KD是我们见过的最好的得分手之一 但他不是一个天生的领袖",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObW13b0lMc3Z4ZjBEUktBUkhHOThNa2hSbl8wTkZ4LTdaRzl5cVpZWUJEZ0lCNWd2Y3duNzFMUzd4M3JiRHlUQm03VU5UVUpJazdPSHI3MFYya3V5TmVSa0pSYXkyRmYxXzVnZHFtZFFDdng4VXlMQU1reFQwV0Jub2ZCc0M?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-21T22:24:56.000Z",
+      "description": "名记：KD是我们见过的最好的得分手之一 但他不是一个天生的领袖 Sina Sports",
+      "titleZh": "名记：KD是我们见过的最好的得分手之一 但他不是一个天生的领袖",
+      "summaryZh": "名记：KD是我们见过的最好的得分手之一 但他不是一个天生的领袖 Sina Sports",
+      "detailsZh": "名记：KD是我们见过的最好的得分手之一 但他不是一个天生的领袖 Sina Sports",
+      "keyPoints": [
+        "名记：KD是我们见过的最好的得分手之一 但他不是一个天生的领袖"
       ],
       "category": "场外",
       "importance": 3
@@ -84,23 +135,6 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiiAFBVV95cUxOMmtNMVJrUTBIRGlNNEhyMjE2YW8xdXlMZkJYQnlkRy1Nb2tsdmVUZEVLY3R4OVZKRG1SMkk5Y205ejJEMi1WZVpKb2pkM2phNDhmdjlnbHJSZ3NTTFN1OGxMcDVOamRPRHUtTVlzdWVteF81VGFFZE9iN0pwb3JGWFlaVXhaRk0w",
-      "title": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmtNMVJrUTBIRGlNNEhyMjE2YW8xdXlMZkJYQnlkRy1Nb2tsdmVUZEVLY3R4OVZKRG1SMkk5Y205ejJEMi1WZVpKb2pkM2phNDhmdjlnbHJSZ3NTTFN1OGxMcDVOamRPRHUtTVlzdWVteF81VGFFZE9iN0pwb3JGWFlaVXhaRk0w?oc=5",
-      "source": "heavy.com",
-      "publishedAt": "2026-09-21T19:28:27.000Z",
-      "description": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card heavy.com",
-      "titleZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card",
-      "summaryZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card heavy.com",
-      "detailsZh": "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card heavy.com",
-      "keyPoints": [
-        "Kevin Durant’s 2-Word Message Headlines Rare New Topps Rockets Card"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMihAFBVV95cUxNRldfWkxKM1NqbGV2cG9nQmdwSWw4TWRzSThLeEE5b3YzMENYcS10YnB3VnFnUXM3Q2xTRl9xYWtPNHVhMW95LUEzbXh5WW55bFN6THpIS1F2cUpGOTBQQmgtdTdScV9MRmJpNTVWcWJjODczQ1dqRXJBVFdPeTNqZ3o4TUQ",
       "title": "暖心KD！哈利伯顿：我受伤后杜兰特提前到印城 专程来我家看我",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRldfWkxKM1NqbGV2cG9nQmdwSWw4TWRzSThLeEE5b3YzMENYcS10YnB3VnFnUXM3Q2xTRl9xYWtPNHVhMW95LUEzbXh5WW55bFN6THpIS1F2cUpGOTBQQmgtdTdScV9MRmJpNTVWcWJjODczQ1dqRXJBVFdPeTNqZ3o4TUQ?oc=5",
@@ -117,46 +151,12 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMinwFBVV95cUxQbW5DU1Fsd05DWk16WlA0bFRTNWdDSXZ3THpoYTdCSk1iaTFTU0JiYXVoWFFSVEtLeWtydmRHczVxQ0UzWjM3WE40d1poQWZrUGdQaGZVclh4MGtmNk9PemgtLVFRVmxUVFdkM2I5Nkthd0piTHNLRVItM21BSUE3MlRMTmV3a21GNzBpanZrc2pWb1ZueHJtaUREVjlXcjA",
-      "title": "3 Early NBA Destinations for Kevin Durant in 2027",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbW5DU1Fsd05DWk16WlA0bFRTNWdDSXZ3THpoYTdCSk1iaTFTU0JiYXVoWFFSVEtLeWtydmRHczVxQ0UzWjM3WE40d1poQWZrUGdQaGZVclh4MGtmNk9PemgtLVFRVmxUVFdkM2I5Nkthd0piTHNLRVItM21BSUE3MlRMTmV3a21GNzBpanZrc2pWb1ZueHJtaUREVjlXcjA?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-09-21T15:00:01.000Z",
-      "description": "3 Early NBA Destinations for Kevin Durant in 2027 Sports Illustrated",
-      "titleZh": "3 Early NBA Destinations for Kevin Durant in 2027",
-      "summaryZh": "3 Early NBA Destinations for Kevin Durant in 2027 Sports Illustrated",
-      "detailsZh": "3 Early NBA Destinations for Kevin Durant in 2027 Sports Illustrated",
-      "keyPoints": [
-        "3 Early NBA Destinations for Kevin Durant in 2027"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxQSklaTU9XU3lYVG5NSzNQdTRlZ1VSQ2tDMHBQRURucHJFNHN3ZTdCQWQwLU1YaXFsY3JNdWIzWndsV3BVa1c0YkljOFFvYWd4azB6OWo0RzktS2pmUHR3UHZyS3lPMGJXUWpiWHkxb092RTNzcTZmZHJCdjh0MllFdkRoYkE",
-      "title": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSklaTU9XU3lYVG5NSzNQdTRlZ1VSQ2tDMHBQRURucHJFNHN3ZTdCQWQwLU1YaXFsY3JNdWIzWndsV3BVa1c0YkljOFFvYWd4azB6OWo0RzktS2pmUHR3UHZyS3lPMGJXUWpiWHkxb092RTNzcTZmZHJCdjh0MllFdkRoYkE?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-21T14:24:54.000Z",
-      "description": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团 Sina Sports",
-      "titleZh": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团",
-      "summaryZh": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团 Sina Sports",
-      "detailsZh": "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团 Sina Sports",
-      "keyPoints": [
-        "阿里纳斯：老詹和KD各自为夺冠换队 赢了却又被质疑抱团"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:search:https://baike.baidu.com/item/陈泽/63933344",
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-21T21:03:11.611Z",
+      "publishedAt": "2026-09-22T00:05:30.071Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -275,6 +275,25 @@
       "importance": 3
     },
     {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响背景。该页面为静态知识库入口，非当日新闻，提供基础身份确认与作品脉络梳理。",
+      "detailsZh": "事实：该词条存在并持续更新，记录了“大咕咕咕鸡”作为网络写手的公开身份信息，包括其活跃平台、代表作品类型及在中文互联网语境下的文化符号意义。评论：作为百科条目，其内容基于多方来源聚合，具有较高的中立性和参考性，但需注意部分早期轶事可能缺乏一手信源佐证。传闻：无显著争议性传闻被主流百科采纳。分类：场外（资料入口）。重要性：5。说明：此为固定主页/资料入口，旨在提供长期稳定的背景信息检索，不具备时效新闻属性。",
+      "keyPoints": [
+        "记录常用笔名与创作风格",
+        "梳理作品与网络影响",
+        "提供基础身份背景资料"
+      ],
+      "category": "场外",
+      "importance": 5
+    },
+    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -282,17 +301,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "该条目为新浪微博“大咕咕咕鸡”超话的聚合页面，收录其公开动态与读者讨论。作为固定主页资料，非当日新闻事件，提供粉丝互动与内容检索入口。",
-      "detailsZh": "事实：该链接指向新浪微博特定超话（Super Topic）索引页，ID为1008083eab57282f1f40ec77c0d804da759725。评论：此类超话通常由核心粉丝或官方运营，是观察该写手近期言论风向和社群情绪的重要窗口。传闻：部分用户反映超话内存在大量搬运内容，需甄别原创性。注意：此条目属于基础设施类资料，不具备时效新闻价值，仅作为长期存在的社区入口被记录。",
+      "titleZh": "大咕咕咕鸡微博超话动态",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。作为粉丝互动与信息发布的官方渠道之一，反映其在社交媒体上的活跃度与受众反馈，属常规运营入口。",
+      "detailsZh": "事实：该超话是新浪微博上关于“大咕咕咕鸡”的专属话题页，包含其本人或官方账号发布的最新动态、公告以及读者的评论、转发等互动内容。评论：超话数据可间接反映其当前热度与核心受众构成，但需警惕水军或刷量行为对真实影响力的干扰。传闻：无特定传闻，主要为日常互动。分类：公开发言（渠道）。重要性：4。说明：此为固定社交账号入口，用于追踪实时动态，非独立新闻报道。",
       "keyPoints": [
-        "新浪微博官方认证的超话聚合页",
-        "收录公开动态与粉丝讨论",
-        "属于固定主页资料而非新闻",
-        "用于追踪社群舆论风向"
+        "聚合公开动态与公告",
+        "展示读者讨论与互动",
+        "反映社交媒体活跃度"
       ],
-      "category": "作品",
-      "importance": 3
+      "category": "公开发言",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -302,56 +320,15 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩相关视频搜索聚合",
-      "summaryZh": "哔哩哔哩平台针对“大咕咕咕鸡”关键词的视频搜索结果页，包含作品朗读、二创及讨论视频。此为动态搜索结果入口，非固定主页，内容随时间变化。",
-      "detailsZh": "事实：该链接为B站全站搜索接口，关键词锁定“大咕咕咕鸡”。评论：B站是该写手受众聚集地之一，视频内容多为小说片段朗读、剧情解析或网友恶搞，反映了其在二次元及网文圈的影响力。传闻：部分高播放量视频可能涉及未经授权的音频使用，存在版权争议风险。注意：由于是搜索结果页，具体视频列表每日变动，故归类为动态资源入口，建议结合具体视频ID进行深度核实，避免将临时搜索结果误认为固定档案。",
+      "titleZh": "大咕咕咕鸡B站相关视频聚合",
+      "summaryZh": "哔哩哔哩搜索“大咕咕咕鸡”关键词的结果页，汇集作品朗读、二创视频及相关讨论。作为内容分发与二次传播的重要阵地，体现其作品在视频平台的衍生影响力。",
+      "detailsZh": "事实：该页面通过算法聚合了用户上传的与“大咕咕咕鸡”相关的音频朗读、视频剪辑、解说及评论视频。评论：B站社区氛围独特，此类内容往往带有较强的粉丝文化色彩，可能包含对原作风格的戏仿或深度解读，有助于观察其作品的跨媒介传播效果。传闻：无确凿证据表明存在官方授权的独家首发内容，多为UGC（用户生成内容）。分类：作品（衍生）。重要性：3。说明：此为搜索结果页，非单一视频链接，内容具有动态变化性。",
       "keyPoints": [
-        "B站关键词搜索结果页",
-        "包含朗读、二创及讨论视频",
-        "反映在二次元圈层影响力",
-        "内容为动态更新非固定档案"
+        "汇集作品朗读与二创视频",
+        "体现跨媒介传播影响力",
+        "反映粉丝社区二次创作生态"
       ],
       "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "维基百科人物创作资料",
-      "summaryZh": "维基百科中关于网络写手大咕咕咕鸡的人物词条，涵盖常用笔名、创作风格及网络影响。作为百科资料，旨在提供客观背景信息，非即时新闻报道。",
-      "detailsZh": "事实：该词条记录了其作为网络写手的身份、主要笔名及代表性创作风格。评论：维基百科条目通常经过多方引用验证，具有较高的中立性和参考价值，但需注意编辑历史中的潜在偏见。传闻：有观点认为其网络影响力被过度夸大，词条内容可能存在粉饰倾向。注意：百科资料具有滞后性，无法反映最新动态，且需警惕“同名不同人”的混淆情况，此处特指网络写手大咕咕咕鸡。",
-      "keyPoints": [
-        "记录笔名、风格与网络影响",
-        "提供相对客观的背景资料",
-        "存在编辑历史与潜在偏见",
-        "资料具有滞后性非实时新闻"
-      ],
-      "category": "作品",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "领库微博账号数据资料",
-      "summaryZh": "第三方数据平台领库（Kolstore）对大咕咕咕鸡微博账号的传播数据分析页面。展示粉丝数、互动率等指标，属商业数据档案，非新闻事件。",
-      "detailsZh": "事实：该页面基于领库平台算法，统计了用户ID为2146965345的微博账号传播数据。评论：此类数据有助于量化其商业价值和粉丝粘性，但第三方数据可能存在统计口径差异。传闻：部分数据可能被刷量修饰，真实性需交叉验证。注意：这是典型的KOL画像资料，用于评估市场影响力，不具备新闻时效性，应明确其为静态或定期更新的档案数据。",
-      "keyPoints": [
-        "第三方平台传播数据统计",
-        "展示粉丝数与互动率指标",
-        "用于评估商业价值与影响力",
-        "数据真实性需交叉验证"
-      ],
-      "category": "场外",
       "importance": 3
     },
     {
@@ -362,16 +339,32 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，探讨大咕咕咕鸡的创作风格及其对网络语言的影响。虽为历史文章，但具重要文献价值，非当日新闻。",
-      "detailsZh": "事实：该文章发表于2015年5月12日，标题涉及网络段子手创作生态。评论：作为早期主流媒体对其的关注，反映了当时其在网络文化中的地位，具有重要的时代切片意义。传闻：报道细节可能存在记忆偏差或立场预设，需结合其他来源佐证。注意：尽管发布时间较早，但其分析框架仍具参考性，应视为历史文献而非突发新闻，使用时需标注时间背景。",
+      "titleZh": "界面新闻历史报道：大咕咕咕鸡与段子手生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其在网络语言流行中的角色。虽为旧闻，但提供了其早期成名背景与文化现象层面的历史视角。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，属于媒体对其早期创作生涯的报道，探讨其如何从网络段子手发展为具有一定影响力的写手，并分析了其对当时网络用语的影响。评论：作为历史文献，该报道反映了2015年前后中文互联网的内容生态与审美趋势，具有时代局限性，但为理解其职业起点提供了重要语境。传闻：文章中提及的部分行业内部情况未经后续证实。分类：公开发言（媒体报道）。重要性：4。说明：此为历史性新闻报道，非近期动态，适用于背景研究。",
       "keyPoints": [
-        "2015年媒体深度报道",
-        "探讨创作风格与语言影响",
-        "具重要历史文献价值",
-        "需标注时间背景使用"
+        "回顾早期创作风格与成名背景",
+        "分析网络语言影响与文化现象",
+        "提供2015年互联网生态历史视角"
       ],
-      "category": "讨论",
+      "category": "公开发言",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
       "importance": 4
     }
   ]
