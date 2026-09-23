@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T06:01:55.969Z",
+  "updatedAt": "2026-09-23T11:36:31.592Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,28 +16,11 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1079676925_122556940",
-      "title": "凯文-杜兰特向火箭高层传信:拉斐尔·斯通表态暂缓交易传闻 ",
-      "url": "https://www.sohu.com/a/1079676925_122556940",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-23T05:57:22.775Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "凯文-杜兰特向火箭高层传信:拉斐尔·斯通表态暂缓交易传闻 ",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "凯文-杜兰特向火箭高层传信:拉斐尔·斯通表态暂缓交易传闻 "
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
       "id": "durant:search:https://www.163.com/dy/article/L7BIKARH052982N2.html",
       "title": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
       "url": "https://www.163.com/dy/article/L7BIKARH052982N2.html",
       "source": "网易",
-      "publishedAt": "2026-09-23T05:57:22.775Z",
+      "publishedAt": "2026-09-23T11:32:28.100Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -50,102 +33,119 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiqgJBVV95cUxOWWpWem9HTDR3N21Mek1JWFk2S0xxNVRFRzNJNkRKS2I0X2NpanZzdktRWl9kbm9vUlhLSElWRVo2Vy1tTEV5ZTlGRlg0cEREbnlLNGpQYzhPM1dHQ1YxQV9FODBKNkdWN3BRZExuNmRNdDhJSkV6aVZrVWVIcGtSYUZKRVNwRnNFWnlEZDA3OTFGLXRTdGR5aVp4YkRsdEd5aVZxWU5neVRDY09BcC1MRjZsVnFFTGRTTTVNbmE2dEplLVdzakxNcnJnaTNnTHFaYmZfTHNXVUVHOHViNHRSemcyWEYwTE9fWkFJTVQ4T1ZIbGZTTWxoblVkYzRhYmlUbnQ1ZmdURW1SS2pqM1BpcjJNV29CcFl5Vm1Cd2dkZXZ2SFpSTWZBd0Fn",
+      "id": "durant:search:https://sports.sina.cn/nba/other/2026-09-21/detail-inispuef2181385.d.html",
+      "title": "名记:火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特",
+      "url": "https://sports.sina.cn/nba/other/2026-09-21/detail-inispuef2181385.d.html",
+      "source": "新浪网",
+      "publishedAt": "2026-09-23T11:32:28.100Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "名记:火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "名记:火箭自重建以来还没突破季后赛首轮 他们还十分依赖杜兰特"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE9lUVRxZXFfNjVHb0RVZm1fcE1BSzY5OUEya0hrbUNMdnV3a0JYWktIdmU1bVBFcV9XVmJFdUMxckNLbzhTNi1yWUR3RQ",
+      "title": "[流言板]杜兰特：球队里的优秀球员越多，火箭的实力就越强",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lUVRxZXFfNjVHb0RVZm1fcE1BSzY5OUEya0hrbUNMdnV3a0JYWktIdmU1bVBFcV9XVmJFdUMxckNLbzhTNi1yWUR3RQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-09-23T11:10:26.000Z",
+      "description": "[流言板]杜兰特：球队里的优秀球员越多，火箭的实力就越强 虎扑体育",
+      "titleZh": "[流言板]杜兰特：球队里的优秀球员越多，火箭的实力就越强",
+      "summaryZh": "[流言板]杜兰特：球队里的优秀球员越多，火箭的实力就越强 虎扑体育",
+      "detailsZh": "[流言板]杜兰特：球队里的优秀球员越多，火箭的实力就越强 虎扑体育",
+      "keyPoints": [
+        "[流言板]杜兰特：球队里的优秀球员越多，火箭的实力就越强"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOYW5lX1ZUUFJ5U0FqcUdHS0JrbWhVMGFvdWdkUG5VZHE4SzdzRzhGN3N1bVlvTXotM0FCcmpVNlVUaTllZWJ4aTM5SFlEZ1FKc3duaWFfclNXc0dJdGZNeEcxYUd3QlU2Mk9GQkhpZ0VneHpubm11YUlTVEZqX1NHVHFXYl8",
+      "title": "杜兰特借掩护进攻从联盟顶尖跌至下游 范乔丹复出能否带来转机？",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW5lX1ZUUFJ5U0FqcUdHS0JrbWhVMGFvdWdkUG5VZHE4SzdzRzhGN3N1bVlvTXotM0FCcmpVNlVUaTllZWJ4aTM5SFlEZ1FKc3duaWFfclNXc0dJdGZNeEcxYUd3QlU2Mk9GQkhpZ0VneHpubm11YUlTVEZqX1NHVHFXYl8?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-23T10:24:38.000Z",
+      "description": "杜兰特借掩护进攻从联盟顶尖跌至下游 范乔丹复出能否带来转机？ Sina Sports",
+      "titleZh": "杜兰特借掩护进攻从联盟顶尖跌至下游 范乔丹复出能否带来转机？",
+      "summaryZh": "杜兰特借掩护进攻从联盟顶尖跌至下游 范乔丹复出能否带来转机？ Sina Sports",
+      "detailsZh": "杜兰特借掩护进攻从联盟顶尖跌至下游 范乔丹复出能否带来转机？ Sina Sports",
+      "keyPoints": [
+        "杜兰特借掩护进攻从联盟顶尖跌至下游 范乔丹复出能否带来转机？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQM3BaUWd3Tzk4MWlJd0ZiaFlTRGxPLTJQSE5yc3pxYXNFVlVJX0dxUllXUXkzak5UeGFydkdGUTh6TEd1WlVhMF9pVzBUdThVMWFJTDdVOFo5NmJQcjk5MUpObTZYNllJdXR6cTRUWFpUT2FEVzYxOWlUWl9KUUZjTFNSM2dGZllwRTlkXw",
+      "title": "‘Why?’ – Kevin Durant publicly disagrees with Ime Udoka on Houston Rockets decision",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3BaUWd3Tzk4MWlJd0ZiaFlTRGxPLTJQSE5yc3pxYXNFVlVJX0dxUllXUXkzak5UeGFydkdGUTh6TEd1WlVhMF9pVzBUdThVMWFJTDdVOFo5NmJQcjk5MUpObTZYNllJdXR6cTRUWFpUT2FEVzYxOWlUWl9KUUZjTFNSM2dGZllwRTlkXw?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-23T08:00:00.000Z",
+      "description": "‘Why?’ – Kevin Durant publicly disagrees with Ime Udoka on Houston Rockets decision Yahoo Sports",
+      "titleZh": "‘Why?’ – Kevin Durant publicly disagrees with Ime Udoka on Houston Rockets decision",
+      "summaryZh": "‘Why?’ – Kevin Durant publicly disagrees with Ime Udoka on Houston Rockets decision Yahoo Sports",
+      "detailsZh": "‘Why?’ – Kevin Durant publicly disagrees with Ime Udoka on Houston Rockets decision Yahoo Sports",
+      "keyPoints": [
+        "‘Why?’ – Kevin Durant publicly disagrees with Ime Udoka on Houston Rockets decision"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQOVhBZ2JOZ09TT2NfZVhlamp5SEdTalZ3VUtjX0FKRUxFUEZlU2VEUmxWcmRJakxBVXZLajh0cjFkNEhhZldCZ01fLUFxSmFQRHE2RGpVcDM2WWFySHV5MF80Q3ZTZkxqVnYzblYzUHY4RV9xZE5CcWl0OEhvZUhmSGZNQWVCLUNDaEQ2bQ",
+      "title": "只想纯粹打球！杜兰特霸气发言：场外争议都是杂音，只专注篮球！",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVhBZ2JOZ09TT2NfZVhlamp5SEdTalZ3VUtjX0FKRUxFUEZlU2VEUmxWcmRJakxBVXZLajh0cjFkNEhhZldCZ01fLUFxSmFQRHE2RGpVcDM2WWFySHV5MF80Q3ZTZkxqVnYzblYzUHY4RV9xZE5CcWl0OEhvZUhmSGZNQWVCLUNDaEQ2bQ?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-09-23T07:20:47.000Z",
+      "description": "只想纯粹打球！杜兰特霸气发言：场外争议都是杂音，只专注篮球！ 搜狐网",
+      "titleZh": "只想纯粹打球！杜兰特霸气发言：场外争议都是杂音，只专注篮球！",
+      "summaryZh": "只想纯粹打球！杜兰特霸气发言：场外争议都是杂音，只专注篮球！ 搜狐网",
+      "detailsZh": "只想纯粹打球！杜兰特霸气发言：场外争议都是杂音，只专注篮球！ 搜狐网",
+      "keyPoints": [
+        "只想纯粹打球！杜兰特霸气发言：场外争议都是杂音，只专注篮球！"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQY2xLWkQ1WVRHbmxSTDljcThRV1ZOa3hLZlZvRDh6RHdYbVdnTUNzem9DTWZvWXowRk0wQ0dSdFpjY3FqWWM0X1UxZmtUeDJ0T0Q0bzY0TkpXUkdpWWtuOVI3RV9MaF9pRENKVHFXOTVvVFd0M0hoeTVMLXRMTTBqTXA5eEMybDZkRVdpNw",
+      "title": "杜兰特拒绝乌度卡减时建议！KD并非不愿休息，火箭先得解决3大问题",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2xLWkQ1WVRHbmxSTDljcThRV1ZOa3hLZlZvRDh6RHdYbVdnTUNzem9DTWZvWXowRk0wQ0dSdFpjY3FqWWM0X1UxZmtUeDJ0T0Q0bzY0TkpXUkdpWWtuOVI3RV9MaF9pRENKVHFXOTVvVFd0M0hoeTVMLXRMTTBqTXA5eEMybDZkRVdpNw?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-09-23T06:01:00.000Z",
+      "description": "杜兰特拒绝乌度卡减时建议！KD并非不愿休息，火箭先得解决3大问题 搜狐网",
+      "titleZh": "杜兰特拒绝乌度卡减时建议！KD并非不愿休息，火箭先得解决3大问题",
+      "summaryZh": "杜兰特拒绝乌度卡减时建议！KD并非不愿休息，火箭先得解决3大问题 搜狐网",
+      "detailsZh": "杜兰特拒绝乌度卡减时建议！KD并非不愿休息，火箭先得解决3大问题 搜狐网",
+      "keyPoints": [
+        "杜兰特拒绝乌度卡减时建议！KD并非不愿休息，火箭先得解决3大问题"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiqgJBVV95cUxQQm1BQTA2RkhxVXRTclFpOTlhYWluYm93b3ViVThPMEh4ZUpRaDM5bkdjVDBnaFI0ZVF3SENsbHBNaEx4NFZnYlVPaUJlZF9tMzh3RnpiRnZLdHYxYlZOWWFobGpKRnBiSVgwREhRTVd1UVN1emo2MTNnQkw1MmFmX08wS05aWWRHemE0NkJQUWlNOUJUZm1yN090aTBGT0ZLM1Z0ZHlJc2Y5ZkZMdG1Hc09ZLWFibWd0UFZmSUlHN2xGSFMwVThaNEYtZ0xfcVBNeFpHTjk3RU1XVS1VS1V3djRKa3dJeE44UV9zdnFXbjBlWTNwT3k2bWJHWGRSTGFndmlIYmIyekFlNFR5Q3RZdzRfeDg4Q3hvakFQSWVCUmZ0QzFVQ3psbFdn",
       "title": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It?",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOWWpWem9HTDR3N21Mek1JWFk2S0xxNVRFRzNJNkRKS2I0X2NpanZzdktRWl9kbm9vUlhLSElWRVo2Vy1tTEV5ZTlGRlg0cEREbnlLNGpQYzhPM1dHQ1YxQV9FODBKNkdWN3BRZExuNmRNdDhJSkV6aVZrVWVIcGtSYUZKRVNwRnNFWnlEZDA3OTFGLXRTdGR5aVp4YkRsdEd5aVZxWU5neVRDY09BcC1MRjZsVnFFTGRTTTVNbmE2dEplLVdzakxNcnJnaTNnTHFaYmZfTHNXVUVHOHViNHRSemcyWEYwTE9fWkFJTVQ4T1ZIbGZTTWxoblVkYzRhYmlUbnQ1ZmdURW1SS2pqM1BpcjJNV29CcFl5Vm1Cd2dkZXZ2SFpSTWZBd0Fn?oc=5",
-      "source": "KTVB",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQQm1BQTA2RkhxVXRTclFpOTlhYWluYm93b3ViVThPMEh4ZUpRaDM5bkdjVDBnaFI0ZVF3SENsbHBNaEx4NFZnYlVPaUJlZF9tMzh3RnpiRnZLdHYxYlZOWWFobGpKRnBiSVgwREhRTVd1UVN1emo2MTNnQkw1MmFmX08wS05aWWRHemE0NkJQUWlNOUJUZm1yN090aTBGT0ZLM1Z0ZHlJc2Y5ZkZMdG1Hc09ZLWFibWd0UFZmSUlHN2xGSFMwVThaNEYtZ0xfcVBNeFpHTjk3RU1XVS1VS1V3djRKa3dJeE44UV9zdnFXbjBlWTNwT3k2bWJHWGRSTGFndmlIYmIyekFlNFR5Q3RZdzRfeDg4Q3hvakFQSWVCUmZ0QzFVQ3psbFdn?oc=5",
+      "source": "WBIR",
       "publishedAt": "2026-09-23T05:49:00.000Z",
-      "description": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It? KTVB",
+      "description": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It? WBIR",
       "titleZh": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It?",
-      "summaryZh": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It? KTVB",
-      "detailsZh": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It? KTVB",
+      "summaryZh": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It? WBIR",
+      "detailsZh": "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It? WBIR",
       "keyPoints": [
         "Ranking the Top 20 Players in the NBA: Do Steph Curry, Kevin Durant & LeBron James Still Make It?"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMitwFBVV95cUxPUTY5NUo3bGVEQmFnS25oVEc4bDR5cEdISlhuRHRyZ2FxMkNhZENVenBaU3E5UDdiMW1MREdmanRPN05VV2NVNjBTN0N0SXVSS25ncVlPQk92dFBrZVRtaWNTSUh5eUd3YVJqNTA3VUxqWEVldHVETnFvMGdubXNvNXdyS3hKOGxFTDNLcDRWSlA2bWV5SUdhOWh1cU96bkZSVVVtOS1nWVpKZWpsck1VUlJvRmtjX28",
-      "title": "Kevin Durant has the missing piece to take Houston Rockets leap this season, says Imam Shumpert",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUTY5NUo3bGVEQmFnS25oVEc4bDR5cEdISlhuRHRyZ2FxMkNhZENVenBaU3E5UDdiMW1MREdmanRPN05VV2NVNjBTN0N0SXVSS25ncVlPQk92dFBrZVRtaWNTSUh5eUd3YVJqNTA3VUxqWEVldHVETnFvMGdubXNvNXdyS3hKOGxFTDNLcDRWSlA2bWV5SUdhOWh1cU96bkZSVVVtOS1nWVpKZWpsck1VUlJvRmtjX28?oc=5",
-      "source": "hitc.com",
-      "publishedAt": "2026-09-23T05:45:52.000Z",
-      "description": "Kevin Durant has the missing piece to take Houston Rockets leap this season, says Imam Shumpert hitc.com",
-      "titleZh": "Kevin Durant has the missing piece to take Houston Rockets leap this season, says Imam Shumpert",
-      "summaryZh": "Kevin Durant has the missing piece to take Houston Rockets leap this season, says Imam Shumpert hitc.com",
-      "detailsZh": "Kevin Durant has the missing piece to take Houston Rockets leap this season, says Imam Shumpert hitc.com",
-      "keyPoints": [
-        "Kevin Durant has the missing piece to take Houston Rockets leap this season, says Imam Shumpert"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxQMUlGT29qX0hTa0NVbHJ1RnduM3QxdnM0TzFoZzBaWXlObWpTOXdtTUNfajVyb21LYV9DVDRiZjFDNXR0d3ppYVM0V0I1TU9UWDI5N2FIUDZPb29NTC04TWlISm1IUGlOU2dHNW1rczJxbk00U1ZnMWNfa1JiQ2djajJR",
-      "title": "杜兰特和乌杜卡出现分歧！KD说出球队最大短板，斯通：他很像姚明",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUlGT29qX0hTa0NVbHJ1RnduM3QxdnM0TzFoZzBaWXlObWpTOXdtTUNfajVyb21LYV9DVDRiZjFDNXR0d3ppYVM0V0I1TU9UWDI5N2FIUDZPb29NTC04TWlISm1IUGlOU2dHNW1rczJxbk00U1ZnMWNfa1JiQ2djajJR?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-23T04:50:20.000Z",
-      "description": "杜兰特和乌杜卡出现分歧！KD说出球队最大短板，斯通：他很像姚明 手机新浪网",
-      "titleZh": "杜兰特和乌杜卡出现分歧！KD说出球队最大短板，斯通：他很像姚明",
-      "summaryZh": "杜兰特和乌杜卡出现分歧！KD说出球队最大短板，斯通：他很像姚明 手机新浪网",
-      "detailsZh": "杜兰特和乌杜卡出现分歧！KD说出球队最大短板，斯通：他很像姚明 手机新浪网",
-      "keyPoints": [
-        "杜兰特和乌杜卡出现分歧！KD说出球队最大短板，斯通：他很像姚明"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiowFBVV95cUxPZGtQejdmUHlJelR5VVlQVzVWR0xCeXB2dlBvZ1NBbEk5Sk1BM0FoeDV2NjQxNWp1Tk9DS1Y2RXdVTUV5cDZXNjdWTHVWNE45cnltdXMtT0stOTY1Z2tlSDJEaWxtZkdEMnV4Uk9XelhkZ0w3VGVVOUo3M1pvMDJVMC1hSDdHQ1E2NWpMSEVvR1pDdHlBM1F5WXR0Q2hVbzl6TUdZ",
-      "title": "Kevin Durant Provides Promising Update on His Future",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGtQejdmUHlJelR5VVlQVzVWR0xCeXB2dlBvZ1NBbEk5Sk1BM0FoeDV2NjQxNWp1Tk9DS1Y2RXdVTUV5cDZXNjdWTHVWNE45cnltdXMtT0stOTY1Z2tlSDJEaWxtZkdEMnV4Uk9XelhkZ0w3VGVVOUo3M1pvMDJVMC1hSDdHQ1E2NWpMSEVvR1pDdHlBM1F5WXR0Q2hVbzl6TUdZ?oc=5",
-      "source": "roundtable.io",
-      "publishedAt": "2026-09-23T04:16:29.000Z",
-      "description": "Kevin Durant Provides Promising Update on His Future roundtable.io",
-      "titleZh": "Kevin Durant Provides Promising Update on His Future",
-      "summaryZh": "Kevin Durant Provides Promising Update on His Future roundtable.io",
-      "detailsZh": "Kevin Durant Provides Promising Update on His Future roundtable.io",
-      "keyPoints": [
-        "Kevin Durant Provides Promising Update on His Future"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi1gFBVV95cUxPM3UwdDZVRHZjLTF3SGtMUWNHTEJ3OHZCMjEtWFZTeUNMYlVPZFV1bnVkSWctNnJyaW9GLVlPcGtnWVduUWI3S0FlTnZsb01nNTJpSnc3WTRKZTRKTkhRT2d6bXNrZzNqNmkxT3RJRXJjUFphb1RuQlV0ZXRWVEdXTEV4ZFpTU3o2RU9uXzJfeTFVWVp2YTFLQnR6Q1Y5VDAzc3Z6bVZYZl83ZXVLcUlnUkhjcjZuMWdIWE1xaVBhWDMzaV9MTThrdTBVN1FqN0VfQ0dKZGZB",
-      "title": "Kevin Durant reveals that he disagrees with the Rockets' coach and GM about his minutes",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM3UwdDZVRHZjLTF3SGtMUWNHTEJ3OHZCMjEtWFZTeUNMYlVPZFV1bnVkSWctNnJyaW9GLVlPcGtnWVduUWI3S0FlTnZsb01nNTJpSnc3WTRKZTRKTkhRT2d6bXNrZzNqNmkxT3RJRXJjUFphb1RuQlV0ZXRWVEdXTEV4ZFpTU3o2RU9uXzJfeTFVWVp2YTFLQnR6Q1Y5VDAzc3Z6bVZYZl83ZXVLcUlnUkhjcjZuMWdIWE1xaVBhWDMzaV9MTThrdTBVN1FqN0VfQ0dKZGZB?oc=5",
-      "source": "sportingnews.com",
-      "publishedAt": "2026-09-23T04:00:00.000Z",
-      "description": "Kevin Durant reveals that he disagrees with the Rockets' coach and GM about his minutes sportingnews.com",
-      "titleZh": "Kevin Durant reveals that he disagrees with the Rockets' coach and GM about his minutes",
-      "summaryZh": "Kevin Durant reveals that he disagrees with the Rockets' coach and GM about his minutes sportingnews.com",
-      "detailsZh": "Kevin Durant reveals that he disagrees with the Rockets' coach and GM about his minutes sportingnews.com",
-      "keyPoints": [
-        "Kevin Durant reveals that he disagrees with the Rockets' coach and GM about his minutes"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxOZWlzTzEyMVFzTHZNbG9wM29NMWlsSVRNeUhCZFJtVW0zVlM1UXl1ZFhZZ0ZNNzl1TFFKdGNvZHNmcmI0eHJjbFBlYW5FQWRZanZyX0h4MWQyYmRLVzJ0c25aYkNQYl9KdkhGTHlIOTZURG5TbzV4eDc5YWlPcFZCdG53",
-      "title": "杜兰特 切特 加兰 里德等人领衔的休赛期球局精彩集锦",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWlzTzEyMVFzTHZNbG9wM29NMWlsSVRNeUhCZFJtVW0zVlM1UXl1ZFhZZ0ZNNzl1TFFKdGNvZHNmcmI0eHJjbFBlYW5FQWRZanZyX0h4MWQyYmRLVzJ0c25aYkNQYl9KdkhGTHlIOTZURG5TbzV4eDc5YWlPcFZCdG53?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-23T03:41:12.000Z",
-      "description": "杜兰特 切特 加兰 里德等人领衔的休赛期球局精彩集锦 手机新浪网",
-      "titleZh": "杜兰特 切特 加兰 里德等人领衔的休赛期球局精彩集锦",
-      "summaryZh": "杜兰特 切特 加兰 里德等人领衔的休赛期球局精彩集锦 手机新浪网",
-      "detailsZh": "杜兰特 切特 加兰 里德等人领衔的休赛期球局精彩集锦 手机新浪网",
-      "keyPoints": [
-        "杜兰特 切特 加兰 里德等人领衔的休赛期球局精彩集锦"
       ],
       "category": "场外",
       "importance": 3
@@ -156,7 +156,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-23T05:57:08.490Z",
+      "publishedAt": "2026-09-23T11:32:20.860Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -248,16 +248,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡词条，涵盖其常用笔名、创作风格演变及网络文化影响。该页面作为基础背景资料入口，提供相对客观的传记性信息，非实时新闻。",
-      "detailsZh": "事实：该词条记录了“大咕咕咕鸡”作为早期网络段子手的身份，提及其实名争议（如与“张尚武”等事件的关联传闻）及其在2010年代初期对网络流行语的贡献。评论：维基百科条目通常被视为较为中立的人物档案，但需注意其编辑历史可能受社区共识影响。传闻：部分版本曾涉及对其个人生活或具体作品归属的未经证实描述，需交叉核实。分类：固定主页/资料入口。重要性：5。",
+      "titleZh": "维基百科人物资料入口",
+      "summaryZh": "提供大咕咕咕鸡的常用笔名、创作风格及作品背景资料，涵盖其网络影响力分析。此为固定百科条目，非当日新闻。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页。事实层面记录了其作为知名网络写手的身份，以及主要使用的笔名和代表性创作风格。评论部分涉及对其在网络语言传播中作用的学术或媒体评价。传闻部分可能包含对其个人生活或非公开行为的未经证实讨论。此页面属于静态参考资料，旨在提供背景信息，不具备时效性新闻特征，用户应将其视为长期有效的资料库而非即时动态。",
       "keyPoints": [
-        "记录核心笔名与创作生涯阶段",
-        "梳理网络语言影响力",
-        "提供基础传记事实"
+        "记录常用笔名与创作风格",
+        "分析网络影响力",
+        "静态百科资料非新闻"
       ],
       "category": "场外",
-      "importance": 5
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -267,15 +267,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "新浪微博超话聚合页",
-      "summaryZh": "新浪微博中关于“大咕咕咕鸡”的超话页面，聚合其公开动态及读者讨论。此为社交媒体的固定话题入口，用于追踪粉丝互动与近期言论，非单一新闻报道。",
-      "detailsZh": "事实：该URL指向微博超话索引页，展示相关博文列表、热门话题标签及用户活跃度数据。评论：超话是观察网络写手粉丝生态和舆论风向的重要窗口，但内容碎片化且情绪化较强。传闻：页面内可能包含大量关于其过往言论的二次解读或误传，需甄别原始出处。分类：固定主页/资料入口。重要性：4。",
+      "titleZh": "微博超话与动态入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。此为固定社群入口，非特定新闻事件。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话索引页。事实层面显示这是粉丝聚集和作者发布公开内容的官方渠道。评论部分反映读者的互动反馈与社区氛围。传闻部分可能混杂于评论区中关于其未公开行程或作品的猜测。此页面是固定的社交媒介入口，用于追踪最新公开动态，但其本身不是单一的新闻报道，而是持续更新的动态流集合。",
       "keyPoints": [
-        "聚合粉丝讨论与转发",
-        "反映社交媒体热度",
-        "非官方新闻发布渠道"
+        "官方粉丝互动平台",
+        "聚合公开动态",
+        "固定社群入口"
       ],
-      "category": "讨论",
+      "category": "公开发言",
       "importance": 4
     },
     {
@@ -286,13 +286,13 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩搜索结果页",
-      "summaryZh": "B站搜索“大咕咕咕鸡”关键词的结果聚合页，包含作品朗读、二创视频及相关讨论。此为平台搜索功能的固定入口，内容随时间动态变化，非特定新闻事件。",
-      "detailsZh": "事实：该页面展示由用户上传的视频内容，包括音频朗读、鬼畜剪辑或访谈片段。评论：B站内容多为衍生创作或粉丝自制，真实性取决于上传者，常带有娱乐化倾向。传闻：视频中可能混入关于其个人经历的都市传说或未证实轶事。分类：固定主页/资料入口。重要性：3。",
+      "titleZh": "B站作品朗读与视频聚合",
+      "summaryZh": "哔哩哔哩搜索“大咕咕咕鸡”的结果页，包含作品朗读、相关讨论及历史视频。此为搜索结果聚合，非独立新闻。",
+      "detailsZh": "该链接为B站关键词搜索结果页。事实层面展示了与其名字相关的视频内容，包括作品朗读音频和二次创作视频。评论部分体现观众对内容的反馈。传闻部分可能存在于视频弹幕或评论区的都市传说类讨论。此页面是动态变化的搜索结果集合，取决于用户输入和时间，不属于特定的新闻报道，而是内容检索工具。",
       "keyPoints": [
-        "包含用户生成内容(UGC)",
-        "侧重娱乐与二创视角",
-        "内容时效性强且分散"
+        "视频内容检索结果",
+        "含作品朗读与二创",
+        "动态搜索结果非新闻"
       ],
       "category": "作品",
       "importance": 3
@@ -305,16 +305,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其代表的网络段子手群体的深度报道。该文分析了其创作风格及对当时网络语言环境的影响，具有历史文献价值。",
-      "detailsZh": "事实：文章发表于2015年5月12日，标题涉及网络段子手创作生态。文中引用了大咕咕咕鸡的部分代表性语录，并探讨了其走红背后的社会心理机制。评论：作为主流媒体当年的报道，具有一定的行业观察价值，但视角可能受限于当时的媒体框架。传闻：报道中未涉及其后续法律纠纷或个人隐私细节。分类：公开发言/媒体报道。重要性：4。",
+      "titleZh": "界面新闻深度报道存档",
+      "summaryZh": "2015年界面新闻关于大咕咕咕鸡创作风格与网络段子手生态的深度报道。此为历史新闻存档，具参考价值。",
+      "detailsZh": "该文章发表于2015年5月12日，由界面新闻出品。事实层面详细描述了当时大咕咕咕鸡的创作手法及其在早期网络段子手群体中的地位。评论部分基于当时的媒体视角对其社会影响进行分析。传闻部分较少，主要为基于当时现象的推测。这是一篇具有时效性的历史新闻报道，反映了其在特定时期的公众形象，但内容已陈旧，仅作为历史研究资料。",
       "keyPoints": [
-        "分析网络段子手群体特征",
-        "探讨语言传播的社会影响",
-        "提供2015年时的公众形象记录"
+        "2015年历史报道",
+        "分析创作风格与生态",
+        "媒体视角的社会影响评估"
       ],
-      "category": "公开发言",
-      "importance": 4
+      "category": "讨论",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
