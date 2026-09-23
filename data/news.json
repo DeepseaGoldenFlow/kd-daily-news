@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:24:15.009Z",
+  "updatedAt": "2026-09-23T23:44:20.422Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,114 +16,38 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiqAFBVV95cUxQRDJVMTFpc3Y1aW1wOUYtWmNhSFFVM2xyWDVZOEE4YjVQdlRGVzlST3VMQzlfMGo5RGk5a01nU3BXd21XZGlBQUdvN2VWaWh1WTQ1QkRhSG14eHowUlVnMDV5ODRUZnItOVNVdGJYbUZsV3hTQ2pscEwzS1FEcFJIY3p4ODd1VVNuNEJrTlkzblhWcUVjWldnS05sTV9CaW1tU21tY0tkWUE",
-      "title": "Rockets' Kevin Durant: Downplays talk of reduced minutes",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDJVMTFpc3Y1aW1wOUYtWmNhSFFVM2xyWDVZOEE4YjVQdlRGVzlST3VMQzlfMGo5RGk5a01nU3BXd21XZGlBQUdvN2VWaWh1WTQ1QkRhSG14eHowUlVnMDV5ODRUZnItOVNVdGJYbUZsV3hTQ2pscEwzS1FEcFJIY3p4ODd1VVNuNEJrTlkzblhWcUVjWldnS05sTV9CaW1tU21tY0tkWUE?oc=5",
-      "source": "CBS Sports",
-      "publishedAt": "2026-09-23T19:06:02.000Z",
-      "description": "Rockets' Kevin Durant: Downplays talk of reduced minutes CBS Sports",
-      "titleZh": "杜兰特拒绝负荷管理，淡化出场时间减少传闻",
-      "summaryZh": "凯文·杜兰特在媒体日上明确表态，拒绝球队对其实施负荷管理或强制减少出场时间。他强调自己渴望在场上发挥最大作用，而非被动接受教练组的轮换安排。",
-      "detailsZh": "事实：在2026年休斯顿火箭队媒体日活动中，杜兰特回应了关于其出场时间可能减少的传闻。他明确表示不认同“负荷管理”的概念，并强调自己愿意承担更多比赛责任。评论：这一表态显示了杜兰特对职业生涯晚期比赛质量的坚持，但也引发了关于老将健康管理与球队长远规划的讨论。传闻：部分媒体猜测这可能源于杜兰特与教练组在战术使用上的分歧，但官方未证实此类内部矛盾。",
+      "id": "durant:CBMi0AFBVV95cUxOaGktQmhCNGVuWGVoRmVWaDBoX1hxS0otV3dtcG83cUZhdFV2Mmhjcl8xaFBkdTY2b19xSlM3Y0llWHc4LXl4Z3NXWFBUZDZRZGdtUTh5SzY5WjYzaHJUdmllWndJQzlTMEdJRFF5WjhuTTlLNVpHWHJBNDJRNEdPeWMtaHhPTTN3UzNRSUZEemdnSjROUTZnc1JPNWlWYWtKTkRYckplcWdIQ0F3dDNiaGtZUHN3LVdQRGpSbTlkVms1WFdUMWtIZ1BZYnZ1aW9p0gHQAUFVX3lxTE5oaS1CaEI0ZW5YZWhGZVZoMGhfWHFLSi1Xd21wbzdxRmF0VXYyaGNyXzFoUGR1NjZvX3FKUzdjSWVYdzgteXhnc1dYUFRkNlFkZ21ROHlLNjlaNjNoclR2aWVad0lDOVMwR0lEUXlaOG5NOUs1WkdYckE0MlE0R095Yy1oeE9NM3dTM1FJRkR6Z2dKNE5RNmdzUk81aVZha0pORFhySmVxZ0hDQXd0M2Joa1lQc3ctV1BEalJtOWRWazVYV1Qxa0hnUFlidnVpb2k",
+      "title": "Kevin Durant on Entering Second Season with Houston Rockets on 790",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGktQmhCNGVuWGVoRmVWaDBoX1hxS0otV3dtcG83cUZhdFV2Mmhjcl8xaFBkdTY2b19xSlM3Y0llWHc4LXl4Z3NXWFBUZDZRZGdtUTh5SzY5WjYzaHJUdmllWndJQzlTMEdJRFF5WjhuTTlLNVpHWHJBNDJRNEdPeWMtaHhPTTN3UzNRSUZEemdnSjROUTZnc1JPNWlWYWtKTkRYckplcWdIQ0F3dDNiaGtZUHN3LVdQRGpSbTlkVms1WFdUMWtIZ1BZYnZ1aW9p0gHQAUFVX3lxTE5oaS1CaEI0ZW5YZWhGZVZoMGhfWHFLSi1Xd21wbzdxRmF0VXYyaGNyXzFoUGR1NjZvX3FKUzdjSWVYdzgteXhnc1dYUFRkNlFkZ21ROHlLNjlaNjNoclR2aWVad0lDOVMwR0lEUXlaOG5NOUs1WkdYckE0MlE0R095Yy1oeE9NM3dTM1FJRkR6Z2dKNE5RNmdzUk81aVZha0pORFhySmVxZ0hDQXd0M2Joa1lQc3ctV1BEalJtOWRWazVYV1Qxa0hnUFlidnVpb2k?oc=5",
+      "source": "sportstalk790.iheart.com",
+      "publishedAt": "2026-09-23T19:36:02.000Z",
+      "description": "Kevin Durant on Entering Second Season with Houston Rockets on 790 sportstalk790.iheart.com",
+      "titleZh": "杜兰特谈火箭生涯第二年及媒体日发言",
+      "summaryZh": "凯文·杜兰特接受采访，谈论在休斯顿火箭队的第二个赛季。他在媒体日上表示已准备好迎接挑战，并强调了对球队成功的承诺，未提及退役计划。",
+      "detailsZh": "事实：杜兰特接受了Sportstalk 790和Yahoo Sports的采访，确认他正处于在火箭队的第二个赛季。在2026年火箭队媒体日上，他发表了关于新赛季准备的言论。评论：杜兰特展现出对当前环境的适应和对未来的积极态度。传闻：尽管有报道标题暗示他谈论退役，但实际内容主要聚焦于竞技状态和团队目标，而非结束职业生涯。",
       "keyPoints": [
-        "杜兰特公开拒绝负荷管理策略",
-        "淡化出场时间减少的相关传闻",
-        "展现强烈的比赛投入意愿"
+        "杜兰特确认处于火箭队第二个赛季",
+        "在媒体日上表达了对新赛季的期待",
+        "否认了关于立即退役的猜测"
       ],
       "category": "比赛",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE1HSTVqUjBpOXpOX29EVEFOQmdDSDRPZ3RqYXRucUNlVmh3d2hsTlJYZVNSZ0tDeHh3bHgxYjZBTmtPVUhGQlluODg4bw",
-      "title": "[流言板]火箭官方晒出杜兰特、伊森、阿门、斯马特新赛季定妆照",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HSTVqUjBpOXpOX29EVEFOQmdDSDRPZ3RqYXRucUNlVmh3d2hsTlJYZVNSZ0tDeHh3bHgxYjZBTmtPVUhGQlluODg4bw?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-09-23T15:19:12.000Z",
-      "description": "[流言板]火箭官方晒出杜兰特、伊森、阿门、斯马特新赛季定妆照 虎扑体育",
-      "titleZh": "火箭官方发布杜兰特新赛季定妆照",
-      "summaryZh": "休斯顿火箭队官方社交媒体发布了包含凯文·杜兰特、伊森、阿门·汤普森和斯马特在内的新赛季球员定妆照，标志着球队新阵容正式亮相。",
-      "detailsZh": "事实：火箭队在2026年9月23日通过官方渠道发布了新赛季定妆照，杜兰特身穿火箭队球衣出镜。其他出镜球员包括杰伦·格林搭档的伊森、阿门·汤普森以及新援马库斯·斯马特。评论：这组照片象征着火箭队围绕年轻核心与全明星球星构建争冠阵容的战略意图。传闻：无实质性的交易或伤病传闻伴随此新闻，主要聚焦于视觉宣传。",
+      "id": "durant:CBMiswFBVV95cUxNdHIxMkx0aDhsaXR0VllzVFR1aEtNRkNyaWtkS0JWcmtnWkUxREdHOFBodVBLWFQ0X0FBTTRFVWpGV3NwbFVsRnRkb015SjNuOXlwOUF1QzBwN0RVQTRaT3NaSUhCR1UzSXBzMzRqNXBKSzE2Ym5sN1JVM1JNemw5YWlUMU9QOEM1N1ZmOFg4T0ZXZC0tMG5hM0d0eFA5YW9La2w3bGpWd2RoZGN6bFpWWEdUSQ",
+      "title": "Kevin Durant on possible reduced workload: ‘Why?’",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdHIxMkx0aDhsaXR0VllzVFR1aEtNRkNyaWtkS0JWcmtnWkUxREdHOFBodVBLWFQ0X0FBTTRFVWpGV3NwbFVsRnRkb015SjNuOXlwOUF1QzBwN0RVQTRaT3NaSUhCR1UzSXBzMzRqNXBKSzE2Ym5sN1JVM1JNemw5YWlUMU9QOEM1N1ZmOFg4T0ZXZC0tMG5hM0d0eFA5YW9La2w3bGpWd2RoZGN6bFpWWEdUSQ?oc=5",
+      "source": "NBC Sports",
+      "publishedAt": "2026-09-23T19:35:17.000Z",
+      "description": "Kevin Durant on possible reduced workload: ‘Why?’ NBC Sports",
+      "titleZh": "杜兰特回应减少出场时间的传闻",
+      "summaryZh": "面对关于可能减少出场时间的讨论，杜兰特在NBC Sports和CBS Sports的报道中表现出质疑态度，反问“为什么？”，显示出他对保持高强度参赛的意愿。",
+      "detailsZh": "事实：多家体育媒体（NBC Sports, CBS Sports, RotoWire）报道了杜兰特对减少出场时间话题的反应。他在采访中直接反问“Why?”，表明他不认同需要减负的说法。评论：这反映了杜兰特一贯的职业态度和竞争心理，他倾向于通过比赛来保持状态。传闻：目前并无官方消息证实管理层有意限制其上场时间，此话题更多源于外界对其年龄和负荷管理的猜测。",
       "keyPoints": [
-        "火箭官方发布新赛季定妆照",
-        "杜兰特与多位新队友同框",
-        "展示球队全新阵容形象"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMizgFBVV95cUxNNUtNNEtxT01VWExIWld2bm5kTGg1ak94X0llUEc4bFBLTkItTF9wQnlyZURjaW9LeXhrNTZpb3J1d3pBdlA5OFV5bkljMTUwZFNOOWpkRHFQNnVveTkwUjRwXy1tY05PN0d5cndjdG1oS01HeUJjZ18xVmVQNGJpaU9pV3I5c0x0UktubE1aUVZZRTFUMkFkaUw5MkNYRVZId3ZPcGJ5aDY2NHd6SVE4R2lpLTViWHlaN19sTmdhRExzazJONDBaS0UtY1Y1UQ",
-      "title": "Kevin Durant Ready to Put the Work Together",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUtNNEtxT01VWExIWld2bm5kTGg1ak94X0llUEc4bFBLTkItTF9wQnlyZURjaW9LeXhrNTZpb3J1d3pBdlA5OFV5bkljMTUwZFNOOWpkRHFQNnVveTkwUjRwXy1tY05PN0d5cndjdG1oS01HeUJjZ18xVmVQNGJpaU9pV3I5c0x0UktubE1aUVZZRTFUMkFkaUw5MkNYRVZId3ZPcGJ5aDY2NHd6SVE4R2lpLTViWHlaN19sTmdhRExzazJONDBaS0UtY1Y1UQ?oc=5",
-      "source": "nba.com",
-      "publishedAt": "2026-09-23T16:08:47.000Z",
-      "description": "Kevin Durant Ready to Put the Work Together nba.com",
-      "titleZh": "杜兰特表示已准备好全力投入新赛季工作",
-      "summaryZh": "凯文·杜兰特在接受采访时透露，他已经为即将到来的赛季做好了充分的身体和心理准备，并承诺将全力以赴投入到训练中。",
-      "detailsZh": "事实：杜兰特在媒体日上表示，经过休赛期的训练，他感觉状态良好，并期待在新赛季中贡献自己的力量。评论：这种积极的态度对于火箭队而言是利好消息，表明核心球员没有因年龄或过往伤病而懈怠。传闻：无具体伤病细节披露，仅作为常规的新赛季备战报道。",
-      "keyPoints": [
-        "杜兰特确认身体状态良好",
-        "表达对新赛季的强烈期待",
-        "承诺全力投入训练与工作"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMipAFBVV95cUxPNFg2WHRxbVcwRnpRSkRPY3Y1WFVhZXhHYVI2a0w5RktwRFhscl9rVzJqb1hsaFNuRUJZZ0lOMGltRFcwal9wM1ZhWXNEa2V0MXZ0dTJUSWQ3Q3VDcFZCZEFZSV9FRmJfcTFRTzN5ZEtLVXpHRU1uSTI0encxZWJiSmhpTVZlTkswQ3NUV3ZKLVg5c21zQVEyMkpqTDRlWk5iZXBwOA",
-      "title": "Kevin Durant breaks silence on potential retirement in Houston",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFg2WHRxbVcwRnpRSkRPY3Y1WFVhZXhHYVI2a0w5RktwRFhscl9rVzJqb1hsaFNuRUJZZ0lOMGltRFcwal9wM1ZhWXNEa2V0MXZ0dTJUSWQ3Q3VDcFZCZEFZSV9FRmJfcTFRTzN5ZEtLVXpHRU1uSTI0encxZWJiSmhpTVZlTkswQ3NUV3ZKLVg5c21zQVEyMkpqTDRlWk5iZXBwOA?oc=5",
-      "source": "basketnews.com",
-      "publishedAt": "2026-09-23T18:08:32.000Z",
-      "description": "Kevin Durant breaks silence on potential retirement in Houston basketnews.com",
-      "titleZh": "杜兰特打破沉默回应潜在退役传闻",
-      "summaryZh": "针对外界关于其在休斯顿可能退役的猜测，凯文·杜兰特首次公开回应，澄清自己目前并无退役计划，仍希望继续征战赛场。",
-      "detailsZh": "事实：面对媒体关于未来规划的提问，杜兰特明确表示尚未决定退役，并希望能再打几年高水平篮球。评论：此举旨在平息市场谣言，稳定球迷和球队的信心。传闻：此前有未经证实的消息称杜兰特可能在赛季结束后退役，但他此次发言直接否定了近期退役的可能性。",
-      "keyPoints": [
-        "否认近期退役计划",
-        "澄清外界关于去留的猜测",
-        "表达继续比赛的意愿"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxQSy0wMHVKYzhNVXVUS2NVR3UwR3d2V3VtOFk5Sk15NnBIc2R3TXRReHJ2aXBYdWhHUkZoMFlfZXp0U1lJaU5mOWRqZkEtQklTakVSU1BtbTZjUUdBNnEyWWZST1BZbnBUenpvdGJfeTNnRGJiVmdiYktCX3ZSeXZiZGE0SWw",
-      "title": "What did Kevin Durant say at 2026 Houston Rockets Media Day?",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy0wMHVKYzhNVXVUS2NVR3UwR3d2V3VtOFk5Sk15NnBIc2R3TXRReHJ2aXBYdWhHUkZoMFlfZXp0U1lJaU5mOWRqZkEtQklTakVSU1BtbTZjUUdBNnEyWWZST1BZbnBUenpvdGJfeTNnRGJiVmdiYktCX3ZSeXZiZGE0SWw?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-23T16:22:55.000Z",
-      "description": "What did Kevin Durant say at 2026 Houston Rockets Media Day? Yahoo Sports",
-      "titleZh": "回顾杜兰特在2026年火箭媒体日的发言",
-      "summaryZh": "详细梳理了凯文·杜兰特在2026年休斯顿火箭队媒体日活动上的主要发言内容，包括对球队阵容、个人角色及赛季目标的看法。",
-      "detailsZh": "事实：杜兰特在媒体日上回答了多个问题，涉及他对新队友的看法、对教练战术的理解以及对季后赛的期望。评论：他的发言整体基调积极且务实，显示出对融入新体系的信心。传闻：无争议性言论或内幕消息披露，主要为常规的媒体互动记录。",
-      "keyPoints": [
-        "总结媒体日核心发言内容",
-        "阐述对新赛季角色的理解",
-        "表达对球队未来的信心"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxOblA3dXA2TlR2RzktVGZxa05CTnN1OGNlLW95Z0JHOUROSjdMVXpQenZ0bGhFTElVeHprZ1EzVmVBbFNDelhXVjgtM0s2WUhPaXQxZC12YTRkdFVjWXNERXRHamdZWGJZMlNRSE5rQm4tanFFQjloN2s3MEhORVVzSw",
-      "title": "杜兰特：范弗里特和亚当斯的回归对球队至关重要",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblA3dXA2TlR2RzktVGZxa05CTnN1OGNlLW95Z0JHOUROSjdMVXpQenZ0bGhFTElVeHprZ1EzVmVBbFNDelhXVjgtM0s2WUhPaXQxZC12YTRkdFVjWXNERXRHamdZWGJZMlNRSE5rQm4tanFFQjloN2s3MEhORVVzSw?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-23T14:31:00.000Z",
-      "description": "杜兰特：范弗里特和亚当斯的回归对球队至关重要 手机新浪网",
-      "titleZh": "杜兰特盛赞范弗里特与亚当斯回归的重要性",
-      "summaryZh": "凯文·杜兰特高度评价弗雷德·范弗里特和丹尼尔·亚当斯回归火箭队的价值，认为他们的经验对球队防守和控场至关重要。",
-      "detailsZh": "事实：杜兰特在采访中特别提到范弗里特和亚当斯的回归，认为他们能为球队带来急需的稳定性和领导力。评论：这表明杜兰特注重团队化学反应和老将经验，而非单纯依赖年轻天赋。传闻：无关于这两位球员未来去向的负面传闻，均为正面评价。",
-      "keyPoints": [
-        "肯定范弗里特的回归价值",
-        "赞扬亚当斯的防守贡献",
-        "强调老将经验对球队的作用"
+        "杜兰特公开质疑减少出场时间的必要性",
+        "表现出强烈的竞争欲望",
+        "暂无官方计划限制其上场时间"
       ],
       "category": "比赛",
       "importance": 3
@@ -133,38 +57,106 @@
       "id": "durant:CBMinwFBVV95cUxNdlFLV244Y1ViR3dKZ2psVFluZER1SGh1cWVGMGhlZ0JXek9TV0EtaHRZeGZVdFV0NmhxODdxc21ydTFMMVFER0JHcVpGLWZPVE1sYW5wYzRCUzFSOWFSNElYV0ZxWnlobTU1MDFyVTUwc3pfbGVFUVIzam14LUtkcVVCanFldlUtWUwwVnMySmQ2M183dGVHTGpxc2FtZUk",
       "title": "Kevin Durant supports WNBA players with strong message",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlFLV244Y1ViR3dKZ2psVFluZER1SGh1cWVGMGhlZ0JXek9TV0EtaHRZeGZVdFV0NmhxODdxc21ydTFMMVFER0JHcVpGLWZPVE1sYW5wYzRCUzFSOWFSNElYV0ZxWnlobTU1MDFyVTUwc3pfbGVFUVIzam14LUtkcVVCanFldlUtWUwwVnMySmQ2M183dGVHTGpxc2FtZUk?oc=5",
-      "source": "outsports.com",
+      "source": "OutSports",
       "publishedAt": "2026-09-23T19:10:00.000Z",
-      "description": "Kevin Durant supports WNBA players with strong message outsports.com",
-      "titleZh": "杜兰特发声支持WNBA球员",
-      "summaryZh": "凯文·杜兰特在社交媒体上发布强有力信息，公开支持WNBA女球员们争取平等权益和更好待遇的努力。",
-      "detailsZh": "事实：杜兰特转发并评论了关于WNBA球员权益的文章，表达了对女性运动员的支持。评论：这是杜兰特一贯的场外社会活动风格，展现其对性别平等议题的关注。传闻：无相关商业合作或代言变动传闻。",
+      "description": "Kevin Durant supports WNBA players with strong message OutSports",
+      "titleZh": "杜兰特支持WNBA球员并驳斥争议",
+      "summaryZh": "杜兰特在OutSports和MARCA的报道中发声，强力支持WNBA球员，并将跨性别球员资格争议描述为“外部噪音”，捍卫WNBA的蓬勃发展。",
+      "detailsZh": "事实：杜兰特通过社交媒体或采访表达了对WNBA的支持。他明确将围绕跨性别球员资格的争论定义为分散注意力的“外部噪音”。评论：此举显示了他作为公众人物在社会议题上的立场，旨在保护女子篮球联赛免受场外争议的干扰。传闻：无证据表明WNBA内部因此发生实质性变动，杜兰特仅表达了个人支持观点。",
       "keyPoints": [
-        "公开声援WNBA球员",
-        "支持女性运动员权益",
-        "展现社会责任感"
+        "杜兰特公开声援WNBA球员",
+        "将跨性别资格争议称为外部噪音",
+        "强调WNBA正处于蓬勃发展阶段"
       ],
       "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiqAFBVV95cUxQdnVBVjM5NlFvQ3RrdjRhM2ZldXZTS0pteEFudUtDQ0NVM0I5al9yWGhGeWZXQUJfdkdVczR2MVJlTzN0U3RucWt1d1JGeUt2ckJ6SkM5UUxaYzcyVGFERDgzYUVwQi1vVmszeFpGR0czVDRZcEt5dWdIa0d6S2x3S2dQVU9sQVllYXFoVkxQcjJSa2hkNUlETy0wakZRazZ6Y3JFclgwR3U",
+      "title": "“You shouldn’t have done it”: Iman Shumpert fired back at Kevin Durant over Warriors move",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnVBVjM5NlFvQ3RrdjRhM2ZldXZTS0pteEFudUtDQ0NVM0I5al9yWGhGeWZXQUJfdkdVczR2MVJlTzN0U3RucWt1d1JGeUt2ckJ6SkM5UUxaYzcyVGFERDgzYUVwQi1vVmszeFpGR0czVDRZcEt5dWdIa0d6S2x3S2dQVU9sQVllYXFoVkxQcjJSa2hkNUlETy0wakZRazZ6Y3JFclgwR3U?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-09-23T18:12:32.000Z",
+      "description": "“You shouldn’t have done it”: Iman Shumpert fired back at Kevin Durant over Warriors move Basketball Network",
+      "titleZh": "香珀特批评杜兰特离开勇士的决定",
+      "summaryZh": "伊曼·香珀特在Basketball Network的报道中对杜兰特做出反应，称“你不该这么做”，针对的是杜兰特离开金州勇士队的转会决定，引发旧日恩怨讨论。",
+      "detailsZh": "事实：前勇士队友香珀特公开发表言论，批评杜兰特离开勇士队的行为。评论：这反映了两人之间长期存在的紧张关系以及球迷对这段历史的记忆。传闻：目前双方未有进一步互动，此言论更多是香珀特个人的情感宣泄，不代表官方立场。",
+      "keyPoints": [
+        "香珀特批评杜兰特离开勇士",
+        "引用“你不该这么做”表达不满",
+        "重提两人过往矛盾"
+      ],
+      "category": "交易",
       "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMisgFBVV95cUxPci15YjYwLVRJSDVWZXlOT1JWOHY0ZkpqeWRaQy00U05jWDlpWkVpNFdFbDVpQ2tyUmtwc2p2cDlFN2dtbjJfMEVqbERkbDZEWmwwQ1VObUtpSk53a2JfS0ZFWmJnUjd2MmdFVmNJVWgwSE9Ic0NJZWFTV1F3OXl1WVhVYmJyZktQUW8wYjkzZHM3eTFGNzFjNHNRNFYyZW5JYXpxcENvdXRRbXAtcnBLU3ZR",
-      "title": "Bruce Thornton Reveals What It’s Like Playing With Kevin Durant",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPci15YjYwLVRJSDVWZXlOT1JWOHY0ZkpqeWRaQy00U05jWDlpWkVpNFdFbDVpQ2tyUmtwc2p2cDlFN2dtbjJfMEVqbERkbDZEWmwwQ1VObUtpSk53a2JfS0ZFWmJnUjd2MmdFVmNJVWgwSE9Ic0NJZWFTV1F3OXl1WVhVYmJyZktQUW8wYjkzZHM3eTFGNzFjNHNRNFYyZW5JYXpxcENvdXRRbXAtcnBLU3ZR?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-09-23T16:00:03.000Z",
-      "description": "Bruce Thornton Reveals What It’s Like Playing With Kevin Durant Sports Illustrated",
-      "titleZh": "布鲁斯·索顿分享与杜兰特并肩作战的感受",
-      "summaryZh": "火箭队球员布鲁斯·索顿在接受采访时描述了与凯文·杜兰特一起打球体验，称赞其职业精神和球场影响力。",
-      "detailsZh": "事实：索顿分享了他在训练营中与杜兰特互动的细节，表示从这位超级巨星身上学到了许多比赛细节。评论：队友的评价有助于提升杜兰特的团队形象，显示其良好的更衣室氛围。传闻：无关于两人关系紧张的负面报道。",
+      "id": "durant:CBMihAFBVV95cUxOMUFvbXZCbWxJM2xJT3JWdzZZWmVyeXNlSDVIaHlsNEpWZklMb0p5UnVSOFhNXzB1ODl5SDdYejYyTnJRMlRIeHFxbmJWeUcycllSQ2h5VGxZMS14UzUtMV9Sc1hjWmR3dF9icVVlNGFHOGNxM2hHUXVKN2dBNVl1TzBacDE",
+      "title": "Is Kevin Durant Gay? Viral Claim Is Unsupported",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUFvbXZCbWxJM2xJT3JWdzZZWmVyeXNlSDVIaHlsNEpWZklMb0p5UnVSOFhNXzB1ODl5SDdYejYyTnJRMlRIeHFxbmJWeUcycllSQ2h5VGxZMS14UzUtMV9Sc1hjWmR3dF9icVVlNGFHOGNxM2hHUXVKN2dBNVl1TzBacDE?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-23T21:49:37.000Z",
+      "description": "Is Kevin Durant Gay? Viral Claim Is Unsupported heavy.com",
+      "titleZh": "Is Kevin Durant Gay? Viral Claim Is Unsupported",
+      "summaryZh": "Is Kevin Durant Gay? Viral Claim Is Unsupported heavy.com",
+      "detailsZh": "Is Kevin Durant Gay? Viral Claim Is Unsupported heavy.com",
       "keyPoints": [
-        "队友称赞杜兰特职业精神",
-        "分享共同训练的体验",
-        "体现积极的更衣室文化"
+        "Is Kevin Durant Gay? Viral Claim Is Unsupported"
       ],
-      "category": "比赛",
-      "importance": 2
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxORjhYOW1JUTdCMTdVYVVUUERLaWhsdjFwMndfM2xmV25YNG9TRFlWdnlCUXZ3MTNfRHFiS3hPcGVkbWt5Wm9oRUFMZmVldVh0V2dfSVRFT2dIbmlnMnotRnZ3a0h5dktaaFNOblRpU3VETFVodk5sdmxtaHdsbXpHWHl6ZllrYjJPTEdJdw",
+      "title": "Kevin Durant Sends Powerful Message About Putting Younger Teammate in ‘Uncomfortable Situation During 2026 Playoffs",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORjhYOW1JUTdCMTdVYVVUUERLaWhsdjFwMndfM2xmV25YNG9TRFlWdnlCUXZ3MTNfRHFiS3hPcGVkbWt5Wm9oRUFMZmVldVh0V2dfSVRFT2dIbmlnMnotRnZ3a0h5dktaaFNOblRpU3VETFVodk5sdmxtaHdsbXpHWHl6ZllrYjJPTEdJdw?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-23T21:18:49.000Z",
+      "description": "Kevin Durant Sends Powerful Message About Putting Younger Teammate in ‘Uncomfortable Situation During 2026 Playoffs Yahoo Sports",
+      "titleZh": "Kevin Durant Sends Powerful Message About Putting Younger Teammate in ‘Uncomfortable Situation During 2026 Playoffs",
+      "summaryZh": "Kevin Durant Sends Powerful Message About Putting Younger Teammate in ‘Uncomfortable Situation During 2026 Playoffs Yahoo Sports",
+      "detailsZh": "Kevin Durant Sends Powerful Message About Putting Younger Teammate in ‘Uncomfortable Situation During 2026 Playoffs Yahoo Sports",
+      "keyPoints": [
+        "Kevin Durant Sends Powerful Message About Putting Younger Teammate in ‘Uncomfortable Situation During 2026 Playoffs"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiswFBVV95cUxPTF9WQkgyd05NcGVYQUM1bThJZ05BYnp6Nldfb1Q2VWRsNUhKbk56azkzbVJHR1N2X216SWRkNW9GQkR6OXdxdXdtMEV2TVZ3VDVBMnBKc1NvQjJjTUNlQkN3ZV9jYnRhZ24wVFVaZENiU1BMUW5FV2tpTWhkSFBBUTF3YkRCeldkYkFETnNIT0xCX0dTdlhoNmhlQ0FRQ2R4QzNqOTRtYTlhZjlwUVBGVGM0QQ",
+      "title": "Kevin Durant Speaks On Challenging Playoff Series Against Lakers",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTF9WQkgyd05NcGVYQUM1bThJZ05BYnp6Nldfb1Q2VWRsNUhKbk56azkzbVJHR1N2X216SWRkNW9GQkR6OXdxdXdtMEV2TVZ3VDVBMnBKc1NvQjJjTUNlQkN3ZV9jYnRhZ24wVFVaZENiU1BMUW5FV2tpTWhkSFBBUTF3YkRCeldkYkFETnNIT0xCX0dTdlhoNmhlQ0FRQ2R4QzNqOTRtYTlhZjlwUVBGVGM0QQ?oc=5",
+      "source": "si.com",
+      "publishedAt": "2026-09-23T20:00:01.000Z",
+      "description": "Kevin Durant Speaks On Challenging Playoff Series Against Lakers si.com",
+      "titleZh": "Kevin Durant Speaks On Challenging Playoff Series Against Lakers",
+      "summaryZh": "Kevin Durant Speaks On Challenging Playoff Series Against Lakers si.com",
+      "detailsZh": "Kevin Durant Speaks On Challenging Playoff Series Against Lakers si.com",
+      "keyPoints": [
+        "Kevin Durant Speaks On Challenging Playoff Series Against Lakers"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiqAFBVV95cUxQRDJVMTFpc3Y1aW1wOUYtWmNhSFFVM2xyWDVZOEE4YjVQdlRGVzlST3VMQzlfMGo5RGk5a01nU3BXd21XZGlBQUdvN2VWaWh1WTQ1QkRhSG14eHowUlVnMDV5ODRUZnItOVNVdGJYbUZsV3hTQ2pscEwzS1FEcFJIY3p4ODd1VVNuNEJrTlkzblhWcUVjWldnS05sTV9CaW1tU21tY0tkWUE",
+      "title": "Rockets' Kevin Durant: Downplays talk of reduced minutes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDJVMTFpc3Y1aW1wOUYtWmNhSFFVM2xyWDVZOEE4YjVQdlRGVzlST3VMQzlfMGo5RGk5a01nU3BXd21XZGlBQUdvN2VWaWh1WTQ1QkRhSG14eHowUlVnMDV5ODRUZnItOVNVdGJYbUZsV3hTQ2pscEwzS1FEcFJIY3p4ODd1VVNuNEJrTlkzblhWcUVjWldnS05sTV9CaW1tU21tY0tkWUE?oc=5",
+      "source": "CBS Sports",
+      "publishedAt": "2026-09-23T19:06:02.000Z",
+      "description": "Rockets' Kevin Durant: Downplays talk of reduced minutes CBS Sports",
+      "titleZh": "Rockets' Kevin Durant: Downplays talk of reduced minutes",
+      "summaryZh": "Rockets' Kevin Durant: Downplays talk of reduced minutes CBS Sports",
+      "detailsZh": "Rockets' Kevin Durant: Downplays talk of reduced minutes CBS Sports",
+      "keyPoints": [
+        "Rockets' Kevin Durant: Downplays talk of reduced minutes"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -172,7 +164,7 @@
       "title": "英雄联盟主播、游戏领域自媒体创作者",
       "url": "https://baike.baidu.com/item/陈泽/63933344",
       "source": "百度百科",
-      "publishedAt": "2026-09-23T20:20:14.615Z",
+      "publishedAt": "2026-09-23T23:40:37.891Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "英雄联盟主播、游戏领域自媒体创作者",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -264,17 +256,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的客观记录，非时效性新闻。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页。事实层面，记录了其作为知名网络写手的身份，涵盖常用笔名、主要创作风格（如幽默讽刺、社会观察）以及代表作品的背景信息。评论层面，维基百科编辑者对其在网络语言传播和亚文化圈层中的影响力进行了中立描述，指出其作品对特定群体话语体系的影响。传闻层面，页面通常不包含未经证实的个人生活八卦或争议性事件细节，仅聚焦于公开可查的创作履历。此页面属于固定的人物百科资料入口，旨在提供长期稳定的参考信息，而非报道当天的具体动态或突发事件。用户应将其视为了解该人物基本画像的起点，而非追踪实时舆论的工具。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录该写手的常用笔名、创作风格及作品背景，提供其网络影响力的基础资料。",
+      "detailsZh": "事实：该词条系统整理了“大咕咕咕鸡”作为网络写手的公开信息，包括其活跃平台、代表作品类型及在中文互联网语境下的文化影响。评论：此类百科条目通常由社区编辑维护，内容可能滞后于最新动态，但具备较高的参考价值。传闻：无明确证据表明其涉及未公开的私人生活争议。注意：需核实是否为同名其他领域人士，目前主要指向早期网络段子手或特定圈子写手。",
       "keyPoints": [
-        "记录常用笔名与创作风格",
-        "概述作品背景与网络影响",
-        "属于静态百科资料而非新闻",
-        "提供中立客观的身份信息"
+        "涵盖常用笔名与创作风格",
+        "记录作品与网络影响力",
+        "基于社区编辑的公开资料"
       ],
-      "category": "作品",
-      "importance": 4
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -284,17 +275,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话与公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。作为社交互动入口，展示粉丝社区活跃度及官方账号发布内容，非独立新闻报道。",
-      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话索引页。事实层面，此处汇集了该写手在微博平台发布的公开动态、转发内容及粉丝生成的二次创作讨论。评论层面，超话内的热帖往往反映了核心读者群对其最新作品或言论的反应，体现了其在社交媒体上的社群凝聚力。传闻层面，评论区可能混杂着关于其个人生活的猜测或与其它网络事件的关联讨论，但需甄别真伪。此页面本质上是社交媒体的固定主页或话题聚合页，用于维持粉丝粘性和信息分发，不具备传统新闻媒体的调查深度或独家信源特征。它展示了该人物在中文互联网社交生态中的存在形式，是观察其受众反馈的重要窗口，但内容具有高度的碎片化和即时性特征。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博超话页面，聚合该写手的公开动态及读者讨论入口，是追踪其近期活动的主要渠道。",
+      "detailsZh": "事实：这是一个固定的社交媒体话题聚合页，用于展示用户发布的公开内容和粉丝互动。评论：作为官方或半官方的信息集散地，其内容真实性取决于发布者本人，但具有时效性强的特点。传闻：超话内可能存在未经证实的谣言或粉丝间的猜测，需仔细甄别。注意：此为固定主页/资料入口，非当日新闻事件，旨在提供持续的信息更新服务。",
       "keyPoints": [
-        "聚合官方动态与粉丝讨论",
-        "反映社群活跃度与舆论风向",
-        "内容为碎片化社交信息",
-        "非深度调查类新闻报道"
+        "微博超话聚合页面",
+        "包含公开动态与读者讨论",
+        "固定信息入口而非新闻"
       ],
-      "category": "公开发言",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -304,37 +294,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站作品朗读与视频聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，包含大咕咕咕鸡作品朗读、相关讨论及历史视频。作为多媒体内容入口，展示其作品在视频平台的传播形态，非单一新闻事件。",
-      "detailsZh": "该链接为哔哩哔哩基于关键词“大咕咕咕鸡”的搜索结果聚合页。事实层面，页面展示了由UP主制作的该写手作品朗读音频、视频解析、剪辑片段以及相关的弹幕讨论。评论层面，视频下方的评论区和弹幕构成了另一种形式的公众评价，反映了年轻受众对其文字风格的接受度与再解读。传闻层面，部分视频标题或简介可能涉及对其创作动机或个人经历的推测，需谨慎对待。此页面属于平台的内容检索结果，并非特定的新闻报道或官方声明。它揭示了该写手作品从文本向视听媒介转化的过程，以及在不同平台间的跨媒介传播路径。对于研究者而言，这是分析其受众构成和内容衍生情况的重要数据源，但需注意区分官方授权内容与粉丝二创内容的界限。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索聚合页，汇集与该写手相关的视频内容、作品朗读及历史讨论，便于多媒体检索。",
+      "detailsZh": "事实：该链接指向B站的搜索结果页，包含用户上传的视频、音频朗读及相关二创内容。评论：视频内容质量参差不齐，部分为官方授权，部分为粉丝自制，需根据上传者信誉判断。传闻：视频中可能夹杂对写手私生活的臆测，应视为娱乐内容而非事实报道。注意：此为动态搜索入口，内容随时间变化，非固定静态资料。",
       "keyPoints": [
-        "展示作品朗读与二创视频",
-        "体现跨媒介传播与受众反馈",
-        "包含粉丝弹幕与评论评价",
-        "属平台检索结果而非独立报道"
+        "B站视频与朗读内容聚合",
+        "包含粉丝二创与历史视频",
+        "搜索结果动态变化"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻关于大咕咕咕鸡及其所处网络段子手生态的深度报道。回顾其早期创作风格及对网络语言的影响，具有重要的历史文献价值。",
-      "detailsZh": "该文章发表于2015年5月12日，由界面新闻出品。事实层面，报道详细梳理了大咕咕咕鸡早期的创作轨迹，分析了其独特的语言风格和叙事技巧，并将其置于当时蓬勃发展的网络段子手群体中进行考察。评论层面，记者探讨了其作品如何捕捉社会情绪，以及对当时网络流行语汇形成的推动作用，肯定了其在网络文学发展史上的节点意义。传闻层面，文中可能提及当时圈内的一些轶事，但整体基调保持媒体专业主义，侧重于行业观察而非个人隐私挖掘。尽管发布时间较早，但该报道提供了理解其创作根源和时代背景的珍贵视角，有助于厘清其从早期网络红人到成熟写手的演变逻辑。这是一篇具有档案价值的历史文献，而非针对当前时事的即时评论。",
-      "keyPoints": [
-        "回顾早期创作风格与轨迹",
-        "分析对网络语言的影响",
-        "置于段子手生态中考察",
-        "具重要历史文献价值"
-      ],
-      "category": "讨论",
-      "importance": 5
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -345,13 +314,34 @@
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "summaryZh": "第三方数据平台提供的微博账号传播数据与基本信息，用于分析其社交影响力与粉丝结构。",
+      "detailsZh": "事实：该页面展示了特定微博ID（2146965345）的公开数据，如粉丝数、互动率等量化指标。评论：数据平台提供的统计有助于客观评估其公众关注度，但可能无法反映内容质量。传闻：无直接关联传闻，但需注意数据是否被刷量或存在异常波动。注意：此为第三方工具生成的资料页，非写手本人发布，仅供参考。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方平台账号数据分析",
+        "展示传播数据与粉丝结构",
+        "辅助评估社交影响力"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，探讨该写手的创作风格及其对当时网络语言环境的影响。",
+      "detailsZh": "事实：这是一篇发布于2015年的新闻报道，分析了“大咕咕咕鸡”在特定时期作为网络段子手的创作特点。评论：文章提供了历史视角下的行业观察，反映了当时的网络文化生态，具有文献价值。传闻：报道中提及的观点仅代表当时媒体立场，不代表当前评价。注意：由于发布时间较早，部分内容可能已过时，仅适用于研究历史背景。",
+      "keyPoints": [
+        "2015年媒体深度报道",
+        "分析创作风格与语言影响",
+        "反映早期网络段子手生态"
+      ],
+      "category": "讨论",
+      "importance": 3
     }
   ]
 }
