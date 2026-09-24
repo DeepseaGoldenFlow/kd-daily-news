@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:12:48.256Z",
+  "updatedAt": "2026-09-24T22:25:30.576Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
       "url": "https://www.163.com/dy/article/L7BIKARH052982N2.html",
       "source": "网易",
-      "publishedAt": "2026-09-24T19:08:18.445Z",
+      "publishedAt": "2026-09-24T22:22:39.176Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +37,7 @@
       "title": "暴跌90%!杜兰特严重贬值,去年一人换了半支球队,如今只值一个首轮了",
       "url": "https://www.163.com/dy/article/L77IK7QV0549AFIX.html",
       "source": "网易",
-      "publishedAt": "2026-09-24T19:08:18.445Z",
+      "publishedAt": "2026-09-24T22:22:39.176Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "暴跌90%!杜兰特严重贬值,去年一人换了半支球队,如今只值一个首轮了",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -47,6 +47,57 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxPbEo3Mm9KZEdmREtfelZRRllIUjllSGtZemVkV0FvaXQxMVI3N1BvSzV1UU1rTTdNMTljbmZCekN5SmVfNmo3ckdLMlRSZHJjZDEtcWp3djB3cDc3Z1ZVUnIwcEl4ZG96NUt0bl9JcXF6S25QaFZFTFMySWhHRU5yUnpB",
+      "title": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEo3Mm9KZEdmREtfelZRRllIUjllSGtZemVkV0FvaXQxMVI3N1BvSzV1UU1rTTdNMTljbmZCekN5SmVfNmo3ckdLMlRSZHJjZDEtcWp3djB3cDc3Z1ZVUnIwcEl4ZG96NUt0bl9JcXF6S25QaFZFTFMySWhHRU5yUnpB?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-24T21:58:24.000Z",
+      "description": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 手机新浪网",
+      "titleZh": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档",
+      "summaryZh": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 手机新浪网",
+      "detailsZh": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 手机新浪网",
+      "keyPoints": [
+        "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMikwFBVV95cUxOa2I2RXNnNXE1Zi1rOEExM2NrU1U0UFMtazlHSEdyeUpYV1VlZkZKVXFraHJjYVlOaldNUW14UW5lcm1LYmtnMm9oc1g4eXBwU05Pa2J4OWhYWW5Vb2tjWlJiUmowWUNpUXVXM2JqLVBpUGV3aEJwQTg0UlU1ZzNKWk54ckFLaWtJVEt0MUdwNHY5Ync",
+      "title": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2I2RXNnNXE1Zi1rOEExM2NrU1U0UFMtazlHSEdyeUpYV1VlZkZKVXFraHJjYVlOaldNUW14UW5lcm1LYmtnMm9oc1g4eXBwU05Pa2J4OWhYWW5Vb2tjWlJiUmowWUNpUXVXM2JqLVBpUGV3aEJwQTg0UlU1ZzNKWk54ckFLaWtJVEt0MUdwNHY5Ync?oc=5",
+      "source": "Space City Scoop",
+      "publishedAt": "2026-09-24T20:49:17.000Z",
+      "description": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term Space City Scoop",
+      "titleZh": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term",
+      "summaryZh": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term Space City Scoop",
+      "detailsZh": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term Space City Scoop",
+      "keyPoints": [
+        "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMirgFBVV95cUxPR1JnYWs5NmktRkl4TEZnbDZMck9ER3MyWGUyLUlpREIxMTFiUGg5bVdsaUYyZnpsN3NvMzlRZGdKWHVJSkRveEJhMEx4Zk9EcDFteUVuV2tPR0xRMnIyaXAzbHVqTVZkcmE5YjNZdUtUeElpc3NVQzBLMDJfZkNFYXp3eDlTNlJFWmpsbXdsbWNZNWdncUt6VFA5ekQycWZIZEYtUEFGdEVoV2l2OGc",
+      "title": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1JnYWs5NmktRkl4TEZnbDZMck9ER3MyWGUyLUlpREIxMTFiUGg5bVdsaUYyZnpsN3NvMzlRZGdKWHVJSkRveEJhMEx4Zk9EcDFteUVuV2tPR0xRMnIyaXAzbHVqTVZkcmE5YjNZdUtUeElpc3NVQzBLMDJfZkNFYXp3eDlTNlJFWmpsbXdsbWNZNWdncUt6VFA5ekQycWZIZEYtUEFGdEVoV2l2OGc?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-24T20:07:56.000Z",
+      "description": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans Sports Illustrated",
+      "titleZh": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans",
+      "summaryZh": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans Sports Illustrated",
+      "detailsZh": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans Sports Illustrated",
+      "keyPoints": [
+        "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -95,57 +146,6 @@
       "detailsZh": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’ Yahoo Sports",
       "keyPoints": [
         "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMigwFBVV95cUxQSHJzZ3dHY2FPRlBwZjdCc28yVjlxQ3B3UGlJWXhoUjBPcF9iVTBsQVdSdDFreDV1U0h4U3Z5X0d0Sk1hcDZhQmpmUWoyMFpIS0VIZHctTVVzYmFtMDU0X0MzUGE4QzBibnRPaHhkamkyblNLYkR0ZGQwdHN4X0hjVXltQQ",
-      "title": "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHJzZ3dHY2FPRlBwZjdCc28yVjlxQ3B3UGlJWXhoUjBPcF9iVTBsQVdSdDFreDV1U0h4U3Z5X0d0Sk1hcDZhQmpmUWoyMFpIS0VIZHctTVVzYmFtMDU0X0MzUGE4QzBibnRPaHhkamkyblNLYkR0ZGQwdHN4X0hjVXltQQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-24T12:20:00.000Z",
-      "description": "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments Yahoo Sports",
-      "titleZh": "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments",
-      "summaryZh": "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments Yahoo Sports",
-      "detailsZh": "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments Yahoo Sports",
-      "keyPoints": [
-        "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiigFBVV95cUxPWVRqRlFscXdMczB5MDhicHVfdENIMHpFLTd4b1lSUVl2c1A1UXdQalpWc3MwdmdEeHZmTW9nWmVXcFpxZFZlTjQ0RGp5dmtpelZmalJkemdnRjNZTlRTbFoxQkxZdjd3MG1qZ3hfSjBRQzdjSkRMb2hCcEc1a2dGSUdweEQwTFRRcUE",
-      "title": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVRqRlFscXdMczB5MDhicHVfdENIMHpFLTd4b1lSUVl2c1A1UXdQalpWc3MwdmdEeHZmTW9nWmVXcFpxZFZlTjQ0RGp5dmtpelZmalJkemdnRjNZTlRTbFoxQkxZdjd3MG1qZ3hfSjBRQzdjSkRMb2hCcEc1a2dGSUdweEQwTFRRcUE?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-09-24T08:40:55.000Z",
-      "description": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season Yahoo Sports",
-      "titleZh": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season",
-      "summaryZh": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season Yahoo Sports",
-      "detailsZh": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season Yahoo Sports",
-      "keyPoints": [
-        "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQeklORnNyV0xldmplM2RTd1NwdXZxOFllT0JLZS04eXVtNmoyT2ExVGJhQURSbE5rSENQanhkOWREYzlhQlNfRnRYTm50RlVOM1NJaENsM2FKa2ZiWE43U0xLdEJmaU9EUTRFdmhrOGlzcWZzc003TzNOVS1YVXA4ZEozN0NfVzR6RmFHOWhPNA",
-      "title": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeklORnNyV0xldmplM2RTd1NwdXZxOFllT0JLZS04eXVtNmoyT2ExVGJhQURSbE5rSENQanhkOWREYzlhQlNfRnRYTm50RlVOM1NJaENsM2FKa2ZiWE43U0xLdEJmaU9EUTRFdmhrOGlzcWZzc003TzNOVS1YVXA4ZEozN0NfVzR6RmFHOWhPNA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-24T08:14:00.000Z",
-      "description": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的 手机新浪网",
-      "titleZh": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的",
-      "summaryZh": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的 手机新浪网",
-      "detailsZh": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的 手机新浪网",
-      "keyPoints": [
-        "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的"
       ],
       "category": "场外",
       "importance": 3
@@ -224,6 +224,44 @@
       "importance": 3
     },
     {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景，提供其网络影响力的基础资料索引。",
+      "detailsZh": "事实：该词条为关于网络写手“大咕咕咕鸡”的百科条目，涵盖其常用笔名、主要创作风格及代表作品的背景信息。评论：作为第三方知识库，其内容旨在客观记录其在中文互联网语境下的文化影响与创作轨迹。传闻：无明确证据表明该词条包含未经核实的个人生活细节或争议性传闻，主要聚焦于公开可见的创作成果与社会评价。",
+      "keyPoints": [
+        "提供人物基本身份与笔名信息",
+        "梳理创作风格与代表作品",
+        "记录网络影响力与文化背景"
+      ],
+      "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：创作生态分析",
+      "summaryZh": "2015年界面新闻发布深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响，属历史文献。",
+      "detailsZh": "事实：2015年5月12日，界面新闻发表题为《大咕咕咕鸡与网络段子手创作生态》的文章，深入探讨其写作特点及对当时网络流行语的塑造作用。评论：该报道被视为早期对其文学价值和社会学意义的专业审视，具有较高的史料参考价值。传闻：文章基于当时的公开文本进行分析，未涉及后续未发生的个人动态或隐私泄露传闻，内容限于2015年前的创作阶段。",
+      "keyPoints": [
+        "2015年媒体深度报道",
+        "分析创作风格与语言影响",
+        "确立早期文学地位与历史价值"
+      ],
+      "category": "讨论",
+      "importance": 4
+    },
+    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -231,14 +269,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "titleZh": "新浪微博超话入口",
+      "summaryZh": "指向大咕咕咕鸡微博超话的固定聚合页，非当日新闻，用于查看公开动态与读者讨论。",
+      "detailsZh": "事实：该链接为新浪微博平台上的官方或半官方超话页面索引，专门用于聚合与大咕咕咕鸡相关的公开动态和读者互动内容。评论：作为粉丝社区的核心入口，它反映了受众对其内容的持续关注度，但页面本身不产生新的事实性新闻。传闻：超话内可能包含粉丝间的各种解读与传闻，但本条目仅指代入口页面，不包含具体未经证实的八卦信息。",
       "keyPoints": [
-        "大咕咕咕鸡公开动态与超话"
+        "微博超话固定聚合页",
+        "非当日新闻而是资料入口",
+        "聚合公开动态与读者讨论"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -248,31 +288,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "哔哩哔哩搜索聚合页",
+      "summaryZh": "B站关键词搜索结果页，聚合相关视频、朗读音频及讨论，非特定新闻事件，属动态资源索引。",
+      "detailsZh": "事实：该链接为哔哩哔哩网站的通用搜索结果页，通过关键词“大咕咕咕鸡”展示所有相关视频、音频朗读及用户讨论。评论：此页面内容为动态生成的集合，反映当前平台上与该人物相关的多媒体内容分布情况，不具备单一新闻事件的时效性。传闻：搜索结果中可能混杂二次创作或粉丝演绎内容，需用户自行甄别，本条目仅作为资源检索工具说明。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "B站动态搜索结果页",
+        "聚合视频、朗读与讨论资源",
+        "非特定新闻而是资源索引"
       ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "detailsZh": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "keyPoints": [
-        "大咕咕咕鸡人物与创作资料"
-      ],
-      "category": "场外",
-      "importance": 3
+      "category": "作品",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -289,24 +314,7 @@
         "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "detailsZh": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "keyPoints": [
-        "大咕咕咕鸡与网络段子手创作生态"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     }
   ]
 }
