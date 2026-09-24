@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T04:50:48.655Z",
+  "updatedAt": "2026-09-24T10:03:00.392Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,156 +16,139 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L7BIKARH052982N2.html",
-      "title": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
-      "url": "https://www.163.com/dy/article/L7BIKARH052982N2.html",
-      "source": "网易",
-      "publishedAt": "2026-09-24T04:46:49.726Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "id": "durant:CBMiigFBVV95cUxPWVRqRlFscXdMczB5MDhicHVfdENIMHpFLTd4b1lSUVl2c1A1UXdQalpWc3MwdmdEeHZmTW9nWmVXcFpxZFZlTjQ0RGp5dmtpelZmalJkemdnRjNZTlRTbFoxQkxZdjd3MG1qZ3hfSjBRQzdjSkRMb2hCcEc1a2dGSUdweEQwTFRRcUE",
+      "title": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVRqRlFscXdMczB5MDhicHVfdENIMHpFLTd4b1lSUVl2c1A1UXdQalpWc3MwdmdEeHZmTW9nWmVXcFpxZFZlTjQ0RGp5dmtpelZmalJkemdnRjNZTlRTbFoxQkxZdjd3MG1qZ3hfSjBRQzdjSkRMb2hCcEc1a2dGSUdweEQwTFRRcUE?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-24T08:40:55.000Z",
+      "description": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season Yahoo Sports",
+      "titleZh": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season",
+      "summaryZh": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season Yahoo Sports",
+      "detailsZh": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season Yahoo Sports",
       "keyPoints": [
-        "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇"
+        "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQemhXcDBUdGlaRGdCMlE0a0ZlNmp4NWJORGI3OVNScE5wV1hKSHBlc2h4aGJLWHFHbjJUNWdlNDM5b0lxQy1oQ0JXa0xneDNqaDl4VDAtM2JMcWF6emstTmJvNU9xY3F4M2Z4ZldLMU5OazdQUlhzeEtzcVhVT2IzQmdpYmxfT3FTNlBYaA",
-      "title": "杜兰特的天彻底亮了！追梦格林直言：当初是我们求着他加盟勇士",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemhXcDBUdGlaRGdCMlE0a0ZlNmp4NWJORGI3OVNScE5wV1hKSHBlc2h4aGJLWHFHbjJUNWdlNDM5b0lxQy1oQ0JXa0xneDNqaDl4VDAtM2JMcWF6emstTmJvNU9xY3F4M2Z4ZldLMU5OazdQUlhzeEtzcVhVT2IzQmdpYmxfT3FTNlBYaA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-24T03:53:29.000Z",
-      "description": "杜兰特的天彻底亮了！追梦格林直言：当初是我们求着他加盟勇士 搜狐网",
-      "titleZh": "杜兰特的天彻底亮了！追梦格林直言：当初是我们求着他加盟勇士",
-      "summaryZh": "杜兰特的天彻底亮了！追梦格林直言：当初是我们求着他加盟勇士 搜狐网",
-      "detailsZh": "杜兰特的天彻底亮了！追梦格林直言：当初是我们求着他加盟勇士 搜狐网",
+      "id": "durant:CBMijwFBVV95cUxQeklORnNyV0xldmplM2RTd1NwdXZxOFllT0JLZS04eXVtNmoyT2ExVGJhQURSbE5rSENQanhkOWREYzlhQlNfRnRYTm50RlVOM1NJaENsM2FKa2ZiWE43U0xLdEJmaU9EUTRFdmhrOGlzcWZzc003TzNOVS1YVXA4ZEozN0NfVzR6RmFHOWhPNA",
+      "title": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeklORnNyV0xldmplM2RTd1NwdXZxOFllT0JLZS04eXVtNmoyT2ExVGJhQURSbE5rSENQanhkOWREYzlhQlNfRnRYTm50RlVOM1NJaENsM2FKa2ZiWE43U0xLdEJmaU9EUTRFdmhrOGlzcWZzc003TzNOVS1YVXA4ZEozN0NfVzR6RmFHOWhPNA?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-24T08:14:00.000Z",
+      "description": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的 手机新浪网",
+      "titleZh": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的",
+      "summaryZh": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的 手机新浪网",
+      "detailsZh": "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的 手机新浪网",
       "keyPoints": [
-        "杜兰特的天彻底亮了！追梦格林直言：当初是我们求着他加盟勇士"
+        "火箭拥有出色天赋，杜兰特评价范乔丹和斯玛特，比较准确的"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOMUFvbXZCbWxJM2xJT3JWdzZZWmVyeXNlSDVIaHlsNEpWZklMb0p5UnVSOFhNXzB1ODl5SDdYejYyTnJRMlRIeHFxbmJWeUcycllSQ2h5VGxZMS14UzUtMV9Sc1hjWmR3dF9icVVlNGFHOGNxM2hHUXVKN2dBNVl1TzBacDE",
-      "title": "Viral Social Media Post Falsely Claims Kevin Durant Came Out as ‘Gay’",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUFvbXZCbWxJM2xJT3JWdzZZWmVyeXNlSDVIaHlsNEpWZklMb0p5UnVSOFhNXzB1ODl5SDdYejYyTnJRMlRIeHFxbmJWeUcycllSQ2h5VGxZMS14UzUtMV9Sc1hjWmR3dF9icVVlNGFHOGNxM2hHUXVKN2dBNVl1TzBacDE?oc=5",
-      "source": "heavy.com",
-      "publishedAt": "2026-09-24T03:03:00.000Z",
-      "description": "Viral Social Media Post Falsely Claims Kevin Durant Came Out as ‘Gay’ heavy.com",
-      "titleZh": "Viral Social Media Post Falsely Claims Kevin Durant Came Out as ‘Gay’",
-      "summaryZh": "Viral Social Media Post Falsely Claims Kevin Durant Came Out as ‘Gay’ heavy.com",
-      "detailsZh": "Viral Social Media Post Falsely Claims Kevin Durant Came Out as ‘Gay’ heavy.com",
+      "id": "durant:CBMijwFBVV95cUxQYVFsczZjNDJWSHdrLVFuamhNMWdwY1k5eFdGdmFzTnBJZEwwMFpRT0JPZS1odDFZVVJFZWVWel9FVjhXa1lWQ2M4WUZ3blMyZ2NzQUhDNFFyWVJfRG5Fcnh1V3ljTVdTc1U0Wmd1c0ZFUXhoTW5EUWdDdExyMmN5TXUyUW9lS2hvc3l0anRZRQ",
+      "title": "76人豪阵攻防兼备，杜兰特如何评价分析？",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVFsczZjNDJWSHdrLVFuamhNMWdwY1k5eFdGdmFzTnBJZEwwMFpRT0JPZS1odDFZVVJFZWVWel9FVjhXa1lWQ2M4WUZ3blMyZ2NzQUhDNFFyWVJfRG5Fcnh1V3ljTVdTc1U0Wmd1c0ZFUXhoTW5EUWdDdExyMmN5TXUyUW9lS2hvc3l0anRZRQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-24T05:23:13.000Z",
+      "description": "76人豪阵攻防兼备，杜兰特如何评价分析？ 手机新浪网",
+      "titleZh": "76人豪阵攻防兼备，杜兰特如何评价分析？",
+      "summaryZh": "76人豪阵攻防兼备，杜兰特如何评价分析？ 手机新浪网",
+      "detailsZh": "76人豪阵攻防兼备，杜兰特如何评价分析？ 手机新浪网",
       "keyPoints": [
-        "Viral Social Media Post Falsely Claims Kevin Durant Came Out as ‘Gay’"
+        "76人豪阵攻防兼备，杜兰特如何评价分析？"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxNM2t4ckoycG9kUDMyVXdlTDRNNWJNVEhFZk5DM2pyc1NxcEJJYnNRRU9kVEoxYTRqcGRuRkREUXVSc2E0WlhtbXZnZGlTcThnanQ5TFhhRlNjdmpVTTFVUzFXaUUxbmhoc2FsN21ual9jTjB0a0o4QkpGcmN5QTlYVFFEUC1TdkR0Y2NqNVdxTQ",
-      "title": "Rockets news: Kevin Durant hilariously roasts Amen Thompson on Media Day",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2t4ckoycG9kUDMyVXdlTDRNNWJNVEhFZk5DM2pyc1NxcEJJYnNRRU9kVEoxYTRqcGRuRkREUXVSc2E0WlhtbXZnZGlTcThnanQ5TFhhRlNjdmpVTTFVUzFXaUUxbmhoc2FsN21ual9jTjB0a0o4QkpGcmN5QTlYVFFEUC1TdkR0Y2NqNVdxTQ?oc=5",
-      "source": "sports.yahoo.com",
-      "publishedAt": "2026-09-24T02:54:00.000Z",
-      "description": "Rockets news: Kevin Durant hilariously roasts Amen Thompson on Media Day sports.yahoo.com",
-      "titleZh": "Rockets news: Kevin Durant hilariously roasts Amen Thompson on Media Day",
-      "summaryZh": "Rockets news: Kevin Durant hilariously roasts Amen Thompson on Media Day sports.yahoo.com",
-      "detailsZh": "Rockets news: Kevin Durant hilariously roasts Amen Thompson on Media Day sports.yahoo.com",
+      "id": "durant:CBMic0FVX3lxTE5VbnZKV0F4UTBLVElQSWRUbFZ2alFfbE5mTG5MeUZxSEhxVWZPbkhqRlRkYXJSdGhWZ3dZQ2V4TDd4OTBUWDhVbzh2QnlpUFVncHNERXdSNXZzdVEtWVJJMExRazR5TUZZMG9KUEZxbWZzUVU",
+      "title": "杜兰特吃泡面没给詹姆斯留汤！原来KD吃的是火鸡面",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VbnZKV0F4UTBLVElQSWRUbFZ2alFfbE5mTG5MeUZxSEhxVWZPbkhqRlRkYXJSdGhWZ3dZQ2V4TDd4OTBUWDhVbzh2QnlpUFVncHNERXdSNXZzdVEtWVJJMExRazR5TUZZMG9KUEZxbWZzUVU?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-24T05:22:45.000Z",
+      "description": "杜兰特吃泡面没给詹姆斯留汤！原来KD吃的是火鸡面 手机新浪网",
+      "titleZh": "杜兰特吃泡面没给詹姆斯留汤！原来KD吃的是火鸡面",
+      "summaryZh": "杜兰特吃泡面没给詹姆斯留汤！原来KD吃的是火鸡面 手机新浪网",
+      "detailsZh": "杜兰特吃泡面没给詹姆斯留汤！原来KD吃的是火鸡面 手机新浪网",
       "keyPoints": [
-        "Rockets news: Kevin Durant hilariously roasts Amen Thompson on Media Day"
+        "杜兰特吃泡面没给詹姆斯留汤！原来KD吃的是火鸡面"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiYEFVX3lxTE00OF84Z1B5aTRocDNIeFd5V2pqTzhjdEhuNVg4cV9xNWFHT2pOVV9UOHg4RG52QWNpVXJwaGlLTWk4bEhwZGRyTExmSm1zVU16M2tPVWdTMmJaV1N1STd4aQ",
-      "title": "杜兰特：火箭和中国的情缘从2004年延续至今 很感激能有机会打中国赛",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00OF84Z1B5aTRocDNIeFd5V2pqTzhjdEhuNVg4cV9xNWFHT2pOVV9UOHg4RG52QWNpVXJwaGlLTWk4bEhwZGRyTExmSm1zVU16M2tPVWdTMmJaV1N1STd4aQ?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-09-24T02:10:11.000Z",
-      "description": "杜兰特：火箭和中国的情缘从2004年延续至今 很感激能有机会打中国赛 企鹅体育",
-      "titleZh": "杜兰特：火箭和中国的情缘从2004年延续至今 很感激能有机会打中国赛",
-      "summaryZh": "杜兰特：火箭和中国的情缘从2004年延续至今 很感激能有机会打中国赛 企鹅体育",
-      "detailsZh": "杜兰特：火箭和中国的情缘从2004年延续至今 很感激能有机会打中国赛 企鹅体育",
-      "keyPoints": [
-        "杜兰特：火箭和中国的情缘从2004年延续至今 很感激能有机会打中国赛"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiYEFVX3lxTE95UElhaUlMU0RWN0xOQXgzTmxZYXdxOWxweDVld2t6VENlRl9qd29NdGwtVHVjbEs5OU1pWDI3ZTVRbm1CdTJQZ05uQlRCWnFabTJKUW15c2kyLV9UckdFeg",
-      "title": "杜兰特再次回怼香波特：哭哭啼啼像个娘们 你能拿一冠已经走大运了",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95UElhaUlMU0RWN0xOQXgzTmxZYXdxOWxweDVld2t6VENlRl9qd29NdGwtVHVjbEs5OU1pWDI3ZTVRbm1CdTJQZ05uQlRCWnFabTJKUW15c2kyLV9UckdFeg?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-09-24T01:20:20.000Z",
-      "description": "杜兰特再次回怼香波特：哭哭啼啼像个娘们 你能拿一冠已经走大运了 企鹅体育",
-      "titleZh": "杜兰特再次回怼香波特：哭哭啼啼像个娘们 你能拿一冠已经走大运了",
-      "summaryZh": "杜兰特再次回怼香波特：哭哭啼啼像个娘们 你能拿一冠已经走大运了 企鹅体育",
-      "detailsZh": "杜兰特再次回怼香波特：哭哭啼啼像个娘们 你能拿一冠已经走大运了 企鹅体育",
-      "keyPoints": [
-        "杜兰特再次回怼香波特：哭哭啼啼像个娘们 你能拿一冠已经走大运了"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMivAFBVV95cUxQaDI0V2pHSmNLR0cxLTAyNHdpaTdBN2lzQ0lKNUJIbXF0bThRbUFTQTRuX3hIRlNwWHJIRkJsX0NpMk9MYkUyX3d0NHJiQ0d5OS1xd1c1Tmo5S042WjRGTXlNdWtqdEI0Y0Z4b0s0NExRUXBwNzNoUDNseF84bWVLOWhtSTM3em5iMWktSmFnTDlmeERlX1hqd2NMaTNuRlh5cEY3bnQzOWpFUWVnbFUtcjdrOF9jaWdpZE9pYg",
-      "title": "“His last name is worth so much to that franchise” – Kevin Durant thinks Stephen Curry deserves a piece of Warriors ownership",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDI0V2pHSmNLR0cxLTAyNHdpaTdBN2lzQ0lKNUJIbXF0bThRbUFTQTRuX3hIRlNwWHJIRkJsX0NpMk9MYkUyX3d0NHJiQ0d5OS1xd1c1Tmo5S042WjRGTXlNdWtqdEI0Y0Z4b0s0NExRUXBwNzNoUDNseF84bWVLOWhtSTM3em5iMWktSmFnTDlmeERlX1hqd2NMaTNuRlh5cEY3bnQzOWpFUWVnbFUtcjdrOF9jaWdpZE9pYg?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-09-24T01:17:00.000Z",
-      "description": "“His last name is worth so much to that franchise” – Kevin Durant thinks Stephen Curry deserves a piece of Warriors ownership Basketball Network",
-      "titleZh": "“His last name is worth so much to that franchise” – Kevin Durant thinks Stephen Curry deserves a piece of Warriors ownership",
-      "summaryZh": "“His last name is worth so much to that franchise” – Kevin Durant thinks Stephen Curry deserves a piece of Warriors ownership Basketball Network",
-      "detailsZh": "“His last name is worth so much to that franchise” – Kevin Durant thinks Stephen Curry deserves a piece of Warriors ownership Basketball Network",
-      "keyPoints": [
-        "“His last name is worth so much to that franchise” – Kevin Durant thinks Stephen Curry deserves a piece of Warriors ownership"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNZ2pwSnJwczFUNTdRWFd3Si11M0NQSHUwSW4yaW8xOWcxUFFHWmFZZWg0R0ZFZ2dzVFJuWEJ1eGpPYzVUSThFcTRIc3FRZEhtT1A2UjhpcXp1QmVkNDRHOUQzd2g2Vm9aN05WNG1JTFZ0UlJLdk5JTzBhWlVmUC11ai1ETUM",
-      "title": "气不过！KD再怼香波特：哭哭啼啼的！能混到一冠你已经走大运了",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2pwSnJwczFUNTdRWFd3Si11M0NQSHUwSW4yaW8xOWcxUFFHWmFZZWg0R0ZFZ2dzVFJuWEJ1eGpPYzVUSThFcTRIc3FRZEhtT1A2UjhpcXp1QmVkNDRHOUQzd2g2Vm9aN05WNG1JTFZ0UlJLdk5JTzBhWlVmUC11ai1ETUM?oc=5",
+      "id": "durant:CBMihAFBVV95cUxOY05ic2VEN1I3V2l1Ny1tZHFBQmdzMjJQN1JXVExpbFN0ZDBacFRSMWNUbGRtenh5azMxbG82WFFpck5jbzFFMG5KZkItQXo4dU9hODhiRlFHSU43a0IxUlhJYkJwek9fMm1oemxpOTBITENJYkFfSmFBV003eUFFSzE4Zm4",
+      "title": "杜兰特：在火箭第二年我感到更舒服了 更加熟悉队友&理解球队理念",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY05ic2VEN1I3V2l1Ny1tZHFBQmdzMjJQN1JXVExpbFN0ZDBacFRSMWNUbGRtenh5azMxbG82WFFpck5jbzFFMG5KZkItQXo4dU9hODhiRlFHSU43a0IxUlhJYkJwek9fMm1oemxpOTBITENJYkFfSmFBV003eUFFSzE4Zm4?oc=5",
       "source": "Sina Sports",
-      "publishedAt": "2026-09-24T00:24:26.000Z",
-      "description": "气不过！KD再怼香波特：哭哭啼啼的！能混到一冠你已经走大运了 Sina Sports",
-      "titleZh": "气不过！KD再怼香波特：哭哭啼啼的！能混到一冠你已经走大运了",
-      "summaryZh": "气不过！KD再怼香波特：哭哭啼啼的！能混到一冠你已经走大运了 Sina Sports",
-      "detailsZh": "气不过！KD再怼香波特：哭哭啼啼的！能混到一冠你已经走大运了 Sina Sports",
+      "publishedAt": "2026-09-24T04:31:52.000Z",
+      "description": "杜兰特：在火箭第二年我感到更舒服了 更加熟悉队友&理解球队理念 Sina Sports",
+      "titleZh": "杜兰特：在火箭第二年我感到更舒服了 更加熟悉队友&理解球队理念",
+      "summaryZh": "杜兰特：在火箭第二年我感到更舒服了 更加熟悉队友&理解球队理念 Sina Sports",
+      "detailsZh": "杜兰特：在火箭第二年我感到更舒服了 更加熟悉队友&理解球队理念 Sina Sports",
       "keyPoints": [
-        "气不过！KD再怼香波特：哭哭啼啼的！能混到一冠你已经走大运了"
+        "杜兰特：在火箭第二年我感到更舒服了 更加熟悉队友&理解球队理念"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:search:https://www.sohu.com/a/1079110018_123013454",
-      "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么? ",
-      "url": "https://www.sohu.com/a/1079110018_123013454",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-24T04:46:44.119Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么? ",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxPX0JiMHAyUmxxNlBQSFNqVW5HYTJJTkVqajg0X1U1MTlSTldweEdFU3czbzhRY2VGeWV1NW1nQTkyMFRqMDlhS1RQMjdwVGlyNDZrM3dNMmpYeVJjcV82bWZYeGlJb2tIWUdkalVDT0tYYmg0QlliR0dxdFBMb0JmQ0p4dVg",
+      "title": "杜兰特：范弗里特经历过大场面 但我们不能把重担全压在他身上",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0JiMHAyUmxxNlBQSFNqVW5HYTJJTkVqajg0X1U1MTlSTldweEdFU3czbzhRY2VGeWV1NW1nQTkyMFRqMDlhS1RQMjdwVGlyNDZrM3dNMmpYeVJjcV82bWZYeGlJb2tIWUdkalVDT0tYYmg0QlliR0dxdFBMb0JmQ0p4dVg?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-24T04:31:52.000Z",
+      "description": "杜兰特：范弗里特经历过大场面 但我们不能把重担全压在他身上 Sina Sports",
+      "titleZh": "杜兰特：范弗里特经历过大场面 但我们不能把重担全压在他身上",
+      "summaryZh": "杜兰特：范弗里特经历过大场面 但我们不能把重担全压在他身上 Sina Sports",
+      "detailsZh": "杜兰特：范弗里特经历过大场面 但我们不能把重担全压在他身上 Sina Sports",
       "keyPoints": [
-        "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么? "
+        "杜兰特：范弗里特经历过大场面 但我们不能把重担全压在他身上"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxQWVZnM3djZm9xLWpvUmV1ZHN1THJaa1hSSmwta21tTTVKUmJYREdsdlRQT0lJUlRpanlMYWFPeXU2QUpaT0pUTVg5Vng2OVdueG51U3FoSDJ5X0QyZjFMZW92MnhNVTJOSDRUTlJkU3A4UTAzYk9QMmFCaDJJWi1KcjZSN1M",
+      "title": "杜兰特：休赛期太精彩了我很喜欢 我喜欢看到NBA里的人员流动",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVZnM3djZm9xLWpvUmV1ZHN1THJaa1hSSmwta21tTTVKUmJYREdsdlRQT0lJUlRpanlMYWFPeXU2QUpaT0pUTVg5Vng2OVdueG51U3FoSDJ5X0QyZjFMZW92MnhNVTJOSDRUTlJkU3A4UTAzYk9QMmFCaDJJWi1KcjZSN1M?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-09-24T04:31:52.000Z",
+      "description": "杜兰特：休赛期太精彩了我很喜欢 我喜欢看到NBA里的人员流动 Sina Sports",
+      "titleZh": "杜兰特：休赛期太精彩了我很喜欢 我喜欢看到NBA里的人员流动",
+      "summaryZh": "杜兰特：休赛期太精彩了我很喜欢 我喜欢看到NBA里的人员流动 Sina Sports",
+      "detailsZh": "杜兰特：休赛期太精彩了我很喜欢 我喜欢看到NBA里的人员流动 Sina Sports",
+      "keyPoints": [
+        "杜兰特：休赛期太精彩了我很喜欢 我喜欢看到NBA里的人员流动"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTFBSZXQzaHdKZ2wyZEgyX3ZVZ0d2ajNtNWxhekJKY01FWHN1ZUZRNE9rRDdoZV9ET05tcUdxTDRhY2F1V1Z1MVFUMWRLWQ",
+      "title": "[流言板]杜兰特：我喜欢球员流动，新阵容和新能量会让联盟更有意思",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSZXQzaHdKZ2wyZEgyX3ZVZ0d2ajNtNWxhekJKY01FWHN1ZUZRNE9rRDdoZV9ET05tcUdxTDRhY2F1V1Z1MVFUMWRLWQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-09-24T04:25:27.000Z",
+      "description": "[流言板]杜兰特：我喜欢球员流动，新阵容和新能量会让联盟更有意思 虎扑体育",
+      "titleZh": "[流言板]杜兰特：我喜欢球员流动，新阵容和新能量会让联盟更有意思",
+      "summaryZh": "[流言板]杜兰特：我喜欢球员流动，新阵容和新能量会让联盟更有意思 虎扑体育",
+      "detailsZh": "[流言板]杜兰特：我喜欢球员流动，新阵容和新能量会让联盟更有意思 虎扑体育",
+      "keyPoints": [
+        "[流言板]杜兰特：我喜欢球员流动，新阵容和新能量会让联盟更有意思"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -201,7 +184,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -249,15 +232,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的客观记录，非当日新闻。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页。事实层面，详细记录了其作为知名网络段子手的身份，梳理了其从早期微博互动到后续多平台发展的轨迹。评论部分涉及对其语言风格的分析，指出其擅长运用荒诞幽默解构日常琐事，对中文互联网亚文化有一定影响。传闻方面，页面可能提及部分未证实的跨界合作或私人生活细节，需读者自行甄别。此页面属于固定资料库，旨在提供长期稳定的参考信息，而非时效性报道。",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的客观记录，非时效性新闻。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页。事实层面，记录了其作为知名网络写手的身份，以及其在中文互联网语境下的创作风格演变。评论层面，维基百科编辑者对其在网络语言传播中的作用进行了中立描述，强调其作为文化现象的一部分。传闻层面，页面可能涉及对其早期网络活动的时间线梳理，但需以官方发布为准。此链接为固定的人物资料入口，旨在提供长期稳定的参考信息，而非针对特定日期的动态报道。内容经过多方核实，确保无同名混淆。",
       "keyPoints": [
-        "记录常用笔名与创作风格演变",
-        "梳理主要代表作品与网络影响",
-        "包含部分未经核实的个人传闻"
+        "记录常用笔名与创作风格",
+        "概述作品与网络影响",
+        "提供基础背景资料"
       ],
-      "category": "场外",
-      "importance": 5
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -268,12 +251,12 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "新浪微博超话主页",
-      "summaryZh": "大咕咕咕鸡在微博平台的官方动态发布区与粉丝讨论聚集地。作为固定社交账号入口，展示其公开言论与读者互动情况，非单日新闻事件。",
-      "detailsZh": "此为新浪微博上的超级话题页面，是大咕咕咕鸡及其粉丝的核心交流阵地。事实层面，汇集了其发布的各类博文、转发内容及官方公告，反映了其近期的活跃状态与观点倾向。评论部分体现在粉丝的留言互动中，既有对其作品的赞赏，也有对某些言论的争议性讨论。传闻方面，偶尔会有粉丝在评论区传播关于其行程或新作的流言，缺乏官方证实。该页面是追踪其公开动态的一手来源，但内容碎片化，需结合具体日期进行解读，本质上是一个持续更新的资料索引。",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话社区入口。汇集公开动态、读者讨论及粉丝互动内容，是追踪其最新发声与社群反应的核心渠道。",
+      "detailsZh": "此为新浪微博平台上的“大咕咕咕鸡”超话索引页。事实层面，该页面展示了基于微博API生成的公开动态列表和话题标签统计，反映了其在社交媒体上的活跃度。评论层面，页面本身不产生观点，但通过展示热门评论和转发数据，间接呈现了受众对其内容的反馈倾向。传闻层面，部分置顶或高赞内容可能包含未经证实的轶事，需用户自行甄别。此链接为固定的社交账号资料入口，用于持续监控其公开言论和社群生态，不具备单一新闻事件的属性。数据来源为微博公开接口，具有实时性和权威性。",
       "keyPoints": [
-        "汇集最新公开博文与转发内容",
-        "粉丝互动与争议讨论的集中地",
-        "存在大量未经证实的粉丝传言"
+        "官方超话社区入口",
+        "汇集公开动态与讨论",
+        "反映社群互动热度"
       ],
       "category": "公开发言",
       "importance": 4
@@ -287,14 +270,14 @@
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
       "titleZh": "哔哩哔哩相关视频聚合",
-      "summaryZh": "B站搜索关键词“大咕咕咕鸡”生成的视频列表，包含作品朗读、二创视频及观众评论。作为多媒体资料入口，反映其在视频平台的受众反馈，非特定新闻。",
-      "detailsZh": "该链接指向Bilibili基于关键词的搜索结果页，展示了与大咕咕咕鸡相关的各类视频内容。事实层面，包括其本人或他人上传的作品朗读音频、访谈片段以及粉丝制作的剪辑视频。评论部分通过弹幕和评论区呈现，展现了年轻受众对其内容的接受度与二次创作热情。传闻方面，视频中可能夹杂关于其未来计划或与其他创作者关系的猜测。由于是搜索结果，内容质量参差不齐，既有官方授权内容，也有用户自发上传的非正式素材，适合用于观察其在视频领域的传播广度。",
+      "summaryZh": "B站搜索“大咕咕咕鸡”关键词的结果页。包含其作品朗读音频、二创视频及观众评论，是了解其内容多媒体化传播的重要窗口。",
+      "detailsZh": "该链接指向哔哩哔哩全站搜索结果，关键词为“大咕咕咕鸡”。事实层面，列出了所有标题或简介中包含该词的视频，包括官方上传的作品朗读、UP主制作的解说视频及粉丝剪辑。评论层面，视频下方的弹幕和评论构成了二次创作的舆论场，反映了年轻受众对其文本风格的解读与戏仿。传闻层面，部分二创视频可能夸大或歪曲原意，需谨慎对待。此页面为动态搜索结果，非固定主页，但因其聚合性质，可作为观察其跨平台影响力的工具。内容来源多样，需结合具体视频发布者信誉进行评估。",
       "keyPoints": [
-        "包含作品朗读与粉丝二创视频",
-        "弹幕与评论反映受众真实反馈",
-        "内容混杂官方与非官方素材"
+        "作品朗读与二创视频聚合",
+        "反映年轻受众解读",
+        "跨平台影响力观察窗口"
       ],
-      "category": "讨论",
+      "category": "作品",
       "importance": 3
     },
     {
@@ -306,15 +289,15 @@
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
       "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。回顾其早期创作风格与行业影响，属历史性文献，非当前动态。",
-      "detailsZh": "这是一篇发布于2015年的媒体特稿，聚焦于当时迅速崛起的网络段子手群体，并将大咕咕咕鸡作为典型案例进行分析。事实层面，报道引用了其当时的热门段子及社交媒体数据，还原了彼时的网络语境。评论部分由记者撰写，探讨了此类写作模式对传统文学观念的冲击及商业变现潜力。传闻较少，主要基于当时的公开信息。尽管时间久远，但该文章对于理解其创作起源及早期网络文化环境具有重要参考价值，可作为研究其职业生涯起点的背景资料。",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言生态的影响。属历史性回顾，非近期动态。",
+      "detailsZh": "这是一篇发布于2015年5月12日的媒体文章。事实层面，报道详细梳理了大咕咕咕鸡早期的写作特点，如黑色幽默、反讽手法以及对社会现象的犀利点评，并列举了其代表性段子。评论层面，记者将其置于当时网络段子手崛起的背景下，探讨其对公共话语空间的塑造作用，认为其风格影响了后续一批网络创作者。传闻层面，文中提及的部分早期轶事可能存在记忆偏差，应以当事人自述为准。此内容为历史性文献，对于理解其创作脉络具有重要参考价值，但不代表当前立场或最新动态。",
       "keyPoints": [
-        "回顾2015年前后的创作风格",
-        "分析网络段子手群体的行业生态",
-        "具有历史文献价值的早期报道"
+        "分析早期创作风格",
+        "探讨网络语言影响",
+        "历史性深度回顾"
       ],
       "category": "讨论",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -324,14 +307,16 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "领库KOL账号数据资料",
+      "summaryZh": "第三方数据平台领库提供的微博账号数据分析页。展示粉丝数、互动率等量化指标，用于评估其商业价值与社会关注度。",
+      "detailsZh": "该页面来自领库（Kolstore）数据平台，专门针对微博用户ID 2146965345进行分析。事实层面，提供了精确的粉丝增长曲线、博文数量、平均点赞与转发数等统计数据，客观反映了其账号规模。评论层面，数据分析师可能根据互动质量给出“头部KOL”或“垂直领域专家”的分类标签，但这属于商业评估而非文学批评。传闻层面，数据抓取可能存在延迟或误差，且无法完全反映真实用户构成。此链接为固定的数据档案入口，适用于市场研究与趋势分析，不涉及具体事件报道。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "提供量化传播数据",
+        "评估商业与社会价值",
+        "固定数据档案入口"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     }
   ]
 }
