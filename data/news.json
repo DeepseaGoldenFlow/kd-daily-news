@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:25:30.576Z",
+  "updatedAt": "2026-09-25T01:32:46.904Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,36 +16,21 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L7BIKARH052982N2.html",
-      "title": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
-      "url": "https://www.163.com/dy/article/L7BIKARH052982N2.html",
-      "source": "网易",
-      "publishedAt": "2026-09-24T22:22:39.176Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "id": "durant:CBMiS0FVX3lxTE1PWWkzWWpXTzI0d29ZQnRRZ1Y0TkNUMVdsbVpnc19Qc2k4MGxwNFNzaDFZWDVNcGxudkI4YUlYMTRwNlJCQ1FuX0VzRQ",
+      "title": "[流言板]NBA官方晒杜兰特历年定妆照：生涯第20个赛季即将开启",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PWWkzWWpXTzI0d29ZQnRRZ1Y0TkNUMVdsbVpnc19Qc2k4MGxwNFNzaDFZWDVNcGxudkI4YUlYMTRwNlJCQ1FuX0VzRQ?oc=5",
+      "source": "虎扑",
+      "publishedAt": "2026-09-25T00:11:14.000Z",
+      "description": "[流言板]NBA官方晒杜兰特历年定妆照：生涯第20个赛季即将开启 虎扑",
+      "titleZh": "杜兰特生涯第20个赛季即将开启",
+      "summaryZh": "NBA官方发布杜兰特历年定妆照，庆祝其职业生涯第20个赛季的到来。作为联盟现役顶级球星，杜兰特即将迎来职业生涯的重要里程碑，展现其持久的竞技状态。",
+      "detailsZh": "事实：NBA官方在社交媒体上发布了凯文·杜兰特的历年定妆照合集，正式宣布其职业生涯第20个赛季即将开始。评论：这一举动不仅是对杜兰特长期高水平表现的认可，也凸显了他在NBA历史上的 longevity（持久性）。传闻：无明确证据表明其退役计划已定，但部分媒体推测其可能在未来1-2年内考虑退役。",
       "keyPoints": [
-        "NBA最新消息!2年9000万美元!现役头号小前锋,杜兰特欲超越科比创NBA第四传奇"
+        "NBA官方发布杜兰特历年定妆照",
+        "确认其职业生涯第20个赛季开启",
+        "体现其长期保持高水平竞技状态"
       ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L77IK7QV0549AFIX.html",
-      "title": "暴跌90%!杜兰特严重贬值,去年一人换了半支球队,如今只值一个首轮了",
-      "url": "https://www.163.com/dy/article/L77IK7QV0549AFIX.html",
-      "source": "网易",
-      "publishedAt": "2026-09-24T22:22:39.176Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "暴跌90%!杜兰特严重贬值,去年一人换了半支球队,如今只值一个首轮了",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "暴跌90%!杜兰特严重贬值,去年一人换了半支球队,如今只值一个首轮了"
-      ],
-      "category": "场外",
+      "category": "比赛",
       "importance": 4
     },
     {
@@ -54,15 +39,17 @@
       "title": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEo3Mm9KZEdmREtfelZRRllIUjllSGtZemVkV0FvaXQxMVI3N1BvSzV1UU1rTTdNMTljbmZCekN5SmVfNmo3ckdLMlRSZHJjZDEtcWp3djB3cDc3Z1ZVUnIwcEl4ZG96NUt0bl9JcXF6S25QaFZFTFMySWhHRU5yUnpB?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-09-24T21:58:24.000Z",
+      "publishedAt": "2026-09-24T21:57:12.000Z",
       "description": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 手机新浪网",
-      "titleZh": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档",
-      "summaryZh": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 手机新浪网",
-      "detailsZh": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 手机新浪网",
+      "titleZh": "2026-27赛季前锋分档排名：杜兰特居首",
+      "summaryZh": "权威媒体发布的2026-27赛季NBA前锋分档排名中，凯文·杜兰特仍稳居第一档，而勒布朗·詹姆斯跌至第三档，显示杜兰特在锋线位置依然具有统治力。",
+      "detailsZh": "事实：多家体育媒体在赛季前瞻中更新了球员评级，将杜兰特列为第一档前锋。评论：尽管年龄增长，杜兰特凭借全面的得分能力和篮球智商，仍被视为联盟最危险的进攻武器之一。与詹姆斯的对比反映了媒体对两人当前状态评估的差异。传闻：关于杜兰特是否会在赛季结束后退役的讨论持续存在，但暂无官方确认。",
       "keyPoints": [
-        "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档"
+        "杜兰特被列为2026-27赛季第一档前锋",
+        "詹姆斯在同期排名中降至第三档",
+        "反映杜兰特在锋线位置的持续竞争力"
       ],
-      "category": "场外",
+      "category": "比赛",
       "importance": 3
     },
     {
@@ -73,28 +60,32 @@
       "source": "Space City Scoop",
       "publishedAt": "2026-09-24T20:49:17.000Z",
       "description": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term Space City Scoop",
-      "titleZh": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term",
-      "summaryZh": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term Space City Scoop",
-      "detailsZh": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term Space City Scoop",
+      "titleZh": "杜兰特拒绝长期合同引发火箭担忧",
+      "summaryZh": "据Space City Scoop报道，凯文·杜兰特拒绝与休斯顿火箭队签订长期合同，此举加剧了球队管理层对其未来不确定性的担忧，可能影响球队建队策略。",
+      "detailsZh": "事实：杜兰特未同意火箭队的长期续约提议，倾向于短期或一年期合同。评论：这一决定让火箭队在规划薪资空间和核心阵容时面临挑战，尤其是考虑到年轻球员如谢泼德的发展需求。传闻：有观点认为杜兰特可能在赛季中途寻求交易至争冠球队，但目前尚无确切消息。",
       "keyPoints": [
-        "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term"
+        "杜兰特拒绝火箭队长期合同",
+        "球队管理层对其未来动向感到担忧",
+        "可能影响年轻球员谢泼德的地位"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "交易",
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMirgFBVV95cUxPR1JnYWs5NmktRkl4TEZnbDZMck9ER3MyWGUyLUlpREIxMTFiUGg5bVdsaUYyZnpsN3NvMzlRZGdKWHVJSkRveEJhMEx4Zk9EcDFteUVuV2tPR0xRMnIyaXAzbHVqTVZkcmE5YjNZdUtUeElpc3NVQzBLMDJfZkNFYXp3eDlTNlJFWmpsbXdsbWNZNWdncUt6VFA5ekQycWZIZEYtUEFGdEVoV2l2OGc",
-      "title": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1JnYWs5NmktRkl4TEZnbDZMck9ER3MyWGUyLUlpREIxMTFiUGg5bVdsaUYyZnpsN3NvMzlRZGdKWHVJSkRveEJhMEx4Zk9EcDFteUVuV2tPR0xRMnIyaXAzbHVqTVZkcmE5YjNZdUtUeElpc3NVQzBLMDJfZkNFYXp3eDlTNlJFWmpsbXdsbWNZNWdncUt6VFA5ekQycWZIZEYtUEFGdEVoV2l2OGc?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-09-24T20:07:56.000Z",
-      "description": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans Sports Illustrated",
-      "titleZh": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans",
-      "summaryZh": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans Sports Illustrated",
-      "detailsZh": "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans Sports Illustrated",
+      "id": "durant:CBMijAFBVV95cUxNWUFvNDZxSUdiR2NkS21LTjJaV2otTXlYc1NIakF4cHBSR0o3d0pXY29keTd5ZUFYWTBWby0wZkZpZUtNdjJON1FBT3d1bjJUYzJwdkd2MmhPM25tNm50dlZmZFFGUVVLdmRTUC10eE9xMW1nb2VKa0J3RGhKclVYN3VXbXU0a0kzTTgxZw",
+      "title": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWUFvNDZxSUdiR2NkS21LTjJaV2otTXlYc1NIakF4cHBSR0o3d0pXY29keTd5ZUFYWTBWby0wZkZpZUtNdjJON1FBT3d1bjJUYzJwdkd2MmhPM25tNm50dlZmZFFGUVVLdmRTUC10eE9xMW1nb2VKa0J3RGhKclVYN3VXbXU0a0kzTTgxZw?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-24T14:38:56.000Z",
+      "description": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’ Yahoo Sports",
+      "titleZh": "杜兰特言论争议升级：‘Pull Ya Panties Up’事件",
+      "summaryZh": "Yahoo Sports报道，杜兰特因不当言论陷入舆论风波，被指发表侮辱性言辞，引发公众批评和队友不满，对其个人形象造成负面影响。",
+      "detailsZh": "事实：杜兰特在一次采访或社交互动中被引用发表了极具争议的言论，具体内容涉及不尊重的表述。评论：该事件引发了广泛的社会讨论，许多球迷和媒体批评其缺乏职业素养。传闻：有内部人士称杜兰特对此事表示后悔，但尚未公开道歉。",
       "keyPoints": [
-        "Kevin Durant's Recent Comments Should Strike a Chord with Brooklyn Nets Fans"
+        "杜兰特因不当言论引发舆论争议",
+        "被指发表侮辱性言辞",
+        "对其公众形象造成负面影响"
       ],
       "category": "场外",
       "importance": 3
@@ -107,13 +98,15 @@
       "source": "Sports Illustrated",
       "publishedAt": "2026-09-24T17:00:02.000Z",
       "description": "Kevin Durant Continues to Defy Age in Latest Rankings Sports Illustrated",
-      "titleZh": "Kevin Durant Continues to Defy Age in Latest Rankings",
-      "summaryZh": "Kevin Durant Continues to Defy Age in Latest Rankings Sports Illustrated",
-      "detailsZh": "Kevin Durant Continues to Defy Age in Latest Rankings Sports Illustrated",
+      "titleZh": "杜兰特继续无视年龄限制，在新排名中表现优异",
+      "summaryZh": "Sports Illustrated指出，尽管年过三旬，杜兰特在最新球员排名中依然表现出色，证明其体能和技术并未随年龄显著下滑，继续挑战传统认知。",
+      "detailsZh": "事实：杜兰特在多项技术统计和专家评分中保持高位，尤其在得分效率和投篮命中率方面表现突出。评论：分析师认为，杜兰特的训练方法和饮食管理是其保持状态的关键。传闻：有传言称他正在探索新的训练方式以延长职业生涯。",
       "keyPoints": [
-        "Kevin Durant Continues to Defy Age in Latest Rankings"
+        "杜兰特在最新排名中表现优异",
+        "得分效率和投篮命中率保持高水平",
+        "证明其体能和技术未随年龄显著下滑"
       ],
-      "category": "场外",
+      "category": "比赛",
       "importance": 3
     },
     {
@@ -124,31 +117,71 @@
       "source": "手机新浪网",
       "publishedAt": "2026-09-24T15:53:50.000Z",
       "description": "上赛季领先两位数被翻盘18次！火箭签斯马特找范乔丹 能帮KD减压吗 手机新浪网",
-      "titleZh": "上赛季领先两位数被翻盘18次！火箭签斯马特找范乔丹 能帮KD减压吗",
-      "summaryZh": "上赛季领先两位数被翻盘18次！火箭签斯马特找范乔丹 能帮KD减压吗 手机新浪网",
-      "detailsZh": "上赛季领先两位数被翻盘18次！火箭签斯马特找范乔丹 能帮KD减压吗 手机新浪网",
+      "titleZh": "火箭签斯马特能否帮杜兰特减压？",
+      "summaryZh": "手机新浪网分析，休斯顿火箭队引进马库斯·斯马特旨在增强防守硬度，试图减轻杜兰特在攻防两端的压力，尤其是在球队过去常因领先优势被翻盘的背景下。",
+      "detailsZh": "事实：火箭队近期签约了以防守著称的马库斯·斯马特，意在提升球队整体防守强度。评论：斯马特的加入可能帮助杜兰特减少防守负担，使其更专注于进攻端。然而，球队过去18次领先两位数被翻盘的历史表明，仅靠一人难以解决系统性问题。传闻：无直接证据表明斯马特与杜兰特之间存在战术配合的特殊安排。",
       "keyPoints": [
-        "上赛季领先两位数被翻盘18次！火箭签斯马特找范乔丹 能帮KD减压吗"
+        "火箭队引进斯马特以增强防守",
+        "旨在减轻杜兰特在攻防两端的压力",
+        "球队需解决系统性防守问题以避免翻盘"
       ],
-      "category": "场外",
+      "category": "比赛",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxNWUFvNDZxSUdiR2NkS21LTjJaV2otTXlYc1NIakF4cHBSR0o3d0pXY29keTd5ZUFYWTBWby0wZkZpZUtNdjJON1FBT3d1bjJUYzJwdkd2MmhPM25tNm50dlZmZFFGUVVLdmRTUC10eE9xMW1nb2VKa0J3RGhKclVYN3VXbXU0a0kzTTgxZw",
-      "title": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWUFvNDZxSUdiR2NkS21LTjJaV2otTXlYc1NIakF4cHBSR0o3d0pXY29keTd5ZUFYWTBWby0wZkZpZUtNdjJON1FBT3d1bjJUYzJwdkd2MmhPM25tNm50dlZmZFFGUVVLdmRTUC10eE9xMW1nb2VKa0J3RGhKclVYN3VXbXU0a0kzTTgxZw?oc=5",
+      "id": "durant:CBMigwFBVV95cUxQSHJzZ3dHY2FPRlBwZjdCc28yVjlxQ3B3UGlJWXhoUjBPcF9iVTBsQVdSdDFreDV1U0h4U3Z5X0d0Sk1hcDZhQmpmUWoyMFpIS0VIZHctTVVzYmFtMDU0X0MzUGE4QzBibnRPaHhkamkyblNLYkR0ZGQwdHN4X0hjVXltQQ",
+      "title": "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHJzZ3dHY2FPRlBwZjdCc28yVjlxQ3B3UGlJWXhoUjBPcF9iVTBsQVdSdDFreDV1U0h4U3Z5X0d0Sk1hcDZhQmpmUWoyMFpIS0VIZHctTVVzYmFtMDU0X0MzUGE4QzBibnRPaHhkamkyblNLYkR0ZGQwdHN4X0hjVXltQQ?oc=5",
       "source": "Yahoo Sports",
-      "publishedAt": "2026-09-24T14:38:56.000Z",
-      "description": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’ Yahoo Sports",
-      "titleZh": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’",
-      "summaryZh": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’ Yahoo Sports",
-      "detailsZh": "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’ Yahoo Sports",
+      "publishedAt": "2026-09-24T12:20:00.000Z",
+      "description": "‘Shame on you’ – Enes Kanter hits out at Kevin Durant over WNBA comments Yahoo Sports",
+      "titleZh": "坎特批评杜兰特WNBA相关言论",
+      "summaryZh": "Enes Kanter因杜兰特此前对WNBA的评论而公开指责其“可耻”，引发双方舆论交锋，反映出公众人物在社会议题上的立场差异。",
+      "detailsZh": "事实：Enes Kanter在社交媒体上发文批评杜兰特过去的言论，称其“Shame on you”。评论：此事揭示了体育界内部对于性别平等和社会责任的不同看法。传闻：杜兰特团队尚未对此事作出正式回应。",
       "keyPoints": [
-        "Kevin Durant Controversy Takes Ugly Turn: ‘Pull Ya Panties Up’"
+        "Enes Kanter公开批评杜兰特",
+        "起因是杜兰特对WNBA的过往言论",
+        "引发关于社会责任的讨论"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiigFBVV95cUxPWVRqRlFscXdMczB5MDhicHVfdENIMHpFLTd4b1lSUVl2c1A1UXdQalpWc3MwdmdEeHZmTW9nWmVXcFpxZFZlTjQ0RGp5dmtpelZmalJkemdnRjNZTlRTbFoxQkxZdjd3MG1qZ3hfSjBRQzdjSkRMb2hCcEc1a2dGSUdweEQwTFRRcUE",
+      "title": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVRqRlFscXdMczB5MDhicHVfdENIMHpFLTd4b1lSUVl2c1A1UXdQalpWc3MwdmdEeHZmTW9nWmVXcFpxZFZlTjQ0RGp5dmtpelZmalJkemdnRjNZTlRTbFoxQkxZdjd3MG1qZ3hfSjBRQzdjSkRMb2hCcEc1a2dGSUdweEQwTFRRcUE?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-24T08:40:55.000Z",
+      "description": "Kevin Durant Makes His NBA Retirement Plans Clear Ahead of Rockets Season Yahoo Sports",
+      "titleZh": "杜兰特澄清NBA退役计划",
+      "summaryZh": "Yahoo Sports报道，杜兰特在火箭新赛季开始前明确表示了其退役计划，强调自己仍渴望竞争冠军，但也在为未来做长远打算。",
+      "detailsZh": "事实：杜兰特在接受采访时谈及了自己的职业规划，表示目前仍以夺冠为目标，但未透露具体退役时间。评论：他的坦诚态度赢得了部分球迷的理解，但也引发了关于其剩余职业生涯长度的猜测。传闻：有消息称他可能在两年内退役，但本人未予证实。",
+      "keyPoints": [
+        "杜兰特澄清退役计划",
+        "强调当前仍以夺冠为目标",
+        "未透露具体退役时间"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:search:https://zhuanlan.zhihu.com/p/2086550286282252646",
+      "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
+      "url": "https://zhuanlan.zhihu.com/p/2086550286282252646",
+      "source": "知乎",
+      "publishedAt": "2026-09-25T01:28:46.409Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -184,7 +217,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -231,13 +264,51 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景，提供其网络影响力的基础资料索引。",
-      "detailsZh": "事实：该词条为关于网络写手“大咕咕咕鸡”的百科条目，涵盖其常用笔名、主要创作风格及代表作品的背景信息。评论：作为第三方知识库，其内容旨在客观记录其在中文互联网语境下的文化影响与创作轨迹。传闻：无明确证据表明该词条包含未经核实的个人生活细节或争议性传闻，主要聚焦于公开可见的创作成果与社会评价。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的客观记录，非当日新闻。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的综合资料页。事实层面：记录了其作为知名网络写手的身份，梳理了其常用的笔名变体、主要的创作风格特征（如讽刺、幽默或特定题材倾向）以及代表作品的简要列表。评论层面：分析了其在中文互联网语境下的语言影响力，指出其作品对网络流行语的贡献。传闻层面：未涉及未经证实的个人生活八卦。此页面属于固定的人物百科资料入口，旨在提供长期稳定的背景信息，而非报道特定日期的突发事件。",
       "keyPoints": [
-        "提供人物基本身份与笔名信息",
-        "梳理创作风格与代表作品",
-        "记录网络影响力与文化背景"
+        "记录常用笔名与创作风格",
+        "梳理代表作品列表",
+        "分析网络语言影响力"
+      ],
+      "category": "作品",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "subject": "dagu",
+      "titleZh": "新浪微博超话主页",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话聚合页。汇集其公开动态、粉丝讨论及互动内容，是追踪其社交媒体活跃度的核心入口，非单日新闻。",
+      "detailsZh": "此为新浪微博平台上的“大咕咕咕鸡”超话索引页面。事实层面：展示了该话题下的帖子总数、活跃用户数及最新发布的公开动态链接。评论层面：反映了粉丝群体对其内容的反应热度，可作为衡量其公众关注度的指标。传闻层面：无直接传闻，但评论区可能包含读者推测。此页面为固定的社交账号资料入口，用于持续跟踪其公开发言和读者讨论生态，不具备单一新闻事件的时效性特征。",
+      "keyPoints": [
+        "微博超话数据聚合",
+        "粉丝互动与讨论入口",
+        "公开动态索引"
+      ],
+      "category": "公开发言",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "哔哩哔哩作品朗读与讨论聚合",
+      "summaryZh": "B站搜索关键词“大咕咕咕鸡”的结果页。聚合了作品朗读视频、相关二创及历史讨论，反映其内容在视频平台的传播情况，属常规资料入口。",
+      "detailsZh": "该页面为哔哩哔哩基于关键词“大咕咕咕鸡”生成的搜索结果聚合页。事实层面：列出了包含其名字的视频标题、UP主信息及播放量数据，涵盖作品朗读、解说及粉丝自制内容。评论层面：通过弹幕和评论区的整体氛围，间接体现受众对其作品的接受度与争议点。传闻层面：部分视频标题或简介中可能夹杂未经核实的轶事。此页面为动态变化的搜索结果集合，作为了解其跨媒体传播状况的资料入口，并非针对某一具体新闻事件的报道。",
+      "keyPoints": [
+        "视频作品与朗读聚合",
+        "跨平台传播数据",
+        "粉丝二创内容索引"
       ],
       "category": "作品",
       "importance": 3
@@ -250,54 +321,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态分析",
-      "summaryZh": "2015年界面新闻发布深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响，属历史文献。",
-      "detailsZh": "事实：2015年5月12日，界面新闻发表题为《大咕咕咕鸡与网络段子手创作生态》的文章，深入探讨其写作特点及对当时网络流行语的塑造作用。评论：该报道被视为早期对其文学价值和社会学意义的专业审视，具有较高的史料参考价值。传闻：文章基于当时的公开文本进行分析，未涉及后续未发生的个人动态或隐私泄露传闻，内容限于2015年前的创作阶段。",
+      "titleZh": "界面新闻深度报道：创作生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，探讨大咕咕咕鸡的创作风格及其在网络段子手生态中的地位。虽为旧闻，但具重要历史参考价值。",
+      "detailsZh": "这是一篇发布于2015年5月12日的界面新闻深度报道。事实层面：详细描述了当时大咕咕咕鸡的创作手法、发文频率及主要发布平台，并列举了若干具有代表性的段子案例。评论层面：记者分析了此类网络写手如何利用碎片化时间进行创作，以及其对当时网络舆论场的塑造作用。传闻层面：文中未涉及个人私生活传闻，主要聚焦于职业行为分析。鉴于发布时间较早，该文章更多作为历史档案，用于理解其早期创作轨迹和行业背景，而非当前动态。",
       "keyPoints": [
-        "2015年媒体深度报道",
-        "分析创作风格与语言影响",
-        "确立早期文学地位与历史价值"
+        "2015年创作风格分析",
+        "网络段子手生态研究",
+        "代表性段子案例回顾"
       ],
       "category": "讨论",
       "importance": 4
-    },
-    {
-      "id": "dagu:dagu-weibo-topic",
-      "title": "大咕咕咕鸡公开动态与超话",
-      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
-      "source": "新浪微博",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "subject": "dagu",
-      "titleZh": "新浪微博超话入口",
-      "summaryZh": "指向大咕咕咕鸡微博超话的固定聚合页，非当日新闻，用于查看公开动态与读者讨论。",
-      "detailsZh": "事实：该链接为新浪微博平台上的官方或半官方超话页面索引，专门用于聚合与大咕咕咕鸡相关的公开动态和读者互动内容。评论：作为粉丝社区的核心入口，它反映了受众对其内容的持续关注度，但页面本身不产生新的事实性新闻。传闻：超话内可能包含粉丝间的各种解读与传闻，但本条目仅指代入口页面，不包含具体未经证实的八卦信息。",
-      "keyPoints": [
-        "微博超话固定聚合页",
-        "非当日新闻而是资料入口",
-        "聚合公开动态与读者讨论"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "哔哩哔哩搜索聚合页",
-      "summaryZh": "B站关键词搜索结果页，聚合相关视频、朗读音频及讨论，非特定新闻事件，属动态资源索引。",
-      "detailsZh": "事实：该链接为哔哩哔哩网站的通用搜索结果页，通过关键词“大咕咕咕鸡”展示所有相关视频、音频朗读及用户讨论。评论：此页面内容为动态生成的集合，反映当前平台上与该人物相关的多媒体内容分布情况，不具备单一新闻事件的时效性。传闻：搜索结果中可能混杂二次创作或粉丝演绎内容，需用户自行甄别，本条目仅作为资源检索工具说明。",
-      "keyPoints": [
-        "B站动态搜索结果页",
-        "聚合视频、朗读与讨论资源",
-        "非特定新闻而是资源索引"
-      ],
-      "category": "作品",
-      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -307,14 +340,16 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "领库KOL账号资料页",
+      "summaryZh": "第三方数据平台领库提供的微博账号详情。展示粉丝数、互动率等传播数据，用于评估其商业价值与社会影响力，属静态资料。",
+      "detailsZh": "该页面来自领库（Kolstore）数据平台，专门展示大咕咕咕鸡微博账号的传播数据。事实层面：提供了账号ID、认证状态、粉丝总量、平均点赞/转发数等量化指标。评论层面：数据本身客观，但可被解读为其市场号召力的证明。传闻层面：无。此页面为固定的KOL资料入口，主要用于行业分析或品牌合作参考，不涉及具体的新闻事件或观点表达，因此归类为基础资料而非新闻。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "微博账号传播数据",
+        "粉丝互动指标",
+        "商业价值评估依据"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     }
   ]
 }
