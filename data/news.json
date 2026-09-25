@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T18:38:34.514Z",
+  "updatedAt": "2026-09-25T22:21:30.505Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,41 +16,22 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxNUmd0TUsxYngyaGlhRnFBRks0am96ZWhxbmxaQWJyMWhaQXcyOVY1cjVETkhiejEydXlQd1F3VVlaX1ZlSy1VZ09RSnhVNXJ2VzlwRkhZNjJmeFZuYURqSnk0aDlSazRVdjFvVmRfU1JZUjlIOTRZQjd5N2JPb1BucA",
-      "title": "杜兰特亮相NBA中国赛2026，红绿配色引关注",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmd0TUsxYngyaGlhRnFBRks0am96ZWhxbmxaQWJyMWhaQXcyOVY1cjVETkhiejEydXlQd1F3VVlaX1ZlSy1VZ09RSnhVNXJ2VzlwRkhZNjJmeFZuYURqSnk0aDlSazRVdjFvVmRfU1JZUjlIOTRZQjd5N2JPb1BucA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-25T00:23:00.000Z",
-      "description": "杜兰特亮相NBA中国赛2026，红绿配色引关注 手机新浪网",
-      "titleZh": "杜兰特亮相2026 NBA中国赛",
-      "summaryZh": "2026年9月25日，凯文·杜兰特正式亮相NBA中国赛。其现场着装采用引人注目的红绿配色，引发媒体与球迷广泛关注，展现了其在国际赛场外的商业影响力与个人风格。",
-      "detailsZh": "【事实】据手机新浪网报道，2026年9月25日，凯文·杜兰特出席NBA中国赛活动。他在公开场合的着装选择了醒目的红绿配色方案，这一视觉呈现迅速在社交媒体上引发热议。作为联盟顶级球星，杜兰特的每一次公开露面都备受瞩目，此次中国行不仅展示了其竞技状态，也体现了其在全球范围内的品牌号召力。【评论】分析认为，选择鲜明配色的服装符合杜兰特一贯注重时尚与自我表达的形象，有助于提升赛事关注度。【传闻】目前无关于其在中国赛期间具体训练计划或后续行程的官方详细披露，相关信息以官方发布为准。",
-      "keyPoints": [
-        "杜兰特出席2026 NBA中国赛",
-        "红绿配色着装引发关注",
-        "展现个人时尚影响力"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMiS0FVX3lxTE1PWWkzWWpXTzI0d29ZQnRRZ1Y0TkNUMVdsbVpnc19Qc2k4MGxwNFNzaDFZWDVNcGxudkI4YUlYMTRwNlJCQ1FuX0VzRQ",
       "title": "[流言板]NBA官方晒杜兰特历年定妆照：生涯第20个赛季即将开启",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PWWkzWWpXTzI0d29ZQnRRZ1Y0TkNUMVdsbVpnc19Qc2k4MGxwNFNzaDFZWDVNcGxudkI4YUlYMTRwNlJCQ1FuX0VzRQ?oc=5",
-      "source": "虎扑",
+      "source": "虎扑体育",
       "publishedAt": "2026-09-25T00:11:14.000Z",
-      "description": "[流言板]NBA官方晒杜兰特历年定妆照：生涯第20个赛季即将开启 虎扑",
-      "titleZh": "NBA官方晒杜兰特历年定妆照",
-      "summaryZh": "2026年9月25日，NBA官方社交媒体发布系列图片，回顾凯文·杜兰特职业生涯各时期的定妆照。此举旨在庆祝其即将开启生涯第20个赛季，凸显其长久的职业寿命与历史地位。",
-      "detailsZh": "【事实】虎扑等平台转载消息，NBA官方于2026年9月25日发布了一组涵盖杜兰特不同效力时期（雷霆、勇士、篮网、太阳等）的定妆照合集。该动态明确指出这是为了迎接其职业生涯第20个赛季的到来。【评论】这一举动被广泛解读为联盟对这位超级巨星历史地位的肯定。从新秀到老将，杜兰特始终保持在联盟顶尖行列，其职业生涯长度和稳定性令人惊叹。【传闻】无相关伤病或交易传闻涉及此事件，纯属纪念性质内容。",
+      "description": "[流言板]NBA官方晒杜兰特历年定妆照：生涯第20个赛季即将开启 虎扑体育",
+      "titleZh": "杜兰特生涯第20个赛季即将开启",
+      "summaryZh": "NBA官方发布杜兰特历年定妆照，庆祝其职业生涯迈入第20个赛季。作为联盟现役顶级球星，这一里程碑彰显了其长久的竞技寿命与卓越表现。",
+      "detailsZh": "事实：NBA官方社交媒体账号发布了凯文·杜兰特的历年定妆照合集，明确标注其生涯第20个赛季即将开始。评论：这标志着杜兰特自2007年进入联盟以来，保持了极高的出勤率和竞技状态，是NBA历史上少数能效力20年的球员之一。传闻：无。",
       "keyPoints": [
-        "NBA官方发布生涯定妆照合集",
-        "庆祝生涯第20个赛季开启",
-        "回顾多支球队效力经历"
+        "NBA官方发布杜兰特历年定妆照",
+        "确认其生涯第20个赛季即将开启",
+        "彰显其超长待机的职业寿命"
       ],
       "category": "比赛",
-      "importance": 4
+      "importance": 5
     },
     {
       "subject": "durant",
@@ -60,89 +41,72 @@
       "source": "手机新浪网",
       "publishedAt": "2026-09-24T21:57:12.000Z",
       "description": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 手机新浪网",
-      "titleZh": "美媒排名：杜兰特仍居前锋第一档",
-      "summaryZh": "2026年9月24日，多家媒体发布2026-27赛季NBA前锋分档排名。凯文·杜兰特凭借出色表现稳居第一档，而勒布朗·詹姆斯则跌至第三档，显示出球员间实力对比的变化。",
-      "detailsZh": "【事实】根据手机新浪网等来源报道，在2026-27赛季前夕的前锋位置评级中，凯文·杜兰特被普遍列为第一档球员。相比之下，勒布朗·詹姆斯因年龄和状态因素，排名降至第三档。这反映了当前联盟前锋位置的竞争格局。【评论】尽管杜兰特已步入职业生涯后期，但其技术全面性和得分能力依然使其处于金字塔顶端。这一排名也侧面印证了他在进攻端的持续统治力。【传闻】无证据表明排名变动源于重大伤病或交易流言，主要基于近期比赛数据和专家评估。",
+      "titleZh": "2026-27赛季前锋分档排名：杜兰特居首",
+      "summaryZh": "媒体公布2026-27赛季NBA前锋分档排名，凯文·杜兰特仍稳居第一档，而勒布朗·詹姆斯跌至第三档，凸显杜兰特在锋线位置的统治力。",
+      "detailsZh": "事实：多家体育媒体在赛季前瞻中更新了前锋位置的分档排名，将杜兰特列为第一档（Tier 1）。评论：尽管年龄增长，杜兰特凭借稳定的得分能力和全面的篮球智商，依然被视为联盟最顶级的锋线球员。相比之下，詹姆斯因年龄和伤病管理，排名有所下滑。传闻：无。",
       "keyPoints": [
-        "杜兰特位列2026-27赛季前锋第一档",
-        "詹姆斯排名降至第三档",
-        "体现攻防两端持续竞争力"
+        "媒体更新2026-27赛季前锋排名",
+        "杜兰特稳居第一档",
+        "詹姆斯跌至第三档"
       ],
       "category": "比赛",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMikwFBVV95cUxOa2I2RXNnNXE1Zi1rOEExM2NrU1U0UFMtazlHSEdyeUpYV1VlZkZKVXFraHJjYVlOaldNUW14UW5lcm1LYmtnMm9oc1g4eXBwU05Pa2J4OWhYWW5Vb2tjWlJiUmowWUNpUXVXM2JqLVBpUGV3aEJwQTg0UlU1ZzNKWk54ckFLaWtJVEt0MUdwNHY5Ync",
-      "title": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2I2RXNnNXE1Zi1rOEExM2NrU1U0UFMtazlHSEdyeUpYV1VlZkZKVXFraHJjYVlOaldNUW14UW5lcm1LYmtnMm9oc1g4eXBwU05Pa2J4OWhYWW5Vb2tjWlJiUmowWUNpUXVXM2JqLVBpUGV3aEJwQTg0UlU1ZzNKWk54ckFLaWtJVEt0MUdwNHY5Ync?oc=5",
-      "source": "Space City Scoop",
-      "publishedAt": "2026-09-24T20:49:17.000Z",
-      "description": "Kevin Durant adds fuel to Rockets' fears by refusing to commit long-term Space City Scoop",
-      "titleZh": "杜兰特拒绝长期合同引发火箭担忧",
-      "summaryZh": "Space City Scoop报道，凯文·杜兰特拒绝与休斯顿火箭队签署长期合同，仅接受短期或一年期协议。此举加剧了火箭管理层对阵容稳定性的担忧，可能影响球队长远建队策略。",
-      "detailsZh": "【事实】Space City Scoop指出，杜兰特在与火箭队的谈判中拒绝了长期合约提议，倾向于短期签约。这一立场让火箭管理层感到不安，因为核心球员的长期承诺对于重建或争冠至关重要。【评论】这种“短约”策略可能是杜兰特保持灵活性、避免被绑定在特定体系中的手段，但也给球队带来了不确定性。火箭若无法留住他，前期投入可能付诸东流。【传闻】有猜测称杜兰特可能在赛季中寻求交易，但目前尚无确切消息证实。谢泼德等年轻球员的地位因此受到潜在影响。",
+      "id": "durant:CBMigAFBVV95cUxNUmd0TUsxYngyaGlhRnFBRks0am96ZWhxbmxaQWJyMWhaQXcyOVY1cjVETkhiejEydXlQd1F3VVlaX1ZlSy1VZ09RSnhVNXJ2VzlwRkhZNjJmeFZuYURqSnk0aDlSazRVdjFvVmRfU1JZUjlIOTRZQjd5N2JPb1BucA",
+      "title": "杜兰特亮相NBA中国赛2026，红绿配色引关注",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmd0TUsxYngyaGlhRnFBRks0am96ZWhxbmxaQWJyMWhaQXcyOVY1cjVETkhiejEydXlQd1F3VVlaX1ZlSy1VZ09RSnhVNXJ2VzlwRkhZNjJmeFZuYURqSnk0aDlSazRVdjFvVmRfU1JZUjlIOTRZQjd5N2JPb1BucA?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-25T00:23:00.000Z",
+      "description": "杜兰特亮相NBA中国赛2026，红绿配色引关注 手机新浪网",
+      "titleZh": "杜兰特亮相2026 NBA中国赛",
+      "summaryZh": "凯文·杜兰特出席2026年NBA中国赛活动，其独特的红绿配色造型引发广泛关注，展现了其在国际市场的巨大影响力。",
+      "detailsZh": "事实：杜兰特参加了2026年在华举办的NBA中国赛相关活动。评论：此次亮相进一步巩固了他在亚洲球迷心中的地位，其时尚造型也成为社交媒体热议话题。传闻：无。",
       "keyPoints": [
-        "杜兰特拒绝火箭长期合同",
-        "倾向短期或一年期协议",
-        "增加球队管理不确定性"
-      ],
-      "category": "交易",
-      "importance": 5
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiT0FVX3lxTE9Jb0VQZHhjbE5zdV9PejhCQ2Ztb3dGZTdDaEUzUW11ZnFVemhOVTY3cjJlRjhPcHRfYVlBOV9MajN2dzdzZDhudHc3UVVCdjA",
-      "title": "[流言板]杜兰特回怼香珀特：哭哭啼啼像娘们，你能混个戒指真走运",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Jb0VQZHhjbE5zdV9PejhCQ2Ztb3dGZTdDaEUzUW11ZnFVemhOVTY3cjJlRjhPcHRfYVlBOV9MajN2dzdzZDhudHc3UVVCdjA?oc=5",
-      "source": "虎扑",
-      "publishedAt": "2026-09-25T08:15:04.000Z",
-      "description": "[流言板]杜兰特回怼香珀特：哭哭啼啼像娘们，你能混个戒指真走运 虎扑",
-      "titleZh": "杜兰特回怼香珀特言论",
-      "summaryZh": "针对前队友香珀特关于加盟勇士是“背叛”及看重MVP的批评，杜兰特在社交媒体上强硬回击，称其言论“哭哭啼啼像娘们”，并讽刺对方夺冠靠运气。双方旧怨再次被点燃。",
-      "detailsZh": "【事实】虎扑流言板显示，面对香珀特在采访中将杜兰特加盟勇士描述为“背叛兄弟”以及对其MVP渴望的质疑，杜兰特直接回应，言辞激烈，指责香珀特矫情，并暗示其戒指含金量不足。【评论】这是两人之间长期存在的矛盾再次爆发。香珀特代表部分雷霆旧将视角，而杜兰特则坚持自己的职业选择逻辑。此类互怼虽具娱乐性，但也反映了篮球世界中复杂的团队关系和个人价值观冲突。【传闻】无新证据表明两人私下和解或有进一步合作计划，关系维持现状。",
-      "keyPoints": [
-        "杜兰特怒斥香珀特言论",
-        "反驳“背叛”指控",
-        "讽刺对手夺冠运气成分"
+        "出席2026 NBA中国赛",
+        "红绿配色造型引关注",
+        "展现国际影响力"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQcjJsVFVfR0x5STJ5X0tRa1FmTUctaXBQbnJibC1ZcXE5OGg5Njctb0NrNEFRWDE4UkZ6WEQ0NG5vbGhWRm81Zm9xT2p4elFfMXVCaTNTQnJmdm9zY0pXUE92QVJORzMxYkZyZzZsaE5xblpQZkNfdWIyUXE3b1RvTWR1bXU5Y0Ewa2EyVQ",
-      "title": "NBA震撼4换1交易方案！杜兰特加盟热火联手字母哥，联盟大结局",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjJsVFVfR0x5STJ5X0tRa1FmTUctaXBQbnJibC1ZcXE5OGg5Njctb0NrNEFRWDE4UkZ6WEQ0NG5vbGhWRm81Zm9xT2p4elFfMXVCaTNTQnJmdm9zY0pXUE92QVJORzMxYkZyZzZsaE5xblpQZkNfdWIyUXE3b1RvTWR1bXU5Y0Ewa2EyVQ?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-25T03:13:32.000Z",
-      "description": "NBA震撼4换1交易方案！杜兰特加盟热火联手字母哥，联盟大结局 搜狐网",
-      "titleZh": "网传杜兰特加盟热火联手字母哥",
-      "summaryZh": "搜狐网等自媒体流传一份4换1交易方案，声称杜兰特将加盟迈阿密热火队，与扬尼斯·阿德托昆博联手。此类消息多为球迷幻想或谣言，缺乏官方证实，需谨慎对待。",
-      "detailsZh": "【事实】网络文章提出假设性交易，建议杜兰特离开现有球队加入热火，与字母哥组成双核。然而，截至目前，没有任何NBA官方渠道或可靠记者证实此交易正在讨论或达成。【评论】此类“大结局”式标题通常用于吸引流量。现实中，热火薪资空间、球队需求及杜兰特个人意愿均存在巨大障碍，实现可能性极低。【传闻】此为典型的不实传闻，旨在制造话题。请勿将其视为真实新闻，一切以官方公告为准。",
+      "id": "durant:CBMiT0FVX3lxTE9uQU9jQ1dCTTRfRlc1djREQjVnenlpLXVhRmYzQ0pvTTdiWmZaYnlhN2ltQWdib1h5XzVISldkdnNCRVlSSENDaDZGdS1tX00",
+      "title": "[流言板]美媒晒杜兰特生涯各队总得分：哪支球队会为他退役球衣？",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uQU9jQ1dCTTRfRlc1djREQjVnenlpLXVhRmYzQ0pvTTdiWmZaYnlhN2ltQWdib1h5XzVISldkdnNCRVlSSENDaDZGdS1tX00?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-09-25T03:09:42.000Z",
+      "description": "[流言板]美媒晒杜兰特生涯各队总得分：哪支球队会为他退役球衣？ 虎扑体育",
+      "titleZh": "美媒盘点杜兰特生涯各队总得分",
+      "summaryZh": "美国媒体梳理了杜兰特在雷霆、勇士、篮网及太阳等效力球队期间的总得分数据，并探讨哪支球队可能为其退役球衣。",
+      "detailsZh": "事实：数据统计显示杜兰特在不同球队均有高产出的得分记录。评论：鉴于其在多支球队的长期核心地位和高效率，任何一支他效力超过5年的球队都具备退役球衣的潜力，尤其是俄克拉荷马城雷霆队。传闻：无。",
       "keyPoints": [
-        "网传4换1交易方案",
-        "疑似加盟热火联手字母哥",
-        "缺乏官方证实属谣言"
+        "盘点各队生涯总得分",
+        "讨论退役球衣可能性",
+        "体现多队核心地位"
       ],
-      "category": "交易",
-      "importance": 2
+      "category": "比赛",
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxQdENCbTBBTkFxVUJiU3hOX0VTbnVmanhQU0lGRDdUSEdyNmhrWUdUcF9HTXMyRUNSeHRtYklsMEo2TU5LLTVtRnNvcHNjZzFSdWUwOXVOMHo2ZzlCNVRldGVyWWxJYmR0bmtqRjVzYTBxVzVndEltN0FRUTA4bzNmRlFzVjM",
-      "title": "香波特：KD更看重MVP 可能是因为加盟勇士后夺冠感觉没那么好",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdENCbTBBTkFxVUJiU3hOX0VTbnVmanhQU0lGRDdUSEdyNmhrWUdUcF9HTXMyRUNSeHRtYklsMEo2TU5LLTVtRnNvcHNjZzFSdWUwOXVOMHo2ZzlCNVRldGVyWWxJYmR0bmtqRjVzYTBxVzVndEltN0FRUTA4bzNmRlFzVjM?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-25T14:26:29.000Z",
-      "description": "香波特：KD更看重MVP 可能是因为加盟勇士后夺冠感觉没那么好 Sina Sports",
-      "titleZh": "香波特：KD更看重MVP 可能是因为加盟勇士后夺冠感觉没那么好",
-      "summaryZh": "香波特：KD更看重MVP 可能是因为加盟勇士后夺冠感觉没那么好 Sina Sports",
-      "detailsZh": "香波特：KD更看重MVP 可能是因为加盟勇士后夺冠感觉没那么好 Sina Sports",
+      "id": "durant:CBMi3AFBVV95cUxOcHRkYjBqZGowNXFUaEppSzl2RG9ZbVlldUg0TnU0QVpwLTQ3NGNVRHFuZXFBZWp3Q3Zodk9OXzVkSnoxeWNDTnVYa0Rqb1pmeDV4a2xST1Z6SlVsMWp5WDR3OUhPLWVtS3RQdkY1QV83c29HY0FoNUhQYnNUb2NEdjJvOGlVOWVKbFNNU0pSWW1NQnFPSWZBUDJNRXRYQ2hiWXJzblZuRzczTlhYTXBsVDFLbVMyWjBQVmJSRVFMQVJMb3M2d1djcm40cERiaHBfajZXVFVWZm9hRU9r",
+      "title": "火箭先开营！杜兰特拒限时，谢泼德地位告急？",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcHRkYjBqZGowNXFUaEppSzl2RG9ZbVlldUg0TnU0QVpwLTQ3NGNVRHFuZXFBZWp3Q3Zodk9OXzVkSnoxeWNDTnVYa0Rqb1pmeDV4a2xST1Z6SlVsMWp5WDR3OUhPLWVtS3RQdkY1QV83c29HY0FoNUhQYnNUb2NEdjJvOGlVOWVKbFNNU0pSWW1NQnFPSWZBUDJNRXRYQ2hiWXJzblZuRzczTlhYTXBsVDFLbVMyWjBQVmJSRVFMQVJMb3M2d1djcm40cERiaHBfajZXVFVWZm9hRU9r?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-24T23:04:00.000Z",
+      "description": "火箭先开营！杜兰特拒限时，谢泼德地位告急？ 手机新浪网",
+      "titleZh": "杜兰特拒限时合同，谢泼德地位受疑",
+      "summaryZh": "有报道指出杜兰特拒绝接受限时合同条款，此举引发休斯顿火箭队内部关于年轻球员谢泼德未来地位的讨论。",
+      "detailsZh": "事实：杜兰特在续约或合同谈判中表现出对特定条款的抗拒。评论：这一举动可能影响球队薪资空间规划，进而波及年轻新秀谢泼德的出场时间和发展机会。传闻：具体合同细节未公开，仅为媒体推测。",
       "keyPoints": [
-        "香波特：KD更看重MVP 可能是因为加盟勇士后夺冠感觉没那么好"
+        "杜兰特拒绝限时合同",
+        "影响球队薪资结构",
+        "谢泼德前景存疑"
       ],
-      "category": "场外",
+      "category": "交易",
       "importance": 4
     },
     {
@@ -153,14 +117,54 @@
       "source": "Sina Sports",
       "publishedAt": "2026-09-25T14:25:11.000Z",
       "description": "香波特：杜兰特加盟勇士就像背叛兄弟 这是我对他唯一不满的地方 Sina Sports",
-      "titleZh": "香波特：杜兰特加盟勇士就像背叛兄弟 这是我对他唯一不满的地方",
-      "summaryZh": "香波特：杜兰特加盟勇士就像背叛兄弟 这是我对他唯一不满的地方 Sina Sports",
-      "detailsZh": "香波特：杜兰特加盟勇士就像背叛兄弟 这是我对他唯一不满的地方 Sina Sports",
+      "titleZh": "香珀特批评杜兰特加盟勇士似背叛",
+      "summaryZh": "前队友香珀特公开表示，认为杜兰特当年加盟勇士的行为如同“背叛兄弟”，这是他唯一不满的地方。",
+      "detailsZh": "事实：香珀特在接受采访时发表了上述言论。评论：此类言论属于个人情感表达，反映了部分老将对于团队忠诚度的传统看法，但并不代表客观事实。杜兰特本人随后进行了强硬回怼。传闻：无。",
       "keyPoints": [
-        "香波特：杜兰特加盟勇士就像背叛兄弟 这是我对他唯一不满的地方"
+        "香珀特批评杜兰特加盟勇士",
+        "称其行为似背叛",
+        "引发双方口水战"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiT0FVX3lxTE9Jb0VQZHhjbE5zdV9PejhCQ2Ztb3dGZTdDaEUzUW11ZnFVemhOVTY3cjJlRjhPcHRfYVlBOV9MajN2dzdzZDhudHc3UVVCdjA",
+      "title": "[流言板]杜兰特回怼香珀特：哭哭啼啼像娘们，你能混个戒指真走运",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Jb0VQZHhjbE5zdV9PejhCQ2Ztb3dGZTdDaEUzUW11ZnFVemhOVTY3cjJlRjhPcHRfYVlBOV9MajN2dzdzZDhudHc3UVVCdjA?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-09-25T08:15:04.000Z",
+      "description": "[流言板]杜兰特回怼香珀特：哭哭啼啼像娘们，你能混个戒指真走运 虎扑体育",
+      "titleZh": "杜兰特回怼香珀特：哭哭啼啼像娘们",
+      "summaryZh": "针对香珀特的批评，杜兰特在社交媒体上予以强硬回应，言辞激烈，指责对方缺乏荣誉感，仅靠运气获得戒指。",
+      "detailsZh": "事实：杜兰特发布了包含上述内容的推文或采访片段。评论：这是两人过往矛盾的延续，展现了杜兰特直率且好胜的性格特点。此事件再次引发公众对勇士时期转会争议的讨论。传闻：无。",
+      "keyPoints": [
+        "杜兰特强硬回怼香珀特",
+        "使用激烈言辞",
+        "重申自身荣誉观"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMimAFBVV95cUxOMjdfNUVzWjF0Uk4zczRNNzY0LXRMWjR4ckFJZFVPelRsMk5Vbk9RMmZtNnhMTlh5R1B3U0RtQm5taDNadEk5ajFXSUZuU2RRX29LUEZyTkQwS2JhenUxUHVFZS1vYlNyU0JtSlFXeHJRTFpuYlQ5dnVNNEE5bkNmYkpjaGprZmktVDhQeFNpUVFvMjBGLWxYQw",
+      "title": "The Ideal NBA Trade Partner for Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjdfNUVzWjF0Uk4zczRNNzY0LXRMWjR4ckFJZFVPelRsMk5Vbk9RMmZtNnhMTlh5R1B3U0RtQm5taDNadEk5ajFXSUZuU2RRX29LUEZyTkQwS2JhenUxUHVFZS1vYlNyU0JtSlFXeHJRTFpuYlQ5dnVNNEE5bkNmYkpjaGprZmktVDhQeFNpUVFvMjBGLWxYQw?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-25T14:00:02.000Z",
+      "description": "The Ideal NBA Trade Partner for Kevin Durant Sports Illustrated",
+      "titleZh": "美媒分析杜兰特理想交易下家",
+      "summaryZh": "《体育画报》等媒体撰文分析，若杜兰特寻求交易，哪些球队是最理想的合作伙伴，重点考察争冠实力与阵容匹配度。",
+      "detailsZh": "事实：媒体列出了几支潜在的交易目标球队。评论：分析基于当前联盟格局，强调需要围绕杜兰特构建即战力阵容。传闻：目前并无实际交易发生，仅为理论探讨。",
+      "keyPoints": [
+        "媒体分析潜在交易对象",
+        "评估争冠实力",
+        "阵容匹配度考量"
+      ],
+      "category": "交易",
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -168,7 +172,7 @@
       "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "url": "https://zhuanlan.zhihu.com/p/2086550286282252646",
       "source": "知乎",
-      "publishedAt": "2026-09-25T18:34:49.142Z",
+      "publishedAt": "2026-09-25T22:18:29.200Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -260,15 +264,15 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与身份信息的结构化整理，非实时新闻。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页面。事实层面，记录了其作为知名网络写手的身份，梳理了其常用的笔名变体及主要的创作风格特征。评论层面，分析了其在中文互联网语境下的语言影响力及受众反馈。传闻层面，未涉及未经证实的个人隐私或争议性事件。此页面属于固定的人物百科资料入口，旨在提供长期稳定的背景参考，而非报道特定日期的动态事件。内容经过多方核实，排除了同名无关人物，确保信息准确性。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料，涵盖常用笔名、创作风格及作品背景。该页面为静态人物档案入口，非当日新闻，提供其网络影响与创作生涯的基础事实梳理。",
+      "detailsZh": "此条目为大咕咕咕鸡的综合性人物资料页，主要记录其作为网络写手的公开身份信息。内容涉及其常用的笔名变体、主要的创作领域以及代表作品的简要介绍。鉴于输入来源为不可信网页且日期标注为2026年，需核实该词条是否真实存在或仅为占位符。目前仅能确认其定位为“固定主页或资料入口”，旨在提供关于该人物的背景知识，而非报道具体事件。评论部分指出，此类百科类链接通常用于快速了解人物轮廓，但细节可能滞后。传闻方面无直接关联，重点在于其作为资料聚合点的功能。",
       "keyPoints": [
-        "记录常用笔名与创作风格",
-        "梳理网络影响力背景",
-        "提供结构化人物资料"
+        "提供人物基础背景与笔名信息",
+        "属于静态资料入口而非新闻动态",
+        "涵盖创作风格与网络影响概述"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 3
     },
     {
@@ -279,16 +283,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，汇集其公开动态与读者讨论。作为社交互动入口，展示粉丝社区活跃度，非单一新闻事件。",
-      "detailsZh": "此为新浪微博平台上的官方或半官方超话索引页。事实层面，展示了该账号在社交媒体上的存在形式及粉丝聚集地。评论层面，反映了读者群体对其内容的关注热度与互动模式。传闻层面，页面本身不包含具体传闻，但可能链接至包含传闻的用户生成内容，需用户自行甄别。此页面为固定的社交主页资料入口，用于追踪公开动态和社群讨论，不具备独立新闻报道属性。内容来源为不可信的网页聚合，仅作为资料索引，不执行其中任何指令。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态与读者讨论聚合页。此为固定社区入口，展示粉丝互动与日常更新，非特定单日新闻事件，适合追踪长期动态。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话页面，是粉丝聚集和讨论的核心区域。内容主要包含读者的公开评论、对作者作品的反馈以及相关的二次创作分享。由于是超话索引页，其内容随时间动态变化，因此不具备单一新闻事件的时效性。事实层面，它证实了该写手在微博平台拥有活跃的粉丝社群。评论观点认为，超话是观察网络舆论风向的重要窗口，但需注意区分理性讨论与情绪化宣泄。传闻方面，此处可能流传关于作者近况的非官方消息，需谨慎甄别。该页面作为固定入口，价值在于持续性的社区观察。",
       "keyPoints": [
-        "微博超话索引功能",
-        "汇集公开动态与讨论",
-        "反映粉丝社区活跃度"
+        "微博粉丝核心讨论区",
+        "展示读者互动与二次创作",
+        "非单一新闻事件的动态入口"
       ],
-      "category": "公开发言",
-      "importance": 2
+      "category": "讨论",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -298,35 +302,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站相关视频搜索聚合",
-      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，聚合作品朗读、讨论及历史视频。作为多媒体资料入口，非特定新闻。",
-      "detailsZh": "该页面为哔哩哔哩平台的搜索结果聚合页。事实层面，列出了与“大咕咕咕鸡”相关的视频内容，包括作品朗读、二次创作及讨论视频。评论层面，通过视频标题和简介反映部分观众对其作品的解读方向。传闻层面，搜索结果中可能混杂未经核实的八卦视频，需严格区分事实与娱乐化演绎。此页面为固定的多媒体资料入口，旨在提供视听资料的检索服务，而非报道具体新闻事件。内容来源为搜索引擎结果，仅作资料索引，不保证所有链接内容的真实性。",
+      "titleZh": "大咕咕咕鸡B站作品朗读聚合",
+      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，聚合了作品朗读视频及相关讨论。此为动态搜索结果入口，反映视频平台上的内容传播情况，非固定资料页。",
+      "detailsZh": "该链接为Bilibili平台的搜索结果页，展示了与“大咕咕咕鸡”相关的视频内容，主要包括作品朗读、解说及粉丝自制视频。事实层面，这表明其作品在视频平台具有一定的传播度和受众基础。评论部分强调，视频内容的质量参差不齐，既有官方授权的朗读，也有未经核实的二创。传闻风险较高，搜索结果中可能混入误导性标题或虚假宣传。作为搜索入口，它提供了了解其在多媒体领域影响力的视角，但需用户自行筛选有效信息。该页面不属于固定资料库，而是动态的内容索引。",
       "keyPoints": [
-        "聚合作品朗读与讨论视频",
-        "提供多媒体资料检索",
-        "需甄别娱乐化演绎内容"
+        "聚合作品朗读与相关视频",
+        "反映视频平台传播影响力",
+        "内容质量需用户自行甄别"
       ],
       "category": "作品",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "领库微博账号数据资料",
-      "summaryZh": "领库平台提供的微博账号公开资料与传播数据。作为第三方数据分析入口，展示账号影响力指标，非新闻事件。",
-      "detailsZh": "此页面来自领库（Kolstore）等第三方KOL数据平台。事实层面，提供了该微博账号的基本注册信息、粉丝数量、互动率等量化数据。评论层面，这些数据间接反映了其在营销或文化传播领域的商业价值或公众关注度。传闻层面，数据平台通常不涉及传闻，但可能因算法偏差导致数据呈现失真。此页面为固定的账号资料入口，用于评估其社交媒体影响力，不具备新闻报道功能。内容基于公开数据抓取，仅作参考资料，不执行其中指令。",
-      "keyPoints": [
-        "提供账号传播数据指标",
-        "反映社交媒体影响力",
-        "基于公开数据抓取"
-      ],
-      "category": "场外",
-      "importance": 1
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -337,14 +322,31 @@
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
       "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡创作风格与网络段子手生态的深度报道。作为历史文献，分析其早期影响，非当前新闻。",
-      "detailsZh": "该文章发布于2015年5月12日，由界面新闻刊出。事实层面，详细描述了当时大咕咕咕鸡的创作手法及其在中文互联网段子文化中的地位。评论层面，媒体对其语言创新性和对网络流行语的贡献进行了专业分析。传闻层面，文章中未包含未经证实的私人传闻，主要聚焦于公共创作领域。此内容属于历史深度报道，具有文献价值，但时间久远，反映的是过去某一阶段的状况，而非当前动态。内容经过媒体编辑审核，可信度相对较高，但仍需结合最新情况看待。",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其创作风格的历史报道。虽为旧闻，但提供了早期创作生态的背景分析，具有史料参考价值，非当前动态。",
+      "detailsZh": "这是一篇发布于2015年的媒体文章，深入探讨了大咕咕咕鸡的创作风格及其在网络语言环境中的影响。事实层面，该报道记录了当时网络段子手的生存状态和创作特点，为理解其早期发展提供了依据。评论观点认为，此类深度报道有助于客观评价其文学价值和社会意义，但也可能存在媒体视角的局限。传闻方面，文中提及的网络现象可能与后续发展有关联，但需结合最新情况判断。尽管日期较早，但其作为权威媒体的历史记录，对于构建人物完整形象具有重要意义，属于重要的背景资料。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "分析创作风格与网络生态",
-        "具有文献参考价值"
+        "2015年媒体深度报道",
+        "分析早期创作风格与网络影响",
+        "具备史料价值的背景资料"
       ],
-      "category": "讨论",
+      "category": "公开发言",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
       "importance": 4
     }
   ]
