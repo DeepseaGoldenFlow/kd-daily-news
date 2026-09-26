@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T17:12:31.681Z",
+  "updatedAt": "2026-09-26T19:53:24.522Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,22 +16,88 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMikgFBVV95cUxPZldIallxSUp0c2lDTXM1YmdhRkxibkQ5UGxHdzhXM0NvdEVIOWZ1TXpMWU9qVlEtcm9mVjVuMHozTlpRRXQ1ZWZSdjBpV0M4MzhNVDJJMzAyalplcXA5dl90WVJSZ1Z1alBEZFh6SkNKR2x3aTJ3MFY2T2xEeElnNlJNcTR6T0xWdGhtcnEwUXVVdw",
-      "title": "杜兰特现身火箭训练日，备战NBA中国赛2026",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZldIallxSUp0c2lDTXM1YmdhRkxibkQ5UGxHdzhXM0NvdEVIOWZ1TXpMWU9qVlEtcm9mVjVuMHozTlpRRXQ1ZWZSdjBpV0M4MzhNVDJJMzAyalplcXA5dl90WVJSZ1Z1alBEZFh6SkNKR2x3aTJ3MFY2T2xEeElnNlJNcTR6T0xWdGhtcnEwUXVVdw?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-26T06:46:12.000Z",
-      "description": "杜兰特现身火箭训练日，备战NBA中国赛2026 手机新浪网",
-      "titleZh": "杜兰特现身火箭训练日备战NBA中国赛",
-      "summaryZh": "据手机新浪网报道，凯文·杜兰特于2026年9月26日现身休斯顿火箭队训练日。此次亮相旨在为即将举行的2026年NBA中国赛进行赛前备战与宣传，引发球迷广泛关注。",
-      "detailsZh": "事实：2026年9月26日，杜兰特出现在火箭队训练基地，参与球队日常训练活动。官方媒体确认其目的是为NBA中国赛做准备。评论：此举显示杜兰特仍保持高水平竞技状态，且与火箭队关系融洽。传闻：无明确交易或伤病传闻关联此事件。",
+      "id": "durant:CBMiugFBVV95cUxPMURiWHo4NjgzTmM5dDlYVG1GR2x5Y24zRXhodEJKT08zZmcwWHVDZGtzMnhjX01hdVc1SFRkNVEteDRYdTd0ZDBFR0F2STg1NUN1Tl9pS3B3aFhHbGNHM1pfNExJVE1kMXhTRGdKMXEwYnNBOFFrNkJDRjlJaGVXcXRuV0xCenVZdFZuRFpjUG9BZFZSQVpMMEdpZ3R2dEFwM1k1cW5YN2x0SXBYd2YySmJ5UEhBNGRvc1E",
+      "title": "Kevin Durant’s NBA Career Almost Started With Different Team",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMURiWHo4NjgzTmM5dDlYVG1GR2x5Y24zRXhodEJKT08zZmcwWHVDZGtzMnhjX01hdVc1SFRkNVEteDRYdTd0ZDBFR0F2STg1NUN1Tl9pS3B3aFhHbGNHM1pfNExJVE1kMXhTRGdKMXEwYnNBOFFrNkJDRjlJaGVXcXRuV0xCenVZdFZuRFpjUG9BZFZSQVpMMEdpZ3R2dEFwM1k1cW5YN2x0SXBYd2YySmJ5UEhBNGRvc1E?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-26T19:00:01.000Z",
+      "description": "Kevin Durant’s NBA Career Almost Started With Different Team Sports Illustrated",
+      "titleZh": "Kevin Durant’s NBA Career Almost Started With Different Team",
+      "summaryZh": "Kevin Durant’s NBA Career Almost Started With Different Team Sports Illustrated",
+      "detailsZh": "Kevin Durant’s NBA Career Almost Started With Different Team Sports Illustrated",
       "keyPoints": [
-        "杜兰特现身火箭训练日",
-        "备战2026年NBA中国赛",
-        "展现良好竞技状态"
+        "Kevin Durant’s NBA Career Almost Started With Different Team"
       ],
-      "category": "比赛",
+      "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMicEFVX3lxTE5yUVp1R3JoRlFHOGY2OV9tR0FPT0g4RFhoRzNYdU1WOUFhRHpsZUY4YXFRVkItLVNEX0tUdlBrVWdmZ1hVVHNLUnZENGpBaEQ1YUlOYnBRVnVuLTZvYm80azAzSG8tbm92alV4VzA0U1g",
+      "title": "杜兰特亲承出战2028奥运，期待与库里联手，美国男篮格局巨变",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUVp1R3JoRlFHOGY2OV9tR0FPT0g4RFhoRzNYdU1WOUFhRHpsZUY4YXFRVkItLVNEX0tUdlBrVWdmZ1hVVHNLUnZENGpBaEQ1YUlOYnBRVnVuLTZvYm80azAzSG8tbm92alV4VzA0U1g?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-26T15:58:19.000Z",
+      "description": "杜兰特亲承出战2028奥运，期待与库里联手，美国男篮格局巨变 手机新浪网",
+      "titleZh": "杜兰特亲承出战2028奥运，期待与库里联手，美国男篮格局巨变",
+      "summaryZh": "杜兰特亲承出战2028奥运，期待与库里联手，美国男篮格局巨变 手机新浪网",
+      "detailsZh": "杜兰特亲承出战2028奥运，期待与库里联手，美国男篮格局巨变 手机新浪网",
+      "keyPoints": [
+        "杜兰特亲承出战2028奥运，期待与库里联手，美国男篮格局巨变"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE51ZXVtMDA2LUFhZWFUal9HYkxoUHdKNVRNaS1MRnEyQ0ZaQmhaTUQ5WUJQUFlsb25iTF9yZGlFZk5za0g4akhCTTczVQ",
+      "title": "[流言板]奥登：康利在当年被严重低估，杜兰特一眼就知道他必成大器",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51ZXVtMDA2LUFhZWFUal9HYkxoUHdKNVRNaS1MRnEyQ0ZaQmhaTUQ5WUJQUFlsb25iTF9yZGlFZk5za0g4akhCTTczVQ?oc=5",
+      "source": "虎扑",
+      "publishedAt": "2026-09-26T13:59:52.000Z",
+      "description": "[流言板]奥登：康利在当年被严重低估，杜兰特一眼就知道他必成大器 虎扑",
+      "titleZh": "[流言板]奥登：康利在当年被严重低估，杜兰特一眼就知道他必成大器",
+      "summaryZh": "[流言板]奥登：康利在当年被严重低估，杜兰特一眼就知道他必成大器 虎扑",
+      "detailsZh": "[流言板]奥登：康利在当年被严重低估，杜兰特一眼就知道他必成大器 虎扑",
+      "keyPoints": [
+        "[流言板]奥登：康利在当年被严重低估，杜兰特一眼就知道他必成大器"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiiAFBVV95cUxOeVlBMHRoYmpfT0hWUURaYnVya0VyMmxLWVd6S1NxYlJONkNsU053c0FlcTZoLWEwUExvZTB6YW43M2xTSXBQZ0MyaXZjQ3NQeDBGTEdydXlXT0g2RFVyaEJ0blctZktnZkJiS2diaE9DT2Izd1k5Q29Zdi1ROXd6TkN3VEJ0ZzJX",
+      "title": "詹姆斯第18太低了！他也必须高于库里、杜兰特、莱昂纳德！",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVlBMHRoYmpfT0hWUURaYnVya0VyMmxLWVd6S1NxYlJONkNsU053c0FlcTZoLWEwUExvZTB6YW43M2xTSXBQZ0MyaXZjQ3NQeDBGTEdydXlXT0g2RFVyaEJ0blctZktnZkJiS2diaE9DT2Izd1k5Q29Zdi1ROXd6TkN3VEJ0ZzJX?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-09-26T12:31:09.000Z",
+      "description": "詹姆斯第18太低了！他也必须高于库里、杜兰特、莱昂纳德！ 搜狐网",
+      "titleZh": "詹姆斯第18太低了！他也必须高于库里、杜兰特、莱昂纳德！",
+      "summaryZh": "詹姆斯第18太低了！他也必须高于库里、杜兰特、莱昂纳德！ 搜狐网",
+      "detailsZh": "詹姆斯第18太低了！他也必须高于库里、杜兰特、莱昂纳德！ 搜狐网",
+      "keyPoints": [
+        "詹姆斯第18太低了！他也必须高于库里、杜兰特、莱昂纳德！"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihwFBVV95cUxPN3BCeVg2Z0VGaE1NcEd1TVJyX0FvbkdfaklEdkQ0V3ZRQzJuc1oyQ2pCREJJMEI3Zkh4ZjJXUTlaQ1pleHdxUERmV2xyNFBSMFlLOF9vNjIwWmNveGs4WGtaM05TM2UtVFJXVTZ4NTlDSnFoMExzUTd0dzFIUUlpS2c0YjNlWEk",
+      "title": "Stephen Curry Sets Historic NBA Record Passing LeBron James, Kevin Durant & More With New Warriors Deal",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3BCeVg2Z0VGaE1NcEd1TVJyX0FvbkdfaklEdkQ0V3ZRQzJuc1oyQ2pCREJJMEI3Zkh4ZjJXUTlaQ1pleHdxUERmV2xyNFBSMFlLOF9vNjIwWmNveGs4WGtaM05TM2UtVFJXVTZ4NTlDSnFoMExzUTd0dzFIUUlpS2c0YjNlWEk?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-09-26T11:30:00.000Z",
+      "description": "Stephen Curry Sets Historic NBA Record Passing LeBron James, Kevin Durant & More With New Warriors Deal Yahoo Sports",
+      "titleZh": "Stephen Curry Sets Historic NBA Record Passing LeBron James, Kevin Durant & More With New Warriors Deal",
+      "summaryZh": "Stephen Curry Sets Historic NBA Record Passing LeBron James, Kevin Durant & More With New Warriors Deal Yahoo Sports",
+      "detailsZh": "Stephen Curry Sets Historic NBA Record Passing LeBron James, Kevin Durant & More With New Warriors Deal Yahoo Sports",
+      "keyPoints": [
+        "Stephen Curry Sets Historic NBA Record Passing LeBron James, Kevin Durant & More With New Warriors Deal"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -41,131 +107,48 @@
       "source": "虎扑",
       "publishedAt": "2026-09-26T07:16:18.000Z",
       "description": "[流言板]火箭官方分享火箭众将故意干扰杜兰特罚球的有趣视频 虎扑",
-      "titleZh": "火箭众将故意干扰杜兰特罚球引趣闻",
-      "summaryZh": "火箭官方社交媒体分享了一段有趣视频，展示火箭球员在训练中故意干扰杜兰特罚球的场景。这一互动体现了球队内部的轻松氛围及杜兰特与队友间的默契。",
-      "detailsZh": "事实：火箭官方发布视频，内容为球员在训练中干扰杜兰特罚球。评论：这属于球队内部娱乐活动，反映团队凝聚力。传闻：无负面解读。",
+      "titleZh": "[流言板]火箭官方分享火箭众将故意干扰杜兰特罚球的有趣视频",
+      "summaryZh": "[流言板]火箭官方分享火箭众将故意干扰杜兰特罚球的有趣视频 虎扑",
+      "detailsZh": "[流言板]火箭官方分享火箭众将故意干扰杜兰特罚球的有趣视频 虎扑",
       "keyPoints": [
-        "火箭官方分享趣味视频",
-        "球员故意干扰杜兰特罚球",
-        "体现球队轻松氛围"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiTkFVX3lxTE96LU90aFlUYk1fUWFkY0ZScmtYbkJycFVaYmdoUDFzQzNJVnN6bkhiMXBmVWFRcjBzaHdNNHFFSVdYRGhTMmtUNGxLUEpnUQ",
-      "title": "[流言板]火媒：杜兰特20岁时场均25.3分、30岁26.0分、37岁还是26分",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96LU90aFlUYk1fUWFkY0ZScmtYbkJycFVaYmdoUDFzQzNJVnN6bkhiMXBmVWFRcjBzaHdNNHFFSVdYRGhTMmtUNGxLUEpnUQ?oc=5",
-      "source": "虎扑",
-      "publishedAt": "2026-09-26T04:33:02.000Z",
-      "description": "[流言板]火媒：杜兰特20岁时场均25.3分、30岁26.0分、37岁还是26分 虎扑",
-      "titleZh": "火媒数据：杜兰特20岁至37岁得分稳定",
-      "summaryZh": "虎扑流言板引用火箭媒体数据指出，杜兰特在20岁时场均25.3分，30岁时26.0分，即便到了37岁依然能保持场均26分的输出，凸显其惊人的得分持久力。",
-      "detailsZh": "事实：引用具体数据对比杜兰特不同年龄段的场均得分。评论：证明其进攻效率随年龄增长未显著下降，是历史级得分手。传闻：无。",
-      "keyPoints": [
-        "20岁场均25.3分",
-        "30岁场均26.0分",
-        "37岁仍场均26分",
-        "展现得分持久性"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE5PdFdpbzdzeXZsSnE0eWpQOWdkOW1yWmFQcVItSU92VkRmdE9PUE9yRFhISHBRMFlZQjRuTUZyRmR6Y2Q4bGZtMk1mdw",
-      "title": "[流言板]历史最高总收入：库里6.52亿、杜兰特5.98亿、詹姆斯5.92亿",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PdFdpbzdzeXZsSnE0eWpQOWdkOW1yWmFQcVItSU92VkRmdE9PUE9yRFhISHBRMFlZQjRuTUZyRmR6Y2Q4bGZtMk1mdw?oc=5",
-      "source": "虎扑",
-      "publishedAt": "2026-09-26T04:03:01.000Z",
-      "description": "[流言板]历史最高总收入：库里6.52亿、杜兰特5.98亿、詹姆斯5.92亿 虎扑",
-      "titleZh": "历史总收入排名：库里第一，杜兰特第二",
-      "summaryZh": "虎扑流言板数据显示，截至2026年9月，斯蒂芬·库里以6.52亿美元总收入的生涯总收入高居历史第一，杜兰特以5.98亿美元紧随其后，超越詹姆斯的5.92亿美元。",
-      "detailsZh": "事实：列出库里、杜兰特、詹姆斯的生涯总收入具体数值及排名。评论：反映杜兰特长期的高薪合同及其商业价值。传闻：无。",
-      "keyPoints": [
-        "库里总收入6.52亿美元居首",
-        "杜兰特5.98亿美元位列第二",
-        "超越詹姆斯成为历史第二高薪"
+        "[流言板]火箭官方分享火箭众将故意干扰杜兰特罚球的有趣视频"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxORDlYejFsMjJSV2thWEZGNWxLOFJOeGpKSlFiMG5OSnZlSXBjbktOSV9zNjNPTExuZ21aWkNLVDVhN3pGci1WTFQ4ejZWNVVPa3g3dGJhRjg1N0h0eWhoVTctdHN6Qk5GVDBJRnA5bW5zaVBOVWxjWlVvMVlfdFNMY0ZYQy1aNDN2QkVIVDd4aw",
-      "title": "英雄惺惺相惜，杜兰特如何评价詹姆斯的生涯之路？",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDlYejFsMjJSV2thWEZGNWxLOFJOeGpKSlFiMG5OSnZlSXBjbktOSV9zNjNPTExuZ21aWkNLVDVhN3pGci1WTFQ4ejZWNVVPa3g3dGJhRjg1N0h0eWhoVTctdHN6Qk5GVDBJRnA5bW5zaVBOVWxjWlVvMVlfdFNMY0ZYQy1aNDN2QkVIVDd4aw?oc=5",
+      "id": "durant:CBMijAFBVV95cUxNYUNYQV85czFCcXNkakNoczE3RDZpbXhuckM1SE5vVGZMYm5RWlo2OEN3OTgxOG1HMEUwVjNYNGdyYWdzamNydU5TT1R0MW0wWThtTnFnelN2TUgtQ0tuRzNBdXRkb3BXZ0dhaHhXZnliMzI1bVM5cU4xUmFYdjdqb0pweWNEWEFyb0UyaA",
+      "title": "热火3换1报价杜兰特？若联手字母哥，NBA是否真要大结局了",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUNYQV85czFCcXNkakNoczE3RDZpbXhuckM1SE5vVGZMYm5RWlo2OEN3OTgxOG1HMEUwVjNYNGdyYWdzamNydU5TT1R0MW0wWThtTnFnelN2TUgtQ0tuRzNBdXRkb3BXZ0dhaHhXZnliMzI1bVM5cU4xUmFYdjdqb0pweWNEWEFyb0UyaA?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-09-26T07:09:53.000Z",
+      "description": "热火3换1报价杜兰特？若联手字母哥，NBA是否真要大结局了 搜狐网",
+      "titleZh": "热火3换1报价杜兰特？若联手字母哥，NBA是否真要大结局了",
+      "summaryZh": "热火3换1报价杜兰特？若联手字母哥，NBA是否真要大结局了 搜狐网",
+      "detailsZh": "热火3换1报价杜兰特？若联手字母哥，NBA是否真要大结局了 搜狐网",
+      "keyPoints": [
+        "热火3换1报价杜兰特？若联手字母哥，NBA是否真要大结局了"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMikgFBVV95cUxPZldIallxSUp0c2lDTXM1YmdhRkxibkQ5UGxHdzhXM0NvdEVIOWZ1TXpMWU9qVlEtcm9mVjVuMHozTlpRRXQ1ZWZSdjBpV0M4MzhNVDJJMzAyalplcXA5dl90WVJSZ1Z1alBEZFh6SkNKR2x3aTJ3MFY2T2xEeElnNlJNcTR6T0xWdGhtcnEwUXVVdw",
+      "title": "杜兰特现身火箭训练日，备战NBA中国赛2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZldIallxSUp0c2lDTXM1YmdhRkxibkQ5UGxHdzhXM0NvdEVIOWZ1TXpMWU9qVlEtcm9mVjVuMHozTlpRRXQ1ZWZSdjBpV0M4MzhNVDJJMzAyalplcXA5dl90WVJSZ1Z1alBEZFh6SkNKR2x3aTJ3MFY2T2xEeElnNlJNcTR6T0xWdGhtcnEwUXVVdw?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-09-26T05:06:00.000Z",
-      "description": "英雄惺惺相惜，杜兰特如何评价詹姆斯的生涯之路？ 手机新浪网",
-      "titleZh": "杜兰特评价詹姆斯生涯之路",
-      "summaryZh": "手机新浪网报道，杜兰特对勒布朗·詹姆斯的职业生涯进行了评价，表达了两位超级巨星之间的惺惺相惜之情，探讨了彼此在联盟中的竞争与尊重。",
-      "detailsZh": "事实：杜兰特公开评价詹姆斯生涯。评论：体现老将间的相互认可。传闻：无。",
+      "publishedAt": "2026-09-26T06:46:12.000Z",
+      "description": "杜兰特现身火箭训练日，备战NBA中国赛2026 手机新浪网",
+      "titleZh": "杜兰特现身火箭训练日，备战NBA中国赛2026",
+      "summaryZh": "杜兰特现身火箭训练日，备战NBA中国赛2026 手机新浪网",
+      "detailsZh": "杜兰特现身火箭训练日，备战NBA中国赛2026 手机新浪网",
       "keyPoints": [
-        "杜兰特评价詹姆斯生涯",
-        "表达惺惺相惜之情",
-        "探讨竞争与尊重"
+        "杜兰特现身火箭训练日，备战NBA中国赛2026"
       ],
       "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMigwFBVV95cUxQSlZTaUZCSExZeG4zLXZhdXNPbXRzUUhwQ1JPN0htMEJVRi1tOXlkcGRZMFpkdmFCRUhKbnR5c3hfU1MwZUhyei12VmtFcGRaTm55d3NKU1lOUmc1WHlyUHlNQjNPMVkzUl8xa25MYzNWSEJ0ZUVxVWtjcTh0LTFIaEdldw",
-      "title": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlZTaUZCSExZeG4zLXZhdXNPbXRzUUhwQ1JPN0htMEJVRi1tOXlkcGRZMFpkdmFCRUhKbnR5c3hfU1MwZUhyei12VmtFcGRaTm55d3NKU1lOUmc1WHlyUHlNQjNPMVkzUl8xa25MYzNWSEJ0ZUVxVWtjcTh0LTFIaEdldw?oc=5",
-      "source": "finance.sina.com.cn",
-      "publishedAt": "2026-09-26T04:51:24.000Z",
-      "description": "2026-27NBA前锋分档排名:杜兰特仍居第一档，詹姆斯跌至第三档 finance.sina.com.cn",
-      "titleZh": "2026-27赛季前锋分档：杜兰特居第一档",
-      "summaryZh": "新浪财经报道，在2026-27赛季NBA前锋分档排名中，杜兰特凭借出色表现稳居第一档，而詹姆斯则因状态下滑跌至第三档，凸显杜兰特在锋线位置的统治力。",
-      "detailsZh": "事实：杜兰特被列为2026-27赛季前锋第一档，詹姆斯为第三档。评论：反映媒体对两人当前状态的评估差异。传闻：无。",
-      "keyPoints": [
-        "杜兰特居前锋第一档",
-        "詹姆斯跌至第三档",
-        "体现状态差异"
-      ],
-      "category": "比赛",
       "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNd0loUTFxMDhZRm9kNHBOVXZmQnp2dFdoXzhMNEY1WjJ4b3R3VDcxRk02cUxNa0stdjdxbjFFOFJFeWtTMUdBSEFYc3R6c3BpM3FYMkRETjlxSFFSUHhuZWFiWW9nUXQtampCaVVwejQ1cThva3hUNzNFb1RYQV9ySmVmaG4",
-      "title": "历史首现！詹姆斯、杜兰特和库里均无缘ESPN百大球星前十榜单",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0loUTFxMDhZRm9kNHBOVXZmQnp2dFdoXzhMNEY1WjJ4b3R3VDcxRk02cUxNa0stdjdxbjFFOFJFeWtTMUdBSEFYc3R6c3BpM3FYMkRETjlxSFFSUHhuZWFiWW9nUXQtampCaVVwejQ1cThva3hUNzNFb1RYQV9ySmVmaG4?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-26T02:25:24.000Z",
-      "description": "历史首现！詹姆斯、杜兰特和库里均无缘ESPN百大球星前十榜单 Sina Sports",
-      "titleZh": "詹姆斯、杜兰特和库里无缘ESPN百大球星前十",
-      "summaryZh": "新浪体育报道，ESPN发布的百大球星榜单中，詹姆斯、杜兰特和库里均未能进入前十，这是NBA历史上首次出现三位同时代超巨同时缺席前十的情况。",
-      "detailsZh": "事实：三人未进入ESPN百大球星前十。评论：反映新一代球员的崛起及榜单评选标准的变化。传闻：无。",
-      "keyPoints": [
-        "三人无缘ESPN百大前十",
-        "历史首次出现",
-        "反映新老交替"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQaWZueVA3VVR0ODRrZHE5ZzZ4VXhBUFBRZlJrZjg3MGZYLUhqRHU2QjRqTzVZeXNmOWM0cnR4Z3RFODNpQXA5bHhpMDhFdUtQeGVVOGtMeVNlWXY3OW9CTmFzMDRqZXE5dU1fcVRKY1lwNEN6akQtd2NsWjRTMnFOTFFsbDNWc3JRY0swNHFnQQ",
-      "title": "NBA最强防守球员得主：巅峰杜兰特科比最难防守",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWZueVA3VVR0ODRrZHE5ZzZ4VXhBUFBRZlJrZjg3MGZYLUhqRHU2QjRqTzVZeXNmOWM0cnR4Z3RFODNpQXA5bHhpMDhFdUtQeGVVOGtMeVNlWXY3OW9CTmFzMDRqZXE5dU1fcVRKY1lwNEN6akQtd2NsWjRTMnFOTFFsbDNWc3JRY0swNHFnQQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-26T05:36:00.000Z",
-      "description": "NBA最强防守球员得主：巅峰杜兰特科比最难防守 手机新浪网",
-      "titleZh": "美媒评最难防守球员：巅峰杜兰特与科比并列",
-      "summaryZh": "手机新浪网文章指出，在NBA最强防守球员得主视角下，巅峰时期的杜兰特与科比·布莱恩特被视为最难防守的球员，强调其进攻端的不可阻挡性。",
-      "detailsZh": "事实：美媒观点认为巅峰杜兰特最难防守。评论：基于其身高、技术和投篮能力。传闻：无。",
-      "keyPoints": [
-        "巅峰杜兰特被认为最难防守",
-        "与科比并列",
-        "强调进攻威胁"
-      ],
-      "category": "比赛",
-      "importance": 2
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -249,15 +232,16 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供关于其网络影响力的基础信息。",
-      "detailsZh": "此为固定人物资料入口，非当日新闻。内容涵盖大咕咕咕鸡作为网络写手的基本档案，包括其活跃平台、代表作品类型以及在中文互联网语境下的独特地位。事实部分记录其公开身份与主要活动轨迹；评论部分涉及对其写作风格的学术或媒体评价；传闻部分需结合其他信源核实。该页面旨在提供结构化背景知识，便于读者快速了解其创作生态与公众形象。",
+      "summaryZh": "该词条记录了网络写手大咕咕咕鸡的常用笔名、创作风格及作品概况。作为人物背景资料入口，汇总了其在中国互联网语境下的影响力与相关争议，非当日新闻。",
+      "detailsZh": "事实：该页面为维基百科中关于“大咕咕咕鸡”的人物条目，主要涵盖其作为网络写手的身份认定、代表作品列表以及创作风格的演变历程。评论：该词条通常被读者用作了解该写手基本信息的权威参考，但需注意维基内容可能随时间更新或存在编辑争议。传闻：部分早期版本曾涉及对其言论边界的讨论，但核心内容聚焦于公开可查的创作成果。此条目属于固定资料入口，旨在提供长期稳定的背景信息，不具备时效性新闻特征，用户应将其视为静态档案而非动态报道。",
       "keyPoints": [
-        "提供人物基本档案与创作背景",
-        "记录主要作品与网络影响力",
-        "区分事实记录与外部评价"
+        "记录常用笔名与创作风格",
+        "汇总代表作品与网络影响",
+        "属于固定背景资料入口",
+        "非当日动态新闻"
       ],
-      "category": "场外",
-      "importance": 5
+      "category": "作品",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -267,16 +251,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博官方认证的超级话题聚合页，汇集该写手的公开动态、粉丝讨论及互动内容。",
-      "detailsZh": "此为固定主页入口，用于追踪其社交媒体活跃度。事实层面展示其发布的公开博文、转发内容及粉丝互动数据；评论层面反映读者对其近期观点的反应；传闻层面可能包含未经证实的八卦或谣言，需用户自行甄别。该页面是观察其公众形象和即时舆论风向的重要窗口，但不构成独立新闻报道。",
+      "titleZh": "大咕咕咕鸡微博超话主页",
+      "summaryZh": "这是大咕咕咕鸡在新浪微博的官方超话聚合页，汇集其公开动态与读者讨论。作为社交媒体的固定主页入口，用于追踪其日常发声与粉丝互动，非特定事件新闻。",
+      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话（Super Topic），是粉丝聚集、讨论其作品及查看其最新微博动态的主要平台。评论：超话内的内容多为碎片化信息，包括转发、评论及二次创作，反映了其在中文互联网社区中的活跃度。传闻：超话内可能存在未经证实的谣言或过度解读，需结合其本人账号发布内容进行甄别。此页面为固定的社交媒体资料入口，旨在提供持续的动态追踪渠道，不应被误读为某条具体新闻事件的报道。",
       "keyPoints": [
-        "聚合公开社交媒体动态",
-        "反映粉丝社区实时讨论",
-        "需甄别传闻与事实"
+        "微博官方超话聚合页",
+        "汇集公开动态与读者讨论",
+        "反映社区活跃度",
+        "属固定社交主页入口"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "公开发言",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -286,34 +271,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频聚合",
-      "summaryZh": "哔哩哔哩搜索结果页，集中展示与其相关的视频朗读、二创内容及历史影像资料。",
-      "detailsZh": "此为搜索聚合功能，非特定新闻事件。事实部分列出存在的视频标题、播放量及上传者信息；评论部分体现观众对视频内容的反馈；传闻部分可能涉及视频背后的未公开故事。该入口帮助用户发现其跨平台内容传播情况，但具体内容真实性需依据视频本身判断。",
+      "titleZh": "大咕咕咕鸡B站视频搜索聚合",
+      "summaryZh": "哔哩哔哩上的关键词搜索结果页，聚合了与大咕咕咕鸡相关的视频朗读、解说及历史讨论。作为多媒体内容的检索入口，非单一视频新闻。",
+      "detailsZh": "事实：该链接为B站的通用搜索接口，输入“大咕咕咕鸡”后展示的视频包括其作品朗读、UP主解说、相关梗文化视频等。评论：这些视频内容质量参差不齐，既有官方授权的朗读，也有粉丝自制的娱乐向内容，构成了其数字足迹的一部分。传闻：部分视频标题可能使用夸张手法吸引点击，内容真实性需观众自行判断。此页面为动态生成的搜索结果集合，属于多媒体资料索引入口，不具备独立新闻事件的属性，主要用于回顾和检索相关视听内容。",
       "keyPoints": [
-        "聚合跨平台视频内容",
-        "展示二创与朗读作品",
-        "依赖具体视频内容核实"
+        "B站视频内容检索入口",
+        "包含朗读与解说视频",
+        "内容来源多样化",
+        "属多媒体资料索引"
       ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博账号数据",
-      "summaryZh": "第三方数据平台提供的微博账号详细资料，包含粉丝数、互动率等传播指标。",
-      "detailsZh": "此为静态数据档案，非新闻。事实部分记录账号ID、认证状态及量化传播数据；评论部分无直接体现；传闻部分不适用。该页面主要用于分析其商业价值或社会关注度，数据可能存在滞后性，仅供参考。",
-      "keyPoints": [
-        "提供账号量化传播数据",
-        "反映商业与社会关注度",
-        "数据可能存在滞后"
-      ],
-      "category": "场外",
+      "category": "作品",
       "importance": 2
     },
     {
@@ -324,16 +291,34 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年发表的关于其创作风格与网络语言影响的历史报道，回顾早期创作生态。",
-      "detailsZh": "此为历史性新闻，非当前动态。事实部分描述当时的创作环境与语言现象；评论部分包含记者与专家的分析；传闻部分较少。该报道具有重要史料价值，但时效性较低，仅适用于研究其早期发展轨迹，不反映现状。",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。作为历史媒体档案，提供早期舆论视角，非当前动态。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，由界面新闻出品，深入探讨了大咕咕咕鸡作为网络段子手的崛起过程、写作特点及其对当时网络流行语的塑造作用。评论：这篇报道代表了传统媒体对新兴网络写手的早期关注，具有较高的史料价值，但也受限于当时的认知局限。传闻：文中提及的部分行业现象可能已随时间推移而改变，需结合当下语境理解。此条目为历史新闻报道存档，属于固定资料范畴，用于研究其早期公众形象，不构成对当前事件的即时报道。",
       "keyPoints": [
-        "回顾早期创作风格",
-        "分析网络语言影响",
-        "具史料价值但时效低"
+        "2015年历史深度报道",
+        "分析创作风格与语言影响",
+        "具有早期史料价值",
+        "属历史新闻存档"
       ],
-      "category": "作品",
-      "importance": 3
+      "category": "讨论",
+      "importance": 5
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "keyPoints": [
+        "大咕咕咕鸡微博公开账号资料"
+      ],
+      "category": "场外",
+      "importance": 4
     }
   ]
 }
