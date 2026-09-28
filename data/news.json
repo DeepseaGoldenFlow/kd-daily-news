@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T00:48:14.915Z",
+  "updatedAt": "2026-09-28T06:56:08.376Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,172 +16,149 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:CBMitgFBVV95cUxQVWp4UHpUVVFHSklqaDJuX01LX01qa3pIZzdRcXVUeEtlSmtwVVdyQk9vUENMSUVwRXQxbkVHV2h4V1lycWM1MFpvQ2lUOEswMlpod05EYmY1Qld6SU1iLUx3UmZGTUtXeW1vYnVSY3RJODhPV19WUm14YUhkazc5ZGYyOWVMYkhWbU9LN1NFWkpiM2cyRmI5Zlp4eGd5OGFvc1AtX3BMaHloYmM3eGUyQWxWRXdqdw",
+      "title": "“Fresh new energy is always good” - Kevin Durant explains why he embraces the NBA’s era of player movement",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWp4UHpUVVFHSklqaDJuX01LX01qa3pIZzdRcXVUeEtlSmtwVVdyQk9vUENMSUVwRXQxbkVHV2h4V1lycWM1MFpvQ2lUOEswMlpod05EYmY1Qld6SU1iLUx3UmZGTUtXeW1vYnVSY3RJODhPV19WUm14YUhkazc5ZGYyOWVMYkhWbU9LN1NFWkpiM2cyRmI5Zlp4eGd5OGFvc1AtX3BMaHloYmM3eGUyQWxWRXdqdw?oc=5",
+      "source": "basketballnetwork.net",
+      "publishedAt": "2026-09-28T03:51:00.000Z",
+      "description": "“Fresh new energy is always good” - Kevin Durant explains why he embraces the NBA’s era of player movement basketballnetwork.net",
+      "titleZh": "杜兰特谈球员流动时代：新鲜能量总是好的",
+      "summaryZh": "杜兰特公开回应NBA球员频繁流动现象，表示这种环境带来“新鲜能量”，他对此持积极拥抱态度，认为这有助于保持竞技状态的新鲜感。",
+      "detailsZh": "事实：在近期接受basketballnetwork.net采访时，杜兰特被问及如何看待当今NBA球员频繁转会和球队重组的时代。他明确表示：“Fresh new energy is always good”（新鲜的新能量总是好的），并解释了自己为何能很好地适应这种流动性。评论：这一表态反映了杜兰特作为联盟老将的职业心态，他不抗拒变化，反而将其视为激励自身的动力。传闻：目前无具体交易传闻关联此言论，更多是其个人哲学阐述。",
+      "keyPoints": [
+        "杜兰特公开谈论NBA球员流动现状",
+        "他认为新环境带来积极的新鲜能量",
+        "展现其适应变化的职业态度"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
       "id": "durant:CBMikwFBVV95cUxNR2JCbHlmcnppS0tzSVduOUd6Q1MwQTNoM0hRczh0VFZta04zVk4zdm9raVhmMW5Fb2ZBQ0pXOUE5V2RfZzJISEVMUnRfeGphVGI3eDZLTzliQ2JkWGt1UUZhSEFzSUYtWGZNWVpjVXJKUTdCVkxJSnNGQmtBZlJ0VEVJcUJicWVraUJYQkNlcmc3VGc",
       "title": "Rockets' long-overdue Kevin Durant decision stands in the way of a championship",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2JCbHlmcnppS0tzSVduOUd6Q1MwQTNoM0hRczh0VFZta04zVk4zdm9raVhmMW5Fb2ZBQ0pXOUE5V2RfZzJISEVMUnRfeGphVGI3eDZLTzliQ2JkWGt1UUZhSEFzSUYtWGZNWVpjVXJKUTdCVkxJSnNGQmtBZlJ0VEVJcUJicWVraUJYQkNlcmc3VGc?oc=5",
       "source": "Hoops Habit",
       "publishedAt": "2026-09-27T22:00:00.000Z",
       "description": "Rockets' long-overdue Kevin Durant decision stands in the way of a championship Hoops Habit",
-      "titleZh": "美媒分析：杜兰特留队成火箭争冠阻碍",
-      "summaryZh": "Hoops Habit发文指出，休斯顿火箭队长期未对凯文·杜兰特的去留做出明确决定，这一悬而未决的状态正成为球队冲击总冠军的主要障碍。",
-      "detailsZh": "该评论文章分析了火箭队的现状，认为管理层在凯文·杜兰特合同到期前的决策滞后影响了球队的战略部署。文章指出，这种不确定性让其他潜在竞争对手得以从容布局，而火箭队则因核心球员的去留不明，难以在阵容深度和战术体系上做出最优调整。作者强调，若杜兰特选择离队或续约，火箭需立即采取相应行动以填补空缺或巩固优势，目前的拖延策略不利于争冠目标的实现。此为媒体观点，非官方声明。",
+      "titleZh": "分析称火箭对杜兰特的决策滞后阻碍争冠",
+      "summaryZh": "Hoops Habit文章指出，休斯顿火箭队在对凯文·杜兰特去留问题上的长期犹豫不决，已成为球队冲击总冠军的主要障碍，需尽快做出明确决定。",
+      "detailsZh": "事实：体育媒体Hoops Habit发表分析文章，标题为《火箭队久拖不决的杜兰特决定站在冠军之路的对立面》。文章核心观点是火箭管理层或教练组在如何处理这位超级巨星的角色或合同问题上存在拖延。评论：该报道属于战术与阵容构建层面的深度分析，强调时间窗口的重要性。传闻：文中未提及具体的交易对象或薪资细节，主要聚焦于管理层的决策效率对球队上限的影响。",
       "keyPoints": [
-        "杜兰特去留问题悬而未决",
-        "火箭队战略部署受阻",
-        "媒体认为这是争冠主要障碍"
+        "媒体批评火箭队决策过程缓慢",
+        "认为不确定性影响球队争冠前景",
+        "呼吁尽快明确杜兰特在体系中的定位"
       ],
-      "category": "交易",
+      "category": "比赛",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxQb1VieFFDU2JQNi1EU3BfdmVRd1F3XzRzOEdPeGNlV3Y0RGtrOWhna3FZaUlvUGNHODNFQ2FWMUNLZGtvNzd4OTRMR0x0dHR3UkVIZXJjYzhtY2JXQXRmWWRCQW9IRjhTUlg1ZC1BT0FRT3g0ek5ORWZRTnM3anJjV09R",
-      "title": "火箭签下斯玛特补强还能避开奢侈税 斯通得感谢杜兰特降薪三千万",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1VieFFDU2JQNi1EU3BfdmVRd1F3XzRzOEdPeGNlV3Y0RGtrOWhna3FZaUlvUGNHODNFQ2FWMUNLZGtvNzd4OTRMR0x0dHR3UkVIZXJjYzhtY2JXQXRmWWRCQW9IRjhTUlg1ZC1BT0FRT3g0ek5ORWZRTnM3anJjV09R?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-27T05:34:39.000Z",
-      "description": "火箭签下斯玛特补强还能避开奢侈税 斯通得感谢杜兰特降薪三千万 手机新浪网",
-      "titleZh": "杜兰特降薪助火箭避开奢侈税并签下斯玛特",
-      "summaryZh": "据新浪体育报道，凯文·杜兰特通过大幅降薪约三千万美元，帮助休斯顿火箭队成功签下杰森·斯玛特，同时有效规避了高额奢侈税，提升了球队薪资灵活性。",
-      "detailsZh": "报道指出，火箭队总经理拉斐尔·斯通在构建争冠阵容时面临薪资压力。凯文·杜兰特主动降低薪资要求，为球队创造了巨大的操作空间。利用这一空间，火箭队不仅完成了对防守悍将杰森·斯玛特的签约，还确保了整体薪资结构的健康，避免了触发惩罚性奢侈税。此举被视为杜兰特对球队忠诚度的体现，也展示了其作为老将的职业素养，旨在最大化球队的夺冠竞争力。此消息涉及具体的财务操作和人员变动，具有较高关注度。",
+      "id": "durant:CBMie0FVX3lxTFBsU1hsN2JaSUNxTUoxUkNWX3FJWEtVdmtEckkxNmN0U2ZyOVJhZGtiZHl2LTh5OXI4Vjd4cnItd1FZR3dxU0pLWlNSVGZwT0VQa0kycUkweloxalYyRU4wN3Z2MVpRYlNveEM0RmEwdklhUklsamtldTk2SQ",
+      "title": "Ime Udoka is feeling the heat of Kevin Durant's pressure",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsU1hsN2JaSUNxTUoxUkNWX3FJWEtVdmtEckkxNmN0U2ZyOVJhZGtiZHl2LTh5OXI4Vjd4cnItd1FZR3dxU0pLWlNSVGZwT0VQa0kycUkweloxalYyRU4wN3Z2MVpRYlNveEM0RmEwdklhUklsamtldTk2SQ?oc=5",
+      "source": "Space City Scoop",
+      "publishedAt": "2026-09-27T21:30:00.000Z",
+      "description": "Ime Udoka is feeling the heat of Kevin Durant's pressure Space City Scoop",
+      "titleZh": "乌度卡承受来自杜兰特的压力",
+      "summaryZh": "Space City Scoop报道指出，火箭主帅伊梅·乌度卡在执教过程中正感受到来自凯文·杜兰特的高标准要求与潜在压力，双方互动引发关注。",
+      "detailsZh": "事实：据Space City Scoop披露，主教练乌度卡面临来自队内核心杜兰特带来的竞争压力和战术执行要求。评论：这暗示了杜兰特在更衣室和训练场上的影响力巨大，甚至可能超越教练组的权威范围，形成一种双向制约关系。传闻：暂无证据表明两人发生冲突，更多描述的是高水平球员对教练提出的高标准挑战。",
       "keyPoints": [
-        "杜兰特降薪约三千万美元",
-        "火箭成功签下杰森·斯玛特",
-        "球队有效避开奢侈税处罚"
+        "乌度卡面临杜兰特的执教压力",
+        "反映老将球员对球队的高标准",
+        "揭示教练组与核心球员的互动张力"
       ],
-      "category": "交易",
-      "importance": 5
+      "category": "比赛",
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTFBzdWJaNVBMNjY0WnFQWGJpYWg0S280SW5kUTNJSUpQcGtGZ0RGQlRHeFF6YU91Q0NvQkl6TUh1MzJhb2NwaHhyV0cxYw",
-      "title": "新赛季火箭的媒体日上。杜兰特上脚了KD 19的绿苹果配色。依旧有气质！",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzdWJaNVBMNjY0WnFQWGJpYWg0S280SW5kUTNJSUpQcGtGZ0RGQlRHeFF6YU91Q0NvQkl6TUh1MzJhb2NwaHhyV0cxYw?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-09-27T10:35:06.000Z",
-      "description": "新赛季火箭的媒体日上。杜兰特上脚了KD 19的绿苹果配色。依旧有气质！ 虎扑体育",
-      "titleZh": "杜兰特亮相火箭媒体日，脚踩KD 19绿苹果配色",
-      "summaryZh": "在新赛季火箭队媒体日上，凯文·杜兰特身着新战袍亮相，并脚踩KD 19系列“绿苹果”配色球鞋，展现了良好的竞技状态与个人风格。",
-      "detailsZh": "虎扑体育报道了火箭队新赛季媒体日的现场情况。凯文·杜兰特作为球队核心之一出席活动，其着装和装备细节受到关注。他选择了KD 19系列的“绿苹果”配色球鞋，这一设计既呼应了火箭队的部分色彩元素，又保持了杜兰特个人品牌的辨识度。现场照片显示杜兰特精神饱满，气质依旧。此次亮相标志着火箭队新赛季备战工作的正式开始，球迷和媒体对其新赛季表现充满期待。此为赛事相关的常规动态。",
+      "id": "durant:CBMiuAFBVV95cUxNS0M0emE3U1pmVmFLLTU1UXQwVHB4ODNJMnRaOEpudnhKaTEtUk45MDNoaWVRN3dsUzdlNE9kU3JvbVczRVpnYzZJckN2MnFYTzkxTWpGMkV5MkQ3YVVkNldHMjJSMUxxR0kxSUVSbjZoejZKTUE5N0NPdkJqMHF2TS1mMkZJVTItZVdVaDhuX2tqaXpVOEc0ZzE2NmhwUmZqMFdrMVZteTFudlF5UlE0YURrN1ZVcV9S",
+      "title": "Jabari Smith Jr. Reveals Takeaways From Rockets Teammate Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0M0emE3U1pmVmFLLTU1UXQwVHB4ODNJMnRaOEpudnhKaTEtUk45MDNoaWVRN3dsUzdlNE9kU3JvbVczRVpnYzZJckN2MnFYTzkxTWpGMkV5MkQ3YVVkNldHMjJSMUxxR0kxSUVSbjZoejZKTUE5N0NPdkJqMHF2TS1mMkZJVTItZVdVaDhuX2tqaXpVOEc0ZzE2NmhwUmZqMFdrMVZteTFudlF5UlE0YURrN1ZVcV9S?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-09-27T19:00:00.000Z",
+      "description": "Jabari Smith Jr. Reveals Takeaways From Rockets Teammate Kevin Durant Sports Illustrated",
+      "titleZh": "小史密斯分享从队友杜兰特身上的收获",
+      "summaryZh": "贾巴里·史密斯向Sports Illustrated透露，他从火箭队友凯文·杜兰特身上学到了很多篮球技巧与职业态度，特别是训练中的严谨性。",
+      "detailsZh": "事实：年轻球员贾巴里·史密斯在接受Sports Illustrated采访时，详细描述了与杜兰特共事的益处。他提到杜兰特在训练中从不马虎，这种职业精神对他产生了深远影响。评论：这是典型的球星传帮带案例，展示了杜兰特在场外的领袖价值。传闻：无相关交易或伤病传闻，纯属球员成长记录。",
       "keyPoints": [
-        "出席火箭队新赛季媒体日",
-        "穿着KD 19绿苹果配色球鞋",
-        "展现良好竞技状态"
+        "小史密斯高度评价杜兰特的职业态度",
+        "杜兰特训练严谨成为年轻球员榜样",
+        "体现球队内部的知识传承"
       ],
       "category": "比赛",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxPaTNUU3hlbFMwOVh1dEQ0SkgtclRXaGsxMU9VNF9RNWRtd0cyR3ZCcEZBdU9fckRUTnBPbGF2TXMxVFdJN0Z4cklFZFBwZWJuZWlHSUZYT1RUcWVEdm5RNm5SZnhQRWxfZmZYZDgyR2xzTmpKQ2YxZVVWbGJZS2hWZV9rNXg",
-      "title": "斯玛特：杜兰特在38岁这个年纪仍不断进化 他对篮球有纯粹的热爱",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTNUU3hlbFMwOVh1dEQ0SkgtclRXaGsxMU9VNF9RNWRtd0cyR3ZCcEZBdU9fckRUTnBPbGF2TXMxVFdJN0Z4cklFZFBwZWJuZWlHSUZYT1RUcWVEdm5RNm5SZnhQRWxfZmZYZDgyR2xzTmpKQ2YxZVVWbGJZS2hWZV9rNXg?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-27T10:24:24.000Z",
-      "description": "斯玛特：杜兰特在38岁这个年纪仍不断进化 他对篮球有纯粹的热爱 Sina Sports",
-      "titleZh": "斯玛特评价杜兰特：38岁仍不断进化",
-      "summaryZh": "队友杰森·斯玛特高度评价凯文·杜兰特，称其在38岁高龄依然保持不断的自我进化，并对篮球保持着纯粹的热爱，这令队友印象深刻。",
-      "detailsZh": "Sina Sports引用了火箭队新援杰森·斯玛特的采访内容。斯玛特表示，在与杜兰特共事的过程中，被其职业态度深深打动。尽管已年近四十，杜兰特在训练和比赛中的投入度丝毫未减，技术层面仍在持续精进。斯玛特认为，杜兰特对篮球的纯粹热爱是他能够长期保持在联盟顶尖水平的关键因素。这一评价从队友视角揭示了杜兰特职业生涯长青的内在动力，也为球队注入了积极的信心。",
+      "id": "durant:CBMiS0FVX3lxTE0yZ3BwUjdHVnk1eG5rZVR3Y1dhWUhZSTVkZmppdERWMXEtTFd2clhpTnc1SlBjVUR2S1F3Z2llRkJwS2xQUzVfWG9EVQ",
+      "title": "[流言板]7年前的今天，杜兰特和欧文作为篮网球员首次亮相媒体日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yZ3BwUjdHVnk1eG5rZVR3Y1dhWUhZSTVkZmppdERWMXEtTFd2clhpTnc1SlBjVUR2S1F3Z2llRkJwS2xQUzVfWG9EVQ?oc=5",
+      "source": "虎扑",
+      "publishedAt": "2026-09-27T16:43:35.000Z",
+      "description": "[流言板]7年前的今天，杜兰特和欧文作为篮网球员首次亮相媒体日 虎扑",
+      "titleZh": "回顾七年前杜兰特与欧文篮网媒体日首秀",
+      "summaryZh": "虎扑流言板发布历史回顾，纪念七年前凯文·杜兰特与凯里·欧文作为篮网新援首次亮相媒体日的时刻，引发球迷怀旧情绪。",
+      "detailsZh": "事实：日期对应2019年9月27日左右，当时杜兰特和欧文加盟篮网并在媒体日上首次共同面对镜头。评论：此类内容属于固定主页或资料入口性质的历史回顾，旨在唤起球迷对那段“布鲁克林三巨头”时期的记忆。并非当天发生的新闻事件，而是周年纪念日相关的档案整理。",
       "keyPoints": [
-        "斯玛特盛赞杜兰特职业态度",
-        "38岁仍保持技术进化",
-        "对篮球有纯粹热爱"
+        "回顾2019年杜兰特欧文加盟篮网",
+        "媒体日首秀的历史影像资料",
+        "属于历史性回顾而非当日新闻"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxOTzVSZjJDZVRZaWdOT0ZDVjhlOGtoajZXVXg3VlJMQWpIM0Q1QlBRX3MwT0xQbi0wa2ExMXlBaURPX1RoWHBhZk5fVVdEcFA5MXdmTVZQdnB2Z0R1WDVPR3FlMWF2T0hxYjF4eGVrQnhuUXR3ejE4a2ZjeWFBaGFJLVBB",
-      "title": "杜兰特：詹姆斯资历老且愿传授经验 科比81分比我做过的任何事都伟大",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzVSZjJDZVRZaWdOT0ZDVjhlOGtoajZXVXg3VlJMQWpIM0Q1QlBRX3MwT0xQbi0wa2ExMXlBaURPX1RoWHBhZk5fVVdEcFA5MXdmTVZQdnB2Z0R1WDVPR3FlMWF2T0hxYjF4eGVrQnhuUXR3ejE4a2ZjeWFBaGFJLVBB?oc=5",
+      "id": "durant:CBMi3gFBVV95cUxPOHN0UnNidG1pTWRic0prTjQtTU1ERlJ2d2tYTjRqeDJKcEc0VkJyWnp5UDNmTElxN29NYUIzMjg2cmQ4UWwybHNHWFlnRVo4ZzRXaDRfNWpJc0pXcFdkbVVVMzQ2U3EyQXlEbF9ZZUlsUUNvelBESjBqbVFsVklRXzUzSUw3bW8yTXpaUlppcUR5M3UydzktMlpiUUxpU1licGNoV1pXT2NEOEE3T0NxMGtaMmxIdFFfUGp0VHFzMV9UZWdOT3djdFlCNXNic09pWnFhX3hTTGxoR1JkSUE",
+      "title": "库里生涯总薪资将达到6.49亿美元 超杜兰特升至历史第一",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHN0UnNidG1pTWRic0prTjQtTU1ERlJ2d2tYTjRqeDJKcEc0VkJyWnp5UDNmTElxN29NYUIzMjg2cmQ4UWwybHNHWFlnRVo4ZzRXaDRfNWpJc0pXcFdkbVVVMzQ2U3EyQXlEbF9ZZUlsUUNvelBESjBqbVFsVklRXzUzSUw3bW8yTXpaUlppcUR5M3UydzktMlpiUUxpU1licGNoV1pXT2NEOEE3T0NxMGtaMmxIdFFfUGp0VHFzMV9UZWdOT3djdFlCNXNic09pWnFhX3hTTGxoR1JkSUE?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-09-27T09:55:49.000Z",
-      "description": "杜兰特：詹姆斯资历老且愿传授经验 科比81分比我做过的任何事都伟大 手机新浪网",
-      "titleZh": "杜兰特谈科比81分与詹姆斯资历",
-      "summaryZh": "凯文·杜兰特公开表达个人观点，认为科比单场81分的成就超越了自己所做的任何事，同时称赞勒布朗·詹姆斯凭借资历和经验传授能力令人敬佩。",
-      "detailsZh": "手机新浪网报道了杜兰特在一次访谈中的言论。当被问及历史级得分表现时，杜兰特坦言科比对阵猛龙砍下81分的壮举是其职业生涯中无法企及的高度，甚至认为自己做过的任何事都无法与之相比。此外，杜兰特还提到勒布朗·詹姆斯，肯定其丰富的赛场经验和乐于分享的特质，认为这对年轻球员极具价值。这些言论展现了杜兰特对前辈的尊重以及客观的自我认知，引发了关于历史地位讨论的热议。",
+      "publishedAt": "2026-09-28T05:13:18.000Z",
+      "description": "库里生涯总薪资将达到6.49亿美元 超杜兰特升至历史第一 手机新浪网",
+      "titleZh": "库里生涯总薪资将达到6.49亿美元 超杜兰特升至历史第一",
+      "summaryZh": "库里生涯总薪资将达到6.49亿美元 超杜兰特升至历史第一 手机新浪网",
+      "detailsZh": "库里生涯总薪资将达到6.49亿美元 超杜兰特升至历史第一 手机新浪网",
       "keyPoints": [
-        "认为科比81分成就超越自己",
-        "称赞詹姆斯经验丰富且愿传授",
-        "展现对前辈的尊重"
+        "库里生涯总薪资将达到6.49亿美元 超杜兰特升至历史第一"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPck4xemdYREw2NVVEc2dkYjY1dFZVVXJjOGg1TW4yR2ZXaVNFVVJNRmJUdVkwcUVrRnNIQmkxaWRISWdrdUhoTl9aeGNTcXVMRXpRd3c1eWdvMkVlUGx2WVM0N0EwWW9Sam5uNS01SjAyWDlMSXlxOTlycUhldGg2U0h0Y1BuMTZNLW1FMA",
-      "title": "为杜兰特争冠拼了！美媒晒火箭5换1交易方案：打包申京+2首轮押宝唐斯",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPck4xemdYREw2NVVEc2dkYjY1dFZVVXJjOGg1TW4yR2ZXaVNFVVJNRmJUdVkwcUVrRnNIQmkxaWRISWdrdUhoTl9aeGNTcXVMRXpRd3c1eWdvMkVlUGx2WVM0N0EwWW9Sam5uNS01SjAyWDlMSXlxOTlycUhldGg2U0h0Y1BuMTZNLW1FMA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-09-27T06:27:12.000Z",
-      "description": "为杜兰特争冠拼了！美媒晒火箭5换1交易方案：打包申京+2首轮押宝唐斯 搜狐网",
-      "titleZh": "美媒提议火箭5换1交易：送申京+2首轮换唐斯",
-      "summaryZh": "搜狐网转载美媒方案，建议火箭队为了辅助杜兰特争冠，打包阿尔佩伦·申京及两个首轮签，尝试交易明尼苏达森林狼队的卡尔-安东尼·唐斯。",
-      "detailsZh": "该报道源自美国媒体的分析文章，提出了一种激进的建队思路。方案建议休斯顿火箭队牺牲内线核心申京的未来，并送出两个首轮选秀权，以换取即战力中锋卡尔-安东尼·唐斯。此举旨在通过提升内线高度和空间能力，为杜兰特创造更轻松的进攻环境，从而增强球队夺冠几率。然而，这也意味着火箭队需要承担巨大的薪资压力和失去年轻资产的风险。此为第三方媒体构想，并非实际发生的交易谈判。",
-      "keyPoints": [
-        "美媒提出5换1交易方案",
-        "目标为获取卡尔-安东尼·唐斯",
-        "需送出申京及两个首轮签"
-      ],
-      "category": "交易",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxPZUVsQmdyQmtIVFRPLUtSR0diTHU0dXNqbmJaM0VrSHJUWG9VU2J3cmZNQUdmdFNxRVk1MmhRb3ljaEY5dEl6WmhlN3FqZEdiZHBId1pOUWhtb2FkNXRjVmw5UUx5NUFmdzgzbWtKX0V4aXJWcVdUNEJ5ZlZzNnRFRQ",
-      "title": "杜兰特说真心话！科比81分肯定超越自己，詹姆斯厉害的是改变联盟",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUVsQmdyQmtIVFRPLUtSR0diTHU0dXNqbmJaM0VrSHJUWG9VU2J3cmZNQUdmdFNxRVk1MmhRb3ljaEY5dEl6WmhlN3FqZEdiZHBId1pOUWhtb2FkNXRjVmw5UUx5NUFmdzgzbWtKX0V4aXJWcVdUNEJ5ZlZzNnRFRQ?oc=5",
+      "id": "durant:CBMickFVX3lxTE9lM1dMcVBmRXJQM2VnbFBSOUJ6VmRXM0NwRS1tMG52bVlUS2tPV2xzWDR3VlF5eUlocEFIVmNuUDJvTkdyN1dTS2cyNnAzQkFFZ0g2OUV5VHc4VjIxaTNENzlvZEZ6TVB3UVRuYlRiYU1idw",
+      "title": "立志要当最强球员！申京大秀各种暴扣引热议 杜兰特为他激情庆祝",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lM1dMcVBmRXJQM2VnbFBSOUJ6VmRXM0NwRS1tMG52bVlUS2tPV2xzWDR3VlF5eUlocEFIVmNuUDJvTkdyN1dTS2cyNnAzQkFFZ0g2OUV5VHc4VjIxaTNENzlvZEZ6TVB3UVRuYlRiYU1idw?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-09-27T13:45:55.000Z",
-      "description": "杜兰特说真心话！科比81分肯定超越自己，詹姆斯厉害的是改变联盟 手机新浪网",
-      "titleZh": "杜兰特评价科比与詹姆斯的历史地位",
-      "summaryZh": "杜兰特再次谈及对科比和詹姆斯的看法，重申科比81分的神迹难以超越，同时认可詹姆斯改变联盟格局的能力，体现了其对篮球历史的深刻理解。",
-      "detailsZh": "综合多家媒体报道，杜兰特在近期采访中深入探讨了篮球历史话题。他特别提到科比·布莱恩特单场81分的表演，认为这是篮球史上最具统治力的个人表现之一，甚至自谦不如科比。对于勒布朗·詹姆斯，杜兰特强调了其长达二十年的巅峰期和对联盟竞争平衡的改变作用。这些观点反映了杜兰特作为现役顶级球星，对前辈成就的客观评估以及对自身定位的清晰认知，有助于公众更全面地理解球员间的传承与差异。",
+      "publishedAt": "2026-09-28T04:01:00.000Z",
+      "description": "立志要当最强球员！申京大秀各种暴扣引热议 杜兰特为他激情庆祝 手机新浪网",
+      "titleZh": "立志要当最强球员！申京大秀各种暴扣引热议 杜兰特为他激情庆祝",
+      "summaryZh": "立志要当最强球员！申京大秀各种暴扣引热议 杜兰特为他激情庆祝 手机新浪网",
+      "detailsZh": "立志要当最强球员！申京大秀各种暴扣引热议 杜兰特为他激情庆祝 手机新浪网",
       "keyPoints": [
-        "认定科比81分成就极高",
-        "认可詹姆斯改变联盟的影响力",
-        "展现对篮球历史的深刻见解"
+        "立志要当最强球员！申京大秀各种暴扣引热议 杜兰特为他激情庆祝"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNeWxic0pES0ZWRUIybnZfbE42dmdQVm9DTDFjXzB1N1ZJRkltbl9NbmdMTk81UlA1azNMemR0YVRzclI5MkF3dDhvaTRRT3U3elFEOEJtbUJIOTg5ZFFha0tySEhWaVpab0FIQ0wxT01NNlFlVUE4RzZ1R3FqSGE5aVpteDg",
-      "title": "为啥伦纳德、库里、杜兰特都只续约两年？详解联盟的“38岁规则”",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWxic0pES0ZWRUIybnZfbE42dmdQVm9DTDFjXzB1N1ZJRkltbl9NbmdMTk81UlA1azNMemR0YVRzclI5MkF3dDhvaTRRT3U3elFEOEJtbUJIOTg5ZFFha0tySEhWaVpab0FIQ0wxT01NNlFlVUE4RzZ1R3FqSGE5aVpteDg?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-09-27T09:24:32.000Z",
-      "description": "为啥伦纳德、库里、杜兰特都只续约两年？详解联盟的“38岁规则” Sina Sports",
-      "titleZh": "解析联盟‘38岁规则’：为何巨星多只续约两年",
-      "summaryZh": "Sina Sports详解NBA所谓的‘38岁规则’，解释为何伦纳德、库里、杜兰特等老将倾向于只签订为期两年的合同，以保留灵活性和避免长期风险。",
-      "detailsZh": "该分析文章探讨了NBA劳资协议背景下老将的合同策略。所谓‘38岁规则’并非正式条款，而是指球员在接近或超过38岁时，为避免长期伤病风险和薪资锁定，通常选择短约（如两年）。杜兰特、库里和伦纳德近期的合同选择均符合这一逻辑。短约允许球员每年重新评估身体状况和市场价值，同时也给球队提供了调整阵容的机会。这一趋势反映了现代NBA球员管理理念的转变，即更注重短期绩效而非长期绑定。",
+      "id": "durant:CBMiWEFVX3lxTFBlc29kb1laLUtnXzFvT28yWmF4a3E0dE1Td1pIZkJ4RWNWQkpZajZFZTVrcVpYSW92NkNmWFRKZFp4X0g5M2RlRURRVXAxY3BoN0R1ZjVsVEc",
+      "title": "杜兰特哈登降薪都令各自球队实现补强 勇士会如何运作回报库里？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlc29kb1laLUtnXzFvT28yWmF4a3E0dE1Td1pIZkJ4RWNWQkpZajZFZTVrcVpYSW92NkNmWFRKZFp4X0g5M2RlRURRVXAxY3BoN0R1ZjVsVEc?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-09-28T01:24:41.000Z",
+      "description": "杜兰特哈登降薪都令各自球队实现补强 勇士会如何运作回报库里？ 企鹅体育",
+      "titleZh": "杜兰特哈登降薪都令各自球队实现补强 勇士会如何运作回报库里？",
+      "summaryZh": "杜兰特哈登降薪都令各自球队实现补强 勇士会如何运作回报库里？ 企鹅体育",
+      "detailsZh": "杜兰特哈登降薪都令各自球队实现补强 勇士会如何运作回报库里？ 企鹅体育",
       "keyPoints": [
-        "解释老将倾向短约的原因",
-        "涉及杜兰特、库里等案例",
-        "旨在规避伤病与薪资风险"
-      ],
-      "category": "交易",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://zhuanlan.zhihu.com/p/2086550286282252646",
-      "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
-      "url": "https://zhuanlan.zhihu.com/p/2086550286282252646",
-      "source": "知乎",
-      "publishedAt": "2026-09-28T00:43:43.056Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?"
+        "杜兰特哈登降薪都令各自球队实现补强 勇士会如何运作回报库里？"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -193,31 +170,17 @@
       "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "陈泽- 抖音直播间",
-      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "titleZh": "陈泽- 抖音直播间官方入口",
+      "summaryZh": "游戏主播陈泽自2024年转战后的直播主阵地。抖音号38681810920，非旧虎牙房间。具体开播时间以平台实时状态为准，此为固定主页资料。",
+      "detailsZh": "事实：根据最新资料（截至2026年9月），陈泽在抖音的官方账号名为“陈泽-”，抖音号为38681810920，获赞超548.6万。他自2024年起将直播主阵地从虎牙迁移至抖音，因此任何指向虎牙旧房间或非官方抖音号的链接均非其当前官方直播间。该条目为固定主页或资料入口，旨在提供准确的关注渠道，而非当日突发新闻。评论与传闻：网络上有大量关于其直播间的讨论，但核心关注点应集中在其抖音官方账号的动态上。不得将其他同名人物或无关直播入口混淆于此。",
       "keyPoints": [
-        "陈泽- 抖音直播间"
+        "陈泽2024年后直播主阵地为抖音",
+        "官方抖音号为38681810920",
+        "此条目为固定资料入口，非当天新闻",
+        "需排除虎牙旧房间等过时信息"
       ],
       "category": "直播",
-      "importance": 4
-    },
-    {
-      "id": "chenze:chenze-bilibili-search",
-      "title": "哔哩哔哩陈泽相关视频",
-      "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
-      "subject": "chenze",
-      "titleZh": "哔哩哔哩陈泽相关视频",
-      "summaryZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
-      "detailsZh": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
-      "keyPoints": [
-        "哔哩哔哩陈泽相关视频"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 5
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -229,13 +192,36 @@
       "description": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
       "subject": "chenze",
       "titleZh": "陈泽行程动态：赴海南庆生及综艺上线",
-      "summaryZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
-      "detailsZh": "游戏主播陈泽近期行程、直播安排与综艺上线相关公开动态。",
+      "summaryZh": "2026年8月13日新浪新闻报道，游戏主播陈泽近期有赴海南庆生的行程，并有综艺节目上线的相关公开动态，涉及其线下活动与内容拓展。",
+      "detailsZh": "事实：据新浪新闻2026年8月13日报道，游戏主播陈泽近期行程包括前往海南庆祝生日，同时其参与的综艺节目已正式上线。这标志着其业务从纯游戏直播向更广泛的娱乐内容领域延伸。评论：此类行程和综艺上线通常意味着主播商业价值的提升和个人品牌的多元化发展。对于粉丝而言，这是了解主播生活和工作状态的重要窗口。传闻：目前无确凿证据表明此次行程涉及重大争议或负面传闻，主要聚焦于正常的职业活动。需注意区分其与同期其他主播（如小团团、大司马）的活动报道，避免张冠李戴。",
       "keyPoints": [
-        "陈泽行程动态：赴海南庆生及综艺上线"
+        "2026年8月13日新浪新闻报道",
+        "陈泽赴海南庆生",
+        "参与的综艺节目正式上线",
+        "体现主播业务多元化"
       ],
       "category": "节目",
       "importance": 3
+    },
+    {
+      "id": "chenze:chenze-bilibili-search",
+      "title": "哔哩哔哩陈泽相关视频",
+      "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%20%E4%B8%BB%E6%92%AD",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "B站与游戏主播陈泽相关的视频、切片及讨论聚合入口。",
+      "subject": "chenze",
+      "titleZh": "哔哩哔哩陈泽相关视频聚合",
+      "summaryZh": "哔哩哔哩平台上关于游戏主播陈泽的视频、切片及讨论内容的聚合搜索入口。包含其直播高光时刻、二创内容及粉丝互动话题。",
+      "detailsZh": "事实：哔哩哔哩作为重要的二次创作和长视频平台，拥有大量关于陈泽的视频内容。该条目为搜索聚合入口，旨在帮助用户快速找到相关资源。这些内容可能包括直播精彩片段、AI二创作品（如“陈美泽”系列）、以及粉丝制作的吐槽或致敬视频。评论：B站是陈泽IP传播的重要阵地，尤其是AI二创内容在此类平台上极易形成病毒式传播。例如，“陈泽-”的性转版AI角色“陈美泽”在B站和抖音均有极高热度。传闻：部分视频标题可能存在夸张或误导性描述，用户需自行甄别内容真实性。此条目仅为资料索引，不构成对具体视频内容的背书。",
+      "keyPoints": [
+        "B站是陈泽内容传播重要阵地",
+        "包含直播切片、AI二创等多元内容",
+        "AI角色“陈美泽”在此类平台热度高",
+        "此条目为搜索聚合入口，非新闻"
+      ],
+      "category": "直播",
+      "importance": 2
     },
     {
       "id": "chenze:chenze-douyin-2024",
@@ -248,13 +234,16 @@
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
       "titleZh": "陈泽 2024 年转战抖音开启直播",
-      "summaryZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
-      "detailsZh": "陈泽于 2024 年转战抖音直播；这是平台迁移的历史资料，不作为当天新闻。",
+      "summaryZh": "历史资料：游戏主播陈泽于2024年正式从虎牙等平台转战抖音进行直播。这是其职业生涯的重要转折点，确立了其当前的主要直播平台。",
+      "detailsZh": "事实：根据直播吧2024年2月5日的报道，陈泽在2024年完成了从虎牙到抖音的平台迁移。这一举措使其能够触达更广泛的抖音用户群体，并为其后续在抖音上的爆发式增长奠定了基础。评论：这次迁移被视为陈泽适应新媒体趋势、寻求更大流量池的战略选择。此后，他在抖音上通过举办赛事（如英雄联盟陈泽杯）、参与连麦（如泽嘎之交）以及开放AI二创授权等方式，实现了粉丝量的显著增长。传闻：无重大负面传闻与此迁移事件直接相关。此条目明确标注为历史资料，不作为当天新闻处理，旨在提供背景信息。",
       "keyPoints": [
-        "陈泽 2024 年转战抖音开启直播"
+        "2024年陈泽从虎牙转战抖音",
+        "确立抖音为当前主要直播平台",
+        "为其后续流量增长奠定基础",
+        "属历史背景资料，非当天新闻"
       ],
       "category": "直播",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-wikipedia",
@@ -264,35 +253,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡词条，涵盖其常用笔名、创作风格及作品影响。作为基础背景资料入口，提供关于该网络红人的系统性信息梳理。",
-      "detailsZh": "事实：该条目为固定的人物百科资料页，非当日新闻。内容主要记录大咕咕咕鸡作为早期网络段子手的身份，包括其活跃时期、代表性语录及对中文互联网流行语的影响。评论：此类资料页旨在提供客观的背景参考，帮助读者理解其在网络文化史上的地位。传闻：无具体近期动态传闻，仅涉及历史影响力的总结。此页面作为权威的资料索引，对于研究2010年代初期网络亚文化具有重要参考价值，但需注意其时效性仅限于已发生的历史事件。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景，提供其网络影响力的基础资料索引。",
+      "detailsZh": "该条目为固定的人物百科资料入口，非当日新闻。内容主要涵盖大咕咕咕鸡作为网络写手的身份界定，梳理了其常用的笔名变体与核心创作风格。事实层面记录了其在中文互联网语境下的知名度来源，评论部分涉及对其文字幽默感与社会观察力的评价，传闻部分则较少，主要聚焦于可验证的作品列表与公众认知度。此页面旨在提供标准化的背景参考，不具备时效性新闻特征，建议作为长期参考资料而非即时动态追踪。",
       "keyPoints": [
-        "提供人物背景与创作风格概述",
-        "记录对网络流行语的影响",
-        "作为固定资料入口而非新闻"
+        "提供标准化的人物背景与笔名索引",
+        "记录创作风格与网络影响力基础数据",
+        "属于固定百科资料，非时效性新闻"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 4
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "界面新闻于2015年发布的深度报道，回顾大咕咕咕鸡的创作风格及其在早期网络段子手生态中的地位，分析其对当时语言环境的影响。",
-      "detailsZh": "事实：这是一篇发布于2015年的历史报道，属于固定时间点的媒体评论文章。文中详细分析了大咕咕咕鸡如何通过简短幽默的文字在社交媒体上获得关注，并探讨了其与同时代其他段子手的异同。评论：该报道代表了当时主流媒体对网络草根创作者的一种观察视角，具有一定的时代局限性，但提供了珍贵的历史语境。传闻：报道中未包含未经证实的私人传闻，主要基于公开可见的作品进行分析。此内容虽非最新，但对于理解该人物的崛起背景和网络文化的演变具有不可替代的价值，建议将其视为历史文献而非即时资讯。",
-      "keyPoints": [
-        "2015年发布的历史深度报道",
-        "分析早期网络段子手生态",
-        "提供主流媒体的观察视角"
-      ],
-      "category": "讨论",
-      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -302,16 +272,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "新浪微博的大咕咕咕鸡超话聚合页，汇集其公开动态及读者讨论。此为固定的社区入口，用于追踪其社交账号的最新互动和粉丝反馈。",
-      "detailsZh": "事实：该链接指向微博超级话题页面，是一个持续更新的动态聚合平台。它展示了大咕咕咕鸡在微博上的发帖记录、转发内容及粉丝的评论互动。评论：作为粉丝聚集地，这里反映了受众对其内容的接受度和情感连接，但也可能包含大量主观评价和非理性讨论。传闻：页面本身不产生传闻，但用户评论中可能夹杂关于其个人生活或未来动向的非官方猜测，需仔细甄别。此页面是获取其最新公开活动信息的主要渠道之一，但由于其动态性质，具体内容随时间变化极大，不具备长期固定的新闻价值，仅作为实时信息源存在。",
+      "titleZh": "新浪微博超话社区入口",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话聚合页，汇集公开动态、粉丝讨论及互动内容，是主要的社交活跃阵地。",
+      "detailsZh": "此为微博平台的固定超话主页链接，用于聚合该人物的所有公开社交媒体活动。事实层面包含其发布的博文、转发内容及粉丝生成的二次创作。评论与传闻多存在于评论区互动中，需具体甄别。该页面作为信息集散地，反映了其在微博生态中的活跃度与受众反馈。由于是固定入口，其本身不包含特定日期的新闻事件，而是动态内容的容器。使用时应关注最新置顶或高赞评论以获取有效信息，避免被过时内容误导。",
       "keyPoints": [
-        "微博超话聚合页",
-        "汇集公开动态与粉丝讨论",
-        "实时性强但内容变动频繁"
+        "微博平台官方超话聚合入口",
+        "汇集公开动态与粉丝互动内容",
+        "作为社交活跃度监测的固定数据源"
       ],
       "category": "公开发言",
-      "importance": 3
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -321,15 +291,34 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "哔哩哔哩搜索聚合页，展示与大咕咕咕鸡相关的视频内容，包括作品朗读、二创视频及观众讨论。此为固定的多媒体资源入口。",
-      "detailsZh": "事实：该链接为B站关键词搜索结果页，汇集了所有标记或提及“大咕咕咕鸡”的视频内容。这些内容可能包括对其经典段子的音频重制、视频剪辑或相关评论。评论：视频平台的内容多样性反映了其作品在不同媒介形式下的生命力，也体现了粉丝群体的二次创作热情。传闻：视频标题或简介中可能存在吸引眼球的夸大描述，需结合视频实际内容进行判断。此页面作为多媒体资源的索引，有助于从视听角度重新审视其作品，但搜索结果的海量性和无序性要求使用者具备较强的筛选能力，且部分内容可能与原意不符。",
+      "titleZh": "哔哩哔哩作品朗读与讨论聚合",
+      "summaryZh": "B站搜索关键词聚合页，展示大咕咕咕鸡作品的音频朗读、相关视频及历史讨论，反映其在视频平台的传播情况。",
+      "detailsZh": "该链接为B站的搜索结果聚合页，非单一视频或文章。事实层面展示了用户基于其文本创作的音频朗读视频、解说视频及弹幕讨论。评论部分体现在视频的弹幕与评论区内，多为读者对原文的延伸解读或玩梗。传闻成分极低，主要为粉丝文化的衍生内容。此页面体现了其作品从图文向多媒体转化的趋势，以及受众在不同媒介形式下的接受度。作为搜索入口，它提供了广泛的内容检索功能，但需用户自行筛选高质量或官方认证的内容。",
       "keyPoints": [
-        "B站多媒体资源聚合",
-        "包含朗读与二创视频",
-        "反映粉丝二次创作活力"
+        "B站多媒体内容搜索聚合入口",
+        "展示作品朗读与粉丝二创视频",
+        "反映跨媒介传播与受众互动形态"
       ],
       "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：创作生态分析",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言环境的影响，具有历史参考价值。",
+      "detailsZh": "这是一篇发布于2015年的历史新闻报道，属于固定资料而非当日动态。事实层面记录了当时大咕咕咕鸡的创作特点、代表作品及在网络上的流行程度。评论部分来自记者的分析，探讨其语言风格对当时网络段子手生态的影响。传闻部分极少，主要基于当时的社会观察。该报道提供了理解其早期成名背景的关键视角，有助于评估其长期影响力。由于其发布时间较早，部分内容可能已过时，但作为研究其创作生涯起点的文献，仍具重要价值。",
+      "keyPoints": [
+        "2015年媒体深度报道，具历史价值",
+        "分析创作风格与网络语言影响",
+        "提供早期成名背景与行业生态视角"
+      ],
+      "category": "讨论",
       "importance": 3
     },
     {
