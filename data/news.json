@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:43:47.002Z",
+  "updatedAt": "2026-09-30T19:20:30.212Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,98 +16,37 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMipAFBVV95cUxPMHNSTDl3YXMzX2xkTjY4MTFURGtkNVcyUjZiUTVNeGt0akUtTzJURmt0bHhtSlUtN3hnaVA5ekJHcmNaeTllbTVabDJ4cThuMm40cHBWN2ZLa25IdUZfNWpqVGVMWXdrTVlhRndvRnBGb0pEV1hrUDU3N3EzM2xZdl9qRGdzeGhVTDhOeXBpak5wMjBieVhUMjd2bjR1RTdtSnFCLQ",
-      "title": "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHNSTDl3YXMzX2xkTjY4MTFURGtkNVcyUjZiUTVNeGt0akUtTzJURmt0bHhtSlUtN3hnaVA5ekJHcmNaeTllbTVabDJ4cThuMm40cHBWN2ZLa25IdUZfNWpqVGVMWXdrTVlhRndvRnBGb0pEV1hrUDU3N3EzM2xZdl9qRGdzeGhVTDhOeXBpak5wMjBieVhUMjd2bjR1RTdtSnFCLQ?oc=5",
-      "source": "The New York Times",
-      "publishedAt": "2026-09-30T11:00:54.000Z",
-      "description": "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season The New York Times",
-      "titleZh": "纽约时报分析火箭新赛季：杜兰特与阿门·汤普森面临的挑战",
-      "summaryZh": "《纽约时报》发文探讨休斯顿火箭队新赛季面临的11个关键问题，重点聚焦凯文·杜兰特与年轻核心阿门·汤普森的角色定位及球队整体竞争力。",
-      "detailsZh": "事实：文章指出火箭队在新赛季拥有杜兰特和申京等核心球员，同时保留了阿门·汤普森等年轻天赋。评论：媒体人认为杜兰特的加入提升了球队上限，但如何平衡老将负荷与年轻球员成长是乌度卡教练组的关键任务。传闻：部分观点猜测杜兰特可能减少出场时间以保护健康，让新星在替补时段承担更多责任。",
+      "id": "durant:CBMingFBVV95cUxOWFA0TjhSYjl6VUN3VHBlY3owVVVnUERZNmxLczEyMkE5SG1CX01TNkFMbTU3YjY4V2xPcFUwM1BZLWt4Q2pZenpQdDBqYUNkaU5FeUpTUEppUGdZWFpSdVNBSmR4ek4zVWR6S0ZqTFN2TjQxNzVEWDdoN0xBNGh5YVJRdGtTQXF6dmRqN2NoaTZ5R1NrVkdvVVExNlRlUQ",
+      "title": "Bronny James’ Potential $95M Lakers Extension Tops Kevin Durant Contract",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFA0TjhSYjl6VUN3VHBlY3owVVVnUERZNmxLczEyMkE5SG1CX01TNkFMbTU3YjY4V2xPcFUwM1BZLWt4Q2pZenpQdDBqYUNkaU5FeUpTUEppUGdZWFpSdVNBSmR4ek4zVWR6S0ZqTFN2TjQxNzVEWDdoN0xBNGh5YVJRdGtTQXF6dmRqN2NoaTZ5R1NrVkdvVVExNlRlUQ?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-09-30T16:01:59.000Z",
+      "description": "Bronny James’ Potential $95M Lakers Extension Tops Kevin Durant Contract heavy.com",
+      "titleZh": "Bronny James’ Potential $95M Lakers Extension Tops Kevin Durant Contract",
+      "summaryZh": "Bronny James’ Potential $95M Lakers Extension Tops Kevin Durant Contract heavy.com",
+      "detailsZh": "Bronny James’ Potential $95M Lakers Extension Tops Kevin Durant Contract heavy.com",
       "keyPoints": [
-        "火箭新赛季面临多重挑战",
-        "杜兰特与阿门·汤普森角色互补",
-        "年轻球员需在KD休息时证明自己"
+        "Bronny James’ Potential $95M Lakers Extension Tops Kevin Durant Contract"
       ],
-      "category": "比赛",
+      "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxPbzdNMG5pN1lxelExcENLZmJYS3VIQ1ZjWC1lRGJLVi14VFZoVWVEdVFPS2VVZzFYbzVoVXlUeDhNMmFpQ3JOUHRiVU5ydVc3NnA4aGVxUTdIZWYzX0c5WXU5ZmdyYkVadGFMWW1PaHZYcmRBSnZTU1BndTZpTThncFlwSl8",
-      "title": "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzdNMG5pN1lxelExcENLZmJYS3VIQ1ZjWC1lRGJLVi14VFZoVWVEdVFPS2VVZzFYbzVoVXlUeDhNMmFpQ3JOUHRiVU5ydVc3NnA4aGVxUTdIZWYzX0c5WXU5ZmdyYkVadGFMWW1PaHZYcmRBSnZTU1BndTZpTThncFlwSl8?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-30T10:28:00.000Z",
-      "description": "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？ 手机新浪网",
-      "titleZh": "媒体人展望火箭前景：范弗利特回归与杜兰特压阵",
-      "summaryZh": "国内媒体人分析火箭阵容稳定性，认为保留申京、阿门，加上范弗利特回归及杜兰特加盟，球队新赛季具备冲击更高目标的潜力。",
-      "detailsZh": "事实：火箭队保留了核心年轻阵容，并引进了杜兰特等即战力。评论：分析指出杜兰特作为超级得分手能为球队提供稳定输出，其经验对年轻球员有指导意义。传闻：外界猜测火箭可能通过调整战术体系，最大化杜兰特的进攻效率，同时减轻其防守负担。",
+      "id": "durant:CBMiuAFBVV95cUxNMndEcnlLZG0xcjZGbWZJSjlpOFZ4djRKYUcyTFZVUlBKSi1HOUZwMmNQSUJSYWp6QnRwQUpNbXBseTlhd0tYeWEtNHlBUnFvcW0zV1J2N2hsY1ZBbWhpRFBUV19obzZxQ1VLV2E1Vm9lNmRRcld4RTZGNnRranJQM01GM2Z3b2Z6OE84LWJFUmdwQXRYTnBjenhjMkNPcVNQQko2VllDWm5kbGVsQ2lYUkhoZE5DR0gt",
+      "title": "Banchero Says KD Workouts Go Beyond One Viral Video",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMndEcnlLZG0xcjZGbWZJSjlpOFZ4djRKYUcyTFZVUlBKSi1HOUZwMmNQSUJSYWp6QnRwQUpNbXBseTlhd0tYeWEtNHlBUnFvcW0zV1J2N2hsY1ZBbWhpRFBUV19obzZxQ1VLV2E1Vm9lNmRRcld4RTZGNnRranJQM01GM2Z3b2Z6OE84LWJFUmdwQXRYTnBjenhjMkNPcVNQQko2VllDWm5kbGVsQ2lYUkhoZE5DR0gt?oc=5",
+      "source": "si.com",
+      "publishedAt": "2026-09-30T14:00:03.000Z",
+      "description": "Banchero Says KD Workouts Go Beyond One Viral Video si.com",
+      "titleZh": "Banchero Says KD Workouts Go Beyond One Viral Video",
+      "summaryZh": "Banchero Says KD Workouts Go Beyond One Viral Video si.com",
+      "detailsZh": "Banchero Says KD Workouts Go Beyond One Viral Video si.com",
       "keyPoints": [
-        "火箭核心阵容保持稳固",
-        "杜兰特加盟提升球队实力",
-        "新赛季有望取得突破"
+        "Banchero Says KD Workouts Go Beyond One Viral Video"
       ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMinAFBVV95cUxPNUtqV3ZLUExVTmo5b0dsUXBIRm9ITmlfeUFlSmVNancxal9BRkFNSHItdEl3aTRnejZlRExxZ1VvYy1OZENkME1xU2RwLUhhb3FYcU5uVmRFazlmUTJSSGZWYUREZFFyTWdIQjZaU3RoZ0tDeGp4RkxqM0loYVBYdVAyU2t1cEFfM3BZV3FBa0ZPbHIxbWw0U25mdWQ",
-      "title": "Kevin Durant Is Still a Great Scorer. That Was Never the Whole Job.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUtqV3ZLUExVTmo5b0dsUXBIRm9ITmlfeUFlSmVNancxal9BRkFNSHItdEl3aTRnejZlRExxZ1VvYy1OZENkME1xU2RwLUhhb3FYcU5uVmRFazlmUTJSSGZWYUREZFFyTWdIQjZaU3RoZ0tDeGp4RkxqM0loYVBYdVAyU2t1cEFfM3BZV3FBa0ZPbHIxbWw0U25mdWQ?oc=5",
-      "source": "Vocal",
-      "publishedAt": "2026-09-30T02:54:08.000Z",
-      "description": "Kevin Durant Is Still a Great Scorer. That Was Never the Whole Job. Vocal",
-      "titleZh": "Vocal专栏：杜兰特仍是伟大得分手，但这并非他全部价值",
-      "summaryZh": "Vocal平台发表深度评论，强调杜兰特虽仍是顶级得分手，但其篮球智商、传球和组织能力同样重要，不应仅以得分衡量其贡献。",
-      "detailsZh": "事实：杜兰特职业生涯始终保持高效得分能力。评论：作者认为现代篮球中杜兰特的无球跑动和策应能力被低估，他在场上能拉开空间并创造机会。传闻：无具体伤病或交易传闻，主要侧重于对其技术全面性的重新评估。",
-      "keyPoints": [
-        "杜兰特得分能力依然顶尖",
-        "其组织与篮球智商被低估",
-        "不应仅用得分定义其价值"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxObmZhNkdMZy0tMnRKaUtMcE9GQjNmMzFFUVZma1ItNGMwQXdqa2JtVURzU3ZsYUJ2d3pFeG96WnMtTFRnRFhjOUdybmFod08xMjNxbHFkUzdvTFZZWHh3NTRoLVA3TFNORmpraUFSUndPb1hETEJEY2VLaEhsSGxoNWR4SGRSc2NJYy02andVQQ",
-      "title": "上赛季杜兰特使用过度，季后赛受伤，乌度卡能否学波波为KD减负",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmZhNkdMZy0tMnRKaUtMcE9GQjNmMzFFUVZma1ItNGMwQXdqa2JtVURzU3ZsYUJ2d3pFeG96WnMtTFRnRFhjOUdybmFod08xMjNxbHFkUzdvTFZZWHh3NTRoLVA3TFNORmpraUFSUndPb1hETEJEY2VLaEhsSGxoNWR4SGRSc2NJYy02andVQQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-30T06:42:50.000Z",
-      "description": "上赛季杜兰特使用过度，季后赛受伤，乌度卡能否学波波为KD减负 手机新浪网",
-      "titleZh": "关注杜兰特负荷管理：乌度卡能否效仿波波维奇为其减负",
-      "summaryZh": "针对杜兰特上赛季因过度使用导致季后赛受伤的情况，媒体讨论主教练乌度卡是否会借鉴波波维奇的管理模式，严格控制其出场时间。",
-      "detailsZh": "事实：杜兰特上赛季确实经历了高负荷运转并遭遇伤病困扰。评论：专家建议乌度卡应更科学地分配上场时间，避免类似情况重演。传闻：有消息暗示火箭管理层已介入，要求教练组制定详细的负荷管理计划。",
-      "keyPoints": [
-        "杜兰特上赛季因负荷过重受伤",
-        "乌度卡需学习球星管理经验",
-        "控制出场时间是潜在策略"
-      ],
-      "category": "伤病",
+      "category": "场外",
       "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxPeEpiTDZuUUNkTXRZeEF2b3R3Sk9pSDF3ZTZNOW5ucnBDcHFidVR5ZnZVWHNLZUxjYVpnTEpKS2dpcy14cG1ZN05JeU9SOUhxUjVxTUhRQklrbXJoT3I1SlNZQ243MWtab2wwbUNkM1ZfdTFBT0Y5X2JTSlRjRjdOX1lPbkM",
-      "title": "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEpiTDZuUUNkTXRZeEF2b3R3Sk9pSDF3ZTZNOW5ucnBDcHFidVR5ZnZVWHNLZUxjYVpnTEpKS2dpcy14cG1ZN05JeU9SOUhxUjVxTUhRQklrbXJoT3I1SlNZQ243MWtab2wwbUNkM1ZfdTFBT0Y5X2JTSlRjRjdOX1lPbkM?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-30T12:33:45.000Z",
-      "description": "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间 手机新浪网",
-      "titleZh": "队记比较杜兰特状态与马刺GDP时期，建议控制出场时间",
-      "summaryZh": "当地记者将杜兰特当前状态与2014年马刺GDP时期对比，认为其状态极佳，但出于长远考虑，教练组应严格限制其每场出场分钟数。",
-      "detailsZh": "事实：杜兰特近期训练和热身表现显示出良好的身体状态。评论：记者指出，尽管杜兰特状态火热，但考虑到年龄和过往伤病史，预防性措施至关重要。传闻：无确切数据支持具体分钟数限制，仅为媒体建议。",
-      "keyPoints": [
-        "杜兰特当前状态优于历史同期",
-        "建议严格控制出场时间",
-        "预防伤病重于短期战绩"
-      ],
-      "category": "伤病",
-      "importance": 3
     },
     {
       "subject": "durant",
@@ -124,38 +63,89 @@
         "队记：杜兰特&伊森的角色完全不同 但两人在进攻端有很多相通之处"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQbWlNOFRsMzFRQktNdDMxSVBLczVOV2pOaUFtVWloVG9NakVJcWpieXoyNWhPaElnMnJDaVM3LW5fY2N6dVp1NXlBcTFoYU5mbWJ6NjNBaHFURFJPZUV0YWJ4cTEwUUdkTjlFd2lhRUNMcjhJYjgwOVhUbXlSNW4wSTg4YnA3UU94MUpQNnBidw",
-      "title": "杜兰特减少出战时间，保护健康，新星委以重任，有望大展身手",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWlNOFRsMzFRQktNdDMxSVBLczVOV2pOaUFtVWloVG9NakVJcWpieXoyNWhPaElnMnJDaVM3LW5fY2N6dVp1NXlBcTFoYU5mbWJ6NjNBaHFURFJPZUV0YWJ4cTEwUUdkTjlFd2lhRUNMcjhJYjgwOVhUbXlSNW4wSTg4YnA3UU94MUpQNnBidw?oc=5",
+      "id": "durant:CBMihAFBVV95cUxNaU5MdDdhQW9XN3BkQ0xQZWhGYnZ2OEw2WWJuY1Q0V093RlNaeG5RbDl4UnZmZGZITTgtYXFISWFNT011bjZiQjVtNnBxNGdFbHZ6YzFROUxpaHpPRE05alZneGtFenI1ZXVCOFZQUGF3Wm9CZFlIMml6UWtfVEZ4aWNQT1A",
+      "title": "队记：杜兰特能帮队友提升防守 防守方也能帮助进攻球员打磨技术",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaU5MdDdhQW9XN3BkQ0xQZWhGYnZ2OEw2WWJuY1Q0V093RlNaeG5RbDl4UnZmZGZITTgtYXFISWFNT011bjZiQjVtNnBxNGdFbHZ6YzFROUxpaHpPRE05alZneGtFenI1ZXVCOFZQUGF3Wm9CZFlIMml6UWtfVEZ4aWNQT1A?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-09-30T06:42:40.000Z",
-      "description": "杜兰特减少出战时间，保护健康，新星委以重任，有望大展身手 手机新浪网",
-      "titleZh": "杜兰特减少出战时间，保护健康，新星委以重任，有望大展身手",
-      "summaryZh": "杜兰特减少出战时间，保护健康，新星委以重任，有望大展身手 手机新浪网",
-      "detailsZh": "杜兰特减少出战时间，保护健康，新星委以重任，有望大展身手 手机新浪网",
+      "publishedAt": "2026-09-30T13:25:09.000Z",
+      "description": "队记：杜兰特能帮队友提升防守 防守方也能帮助进攻球员打磨技术 手机新浪网",
+      "titleZh": "队记：杜兰特能帮队友提升防守 防守方也能帮助进攻球员打磨技术",
+      "summaryZh": "队记：杜兰特能帮队友提升防守 防守方也能帮助进攻球员打磨技术 手机新浪网",
+      "detailsZh": "队记：杜兰特能帮队友提升防守 防守方也能帮助进攻球员打磨技术 手机新浪网",
       "keyPoints": [
-        "杜兰特减少出战时间，保护健康，新星委以重任，有望大展身手"
+        "队记：杜兰特能帮队友提升防守 防守方也能帮助进攻球员打磨技术"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxPcUFJNlNXRWYza2tfemRGRWlWVXJVVEdlcTVodmFnNVRTNzdaZkpCTGZGb1VNTWQwSC16QkpBUTk5VXBreTNpVHMxeEtfS0MzTm1ZMF84emZjNGFqTkJrUTQzbm81dW1LaWFEUDBCWktIVjNEdVhCWTc3VGhRZ1dnUDZoQ0xaTGdpLWZEeWhDTQ",
-      "title": "NBA最佳防守球员：杜兰特和科比最难防守",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUFJNlNXRWYza2tfemRGRWlWVXJVVEdlcTVodmFnNVRTNzdaZkpCTGZGb1VNTWQwSC16QkpBUTk5VXBreTNpVHMxeEtfS0MzTm1ZMF84emZjNGFqTkJrUTQzbm81dW1LaWFEUDBCWktIVjNEdVhCWTc3VGhRZ1dnUDZoQ0xaTGdpLWZEeWhDTQ?oc=5",
+      "id": "durant:CBMihAFBVV95cUxNeEZPeDlBYUFyUVY0eXNYb0RCTldZRHZITHFzUFMxRGhmQjFacFdRNDJRS0o0dVdQczUydGdGQ2ZFSHQ4ZG5FZHZOejRJbVQ4a3FWNjl6MTdlM2pzYUVndGhreEp6RzR2MjVQZjFvTzl4VmViblBidGZWNkg2RWQ2cWJ2SVY",
+      "title": "火箭争冠路上问题重重！KD能否保持健康？申京能否开发出三分？",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEZPeDlBYUFyUVY0eXNYb0RCTldZRHZITHFzUFMxRGhmQjFacFdRNDJRS0o0dVdQczUydGdGQ2ZFSHQ4ZG5FZHZOejRJbVQ4a3FWNjl6MTdlM2pzYUVndGhreEp6RzR2MjVQZjFvTzl4VmViblBidGZWNkg2RWQ2cWJ2SVY?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-09-30T05:22:00.000Z",
-      "description": "NBA最佳防守球员：杜兰特和科比最难防守 手机新浪网",
-      "titleZh": "NBA最佳防守球员：杜兰特和科比最难防守",
-      "summaryZh": "NBA最佳防守球员：杜兰特和科比最难防守 手机新浪网",
-      "detailsZh": "NBA最佳防守球员：杜兰特和科比最难防守 手机新浪网",
+      "publishedAt": "2026-09-30T12:51:00.000Z",
+      "description": "火箭争冠路上问题重重！KD能否保持健康？申京能否开发出三分？ 手机新浪网",
+      "titleZh": "火箭争冠路上问题重重！KD能否保持健康？申京能否开发出三分？",
+      "summaryZh": "火箭争冠路上问题重重！KD能否保持健康？申京能否开发出三分？ 手机新浪网",
+      "detailsZh": "火箭争冠路上问题重重！KD能否保持健康？申京能否开发出三分？ 手机新浪网",
       "keyPoints": [
-        "NBA最佳防守球员：杜兰特和科比最难防守"
+        "火箭争冠路上问题重重！KD能否保持健康？申京能否开发出三分？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOWUswQ2lfU01TeU5lUFB6WWwtQjVCaXhKSm5GdXV5SmhUcmN5SERtV3VUMUp1RnhxY2NOZlNkMUFFS2xmZ3pQQTU2dWVEY0s0OXJzd3RnYWo2YU1qb2JIZGxMVjRUaGxYSUhXUk5lMF9FRzZZTUZpRFhuTEJ0M2FybmpfU3k",
+      "title": "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUswQ2lfU01TeU5lUFB6WWwtQjVCaXhKSm5GdXV5SmhUcmN5SERtV3VUMUp1RnhxY2NOZlNkMUFFS2xmZ3pQQTU2dWVEY0s0OXJzd3RnYWo2YU1qb2JIZGxMVjRUaGxYSUhXUk5lMF9FRzZZTUZpRFhuTEJ0M2FybmpfU3k?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-30T12:24:27.000Z",
+      "description": "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间 手机新浪网",
+      "titleZh": "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间",
+      "summaryZh": "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间 手机新浪网",
+      "detailsZh": "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间 手机新浪网",
+      "keyPoints": [
+        "队记：杜兰特的状态比14年的马刺GDP更好 乌度卡应控制其出场时间"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMipAFBVV95cUxPMHNSTDl3YXMzX2xkTjY4MTFURGtkNVcyUjZiUTVNeGt0akUtTzJURmt0bHhtSlUtN3hnaVA5ekJHcmNaeTllbTVabDJ4cThuMm40cHBWN2ZLa25IdUZfNWpqVGVMWXdrTVlhRndvRnBGb0pEV1hrUDU3N3EzM2xZdl9qRGdzeGhVTDhOeXBpak5wMjBieVhUMjd2bjR1RTdtSnFCLQ",
+      "title": "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHNSTDl3YXMzX2xkTjY4MTFURGtkNVcyUjZiUTVNeGt0akUtTzJURmt0bHhtSlUtN3hnaVA5ekJHcmNaeTllbTVabDJ4cThuMm40cHBWN2ZLa25IdUZfNWpqVGVMWXdrTVlhRndvRnBGb0pEV1hrUDU3N3EzM2xZdl9qRGdzeGhVTDhOeXBpak5wMjBieVhUMjd2bjR1RTdtSnFCLQ?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-09-30T11:00:54.000Z",
+      "description": "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season The New York Times",
+      "titleZh": "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season",
+      "summaryZh": "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season The New York Times",
+      "detailsZh": "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season The New York Times",
+      "keyPoints": [
+        "Kevin Durant, Amen Thompson and the 11 questions facing the Rockets this season"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxPbzdNMG5pN1lxelExcENLZmJYS3VIQ1ZjWC1lRGJLVi14VFZoVWVEdVFPS2VVZzFYbzVoVXlUeDhNMmFpQ3JOUHRiVU5ydVc3NnA4aGVxUTdIZWYzX0c5WXU5ZmdyYkVadGFMWW1PaHZYcmRBSnZTU1BndTZpTThncFlwSl8",
+      "title": "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzdNMG5pN1lxelExcENLZmJYS3VIQ1ZjWC1lRGJLVi14VFZoVWVEdVFPS2VVZzFYbzVoVXlUeDhNMmFpQ3JOUHRiVU5ydVc3NnA4aGVxUTdIZWYzX0c5WXU5ZmdyYkVadGFMWW1PaHZYcmRBSnZTU1BndTZpTThncFlwSl8?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-30T10:28:00.000Z",
+      "description": "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？ 手机新浪网",
+      "titleZh": "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？",
+      "summaryZh": "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？ 手机新浪网",
+      "detailsZh": "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？ 手机新浪网",
+      "keyPoints": [
+        "基石稳固！留住申京&阿门 范乔丹回归+KD压阵 火箭新赛季要起飞？"
       ],
       "category": "场外",
       "importance": 3
@@ -166,7 +156,7 @@
       "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "url": "https://www.chinaz.com/2026/0921/1778354.shtml",
       "source": "站长之家",
-      "publishedAt": "2026-09-30T13:40:48.260Z",
+      "publishedAt": "2026-09-30T19:17:41.028Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -182,12 +172,12 @@
       "id": "chenze:CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3",
       "title": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3?oc=5",
-      "source": "腾讯新闻",
+      "source": "QQ News",
       "publishedAt": "2026-09-23T04:46:00.000Z",
-      "description": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
+      "description": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 QQ News",
       "titleZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
-      "summaryZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
-      "detailsZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
+      "summaryZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 QQ News",
+      "detailsZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 QQ News",
       "keyPoints": [
         "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重"
       ],
@@ -275,54 +265,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡词条，涵盖其常用笔名、创作风格演变及在网络文化中的影响背景。作为基础资料入口，提供相对客观的人物生平与作品梳理。",
-      "detailsZh": "该条目为固定的人物资料索引页面，非当日新闻。内容主要基于公开可查的网络信息进行整理，旨在记录大咕咕咕鸡作为网络写手的身份特征。事实部分包括其活跃平台、代表作品类型及公众认知度；评论部分涉及对其文字风格幽默性或争议性的学术或媒体评价；传闻部分则可能包含未经证实的笔名关联或早期经历猜测。由于维基百科具有动态编辑特性，具体细节需以最新版本为准，此处仅描述其作为资料库的功能属性。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录该写手的常用笔名、创作风格及作品背景，提供关于其网络影响的系统性资料。此为固定百科条目，非当日新闻。",
+      "detailsZh": "事实：该词条系统整理了“大咕咕咕鸡”作为网络写手的基本信息，包括其常用的笔名变体、主要的创作领域以及代表作品的背景介绍。评论：此类百科条目通常由社区用户共同维护，旨在提供客观的参考框架，但具体细节可能随时间推移而更新或存在争议。传闻：无明确证据表明该页面包含未经证实的个人隐私或谣言，主要聚焦于公开可见的创作生涯轨迹。注意：此链接指向的是静态的人物资料库入口，而非特定日期的动态报道，内容具有长期参考价值。",
       "keyPoints": [
-        "提供人物基本背景与笔名信息",
-        "梳理创作风格与网络影响",
-        "作为第三方中立资料参考"
+        "涵盖常用笔名与创作风格",
+        "整理代表作品背景",
+        "记录网络影响力概况",
+        "属静态百科资料"
       ],
-      "category": "场外",
-      "importance": 5
-    },
-    {
-      "id": "dagu:dagu-weibo-topic",
-      "title": "大咕咕咕鸡公开动态与超话",
-      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
-      "source": "新浪微博",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "subject": "dagu",
-      "titleZh": "新浪微博超话主页",
-      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话聚合页，汇集其公开动态、粉丝讨论及相关话题。此为固定社交账号入口，用于追踪其最新发声与读者互动情况。",
-      "detailsZh": "此链接指向微博超话索引，属于固定的社交媒体资料入口，而非特定日期的新闻报道。其主要功能是聚合与该ID相关的所有公开帖子和讨论串。事实层面记录了其微博账号的存在及活跃度数据；评论层面反映了粉丝群体对其内容的反馈倾向；传闻层面可能夹杂粉丝间的八卦或非官方消息。使用时需注意区分官方发布内容与用户生成内容（UGC），避免将粉丝言论误认为本人观点。该页面是获取一手动态的重要渠道，但信息碎片化严重，需结合其他来源交叉验证。",
-      "keyPoints": [
-        "微博官方超话聚合入口",
-        "汇集公开动态与粉丝讨论",
-        "信息碎片化，需甄别真伪"
-      ],
-      "category": "场外",
+      "category": "作品",
       "importance": 4
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "哔哩哔哩搜索聚合页",
-      "summaryZh": "B站关于“大咕咕咕鸡”关键词的搜索结果页，包含作品朗读、二创视频及讨论。此为动态搜索结果入口，非固定主页，内容随时间变化。",
-      "detailsZh": "该链接为B站的通用搜索结果页，非固定个人主页，因此内容具有高度动态性和不确定性。事实部分包括上传的视频标题、播放量等元数据；评论部分体现在弹幕和评论区对内容的解读；传闻部分可能涉及视频作者对原作的二次演绎或误读。由于搜索结果依赖算法推荐，不同用户看到的排序和内容可能差异巨大。此入口适合查找具体的视频资源或听众反应，但不适合作为权威资料引用。使用时应警惕标题党内容和非官方搬运导致的版权或信息失真问题。",
-      "keyPoints": [
-        "B站关键词搜索结果页",
-        "包含朗读视频与二创内容",
-        "结果动态变化，非固定主页"
-      ],
-      "category": "场外",
-      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -332,16 +285,57 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其创作风格的历史报道。虽具参考价值，但时效性较低，主要反映早期网络段子手生态。",
-      "detailsZh": "这是一篇发布于2015年的媒体文章，属于历史文献而非即时新闻。事实部分描述了当时大咕咕咕鸡的创作特点及在网络上的流行程度；评论部分体现了媒体人对其语言风格和社会影响的分析；传闻部分较少，主要为当时的舆论观察。鉴于时间跨度较大，文中提到的某些现象或作品可能已不再适用或已被遗忘。该报道可作为研究其早期职业生涯和网络语言演变的素材，但不能代表其当前状态。阅读时需注意时代背景差异，避免将十年前的观点直接套用于当下。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，分析该写手的创作风格及其对网络语言的影响。此为历史文献，非近期动态。",
+      "detailsZh": "事实：2015年5月12日，界面新闻发布了一篇关于“大咕咕咕鸡”的深度报道，重点探讨其独特的创作风格以及在当时网络语境下的语言影响力。评论：该报道被视为研究早期中文互联网段子文化的重要史料，反映了彼时网络写手如何通过幽默和讽刺参与公共话语构建。传闻：报道中未涉及对其个人生活的私密猜测，主要基于公开文本进行分析。注意：由于发布时间较早（2015年），该文章反映的是其职业生涯早期的状态，不能直接等同于当前的最新观点或活动，应视为历史档案资料。",
       "keyPoints": [
-        "2015年历史媒体报道",
-        "分析早期创作风格与影响",
-        "时效性低，仅作历史参考"
+        "2015年历史深度报道",
+        "分析创作风格与语言影响",
+        "反映早期网络段子生态",
+        "具史料价值"
       ],
       "category": "讨论",
-      "importance": 2
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博相关话题页，聚合公开动态与读者讨论。此为固定社交主页入口，用于追踪日常互动，非独立新闻事件。",
+      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话或相关话题页面，是粉丝和读者交流的主要场所。评论：社交媒体超话往往包含大量碎片化信息，既有官方发布的最新动态，也有用户的二次创作和讨论，信息质量参差不齐。传闻：需警惕超话内可能存在的未经核实的八卦或谣言，建议以作者本人认证账号发布的内容为准。注意：这是一个持续更新的动态聚合入口，而非单一的新闻报道。访问时需自行筛选有效信息，避免被无关噪音干扰。它代表了该写手在社交平台上的活跃度和受众互动情况。",
+      "keyPoints": [
+        "微博超话/话题入口",
+        "聚合公开动态与讨论",
+        "信息碎片化需甄别",
+        "非独立新闻报道"
+      ],
+      "category": "公开发言",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索聚合页，展示作品朗读及相关讨论视频。此为媒体资源索引，非特定视频内容描述。",
+      "detailsZh": "事实：该链接为B站针对“大咕咕咕鸡”关键词的搜索结果页，汇集了用户上传的作品朗读音频、相关解说视频及讨论内容。评论：B站作为视频平台，其内容生态丰富，既有官方授权的朗读，也有粉丝自制的二创视频，反映了受众对该写手作品的接受度和再创作热情。传闻：部分视频标题可能存在夸大或误导成分，需结合视频实际内容判断。注意：这是一个动态的资源索引页面，随着新视频的上传会不断变化。它提供了多媒体形式的消费渠道，有助于从听觉和视觉角度理解其作品风格，但不构成独立的新闻事实。",
+      "keyPoints": [
+        "B站视频资源聚合",
+        "含作品朗读与二创",
+        "反映受众再创作热情",
+        "动态资源索引"
+      ],
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
