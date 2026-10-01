@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:51:41.877Z",
+  "updatedAt": "2026-10-01T13:12:51.876Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,79 +16,22 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxOZ3ptS3JaZUlrZ0V3aWFVUmpwUHJNRUEwTmNXVW9RejZFNjRsVEdoR28welJnSlpWaGxuME5TVml3Zk5xbWpzT1lEbFRsYWk5bWVseDBKSGdfU1JtNURSY0h6d1hoNEpJdzlkMWFCaTh2U2wxZnV3c2wzb2dkWWZRQzMzVXdVUzMxMi1tOU0wMA",
-      "title": "美媒列火箭队争冠11问！KD健康成头号难题，申京+范乔丹决定上限",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3ptS3JaZUlrZ0V3aWFVUmpwUHJNRUEwTmNXVW9RejZFNjRsVEdoR28welJnSlpWaGxuME5TVml3Zk5xbWpzT1lEbFRsYWk5bWVseDBKSGdfU1JtNURSY0h6d1hoNEpJdzlkMWFCaTh2U2wxZnV3c2wzb2dkWWZRQzMzVXdVUzMxMi1tOU0wMA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-01T02:41:33.000Z",
-      "description": "美媒列火箭队争冠11问！KD健康成头号难题，申京+范乔丹决定上限 手机新浪网",
-      "titleZh": "美媒分析火箭争冠前景：杜兰特健康成关键变量",
-      "summaryZh": "美媒列出火箭队争冠的11个核心问题，指出38岁的凯文·杜兰特健康状况是头号难题。文章强调申京与范弗利特的发挥将决定球队上限，而杜兰特的状态直接影响争冠竞争力。",
-      "detailsZh": "事实层面，媒体聚焦于休斯顿火箭队在2026-27赛季的争冠潜力，特别点名了凯文·杜兰特（KD）的健康状况为最大不确定性因素。评论部分认为，尽管火箭拥有杰伦·格林、申京和范弗利特等年轻核心，但杜兰特的年龄（38岁）带来的伤病风险是制约球队冲击高胜率的瓶颈。传闻方面，有观点推测若杜兰特保持健康，其经验与得分能力将显著提升球队下限，但过度依赖老将可能影响长期发展。此内容属于对球队阵容结构的战术与健康管理评估，非突发新闻。",
+      "id": "durant:CBMijAFBVV95cUxNbXBJdm1VdmJTYzdld1EzYldxN3RqMmRHZzBEQ091MDdsQ1h0UlpKejJFZTBRMm1lQUcwYUJBdnZPeWdBVkZZY3RTLU41TG55M2xBTTEwMVJRV253WXRPQ3dDLTUwTjY0RWpiYlpKWnd4VnhVZVFZSVpYWm9fa1ZfTW83MTNoLWJ3dnktcg",
+      "title": "美媒列火箭争冠11问！杜兰特健康成头号难题，申京+范乔丹决定上限",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXBJdm1VdmJTYzdld1EzYldxN3RqMmRHZzBEQ091MDdsQ1h0UlpKejJFZTBRMm1lQUcwYUJBdnZPeWdBVkZZY3RTLU41TG55M2xBTTEwMVJRV253WXRPQ3dDLTUwTjY0RWpiYlpKWnd4VnhVZVFZSVpYWm9fa1ZfTW83MTNoLWJ3dnktcg?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-01T05:42:13.000Z",
+      "description": "美媒列火箭争冠11问！杜兰特健康成头号难题，申京+范乔丹决定上限 搜狐网",
+      "titleZh": "美媒分析火箭争冠难题：KD健康成关键",
+      "summaryZh": "美媒列出火箭队争冠的11个关键问题，指出38岁的杜兰特健康状况是头号难题。球队上限取决于申京与范弗利特的发挥，若KD无法保持健康，争冠前景将受严重影响。",
+      "detailsZh": "事实：多家媒体（搜狐、新浪）于2026年10月1日发布文章，分析休斯顿火箭队的争冠前景。文章明确指出，考虑到杜兰特已38岁，其身体机能和伤病风险是球队最大的隐患。相比之下，内线核心申京和外线指挥官范弗利特（Fred VanVleet）的表现将决定球队的战术上限。评论：这一分析基于现实年龄因素，强调了老将经验与健康管理的平衡。对于追求冠军的球队而言，过度依赖高龄球星存在巨大不确定性。传闻：部分自媒体声称“KD健康成头号难题”为既定事实，但目前并无具体伤病报告，仅为基于年龄的风险评估。",
       "keyPoints": [
-        "杜兰特健康状况被视为火箭争冠首要难题",
-        "申京与范弗利特表现决定球队上限",
-        "美媒提出11个关键问题评估火箭前景"
+        "杜兰特38岁健康状态成最大隐患",
+        "申京与范弗利特决定球队上限",
+        "美媒列出11大争冠挑战"
       ],
       "category": "比赛",
       "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPREl3MmIxMm5UcUJWSi1NN25yNzJWall2Z2VrT1puTDM3SVpaRHA4YVk1a25KTGFnSy1wX1pEQWhIVTZKd0xlYy1GVnAxaFNYZFpXZHU4bUR1TVBPM215YkhoSWh3U1FIdlBna3dEcWdzUHhGMThYU280TWxfQ1BhLXp2enZmVl8yQkxYRA",
-      "title": "火箭一夜4消息！38岁杜兰特玩梗庆生，乌度卡调整阵容，3大新星被点名",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREl3MmIxMm5UcUJWSi1NN25yNzJWall2Z2VrT1puTDM3SVpaRHA4YVk1a25KTGFnSy1wX1pEQWhIVTZKd0xlYy1GVnAxaFNYZFpXZHU4bUR1TVBPM215YkhoSWh3U1FIdlBna3dEcWdzUHhGMThYU280TWxfQ1BhLXp2enZmVl8yQkxYRA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-01T02:09:53.000Z",
-      "description": "火箭一夜4消息！38岁杜兰特玩梗庆生，乌度卡调整阵容，3大新星被点名 搜狐网",
-      "titleZh": "杜兰特38岁生日庆祝及火箭阵容调整动态",
-      "summaryZh": "报道提及38岁的凯文·杜兰特在生日期间通过玩梗方式庆祝，同时乌度卡教练正在调整火箭队阵容。此外，三名新星被媒体点名关注，显示球队内部氛围与战术布局的变化。",
-      "detailsZh": "事实层面，凯文·杜兰特迎来38岁生日，其在社交媒体或团队活动中以幽默方式回应年龄话题。教练乌度卡正在进行阵容微调，旨在优化化学反应。评论指出，老将的积极心态有助于稳定更衣室，而新星的崛起可能分担杜兰特的进攻压力。传闻部分涉及具体新星名单及乌度卡的战术意图，但缺乏官方证实。此类内容多为场外花絮与日常训练观察，反映球队日常运作而非重大赛事结果。",
-      "keyPoints": [
-        "杜兰特38岁生日以玩梗方式庆祝",
-        "乌度卡教练调整球队阵容配置",
-        "三名新星受到媒体重点关注"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxQeFlvU2l6bmZYMXFTWkJscnBNZGhDb01ja21UcEFJS1NkQXluWkNHTVFoSThPWjJJOElPV1pUU2tvU2lJZk42NXo4MHFmcTRiYldIV0JLT1RCeDVOa3hPb3o2LTk3cDhpd29qM0d0STFBMm85OWphQkRqZ01fT0N3WQ",
-      "title": "杜兰特与伊森训练营共练三分，伊森需延续上赛季表现",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFlvU2l6bmZYMXFTWkJscnBNZGhDb01ja21UcEFJS1NkQXluWkNHTVFoSThPWjJJOElPV1pUU2tvU2lJZk42NXo4MHFmcTRiYldIV0JLT1RCeDVOa3hPb3o2LTk3cDhpd29qM0d0STFBMm85OWphQkRqZ01fT0N3WQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-01T00:50:54.000Z",
-      "description": "杜兰特与伊森训练营共练三分，伊森需延续上赛季表现 手机新浪网",
-      "titleZh": "杜兰特参与训练营三分训练并指导伊森",
-      "summaryZh": "凯文·杜兰特在训练营中与阿门·伊森共同进行三分球训练。媒体报道称，伊森需要延续上赛季的表现，而杜兰特的参与旨在提升队友投射稳定性，展现老将传帮带作用。",
-      "detailsZh": "事实层面，杜兰特在休赛期训练营中亲自指导年轻球员阿门·伊森进行投篮练习。这一互动体现了杜兰特作为资深球员的技术分享意愿。评论认为，杜兰特的投篮机制对年轻射手具有示范效应，有助于提升球队整体空间能力。传闻部分关于伊森的具体数据预期及两人训练的深层战术目的未被官方确认。此类内容属于常规训练活动记录，侧重于球员间的互动与技术传承，非重大转会或伤病事件。",
-      "keyPoints": [
-        "杜兰特与伊森共同进行三分训练",
-        "伊森需延续上赛季竞技状态",
-        "体现老将对新人的技术指导作用"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi0gFBVV95cUxPZVRJdWllRnZJelh1Njc5ZFpSUzNQWlVILVFpM0VYUzNVOV9QNUlUOXNWeVZLblpzY2NSTGd2bnRoM3BfSGZyb2JBbVk0Mm50OC1KS0w1OHdWc3Fib3ZhWkZCeXRNaGhsVWdiWVh3a1RsVFdoa3ViMjRzamlmMmt4WDRJaDloYVNaSzJJbU1SdEItNmdzTGJXQUtIWjBWdWF3U1l0OXRyem1TdE96eTFGNEZsUFFWN3RlRi03dlFfNVBwUk1vZU1WSFB6d3VnU1d2akE",
-      "title": "“You changed the way they drafted” – Gilbert Arenas explains how Kevin Durant reshaped what NBA teams looked for in prospects",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVRJdWllRnZJelh1Njc5ZFpSUzNQWlVILVFpM0VYUzNVOV9QNUlUOXNWeVZLblpzY2NSTGd2bnRoM3BfSGZyb2JBbVk0Mm50OC1KS0w1OHdWc3Fib3ZhWkZCeXRNaGhsVWdiWVh3a1RsVFdoa3ViMjRzamlmMmt4WDRJaDloYVNaSzJJbU1SdEItNmdzTGJXQUtIWjBWdWF3U1l0OXRyem1TdE96eTFGNEZsUFFWN3RlRi03dlFfNVBwUk1vZU1WSFB6d3VnU1d2akE?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-10-01T00:35:00.000Z",
-      "description": "“You changed the way they drafted” – Gilbert Arenas explains how Kevin Durant reshaped what NBA teams looked for in prospects Basketball Network",
-      "titleZh": "吉尔伯特·阿里纳斯评述杜兰特重塑选秀标准",
-      "summaryZh": "前NBA球员吉尔伯特·阿里纳斯发表观点，认为凯文·杜兰特改变了球队在选秀中对球员天赋的评估标准。该评论聚焦于杜兰特职业生涯对联盟人才选拔体系的深远影响。",
-      "detailsZh": "事实层面，阿里纳斯公开表示杜兰特的成功促使各队重新审视选秀策略，特别是对于高大侧翼或全能前锋的重视程度。评论部分分析了杜兰特如何证明身高与投射结合的价值，从而影响了现代篮球的人才培养方向。传闻方面无具体内容，主要基于历史数据的回顾性分析。此类内容属于篮球文化与技术演变讨论，非即时新闻，旨在探讨杜兰特对联盟长远发展的贡献。",
-      "keyPoints": [
-        "阿里纳斯认为杜兰特改变选秀评估标准",
-        "强调高大侧翼与投射结合的重要性",
-        "分析杜兰特对联盟人才体系的历史影响"
-      ],
-      "category": "场外",
-      "importance": 2
     },
     {
       "subject": "durant",
@@ -98,11 +41,104 @@
       "source": "搜狐网",
       "publishedAt": "2026-10-01T05:08:53.000Z",
       "description": "范乔丹回归！美媒3个大胆预测看好火箭：冲击60胜+杜兰特MVP前5 搜狐网",
-      "titleZh": "范乔丹回归！美媒3个大胆预测看好火箭：冲击60胜+杜兰特MVP前5",
-      "summaryZh": "范乔丹回归！美媒3个大胆预测看好火箭：冲击60胜+杜兰特MVP前5 搜狐网",
-      "detailsZh": "范乔丹回归！美媒3个大胆预测看好火箭：冲击60胜+杜兰特MVP前5 搜狐网",
+      "titleZh": "美媒大胆预测：火箭冲击60胜及KD排名",
+      "summaryZh": "随着范弗利特回归，美媒做出大胆预测，看好火箭队冲击60场胜利。同时，尽管杜兰特年龄增长，仍有媒体将其列为MVP候选前五名，引发广泛讨论。",
+      "detailsZh": "事实：2026年10月1日，媒体发布针对火箭队的赛季预测。主要观点包括：一、在范弗利特（文中称范乔丹）回归后，球队化学反应改善，有望取得60胜以上的常规赛战绩；二、凯文·杜兰特凭借丰富的经验和关键时刻的能力，被部分榜单列入MVP评选的前五名。评论：将38岁的杜兰特列为MVP前五极具争议性，通常MVP竞争者多为当打之年或处于巅峰期的球员。这更多反映了其在特定体系下的战术价值，而非个人数据的全面统治力。传闻：60胜的目标被视为乐观估计，需结合赛程难度判断。",
       "keyPoints": [
-        "范乔丹回归！美媒3个大胆预测看好火箭：冲击60胜+杜兰特MVP前5"
+        "火箭队被预测冲击60胜",
+        "杜兰特被列入MVP候选前五",
+        "范弗利特回归被视为利好因素"
+      ],
+      "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiR0FVX3lxTFBVWVA4V1piS2NkclJEN1plZC1XVUN6ZGxWUDZOWk1KVjBBeDNJa0twSU9YSVI4M211UU9hYXRETXdvQnZqdjlJ",
+      "title": "[流言板]美记：火箭因乌度卡&杜兰特的关系，被认为可能探索引进欧文",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVWVA4V1piS2NkclJEN1plZC1XVUN6ZGxWUDZOWk1KVjBBeDNJa0twSU9YSVI4M211UU9hYXRETXdvQnZqdjlJ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-01T00:41:32.000Z",
+      "description": "[流言板]美记：火箭因乌度卡&杜兰特的关系，被认为可能探索引进欧文 虎扑体育",
+      "titleZh": "流言：火箭因乌度卡关系探索引进欧文",
+      "summaryZh": "据虎扑体育引述美记消息，由于火箭主帅乌度卡与凯文·杜兰特的良好私人关系，休斯顿火箭队被认为可能在交易市场上探索引进凯里·欧文的可能性，以增强后场实力。",
+      "detailsZh": "事实：2026年10月1日，有美国记者透露，火箭队管理层正在考虑引援选项。其中，引进独行侠后卫凯里·欧文成为潜在目标之一。促成这一可能性的关键因素被归结为教练乌度卡与杜兰特之间的信任关系，以及杜兰特在更衣室的影响力。评论：此举旨在利用杜兰特的领导力带动新援，并解决后场得分问题。然而，欧文的历史遗留问题和合同状况使得该交易充满变数。传闻：目前仅停留在“探索”阶段，无实质性谈判进展，且未确认杜兰特本人是否强烈支持此操作。",
+      "keyPoints": [
+        "火箭可能探索引进凯里·欧文",
+        "乌度卡与杜兰特的关系是促成因素",
+        "旨在增强后场深度与领导力"
+      ],
+      "category": "交易",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxOX0lLX2pRLXhhX0dieVBTblJHTElxWG4xRkd5TE80YlFuY0NyeHpuUWJpY2FJZy03QmRXTTYzZXh3YkNucVhZbVRmX0tHWEl6UWZJeUJLNE5DdTl0UFZZeTc2Z1VsXzZJcFRQWUtjaFUwYUloTkZ1a2phbGtjaWYweV9wU1hQaDFvRGxBS1RXOA",
+      "title": "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0lLX2pRLXhhX0dieVBTblJHTElxWG4xRkd5TE80YlFuY0NyeHpuUWJpY2FJZy03QmRXTTYzZXh3YkNucVhZbVRmX0tHWEl6UWZJeUJLNE5DdTl0UFZZeTc2Z1VsXzZJcFRQWUtjaFUwYUloTkZ1a2phbGtjaWYweV9wU1hQaDFvRGxBS1RXOA?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-01T02:10:45.000Z",
+      "description": "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5 手机新浪网",
+      "titleZh": "杜兰特训练营共练三分，伊森需延续表现",
+      "summaryZh": "在2026年10月1日的训练报告中，凯文·杜兰特与年轻前锋阿门·伊森（Amen Thompson）共同进行了三分球投篮练习。媒体指出，伊森需要在新赛季延续上赛季的良好表现，而杜兰特的指导对其成长至关重要。",
+      "detailsZh": "事实：火箭队训练营期间，杜兰特与伊森搭档进行专项投篮训练。这一互动展示了老将对新人的传帮带作用。伊森在上赛季展现了不错的运动能力和防守潜力，本赛季被寄予厚望。评论：杜兰特亲自指导年轻球员投射，有助于提升球队整体空间能力。伊森若能保持健康并提高稳定性，将成为火箭重要的轮换拼图。传闻：无具体训练数据披露，重点在于两人互动的象征意义及媒体对伊森表现的期待。",
+      "keyPoints": [
+        "杜兰特与伊森共同进行三分训练",
+        "伊森被要求延续上赛季表现",
+        "老将指导新人体现团队传承"
+      ],
+      "category": "比赛",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQM0JRTHJ5aHV2dUhMNWVpaDZwNkJoSGFRVEFvMGxqNkVSNlBrdjN4VnRlWVFkc0NzSE9YeGZCQ3RzYV9CczZLem1ialNuOTUxV3JkVlFuelZRZjBGSWNKRmk1Q1hoWERpSkxRWkpfTXlOM2drWVpjV1RxM0pKbUpndHJ4ekJIUUdxaklzaA",
+      "title": "乌度卡复盘上赛季！火箭新赛季两大目标：减负杜兰特，激活范弗里特！",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0JRTHJ5aHV2dUhMNWVpaDZwNkJoSGFRVEFvMGxqNkVSNlBrdjN4VnRlWVFkc0NzSE9YeGZCQ3RzYV9CczZLem1ialNuOTUxV3JkVlFuelZRZjBGSWNKRmk1Q1hoWERpSkxRWkpfTXlOM2drWVpjV1RxM0pKbUpndHJ4ekJIUUdxaklzaA?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-01T07:26:22.000Z",
+      "description": "乌度卡复盘上赛季！火箭新赛季两大目标：减负杜兰特，激活范弗里特！ 搜狐网",
+      "titleZh": "乌度卡复盘上赛季：减负杜兰特激活范弗里特",
+      "summaryZh": "火箭主帅乌度卡在复盘上赛季工作时提出两大目标：一是减轻杜兰特的场上负担，保护其体能；二是激活控卫范弗利特，使其重新掌控比赛节奏。这反映了教练组对阵容优化的新思路。",
+      "detailsZh": "事实：2026年10月1日，媒体报道乌度卡的赛季规划。核心策略包括限制杜兰特的出场时间或球权占比，以避免过度消耗这位38岁老将。同时，强调让范弗利特更多地参与进攻组织，发挥其传球视野。评论：这种策略调整是基于现实主义考量，旨在延长杜兰特职业生涯寿命，同时最大化范弗利特的战术价值。若执行得当，可提升球队容错率。传闻：具体的“减负”措施（如场均分钟数限制）尚未公布，仅为战术方向性描述。",
+      "keyPoints": [
+        "乌度卡计划减轻杜兰特负担",
+        "重点激活范弗利特的组织能力",
+        "旨在优化老将使用效率"
+      ],
+      "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiWEFVX3lxTE9LbmhmekFvc2t5cW9KWXgtY2NoSFl5Z1RMMXUxYnpGR3k3N2kwWDlhYV9taFJ3aTFfUnhQYlpad3BZQ2dGWUZvNm56U0pCdXRXVENKbTRQZkc",
+      "title": "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LbmhmekFvc2t5cW9KWXgtY2NoSFl5Z1RMMXUxYnpGR3k3N2kwWDlhYV9taFJ3aTFfUnhQYlpad3BZQ2dGWUZvNm56U0pCdXRXVENKbTRQZkc?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-10-01T09:50:41.000Z",
+      "description": "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切 企鹅体育",
+      "titleZh": "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切",
+      "summaryZh": "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切 企鹅体育",
+      "detailsZh": "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切 企鹅体育",
+      "keyPoints": [
+        "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxONnNyUWNyZVhYaWdDMkJSRDI1SHZYaTc1UmI5T0Exc09GbUljanF1Ymg0cklCSFRqaGo4LWhpemlsNUVPMkpoTURJOGJtUzhGa0d4bDBOLWZfMkpKSzhEZWctSzZZTnlhV01qZGY5OWRpZHNheGFYcnpSd2hydEpHeW5yZUI",
+      "title": "徐静雨喊话杜兰特：我是你忠实球迷但还没见过你呢 期待线下真实",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONnNyUWNyZVhYaWdDMkJSRDI1SHZYaTc1UmI5T0Exc09GbUljanF1Ymg0cklCSFRqaGo4LWhpemlsNUVPMkpoTURJOGJtUzhGa0d4bDBOLWZfMkpKSzhEZWctSzZZTnlhV01qZGY5OWRpZHNheGFYcnpSd2hydEpHeW5yZUI?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-01T08:39:32.000Z",
+      "description": "徐静雨喊话杜兰特：我是你忠实球迷但还没见过你呢 期待线下真实 手机新浪网",
+      "titleZh": "徐静雨喊话杜兰特：我是你忠实球迷但还没见过你呢 期待线下真实",
+      "summaryZh": "徐静雨喊话杜兰特：我是你忠实球迷但还没见过你呢 期待线下真实 手机新浪网",
+      "detailsZh": "徐静雨喊话杜兰特：我是你忠实球迷但还没见过你呢 期待线下真实 手机新浪网",
+      "keyPoints": [
+        "徐静雨喊话杜兰特：我是你忠实球迷但还没见过你呢 期待线下真实"
       ],
       "category": "场外",
       "importance": 4
@@ -120,40 +156,6 @@
       "detailsZh": "杜兰特如何评价詹姆斯和哈登，这番话果然一针见血 手机新浪网",
       "keyPoints": [
         "杜兰特如何评价詹姆斯和哈登，这番话果然一针见血"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxOX0lLX2pRLXhhX0dieVBTblJHTElxWG4xRkd5TE80YlFuY0NyeHpuUWJpY2FJZy03QmRXTTYzZXh3YkNucVhZbVRmX0tHWEl6UWZJeUJLNE5DdTl0UFZZeTc2Z1VsXzZJcFRQWUtjaFUwYUloTkZ1a2phbGtjaWYweV9wU1hQaDFvRGxBS1RXOA",
-      "title": "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0lLX2pRLXhhX0dieVBTblJHTElxWG4xRkd5TE80YlFuY0NyeHpuUWJpY2FJZy03QmRXTTYzZXh3YkNucVhZbVRmX0tHWEl6UWZJeUJLNE5DdTl0UFZZeTc2Z1VsXzZJcFRQWUtjaFUwYUloTkZ1a2phbGtjaWYweV9wU1hQaDFvRGxBS1RXOA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-01T02:10:45.000Z",
-      "description": "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5 手机新浪网",
-      "titleZh": "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5",
-      "summaryZh": "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5 手机新浪网",
-      "detailsZh": "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5 手机新浪网",
-      "keyPoints": [
-        "范乔丹回归！美媒3个大胆预测力挺火箭队：冲击60胜+杜兰特MVP前5"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiTkFVX3lxTE1FMUhFYnJIWGdJTklxV2wxVzJ6VjRZenBXdnlxRFF6ZjluWFBrX2pFdWVUZ013ZEJ5emtXaHA5dkpMWFkzODdQV2RkcE5MUQ",
-      "title": "逗比伊森恶搞杜兰特，ins晒40岁“老处男”",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FMUhFYnJIWGdJTklxV2wxVzJ6VjRZenBXdnlxRFF6ZjluWFBrX2pFdWVUZ013ZEJ5emtXaHA5dkpMWFkzODdQV2RkcE5MUQ?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-09-30T23:51:24.000Z",
-      "description": "逗比伊森恶搞杜兰特，ins晒40岁“老处男” 虎扑体育",
-      "titleZh": "逗比伊森恶搞杜兰特，ins晒40岁“老处男”",
-      "summaryZh": "逗比伊森恶搞杜兰特，ins晒40岁“老处男” 虎扑体育",
-      "detailsZh": "逗比伊森恶搞杜兰特，ins晒40岁“老处男” 虎扑体育",
-      "keyPoints": [
-        "逗比伊森恶搞杜兰特，ins晒40岁“老处男”"
       ],
       "category": "场外",
       "importance": 3
@@ -256,14 +258,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "该条目为网络写手大咕咕咕鸡的基础资料入口，涵盖其常用笔名、创作风格及作品列表。作为固定人物档案，非当日新闻，提供背景参考。",
-      "detailsZh": "事实：该页面记录了大咕咕咕鸡作为网络写手的公开信息，包括其活跃平台、代表作品类型以及在中文互联网语境下的影响力评估。评论：维基百科作为通用百科全书，内容需经多方验证，此处主要呈现其作为文化符号的客观存在。传闻：无特定传闻，但需注意网络上关于其身份的其他说法可能存在混淆。此条目属于固定主页或资料入口，旨在提供长期稳定的背景信息，而非时效性新闻报道。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录该写手的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响力和文学创作的客观记录，非当日新闻。",
+      "detailsZh": "事实：该词条系统整理了“大咕咕咕鸡”的笔名来源、主要代表作品（如《诡秘之主》相关同人或原创讨论）、以及其在中文互联网社区中的活跃轨迹。评论：该条目被视为了解该写手创作脉络的基础参考，但需注意维基内容的时效性可能滞后于其最新动态。传闻：部分早期编辑历史中存在关于其身份猜测的争议，目前已被多方核实为误传。此页面为固定资料入口，旨在提供长期稳定的背景信息，而非即时报道。",
       "keyPoints": [
-        "记录常用笔名与创作风格",
-        "列举主要作品与网络影响",
-        "作为固定人物资料入口",
-        "非当日新闻，属背景参考"
+        "收录常用笔名与创作风格演变",
+        "整理主要作品与网络影响力数据",
+        "澄清早期身份猜测等不实传闻",
+        "作为长期稳定的背景资料入口"
       ],
       "category": "作品",
       "importance": 4
@@ -276,16 +278,36 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话动态",
-      "summaryZh": "新浪微博上的官方超话页面，聚合了大咕咕咕鸡的公开动态及读者讨论。此为固定社交账号入口，用于追踪其最新发声与粉丝互动情况。",
-      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话，是粉丝聚集和作者发布日常内容的核心场所。评论：超话内的内容多为粉丝二次创作或对作者作品的解读，真实性参差不齐，需理性看待。传闻：部分热门话题可能夹杂未经证实的八卦，建议以作者本人认证账号发布内容为准。此页面为固定的社交资料入口，用于持续跟踪其公开活动，不具备单一新闻事件的属性。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博官方超话页面，聚合该写手的公开动态、读者互动及话题讨论。作为核心社交阵地，实时反映其粉丝生态与舆论风向，非单日新闻。",
+      "detailsZh": "事实：该超话是“大咕咕咕鸡”在新浪微博的主要活动空间，包含其发布的日常动态、作品宣发以及与读者的直接互动内容。评论：此处是观察其公众形象维护和粉丝社群凝聚力的关键窗口，内容多为即时性交流。传闻：超话内偶有未经证实的“新坑”或“停更”谣言，需以作者本人置顶公告为准。此页面为固定主页入口，用于持续追踪其社交媒体行为，不具备单一新闻事件的属性。",
       "keyPoints": [
-        "聚合公开动态与读者讨论",
-        "粉丝互动与二次创作中心",
-        "需区分官方发布与粉丝言论",
-        "固定社交账号入口"
+        "聚合官方发布动态与读者互动",
+        "反映粉丝社群活跃度与舆论倾向",
+        "需甄别内部流传的非官方传闻",
+        "作为长期关注的社交媒体入口"
       ],
       "category": "公开发言",
+      "importance": 5
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，分析该写手创作风格及其对网络语言的影响。属历史性回顾文章，探讨其在特定时期文化现象中的地位，非当前事件。",
+      "detailsZh": "事实：该报道详细记录了“大咕咕咕鸡”早期的创作特点，特别是其如何将网络流行语融入叙事，以及对当时网文圈语言风格的塑造作用。评论：文章从社会学角度分析了其作为“网络段子手”向专业写手转型的典型意义，具有较高的行业参考价值。传闻：文中提及的部分早期轶事可能存在记忆偏差，建议结合后续采访交叉验证。此为历史文献，旨在提供宏观视角下的创作生态分析，而非针对当下的具体新闻。",
+      "keyPoints": [
+        "分析早期创作风格与网络语言影响",
+        "探讨从段子手到专业写手的转型",
+        "提供特定时期文化现象的历史视角",
+        "属历史性回顾，非当前新闻报道"
+      ],
+      "category": "讨论",
       "importance": 3
     },
     {
@@ -296,37 +318,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频聚合",
-      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，包含作品朗读、相关讨论及历史视频。此为资源检索入口，非特定新闻事件。",
-      "detailsZh": "事实：该页面展示了与“大咕咕咕鸡”相关的视频内容，包括其作品有声化、解说视频及网友制作的鬼畜或盘点内容。评论：B站内容生态丰富，既有官方授权也可能包含大量同人创作，用户需自行甄别来源。传闻：视频中可能涉及对作者私生活或创作背景的猜测，此类内容多为娱乐性质，缺乏事实依据。此链接为固定的视频资源检索入口，用于查找视听资料，不属于当天的新闻报道。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "聚合作品朗读与相关视频",
-        "包含粉丝二创与解说内容",
-        "需甄别视频来源与真实性",
-        "固定视频资源检索入口"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。虽为旧闻，但具重要历史参考价值。",
-      "detailsZh": "事实：该文章发表于2015年5月12日，深入探讨了大咕咕咕鸡如何通过独特的文字风格塑造网络段子手形象，并影响了当时的网络流行语。评论：作为早期媒体对其的深度剖析，具有较高的史料价值，反映了彼时网络文学与自媒体发展的阶段特征。传闻：文章中提及的部分行业现象可能随时间推移已发生变化，需结合当前环境理解。此条目为历史文献，非当日新闻，但因其对理解其创作脉络的重要性，予以保留。",
-      "keyPoints": [
-        "分析创作风格与语言影响",
-        "2015年发表的历史深度报道",
-        "反映早期网络文学发展特征",
-        "具重要史料参考价值"
-      ],
-      "category": "讨论",
-      "importance": 5
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
