@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T02:17:37.356Z",
+  "updatedAt": "2026-10-02T08:35:19.428Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,171 +16,139 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQbU50dVNOSDJLaFdyd29wMVlGaUJsQms2ejJWMkJqVFQ2ZEdGVG9laTFMZkVkdWk2S256NXozSUpWWWFWb2FfSkNrVFdfUjJBSXZNTVdvOUJXdXlrbV9OalkyS1FtdVUyNUNyclBpVDNGSlFwLWR4M0tqSmN4TDZoOUZ0TEdMbmNBS2Nibw",
-      "title": "詹姆斯加盟76人，杜兰特怒斥双标，十年投敌骂名为何只针对自己",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbU50dVNOSDJLaFdyd29wMVlGaUJsQms2ejJWMkJqVFQ2ZEdGVG9laTFMZkVkdWk2S256NXozSUpWWWFWb2FfSkNrVFdfUjJBSXZNTVdvOUJXdXlrbV9OalkyS1FtdVUyNUNyclBpVDNGSlFwLWR4M0tqSmN4TDZoOUZ0TEdMbmNBS2Nibw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-02T01:55:09.000Z",
-      "description": "詹姆斯加盟76人，杜兰特怒斥双标，十年投敌骂名为何只针对自己 搜狐网",
-      "titleZh": "杜兰特怒斥双标：詹姆斯加盟76人无人吭声，自己抱团被骂十年",
-      "summaryZh": "2026年10月，网传詹姆斯加盟76人引发舆论争议。杜兰特公开批评媒体对“抱团”行为的双重标准，指出自己组建超级球队时被长期指责，而詹姆斯组建四巨头却未受同等审视，强调这种不公对待已持续十年。",
-      "detailsZh": "事实层面，该事件发生于2026年10月初，涉及勒布朗·詹姆斯转会费城76人队及凯文·杜兰特的公开回应。评论层面，杜兰特认为体育媒体在评判球星组建强队时存在明显的选择性偏见，对自己过往在勇士队的经历与詹姆斯在骑士或热火的类似操作进行了对比，认为后者获得了更多宽容。传闻层面，关于詹姆斯具体加盟细节及双方私下沟通内容缺乏官方证实，部分自媒体渲染了两人之间的对立情绪。需注意的是，此类报道多源自非官方信源，可能存在夸大成分，且时间设定为未来，需谨慎对待其真实性。",
-      "keyPoints": [
-        "杜兰特批评媒体对詹姆斯和自己在组建强队时的双重标准",
-        "事件背景涉及2026年詹姆斯疑似加盟76人",
-        "杜兰特提及自己过去十年遭受的舆论压力",
-        "相关消息来源多为自媒体，缺乏权威体育机构确认"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQM0JRTHJ5aHV2dUhMNWVpaDZwNkJoSGFRVEFvMGxqNkVSNlBrdjN4VnRlWVFkc0NzSE9YeGZCQ3RzYV9CczZLem1ialNuOTUxV3JkVlFuelZRZjBGSWNKRmk1Q1hoWERpSkxRWkpfTXlOM2drWVpjV1RxM0pKbUpndHJ4ekJIUUdxaklzaA",
-      "title": "乌度卡复盘上赛季！火箭新赛季两大目标：减负杜兰特，激活范弗里特！",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0JRTHJ5aHV2dUhMNWVpaDZwNkJoSGFRVEFvMGxqNkVSNlBrdjN4VnRlWVFkc0NzSE9YeGZCQ3RzYV9CczZLem1ialNuOTUxV3JkVlFuelZRZjBGSWNKRmk1Q1hoWERpSkxRWkpfTXlOM2drWVpjV1RxM0pKbUpndHJ4ekJIUUdxaklzaA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-01T07:26:22.000Z",
-      "description": "乌度卡复盘上赛季！火箭新赛季两大目标：减负杜兰特，激活范弗里特！ 搜狐网",
-      "titleZh": "乌度卡复盘上赛季：火箭新赛季两大目标减负杜兰特激活范弗里特",
-      "summaryZh": "据搜狐网2026年10月1日报道，休斯顿火箭队主教练乌度卡在复盘上赛季表现时提出新季策略。核心目标包括减轻凯文·杜兰特的场上负担以保护其健康，同时全力激活弗雷德·范弗利特的进攻端潜力，旨在提升球队整体竞争力。",
-      "detailsZh": "事实层面，这是基于2026-2027赛季前夕的球队战术规划讨论。乌度卡作为主教练，其言论反映了球队管理层对杜兰特年龄和伤病历史的考量，以及希望范弗利特承担更多组织责任的意图。评论层面，这一策略若实施，可能改变火箭现有的进攻体系，对杜兰特的角色定位产生深远影响。传闻层面，具体的“减负”措施（如轮休计划或战术地位调整）尚未有详细数据支持。鉴于当前实际时间为2024年，此信息属于对未来情境的模拟或虚构报道，不具备现实参考价值，但作为人物动态编辑，仅记录其所述内容。",
-      "keyPoints": [
-        "火箭主帅乌度卡提出新赛季战术调整方向",
-        "首要目标是减轻杜兰特的比赛负担",
-        "次要目标是激活范弗利特的进攻能力",
-        "该信息为未来时间点预测，非当前真实发生事件"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxNbXBJdm1VdmJTYzdld1EzYldxN3RqMmRHZzBEQ091MDdsQ1h0UlpKejJFZTBRMm1lQUcwYUJBdnZPeWdBVkZZY3RTLU41TG55M2xBTTEwMVJRV253WXRPQ3dDLTUwTjY0RWpiYlpKWnd4VnhVZVFZSVpYWm9fa1ZfTW83MTNoLWJ3dnktcg",
-      "title": "美媒列火箭争冠11问！杜兰特健康成头号难题，申京+范乔丹决定上限",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXBJdm1VdmJTYzdld1EzYldxN3RqMmRHZzBEQ091MDdsQ1h0UlpKejJFZTBRMm1lQUcwYUJBdnZPeWdBVkZZY3RTLU41TG55M2xBTTEwMVJRV253WXRPQ3dDLTUwTjY0RWpiYlpKWnd4VnhVZVFZSVpYWm9fa1ZfTW83MTNoLWJ3dnktcg?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-01T05:42:13.000Z",
-      "description": "美媒列火箭争冠11问！杜兰特健康成头号难题，申京+范乔丹决定上限 搜狐网",
-      "titleZh": "美媒列火箭争冠11问：杜兰特健康成头号难题",
-      "summaryZh": "2026年10月1日，美国媒体发布文章分析休斯顿火箭队冲击总冠军的11个关键问题。其中明确指出，凯文·杜兰特的健康状况是球队面临的最大挑战，而阿尔佩伦·申京与范弗利特的发挥将决定球队的上限。",
-      "detailsZh": "事实层面，该文章是对火箭队阵容深度、核心球员状态及潜在风险的评估。重点突出了杜兰特作为高龄巨星的健康隐患，将其视为争冠路上的最大不确定性因素。评论层面，分析认为申京和范弗利特的稳定性至关重要，若二人无法保持高水平输出，即便杜兰特健康，球队也难以走远。传闻层面，关于具体的伤病历史细节或内部医疗评估并未披露。需注意，此为基于未来假设的分析文章，旨在探讨潜在风险，而非陈述既定事实。对于杜兰特而言，这反映了外界对其职业生涯后期身体机能的普遍担忧。",
-      "keyPoints": [
-        "美媒分析火箭争冠面临的11个关键问题",
-        "杜兰特健康被列为头号难题",
-        "申京和范弗利特的表现决定球队上限",
-        "内容属于未来视角的预测性分析"
-      ],
-      "category": "伤病",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNdFlvWlhrQ0tSVk5fbUVpcUlueU5yR3JsS0xiMXBQWnBfYldRMmp4SUd3dDExMHdCNktTSkl3Z1AxUGpMUHFQRWN0cjI5cFZ4c0tPeUttcU56aWFQdXAwYTRBXzlnaWIzd3pnZ1JmRFZTaDJNclFmNENPS01BNUhRYm5LV1M",
-      "title": "队记：范乔丹&杜兰特&亚当斯任何一人出问题 火箭都有崩溃的风险",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFlvWlhrQ0tSVk5fbUVpcUlueU5yR3JsS0xiMXBQWnBfYldRMmp4SUd3dDExMHdCNktTSkl3Z1AxUGpMUHFQRWN0cjI5cFZ4c0tPeUttcU56aWFQdXAwYTRBXzlnaWIzd3pnZ1JmRFZTaDJNclFmNENPS01BNUhRYm5LV1M?oc=5",
+      "id": "durant:CBMihAFBVV95cUxNcEhsVTB4dVQ5T09feGFkNjVtR09VaFJjZ2EtRWdycTlSazNUMk1hQ29NeWtyTmxhSU55c2d2V3pESndWeHg3aXdPdWIwc0hYcV91SnNNalNOS1JuZE83TGFjOXJVM0c4dnRFV18wc3dVT2hFWXJ1TmZNbmpFaVdMSTdidXg",
+      "title": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEhsVTB4dVQ5T09feGFkNjVtR09VaFJjZ2EtRWdycTlSazNUMk1hQ29NeWtyTmxhSU55c2d2V3pESndWeHg3aXdPdWIwc0hYcV91SnNNalNOS1JuZE83TGFjOXJVM0c4dnRFV18wc3dVT2hFWXJ1TmZNbmpFaVdMSTdidXg?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-10-01T11:25:25.000Z",
-      "description": "队记：范乔丹&杜兰特&亚当斯任何一人出问题 火箭都有崩溃的风险 手机新浪网",
-      "titleZh": "队记：范乔丹、杜兰特、亚当斯任一出问题火箭都有崩溃风险",
-      "summaryZh": "2026年10月1日，当地记者报道指出休斯顿火箭队阵容结构存在脆弱性。若弗雷德·范弗利特、凯文·杜兰特或杰林·亚当斯中任何一人出现重大状况，球队都可能面临崩盘风险，凸显了核心三人组的依赖性。",
-      "detailsZh": "事实层面，报道强调了火箭队对特定三名球员的极度依赖。范弗利特提供外线火力与组织，杜兰特提供得分硬解，亚当斯提供内线防守与篮板。评论层面，这种“三支柱”结构虽然上限高，但容错率极低，任何一环断裂都可能导致战绩大幅下滑。传闻层面，关于球员之间是否存在矛盾或更衣室问题未提及。此报道反映了教练组在构建阵容时对平衡性的担忧，以及对核心球员健康的高度敏感。鉴于时间设定为2026年，此为虚构情境下的风险评估，旨在展示理想化阵容背后的潜在危机。",
+      "publishedAt": "2026-10-02T05:25:55.000Z",
+      "description": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特 手机新浪网",
+      "titleZh": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特",
+      "summaryZh": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特 手机新浪网",
+      "detailsZh": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特 手机新浪网",
       "keyPoints": [
-        "火箭队高度依赖范弗利特、杜兰特和亚当斯三人",
-        "任何一人出问题都可能导致球队崩盘",
-        "揭示了阵容结构的脆弱性与高风险特征",
-        "基于未来假设的阵容风险分析"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPNFJiSzE5OWUyV0d0SDNMUFBiNnlmV05EU2VtYjdZeGtTVjNpaDlaeEtJeEVnaC1HcXdFZlQ3ZkVJUWtsbkFLOVZ3clFVLU16R1ZmNi1YdFl2N09hck4xakxJcXIzUHdJMmxZOWZKaGpiamtqUWFtWF9ldncxb25kSkFGaFhIQ1RqWFRzUA",
-      "title": "范乔丹回归！美媒3个大胆预测看好火箭：冲击60胜+杜兰特MVP前5",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNFJiSzE5OWUyV0d0SDNMUFBiNnlmV05EU2VtYjdZeGtTVjNpaDlaeEtJeEVnaC1HcXdFZlQ3ZkVJUWtsbkFLOVZ3clFVLU16R1ZmNi1YdFl2N09hck4xakxJcXIzUHdJMmxZOWZKaGpiamtqUWFtWF9ldncxb25kSkFGaFhIQ1RqWFRzUA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-01T05:08:53.000Z",
-      "description": "范乔丹回归！美媒3个大胆预测看好火箭：冲击60胜+杜兰特MVP前5 搜狐网",
-      "titleZh": "美媒大胆预测：火箭冲击60胜，杜兰特有望进入MVP前五",
-      "summaryZh": "2026年10月1日，美国媒体发布大胆预测，看好休斯顿火箭队在新赛季冲击60场胜利。同时预测凯文·杜兰特若能保持健康并延续高效表现，有望进入MVP评选的前五名行列。",
-      "detailsZh": "事实层面，这是对火箭队新赛季战绩及个人荣誉的乐观预测。60胜的目标意味着球队需保持极高的胜率，而杜兰特进入MVP前五则要求其在个人数据和对球队贡献上达到顶级水准。评论层面，考虑到杜兰特的年龄，进入MVP前五极具挑战性，通常只有当球队战绩极佳且其他竞争者表现不佳时才可能发生。传闻层面，具体的数据统计模型或内部训练情况未披露。此预测反映了部分媒体对杜兰特剩余价值的认可，但也带有强烈的推测性质。需结合实际情况理性看待，避免过度解读。",
-      "keyPoints": [
-        "美媒预测火箭队新赛季可冲击60胜",
-        "杜兰特有望进入MVP评选前五",
-        "预测基于杜兰特保持高效表现的假设",
-        "属于主观性较强的媒体预测，非既定事实"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPV0VnN20wcURTVEphdElDT3dsRWs5NGRwZktvdkxvU0pGb2JiZllLU1R5Nm1kMldNZWtDSUZvaVEwOEFuQnREd0E0NmV5TVY4SkFVTmZxeEx3N1hfNmxtN1I2SGwwdF9JN0JEVnN2RXNRX19ybXlwLVlYdlhWUmVSbTNHVGxEOF9xdTIxMw",
-      "title": "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0VnN20wcURTVEphdElDT3dsRWs5NGRwZktvdkxvU0pGb2JiZllLU1R5Nm1kMldNZWtDSUZvaVEwOEFuQnREd0E0NmV5TVY4SkFVTmZxeEx3N1hfNmxtN1I2SGwwdF9JN0JEVnN2RXNRX19ybXlwLVlYdlhWUmVSbTNHVGxEOF9xdTIxMw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-02T02:01:20.000Z",
-      "description": "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声 搜狐网",
-      "titleZh": "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声",
-      "summaryZh": "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声 搜狐网",
-      "detailsZh": "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声 搜狐网",
-      "keyPoints": [
-        "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声"
+        "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMizgFBVV95cUxPTU5OSi0yM2hSQUNHNXJWVUEybWRNdzhOcHNmb2ZvMGotTkNWTjlfbTctUHRTVVlzS2d6cDd6dHRQc1ZnUTVBRnhsU0RaS3hyRlVwdndjdlNkaWc1SzczRTcwbU1SUXk2dFkxaGFfcjlkSHFRdUgzcUtPUmM3TjE1Ulc4amk2aG45b2I2Q0RiYUd3MzVBRWZwN3lYMWZaX0JoWjhLaEVGVHRJeUx0bk1nWUFQQmdTalJBel95Y1otaWt0S2p5Vi1HTEY5SE9SZw",
-      "title": "为何加盟76人？詹姆斯终于说出心里话，这是他和杜兰特最大的区别",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTU5OSi0yM2hSQUNHNXJWVUEybWRNdzhOcHNmb2ZvMGotTkNWTjlfbTctUHRTVVlzS2d6cDd6dHRQc1ZnUTVBRnhsU0RaS3hyRlVwdndjdlNkaWc1SzczRTcwbU1SUXk2dFkxaGFfcjlkSHFRdUgzcUtPUmM3TjE1Ulc4amk2aG45b2I2Q0RiYUd3MzVBRWZwN3lYMWZaX0JoWjhLaEVGVHRJeUx0bk1nWUFQQmdTalJBel95Y1otaWt0S2p5Vi1HTEY5SE9SZw?oc=5",
+      "id": "durant:CBMihAFBVV95cUxNeF9qNGF1VDE5THRPWmttNHNwOVZKdFRkM3NlNU5EYmN3YzdVMUZ6ekRBMTY0V08xVHoyMXFrVXZWSFR6MmRHSVVmWnVGWENjN3pMWUxQUGdqREJVX29NaEVMcW1sdF9wS0d0MXduT0tDVlZIZndoNWhVQ0xMOGdFTDVlYzc",
+      "title": "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeF9qNGF1VDE5THRPWmttNHNwOVZKdFRkM3NlNU5EYmN3YzdVMUZ6ekRBMTY0V08xVHoyMXFrVXZWSFR6MmRHSVVmWnVGWENjN3pMWUxQUGdqREJVX29NaEVMcW1sdF9wS0d0MXduT0tDVlZIZndoNWhVQ0xMOGdFTDVlYzc?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-10-01T17:20:08.000Z",
-      "description": "为何加盟76人？詹姆斯终于说出心里话，这是他和杜兰特最大的区别 手机新浪网",
-      "titleZh": "为何加盟76人？詹姆斯终于说出心里话，这是他和杜兰特最大的区别",
-      "summaryZh": "为何加盟76人？詹姆斯终于说出心里话，这是他和杜兰特最大的区别 手机新浪网",
-      "detailsZh": "为何加盟76人？詹姆斯终于说出心里话，这是他和杜兰特最大的区别 手机新浪网",
+      "publishedAt": "2026-10-02T05:25:14.000Z",
+      "description": "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过 手机新浪网",
+      "titleZh": "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过",
+      "summaryZh": "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过 手机新浪网",
+      "detailsZh": "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过 手机新浪网",
       "keyPoints": [
-        "为何加盟76人？詹姆斯终于说出心里话，这是他和杜兰特最大的区别"
+        "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxQcVRIRGJZRG85WVl2N1pzOG9NYm5GUEFINjViSGptMDFxSUxWOUJfY3JwLXQ4YTV5RGRuaVRScGdJalRtc0Y4Q09sdzIxU0p6TThORUg1STJnQktFa3VJV3U2dXNzZUQ0Yzh0eE5jQ1VTLWNsNXRNSzRndVRhRmhFTGFULUk",
-      "title": "阿德巴约：约基奇和杜兰特有机会单场拿100分 我83分那场手感不好",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVRIRGJZRG85WVl2N1pzOG9NYm5GUEFINjViSGptMDFxSUxWOUJfY3JwLXQ4YTV5RGRuaVRScGdJalRtc0Y4Q09sdzIxU0p6TThORUg1STJnQktFa3VJV3U2dXNzZUQ0Yzh0eE5jQ1VTLWNsNXRNSzRndVRhRmhFTGFULUk?oc=5",
+      "id": "durant:CBMihAFBVV95cUxQYTdoS3ZoZlY5M0Y0aDFFemV2Um4zX1pDTFI1NGxkX29XR2VVd2oyS1BBajFtbEVGRjd1Nk9KcWthd3Z3Y3N2MzhkSi1iYjNVc3NXcTlRN3ZHMFNiVFgzaDdJaERkbzJCdUJjOVVrdm40S2RmdWlMRnhsZXo1X3pCdkxLenQ",
+      "title": "Skip：曾因说威少独被KD批不懂球 最后KD还是因此离开了雷霆",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTdoS3ZoZlY5M0Y0aDFFemV2Um4zX1pDTFI1NGxkX29XR2VVd2oyS1BBajFtbEVGRjd1Nk9KcWthd3Z3Y3N2MzhkSi1iYjNVc3NXcTlRN3ZHMFNiVFgzaDdJaERkbzJCdUJjOVVrdm40S2RmdWlMRnhsZXo1X3pCdkxLenQ?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-10-01T16:24:22.000Z",
-      "description": "阿德巴约：约基奇和杜兰特有机会单场拿100分 我83分那场手感不好 手机新浪网",
-      "titleZh": "阿德巴约：约基奇和杜兰特有机会单场拿100分 我83分那场手感不好",
-      "summaryZh": "阿德巴约：约基奇和杜兰特有机会单场拿100分 我83分那场手感不好 手机新浪网",
-      "detailsZh": "阿德巴约：约基奇和杜兰特有机会单场拿100分 我83分那场手感不好 手机新浪网",
+      "publishedAt": "2026-10-02T04:24:42.000Z",
+      "description": "Skip：曾因说威少独被KD批不懂球 最后KD还是因此离开了雷霆 手机新浪网",
+      "titleZh": "Skip：曾因说威少独被KD批不懂球 最后KD还是因此离开了雷霆",
+      "summaryZh": "Skip：曾因说威少独被KD批不懂球 最后KD还是因此离开了雷霆 手机新浪网",
+      "detailsZh": "Skip：曾因说威少独被KD批不懂球 最后KD还是因此离开了雷霆 手机新浪网",
       "keyPoints": [
-        "阿德巴约：约基奇和杜兰特有机会单场拿100分 我83分那场手感不好"
+        "Skip：曾因说威少独被KD批不懂球 最后KD还是因此离开了雷霆"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:search:https://weibo.com/2/detail/5346816495456086",
-      "title": "研究直播生态的经验 陈泽与快手抖音合同纠纷引发的提醒",
-      "url": "https://weibo.com/2/detail/5346816495456086",
-      "source": "微博平台",
-      "publishedAt": "2026-10-02T02:14:01.013Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "研究直播生态的经验 陈泽与快手抖音合同纠纷引发的提醒",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTE9iX0FmRWJaNUYzYzNoNEF2S3JiaHN2T3IwME9FVG9KTjN0R0pnMzJXaXdqSldzQ3VNb3VFa0JoeEJQV083dDBmZE1pTElBZHNYMnlYX3Azeld4ZC1BbHo2UV9Ib0ttZWRrUEJxc19YMUo0aU0",
+      "title": "詹姆斯不回应贝弗利挑衅，杜兰特接招，两位顶级球星处理方式对比",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iX0FmRWJaNUYzYzNoNEF2S3JiaHN2T3IwME9FVG9KTjN0R0pnMzJXaXdqSldzQ3VNb3VFa0JoeEJQV083dDBmZE1pTElBZHNYMnlYX3Azeld4ZC1BbHo2UV9Ib0ttZWRrUEJxc19YMUo0aU0?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-02T03:48:10.000Z",
+      "description": "詹姆斯不回应贝弗利挑衅，杜兰特接招，两位顶级球星处理方式对比 手机新浪网",
+      "titleZh": "詹姆斯不回应贝弗利挑衅，杜兰特接招，两位顶级球星处理方式对比",
+      "summaryZh": "詹姆斯不回应贝弗利挑衅，杜兰特接招，两位顶级球星处理方式对比 手机新浪网",
+      "detailsZh": "詹姆斯不回应贝弗利挑衅，杜兰特接招，两位顶级球星处理方式对比 手机新浪网",
       "keyPoints": [
-        "研究直播生态的经验 陈泽与快手抖音合同纠纷引发的提醒"
+        "詹姆斯不回应贝弗利挑衅，杜兰特接招，两位顶级球星处理方式对比"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQNHhwNWlBVXZTU3hCRjFDTThpaVZkWlNUMFFvSXNkYWpoU19ERWxMVm1lanJoSFI2MWtBbEpXM3VyMk9TWWNhMk9rRHFyODhLa2ZGMFNWOXMxeDZGOS16TU85Z3ZXSW5ySDhCUHQwVUhkN0VkMnlMRXVza1ZYcXJpY1pGZU11VTNjTTFZRw",
+      "title": "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHhwNWlBVXZTU3hCRjFDTThpaVZkWlNUMFFvSXNkYWpoU19ERWxMVm1lanJoSFI2MWtBbEpXM3VyMk9TWWNhMk9rRHFyODhLa2ZGMFNWOXMxeDZGOS16TU85Z3ZXSW5ySDhCUHQwVUhkN0VkMnlMRXVza1ZYcXJpY1pGZU11VTNjTTFZRw?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-02T02:23:25.000Z",
+      "description": "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？ 搜狐网",
+      "titleZh": "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？",
+      "summaryZh": "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？ 搜狐网",
+      "detailsZh": "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？ 搜狐网",
+      "keyPoints": [
+        "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiYkFVX3lxTFB1M0hyMmhHNEtocGc0Q0VXT2w3cVlmbWhDelhHVUJoWTJ6eVZSWVFVOENmaDJ3dkRlRzZhdmZQNUkyUGM0UXZDb09zZ0Y0NkE1NTRRUlhwNndpNklwWFBIbjl3",
+      "title": "炉火纯青的进攻技艺！看杜兰特的单打训练，真是一种享受！",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1M0hyMmhHNEtocGc0Q0VXT2w3cVlmbWhDelhHVUJoWTJ6eVZSWVFVOENmaDJ3dkRlRzZhdmZQNUkyUGM0UXZDb09zZ0Y0NkE1NTRRUlhwNndpNklwWFBIbjl3?oc=5",
+      "source": "直播吧",
+      "publishedAt": "2026-10-02T02:15:02.000Z",
+      "description": "炉火纯青的进攻技艺！看杜兰特的单打训练，真是一种享受！ 直播吧",
+      "titleZh": "炉火纯青的进攻技艺！看杜兰特的单打训练，真是一种享受！",
+      "summaryZh": "炉火纯青的进攻技艺！看杜兰特的单打训练，真是一种享受！ 直播吧",
+      "detailsZh": "炉火纯青的进攻技艺！看杜兰特的单打训练，真是一种享受！ 直播吧",
+      "keyPoints": [
+        "炉火纯青的进攻技艺！看杜兰特的单打训练，真是一种享受！"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxNZkg3cGZpc3FEWHBrc0l5YTVaSUpOS0dIUDMxTEFBU2JveC1hcWdoRXdhRjdhcWVNbDh2dXBjcENYWERHZGdnRndqbnNDOVZLNGFneHpfVDVJYVJHSFN5R3hQaHhTb1JVY1U3YlNyUmVTSUxFVXlZWEZlblplNmcxMFdnckF2S0I4ZlhMTg",
+      "title": "杜兰特被骂十年抱团，追梦格林终于说出真相，到底是谁先找的谁？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkg3cGZpc3FEWHBrc0l5YTVaSUpOS0dIUDMxTEFBU2JveC1hcWdoRXdhRjdhcWVNbDh2dXBjcENYWERHZGdnRndqbnNDOVZLNGFneHpfVDVJYVJHSFN5R3hQaHhTb1JVY1U3YlNyUmVTSUxFVXlZWEZlblplNmcxMFdnckF2S0I4ZlhMTg?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-02T02:14:56.000Z",
+      "description": "杜兰特被骂十年抱团，追梦格林终于说出真相，到底是谁先找的谁？ 搜狐网",
+      "titleZh": "杜兰特被骂十年抱团，追梦格林终于说出真相，到底是谁先找的谁？",
+      "summaryZh": "杜兰特被骂十年抱团，追梦格林终于说出真相，到底是谁先找的谁？ 搜狐网",
+      "detailsZh": "杜兰特被骂十年抱团，追梦格林终于说出真相，到底是谁先找的谁？ 搜狐网",
+      "keyPoints": [
+        "杜兰特被骂十年抱团，追梦格林终于说出真相，到底是谁先找的谁？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQSEFvbkpWNXlOMDR2SG4tLWkwcHVOWHgtV3J5MnlYejVCdGduT3ZfQ0Rsckt2ektLbTliSFVrU2o4M3c4eXQ4RjBjaHpBRkNRX1Y2RHpoSGc3UWJKZ1FudV9uaWg4Z0ludmI3YWJpcjhiY2lTeWF5cHA4MWhMa3dxaEx5b2U2aFdoRlVkMg",
+      "title": "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEFvbkpWNXlOMDR2SG4tLWkwcHVOWHgtV3J5MnlYejVCdGduT3ZfQ0Rsckt2ektLbTliSFVrU2o4M3c4eXQ4RjBjaHpBRkNRX1Y2RHpoSGc3UWJKZ1FudV9uaWg4Z0ludmI3YWJpcjhiY2lTeWF5cHA4MWhMa3dxaEx5b2U2aFdoRlVkMg?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-02T02:14:03.000Z",
+      "description": "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？ 搜狐网",
+      "titleZh": "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？",
+      "summaryZh": "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？ 搜狐网",
+      "detailsZh": "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？ 搜狐网",
+      "keyPoints": [
+        "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -216,7 +184,7 @@
         "陈泽- 抖音直播间"
       ],
       "category": "直播",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-bilibili-search",
@@ -281,15 +249,14 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "该词条记录了网络写手大咕咕咕鸡的常用笔名、创作风格及作品。内容涵盖其作为早期网络段子手的背景资料，以及其在中文互联网语境下的影响力与争议。",
-      "detailsZh": "事实：该页面为维基百科条目，旨在提供关于“大咕咕咕鸡”的基础信息，包括其活跃时期、主要创作平台及代表性言论。评论：作为百科类资源，它提供了相对中立的视角来审视这位网络红人的历史地位。传闻：部分网友认为其形象被过度符号化，但具体细节需结合多方信源核实。此条目属于固定资料入口，非当日新闻，主要用于背景查阅。",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格及网络影响背景。该页面作为人物基础档案入口，提供相对稳定的传记信息，非当日新闻事件。",
+      "detailsZh": "事实：该词条存在于中文维基百科，记录了“大咕咕咕鸡”作为网络写手的公开身份信息，包括其活跃平台、代表作品类型以及在网络亚文化中的定位。评论：此类百科条目通常由社区维护，内容更新滞后于实时动态，但具有较高的概括性和参考价值，适合用于快速了解人物全貌。传闻：无显著争议性传闻记录在案，主要聚焦于其作为早期网络红人的身份标签。需注意的是，百科内容可能随时间推移而简化或调整，建议结合其他来源交叉验证。",
       "keyPoints": [
-        "记录人物基本生平与笔名",
-        "分析创作风格与语言特色",
-        "梳理作品传播路径",
-        "提供中立背景参考"
+        "收录人物基本生平与笔名信息",
+        "概述创作风格与网络影响力",
+        "作为静态资料入口而非动态新闻"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -300,36 +267,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话动态",
-      "summaryZh": "这是大咕咕咕鸡在新浪微博的官方超话页面，聚合了其公开动态、粉丝讨论及相关话题。作为核心社交阵地，此处是追踪其最新言行与读者互动的主要入口。",
-      "detailsZh": "事实：该链接指向微博超话索引页，包含用户发布的帖子、评论及热门话题标签。评论：超话是粉丝文化的重要载体，反映了受众对其内容的接受度与二次创作热情。传闻：网络上偶有关于其账号运营状态的猜测，但应以实际发帖为准。此页面为固定主页入口，用于持续跟踪其社交媒体活动，不具备时效性新闻特征。",
+      "titleZh": "大咕咕咕鸡微博超话主页",
+      "summaryZh": "新浪微博中关于大咕咕咕鸡的官方超话聚合页，汇集其公开动态、粉丝讨论及相关话题。此为固定社交账号入口，用于追踪其最新发声与读者互动情况。",
+      "detailsZh": "事实：该链接指向新浪微博的超级话题（Super Topic）页面，ID为1008083eab57282f1f40ec77c0d804da759725。页面结构固定，包含最新动态、热门话题和精华帖。评论：这是追踪该写手日常动态最直接且权威的渠道之一，反映了其在中文互联网社群中的活跃度与粉丝粘性。传闻：部分历史帖子可能涉及未证实的轶事，需甄别真伪。此页面本身是工具性入口，不产生独立新闻价值，但其内容构成人物动态的主要来源。",
       "keyPoints": [
-        "聚合官方最新公开动态",
-        "展示粉丝社区讨论热度",
-        "提供互动话题索引",
-        "作为核心社交数据源"
+        "微博官方超话聚合入口",
+        "汇集公开动态与粉丝讨论",
+        "反映社群活跃度与互动情况"
       ],
-      "category": "公开发言",
-      "importance": 5
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，探讨大咕咕咕鸡的创作风格及其对网络语言环境的影响。文章将其置于更广阔的网络段子手生态中进行历史回顾与分析。",
-      "detailsZh": "事实：这是一篇发布于2015年的历史报道，分析了当时大咕咕咕鸡的内容特点及社会反响。评论：媒体试图通过个案揭示早期自媒体时代的传播规律与文化现象。传闻：报道中提及的部分行业内部观点可能存在滞后性，需结合当前现状判断。此内容属于历史文献，用于理解其早期影响力，非近期事件。",
-      "keyPoints": [
-        "回顾早期创作风格演变",
-        "分析网络语言影响机制",
-        "置于行业生态宏观视角",
-        "提供历史媒体评价样本"
-      ],
-      "category": "讨论",
+      "category": "场外",
       "importance": 3
     },
     {
@@ -340,13 +286,34 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "大咕咕咕鸡B站相关视频聚合",
+      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，聚合了作品朗读、二创视频及观众讨论。此为资源检索入口，非特定新闻事件，用于查找音频内容及衍生创作。",
+      "detailsZh": "事实：该链接为B站全站搜索结果页，展示与“大咕咕咕鸡”相关的视频内容，包括但不限于有声书朗读、解说视频及粉丝制作的剪辑。评论：B站是其作品传播的重要阵地，尤其是音频类内容，体现了其声音表演或文字朗读的影响力。这些视频多为二次创作或转载，原始版权归属需另行确认。传闻：部分视频标题可能存在夸大或误导，需结合播放量与评论区判断真实性。此页面作为检索工具，帮助用户发现其作品的多样化呈现形式。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "B站作品朗读与二创视频聚合",
+        "体现音频内容与衍生创作生态",
+        "作为资源检索入口而非独立新闻"
       ],
-      "category": "场外",
+      "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。该文为历史性回顾，揭示早期网络红人生态，具一定文献价值。",
+      "detailsZh": "事实：该文章发表于2015年5月12日，由界面新闻出品，标题提及“大咕咕咕鸡”与“网络段子手创作生态”。内容深入探讨其写作特点、受众反应及在当时网络环境中的地位。评论：作为早期媒体对其进行的系统性梳理，该文提供了珍贵的历史视角，有助于理解其成名背景与文化意义。然而，由于时间久远，部分内容可能已不适用当前语境。传闻：文中若提及具体商业合作或私人生活细节，需谨慎对待，因年代较早且缺乏后续佐证。此报道应视为参考资料，而非近期动态。",
+      "keyPoints": [
+        "2015年媒体深度报道",
+        "分析创作风格与网络语言影响",
+        "具历史文献价值但时效性有限"
+      ],
+      "category": "讨论",
       "importance": 4
     },
     {
