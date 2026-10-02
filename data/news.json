@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:50:07.573Z",
+  "updatedAt": "2026-10-02T20:45:36.950Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,116 +16,97 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMikwFBVV95cUxPdzlkMzhWczRLZVNJbGxDZThwRmlmam1BeGpVbFUyd2JCS043T0VndC1GMEw3Yzh6TFJCTENHQ1VKMm5fbTU5TUFWTURfa29zd2J0VzlUeHh1REppdzBVeHhkNXRMME1BUHhXQjRSMVYtQVZ6ZU9LYm9pelk2RFlYekJsakl0X01QdkxxOEVBWkFabEU",
-      "title": "今夏杜兰特多次来到洛杉矶训练馆训练， 即将开启生涯第20季",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzlkMzhWczRLZVNJbGxDZThwRmlmam1BeGpVbFUyd2JCS043T0VndC1GMEw3Yzh6TFJCTENHQ1VKMm5fbTU5TUFWTURfa29zd2J0VzlUeHh1REppdzBVeHhkNXRMME1BUHhXQjRSMVYtQVZ6ZU9LYm9pelk2RFlYekJsakl0X01QdkxxOEVBWkFabEU?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-02T01:55:04.000Z",
-      "description": "今夏杜兰特多次来到洛杉矶训练馆训练， 即将开启生涯第20季 手机新浪网",
-      "titleZh": "杜兰特开启生涯第20季，今夏在洛杉矶高强度训练",
-      "summaryZh": "据手机新浪网报道，凯文·杜兰特今年夏天多次前往洛杉矶训练馆进行特训，为即将开启的职业生涯第20个赛季做准备，展现了其职业态度。",
-      "detailsZh": "事实：报道指出杜兰特在今夏频繁出现在洛杉矶的训练设施中，旨在保持竞技状态并适应新赛季节奏。评论：此举被视为杜兰特维持顶级竞争力的关键举措，尤其是考虑到他即将进入生涯第20年，体能管理和技术打磨至关重要。传闻：无具体转会或伤病传闻，主要聚焦于其备战状态。该信息强调了杜兰特对篮球的长期承诺和自律精神。",
+      "id": "durant:CBMiS0FVX3lxTE9qbUZiWXVLbnRSeU0zRUxsZ01BTHJLTHhLX3Y3T0JCVW9DYTFwT2NxaDJWSU9GM0ZrUW4zVUlCWG1Dd3ZYWFU4ZERWUQ",
+      "title": "[流言板]杜兰特谈文班拒绝代言博彩：遵循个人意愿做想做的事",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qbUZiWXVLbnRSeU0zRUxsZ01BTHJLTHhLX3Y3T0JCVW9DYTFwT2NxaDJWSU9GM0ZrUW4zVUlCWG1Dd3ZYWFU4ZERWUQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-02T19:56:46.000Z",
+      "description": "[流言板]杜兰特谈文班拒绝代言博彩：遵循个人意愿做想做的事 虎扑体育",
+      "titleZh": "杜兰特回应文班雅玛拒接博彩代言：尊重个人选择",
+      "summaryZh": "针对维克托·文班雅玛拒绝体育博彩代言的行为，凯文·杜兰特表示球员应遵循个人意愿做想做的事。杜兰特强调这是个人自由，与己无关，展现了成熟的态度。",
+      "detailsZh": "事实：在近期关于体育博彩代言的讨论中，马刺新星文班雅玛明确拒绝此类合作。杜兰特对此发表评论，认为球员有权根据自己的价值观做出选择，不应受到外界道德审判。评论：杜兰特的言论体现了他对职业运动员商业自主权的尊重，同时也间接承认了自身参与博彩代言的事实。传闻：无直接证据表明杜兰特因此事改变立场，其FanDuel代言关系依然稳固。",
       "keyPoints": [
-        "杜兰特今夏在洛杉矶进行密集训练",
-        "准备开启职业生涯第20个赛季",
-        "展现极高的职业素养和自律性"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQbU50dVNOSDJLaFdyd29wMVlGaUJsQms2ejJWMkJqVFQ2ZEdGVG9laTFMZkVkdWk2S256NXozSUpWWWFWb2FfSkNrVFdfUjJBSXZNTVdvOUJXdXlrbV9OalkyS1FtdVUyNUNyclBpVDNGSlFwLWR4M0tqSmN4TDZoOUZ0TEdMbmNBS2Nibw",
-      "title": "詹姆斯加盟76人，杜兰特怒斥双标，十年投敌骂名为何只针对自己",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbU50dVNOSDJLaFdyd29wMVlGaUJsQms2ejJWMkJqVFQ2ZEdGVG9laTFMZkVkdWk2S256NXozSUpWWWFWb2FfSkNrVFdfUjJBSXZNTVdvOUJXdXlrbV9OalkyS1FtdVUyNUNyclBpVDNGSlFwLWR4M0tqSmN4TDZoOUZ0TEdMbmNBS2Nibw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-02T01:55:09.000Z",
-      "description": "詹姆斯加盟76人，杜兰特怒斥双标，十年投敌骂名为何只针对自己 搜狐网",
-      "titleZh": "杜兰特怒斥媒体双标：詹姆斯加盟76人无人吭声",
-      "summaryZh": "搜狐网报道，针对詹姆斯加盟76人的消息，杜兰特公开批评媒体存在双重标准，认为自己当年“抱团”被骂十年，而詹姆斯组建四巨头却未受同等指责。",
-      "detailsZh": "事实：杜兰特在社交媒体或采访中表达了对媒体对待不同球星行为差异的不满，特别是将自身经历与勒布朗·詹姆斯进行对比。评论：这反映了杜兰特长期以来对公众舆论和媒体叙事的不满情绪，他认为自己在勇士时期的决定被过度妖魔化，而其他球星的类似操作则被宽容对待。传闻：关于詹姆斯加盟76人的消息本身需核实，但杜兰特的反应是明确的。此事件凸显了NBA球星与媒体关系的复杂性。",
-      "keyPoints": [
-        "杜兰特批评媒体对詹姆斯和自身的双重标准",
-        "提及自己“抱团”争议持续十年",
-        "对比詹姆斯组建四巨头未受同等指责"
+        "杜兰特支持球员自主选择是否代言博彩",
+        "强调个人意愿高于外界道德评判",
+        "回应文班雅玛的拒绝行为"
       ],
       "category": "场外",
-      "importance": 5
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPV0VnN20wcURTVEphdElDT3dsRWs5NGRwZktvdkxvU0pGb2JiZllLU1R5Nm1kMldNZWtDSUZvaVEwOEFuQnREd0E0NmV5TVY4SkFVTmZxeEx3N1hfNmxtN1I2SGwwdF9JN0JEVnN2RXNRX19ybXlwLVlYdlhWUmVSbTNHVGxEOF9xdTIxMw",
-      "title": "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0VnN20wcURTVEphdElDT3dsRWs5NGRwZktvdkxvU0pGb2JiZllLU1R5Nm1kMldNZWtDSUZvaVEwOEFuQnREd0E0NmV5TVY4SkFVTmZxeEx3N1hfNmxtN1I2SGwwdF9JN0JEVnN2RXNRX19ybXlwLVlYdlhWUmVSbTNHVGxEOF9xdTIxMw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-02T02:01:20.000Z",
-      "description": "杜兰特暗讽双标，自己抱团被骂十年，詹姆斯四巨头却无人吭声 搜狐网",
-      "titleZh": "杜兰特暗讽双标：自己抱团被骂十年，詹姆斯四巨头无人吭声",
-      "summaryZh": "搜狐网另一篇报道指出，杜兰特再次就媒体双标问题发声，暗示自己因“投敌”行为遭受长期负面评价，而詹姆斯的相关操作则未被同等批判。",
-      "detailsZh": "事实：杜兰特通过间接或直接的方式表达了对媒体偏见的看法，核心论点在于对其历史决定的不公平评判。评论：这一言论延续了杜兰特对过去争议的回应，显示他并未完全释怀。从公关角度看，这可能引发新一轮关于NBA球星道德标准和媒体责任的讨论。传闻：无新交易或伤病信息，纯属舆论场互动。",
-      "keyPoints": [
-        "杜兰特继续质疑媒体公正性",
-        "强调自身遭遇的不公平待遇",
-        "对比詹姆斯受到的不同舆论对待"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQNHhwNWlBVXZTU3hCRjFDTThpaVZkWlNUMFFvSXNkYWpoU19ERWxMVm1lanJoSFI2MWtBbEpXM3VyMk9TWWNhMk9rRHFyODhLa2ZGMFNWOXMxeDZGOS16TU85Z3ZXSW5ySDhCUHQwVUhkN0VkMnlMRXVza1ZYcXJpY1pGZU11VTNjTTFZRw",
-      "title": "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHhwNWlBVXZTU3hCRjFDTThpaVZkWlNUMFFvSXNkYWpoU19ERWxMVm1lanJoSFI2MWtBbEpXM3VyMk9TWWNhMk9rRHFyODhLa2ZGMFNWOXMxeDZGOS16TU85Z3ZXSW5ySDhCUHQwVUhkN0VkMnlMRXVza1ZYcXJpY1pGZU11VTNjTTFZRw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-02T02:23:25.000Z",
-      "description": "乌度卡罕见强硬，杜兰特公开回应，火箭新赛季战术往哪走？ 搜狐网",
-      "titleZh": "乌度卡强硬表态，杜兰特公开回应火箭新赛季战术走向",
-      "summaryZh": "搜狐网报道，火箭队主教练乌度卡近期采取强硬立场，杜兰特对此作出公开回应，外界关注此举是否会影响火箭队新赛季的战术部署和球队氛围。",
-      "detailsZh": "事实：乌度卡在管理或战术层面表现出强硬态度，杜兰特作为潜在队友或相关人物对此进行了回应。评论：如果杜兰特加入火箭，他与教练组的互动将直接影响球队化学反应。乌度卡的强硬风格可能与杜兰特的领导方式产生碰撞或互补。传闻：目前尚无官方确认杜兰特加盟火箭，此报道可能基于假设或流言。需警惕此类未经证实的交易传闻。",
-      "keyPoints": [
-        "火箭主帅乌度卡态度强硬",
-        "杜兰特对此作出公开回应",
-        "影响外界对火箭新赛季战术的预期"
-      ],
-      "category": "交易",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQSEFvbkpWNXlOMDR2SG4tLWkwcHVOWHgtV3J5MnlYejVCdGduT3ZfQ0Rsckt2ektLbTliSFVrU2o4M3c4eXQ4RjBjaHpBRkNRX1Y2RHpoSGc3UWJKZ1FudV9uaWg4Z0ludmI3YWJpcjhiY2lTeWF5cHA4MWhMa3dxaEx5b2U2aFdoRlVkMg",
-      "title": "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEFvbkpWNXlOMDR2SG4tLWkwcHVOWHgtV3J5MnlYejVCdGduT3ZfQ0Rsckt2ektLbTliSFVrU2o4M3c4eXQ4RjBjaHpBRkNRX1Y2RHpoSGc3UWJKZ1FudV9uaWg4Z0ludmI3YWJpcjhiY2lTeWF5cHA4MWhMa3dxaEx5b2U2aFdoRlVkMg?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-02T02:14:03.000Z",
-      "description": "火箭四巨头集结，2.08亿续约成隐患，杜兰特又被坑了？ 搜狐网",
-      "titleZh": "火箭四巨头集结引担忧，杜兰特续约成隐患？",
-      "summaryZh": "搜狐网文章提出，若火箭队组建四巨头阵容，其高达2.08亿美元的续约合同可能成为财务隐患，并质疑杜兰特是否会因此陷入不利境地。",
-      "detailsZh": "事实：报道讨论了火箭队潜在的薪资结构和球员续约问题，特别提到巨额合同带来的奢侈税压力。评论：这种分析属于典型的媒体推测，旨在吸引眼球。对于杜兰特而言，加入一支已有多名高薪球员的球队确实存在风险，但目前并无证据表明他已签约火箭。传闻：所谓“四巨头”和“杜兰特被坑”均为未经证实的猜测，缺乏官方来源支持。",
+      "id": "durant:CBMiqgFBVV95cUxNdThzN3k3SWp1dFE3cnp2ZklDNlVaNzhQbDU1RUk3WlFhZDljNHczTHJxdExkRjY4TDJJUUVNV3lSOEFZeFNDYTJ2V1kwcEtCdHdEYWVhdVpkUXg1eTdodnVPSzU1Vk54Vi1QN1FXejRWRkhZUlVIejJlbGVfVzFSX2FNdlJQcVFzSlpVb1RkYnM4QlloWEpSMHhZVHVHemNDTEg0MlRnVnNFdw",
+      "title": "Kevin Durant says he ‘didn’t think’ about morality of FanDuel sponsorship",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdThzN3k3SWp1dFE3cnp2ZklDNlVaNzhQbDU1RUk3WlFhZDljNHczTHJxdExkRjY4TDJJUUVNV3lSOEFZeFNDYTJ2V1kwcEtCdHdEYWVhdVpkUXg1eTdodnVPSzU1Vk54Vi1QN1FXejRWRkhZUlVIejJlbGVfVzFSX2FNdlJQcVFzSlpVb1RkYnM4QlloWEpSMHhZVHVHemNDTEg0MlRnVnNFdw?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-02T19:13:22.000Z",
+      "description": "Kevin Durant says he ‘didn’t think’ about morality of FanDuel sponsorship The New York Times",
+      "titleZh": "杜兰特坦言未深思FanDuel代言的道德争议",
+      "summaryZh": "据《纽约时报》报道，凯文·杜兰特承认在签署FanDuel赞助协议时，并未深入思考其背后的道德问题。这一表态引发了公众对明星运动员参与博彩行业伦理责任的广泛讨论。",
+      "detailsZh": "事实：杜兰特在接受采访时直言，当初签约FanDuel时主要考虑商业因素，未过多考量道德层面。评论：此举揭示了体育营销中商业利益与伦理责任的冲突。作为高收入球员，杜兰特的选择影响了大量粉丝，尤其是年轻群体。传闻：目前无迹象显示该代言面临法律风险或提前解约，但舆论压力持续存在。",
       "keyPoints": [
-        "火箭队潜在的四巨头阵容引发财务担忧",
-        "高额续约合同可能带来奢侈税压力",
-        "质疑杜兰特加入后的处境"
+        "杜兰特承认签约时未深思道德问题",
+        "引发公众对博彩代言伦理的讨论",
+        "FanDuel合作关系仍在继续"
       ],
-      "category": "交易",
-      "importance": 2
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNeF9qNGF1VDE5THRPWmttNHNwOVZKdFRkM3NlNU5EYmN3YzdVMUZ6ekRBMTY0V08xVHoyMXFrVXZWSFR6MmRHSVVmWnVGWENjN3pMWUxQUGdqREJVX29NaEVMcW1sdF9wS0d0MXduT0tDVlZIZndoNWhVQ0xMOGdFTDVlYzc",
-      "title": "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeF9qNGF1VDE5THRPWmttNHNwOVZKdFRkM3NlNU5EYmN3YzdVMUZ6ekRBMTY0V08xVHoyMXFrVXZWSFR6MmRHSVVmWnVGWENjN3pMWUxQUGdqREJVX29NaEVMcW1sdF9wS0d0MXduT0tDVlZIZndoNWhVQ0xMOGdFTDVlYzc?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-02T05:25:14.000Z",
-      "description": "费尔顿：杜库之间我会选库里来建队 KD离开勇士后就没赢过 手机新浪网",
-      "titleZh": "费尔顿观点：建队选库里不选KD，称KD离开勇士后未赢过",
-      "summaryZh": "手机新浪网引述前NBA球员费尔顿的观点，认为在库里和杜兰特之间建队会选择库里，并声称杜兰特离开勇士后从未赢得过总冠军。",
-      "detailsZh": "事实：费尔顿表达了个人偏好，并提出了一个可验证的事实陈述（KD离开勇士后的冠军记录）。评论：费尔顿的观点代表了部分球迷和专家的看法，即库里的体系更适合建队核心。然而，“离开勇士后没赢过”是事实，但这并不否定KD的个人能力或其在其他球队的表现。此言论更多是主观评价而非客观新闻。",
+      "id": "durant:CBMigwJBVV95cUxPbzFmMmdHcUREMWxMSnVGVjdyRGhWcENka1pQb09GT21tRGFqUTdyU3BOM0xkb0ZMR2pyamtlYkp6RlRtR2xfTXJsaGpnLVpma2JaWWhQQ2VFN1d5X3JzejBpWnUzTV93YjJBUGliZl9VbzJVdkVlYXBDRjE5c3hlNFhFZUNHZXlBNG5YeVEtb2FzNm1uN2N2VnhhUkYzWmh2Z2dKWlI1OUlpaTFSaWRxWE9lVmZLTllOX0lvcTJ1aThvcDluV2tqaFlPSUtqWDZaVU5ocGNfQU9IU3VkNVYzYThZNUtZMW04Ti11VXdWRWpXcEhuTnc5VmhFUXNPT2hjVEdJ",
+      "title": "Fan Duel-endorsed Kevin Durant on Victor Wembanyama's gambling criticism: 'That has nothing to do with me'",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbzFmMmdHcUREMWxMSnVGVjdyRGhWcENka1pQb09GT21tRGFqUTdyU3BOM0xkb0ZMR2pyamtlYkp6RlRtR2xfTXJsaGpnLVpma2JaWWhQQ2VFN1d5X3JzejBpWnUzTV93YjJBUGliZl9VbzJVdkVlYXBDRjE5c3hlNFhFZUNHZXlBNG5YeVEtb2FzNm1uN2N2VnhhUkYzWmh2Z2dKWlI1OUlpaTFSaWRxWE9lVmZLTllOX0lvcTJ1aThvcDluV2tqaFlPSUtqWDZaVU5ocGNfQU9IU3VkNVYzYThZNUtZMW04Ti11VXdWRWpXcEhuTnc5VmhFUXNPT2hjVEdJ?oc=5",
+      "source": "HoopsHype",
+      "publishedAt": "2026-10-02T19:08:00.000Z",
+      "description": "Fan Duel-endorsed Kevin Durant on Victor Wembanyama's gambling criticism: 'That has nothing to do with me' HoopsHype",
+      "titleZh": "杜兰特回应文班雅玛批评：博彩代言与我无关",
+      "summaryZh": "面对文班雅玛对体育博彩行业的批评，杜兰特明确表示“这与我没有关系”。他坚持自己的商业决策独立性，同时暗示不同球员对同一行业持有不同看法是正常现象。",
+      "detailsZh": "事实：杜兰特公开回应文班雅玛的立场，强调两者观点无需统一。评论：这反映了NBA内部在商业代言议题上的分歧。杜兰特作为资深球员，更倾向于利用自身影响力变现，而新秀则更注重品牌形象保护。传闻：双方并无私下冲突，仅为公开场合的观点差异。",
       "keyPoints": [
-        "费尔顿倾向于以库里为核心建队",
-        "指出杜兰特离开勇士后无冠军入账",
-        "反映部分人对两人建队价值的比较"
+        "杜兰特否认与文班雅玛有直接关联",
+        "强调商业决策的独立性",
+        "反映联盟内部分歧"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE5YTFBYZkpKQThTMkgxMG9nNVJUQjU0a3VsVUI3SktEcUhmMHdGVkRTelE2Z2JpbUQ4OE5yeXZzVjlwQS1UV2JLcXJLQQ",
+      "title": "[流言板]杜兰特：现在一些球员培养的方式让篮球失去灵魂",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YTFBYZkpKQThTMkgxMG9nNVJUQjU0a3VsVUI3SktEcUhmMHdGVkRTelE2Z2JpbUQ4OE5yeXZzVjlwQS1UV2JLcXJLQQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-02T18:02:19.000Z",
+      "description": "[流言板]杜兰特：现在一些球员培养的方式让篮球失去灵魂 虎扑体育",
+      "titleZh": "杜兰特批评现代球员培养方式让篮球失去灵魂",
+      "summaryZh": "杜兰特指出，当前一些球员的培养模式过于注重数据而非比赛本质，导致篮球运动失去了原有的灵魂和激情。这一观点引发了关于青训体系改革的深层思考。",
+      "detailsZh": "事实：杜兰特在采访中表示，过度依赖数据分析可能削弱球员的创造力和比赛直觉。评论：他的批评直指现代篮球战术体系的弊端，即效率至上主义对艺术性的侵蚀。传闻：暂无具体改革措施出台，但此言论可能影响年轻球员的训练理念。",
+      "keyPoints": [
+        "批评现代球员培养重数据轻本质",
+        "认为篮球失去灵魂与激情",
+        "引发对青训体系的反思"
       ],
       "category": "比赛",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMikwFBVV95cUxPcHR2bGZwQUluMmJpTjgtbUU5MlJiYVozZDJFVEFvaDMzbE9EMXZHTEowSFM0ejc4YTY2VGRzckdKQUVqN3ZFbzVjTC1pOWo2QVFwaXRBTURidlFTX0JndXMyaGFwU1B5ZEMxa1ROeE0tTV9RYzhDeEVGd1p1QzFXNlpyQUppQXFDWnRYQkJDVE9ybDQ",
+      "title": "都是38岁，乐福没人要，康利年薪245万，杜兰特4390万，库里太狠",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcHR2bGZwQUluMmJpTjgtbUU5MlJiYVozZDJFVEFvaDMzbE9EMXZHTEowSFM0ejc4YTY2VGRzckdKQUVqN3ZFbzVjTC1pOWo2QVFwaXRBTURidlFTX0JndXMyaGFwU1B5ZEMxa1ROeE0tTV9RYzhDeEVGd1p1QzFXNlpyQUppQXFDWnRYQkJDVE9ybDQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-02T08:29:00.000Z",
+      "description": "都是38岁，乐福没人要，康利年薪245万，杜兰特4390万，库里太狠 手机新浪网",
+      "titleZh": "杜兰特年薪对比：38岁老将薪资现状分析",
+      "summaryZh": "媒体对比了多位38岁老将的薪资状况，杜兰特以4390万美元年薪位居前列，远高于康利等人。这一数据凸显了杜兰特在联盟中的顶级地位及其市场价值。",
+      "detailsZh": "事实：杜兰特当前年薪为4390万美元，而同龄的乐福无人问津，康利仅245万。评论：这反映了杜兰特即便年龄增长，仍保持极高的竞技水平和商业吸引力。传闻：其合同剩余年限及未来续约可能性成为球迷热议话题。",
+      "keyPoints": [
+        "杜兰特年薪4390万美元居同龄前列",
+        "体现其市场价值与竞技状态",
+        "与其他老将形成鲜明对比"
+      ],
+      "category": "交易",
       "importance": 3
     },
     {
@@ -136,49 +117,47 @@
       "source": "手机新浪网",
       "publishedAt": "2026-10-02T05:25:55.000Z",
       "description": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特 手机新浪网",
-      "titleZh": "丁彦雨航/周琦最想在中国赛见到杜兰特",
-      "summaryZh": "手机新浪网报道，在中国NBA赛事相关的调查中，中国球员丁彦雨航和周琦均表示最想见到的球星是凯文·杜兰特，显示其在亚洲的影响力。",
-      "detailsZh": "事实：丁彦雨航和周琦在接受采访时明确表达了对杜兰特的欣赏和见面愿望。评论：这体现了杜兰特在全球范围内，特别是在中国市场的高人气和商业价值。对于NBA推广中国赛而言，吸引像杜兰特这样的超级巨星有助于提升赛事关注度。此为正面且无争议的新闻。",
+      "titleZh": "丁彦雨航与周琦期待在中国赛见到杜兰特",
+      "summaryZh": "在中国赛宣传活动中，丁彦雨航和周琦均表示最想见到的NBA球星是凯文·杜兰特。这一互动展现了杜兰特在中国球迷心中的极高人气及其对中国篮球的影响。",
+      "detailsZh": "事实：两位中国球员在采访中一致点名杜兰特。评论：这不仅体现了杜兰特的全球影响力，也反映了中国篮球界对其技术风格的认可。传闻：杜兰特是否会出席此次中国赛尚无官方确认，但呼声高涨。",
       "keyPoints": [
-        "丁彦雨航和周琦首选见杜兰特",
-        "体现杜兰特在中国市场的高人气",
-        "有利于NBA中国赛的推广"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiWEFVX3lxTFBXMS1fV3NMRzRETDdaSzRSN3ZYZVlGQXo4aVFMek5aSXpjZzNQRHlyd2VzN0IyRGgyUUozZVJIdXNGME5oZGhFMnZ0Q1FUZ1RzaFJGLTZpeEs",
-      "title": "抽象依旧！杜兰特生日晒魔改电影海报：把自己P成四十岁老处男主角",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXMS1fV3NMRzRETDdaSzRSN3ZYZVlGQXo4aVFMek5aSXpjZzNQRHlyd2VzN0IyRGgyUUozZVJIdXNGME5oZGhFMnZ0Q1FUZ1RzaFJGLTZpeEs?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-10-02T01:54:53.000Z",
-      "description": "抽象依旧！杜兰特生日晒魔改电影海报：把自己P成四十岁老处男主角 企鹅体育",
-      "titleZh": "杜兰特生日晒魔改海报，自嘲四十岁老处男形象",
-      "summaryZh": "企鹅体育报道，杜兰特在生日当天发布了一张经过修改的电影海报，将自己P成四十岁的“老处男”主角，展现了其幽默风趣的一面。",
-      "detailsZh": "事实：杜兰特在社交媒体上分享了一张恶搞图片，内容涉及年龄和单身状态的自嘲。评论：这种行为符合杜兰特一贯的社交媒体风格，善于用幽默化解外界对其年龄或私生活的关注。这是一种轻松的场外活动，不涉及竞技或商业重大决策，主要起到娱乐粉丝的作用。",
-      "keyPoints": [
-        "杜兰特生日发布自黑海报",
-        "调侃自己四十岁单身状态",
-        "展现幽默性格和社交媒体活跃度"
+        "丁彦雨航与周琦共同期待杜兰特",
+        "展现杜兰特在中国的高人气",
+        "反映中国篮球界对其的认可"
       ],
       "category": "场外",
       "importance": 2
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3",
-      "title": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3?oc=5",
-      "source": "腾讯新闻",
-      "publishedAt": "2026-09-23T07:00:00.000Z",
-      "description": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
-      "titleZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
-      "summaryZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
-      "detailsZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
+      "subject": "durant",
+      "id": "durant:CBMioAFBVV95cUxNYm4xMGxBZnd3N3hyNGdQTTVkeG1iMHZ5cGxZeHN0Tmx0Wjk1aW5nRlB5cDdCR3NjdS1Rai1HR1MzeHUwYnVJVURXWlJvUURZT2NwMTdmMzlZa2l5NGZQVjR3YlNMZ2NaTVNXMXlUNWthOF9KUHhPaDh6cU1XNlZWaVZHb2pNLWd3SFl1QVltNHA2aU41dVNaTXNwY3huX205",
+      "title": "Rockets news: Kevin Durant jokes about playing flag football in Olympics",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYm4xMGxBZnd3N3hyNGdQTTVkeG1iMHZ5cGxZeHN0Tmx0Wjk1aW5nRlB5cDdCR3NjdS1Rai1HR1MzeHUwYnVJVURXWlJvUURZT2NwMTdmMzlZa2l5NGZQVjR3YlNMZ2NaTVNXMXlUNWthOF9KUHhPaDh6cU1XNlZWaVZHb2pNLWd3SFl1QVltNHA2aU41dVNaTXNwY3huX205?oc=5",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-10-02T19:39:56.000Z",
+      "description": "Rockets news: Kevin Durant jokes about playing flag football in Olympics ClutchPoints",
+      "titleZh": "Rockets news: Kevin Durant jokes about playing flag football in Olympics",
+      "summaryZh": "Rockets news: Kevin Durant jokes about playing flag football in Olympics ClutchPoints",
+      "detailsZh": "Rockets news: Kevin Durant jokes about playing flag football in Olympics ClutchPoints",
       "keyPoints": [
-        "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重"
+        "Rockets news: Kevin Durant jokes about playing flag football in Olympics"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTFBEREg5T3NVeTk2TUNQbWtISHkzOFJqUU5jQXhLczJxZGJoU3ZrUkw1WlhIRUV4WFYtUmUtY2RRVFlmekVnUWVHbVJ0TQ",
+      "title": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEREg5T3NVeTk2TUNQbWtISHkzOFJqUU5jQXhLczJxZGJoU3ZrUkw1WlhIRUV4WFYtUmUtY2RRVFlmekVnUWVHbVJ0TQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-02T19:38:08.000Z",
+      "description": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？ 虎扑体育",
+      "titleZh": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？",
+      "summaryZh": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？ 虎扑体育",
+      "detailsZh": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？ 虎扑体育",
+      "keyPoints": [
+        "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？"
       ],
       "category": "场外",
       "importance": 4
@@ -217,7 +196,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -257,25 +236,6 @@
       "importance": 3
     },
     {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡词条，涵盖其常用笔名、创作风格及网络影响力背景。该页面作为基础资料入口，提供相对客观的人物生平与作品综述，是核实其身份与早期活动的重要参考源。",
-      "detailsZh": "事实：该词条存在并持续更新，记录了大咕咕咕鸡作为网络写手的公开信息，包括其活跃平台、代表作品类型以及在中文互联网社区中的知名度演变。评论：维基百科的编辑机制保证了内容的中立性，但依赖社区维护，可能存在滞后或细微偏差。传闻：无直接关联传闻，但该条目常被用作其他自媒体引用的权威背书。此条目非当日新闻，而是长期存在的静态资料库，建议作为背景知识查阅而非追踪最新动态。",
-      "keyPoints": [
-        "记录常用笔名与创作风格",
-        "梳理作品与网络影响脉络",
-        "提供中立背景资料参考"
-      ],
-      "category": "作品",
-      "importance": 4
-    },
-    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -283,16 +243,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话动态聚合页",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。作为粉丝互动与官方信息发布的核心阵地，实时反映其近期活动轨迹与舆论风向，是追踪其日常行为的关键入口。",
-      "detailsZh": "事实：该超话为指定话题页，包含用户发布的图文、视频及评论，数据实时更新。评论：超话内容质量参差不齐，需甄别营销号与真实粉丝发言。传闻：部分热门帖子可能涉及未经证实的八卦，需谨慎对待。此页面为固定主页，非特定日期新闻，适合用于监控其最新公开言行及社群反应。",
+      "titleZh": "大咕咕咕鸡微博超话主页",
+      "summaryZh": "该条目为新浪微博“大咕咕咕鸡”超话的聚合入口，非单日新闻。汇集其公开动态、粉丝讨论及官方发布内容，是追踪其近期言论与互动的主要固定资料库。",
+      "detailsZh": "此链接指向新浪微博的超级话题页面，属于长期存在的固定信息聚合入口，而非特定日期的新闻报道或突发动态。该页面主要功能是汇总围绕网络写手“大咕咕咕鸡”的所有公开帖子、评论及粉丝互动。对于关注其创作风格演变、网络段子传播路径以及读者反馈的研究者而言，这是最核心的实时数据源。需注意的是，社交媒体上的讨论往往夹杂大量主观情绪与非事实性传闻，使用时应严格区分事实陈述与观点表达。该页面不直接提供深度分析，而是作为原始素材的收集地，建议结合其他权威媒体对其历史影响的报道进行交叉验证，以构建完整的人物形象。",
       "keyPoints": [
-        "聚合公开动态与读者讨论",
-        "反映近期活动轨迹",
-        "需甄别内容真实性"
+        "微博超话固定入口，非单日新闻",
+        "汇集公开动态与粉丝讨论",
+        "需甄别主观情绪与事实"
       ],
-      "category": "公开发言",
-      "importance": 5
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -302,16 +262,35 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站相关视频搜索聚合",
-      "summaryZh": "哔哩哔哩针对“大咕咕咕鸡”关键词的视频搜索结果页，包含作品朗读、二创视频及讨论内容。该页面展示其在视频平台的传播广度，是了解其作品多媒体化呈现形式的重要窗口。",
-      "detailsZh": "事实：搜索结果涵盖官方授权朗读、粉丝剪辑及第三方评测视频，按热度或时间排序。评论：视频内容多为二次创作，可能偏离原作意图，需注意版权与解读偏差。传闻：个别高播放量视频可能夸大其影响力或制造争议话题。此页面为动态搜索结果，非固定主页，适合用于观察其作品在视频领域的接受度与衍生文化。",
+      "titleZh": "大咕咕咕鸡B站作品朗读聚合页",
+      "summaryZh": "哔哩哔哩搜索关键词聚合页，收录其作品朗读、相关二创视频及历史讨论。属资源索引工具，非独立新闻事件，反映其在音频领域的传播广度。",
+      "detailsZh": "该链接为哔哩哔哩平台的搜索结果聚合页，通过关键词“大咕咕咕鸡”检索而来，属于资源索引类固定入口，不具备单一新闻事件的时效性。页面内容涵盖其文字作品的音频朗读版本、粉丝制作的二创视频以及相关的评论讨论区。这反映了其创作内容在多媒体形式的延伸与受众接受度。由于搜索结果包含大量用户上传的非官方内容，其中可能混杂未经核实的解读或错误信息。使用者应将其视为发现相关音视频资源的起点，而非权威的事实来源。重点可关注高播放量且评论区理性分析的优质朗读视频，以此了解其语言风格在不同媒介下的表现力及受众反馈趋势。",
       "keyPoints": [
-        "展示作品多媒体化呈现",
-        "包含二创与讨论内容",
-        "需关注版权与解读偏差"
+        "B站搜索聚合页，非独立新闻",
+        "含作品朗读与二创视频",
+        "需筛选非官方上传内容"
       ],
       "category": "作品",
       "importance": 3
+    },
+    {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡维基百科人物资料",
+      "summaryZh": "维基百科关于该网络写手的背景资料页，涵盖常用笔名、创作风格及网络影响。属静态百科条目，提供基础事实框架，但需注意编辑滞后性与中立性偏差。",
+      "detailsZh": "此为维基百科上关于网络写手“大咕咕咕鸡”的人物词条，属于静态的背景资料集合，而非动态的新闻报道。页面通常记录其常用的笔名、主要的创作风格（如黑色幽默、社会讽刺）、代表作品类型以及在互联网文化中的影响力评估。作为百科全书条目，其优势在于提供结构化的事实框架和引用来源，有助于快速建立对该人物的基本认知。然而，百科内容的更新可能存在滞后，且受限于编辑者的主观判断，可能存在中立性偏差或遗漏最新争议。因此，该资料适合作为研究的起点和背景参考，不应作为获取最新动向或深度独家信息的依据。使用时应核对引用的外部来源，以确保信息的准确性与时效性。",
+      "keyPoints": [
+        "静态百科条目，非动态新闻",
+        "涵盖笔名、风格与影响力",
+        "注意更新滞后与中立性偏差"
+      ],
+      "category": "场外",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -321,16 +300,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。该文回顾了其早期创作风格及对网络语言的影响，具有重要的历史文献价值，但时效性较低。",
-      "detailsZh": "事实：文章发表于2015年，分析了当时网络段子手的创作模式与大咕咕咕鸡的个人特色。评论：作为早期媒体对其的关注，反映了彼时公众对其形象的认知框架，可能与现状有差异。传闻：文中未提及后续发展，故不涉及近期传闻。此报道为历史档案，非当前动态，适用于研究其职业生涯起点及早期社会反响，不宜用于判断其现状。",
+      "titleZh": "界面新闻：大咕咕咕鸡与网络段子手生态",
+      "summaryZh": "2015年界面新闻深度报道，探讨大咕咕咕鸡的创作风格及其对网络语言的影响。属历史性回顾文章，提供早期职业轨迹与社会文化背景分析。",
+      "detailsZh": "这是一篇发布于2015年5月12日的界面新闻深度报道，标题涉及“大咕咕咕鸡与网络段子手创作生态”。该文属于历史性回顾性质的媒体分析，旨在探讨当时网络段子手的创作模式、传播机制及其对社会语言环境的影响，并将大咕咕咕鸡作为典型案例进行分析。文章提供了关于其早期创作风格、公众形象塑造以及在当时互联网语境下地位的宝贵视角。由于发布时间较早，文中信息无法反映其近年来的最新动态或风格转变，仅能作为理解其职业生涯起点和文化背景的历史文献。读者在阅读时应将其置于2015年的时代背景下考量，避免将当时的评价直接套用于当前。该报道具有较高的史料价值，适合用于研究网络文学发展史或社交媒体文化变迁。",
       "keyPoints": [
-        "回顾早期创作风格",
-        "分析网络语言影响",
-        "具历史文献价值"
+        "2015年历史深度报道",
+        "分析早期风格与文化影响",
+        "具史料价值但非最新动态"
       ],
-      "category": "讨论",
-      "importance": 2
+      "category": "公开发言",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
