@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:45:36.950Z",
+  "updatedAt": "2026-10-03T00:31:34.399Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,151 +16,139 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE9qbUZiWXVLbnRSeU0zRUxsZ01BTHJLTHhLX3Y3T0JCVW9DYTFwT2NxaDJWSU9GM0ZrUW4zVUlCWG1Dd3ZYWFU4ZERWUQ",
-      "title": "[流言板]杜兰特谈文班拒绝代言博彩：遵循个人意愿做想做的事",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qbUZiWXVLbnRSeU0zRUxsZ01BTHJLTHhLX3Y3T0JCVW9DYTFwT2NxaDJWSU9GM0ZrUW4zVUlCWG1Dd3ZYWFU4ZERWUQ?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-02T19:56:46.000Z",
-      "description": "[流言板]杜兰特谈文班拒绝代言博彩：遵循个人意愿做想做的事 虎扑体育",
-      "titleZh": "杜兰特回应文班雅玛拒接博彩代言：尊重个人选择",
-      "summaryZh": "针对维克托·文班雅玛拒绝体育博彩代言的行为，凯文·杜兰特表示球员应遵循个人意愿做想做的事。杜兰特强调这是个人自由，与己无关，展现了成熟的态度。",
-      "detailsZh": "事实：在近期关于体育博彩代言的讨论中，马刺新星文班雅玛明确拒绝此类合作。杜兰特对此发表评论，认为球员有权根据自己的价值观做出选择，不应受到外界道德审判。评论：杜兰特的言论体现了他对职业运动员商业自主权的尊重，同时也间接承认了自身参与博彩代言的事实。传闻：无直接证据表明杜兰特因此事改变立场，其FanDuel代言关系依然稳固。",
+      "id": "durant:CBMisgFBVV95cUxNNUpqUVkxdEpQLUtwNTBiOFNGMkVjdmVWUjNBSFJ0bU5yYW14eEJlbDZOZmtEV09GTXZnNk1TSV9SREVIcGRMNVdTYXdVMHE0bTBvUF9UaEgxRTVhT1BfM0VUT2FzUGVLSGp4SDQwQjFtbVZ3YWV2aVV4M3ROTklxai1fODlhZ21DaVhmRmNHOHRwY25tWndyM0JIM0dMbmE0TjViS2NKdmZHbVZxR0lpb0NR",
+      "title": "Rockets’ Kevin Durant Provides Direct Response to Victor Wembanyama",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUpqUVkxdEpQLUtwNTBiOFNGMkVjdmVWUjNBSFJ0bU5yYW14eEJlbDZOZmtEV09GTXZnNk1TSV9SREVIcGRMNVdTYXdVMHE0bTBvUF9UaEgxRTVhT1BfM0VUT2FzUGVLSGp4SDQwQjFtbVZ3YWV2aVV4M3ROTklxai1fODlhZ21DaVhmRmNHOHRwY25tWndyM0JIM0dMbmE0TjViS2NKdmZHbVZxR0lpb0NR?oc=5",
+      "source": "heavy.com",
+      "publishedAt": "2026-10-02T23:59:39.000Z",
+      "description": "Rockets’ Kevin Durant Provides Direct Response to Victor Wembanyama heavy.com",
+      "titleZh": "Rockets’ Kevin Durant Provides Direct Response to Victor Wembanyama",
+      "summaryZh": "Rockets’ Kevin Durant Provides Direct Response to Victor Wembanyama heavy.com",
+      "detailsZh": "Rockets’ Kevin Durant Provides Direct Response to Victor Wembanyama heavy.com",
       "keyPoints": [
-        "杜兰特支持球员自主选择是否代言博彩",
-        "强调个人意愿高于外界道德评判",
-        "回应文班雅玛的拒绝行为"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiqgFBVV95cUxNdThzN3k3SWp1dFE3cnp2ZklDNlVaNzhQbDU1RUk3WlFhZDljNHczTHJxdExkRjY4TDJJUUVNV3lSOEFZeFNDYTJ2V1kwcEtCdHdEYWVhdVpkUXg1eTdodnVPSzU1Vk54Vi1QN1FXejRWRkhZUlVIejJlbGVfVzFSX2FNdlJQcVFzSlpVb1RkYnM4QlloWEpSMHhZVHVHemNDTEg0MlRnVnNFdw",
-      "title": "Kevin Durant says he ‘didn’t think’ about morality of FanDuel sponsorship",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdThzN3k3SWp1dFE3cnp2ZklDNlVaNzhQbDU1RUk3WlFhZDljNHczTHJxdExkRjY4TDJJUUVNV3lSOEFZeFNDYTJ2V1kwcEtCdHdEYWVhdVpkUXg1eTdodnVPSzU1Vk54Vi1QN1FXejRWRkhZUlVIejJlbGVfVzFSX2FNdlJQcVFzSlpVb1RkYnM4QlloWEpSMHhZVHVHemNDTEg0MlRnVnNFdw?oc=5",
-      "source": "The New York Times",
-      "publishedAt": "2026-10-02T19:13:22.000Z",
-      "description": "Kevin Durant says he ‘didn’t think’ about morality of FanDuel sponsorship The New York Times",
-      "titleZh": "杜兰特坦言未深思FanDuel代言的道德争议",
-      "summaryZh": "据《纽约时报》报道，凯文·杜兰特承认在签署FanDuel赞助协议时，并未深入思考其背后的道德问题。这一表态引发了公众对明星运动员参与博彩行业伦理责任的广泛讨论。",
-      "detailsZh": "事实：杜兰特在接受采访时直言，当初签约FanDuel时主要考虑商业因素，未过多考量道德层面。评论：此举揭示了体育营销中商业利益与伦理责任的冲突。作为高收入球员，杜兰特的选择影响了大量粉丝，尤其是年轻群体。传闻：目前无迹象显示该代言面临法律风险或提前解约，但舆论压力持续存在。",
-      "keyPoints": [
-        "杜兰特承认签约时未深思道德问题",
-        "引发公众对博彩代言伦理的讨论",
-        "FanDuel合作关系仍在继续"
+        "Rockets’ Kevin Durant Provides Direct Response to Victor Wembanyama"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMigwJBVV95cUxPbzFmMmdHcUREMWxMSnVGVjdyRGhWcENka1pQb09GT21tRGFqUTdyU3BOM0xkb0ZMR2pyamtlYkp6RlRtR2xfTXJsaGpnLVpma2JaWWhQQ2VFN1d5X3JzejBpWnUzTV93YjJBUGliZl9VbzJVdkVlYXBDRjE5c3hlNFhFZUNHZXlBNG5YeVEtb2FzNm1uN2N2VnhhUkYzWmh2Z2dKWlI1OUlpaTFSaWRxWE9lVmZLTllOX0lvcTJ1aThvcDluV2tqaFlPSUtqWDZaVU5ocGNfQU9IU3VkNVYzYThZNUtZMW04Ti11VXdWRWpXcEhuTnc5VmhFUXNPT2hjVEdJ",
-      "title": "Fan Duel-endorsed Kevin Durant on Victor Wembanyama's gambling criticism: 'That has nothing to do with me'",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbzFmMmdHcUREMWxMSnVGVjdyRGhWcENka1pQb09GT21tRGFqUTdyU3BOM0xkb0ZMR2pyamtlYkp6RlRtR2xfTXJsaGpnLVpma2JaWWhQQ2VFN1d5X3JzejBpWnUzTV93YjJBUGliZl9VbzJVdkVlYXBDRjE5c3hlNFhFZUNHZXlBNG5YeVEtb2FzNm1uN2N2VnhhUkYzWmh2Z2dKWlI1OUlpaTFSaWRxWE9lVmZLTllOX0lvcTJ1aThvcDluV2tqaFlPSUtqWDZaVU5ocGNfQU9IU3VkNVYzYThZNUtZMW04Ti11VXdWRWpXcEhuTnc5VmhFUXNPT2hjVEdJ?oc=5",
-      "source": "HoopsHype",
-      "publishedAt": "2026-10-02T19:08:00.000Z",
-      "description": "Fan Duel-endorsed Kevin Durant on Victor Wembanyama's gambling criticism: 'That has nothing to do with me' HoopsHype",
-      "titleZh": "杜兰特回应文班雅玛批评：博彩代言与我无关",
-      "summaryZh": "面对文班雅玛对体育博彩行业的批评，杜兰特明确表示“这与我没有关系”。他坚持自己的商业决策独立性，同时暗示不同球员对同一行业持有不同看法是正常现象。",
-      "detailsZh": "事实：杜兰特公开回应文班雅玛的立场，强调两者观点无需统一。评论：这反映了NBA内部在商业代言议题上的分歧。杜兰特作为资深球员，更倾向于利用自身影响力变现，而新秀则更注重品牌形象保护。传闻：双方并无私下冲突，仅为公开场合的观点差异。",
+      "id": "durant:CBMigwJBVV95cUxPU3dJSGdKXzhDMXF0SGZBOWJzb0VaNXhWREZOVmlabFhleDlZX29OUHhmTmxSTFdOZmVTVk4zZHJackg1RzUzS3ZSa0tocDdfQ2dlY3VhUnlkTnVSVFVRdWVnRjltRUNaUXZGYjhzdDdjTFR6MXZiQmUxRHFDQlg4eUkwNnNQbFFQMU1wYlFjUDRqMlBOZ0tuY3Fpc1ZjUUR5R0cwaWszcUlpN214UmlULUhPN2lxbkk3X1B1WlVYVXg0eE1qMjJoUVc1RTB0OFZaanBsRjliSmFibUVoQWJpek8wTVVXZjJ6bFFYb1FPelE5T1BKbTQ2SGZoc2UzQ2hOMmF3",
+      "title": "\"Attitude that made his career an absolute disappointment\" - NBA Fans Stunned As Kevin Durant Backs Victor Wembanyama's Take On Promoting Betting",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPU3dJSGdKXzhDMXF0SGZBOWJzb0VaNXhWREZOVmlabFhleDlZX29OUHhmTmxSTFdOZmVTVk4zZHJackg1RzUzS3ZSa0tocDdfQ2dlY3VhUnlkTnVSVFVRdWVnRjltRUNaUXZGYjhzdDdjTFR6MXZiQmUxRHFDQlg4eUkwNnNQbFFQMU1wYlFjUDRqMlBOZ0tuY3Fpc1ZjUUR5R0cwaWszcUlpN214UmlULUhPN2lxbkk3X1B1WlVYVXg0eE1qMjJoUVc1RTB0OFZaanBsRjliSmFibUVoQWJpek8wTVVXZjJ6bFFYb1FPelE5T1BKbTQ2SGZoc2UzQ2hOMmF3?oc=5",
+      "source": "Sportskeeda",
+      "publishedAt": "2026-10-02T23:03:00.000Z",
+      "description": "\"Attitude that made his career an absolute disappointment\" - NBA Fans Stunned As Kevin Durant Backs Victor Wembanyama's Take On Promoting Betting Sportskeeda",
+      "titleZh": "\"Attitude that made his career an absolute disappointment\" - NBA Fans Stunned As Kevin Durant Backs Victor Wembanyama's Take On Promoting Betting",
+      "summaryZh": "\"Attitude that made his career an absolute disappointment\" - NBA Fans Stunned As Kevin Durant Backs Victor Wembanyama's Take On Promoting Betting Sportskeeda",
+      "detailsZh": "\"Attitude that made his career an absolute disappointment\" - NBA Fans Stunned As Kevin Durant Backs Victor Wembanyama's Take On Promoting Betting Sportskeeda",
       "keyPoints": [
-        "杜兰特否认与文班雅玛有直接关联",
-        "强调商业决策的独立性",
-        "反映联盟内部分歧"
+        "\"Attitude that made his career an absolute disappointment\" - NBA Fans Stunned As Kevin Durant Backs Victor Wembanyama's Take On Promoting Betting"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE5YTFBYZkpKQThTMkgxMG9nNVJUQjU0a3VsVUI3SktEcUhmMHdGVkRTelE2Z2JpbUQ4OE5yeXZzVjlwQS1UV2JLcXJLQQ",
-      "title": "[流言板]杜兰特：现在一些球员培养的方式让篮球失去灵魂",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YTFBYZkpKQThTMkgxMG9nNVJUQjU0a3VsVUI3SktEcUhmMHdGVkRTelE2Z2JpbUQ4OE5yeXZzVjlwQS1UV2JLcXJLQQ?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-02T18:02:19.000Z",
-      "description": "[流言板]杜兰特：现在一些球员培养的方式让篮球失去灵魂 虎扑体育",
-      "titleZh": "杜兰特批评现代球员培养方式让篮球失去灵魂",
-      "summaryZh": "杜兰特指出，当前一些球员的培养模式过于注重数据而非比赛本质，导致篮球运动失去了原有的灵魂和激情。这一观点引发了关于青训体系改革的深层思考。",
-      "detailsZh": "事实：杜兰特在采访中表示，过度依赖数据分析可能削弱球员的创造力和比赛直觉。评论：他的批评直指现代篮球战术体系的弊端，即效率至上主义对艺术性的侵蚀。传闻：暂无具体改革措施出台，但此言论可能影响年轻球员的训练理念。",
-      "keyPoints": [
-        "批评现代球员培养重数据轻本质",
-        "认为篮球失去灵魂与激情",
-        "引发对青训体系的反思"
-      ],
-      "category": "比赛",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMikwFBVV95cUxPcHR2bGZwQUluMmJpTjgtbUU5MlJiYVozZDJFVEFvaDMzbE9EMXZHTEowSFM0ejc4YTY2VGRzckdKQUVqN3ZFbzVjTC1pOWo2QVFwaXRBTURidlFTX0JndXMyaGFwU1B5ZEMxa1ROeE0tTV9RYzhDeEVGd1p1QzFXNlpyQUppQXFDWnRYQkJDVE9ybDQ",
-      "title": "都是38岁，乐福没人要，康利年薪245万，杜兰特4390万，库里太狠",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcHR2bGZwQUluMmJpTjgtbUU5MlJiYVozZDJFVEFvaDMzbE9EMXZHTEowSFM0ejc4YTY2VGRzckdKQUVqN3ZFbzVjTC1pOWo2QVFwaXRBTURidlFTX0JndXMyaGFwU1B5ZEMxa1ROeE0tTV9RYzhDeEVGd1p1QzFXNlpyQUppQXFDWnRYQkJDVE9ybDQ?oc=5",
+      "id": "durant:CBMihAFBVV95cUxNV2lubm1Ga3NuSEgzMDcyYXFVd3dZc3F6a3RDbGpGNTR2amxXWGhtaUE3YnR2cTduQ3hfM2pyY0ZEXzJfaHZiWjVCdllfc0hQUDBZWi1LZ3NUVi1RLVRURzlkWmk1MjVaZTdTT2R0T2Z0ZnEzci1yUkR6ZDdYYng4LXdBVFU",
+      "title": "杜兰特谈博格丹和斯玛特：他们的敬业精神无可挑剔",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2lubm1Ga3NuSEgzMDcyYXFVd3dZc3F6a3RDbGpGNTR2amxXWGhtaUE3YnR2cTduQ3hfM2pyY0ZEXzJfaHZiWjVCdllfc0hQUDBZWi1LZ3NUVi1RLVRURzlkWmk1MjVaZTdTT2R0T2Z0ZnEzci1yUkR6ZDdYYng4LXdBVFU?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-10-02T08:29:00.000Z",
-      "description": "都是38岁，乐福没人要，康利年薪245万，杜兰特4390万，库里太狠 手机新浪网",
-      "titleZh": "杜兰特年薪对比：38岁老将薪资现状分析",
-      "summaryZh": "媒体对比了多位38岁老将的薪资状况，杜兰特以4390万美元年薪位居前列，远高于康利等人。这一数据凸显了杜兰特在联盟中的顶级地位及其市场价值。",
-      "detailsZh": "事实：杜兰特当前年薪为4390万美元，而同龄的乐福无人问津，康利仅245万。评论：这反映了杜兰特即便年龄增长，仍保持极高的竞技水平和商业吸引力。传闻：其合同剩余年限及未来续约可能性成为球迷热议话题。",
+      "publishedAt": "2026-10-02T22:32:05.000Z",
+      "description": "杜兰特谈博格丹和斯玛特：他们的敬业精神无可挑剔 手机新浪网",
+      "titleZh": "杜兰特谈博格丹和斯玛特：他们的敬业精神无可挑剔",
+      "summaryZh": "杜兰特谈博格丹和斯玛特：他们的敬业精神无可挑剔 手机新浪网",
+      "detailsZh": "杜兰特谈博格丹和斯玛特：他们的敬业精神无可挑剔 手机新浪网",
       "keyPoints": [
-        "杜兰特年薪4390万美元居同龄前列",
-        "体现其市场价值与竞技状态",
-        "与其他老将形成鲜明对比"
+        "杜兰特谈博格丹和斯玛特：他们的敬业精神无可挑剔"
       ],
-      "category": "交易",
+      "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNcEhsVTB4dVQ5T09feGFkNjVtR09VaFJjZ2EtRWdycTlSazNUMk1hQ29NeWtyTmxhSU55c2d2V3pESndWeHg3aXdPdWIwc0hYcV91SnNNalNOS1JuZE83TGFjOXJVM0c4dnRFV18wc3dVT2hFWXJ1TmZNbmpFaVdMSTdidXg",
-      "title": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEhsVTB4dVQ5T09feGFkNjVtR09VaFJjZ2EtRWdycTlSazNUMk1hQ29NeWtyTmxhSU55c2d2V3pESndWeHg3aXdPdWIwc0hYcV91SnNNalNOS1JuZE83TGFjOXJVM0c4dnRFV18wc3dVT2hFWXJ1TmZNbmpFaVdMSTdidXg?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-02T05:25:55.000Z",
-      "description": "今年NBA中国赛你们最想见到谁？丁彦雨航/周琦不约而同：杜兰特 手机新浪网",
-      "titleZh": "丁彦雨航与周琦期待在中国赛见到杜兰特",
-      "summaryZh": "在中国赛宣传活动中，丁彦雨航和周琦均表示最想见到的NBA球星是凯文·杜兰特。这一互动展现了杜兰特在中国球迷心中的极高人气及其对中国篮球的影响。",
-      "detailsZh": "事实：两位中国球员在采访中一致点名杜兰特。评论：这不仅体现了杜兰特的全球影响力，也反映了中国篮球界对其技术风格的认可。传闻：杜兰特是否会出席此次中国赛尚无官方确认，但呼声高涨。",
+      "id": "durant:CBMiugFBVV95cUxQaUVJdUdCTnIxLVB0eHVtdnFJdzF4R1hBLTdUZ25wd2llUlhhRUlQeVdJb0NReXR5SC1oMGV1aGdxMUhDd1NsSXhyNFhUSWpLcERPR2daUmxYSndFVGgwcWk1bVVaS1RSS2FGSUxkY1NsZTFSbllIN1R6M2FLWnMwVXpQLXBsMXJ6bWN0TWhxNGEwTHZmbkRHSGlaVThRTk5MemFRUzJ3MUFPZmFIYWc0Ykl3Tk1NVXRVN1E",
+      "title": "Kevin Durant sends interesting message to Victor Wembanyama amid gambling ties",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaUVJdUdCTnIxLVB0eHVtdnFJdzF4R1hBLTdUZ25wd2llUlhhRUlQeVdJb0NReXR5SC1oMGV1aGdxMUhDd1NsSXhyNFhUSWpLcERPR2daUmxYSndFVGgwcWk1bVVaS1RSS2FGSUxkY1NsZTFSbllIN1R6M2FLWnMwVXpQLXBsMXJ6bWN0TWhxNGEwTHZmbkRHSGlaVThRTk5MemFRUzJ3MUFPZmFIYWc0Ykl3Tk1NVXRVN1E?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-10-02T22:28:00.000Z",
+      "description": "Kevin Durant sends interesting message to Victor Wembanyama amid gambling ties BasketNews.com",
+      "titleZh": "Kevin Durant sends interesting message to Victor Wembanyama amid gambling ties",
+      "summaryZh": "Kevin Durant sends interesting message to Victor Wembanyama amid gambling ties BasketNews.com",
+      "detailsZh": "Kevin Durant sends interesting message to Victor Wembanyama amid gambling ties BasketNews.com",
       "keyPoints": [
-        "丁彦雨航与周琦共同期待杜兰特",
-        "展现杜兰特在中国的高人气",
-        "反映中国篮球界对其的认可"
+        "Kevin Durant sends interesting message to Victor Wembanyama amid gambling ties"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMioAFBVV95cUxNYm4xMGxBZnd3N3hyNGdQTTVkeG1iMHZ5cGxZeHN0Tmx0Wjk1aW5nRlB5cDdCR3NjdS1Rai1HR1MzeHUwYnVJVURXWlJvUURZT2NwMTdmMzlZa2l5NGZQVjR3YlNMZ2NaTVNXMXlUNWthOF9KUHhPaDh6cU1XNlZWaVZHb2pNLWd3SFl1QVltNHA2aU41dVNaTXNwY3huX205",
-      "title": "Rockets news: Kevin Durant jokes about playing flag football in Olympics",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYm4xMGxBZnd3N3hyNGdQTTVkeG1iMHZ5cGxZeHN0Tmx0Wjk1aW5nRlB5cDdCR3NjdS1Rai1HR1MzeHUwYnVJVURXWlJvUURZT2NwMTdmMzlZa2l5NGZQVjR3YlNMZ2NaTVNXMXlUNWthOF9KUHhPaDh6cU1XNlZWaVZHb2pNLWd3SFl1QVltNHA2aU41dVNaTXNwY3huX205?oc=5",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-10-02T19:39:56.000Z",
-      "description": "Rockets news: Kevin Durant jokes about playing flag football in Olympics ClutchPoints",
-      "titleZh": "Rockets news: Kevin Durant jokes about playing flag football in Olympics",
-      "summaryZh": "Rockets news: Kevin Durant jokes about playing flag football in Olympics ClutchPoints",
-      "detailsZh": "Rockets news: Kevin Durant jokes about playing flag football in Olympics ClutchPoints",
+      "id": "durant:CBMizAFBVV95cUxPRlhacUszeVJicFJVcFJTWmJLQ2JjQjMtQUtZeGpwQU1kUWpySnBoenptTjRReTMtQmFNTHRDMG8xNERjdzdKMnBJSUpIb0I2M0pidzljVFM4NUxwckNDcXFPcTVMb2hGbUM2RFdXMFZ4WXNZdHRFbGZDM3J1VGlBSEp6bnZNeVNtR0l6eXlaWThDXy1MYTVycnIzeEVIMG5hMzd5WkVPYkpfZjh6Z1hDMGVSeHhaamFXYUo0NHloZ09mOHpIaU5SakVIbEc",
+      "title": "Kevin Durant Responds to Victor Wembanyama’s Criticism of NBA Gambling Endorsements",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlhacUszeVJicFJVcFJTWmJLQ2JjQjMtQUtZeGpwQU1kUWpySnBoenptTjRReTMtQmFNTHRDMG8xNERjdzdKMnBJSUpIb0I2M0pidzljVFM4NUxwckNDcXFPcTVMb2hGbUM2RFdXMFZ4WXNZdHRFbGZDM3J1VGlBSEp6bnZNeVNtR0l6eXlaWThDXy1MYTVycnIzeEVIMG5hMzd5WkVPYkpfZjh6Z1hDMGVSeHhaamFXYUo0NHloZ09mOHpIaU5SakVIbEc?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-10-02T22:25:22.000Z",
+      "description": "Kevin Durant Responds to Victor Wembanyama’s Criticism of NBA Gambling Endorsements Sports Illustrated",
+      "titleZh": "Kevin Durant Responds to Victor Wembanyama’s Criticism of NBA Gambling Endorsements",
+      "summaryZh": "Kevin Durant Responds to Victor Wembanyama’s Criticism of NBA Gambling Endorsements Sports Illustrated",
+      "detailsZh": "Kevin Durant Responds to Victor Wembanyama’s Criticism of NBA Gambling Endorsements Sports Illustrated",
       "keyPoints": [
-        "Rockets news: Kevin Durant jokes about playing flag football in Olympics"
+        "Kevin Durant Responds to Victor Wembanyama’s Criticism of NBA Gambling Endorsements"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTFBEREg5T3NVeTk2TUNQbWtISHkzOFJqUU5jQXhLczJxZGJoU3ZrUkw1WlhIRUV4WFYtUmUtY2RRVFlmekVnUWVHbVJ0TQ",
-      "title": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEREg5T3NVeTk2TUNQbWtISHkzOFJqUU5jQXhLczJxZGJoU3ZrUkw1WlhIRUV4WFYtUmUtY2RRVFlmekVnUWVHbVJ0TQ?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-02T19:38:08.000Z",
-      "description": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？ 虎扑体育",
-      "titleZh": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？",
-      "summaryZh": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？ 虎扑体育",
-      "detailsZh": "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？ 虎扑体育",
+      "id": "durant:CBMijgFBVV95cUxPZExqajZ4NjlmRDZsbDVkVks1UTJVbzIwY3dLY0RUNG5NRjRxRndJVldTbGxvRHNPVmpseTNmel9FV0FkejlSTnNHdWdBa1RPMFk0LUNrNWpweTMxLTFEWVVaZTY5bFJDenh0YkNPbEdVeDBzWDRZYmJjWGIwd18wSVlFODhHbDkySC1yZWdR",
+      "title": "Rockets’ Kevin Durant responds to Victor Wembanyama’s gambling comments",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZExqajZ4NjlmRDZsbDVkVks1UTJVbzIwY3dLY0RUNG5NRjRxRndJVldTbGxvRHNPVmpseTNmel9FV0FkejlSTnNHdWdBa1RPMFk0LUNrNWpweTMxLTFEWVVaZTY5bFJDenh0YkNPbEdVeDBzWDRZYmJjWGIwd18wSVlFODhHbDkySC1yZWdR?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-02T21:54:36.000Z",
+      "description": "Rockets’ Kevin Durant responds to Victor Wembanyama’s gambling comments Yahoo Sports",
+      "titleZh": "Rockets’ Kevin Durant responds to Victor Wembanyama’s gambling comments",
+      "summaryZh": "Rockets’ Kevin Durant responds to Victor Wembanyama’s gambling comments Yahoo Sports",
+      "detailsZh": "Rockets’ Kevin Durant responds to Victor Wembanyama’s gambling comments Yahoo Sports",
       "keyPoints": [
-        "杜兰特这数据统计三分命中率低于百分之三十，这不是参数这是啥？"
+        "Rockets’ Kevin Durant responds to Victor Wembanyama’s gambling comments"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiyAFBVV95cUxNc1hLc2tWYWtyaFpPbGg2Qkk0WTdUVzFxOXQ2dGlodnlYRWdSWFA5TS1mQTd1aEk4OXZVS201R3M0TC04NUtEU1VmMzhFZ1JxeWpXekU1ekR6d1BmdzdGRzRsclpMSjZpVEhOekNfaXZQLVFBZmxtcVROekhXWVNKZzJEM0dYUDZLdW1ZTGczakZ2eWhCT1BPVmJNWmlZTE1NQ1dReGpRcF9BLWxQTVBvV2Q1eU1DMkVKeGVOMl9CeGlpWVFfV0o3aw",
+      "title": "Kevin Durant Responds To Victor Wembanyama's Promise Never To Promote Gambling Sites",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc1hLc2tWYWtyaFpPbGg2Qkk0WTdUVzFxOXQ2dGlodnlYRWdSWFA5TS1mQTd1aEk4OXZVS201R3M0TC04NUtEU1VmMzhFZ1JxeWpXekU1ekR6d1BmdzdGRzRsclpMSjZpVEhOekNfaXZQLVFBZmxtcVROekhXWVNKZzJEM0dYUDZLdW1ZTGczakZ2eWhCT1BPVmJNWmlZTE1NQ1dReGpRcF9BLWxQTVBvV2Q1eU1DMkVKeGVOMl9CeGlpWVFfV0o3aw?oc=5",
+      "source": "Fadeaway World",
+      "publishedAt": "2026-10-02T21:51:36.000Z",
+      "description": "Kevin Durant Responds To Victor Wembanyama's Promise Never To Promote Gambling Sites Fadeaway World",
+      "titleZh": "Kevin Durant Responds To Victor Wembanyama's Promise Never To Promote Gambling Sites",
+      "summaryZh": "Kevin Durant Responds To Victor Wembanyama's Promise Never To Promote Gambling Sites Fadeaway World",
+      "detailsZh": "Kevin Durant Responds To Victor Wembanyama's Promise Never To Promote Gambling Sites Fadeaway World",
+      "keyPoints": [
+        "Kevin Durant Responds To Victor Wembanyama's Promise Never To Promote Gambling Sites"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxQNmstY0dzbWNRYTI3d1hYYkcwOEJvbmNjVTRoNWJxVG91YUJpbXNLRXdtU00yVjcxY1c3R3FFRm11YUctYXdXeFE4d0xzM0F5LWZNeVFoak1yOFJXNndIXzBDN3JrTXFxbENDZi1MLUQ3MDR1eGZqSTRvRl9DSzAwYkowZWg",
+      "title": "大学橄榄球场边传出一记好球！KD打趣：下届奥运会去打橄榄球",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmstY0dzbWNRYTI3d1hYYkcwOEJvbmNjVTRoNWJxVG91YUJpbXNLRXdtU00yVjcxY1c3R3FFRm11YUctYXdXeFE4d0xzM0F5LWZNeVFoak1yOFJXNndIXzBDN3JrTXFxbENDZi1MLUQ3MDR1eGZqSTRvRl9DSzAwYkowZWg?oc=5",
+      "source": "sports.sina.com.cn",
+      "publishedAt": "2026-10-02T21:35:00.000Z",
+      "description": "大学橄榄球场边传出一记好球！KD打趣：下届奥运会去打橄榄球 sports.sina.com.cn",
+      "titleZh": "大学橄榄球场边传出一记好球！KD打趣：下届奥运会去打橄榄球",
+      "summaryZh": "大学橄榄球场边传出一记好球！KD打趣：下届奥运会去打橄榄球 sports.sina.com.cn",
+      "detailsZh": "大学橄榄球场边传出一记好球！KD打趣：下届奥运会去打橄榄球 sports.sina.com.cn",
+      "keyPoints": [
+        "大学橄榄球场边传出一记好球！KD打趣：下届奥运会去打橄榄球"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -236,6 +224,25 @@
       "importance": 3
     },
     {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格演变及网络文化影响。作为基础背景资料入口，提供其身份确认与作品脉络的权威参考。",
+      "detailsZh": "该条目为固定的人物资料页面，非时效性新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其活跃的平台、代表性作品类型以及在中国网络亚文化中的定位。事实部分记录了其公开的身份信息和主要创作领域；评论部分涉及对其写作风格在特定时期影响力的学术或媒体评价；传闻部分较少，主要用于澄清常见的身份混淆。此页面旨在提供结构化的背景知识，帮助读者理解该人物的基本轮廓及其在网络文学发展史上的位置。",
+      "keyPoints": [
+        "提供人物基本身份与笔名信息",
+        "梳理主要创作风格与代表作品",
+        "记录网络文化影响力背景"
+      ],
+      "category": "场外",
+      "importance": 5
+    },
+    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -243,13 +250,13 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话主页",
-      "summaryZh": "该条目为新浪微博“大咕咕咕鸡”超话的聚合入口，非单日新闻。汇集其公开动态、粉丝讨论及官方发布内容，是追踪其近期言论与互动的主要固定资料库。",
-      "detailsZh": "此链接指向新浪微博的超级话题页面，属于长期存在的固定信息聚合入口，而非特定日期的新闻报道或突发动态。该页面主要功能是汇总围绕网络写手“大咕咕咕鸡”的所有公开帖子、评论及粉丝互动。对于关注其创作风格演变、网络段子传播路径以及读者反馈的研究者而言，这是最核心的实时数据源。需注意的是，社交媒体上的讨论往往夹杂大量主观情绪与非事实性传闻，使用时应严格区分事实陈述与观点表达。该页面不直接提供深度分析，而是作为原始素材的收集地，建议结合其他权威媒体对其历史影响的报道进行交叉验证，以构建完整的人物形象。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话聚合页，汇集其公开动态、粉丝讨论及官方互动内容。作为核心社交阵地入口，实时反映其公众形象与受众反馈，非单一新闻事件。",
+      "detailsZh": "此为固定的社交媒体话题聚合页面，用于追踪大咕咕咕鸡在微博平台的公开活动。事实层面包含其发布的公告、日常分享及与其他博主的互动记录；评论层面体现粉丝群体的即时反应、二次创作及对内容的解读；传闻层面可能夹杂未经证实的八卦或误传，需用户自行甄别。该页面是了解其近期动态和社群氛围的重要窗口，但因其内容流动性强且包含大量主观意见，使用时应区分客观事实与主观情绪。",
       "keyPoints": [
-        "微博超话固定入口，非单日新闻",
-        "汇集公开动态与粉丝讨论",
-        "需甄别主观情绪与事实"
+        "聚合微博平台公开动态",
+        "展示粉丝社群讨论热度",
+        "反映实时公众形象与互动"
       ],
       "category": "场外",
       "importance": 4
@@ -262,35 +269,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站作品朗读聚合页",
-      "summaryZh": "哔哩哔哩搜索关键词聚合页，收录其作品朗读、相关二创视频及历史讨论。属资源索引工具，非独立新闻事件，反映其在音频领域的传播广度。",
-      "detailsZh": "该链接为哔哩哔哩平台的搜索结果聚合页，通过关键词“大咕咕咕鸡”检索而来，属于资源索引类固定入口，不具备单一新闻事件的时效性。页面内容涵盖其文字作品的音频朗读版本、粉丝制作的二创视频以及相关的评论讨论区。这反映了其创作内容在多媒体形式的延伸与受众接受度。由于搜索结果包含大量用户上传的非官方内容，其中可能混杂未经核实的解读或错误信息。使用者应将其视为发现相关音视频资源的起点，而非权威的事实来源。重点可关注高播放量且评论区理性分析的优质朗读视频，以此了解其语言风格在不同媒介下的表现力及受众反馈趋势。",
+      "titleZh": "大咕咕咕鸡B站作品与朗读聚合",
+      "summaryZh": "哔哩哔哩搜索聚合页，集中展示与大咕咕咕鸡相关的视频内容，包括作品朗读、解说及衍生讨论。作为多媒体内容入口，提供其作品的视听呈现形式，属固定资源索引。",
+      "detailsZh": "该页面为B站关键词搜索结果集合，非独立新闻。事实部分涵盖用户上传的音频朗读、视频剪辑及相关评论数据；评论部分包括观众对内容的评价、剧情讨论及梗的传播；传闻部分可能存在关于作者未公开信息的猜测。由于B站内容生态丰富，该页面提供了比文字更直观的感知维度，有助于理解其作品在视觉化改编后的接受度。需注意筛选高质量原创内容与低质搬运之间的区别。",
       "keyPoints": [
-        "B站搜索聚合页，非独立新闻",
-        "含作品朗读与二创视频",
-        "需筛选非官方上传内容"
-      ],
-      "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科人物资料",
-      "summaryZh": "维基百科关于该网络写手的背景资料页，涵盖常用笔名、创作风格及网络影响。属静态百科条目，提供基础事实框架，但需注意编辑滞后性与中立性偏差。",
-      "detailsZh": "此为维基百科上关于网络写手“大咕咕咕鸡”的人物词条，属于静态的背景资料集合，而非动态的新闻报道。页面通常记录其常用的笔名、主要的创作风格（如黑色幽默、社会讽刺）、代表作品类型以及在互联网文化中的影响力评估。作为百科全书条目，其优势在于提供结构化的事实框架和引用来源，有助于快速建立对该人物的基本认知。然而，百科内容的更新可能存在滞后，且受限于编辑者的主观判断，可能存在中立性偏差或遗漏最新争议。因此，该资料适合作为研究的起点和背景参考，不应作为获取最新动向或深度独家信息的依据。使用时应核对引用的外部来源，以确保信息的准确性与时效性。",
-      "keyPoints": [
-        "静态百科条目，非动态新闻",
-        "涵盖笔名、风格与影响力",
-        "注意更新滞后与中立性偏差"
+        "聚合相关视频与音频内容",
+        "展示视听化作品传播情况",
+        "提供观众评价与二次创作素材"
       ],
       "category": "场外",
-      "importance": 5
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -300,15 +288,15 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻：大咕咕咕鸡与网络段子手生态",
-      "summaryZh": "2015年界面新闻深度报道，探讨大咕咕咕鸡的创作风格及其对网络语言的影响。属历史性回顾文章，提供早期职业轨迹与社会文化背景分析。",
-      "detailsZh": "这是一篇发布于2015年5月12日的界面新闻深度报道，标题涉及“大咕咕咕鸡与网络段子手创作生态”。该文属于历史性回顾性质的媒体分析，旨在探讨当时网络段子手的创作模式、传播机制及其对社会语言环境的影响，并将大咕咕咕鸡作为典型案例进行分析。文章提供了关于其早期创作风格、公众形象塑造以及在当时互联网语境下地位的宝贵视角。由于发布时间较早，文中信息无法反映其近年来的最新动态或风格转变，仅能作为理解其职业生涯起点和文化背景的历史文献。读者在阅读时应将其置于2015年的时代背景下考量，避免将当时的评价直接套用于当前。该报道具有较高的史料价值，适合用于研究网络文学发展史或社交媒体文化变迁。",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其在网络语言流行中的作用。作为历史文献，记录其在早期网络文化中的地位，具重要参考价值。",
+      "detailsZh": "这是一篇发布于2015年的历史新闻报道，属于固定参考资料而非当日新闻。事实部分详细描述了当时大咕咕咕鸡的写作特点、热门语录及其在社交媒体上的传播路径；评论部分引用了媒体专家对其作为‘网络段子手’现象的分析，探讨其对汉语表达习惯的影响；传闻部分极少，主要集中在对其个人生活的好奇心驱动报道上。该文具有重要的时代切片意义，反映了特定时期网络写手的生存状态与文化贡献，适合用于研究网络文学发展史。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "分析早期风格与文化影响",
-        "具史料价值但非最新动态"
+        "记录2015年创作风格与影响力",
+        "分析网络语言流行机制",
+        "提供早期网络文化研究史料"
       ],
-      "category": "公开发言",
+      "category": "作品",
       "importance": 4
     },
     {
