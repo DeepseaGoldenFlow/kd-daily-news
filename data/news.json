@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T12:34:29.777Z",
+  "updatedAt": "2026-10-03T17:18:35.823Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,98 +16,94 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMikgFBVV95cUxOMHNRVTNDZFFWU3kxalVVYXpSNnd2SlhoMmRKbmpkc0xsb1dMRmxwNFJLd0lRalVjejhObXp2dDR0S2VjYWxYSTJuVzQxUV9oUkIzQ1JSZVlkYjNTWVBhbFVBWjVmZU5CU2pab01JNlhhcEw5QnRldW9HTTRiQlhGWWJjRE5IdC12SXY4ekxKLW1WUQ",
-      "title": "杜兰特谈与斯玛特、博格丹配合，无需言语即默契",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHNRVTNDZFFWU3kxalVVYXpSNnd2SlhoMmRKbmpkc0xsb1dMRmxwNFJLd0lRalVjejhObXp2dDR0S2VjYWxYSTJuVzQxUV9oUkIzQ1JSZVlkYjNTWVBhbFVBWjVmZU5CU2pab01JNlhhcEw5QnRldW9HTTRiQlhGWWJjRE5IdC12SXY4ekxKLW1WUQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-03T09:42:00.000Z",
-      "description": "杜兰特谈与斯玛特、博格丹配合，无需言语即默契 手机新浪网",
-      "titleZh": "杜兰特盛赞火箭新援斯玛特与博格丹的默契",
-      "summaryZh": "凯文·杜兰特公开评价休斯顿火箭队引进的马库斯·斯玛特和博格丹·博格达诺维奇。他称赞两位老将无需言语即可建立默契，认为他们的加入将极大提升球队防守强度与进攻多样性，对新赛季充满期待。",
-      "detailsZh": "事实：杜兰特在接受采访时表达了对火箭队新援马库斯·斯玛特和博格丹·博格达诺维奇的积极看法。他强调这两位球员具备极高的篮球智商和职业精神，能够在场上通过非语言沟通实现高效配合。评论指出，杜兰特的认可反映了这些老将的经验价值，他们不仅能提供即战力，还能在更衣室起到稳定军心的作用。传闻部分涉及媒体猜测杜兰特可能在未来交易中关注此类经验丰富的角色球员，但暂无实锤。此消息正值休赛期，旨在展示联盟球星对新阵容构建的看法。",
-      "keyPoints": [
-        "杜兰特高度评价斯玛特与博格丹的职业素养",
-        "强调老将间无需言语的战术默契",
-        "认为新援能显著提升火箭队攻防两端实力"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi2AFBVV95cUxOVTZySVFfM3laSXAzUnJRZTdFcnVHOW9henlnOEMzTE1JdVYtS2pzQjc3bTNsU1p4dEZLWUFKeC1fZnNmSUZ5UDdZXzlrYUxGNnd1aFljRU9SMjdBN2J6WG9ySHRqU3hjY3dqWFhrYk42ZXY4dzdWdGNPczAxNDdPZlF6a1lBS1JkYUxaT2hBRG56VWpCbGptZjJJUGI0V0I3N1dGRnp5ckN6X2M2NnQ4c2hNbnd2VkpyVWU4X1I3MncwTmhMRG9UOV8zVTVUQ1g0Mm4wbHQzVlk",
-      "title": "Kevin Durant Gives First Impression Of Rockets' Veteran Additions Bogdan Bogdanovic, Marcus Smart",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVTZySVFfM3laSXAzUnJRZTdFcnVHOW9henlnOEMzTE1JdVYtS2pzQjc3bTNsU1p4dEZLWUFKeC1fZnNmSUZ5UDdZXzlrYUxGNnd1aFljRU9SMjdBN2J6WG9ySHRqU3hjY3dqWFhrYk42ZXY4dzdWdGNPczAxNDdPZlF6a1lBS1JkYUxaT2hBRG56VWpCbGptZjJJUGI0V0I3N1dGRnp5ckN6X2M2NnQ4c2hNbnd2VkpyVWU4X1I3MncwTmhMRG9UOV8zVTVUQ1g0Mm4wbHQzVlk?oc=5",
-      "source": "Fadeaway World",
-      "publishedAt": "2026-10-03T04:42:41.000Z",
-      "description": "Kevin Durant Gives First Impression Of Rockets' Veteran Additions Bogdan Bogdanovic, Marcus Smart Fadeaway World",
-      "titleZh": "杜兰特点评詹姆斯与哈登的历史地位及表现",
-      "summaryZh": "杜兰特就勒布朗·詹姆斯与詹姆斯·哈登的表现发表个人见解。他回顾了两人职业生涯的关键时刻，并对比了他们在不同阶段的竞技状态。这一言论引发了球迷关于历史排名和现役巨星影响力的广泛讨论。",
-      "detailsZh": "事实：杜兰特在社交媒体或采访中提及了詹姆斯和哈登。他承认詹姆斯在 longevity（持久性）方面的卓越成就，同时也肯定了哈登在组织进攻和得分能力上的独特贡献。评论分析认为，杜兰特的评价相对客观，试图平衡两位超级巨星的荣誉簿。然而，部分观点认为这种比较忽略了时代背景和球队环境差异。无确凿证据表明杜兰特有意挑起争端，更多是作为资深球员对同行的尊重与审视。此内容属于典型的场外舆论场互动，旨在引发球迷共鸣。",
-      "keyPoints": [
-        "杜兰特对比詹姆斯与哈登的职业生涯成就",
-        "肯定詹姆斯的持久性与哈登的组织才华",
-        "言论引发关于现役与传奇球星排名的热议"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi1AFBVV95cUxPdHltMnVsSmZKZ1VNRXBobEdPMEpHV3llREwwMmdhOWQ4Ujd3eWJRSnMwNkVaZHJCcEVaZTVsZDd4ZURhTlFlOFY1djhrNy0tM0VWMmk4d1huRUlZTGE2YlVuUFRkMVl1YlRpZU9yWDQzY3lpdzFVLTFpQ1RfdzdIM1FjdlR3Y19tQXRUeHNOUXlsV2RSQ3lmTExQME0wUzhHMGQ2V0stNnluUmExb0NqODRNWkswOUJIVHN1a18ydElzSDhmRU1zQjkxTTZLVHU3VXBzRw",
-      "title": "Paolo Banchero Speaks on Offseason Workouts With Kevin Durant, Mentorship From God Shammgod and Orlando’s Future",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHltMnVsSmZKZ1VNRXBobEdPMEpHV3llREwwMmdhOWQ4Ujd3eWJRSnMwNkVaZHJCcEVaZTVsZDd4ZURhTlFlOFY1djhrNy0tM0VWMmk4d1huRUlZTGE2YlVuUFRkMVl1YlRpZU9yWDQzY3lpdzFVLTFpQ1RfdzdIM1FjdlR3Y19tQXRUeHNOUXlsV2RSQ3lmTExQME0wUzhHMGQ2V0stNnluUmExb0NqODRNWkswOUJIVHN1a18ydElzSDhmRU1zQjkxTTZLVHU3VXBzRw?oc=5",
-      "source": "Scoop B Radio",
-      "publishedAt": "2026-10-03T04:24:49.000Z",
-      "description": "Paolo Banchero Speaks on Offseason Workouts With Kevin Durant, Mentorship From God Shammgod and Orlando’s Future Scoop B Radio",
-      "titleZh": "班切罗透露与杜兰特共同训练并接受指导",
-      "summaryZh": "奥兰多魔术队新星保罗·班切罗表示，他在休赛期与凯文·杜兰特进行了联合训练。班切罗提到从杜兰特那里学到了许多关于比赛阅读和投篮选择的技巧，视其为重要的导师角色，这对他的成长至关重要。",
-      "detailsZh": "事实：保罗·班切罗在采访中表示，他与杜兰特在休赛期有共同的训练安排。班切罗赞扬了杜兰特的专业态度和技术细节，特别是如何在高强度防守下保持效率。评论认为，这种跨代际的交流有助于年轻球员的快速成熟，也显示了杜兰特在退役过渡期仍积极参与篮球生态建设。传闻称这可能不是单次事件，而是长期 mentorship（导师制）的开始，但目前仅证实为休赛期的合作。这属于积极的场外互动，展示了联盟新老传承的一面。",
-      "keyPoints": [
-        "班切罗确认与杜兰特休赛期共同训练",
-        "杜兰特被描述为班切罗的重要导师",
-        "重点在于比赛阅读与投篮选择的技术传授"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQOWNlVEctSEN0NzV6WEllNTZmR1cwT2pMaUVnc1hPOEgxc3U2TW1hR1FELTlTWkFZRVlfTUNpSEt4aEZpSUVRM2g5ekVIdEZJZzdYdjlRdXRLTHdPSE1CM2hGczl5ZjdFX3BMX0FXQjctd21HME9uV2dldC1ZWTdZTlFHWHNvQ0hYdnhVNmhTRQ",
-      "title": "上赛季杜兰特使用过度，新赛季乌度卡能否帮杜兰特减负，新援很多",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWNlVEctSEN0NzV6WEllNTZmR1cwT2pMaUVnc1hPOEgxc3U2TW1hR1FELTlTWkFZRVlfTUNpSEt4aEZpSUVRM2g5ekVIdEZJZzdYdjlRdXRLTHdPSE1CM2hGczl5ZjdFX3BMX0FXQjctd21HME9uV2dldC1ZWTdZTlFHWHNvQ0hYdnhVNmhTRQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-03T04:26:24.000Z",
-      "description": "上赛季杜兰特使用过度，新赛季乌度卡能否帮杜兰特减负，新援很多 手机新浪网",
-      "titleZh": "分析乌度卡能否减轻杜兰特上赛季的使用负担",
-      "summaryZh": "媒体分析指出，鉴于杜兰特上赛季因高使用率导致的身体疲劳，新任教练杰夫·乌度卡的战术体系有望通过分担球权来减轻其负荷。随着火箭队引入多名新援，杜兰特的出场时间和进攻压力预计将得到合理调控。",
-      "detailsZh": "事实：回顾上赛季数据，杜兰特在高负荷下出战，身体承受较大压力。本休赛期，火箭队管理层引进了多位轮换球员，主教练乌度卡以防守体系和纪律性著称。评论推测，乌度卡的战术更注重团队平衡而非依赖单一核心，这将自然降低杜兰特的单打比例。虽然具体上场时间未定，但战术环境的改变是既定事实。此分析基于战术逻辑和历史数据，属于理性的赛前预测，旨在探讨球队如何优化核心球员的健康管理。",
-      "keyPoints": [
-        "上赛季杜兰特高使用率导致身体疲劳",
-        "乌度卡战术体系强调团队平衡与防守",
-        "新援引入有望分担杜兰特进攻压力"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMiiwFBVV95cUxQb0lYTTd1OHNSQUZXcGV5SDBqYzhVTWV3TUlhZDBYdENQYWtHRDRqT0J4SHBYNklGSlI5QVJoX3FKcTF1a1FfZU13c19rTS1LYVoyNjRqSmVWa3ZBRXlrMjQyTHV6RlN2MzBYTzVHdlNTd3F1dXNMZEZsZU9pSHNnZDE0cWNRbG1IeWpr",
       "title": "‘Nothing to do…’ – Kevin Durant reacts to Victor Wembanyama’s takedown of prediction market deals",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0lYTTd1OHNSQUZXcGV5SDBqYzhVTWV3TUlhZDBYdENQYWtHRDRqT0J4SHBYNklGSlI5QVJoX3FKcTF1a1FfZU13c19rTS1LYVoyNjRqSmVWa3ZBRXlrMjQyTHV6RlN2MzBYTzVHdlNTd3F1dXNMZEZsZU9pSHNnZDE0cWNRbG1IeWpr?oc=5",
       "source": "Yahoo Sports",
       "publishedAt": "2026-10-03T09:05:14.000Z",
       "description": "‘Nothing to do…’ – Kevin Durant reacts to Victor Wembanyama’s takedown of prediction market deals Yahoo Sports",
-      "titleZh": "杜兰特回应文班亚马对预测市场的批评",
-      "summaryZh": "针对维克托·文班亚马对体育预测市场交易的强烈批评，凯文·杜兰特做出了回应。他表示自己对此类商业行为“没有直接关系”，暗示其更专注于球场表现而非外部金融投机，展现了其对职业边界的清晰认知。",
-      "detailsZh": "事实：文班亚马此前公开谴责涉及球员表现的预测市场交易，认为这不道德。杜兰特随后发声，澄清自己并未参与此类活动，并表示这与他的职业重心无关。评论认为，杜兰特的回应既保护了自己免受牵连，也间接支持了维护体育纯洁性的立场。无证据显示杜兰特曾涉足此类灰色地带。此事件属于场外舆论风波，杜兰特的表态旨在划清界限，避免卷入不必要的争议，体现了其作为公众人物的谨慎态度。",
+      "titleZh": "杜兰特回应文班亚马拒绝博彩代言：那是他的事",
+      "summaryZh": "凯文·杜兰特对维克托·文班亚马公开拒绝预测市场及博彩网站代言的行为作出回应。杜兰特表示这与自己无关，强调每个人都有自己的选择和处理方式，展现了职业球员间的相互尊重与界限感。",
+      "detailsZh": "事实：在2026年10月3日的采访中，杜兰特被问及文班亚马关于“绝不为博彩网站代言”的声明。杜兰特回答称“没什么好说的”或“那是他的事”，表明他尊重文班亚马的个人决定，并未对此进行过多评论或批评。评论：这一回应体现了杜兰特作为联盟老将的成熟态度，他不介入其他球员的道德或商业选择，保持职业距离。传闻：无直接证据表明杜兰特本人有类似代言计划，此事件主要反映其公众形象管理。",
       "keyPoints": [
-        "文班亚马批评体育预测市场交易",
-        "杜兰特否认参与并强调与此事无关",
-        "回应旨在维护职业边界与体育纯洁性"
+        "杜兰特回应文班亚马拒绝博彩代言声明",
+        "杜兰特表示这是个人选择，与自己无关",
+        "展现职业球员间的尊重与界限"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE52VXdiLTAxZEdMVmVvRDJTc2xtWU4tM2U1NWs4dkRZVkk4aERtam8zVnRSZ1lzMU8wYmNad1J1Und6dEFxR2NjTnZQdw",
+      "title": "有没有感觉杜兰特最后也会像老詹一样，大幅度降薪找个适合的球队再冲冠？",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52VXdiLTAxZEdMVmVvRDJTc2xtWU4tM2U1NWs4dkRZVkk4aERtam8zVnRSZ1lzMU8wYmNad1J1Und6dEFxR2NjTnZQdw?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-03T13:53:14.000Z",
+      "description": "有没有感觉杜兰特最后也会像老詹一样，大幅度降薪找个适合的球队再冲冠？ 虎扑体育",
+      "titleZh": "球迷热议杜兰特未来可能降薪冲冠",
+      "summaryZh": "社交媒体出现讨论，推测杜兰特晚年可能效仿勒布朗·詹姆斯，通过大幅降薪加入具备争冠实力的球队以追求总冠军。该话题引发球迷对杜兰特职业生涯后期规划的猜测。",
+      "detailsZh": "事实：虎扑等社区出现帖子，询问是否感觉杜兰特最后会像詹姆斯一样降薪找队冲冠。评论：这是基于杜兰特年龄和冠军渴望的常见球迷观点，属于主观推测。杜兰特目前效力于菲尼克斯太阳（截至2024年数据，2026年背景需结合合同情况），若合同临近结束或球队竞争力下降，此类讨论将升温。传闻：无官方消息证实杜兰特有此计划，仅为网络流言。",
+      "keyPoints": [
+        "网友推测杜兰特可能效仿詹姆斯降薪",
+        "讨论焦点为杜兰特职业生涯末期规划",
+        "属球迷主观猜测，非官方消息"
       ],
       "category": "场外",
       "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE1UbmZHZkUzNm1WZkwzUzhTQW5FWVBHQUFyRl9ZZm1kX09QSU5mUDJXMEVaczlmQ19oQ041M01BRjgxSGc1V1NGS2ZtSQ",
+      "title": "[流言板]雷媒：杜兰特雷霆8年1次MVP0冠，SGA雷霆7年2次MVP1座冠军",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UbmZHZkUzNm1WZkwzUzhTQW5FWVBHQUFyRl9ZZm1kX09QSU5mUDJXMEVaczlmQ19oQ041M01BRjgxSGc1V1NGS2ZtSQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-03T04:50:34.000Z",
+      "description": "[流言板]雷媒：杜兰特雷霆8年1次MVP0冠，SGA雷霆7年2次MVP1座冠军 虎扑体育",
+      "titleZh": "雷媒对比杜兰特与SGA雷霆时期成就",
+      "summaryZh": "俄克拉荷马当地媒体对比了杜兰特与谢伊·吉尔杰斯-亚历山大在雷霆队的成就。指出杜兰特在雷霆8年间获得1次MVP但0冠，而SGA在7年间获得2次MVP和1座冠军，引发舆论讨论。",
+      "detailsZh": "事实：雷媒发布数据对比，杜兰特雷霆时期：8年，1 MVP，0 冠军；SGA雷霆时期：7年，2 MVP，1 冠军。评论：此对比旨在突出SGA的带队成绩，可能带有地域倾向。杜兰特在雷霆时期的表现已载入史册，但冠军缺失是其生涯遗憾之一。此内容属于历史数据统计与比较，非当前动态。",
+      "keyPoints": [
+        "雷媒对比杜兰特与SGA雷霆时期数据",
+        "杜兰特雷霆8年1 MVP 0冠",
+        "SGA雷霆7年2 MVP 1冠"
+      ],
+      "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxNekFYRDhaVkVfZWs3YUJ0SnhTYzlZRmhMMWw1WkJUNFp1TmMyaE5Welhtc0NYN1FFTXh4cEpFN2dLSzdoeHc1SHR6SFREUVMzMHd2cm9zUEh1Y2pUM3NBTnM0RWVQbXFfemdOLTRpTXY2bTVVTndFS0F6b1FpNFc2OV9kLW9zclNoUEVQbg",
+      "title": "杜兰特回应文班亚马绝不为博彩网站代言的承诺，那是他的事",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekFYRDhaVkVfZWs3YUJ0SnhTYzlZRmhMMWw1WkJUNFp1TmMyaE5Welhtc0NYN1FFTXh4cEpFN2dLSzdoeHc1SHR6SFREUVMzMHd2cm9zUEh1Y2pUM3NBTnM0RWVQbXFfemdOLTRpTXY2bTVVTndFS0F6b1FpNFc2OV9kLW9zclNoUEVQbg?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-03T15:14:06.000Z",
+      "description": "杜兰特回应文班亚马绝不为博彩网站代言的承诺，那是他的事 搜狐网",
+      "titleZh": "杜兰特回应文班亚马绝不为博彩网站代言的承诺，那是他的事",
+      "summaryZh": "杜兰特回应文班亚马绝不为博彩网站代言的承诺，那是他的事 搜狐网",
+      "detailsZh": "杜兰特回应文班亚马绝不为博彩网站代言的承诺，那是他的事 搜狐网",
+      "keyPoints": [
+        "杜兰特回应文班亚马绝不为博彩网站代言的承诺，那是他的事"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiqwFBVV95cUxQb1VnZ0ZaYzlxSC02MlZhdk9WcWpJVVdjMFJnNXBCVGtyU1FBdVE5SDM1VjAwN2d3eTk4c3dqMEpwUno2VlRyTWFCNWxNOEVFZ1lzVlJHZUdpWTVWTUhvSERsLUxqczdFaGxOdWZNS3htZVJma1MxUnZLV3ZrbFU2S21iQ0tFTlNUVzd4cVpNV2g1VGRJMVFWbjd1TWtKMEdkQjlQTkZLeWR0bjA",
+      "title": "Kevin Durant on Bogdan Bogdanovic’s work ethic: “It inspires me”",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1VnZ0ZaYzlxSC02MlZhdk9WcWpJVVdjMFJnNXBCVGtyU1FBdVE5SDM1VjAwN2d3eTk4c3dqMEpwUno2VlRyTWFCNWxNOEVFZ1lzVlJHZUdpWTVWTUhvSERsLUxqczdFaGxOdWZNS3htZVJma1MxUnZLV3ZrbFU2S21iQ0tFTlNUVzd4cVpNV2g1VGRJMVFWbjd1TWtKMEdkQjlQTkZLeWR0bjA?oc=5",
+      "source": "Eurohoops",
+      "publishedAt": "2026-10-03T14:50:00.000Z",
+      "description": "Kevin Durant on Bogdan Bogdanovic’s work ethic: “It inspires me” Eurohoops",
+      "titleZh": "Kevin Durant on Bogdan Bogdanovic’s work ethic: “It inspires me”",
+      "summaryZh": "Kevin Durant on Bogdan Bogdanovic’s work ethic: “It inspires me” Eurohoops",
+      "detailsZh": "Kevin Durant on Bogdan Bogdanovic’s work ethic: “It inspires me” Eurohoops",
+      "keyPoints": [
+        "Kevin Durant on Bogdan Bogdanovic’s work ethic: “It inspires me”"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -124,7 +120,24 @@
         "火箭三人组位列NBA前五！杜兰特&申京&阿门完美互补令人期待"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMikgFBVV95cUxOMHNRVTNDZFFWU3kxalVVYXpSNnd2SlhoMmRKbmpkc0xsb1dMRmxwNFJLd0lRalVjejhObXp2dDR0S2VjYWxYSTJuVzQxUV9oUkIzQ1JSZVlkYjNTWVBhbFVBWjVmZU5CU2pab01JNlhhcEw5QnRldW9HTTRiQlhGWWJjRE5IdC12SXY4ekxKLW1WUQ",
+      "title": "杜兰特谈与斯玛特、博格丹配合，无需言语即默契",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHNRVTNDZFFWU3kxalVVYXpSNnd2SlhoMmRKbmpkc0xsb1dMRmxwNFJLd0lRalVjejhObXp2dDR0S2VjYWxYSTJuVzQxUV9oUkIzQ1JSZVlkYjNTWVBhbFVBWjVmZU5CU2pab01JNlhhcEw5QnRldW9HTTRiQlhGWWJjRE5IdC12SXY4ekxKLW1WUQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-03T09:42:00.000Z",
+      "description": "杜兰特谈与斯玛特、博格丹配合，无需言语即默契 手机新浪网",
+      "titleZh": "杜兰特谈与斯玛特、博格丹配合，无需言语即默契",
+      "summaryZh": "杜兰特谈与斯玛特、博格丹配合，无需言语即默契 手机新浪网",
+      "detailsZh": "杜兰特谈与斯玛特、博格丹配合，无需言语即默契 手机新浪网",
+      "keyPoints": [
+        "杜兰特谈与斯玛特、博格丹配合，无需言语即默契"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -141,23 +154,6 @@
         "NBA Roundup: Celtics' Army Preparation, Player Calls Out Own Team, Durant's Response, and More"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMibkFVX3lxTE1CV3J4U1RMNXktb0tYaXh4akxVcXlOSXk5VHlPTUVkZnVLeHZnTl83QnJ4SmdFM0FaaFpOWUxFdE9CRmtqTzVScmRCZ2xRNXZ4RHg4X043Z3cxQmdqdy1qejliUlFIN3pmZWp3YU5n",
-      "title": "Kevin Durant records",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CV3J4U1RMNXktb0tYaXh4akxVcXlOSXk5VHlPTUVkZnVLeHZnTl83QnJ4SmdFM0FaaFpOWUxFdE9CRmtqTzVScmRCZ2xRNXZ4RHg4X043Z3cxQmdqdy1qejliUlFIN3pmZWp3YU5n?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-10-03T09:11:19.000Z",
-      "description": "Kevin Durant records BasketNews.com",
-      "titleZh": "Kevin Durant records",
-      "summaryZh": "Kevin Durant records BasketNews.com",
-      "detailsZh": "Kevin Durant records BasketNews.com",
-      "keyPoints": [
-        "Kevin Durant records"
-      ],
-      "category": "场外",
       "importance": 3
     },
     {
@@ -166,7 +162,7 @@
       "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "url": "https://www.chinaz.com/2026/0921/1778354.shtml",
       "source": "站长之家",
-      "publishedAt": "2026-10-03T12:31:17.299Z",
+      "publishedAt": "2026-10-03T17:15:19.367Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -259,14 +255,33 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的大咕咕咕鸡人物资料，涵盖其常用笔名、创作风格及网络影响力背景。作为基础资料入口，提供相对客观的传记信息。",
-      "detailsZh": "该条目为固定的人物资料页面，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其活跃平台、代表性作品类型以及在网络亚文化中的定位。事实部分基于公开可查的网络痕迹整理，评论部分涉及对其文风幽默性与讽刺性的普遍评价。需注意的是，网络百科存在编辑滞后性，具体细节应以最新官方发布为准。此条目主要用于确立人物基本画像，不包含具体的近期动态或争议事件报道。",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格演变及在网络文化中的影响力背景。",
+      "detailsZh": "该条目为关于网络写手“大咕咕咕鸡”的综合性背景资料入口。事实层面，它记录了该ID作为知名网络段子手的身份认定，梳理了其从早期微博段子到后续多平台发展的轨迹。评论与传闻方面，词条通常引用第三方媒体对其语言风格的分析，指出其擅长解构社会热点与职场焦虑，具有鲜明的讽刺幽默特征。需注意的是，此类百科资料属于静态档案，非当日新闻，主要用于确立人物基本画像与创作脉络，适合用于了解其长期公众形象。",
       "keyPoints": [
-        "提供人物基础背景与笔名信息",
-        "概括创作风格与网络影响",
-        "属于静态资料而非动态新闻"
+        "记录网络写手大咕咕咕鸡的基本身份与笔名",
+        "梳理其创作风格与社会讽刺主题",
+        "提供网络影响力的背景资料而非即时动态"
       ],
-      "category": "场外",
+      "category": "作品",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对当时网络语言环境的影响，属历史性文献。",
+      "detailsZh": "这是一篇发布于2015年的历史性深度报道，由界面新闻撰写。事实层面，文章分析了大咕咕咕鸡在当时的活跃状态及其代表作的传播情况。评论部分探讨了其作为早期网红如何定义“段子手”这一群体标签，以及其文字如何反映当时的社会情绪。由于时间久远，该资料不包含近期动态，但作为研究其早期职业生涯和网络地位的关键史料，具有较高的参考价值。它证实了该人物在中文互联网早期的知名度，属于固定资料库内容，不应误读为近期事件。",
+      "keyPoints": [
+        "2015年发布的历史深度报道",
+        "分析早期创作风格与网络语言影响",
+        "界定其在网络段子手群体中的地位"
+      ],
+      "category": "讨论",
       "importance": 3
     },
     {
@@ -278,15 +293,15 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话主页，聚合其公开动态与读者讨论。此为社区互动入口，展示粉丝活跃度与话题热度，非单一新闻事件。",
-      "detailsZh": "该链接指向微博超话索引页，属于固定的社区资料入口。页面内容随用户发帖实时变动，无法在静态JSON中体现具体“当天”的新闻事实。其主要功能是汇聚相关话题标签下的帖子，反映受众对作者的讨论倾向。由于来源为社交媒体，内容混杂大量粉丝二次创作、玩梗及非官方传闻，真实性难以直接核实。编辑建议将其视为观察舆论风向的工具，而非权威信源。此处不提取具体动态，因为超话内容具有高度流动性和不可预测性，不符合严谨新闻编辑标准。",
+      "summaryZh": "新浪微博上的官方或粉丝维护的大咕咕咕鸡超话页面，是读者获取其公开动态、参与讨论的主要聚合入口。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话（Super Topic）。这是一个固定的社区入口，而非单条新闻。事实层面，它是该写手在微博平台上的主要互动阵地，汇集了大量粉丝发布的转发、评论及二次创作内容。对于追踪其最新公开言论、新书宣传或日常吐槽，这是最直接的实时信息来源。需注意区分超话内的官方账号发布内容与粉丝自发讨论，后者可能包含未经核实的传闻。此条目作为资料索引，明确了其社交媒体活动的核心场所。",
       "keyPoints": [
-        "微博粉丝社区互动入口",
-        "内容实时变动，无固定新闻点",
-        "包含大量非官方讨论与传闻"
+        "微博平台的核心粉丝互动社区",
+        "获取最新公开动态与读者反馈的主入口",
+        "需甄别官方信息与粉丝自发讨论"
       ],
-      "category": "场外",
-      "importance": 2
+      "category": "公开发言",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -296,35 +311,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频聚合页",
-      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，聚合作品朗读、二创视频及相关讨论。此为资源检索入口，非特定新闻报道。",
-      "detailsZh": "该链接为B站搜索结果页，属于动态资源聚合工具。页面展示的内容包括官方上传的视频、UP主的解说或朗读以及粉丝剪辑。由于搜索结果依赖算法推荐和用户行为，每次访问结果可能不同，因此无法构成一条确定的新闻事实。其中可能包含对作者作品的解读（评论）或未经证实的八卦（传闻）。作为编辑，应明确此页面的性质为“资料库”而非“新闻源”。它反映了作者在视频平台的传播广度，但具体内容需逐一甄别，不宜直接引用搜索结果页作为新闻依据。",
+      "titleZh": "哔哩哔哩大咕咕咕鸡相关视频聚合",
+      "summaryZh": "B站搜索聚合页，集中展示与大咕咕咕鸡相关的视频朗读、解说及讨论内容，是其多媒体内容的检索入口。",
+      "detailsZh": "此为哔哩哔哩平台的关键词搜索结果页，专门聚合与“大咕咕咕鸡”相关的视频内容。事实层面，这里包含了其作品的有声朗读、UP主制作的解析视频以及相关的鬼畜或二创素材。这反映了其内容在视频平台的跨媒介传播情况。评论与传闻在此类视频中较为混杂，建议优先关注官方授权或高信誉UP主的解读。该页面作为动态更新的资源库，提供了除文字外的视听维度资料，有助于全面了解其IP的多维表现形式，属于功能性资料入口。",
       "keyPoints": [
-        "B站视频资源检索入口",
-        "内容含官方视频与用户二创",
-        "搜索结果动态变化，非固定新闻"
+        "B站多媒体内容的检索聚合页",
+        "包含作品朗读、解说及二创视频",
+        "反映跨媒介传播形态与受众反馈"
       ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的历史报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言生态的影响。属历史文献，具一定参考价值。",
-      "detailsZh": "这是一篇发布于2015年的媒体文章，属于历史资料而非近期动态。文章从媒体视角分析了当时大咕咕咕鸡等网络段子手群体的创作特征，指出其语言风格对网络流行语的塑造作用。事实部分记录了当时的网络现象，评论部分代表了传统媒体对网络亚文化的观察与反思。鉴于时间跨度较大，部分内容可能已过时，仅适用于研究其早期影响力或网络文学演变史。编辑需注意区分当年的语境与当前的网络环境，避免将历史观点直接套用于当下。",
-      "keyPoints": [
-        "2015年历史媒体报道",
-        "分析早期创作风格与语言影响",
-        "代表传统媒体对网文的早期观察"
-      ],
-      "category": "公开发言",
-      "importance": 4
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
