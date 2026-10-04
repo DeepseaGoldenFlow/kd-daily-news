@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T23:04:41.123Z",
+  "updatedAt": "2026-10-04T02:39:53.281Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -15,157 +15,24 @@
   },
   "items": [
     {
+      "id": "durant:durant-nba-profile",
+      "title": "凯文·杜兰特 NBA 官方球员档案",
+      "url": "https://www.nba.com/player/201142/kevin-durant",
+      "source": "NBA.com",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "凯文·杜兰特的 NBA 官方资料、赛季数据和状态入口。",
       "subject": "durant",
-      "id": "durant:search:https://sina.cn/news/detail/5348530118199860.html",
-      "title": "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻",
-      "url": "https://sina.cn/news/detail/5348530118199860.html",
-      "source": "新浪网",
-      "publishedAt": "2026-10-03T23:01:58.939Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "凯文·杜兰特 NBA 官方球员档案入口",
+      "summaryZh": "此为凯文·杜兰特的NBA官方静态资料页面，非当日新闻。提供其职业生涯数据、球队信息及实时状态查询功能，是获取权威基础信息的固定入口。",
+      "detailsZh": "该链接指向NBA官方网站上的凯文·杜兰特个人主页，属于固定的球员资料库而非动态新闻报道。页面内容主要涵盖其基本个人信息（如身高、体重、出生日期）、选秀历史（2007年首轮第2顺位被西雅图超音速选中）以及职业生涯各赛季的详细统计数据。此外，该页面还整合了其所属球队（菲尼克斯太阳队）的最新阵容信息和比赛日程。由于这是静态的官方档案入口，不包含任何当天的比赛结果、伤病更新或场外八卦。用户应将其视为查询杜兰特职业履历和官方数据的基准来源，而非获取即时资讯的新闻源。请注意区分此类固定资料页与突发新闻的区别，避免将长期有效的档案信息误读为当日发生的动态事件。",
       "keyPoints": [
-        "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻"
+        "NBA官网提供的杜兰特官方静态资料页",
+        "包含职业生涯数据、选秀信息及球队归属",
+        "非当日新闻，无时效性动态内容",
+        "作为查询权威基础信息的固定入口"
       ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMinwFBVV95cUxPcGpYRXBBV090ZDJVamlQcmdxMlZNdzVFSk5YcV9xbk5UdGFGb2QzWldRamhvNWxUUVF6V2x4QnVfRXJTcUtOVTd3NmdnbXN4Q2hQTk9lMVJBU2VBaXg2N1J5ejV2b2wwOHpRaXA1WC14Wnp0S3lNaXlCRVl3VWE3V0tzRFhsaTh2dzIyTVFwVUdBY3BpdFh2X1VDMTdvRWs",
-      "title": "Revisiting Phoenix Suns' Kevin Durant Trade a Year Later",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGpYRXBBV090ZDJVamlQcmdxMlZNdzVFSk5YcV9xbk5UdGFGb2QzWldRamhvNWxUUVF6V2x4QnVfRXJTcUtOVTd3NmdnbXN4Q2hQTk9lMVJBU2VBaXg2N1J5ejV2b2wwOHpRaXA1WC14Wnp0S3lNaXlCRVl3VWE3V0tzRFhsaTh2dzIyTVFwVUdBY3BpdFh2X1VDMTdvRWs?oc=5",
-      "source": "roundtable.io",
-      "publishedAt": "2026-10-03T21:28:16.000Z",
-      "description": "Revisiting Phoenix Suns' Kevin Durant Trade a Year Later roundtable.io",
-      "titleZh": "Revisiting Phoenix Suns' Kevin Durant Trade a Year Later",
-      "summaryZh": "Revisiting Phoenix Suns' Kevin Durant Trade a Year Later roundtable.io",
-      "detailsZh": "Revisiting Phoenix Suns' Kevin Durant Trade a Year Later roundtable.io",
-      "keyPoints": [
-        "Revisiting Phoenix Suns' Kevin Durant Trade a Year Later"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMitwFBVV95cUxQNmEtVDk3bjB3Z2xubkNHemNPVEpUckZyUXpUSGZzNGdIRlZuSDYyMkJCNS1OYWVRMEszSUt5R0tTWWQwNlJnVHM1SkhVazNMZF9BVzBnMXBKN0dsbk1qN0VIamNYeVJ3Ri1TeUg2NG9kaTNJVjZJcTYzVWxFRThhc2xDeXRrbHBhbnYtMUw5VmtZTWxPYzVlYXRuNEZ4SzFoNGFhM3U2NjVtc0dsU3FnODl3b2ZoaXc",
-      "title": "\"He has the tools\" - Kevin Durant explains why James Harden never became a great defender",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmEtVDk3bjB3Z2xubkNHemNPVEpUckZyUXpUSGZzNGdIRlZuSDYyMkJCNS1OYWVRMEszSUt5R0tTWWQwNlJnVHM1SkhVazNMZF9BVzBnMXBKN0dsbk1qN0VIamNYeVJ3Ri1TeUg2NG9kaTNJVjZJcTYzVWxFRThhc2xDeXRrbHBhbnYtMUw5VmtZTWxPYzVlYXRuNEZ4SzFoNGFhM3U2NjVtc0dsU3FnODl3b2ZoaXc?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-10-03T20:32:00.000Z",
-      "description": "\"He has the tools\" - Kevin Durant explains why James Harden never became a great defender Basketball Network",
-      "titleZh": "\"He has the tools\" - Kevin Durant explains why James Harden never became a great defender",
-      "summaryZh": "\"He has the tools\" - Kevin Durant explains why James Harden never became a great defender Basketball Network",
-      "detailsZh": "\"He has the tools\" - Kevin Durant explains why James Harden never became a great defender Basketball Network",
-      "keyPoints": [
-        "\"He has the tools\" - Kevin Durant explains why James Harden never became a great defender"
-      ],
-      "category": "场外",
+      "category": "比赛",
       "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMitAJBVV95cUxQcFVCUEF0TlJlUWdVYzdnSzdyTXZxeHBnb2FSeEkwbl9aSGNxbFdzQ1NPLTlXN05oZVd5aG5VVFg2bjZEa3ZMdXduVEV6RmVuWjB3Ujlfb1dfYy1OOVFqWHFHUkJmRUktQ3VCRjdKRGpyTzQwWjk0Mm1SeVJ5RG5sV0NabTJsTWtNZnYyMkFJZW9fMlJySmpVRjJmeVN6Uk5pLXRjc1lJNnU2a2k4TzdsX08xS2lZakx5MEllLTBxUGFRZXJTNXkxbmM3OXVjZGFNZnVOLUJMVVZ5NDR0WURCVkZPa1ltY0VHNU5QaFYxemc2VFdsZnZiSlRvb0lEeTBsMWtHWUFycjJCcDJQbkRybW0zQ1JHOVBKU01IQkV5NmRSaTBEX1dlck5mVFg1YjVqVGxxWdIBtAJBVV95cUxQcFVCUEF0TlJlUWdVYzdnSzdyTXZxeHBnb2FSeEkwbl9aSGNxbFdzQ1NPLTlXN05oZVd5aG5VVFg2bjZEa3ZMdXduVEV6RmVuWjB3Ujlfb1dfYy1OOVFqWHFHUkJmRUktQ3VCRjdKRGpyTzQwWjk0Mm1SeVJ5RG5sV0NabTJsTWtNZnYyMkFJZW9fMlJySmpVRjJmeVN6Uk5pLXRjc1lJNnU2a2k4TzdsX08xS2lZakx5MEllLTBxUGFRZXJTNXkxbmM3OXVjZGFNZnVOLUJMVVZ5NDR0WURCVkZPa1ltY0VHNU5QaFYxemc2VFdsZnZiSlRvb0lEeTBsMWtHWUFycjJCcDJQbkRybW0zQ1JHOVBKU01IQkV5NmRSaTBEX1dlck5mVFg1YjVqVGxxWQ",
-      "title": "Kevin Durant net worth in 2026: Inside the Houston Rockets star’s NBA salary, Nike deal, career, business",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQcFVCUEF0TlJlUWdVYzdnSzdyTXZxeHBnb2FSeEkwbl9aSGNxbFdzQ1NPLTlXN05oZVd5aG5VVFg2bjZEa3ZMdXduVEV6RmVuWjB3Ujlfb1dfYy1OOVFqWHFHUkJmRUktQ3VCRjdKRGpyTzQwWjk0Mm1SeVJ5RG5sV0NabTJsTWtNZnYyMkFJZW9fMlJySmpVRjJmeVN6Uk5pLXRjc1lJNnU2a2k4TzdsX08xS2lZakx5MEllLTBxUGFRZXJTNXkxbmM3OXVjZGFNZnVOLUJMVVZ5NDR0WURCVkZPa1ltY0VHNU5QaFYxemc2VFdsZnZiSlRvb0lEeTBsMWtHWUFycjJCcDJQbkRybW0zQ1JHOVBKU01IQkV5NmRSaTBEX1dlck5mVFg1YjVqVGxxWdIBtAJBVV95cUxQcFVCUEF0TlJlUWdVYzdnSzdyTXZxeHBnb2FSeEkwbl9aSGNxbFdzQ1NPLTlXN05oZVd5aG5VVFg2bjZEa3ZMdXduVEV6RmVuWjB3Ujlfb1dfYy1OOVFqWHFHUkJmRUktQ3VCRjdKRGpyTzQwWjk0Mm1SeVJ5RG5sV0NabTJsTWtNZnYyMkFJZW9fMlJySmpVRjJmeVN6Uk5pLXRjc1lJNnU2a2k4TzdsX08xS2lZakx5MEllLTBxUGFRZXJTNXkxbmM3OXVjZGFNZnVOLUJMVVZ5NDR0WURCVkZPa1ltY0VHNU5QaFYxemc2VFdsZnZiSlRvb0lEeTBsMWtHWUFycjJCcDJQbkRybW0zQ1JHOVBKU01IQkV5NmRSaTBEX1dlck5mVFg1YjVqVGxxWQ?oc=5",
-      "source": "timesofindia.indiatimes.com",
-      "publishedAt": "2026-10-03T20:30:00.000Z",
-      "description": "Kevin Durant net worth in 2026: Inside the Houston Rockets star’s NBA salary, Nike deal, career, business timesofindia.indiatimes.com",
-      "titleZh": "Kevin Durant net worth in 2026: Inside the Houston Rockets star’s NBA salary, Nike deal, career, business",
-      "summaryZh": "Kevin Durant net worth in 2026: Inside the Houston Rockets star’s NBA salary, Nike deal, career, business timesofindia.indiatimes.com",
-      "detailsZh": "Kevin Durant net worth in 2026: Inside the Houston Rockets star’s NBA salary, Nike deal, career, business timesofindia.indiatimes.com",
-      "keyPoints": [
-        "Kevin Durant net worth in 2026: Inside the Houston Rockets star’s NBA salary, Nike deal, career, business"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMivAFBVV95cUxPQzBiLVRiV0l3aVVlcFdoNEJXbFdnVjFndDFDYjJ0bzNlcmxpOGhUbDV6MkZoX3pKM3NTQVNvY1BlVHAzbVFWeUNXTnhFSE53RmEtNnRLWERzYVI0Q2lXM0k0U3dtaU10R01EVnJOT1Zjam9Cc1hsZUQ4OHFwYndZdWlTUWhydGRPMVFwRDBiWXl0N3Jsc0tPQ2pkdVFueXhuYl9LRC13UG54c2JFT0NrdURJblJGWUwtMUVJZw",
-      "title": "\"Did KD go to them or did they go to KD?\" - Tim Hardaway defends Kevin Durant's tenure with the Golden State Warriors",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzBiLVRiV0l3aVVlcFdoNEJXbFdnVjFndDFDYjJ0bzNlcmxpOGhUbDV6MkZoX3pKM3NTQVNvY1BlVHAzbVFWeUNXTnhFSE53RmEtNnRLWERzYVI0Q2lXM0k0U3dtaU10R01EVnJOT1Zjam9Cc1hsZUQ4OHFwYndZdWlTUWhydGRPMVFwRDBiWXl0N3Jsc0tPQ2pkdVFueXhuYl9LRC13UG54c2JFT0NrdURJblJGWUwtMUVJZw?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-10-03T19:17:00.000Z",
-      "description": "\"Did KD go to them or did they go to KD?\" - Tim Hardaway defends Kevin Durant's tenure with the Golden State Warriors Basketball Network",
-      "titleZh": "\"Did KD go to them or did they go to KD?\" - Tim Hardaway defends Kevin Durant's tenure with the Golden State Warriors",
-      "summaryZh": "\"Did KD go to them or did they go to KD?\" - Tim Hardaway defends Kevin Durant's tenure with the Golden State Warriors Basketball Network",
-      "detailsZh": "\"Did KD go to them or did they go to KD?\" - Tim Hardaway defends Kevin Durant's tenure with the Golden State Warriors Basketball Network",
-      "keyPoints": [
-        "\"Did KD go to them or did they go to KD?\" - Tim Hardaway defends Kevin Durant's tenure with the Golden State Warriors"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMifkFVX3lxTFA3ZTg0VXYzZ2drM1ExanhvVTJjcVRFZjUyalpCMlp3MW9EaGw4WFV6cHVDdnBNTFZUbTNWRHV3QWtxeW1YaV9TOXNZWGtsUml1TVdjdGs1Z0p0UkUwa3RiWEg5UzM1YXhjSndxSjl3SDJhTm9OcjI3OWJsUWVWdw",
-      "title": "Did KD Quit on OKC in 2016? 😳",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3ZTg0VXYzZ2drM1ExanhvVTJjcVRFZjUyalpCMlp3MW9EaGw4WFV6cHVDdnBNTFZUbTNWRHV3QWtxeW1YaV9TOXNZWGtsUml1TVdjdGs1Z0p0UkUwa3RiWEg5UzM1YXhjSndxSjl3SDJhTm9OcjI3OWJsUWVWdw?oc=5",
-      "source": "BVM Sports",
-      "publishedAt": "2026-10-03T18:43:29.000Z",
-      "description": "Did KD Quit on OKC in 2016? 😳 BVM Sports",
-      "titleZh": "Did KD Quit on OKC in 2016? 😳",
-      "summaryZh": "Did KD Quit on OKC in 2016? 😳 BVM Sports",
-      "detailsZh": "Did KD Quit on OKC in 2016? 😳 BVM Sports",
-      "keyPoints": [
-        "Did KD Quit on OKC in 2016? 😳"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMioAFBVV95cUxQMDVWQjlWM2txSkc2T1VSZnNmRkxIZ19kcDdidVdhbzd6UEZuZzdIT0dXWnphUHQxbGs3dXhMNjlHdWNkVmNydXZCYTBLX19xNUNPU0tmaDRxTWRQenE1bFdGbWdmdmZjZkJDakJaMzhac3I2elFQSC1qdnBHWUttV01zVlF6U0VwbUdrZ1JKSjdkSkJIam9JUk95MFhOcEt00gGgAUFVX3lxTFAwNVZCOVYza3FKRzZPVVJmc2ZGTEhnX2RwN2J1V2FvN3pQRm5nN0hPR1daemFQdDFsazd1eEw2OUd1Y2RWY3J1dkJhMEtfX3E1Q09TS2ZoNHFNZFB6cTVsV0ZtZ2Z2ZmNmQkNqQlozOFpzcjZ6UVBILWp2cEdZS21XTXNWUXpTRXBtR2tnUkpKN2RKQkhqb0lST3kwWE5wS3Q",
-      "title": "Kevin Durant reacts to Victor Wembanyama’s gambling comments",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDVWQjlWM2txSkc2T1VSZnNmRkxIZ19kcDdidVdhbzd6UEZuZzdIT0dXWnphUHQxbGs3dXhMNjlHdWNkVmNydXZCYTBLX19xNUNPU0tmaDRxTWRQenE1bFdGbWdmdmZjZkJDakJaMzhac3I2elFQSC1qdnBHWUttV01zVlF6U0VwbUdrZ1JKSjdkSkJIam9JUk95MFhOcEt00gGgAUFVX3lxTFAwNVZCOVYza3FKRzZPVVJmc2ZGTEhnX2RwN2J1V2FvN3pQRm5nN0hPR1daemFQdDFsazd1eEw2OUd1Y2RWY3J1dkJhMEtfX3E1Q09TS2ZoNHFNZFB6cTVsV0ZtZ2Z2ZmNmQkNqQlozOFpzcjZ6UVBILWp2cEdZS21XTXNWUXpTRXBtR2tnUkpKN2RKQkhqb0lST3kwWE5wS3Q?oc=5",
-      "source": "TalkBasket.net",
-      "publishedAt": "2026-10-03T18:42:12.000Z",
-      "description": "Kevin Durant reacts to Victor Wembanyama’s gambling comments TalkBasket.net",
-      "titleZh": "Kevin Durant reacts to Victor Wembanyama’s gambling comments",
-      "summaryZh": "Kevin Durant reacts to Victor Wembanyama’s gambling comments TalkBasket.net",
-      "detailsZh": "Kevin Durant reacts to Victor Wembanyama’s gambling comments TalkBasket.net",
-      "keyPoints": [
-        "Kevin Durant reacts to Victor Wembanyama’s gambling comments"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMikwFBVV95cUxNVWZrZXp1VHBMckJ4LUFHaW5nUEJYQkNMS1p4M2sxWnJmVXd6VnhucVZXNWdES3gtcTI3UGstWUI2dzV2SlZKVU9KdGE2YzlKNENWOE9nMnFsLUxiTEtQX0dVUzVQV1FYY1F3bDdTRnpIVUJjVmRBWWZmSmthSkFSY0xBc2JydlVWTWVzUUxBY0M4X2_SAZMBQVVfeXFMTVVma2V6dVRwTHJCeC1BR2luZ1BCWEJDTEtaeDNrMVpyZlV3elZ4bnFWVzVnREt4LXEyN1BrLVlCNnc1dkpWSlVPSnRhNmM5SjRDVjhPZzJxbC1MYkxLUF9HVVM1UFdRWGNRd2w3U0Z6SFVCY1ZkQVlmZkprYUpBUmNMQXNicnZVVk1lc1FMQWNDOF9v",
-      "title": "Kevin Durant shares thoughts on Bogdan Bogdanovic",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWZrZXp1VHBMckJ4LUFHaW5nUEJYQkNMS1p4M2sxWnJmVXd6VnhucVZXNWdES3gtcTI3UGstWUI2dzV2SlZKVU9KdGE2YzlKNENWOE9nMnFsLUxiTEtQX0dVUzVQV1FYY1F3bDdTRnpIVUJjVmRBWWZmSmthSkFSY0xBc2JydlVWTWVzUUxBY0M4X2_SAZMBQVVfeXFMTVVma2V6dVRwTHJCeC1BR2luZ1BCWEJDTEtaeDNrMVpyZlV3elZ4bnFWVzVnREt4LXEyN1BrLVlCNnc1dkpWSlVPSnRhNmM5SjRDVjhPZzJxbC1MYkxLUF9HVVM1UFdRWGNRd2w3U0Z6SFVCY1ZkQVlmZkprYUpBUmNMQXNicnZVVk1lc1FMQWNDOF9v?oc=5",
-      "source": "TalkBasket.net",
-      "publishedAt": "2026-10-03T18:07:39.000Z",
-      "description": "Kevin Durant shares thoughts on Bogdan Bogdanovic TalkBasket.net",
-      "titleZh": "Kevin Durant shares thoughts on Bogdan Bogdanovic",
-      "summaryZh": "Kevin Durant shares thoughts on Bogdan Bogdanovic TalkBasket.net",
-      "detailsZh": "Kevin Durant shares thoughts on Bogdan Bogdanovic TalkBasket.net",
-      "keyPoints": [
-        "Kevin Durant shares thoughts on Bogdan Bogdanovic"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://weibo.com/2/detail/5346816495456086",
-      "title": "研究直播生态的经验 陈泽与快手抖音合同纠纷引发的提醒",
-      "url": "https://weibo.com/2/detail/5346816495456086",
-      "source": "微博平台",
-      "publishedAt": "2026-10-03T23:01:53.079Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "研究直播生态的经验 陈泽与快手抖音合同纠纷引发的提醒",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "研究直播生态的经验 陈泽与快手抖音合同纠纷引发的提醒"
-      ],
-      "category": "场外",
-      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -201,7 +68,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -248,13 +115,13 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景，提供其网络影响力的基础资料索引。",
-      "detailsZh": "此为固定人物资料入口，非当日新闻。内容涵盖大咕咕咕鸡作为知名网络写手的身份界定，梳理了其从早期网络段子手到独立创作者的演变轨迹。事实部分记录其主要活跃平台与代表作品类型；评论部分分析其对中文互联网亚文化语言体系的影响；传闻部分涉及对其创作动机与商业化的讨论。该页面旨在提供客观的背景参考，不包含实时动态。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的概览信息。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页面。事实层面，它记录了该ID在中文互联网早期的活跃轨迹，包括其作为“段子手”的代表性身份，以及部分被广泛引用的网络语录和创作风格特征。评论层面，条目通常将其置于早期微博生态或网络亚文化发展的背景下进行客观描述，指出其对特定时期网络语言传播的影响。传闻层面，由于维基百科的编辑特性，可能存在对其具体生平细节（如真实身份、早期经历）的不同版本叙述，需结合其他信源交叉验证。此页面非当日新闻，而是长期维护的人物档案，旨在提供稳定的参考资料索引。",
       "keyPoints": [
-        "提供人物背景与创作风格概述",
-        "梳理网络影响力历史脉络",
-        "区分事实记录与主观评价"
+        "记录常用笔名与创作风格",
+        "概述网络影响力与历史地位",
+        "提供基础背景资料索引"
       ],
       "category": "作品",
       "importance": 4
@@ -267,15 +134,34 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博官方认证的超级话题聚合页，集中展示该写手的公开动态、粉丝互动及读者讨论区。",
-      "detailsZh": "此为固定主页入口，用于追踪公开社交动态。事实层面记录了其微博账号的基本信息与超话结构；评论层面反映粉丝社群的组织形式与活跃度；传闻层面可能包含未经证实的更新预告或私下行程猜测。该链接指向的是长期存在的社区空间，而非特定日期的新闻报道，用户可通过此入口获取最新的公开言论与互动情况。",
+      "titleZh": "新浪微博超话主页",
+      "summaryZh": "大咕咕咕鸡相关的公开动态汇总与读者讨论入口。作为固定社交账号入口，展示其微博超话内的粉丝互动与内容聚合情况。",
+      "detailsZh": "此为新浪微博平台上的官方或半官方超话页面，是大咕咕咕鸡相关内容的核心集散地。事实层面，该页面展示了基于该ID标签的所有公开博文、转发及评论数据，反映了粉丝群体的活跃度与讨论热点。评论层面，超话内的内容多为读者对过往作品的回忆、二次创作或对作者近期动态的关注，体现了其在特定社群中的号召力。传闻层面，偶尔会出现关于作者近况的非官方猜测，但主要功能仍是内容归档。此页面属于固定的社交主页入口，而非单日新闻事件，其价值在于提供持续更新的社区动态和历史存档查询功能。",
       "keyPoints": [
-        "微博官方认证超话聚合页",
-        "集中展示公开动态与粉丝互动",
-        "非单日新闻，为长期社区入口"
+        "微博超话内容聚合入口",
+        "展示粉丝互动与讨论热度",
+        "提供历史动态查询功能"
       ],
-      "category": "公开发言",
+      "category": "讨论",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "哔哩哔哩搜索结果页",
+      "summaryZh": "哔哩哔哩平台上关于大咕咕咕鸡的视频、作品朗读及相关讨论的聚合搜索页面。作为多媒体资料入口，涵盖音频与视频内容。",
+      "detailsZh": "该链接指向B站针对“大咕咕咕鸡”关键词的通用搜索结果页，而非单一官方频道。事实层面，它汇集了用户上传的作品朗读音频、相关梗图视频、回顾文章视频以及粉丝制作的混剪内容。评论层面，这些视频下方的弹幕和评论往往承载着对该作者风格的怀旧情绪或对其经典段子的解读。传闻层面，搜索结果中可能包含未经核实的个人传记类视频，需谨慎甄别。此页面为动态变化的搜索结果集合，属于多媒体资料检索入口，帮助用户快速定位与该ID相关的各类视听资源，是了解其作品传播形态的重要窗口。",
+      "keyPoints": [
+        "聚合视频与音频内容",
+        "涵盖粉丝二创与朗读作品",
+        "提供多媒体资料检索"
+      ],
+      "category": "作品",
       "importance": 3
     },
     {
@@ -286,33 +172,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对当时网络语言环境的影响。",
-      "detailsZh": "这是一篇历史性媒体报道，非近期新闻。事实部分详细描述了2015年前后网络段子手的生存状态及该写手的典型作品特征；评论部分引用媒体观点，探讨其文字幽默感与社会情绪的连接；传闻部分较少，主要基于当时的公开观察。该文章提供了理解其早期成名背景的重要语境，但需注意时效性，仅作为历史资料参考，不反映当前最新状况。",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手创作生态的深度报道。回顾其创作风格及对当时网络语言环境的影响。",
+      "detailsZh": "这是一篇发布于2015年的历史新闻报道，具有较高的史料价值。事实层面，报道详细梳理了大咕咕咕鸡在当时的发文频率、典型句式及其在社交媒体上的传播路径，并列举了同期其他代表性段子手的案例以构建行业全景。评论层面，记者分析了此类“金句”式写作对公众表达方式的塑造作用，以及商业资本介入前的自媒体生存状态。传闻层面，报道中可能涉及个别未公开的行业内部轶事，但整体基调保持新闻客观性。此内容属于历史文献，用于理解该人物在特定时间节点的社会文化意义，而非当前动态。",
       "keyPoints": [
         "2015年历史深度报道",
-        "分析早期创作风格与网络影响",
-        "提供时代背景下的媒体视角"
+        "分析创作风格与网络影响",
+        "回顾早期自媒体生态"
       ],
-      "category": "讨论",
-      "importance": 2
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
-      ],
-      "category": "场外",
-      "importance": 4
+      "category": "公开发言",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-kol-profile",
