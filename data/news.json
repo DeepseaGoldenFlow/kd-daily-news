@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T02:39:53.281Z",
+  "updatedAt": "2026-10-04T09:48:44.762Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -15,24 +15,157 @@
   },
   "items": [
     {
-      "id": "durant:durant-nba-profile",
-      "title": "凯文·杜兰特 NBA 官方球员档案",
-      "url": "https://www.nba.com/player/201142/kevin-durant",
-      "source": "NBA.com",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "凯文·杜兰特的 NBA 官方资料、赛季数据和状态入口。",
       "subject": "durant",
-      "titleZh": "凯文·杜兰特 NBA 官方球员档案入口",
-      "summaryZh": "此为凯文·杜兰特的NBA官方静态资料页面，非当日新闻。提供其职业生涯数据、球队信息及实时状态查询功能，是获取权威基础信息的固定入口。",
-      "detailsZh": "该链接指向NBA官方网站上的凯文·杜兰特个人主页，属于固定的球员资料库而非动态新闻报道。页面内容主要涵盖其基本个人信息（如身高、体重、出生日期）、选秀历史（2007年首轮第2顺位被西雅图超音速选中）以及职业生涯各赛季的详细统计数据。此外，该页面还整合了其所属球队（菲尼克斯太阳队）的最新阵容信息和比赛日程。由于这是静态的官方档案入口，不包含任何当天的比赛结果、伤病更新或场外八卦。用户应将其视为查询杜兰特职业履历和官方数据的基准来源，而非获取即时资讯的新闻源。请注意区分此类固定资料页与突发新闻的区别，避免将长期有效的档案信息误读为当日发生的动态事件。",
+      "id": "durant:search:https://sina.cn/news/detail/5348530118199860.html",
+      "title": "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻",
+      "url": "https://sina.cn/news/detail/5348530118199860.html",
+      "source": "新浪网",
+      "publishedAt": "2026-10-04T09:44:41.631Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "NBA官网提供的杜兰特官方静态资料页",
-        "包含职业生涯数据、选秀信息及球队归属",
-        "非当日新闻，无时效性动态内容",
-        "作为查询权威基础信息的固定入口"
+        "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻"
       ],
-      "category": "比赛",
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTFBTUnNjQ3FCVTF4MkUyMk54RVphLV9NdFR3dXdlVFZkc3lOWlUxYXhpZnZYSVp4UURYUVlFYmxNSlFOUDNKY01Va3FxdENUbzNtQm0yMHdiMy1Db29mM0cwMVdZa0lWR25jN09PQnBaR2VmOFE",
+      "title": "锐评巴黎奥运会美国队，库里、詹姆斯、杜兰特都在，来说说这支队伍的表现。 ​",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTUnNjQ3FCVTF4MkUyMk54RVphLV9NdFR3dXdlVFZkc3lOWlUxYXhpZnZYSVp4UURYUVlFYmxNSlFOUDNKY01Va3FxdENUbzNtQm0yMHdiMy1Db29mM0cwMVdZa0lWR25jN09PQnBaR2VmOFE?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-04T06:43:05.000Z",
+      "description": "锐评巴黎奥运会美国队，库里、詹姆斯、杜兰特都在，来说说这支队伍的表现。 ​ 手机新浪网",
+      "titleZh": "锐评巴黎奥运会美国队，库里、詹姆斯、杜兰特都在，来说说这支队伍的表现。 ​",
+      "summaryZh": "锐评巴黎奥运会美国队，库里、詹姆斯、杜兰特都在，来说说这支队伍的表现。 ​ 手机新浪网",
+      "detailsZh": "锐评巴黎奥运会美国队，库里、詹姆斯、杜兰特都在，来说说这支队伍的表现。 ​ 手机新浪网",
+      "keyPoints": [
+        "锐评巴黎奥运会美国队，库里、詹姆斯、杜兰特都在，来说说这支队伍的表现。 ​"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxNSGUwVXhuRUNDcDVBREhPdEdja3haclNGZUlHVkE2X2xCTXZIMGszQUd3SEozTTdrWkRFQ0tWMEJocDgzZV8zeHBsVGp0M3ZxR2o4MGJzdDdzWTF0dG9nSkFwdHplX05BZ0Z0QTR0S0dfX2xqZk5yQUJNUlNPR2pCaVNhYXBjbFJJWFVoeQ",
+      "title": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞，小史密斯对标OG",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGUwVXhuRUNDcDVBREhPdEdja3haclNGZUlHVkE2X2xCTXZIMGszQUd3SEozTTdrWkRFQ0tWMEJocDgzZV8zeHBsVGp0M3ZxR2o4MGJzdDdzWTF0dG9nSkFwdHplX05BZ0Z0QTR0S0dfX2xqZk5yQUJNUlNPR2pCaVNhYXBjbFJJWFVoeQ?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-04T05:43:55.000Z",
+      "description": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞，小史密斯对标OG 搜狐网",
+      "titleZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞，小史密斯对标OG",
+      "summaryZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞，小史密斯对标OG 搜狐网",
+      "detailsZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞，小史密斯对标OG 搜狐网",
+      "keyPoints": [
+        "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞，小史密斯对标OG"
+      ],
+      "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxQWnY0OUpmNUoxM1AzT0F0bThGQmR6LTIxcTkzYTNWVnlPa2VoN182OFNveU9oSXBPMmpIR0xjWW1vSHJYZUVtZ3dmWnV2cUEybFdqcUp5TElRYVJIVW9IbHo1MWJRSWQ4UFJqd2RjV2ZmcG9fbGw5cW0zSDE5Um5Pa2FxT05nQVZuc1FGQ3hhOA",
+      "title": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnY0OUpmNUoxM1AzT0F0bThGQmR6LTIxcTkzYTNWVnlPa2VoN182OFNveU9oSXBPMmpIR0xjWW1vSHJYZUVtZ3dmWnV2cUEybFdqcUp5TElRYVJIVW9IbHo1MWJRSWQ4UFJqd2RjV2ZmcG9fbGw5cW0zSDE5Um5Pa2FxT05nQVZuc1FGQ3hhOA?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-04T04:41:00.000Z",
+      "description": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服 手机新浪网",
+      "titleZh": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服",
+      "summaryZh": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服 手机新浪网",
+      "detailsZh": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服 手机新浪网",
+      "keyPoints": [
+        "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMickFVX3lxTE9GTnFtNVN6WURQQmhPWVRyMXd5UFp2c0FmaDZ2ZEFNVXZ1T1pqSXRyTVVid1poVTNHLXp5T3NXcjFSQUJBelJDMFpQNE9aa2NLZGpuSXpLODc5Yk1OVksteWJhMHRXOWhvYjk4UVVDLVB4dw",
+      "title": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GTnFtNVN6WURQQmhPWVRyMXd5UFp2c0FmaDZ2ZEFNVXZ1T1pqSXRyTVVid1poVTNHLXp5T3NXcjFSQUJBelJDMFpQNE9aa2NLZGpuSXpLODc5Yk1OVksteWJhMHRXOWhvYjk4UVVDLVB4dw?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-04T04:14:40.000Z",
+      "description": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇 手机新浪网",
+      "titleZh": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇",
+      "summaryZh": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇 手机新浪网",
+      "detailsZh": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇 手机新浪网",
+      "keyPoints": [
+        "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxNeXlZdmFPX1k1dnNzTDNSbUQ1ZUhkd2d3dXBaOXJLbk1MZ2lJcTBwWnBKNklSVmpXc2xXTWlOTXU1a282YUN2MXo0dHY4YldVcnVLSVhnNTl3SEFNdlVyd3M1Ukp6U01VUURGWVNTdm1PNlNGZ01lVXJiTDZHaU5SOUhnUzJJWGZWVnhDOF9ESQ",
+      "title": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXlZdmFPX1k1dnNzTDNSbUQ1ZUhkd2d3dXBaOXJLbk1MZ2lJcTBwWnBKNklSVmpXc2xXTWlOTXU1a282YUN2MXo0dHY4YldVcnVLSVhnNTl3SEFNdlVyd3M1Ukp6U01VUURGWVNTdm1PNlNGZ01lVXJiTDZHaU5SOUhnUzJJWGZWVnhDOF9ESQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-04T04:11:00.000Z",
+      "description": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG 手机新浪网",
+      "titleZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG",
+      "summaryZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG 手机新浪网",
+      "detailsZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG 手机新浪网",
+      "keyPoints": [
+        "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMikgFBVV95cUxOZlMwNng0WW9RaDdsMWc5Mlo3ZXZhRXFKSDBkcE5RNUphdEtRN0ZZSURYbENieE5hR1RUUjk4WUpZVDhhZTlmLWt3blVZYk1iTWVhY2doWTRQalVRUXpOU3VOdGZSaTBuUzktMHhITDFEcFg1REdWaEJPMi1VekFuUDVCNzlhODJjYjJ5UFJNZC1LZw",
+      "title": "杜兰特15次真实命中率六成以上赛季居首",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlMwNng0WW9RaDdsMWc5Mlo3ZXZhRXFKSDBkcE5RNUphdEtRN0ZZSURYbENieE5hR1RUUjk4WUpZVDhhZTlmLWt3blVZYk1iTWVhY2doWTRQalVRUXpOU3VOdGZSaTBuUzktMHhITDFEcFg1REdWaEJPMi1VekFuUDVCNzlhODJjYjJ5UFJNZC1LZw?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-04T03:41:00.000Z",
+      "description": "杜兰特15次真实命中率六成以上赛季居首 手机新浪网",
+      "titleZh": "杜兰特15次真实命中率六成以上赛季居首",
+      "summaryZh": "杜兰特15次真实命中率六成以上赛季居首 手机新浪网",
+      "detailsZh": "杜兰特15次真实命中率六成以上赛季居首 手机新浪网",
+      "keyPoints": [
+        "杜兰特15次真实命中率六成以上赛季居首"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiTkFVX3lxTE5McVNYc18yN1pqekJxZVdJRlQyYlpQVUUtNzBPWFZXTzQ4TDlDTS1IV3paemgxY2lZSWdvQ0VBLUxQZjVGdE9pVHhrVU5udw",
+      "title": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5McVNYc18yN1pqekJxZVdJRlQyYlpQVUUtNzBPWFZXTzQ4TDlDTS1IV3paemgxY2lZSWdvQ0VBLUxQZjVGdE9pVHhrVU5udw?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-04T02:42:41.000Z",
+      "description": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％ 虎扑体育",
+      "titleZh": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％",
+      "summaryZh": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％ 虎扑体育",
+      "detailsZh": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％ 虎扑体育",
+      "keyPoints": [
+        "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:search:https://www.woshipm.com/share/6468023.html",
+      "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
+      "url": "https://www.woshipm.com/share/6468023.html",
+      "source": "人人都是产品经理",
+      "publishedAt": "2026-10-04T09:44:43.342Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -68,7 +201,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -116,14 +249,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的概览信息。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页面。事实层面，它记录了该ID在中文互联网早期的活跃轨迹，包括其作为“段子手”的代表性身份，以及部分被广泛引用的网络语录和创作风格特征。评论层面，条目通常将其置于早期微博生态或网络亚文化发展的背景下进行客观描述，指出其对特定时期网络语言传播的影响。传闻层面，由于维基百科的编辑特性，可能存在对其具体生平细节（如真实身份、早期经历）的不同版本叙述，需结合其他信源交叉验证。此页面非当日新闻，而是长期维护的人物档案，旨在提供稳定的参考资料索引。",
+      "summaryZh": "维基百科收录的大咕咕咕鸡词条，涵盖其常用笔名、创作风格及网络影响力背景。作为基础资料入口，提供相对客观的人物生平与作品梳理，是核实其身份与早期活动的重要参考源。",
+      "detailsZh": "该条目为固定的人物资料页面，非当日新闻。内容主要基于公开可查的网络信息进行整理，重点记录了大咕咕咕鸡作为网络写手的成名历程、标志性段子及其对中文互联网语境的影响。事实部分包括其活跃时间段、主要发布平台及代表性作品类型；评论部分涉及媒体对其“网络语言推动者”角色的评价；传闻部分则可能包含关于其真实身份或后续转型的非官方猜测。鉴于维基百科的编辑机制，信息可能存在滞后或争议，需结合其他来源交叉验证。此条目核心价值在于提供结构化的人物画像，而非动态事件报道。",
       "keyPoints": [
-        "记录常用笔名与创作风格",
-        "概述网络影响力与历史地位",
-        "提供基础背景资料索引"
+        "提供人物基本背景与笔名信息",
+        "梳理创作风格与代表作品",
+        "记录网络影响力与社会评价",
+        "存在信息滞后风险"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 4
     },
     {
@@ -135,12 +269,33 @@
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
       "titleZh": "新浪微博超话主页",
-      "summaryZh": "大咕咕咕鸡相关的公开动态汇总与读者讨论入口。作为固定社交账号入口，展示其微博超话内的粉丝互动与内容聚合情况。",
-      "detailsZh": "此为新浪微博平台上的官方或半官方超话页面，是大咕咕咕鸡相关内容的核心集散地。事实层面，该页面展示了基于该ID标签的所有公开博文、转发及评论数据，反映了粉丝群体的活跃度与讨论热点。评论层面，超话内的内容多为读者对过往作品的回忆、二次创作或对作者近期动态的关注，体现了其在特定社群中的号召力。传闻层面，偶尔会出现关于作者近况的非官方猜测，但主要功能仍是内容归档。此页面属于固定的社交主页入口，而非单日新闻事件，其价值在于提供持续更新的社区动态和历史存档查询功能。",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话页面，聚合其公开动态与读者讨论。作为粉丝互动与信息发布的核心阵地，实时反映其近期活动轨迹与社群舆论风向，是追踪其动态的关键入口。",
+      "detailsZh": "此为固定的社交媒体主页链接，非单日新闻。页面功能在于汇集大咕咕咕鸡发布的微博内容及粉丝生成的二次创作、讨论帖。事实层面，可通过该页面获取其最新的发文时间、话题标签及互动数据；评论层面，反映了核心受众对其内容的接受度与情感倾向；传闻层面，评论区常出现关于其停更、复出或身份泄露的未经证实消息。由于微博平台的即时性与碎片化特征，信息真伪混杂，建议仅将其视为动态监测工具，而非权威信源。该页面对于理解其在中文社交网络中的活跃度具有不可替代的作用。",
       "keyPoints": [
-        "微博超话内容聚合入口",
-        "展示粉丝互动与讨论热度",
-        "提供历史动态查询功能"
+        "聚合最新公开动态",
+        "反映粉丝社群舆论",
+        "信息碎片化且真伪难辨",
+        "实时监测活跃度"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。回顾其早期创作风格及对网络语言的影响，为研究其职业生涯起点提供重要的历史文献依据。",
+      "detailsZh": "这是一篇发布于2015年的历史报道，属于固定参考资料。文章从行业视角分析了以“大咕咕咕鸡”为代表的网络写手群体，详细描述了其独特的幽默表达方式、段子传播机制以及在当时社交媒体环境下的崛起路径。事实部分包括当时的阅读量数据、转载情况及典型段子案例；评论部分体现了主流媒体对草根创作者影响力的初步认可；传闻部分较少，但可能隐含对其商业化潜力的推测。该报道的价值在于提供了特定历史节点下的客观记录，有助于理解其成名背景，但不适用于追踪其近期动态。需注意报道距今已有时日，部分数据与现状可能存在脱节。",
+      "keyPoints": [
+        "记录早期创作风格",
+        "分析网络段子手生态",
+        "提供历史背景依据",
+        "数据时效性较低"
       ],
       "category": "讨论",
       "importance": 3
@@ -153,35 +308,14 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩搜索结果页",
-      "summaryZh": "哔哩哔哩平台上关于大咕咕咕鸡的视频、作品朗读及相关讨论的聚合搜索页面。作为多媒体资料入口，涵盖音频与视频内容。",
-      "detailsZh": "该链接指向B站针对“大咕咕咕鸡”关键词的通用搜索结果页，而非单一官方频道。事实层面，它汇集了用户上传的作品朗读音频、相关梗图视频、回顾文章视频以及粉丝制作的混剪内容。评论层面，这些视频下方的弹幕和评论往往承载着对该作者风格的怀旧情绪或对其经典段子的解读。传闻层面，搜索结果中可能包含未经核实的个人传记类视频，需谨慎甄别。此页面为动态变化的搜索结果集合，属于多媒体资料检索入口，帮助用户快速定位与该ID相关的各类视听资源，是了解其作品传播形态的重要窗口。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "keyPoints": [
-        "聚合视频与音频内容",
-        "涵盖粉丝二创与朗读作品",
-        "提供多媒体资料检索"
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
-      "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手创作生态的深度报道。回顾其创作风格及对当时网络语言环境的影响。",
-      "detailsZh": "这是一篇发布于2015年的历史新闻报道，具有较高的史料价值。事实层面，报道详细梳理了大咕咕咕鸡在当时的发文频率、典型句式及其在社交媒体上的传播路径，并列举了同期其他代表性段子手的案例以构建行业全景。评论层面，记者分析了此类“金句”式写作对公众表达方式的塑造作用，以及商业资本介入前的自媒体生存状态。传闻层面，报道中可能涉及个别未公开的行业内部轶事，但整体基调保持新闻客观性。此内容属于历史文献，用于理解该人物在特定时间节点的社会文化意义，而非当前动态。",
-      "keyPoints": [
-        "2015年历史深度报道",
-        "分析创作风格与网络影响",
-        "回顾早期自媒体生态"
-      ],
-      "category": "公开发言",
-      "importance": 5
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
