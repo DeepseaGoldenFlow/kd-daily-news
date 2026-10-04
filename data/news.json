@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:48:44.762Z",
+  "updatedAt": "2026-10-04T15:25:09.172Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻",
       "url": "https://sina.cn/news/detail/5348530118199860.html",
       "source": "新浪网",
-      "publishedAt": "2026-10-04T09:44:41.631Z",
+      "publishedAt": "2026-10-04T15:21:16.875Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "杜兰特 9.07 分领衔,火箭 26 赛季:伤病后的厚积薄发|休斯顿火箭|杜兰特|申京|阿门|范弗利特|斯马特|博格丹|伊森|谢泼德|史密斯|亚当斯|恩格兰德|季后赛首轮|奢侈税线|2026-27赛季_新浪新闻",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -30,6 +30,91 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxQY3VsZjBiWTBmbER2d3ZGcldrbkZHa083WHpxWkRqRUUzbFU4QW83OXA4R0tqZl9EWEZIRllhSU9LNnlYSlVmdU1MVUNxamdRaDRTcEEzUllENDJ4ei11TWtKWDNLTzViX2VHN20yUWw4dnI0UHB2YVNPS0QxTnNOM1puYXI",
+      "title": "阿里纳斯：杜兰特太爱篮球 甚至牺牲了感情&家庭和生孩子的机会",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY3VsZjBiWTBmbER2d3ZGcldrbkZHa083WHpxWkRqRUUzbFU4QW83OXA4R0tqZl9EWEZIRllhSU9LNnlYSlVmdU1MVUNxamdRaDRTcEEzUllENDJ4ei11TWtKWDNLTzViX2VHN20yUWw4dnI0UHB2YVNPS0QxTnNOM1puYXI?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-04T14:24:07.000Z",
+      "description": "阿里纳斯：杜兰特太爱篮球 甚至牺牲了感情&家庭和生孩子的机会 手机新浪网",
+      "titleZh": "阿里纳斯：杜兰特太爱篮球 甚至牺牲了感情&家庭和生孩子的机会",
+      "summaryZh": "阿里纳斯：杜兰特太爱篮球 甚至牺牲了感情&家庭和生孩子的机会 手机新浪网",
+      "detailsZh": "阿里纳斯：杜兰特太爱篮球 甚至牺牲了感情&家庭和生孩子的机会 手机新浪网",
+      "keyPoints": [
+        "阿里纳斯：杜兰特太爱篮球 甚至牺牲了感情&家庭和生孩子的机会"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi8wFBVV95cUxQN2RQUVhEcUZWRVVJcGt6TGZtdDRBOFFWYkJSUllLaDIxNnY5bmVXOC10TWtWLXFGeVNPYVJIc1p3cjBrUHZiNVpUYWsyemR2S2ZUTUltOFpWSi1neWNObjY3UjhXSFJhMW1rYldkVWxPdmJ4Nm5FdXpFSnZlRzFYYkwxYzlBM0ZsM2pCbWNPSUFSb3A2emNhMG9uVFZPTDNIZXFSVkJxUHlNbmZsVTk3TnlqZWR1OUdCa0pBczhCN2d6WXMxdFlpdjdwdzZMRTZpV25uRzJ3aHVCa1BVZUthNldJNE95V3g2cmFmdkhQZ05wVDQ",
+      "title": "“Nothing to Do With Me”: Kevin Durant Reacts to Victor Wembanyama’s Comments on Gambling Promotion",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN2RQUVhEcUZWRVVJcGt6TGZtdDRBOFFWYkJSUllLaDIxNnY5bmVXOC10TWtWLXFGeVNPYVJIc1p3cjBrUHZiNVpUYWsyemR2S2ZUTUltOFpWSi1neWNObjY3UjhXSFJhMW1rYldkVWxPdmJ4Nm5FdXpFSnZlRzFYYkwxYzlBM0ZsM2pCbWNPSUFSb3A2emNhMG9uVFZPTDNIZXFSVkJxUHlNbmZsVTk3TnlqZWR1OUdCa0pBczhCN2d6WXMxdFlpdjdwdzZMRTZpV25uRzJ3aHVCa1BVZUthNldJNE95V3g2cmFmdkhQZ05wVDQ?oc=5",
+      "source": "basketballnews.com",
+      "publishedAt": "2026-10-04T11:33:43.000Z",
+      "description": "“Nothing to Do With Me”: Kevin Durant Reacts to Victor Wembanyama’s Comments on Gambling Promotion basketballnews.com",
+      "titleZh": "“Nothing to Do With Me”: Kevin Durant Reacts to Victor Wembanyama’s Comments on Gambling Promotion",
+      "summaryZh": "“Nothing to Do With Me”: Kevin Durant Reacts to Victor Wembanyama’s Comments on Gambling Promotion basketballnews.com",
+      "detailsZh": "“Nothing to Do With Me”: Kevin Durant Reacts to Victor Wembanyama’s Comments on Gambling Promotion basketballnews.com",
+      "keyPoints": [
+        "“Nothing to Do With Me”: Kevin Durant Reacts to Victor Wembanyama’s Comments on Gambling Promotion"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxOWEN5UkNCb1hRTWJpQWpfVWEyNkQ4bEFFSURvZnJLc0MzejVodTNqRjJyRFVDaWlxZ3oyTXl5TlBqMWM5NzJUMU5ndmtqNzhXcGF0TTNyMVR6cEFMVnlERC1BWGZoWkxkNmVBVlc4S3hZdzZEV3pQdjdfQTlrS21ibkZnVEZyTFJiU0twNQ",
+      "title": "火箭再次报价欧文，杜兰特亲自招募，两大悍将沦为筹码",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEN5UkNCb1hRTWJpQWpfVWEyNkQ4bEFFSURvZnJLc0MzejVodTNqRjJyRFVDaWlxZ3oyTXl5TlBqMWM5NzJUMU5ndmtqNzhXcGF0TTNyMVR6cEFMVnlERC1BWGZoWkxkNmVBVlc4S3hZdzZEV3pQdjdfQTlrS21ibkZnVEZyTFJiU0twNQ?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-04T11:32:27.000Z",
+      "description": "火箭再次报价欧文，杜兰特亲自招募，两大悍将沦为筹码 搜狐网",
+      "titleZh": "火箭再次报价欧文，杜兰特亲自招募，两大悍将沦为筹码",
+      "summaryZh": "火箭再次报价欧文，杜兰特亲自招募，两大悍将沦为筹码 搜狐网",
+      "detailsZh": "火箭再次报价欧文，杜兰特亲自招募，两大悍将沦为筹码 搜狐网",
+      "keyPoints": [
+        "火箭再次报价欧文，杜兰特亲自招募，两大悍将沦为筹码"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQZnR3Q21QdDE2Uk93WEhCc09nZ1NWRjVrMnJiYlZfaXVRQlZyYlhCemhXcGtsWHJJdm9Oc2t4WFNQbm9xMHFOTEY5RlhMNFRxRnBSMXU2YU5iQzF3X1QxUFNPOFFtQkdPei1JYU5GNUR4WERhWmZ1VWZnQlNHNy1HaXgxaElCb1lKMGdwRw",
+      "title": "杜兰特撕毁火箭4000万羞辱合同！若不给1.2亿就考虑加盟湖人",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnR3Q21QdDE2Uk93WEhCc09nZ1NWRjVrMnJiYlZfaXVRQlZyYlhCemhXcGtsWHJJdm9Oc2t4WFNQbm9xMHFOTEY5RlhMNFRxRnBSMXU2YU5iQzF3X1QxUFNPOFFtQkdPei1JYU5GNUR4WERhWmZ1VWZnQlNHNy1HaXgxaElCb1lKMGdwRw?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-04T11:03:04.000Z",
+      "description": "杜兰特撕毁火箭4000万羞辱合同！若不给1.2亿就考虑加盟湖人 搜狐网",
+      "titleZh": "杜兰特撕毁火箭4000万羞辱合同！若不给1.2亿就考虑加盟湖人",
+      "summaryZh": "杜兰特撕毁火箭4000万羞辱合同！若不给1.2亿就考虑加盟湖人 搜狐网",
+      "detailsZh": "杜兰特撕毁火箭4000万羞辱合同！若不给1.2亿就考虑加盟湖人 搜狐网",
+      "keyPoints": [
+        "杜兰特撕毁火箭4000万羞辱合同！若不给1.2亿就考虑加盟湖人"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxPZ3B3dG1hS2VZZ2RKVFVKN1JGTXFhenNNOXNaLVVpQ2tQUXhCUUNib1NqMnBuOFc3ZVp2U3VRRlRMWEh3NUxXY0RTN2hQS3RWeE03eDZrTUdIdkdWMFZkQUJLT21VaGcwS1V0NTRXdlBkX3VjcmlrejZJcko4dUliUzFWRGpRUlBRV195eQ",
+      "title": "杜兰特不满火箭休赛期运作，要求必须得到欧文，美媒曝光4换1交易",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3B3dG1hS2VZZ2RKVFVKN1JGTXFhenNNOXNaLVVpQ2tQUXhCUUNib1NqMnBuOFc3ZVp2U3VRRlRMWEh3NUxXY0RTN2hQS3RWeE03eDZrTUdIdkdWMFZkQUJLT21VaGcwS1V0NTRXdlBkX3VjcmlrejZJcko4dUliUzFWRGpRUlBRV195eQ?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-04T10:48:27.000Z",
+      "description": "杜兰特不满火箭休赛期运作，要求必须得到欧文，美媒曝光4换1交易 搜狐网",
+      "titleZh": "杜兰特不满火箭休赛期运作，要求必须得到欧文，美媒曝光4换1交易",
+      "summaryZh": "杜兰特不满火箭休赛期运作，要求必须得到欧文，美媒曝光4换1交易 搜狐网",
+      "detailsZh": "杜兰特不满火箭休赛期运作，要求必须得到欧文，美媒曝光4换1交易 搜狐网",
+      "keyPoints": [
+        "杜兰特不满火箭休赛期运作，要求必须得到欧文，美媒曝光4换1交易"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -46,7 +131,7 @@
         "锐评巴黎奥运会美国队，库里、詹姆斯、杜兰特都在，来说说这支队伍的表现。 ​"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -66,97 +151,12 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxQWnY0OUpmNUoxM1AzT0F0bThGQmR6LTIxcTkzYTNWVnlPa2VoN182OFNveU9oSXBPMmpIR0xjWW1vSHJYZUVtZ3dmWnV2cUEybFdqcUp5TElRYVJIVW9IbHo1MWJRSWQ4UFJqd2RjV2ZmcG9fbGw5cW0zSDE5Um5Pa2FxT05nQVZuc1FGQ3hhOA",
-      "title": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnY0OUpmNUoxM1AzT0F0bThGQmR6LTIxcTkzYTNWVnlPa2VoN182OFNveU9oSXBPMmpIR0xjWW1vSHJYZUVtZ3dmWnV2cUEybFdqcUp5TElRYVJIVW9IbHo1MWJRSWQ4UFJqd2RjV2ZmcG9fbGw5cW0zSDE5Um5Pa2FxT05nQVZuc1FGQ3hhOA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-04T04:41:00.000Z",
-      "description": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服 手机新浪网",
-      "titleZh": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服",
-      "summaryZh": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服 手机新浪网",
-      "detailsZh": "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服 手机新浪网",
-      "keyPoints": [
-        "亚当斯回归，火箭内线防守增强，申京杜兰特会打得更加舒服"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMickFVX3lxTE9GTnFtNVN6WURQQmhPWVRyMXd5UFp2c0FmaDZ2ZEFNVXZ1T1pqSXRyTVVid1poVTNHLXp5T3NXcjFSQUJBelJDMFpQNE9aa2NLZGpuSXpLODc5Yk1OVksteWJhMHRXOWhvYjk4UVVDLVB4dw",
-      "title": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GTnFtNVN6WURQQmhPWVRyMXd5UFp2c0FmaDZ2ZEFNVXZ1T1pqSXRyTVVid1poVTNHLXp5T3NXcjFSQUJBelJDMFpQNE9aa2NLZGpuSXpLODc5Yk1OVksteWJhMHRXOWhvYjk4UVVDLVB4dw?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-04T04:14:40.000Z",
-      "description": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇 手机新浪网",
-      "titleZh": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇",
-      "summaryZh": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇 手机新浪网",
-      "detailsZh": "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇 手机新浪网",
-      "keyPoints": [
-        "火箭湖人首轮前瞻，詹姆斯杜兰特哈登东契奇"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijwFBVV95cUxNeXlZdmFPX1k1dnNzTDNSbUQ1ZUhkd2d3dXBaOXJLbk1MZ2lJcTBwWnBKNklSVmpXc2xXTWlOTXU1a282YUN2MXo0dHY4YldVcnVLSVhnNTl3SEFNdlVyd3M1Ukp6U01VUURGWVNTdm1PNlNGZ01lVXJiTDZHaU5SOUhnUzJJWGZWVnhDOF9ESQ",
-      "title": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXlZdmFPX1k1dnNzTDNSbUQ1ZUhkd2d3dXBaOXJLbk1MZ2lJcTBwWnBKNklSVmpXc2xXTWlOTXU1a282YUN2MXo0dHY4YldVcnVLSVhnNTl3SEFNdlVyd3M1Ukp6U01VUURGWVNTdm1PNlNGZ01lVXJiTDZHaU5SOUhnUzJJWGZWVnhDOF9ESQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-04T04:11:00.000Z",
-      "description": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG 手机新浪网",
-      "titleZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG",
-      "summaryZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG 手机新浪网",
-      "detailsZh": "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG 手机新浪网",
-      "keyPoints": [
-        "火箭一夜4消息！杜兰特又创历史唯一，申京三分获赞+小贾对标OG"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMikgFBVV95cUxOZlMwNng0WW9RaDdsMWc5Mlo3ZXZhRXFKSDBkcE5RNUphdEtRN0ZZSURYbENieE5hR1RUUjk4WUpZVDhhZTlmLWt3blVZYk1iTWVhY2doWTRQalVRUXpOU3VOdGZSaTBuUzktMHhITDFEcFg1REdWaEJPMi1VekFuUDVCNzlhODJjYjJ5UFJNZC1LZw",
-      "title": "杜兰特15次真实命中率六成以上赛季居首",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZlMwNng0WW9RaDdsMWc5Mlo3ZXZhRXFKSDBkcE5RNUphdEtRN0ZZSURYbENieE5hR1RUUjk4WUpZVDhhZTlmLWt3blVZYk1iTWVhY2doWTRQalVRUXpOU3VOdGZSaTBuUzktMHhITDFEcFg1REdWaEJPMi1VekFuUDVCNzlhODJjYjJ5UFJNZC1LZw?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-04T03:41:00.000Z",
-      "description": "杜兰特15次真实命中率六成以上赛季居首 手机新浪网",
-      "titleZh": "杜兰特15次真实命中率六成以上赛季居首",
-      "summaryZh": "杜兰特15次真实命中率六成以上赛季居首 手机新浪网",
-      "detailsZh": "杜兰特15次真实命中率六成以上赛季居首 手机新浪网",
-      "keyPoints": [
-        "杜兰特15次真实命中率六成以上赛季居首"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiTkFVX3lxTE5McVNYc18yN1pqekJxZVdJRlQyYlpQVUUtNzBPWFZXTzQ4TDlDTS1IV3paemgxY2lZSWdvQ0VBLUxQZjVGdE9pVHhrVU5udw",
-      "title": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5McVNYc18yN1pqekJxZVdJRlQyYlpQVUUtNzBPWFZXTzQ4TDlDTS1IV3paemgxY2lZSWdvQ0VBLUxQZjVGdE9pVHhrVU5udw?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-04T02:42:41.000Z",
-      "description": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％ 虎扑体育",
-      "titleZh": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％",
-      "summaryZh": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％ 虎扑体育",
-      "detailsZh": "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％ 虎扑体育",
-      "keyPoints": [
-        "[流言板]杜兰特17年季后赛三项命中率达到189％，真实命中率68％"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:search:https://www.woshipm.com/share/6468023.html",
       "title": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "url": "https://www.woshipm.com/share/6468023.html",
       "source": "人人都是产品经理",
-      "publishedAt": "2026-10-04T09:44:43.342Z",
+      "publishedAt": "2026-10-04T15:21:11.585Z",
       "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "让粉丝自费算力打工,半年涨粉超2000万,陈泽凭什么?",
       "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -248,14 +248,13 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的大咕咕咕鸡词条，涵盖其常用笔名、创作风格及网络影响力背景。作为基础资料入口，提供相对客观的人物生平与作品梳理，是核实其身份与早期活动的重要参考源。",
-      "detailsZh": "该条目为固定的人物资料页面，非当日新闻。内容主要基于公开可查的网络信息进行整理，重点记录了大咕咕咕鸡作为网络写手的成名历程、标志性段子及其对中文互联网语境的影响。事实部分包括其活跃时间段、主要发布平台及代表性作品类型；评论部分涉及媒体对其“网络语言推动者”角色的评价；传闻部分则可能包含关于其真实身份或后续转型的非官方猜测。鉴于维基百科的编辑机制，信息可能存在滞后或争议，需结合其他来源交叉验证。此条目核心价值在于提供结构化的人物画像，而非动态事件报道。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响。作为基础背景资料入口，提供其公众形象的客观记录与来源链接。",
+      "detailsZh": "该条目为固定的人物资料索引页面，非时效性新闻。内容主要梳理了“大咕咕咕鸡”作为网络写手的身份背景，包括其常用的笔名变体、主要的创作领域（如段子、评论）以及在中文互联网语境下的影响力评估。此类资料旨在提供静态的背景知识，帮助读者理解该人物的基本轮廓。需注意，维基内容可能随时间更新，且不同编辑者对“网络影响”的定义可能存在主观差异。本条目不包含具体的当日动态或新作品发布，仅作为了解其长期公众形象的参考基准。",
       "keyPoints": [
-        "提供人物基本背景与笔名信息",
-        "梳理创作风格与代表作品",
-        "记录网络影响力与社会评价",
-        "存在信息滞后风险"
+        "提供人物基础背景与笔名信息",
+        "记录其在中文互联网的长期影响",
+        "属于静态资料而非动态新闻"
       ],
       "category": "场外",
       "importance": 4
@@ -268,14 +267,32 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "新浪微博超话主页",
-      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话页面，聚合其公开动态与读者讨论。作为粉丝互动与信息发布的核心阵地，实时反映其近期活动轨迹与社群舆论风向，是追踪其动态的关键入口。",
-      "detailsZh": "此为固定的社交媒体主页链接，非单日新闻。页面功能在于汇集大咕咕咕鸡发布的微博内容及粉丝生成的二次创作、讨论帖。事实层面，可通过该页面获取其最新的发文时间、话题标签及互动数据；评论层面，反映了核心受众对其内容的接受度与情感倾向；传闻层面，评论区常出现关于其停更、复出或身份泄露的未经证实消息。由于微博平台的即时性与碎片化特征，信息真伪混杂，建议仅将其视为动态监测工具，而非权威信源。该页面对于理解其在中文社交网络中的活跃度具有不可替代的作用。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博上的官方或粉丝维护的超话聚合页，集中展示大咕咕咕鸡的公开动态、转发内容及读者讨论。是追踪其最新社交媒体行为的核心数据源。",
+      "detailsZh": "此链接指向新浪微博的超级话题（Super Topic）页面，是大咕咕咕鸡在社交平台上的主要活动阵地之一。该页面聚合了其发布的原创微博、转发内容以及粉丝和读者的互动评论。对于观察者而言，这是获取其“公开发言”和“讨论”类内容的最直接渠道。然而，由于微博内容的即时性和碎片化特征，该页面本身是一个动态容器，而非单一的新闻事件。使用时需区分官方账号发布的内容与粉丝二创或无关讨论，避免将噪音误认为有效信息。此外，平台算法可能导致部分热门内容被优先展示，需注意信息的代表性偏差。",
       "keyPoints": [
-        "聚合最新公开动态",
-        "反映粉丝社群舆论",
-        "信息碎片化且真伪难辨",
-        "实时监测活跃度"
+        "聚合最新微博动态与粉丝讨论",
+        "是追踪社交活跃度的核心入口",
+        "需甄别官方内容与用户生成内容"
+      ],
+      "category": "场外",
+      "importance": 5
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡B站视频聚合",
+      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”生成的视频列表，包含作品朗读、相关解说及历史视频。用于检索其音频内容及相关二次创作，属资料检索工具。",
+      "detailsZh": "该链接为B站的搜索结果页，而非特定频道主页。它展示了所有与“大咕咕咕鸡”相关的视频内容，包括但不限于：对其文字作品的音频朗读版、UP主制作的解说视频、混剪素材以及相关的讨论区内容。这一资源对于研究其作品的传播形式（特别是从文本到音频的转化）具有重要价值。但需注意，搜索结果中包含大量非官方、甚至可能歪曲原意的二次创作内容。因此，在使用时应仔细筛选来源，优先关注认证创作者或高信誉UP主的作品，以排除误导性信息。该页面本质上是资料检索工具，不具备新闻事件的独立性。",
+      "keyPoints": [
+        "聚合视频朗读与二次创作内容",
+        "反映作品在音频平台的传播形态",
+        "需严格筛选来源以排除误导信息"
       ],
       "category": "场外",
       "importance": 3
@@ -288,34 +305,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其所处网络段子手生态的深度报道。回顾其早期创作风格及对网络语言的影响，为研究其职业生涯起点提供重要的历史文献依据。",
-      "detailsZh": "这是一篇发布于2015年的历史报道，属于固定参考资料。文章从行业视角分析了以“大咕咕咕鸡”为代表的网络写手群体，详细描述了其独特的幽默表达方式、段子传播机制以及在当时社交媒体环境下的崛起路径。事实部分包括当时的阅读量数据、转载情况及典型段子案例；评论部分体现了主流媒体对草根创作者影响力的初步认可；传闻部分较少，但可能隐含对其商业化潜力的推测。该报道的价值在于提供了特定历史节点下的客观记录，有助于理解其成名背景，但不适用于追踪其近期动态。需注意报道距今已有时日，部分数据与现状可能存在脱节。",
+      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言生态的影响。作为早期媒体对其公众形象定性的关键文献，具有历史参考价值。",
+      "detailsZh": "这是一篇发布于2015年的历史新闻报道，由专业媒体机构界面新闻撰写。文章深入探讨了大咕咕咕鸡在当时网络环境下的创作特点，特别是其如何通过独特的语言风格影响当时的网络段子文化。该报道代表了主流媒体对该人物早期影响力的认可与分析，是研究其职业生涯早期阶段的重要外部视角。然而，由于发布时间较早，其中关于其个人现状或近期作品的描述可能已失效。读者应将其视为历史档案，用于理解其成名背景和文化意义，而非获取当前动态的依据。报道中的观点反映了当时的媒体立场，可能存在时代局限性。",
       "keyPoints": [
-        "记录早期创作风格",
-        "分析网络段子手生态",
-        "提供历史背景依据",
-        "数据时效性较低"
+        "2015年媒体对其风格的定性分析",
+        "记录早期网络语言影响力",
+        "具历史价值但非当前动态"
       ],
       "category": "讨论",
       "importance": 3
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
-      ],
-      "category": "场外",
-      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
