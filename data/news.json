@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T05:59:54.210Z",
+  "updatedAt": "2026-10-07T13:22:47.515Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,139 +16,155 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://bbs.hupu.com/642788841.html",
-      "title": "[流言板]科尔:巅峰期有杜兰特在时能在混战中赢球,现在不能这样做 ",
-      "url": "https://bbs.hupu.com/642788841.html",
-      "source": "虎扑体育网",
-      "publishedAt": "2026-10-07T05:56:06.135Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "[流言板]科尔:巅峰期有杜兰特在时能在混战中赢球,现在不能这样做 ",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "id": "durant:CBMipgFBVV95cUxNT1JtZ1J2S0d0N05zWklzX0hEWE5qX0xuTHplczNUOEU1dXVuNWlvd0pUWk82dDYzeWVSMVFGSy1FOUlrbXVSSWxyWDh2QjhRNlZNNlAxWlFIeXNiaXczelV6MDhDUnE4UzdiOTR4b05TQjdzN2ZCYmczbkN1OW5hRERUZHVQdnhsU3RONUtXOHI0SHZiQXdMajBUWXVKWkxrdHNkQ2hR",
+      "title": "How to watch Houston Rockets in 2026-27: TV schedule for Kevin Durant’s win-now season",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1JtZ1J2S0d0N05zWklzX0hEWE5qX0xuTHplczNUOEU1dXVuNWlvd0pUWk82dDYzeWVSMVFGSy1FOUlrbXVSSWxyWDh2QjhRNlZNNlAxWlFIeXNiaXczelV6MDhDUnE4UzdiOTR4b05TQjdzN2ZCYmczbkN1OW5hRERUZHVQdnhsU3RONUtXOHI0SHZiQXdMajBUWXVKWkxrdHNkQ2hR?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-07T11:00:33.000Z",
+      "description": "How to watch Houston Rockets in 2026-27: TV schedule for Kevin Durant’s win-now season The New York Times",
+      "titleZh": "纽约时报发布火箭队2026-27赛季观赛指南",
+      "summaryZh": "《纽约时报》发布休斯顿火箭队2026-27赛季电视转播时间表，明确将凯文·杜兰特所在的赛季定义为“赢在当下”（win-now）模式。该报道侧重于赛事日程安排及球队争冠目标，未涉及具体交易或伤病细节。",
+      "detailsZh": "事实：媒体整理了火箭队新赛季的电视转播计划，供球迷观看比赛。评论/背景：文章标题强调这是杜兰特加盟后的首个完整赛季，定性为球队全力争冠的关键时期。传闻：无直接证据表明有重大变动，仅基于现有阵容的预期。",
       "keyPoints": [
-        "[流言板]科尔:巅峰期有杜兰特在时能在混战中赢球,现在不能这样做 "
+        "确认杜兰特效力于火箭队",
+        "球队定位为争冠级别",
+        "提供官方观赛渠道信息"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "比赛",
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiR0FVX3lxTE1zVVNZUXRHXzR3a01jNHYxQmhPTnJsRkxuRTFXSmtSLUl0QWZBZXpVVDBwSl9GbHVQdTlwWU10a3c2bmxpcmNr",
+      "id": "durant:CBMikAFBVV95cUxOSVRSZW9FNTFDMGMwVHRKNm03VWFUVmRyejJiLXBfTU1aN1Nmai1RRVZFb21TdGhnVGZ5cW1iSTJnVnZJUlo1cmdIdDlUZUFPNi1QZUdxNFZ0NGJ1TmJIbFFHaHB1bTdjdWxhaHR0R2lac2pPVUc4LVFBX29iUnlUTVRtOXJIaUxURC12TmJtOS0",
+      "title": "Kyrie Irving shares heartfelt reaction to Kevin Durant’s desire for his 1 specific skill",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVRSZW9FNTFDMGMwVHRKNm03VWFUVmRyejJiLXBfTU1aN1Nmai1RRVZFb21TdGhnVGZ5cW1iSTJnVnZJUlo1cmdIdDlUZUFPNi1QZUdxNFZ0NGJ1TmJIbFFHaHB1bTdjdWxhaHR0R2lac2pPVUc4LVFBX29iUnlUTVRtOXJIaUxURC12TmJtOS0?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-07T11:57:51.000Z",
+      "description": "Kyrie Irving shares heartfelt reaction to Kevin Durant’s desire for his 1 specific skill Yahoo Sports",
+      "titleZh": "欧文回应杜兰特对其某项技能的渴望",
+      "summaryZh": "凯里·欧文对凯文·杜兰特希望掌握其某项特定技能的想法做出了深情回应。这反映了两人之间长期的默契与尊重，属于球员间的互动话题，不涉及赛场表现或商业决策。",
+      "detailsZh": "事实：欧文公开表达了对杜兰特想法的支持或反应。评论：这体现了两位前队友间的良好关系。传闻：未指明具体是哪项技能，可能指投篮、控球或篮球智商等抽象能力，需结合后续采访确认。",
+      "keyPoints": [
+        "欧文对杜兰特的言论做出回应",
+        "展现两人良好关系",
+        "涉及技术层面的交流"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMieEFVX3lxTE9WQ2lLdUdCam1qVW5tT1BFSld4S2pGN3FQTXROUUx2MTZERC1LT3VpM1BubEZGMVU0SFNmblJoOEk4TEdjSXBaS1ZHb0YtVmx4Z2Jvd0J6andzSERSbEZSRFpYM0NiZmZSRnhJa0VlcmpWZEduRzVaag",
+      "title": "Kevin Durant Pitches Nike on Official KD 4 Football Cleat",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WQ2lLdUdCam1qVW5tT1BFSld4S2pGN3FQTXROUUx2MTZERC1LT3VpM1BubEZGMVU0SFNmblJoOEk4TEdjSXBaS1ZHb0YtVmx4Z2Jvd0J6andzSERSbEZSRFpYM0NiZmZSRnhJa0VlcmpWZEduRzVaag?oc=5",
+      "source": "KicksUnderCost",
+      "publishedAt": "2026-10-07T11:56:52.000Z",
+      "description": "Kevin Durant Pitches Nike on Official KD 4 Football Cleat KicksUnderCost",
+      "titleZh": "杜兰特向耐克提议推出KD系列美式足球钉鞋",
+      "summaryZh": "据KicksUnderCost报道，凯文·杜兰特正在向耐克推销一款官方的KD系列美式足球（橄榄球）钉鞋。若成真，这将是他跨界体育装备领域的重大举措，目前处于提案阶段。",
+      "detailsZh": "事实：杜兰特有向耐克提出新产品的意向。评论：鉴于杜兰特在篮球领域的巨大影响力，此举旨在拓展品牌边界。传闻：目前仅为“Pitching”（推销/提案），尚未有官方签约或产品发布的确认消息，存在不确定性。",
+      "keyPoints": [
+        "杜兰特寻求开发NFL球鞋产品线",
+        "与耐克的商业谈判进行中",
+        "跨足美式足球领域"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMicEFVX3lxTE9kcm9YZXF6d1BWOUVUaWpDTXQteG9jYnlkaG5MNVdZWlRTQmlkQ1BoVmRhSDBqWHk1VWlnWEg4cnBZNmU3N0VDdmRaN1ZZOFRxOWFEcGVadW1CbG5HYXljaXBUdGFEaDJJMHJTUkRzTFQ",
+      "title": "张子宇比海王高一个头！申京站一旁显娇小 KD遇球迷比耶谢泼德挥手",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcm9YZXF6d1BWOUVUaWpDTXQteG9jYnlkaG5MNVdZWlRTQmlkQ1BoVmRhSDBqWHk1VWlnWEg4cnBZNmU3N0VDdmRaN1ZZOFRxOWFEcGVadW1CbG5HYXljaXBUdGFEaDJJMHJTUkRzTFQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-07T12:48:00.000Z",
+      "description": "张子宇比海王高一个头！申京站一旁显娇小 KD遇球迷比耶谢泼德挥手 新浪网",
+      "titleZh": "杜兰特现身NBA中国赛澳门站并与球迷互动",
+      "summaryZh": "在2026年NBA中国赛澳门站期间，凯文·杜兰特出席活动并与当地球迷合影。现场照片显示他与申京、亚当斯等人同框，并回应了关于其身高的讨论，展现了亲民形象。",
+      "detailsZh": "事实：杜兰特参加了在中国澳门举办的NBA中国赛相关活动。细节：他在合影中与队友互动，并被拍到比申京和亚当斯更高，引发了关于其实际身高的趣味讨论。评论：此类商业推广活动有助于提升联盟在亚洲市场的影响力。",
+      "keyPoints": [
+        "参加NBA中国赛澳门站",
+        "与队友申京、亚当斯合影",
+        "引发身高讨论"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxNYnNMS1NwTTB3QW1VamNIYlhtNXFaME1EQUpDRHhsZzVUTXZzYUZvNWNhc3RnNDA4aWs5YTMyb292U2dLOC1XdDdlUUdXbE96Y0ZGVGxMWmhOaXgzT1lBZ0RsSTJuLUc3Q3JMdEdiejN0cFFVbDJOVENnajBQM0pkVktKdUZJNU5sYkFEcw",
+      "title": "湖人正式报价杜兰特！东契奇亲自出面联系，愿让出球队老大",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnNMS1NwTTB3QW1VamNIYlhtNXFaME1EQUpDRHhsZzVUTXZzYUZvNWNhc3RnNDA4aWs5YTMyb292U2dLOC1XdDdlUUdXbE96Y0ZGVGxMWmhOaXgzT1lBZ0RsSTJuLUc3Q3JMdEdiejN0cFFVbDJOVENnajBQM0pkVktKdUZJNU5sYkFEcw?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-07T10:39:14.000Z",
+      "description": "湖人正式报价杜兰特！东契奇亲自出面联系，愿让出球队老大 搜狐网",
+      "titleZh": "网传湖人报价杜兰特且东契奇愿让出老大地位",
+      "summaryZh": "搜狐网等自媒体声称洛杉矶湖人正式报价杜兰特，并称卢卡·东契奇亲自联系愿意让出球队核心地位。此类消息缺乏官方证实，极大概率为虚构或夸大其词的谣言。",
+      "detailsZh": "事实：无官方交易记录或可靠信源证实。评论：此类标题通常用于吸引流量，违背常理（东契奇作为建队基石让位给老将）。传闻：纯属网络谣言，不可信。建议忽略此类未经核实的社交媒体爆料。",
+      "keyPoints": [
+        "消息来源为自媒体而非官方",
+        "内容违背球队重建逻辑",
+        "确认为虚假新闻"
+      ],
+      "category": "交易",
+      "importance": 1
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQNFQ5MndBV1RjYzBFQ1lfU2FieW40OHRSWmFoN1ZlcGZLc3JKX0lBaXpuV2Q5bDFIVDcwRkhFU182SVBZc3ZNeFZNN3FKeU00QXFnSUwzUERLdXF0bUVZWjdOY0hKWjJSYUlpQ0NPWkhwemhHOTJuU0VwenJsaXAyN1JBVXI1R3R0bzhRTg",
+      "title": "唐斯加盟火箭？美媒曝光5换1震撼交易方案，恭喜杜兰特夺冠稳了",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFQ5MndBV1RjYzBFQ1lfU2FieW40OHRSWmFoN1ZlcGZLc3JKX0lBaXpuV2Q5bDFIVDcwRkhFU182SVBZc3ZNeFZNN3FKeU00QXFnSUwzUERLdXF0bUVZWjdOY0hKWjJSYUlpQ0NPWkhwemhHOTJuU0VwenJsaXAyN1JBVXI1R3R0bzhRTg?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-07T10:53:26.000Z",
+      "description": "唐斯加盟火箭？美媒曝光5换1震撼交易方案，恭喜杜兰特夺冠稳了 搜狐网",
+      "titleZh": "网传唐斯加盟火箭的五换一方案",
+      "summaryZh": "搜狐网曝光所谓“5换1”震撼交易方案，称唐斯可能加盟火箭以助杜兰特夺冠。此为典型的交易流言，无任何实质进展，旨在制造话题。",
+      "detailsZh": "事实：无交易发生。评论：唐斯与火箭的匹配度及薪资空间问题复杂，此方案多为猜测。传闻：完全未经证实的流言，可信度极低。",
+      "keyPoints": [
+        "涉及卡尔-安东尼·唐斯",
+        "无官方确认",
+        "典型交易谣言"
+      ],
+      "category": "交易",
+      "importance": 1
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMilgFBVV95cUxPX0VXVVBHV3BpTkk4M0FHY0dSUGh6YUtDeXZwMFpsbWpKS3JweXV6TC1UeDFSaVM3MEktR1BpeGpOLUZEWUp4QWhmNm9xem9SQTI1QmZ6ME83SFhRY3hnWnNxMENCbFl6WmZCUWc5cVliTjJCV1NjR0p0T1Rzb29QUmJrMTVYam4zVVFNOEttQ0lMU041d2c",
+      "title": "NBA Trade Rumors: Ja Morant, Kevin Durant, Rudy Gobert & More",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0VXVVBHV3BpTkk4M0FHY0dSUGh6YUtDeXZwMFpsbWpKS3JweXV6TC1UeDFSaVM3MEktR1BpeGpOLUZEWUp4QWhmNm9xem9SQTI1QmZ6ME83SFhRY3hnWnNxMENCbFl6WmZCUWc5cVliTjJCV1NjR0p0T1Rzb29QUmJrMTVYam4zVVFNOEttQ0lMU041d2c?oc=5",
+      "source": "Heavy.com",
+      "publishedAt": "2026-10-07T12:59:58.000Z",
+      "description": "NBA Trade Rumors: Ja Morant, Kevin Durant, Rudy Gobert & More Heavy.com",
+      "titleZh": "Heavy.com汇总NBA交易流言包括杜兰特",
+      "summaryZh": "Heavy.com发布了一篇包含贾·莫兰特、鲁迪·戈贝尔等多名球员的交易流言汇总，其中提及杜兰特。此类文章通常为季节性回顾或综合猜测，不具备新闻时效性。",
+      "detailsZh": "事实：媒体发布了包含多名球星的交易流言合集。评论：杜兰特被纳入其中可能因其近期动态引发关注，但无具体指向。传闻：通用型流言，无需特别关注。",
+      "keyPoints": [
+        "多篇交易流言汇总之一",
+        "非独家重磅消息",
+        "缺乏具体细节"
+      ],
+      "category": "交易",
+      "importance": 1
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiTkFVX3lxTE1vTmJPMktwUXFELWVSdnhySXkxRHVUVE9OUVJWMTdTQ3FBZ0dIOURSQ2NCclAzcnlfUmRCOHUxRHZCalNIbk83d1p2WkZCdw",
       "title": "[流言板]CP：杜兰特和欧文是是篮球史上技术最丝滑的两位球员",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zVVNZUXRHXzR3a01jNHYxQmhPTnJsRkxuRTFXSmtSLUl0QWZBZXpVVDBwSl9GbHVQdTlwWU10a3c2bmxpcmNr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vTmJPMktwUXFELWVSdnhySXkxRHVUVE9OUVJWMTdTQ3FBZ0dIOURSQ2NCclAzcnlfUmRCOHUxRHZCalNIbk83d1p2WkZCdw?oc=5",
       "source": "虎扑体育",
-      "publishedAt": "2026-10-07T05:18:59.000Z",
+      "publishedAt": "2026-10-07T07:38:36.000Z",
       "description": "[流言板]CP：杜兰特和欧文是是篮球史上技术最丝滑的两位球员 虎扑体育",
-      "titleZh": "[流言板]CP：杜兰特和欧文是是篮球史上技术最丝滑的两位球员",
-      "summaryZh": "[流言板]CP：杜兰特和欧文是是篮球史上技术最丝滑的两位球员 虎扑体育",
-      "detailsZh": "[流言板]CP：杜兰特和欧文是是篮球史上技术最丝滑的两位球员 虎扑体育",
+      "titleZh": "CP盛赞杜兰特与欧文技术丝滑",
+      "summaryZh": "克里斯·保罗（CP）在流言板表示，杜兰特和欧文是篮球史上技术最丝滑的两位球员。这是对两人职业生涯技术特点的高度评价，属于主观观点分享。",
+      "detailsZh": "事实：保罗发表了上述评论。评论：反映了同行对杜兰特技术细腻度的认可。传闻：无。",
       "keyPoints": [
-        "[流言板]CP：杜兰特和欧文是是篮球史上技术最丝滑的两位球员"
+        "保罗对杜兰特技术的评价",
+        "与欧文的关联",
+        "正面舆论"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxNMWgwZGN5YkRYbmFPUkdDcUg2M013aHJzVXFMUndQaWVOWVZXSkZRRHlRNkFVbXNCQWt3RGxRbU4wLXBQRW1OWE9ic3JVd2FiS2o2cDJyMFNVSmVzOXpPTWY3cnJsWFdIa2FxbEptUHBITVNpRUpVMnZ3QlRDSWRTNllqanVKRl9wZTJVTQ",
-      "title": "名记点破火箭上赛季痛点！杜兰特扛了不属于自己的重担！",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWgwZGN5YkRYbmFPUkdDcUg2M013aHJzVXFMUndQaWVOWVZXSkZRRHlRNkFVbXNCQWt3RGxRbU4wLXBQRW1OWE9ic3JVd2FiS2o2cDJyMFNVSmVzOXpPTWY3cnJsWFdIa2FxbEptUHBITVNpRUpVMnZ3QlRDSWRTNllqanVKRl9wZTJVTQ?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-07T04:54:41.000Z",
-      "description": "名记点破火箭上赛季痛点！杜兰特扛了不属于自己的重担！ 搜狐网",
-      "titleZh": "名记点破火箭上赛季痛点！杜兰特扛了不属于自己的重担！",
-      "summaryZh": "名记点破火箭上赛季痛点！杜兰特扛了不属于自己的重担！ 搜狐网",
-      "detailsZh": "名记点破火箭上赛季痛点！杜兰特扛了不属于自己的重担！ 搜狐网",
-      "keyPoints": [
-        "名记点破火箭上赛季痛点！杜兰特扛了不属于自己的重担！"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiswFBVV95cUxQUGxTWE8taFpkeEc2c3BzZFJ5UDExWERsa2VMd2hFZDBnOG9QS2pNMm1YSnhYTHBlbzhvX0dhb2ZwOWRLbl8wQTVudE4yQV9la3NuOF9nNE0wRnJyMXhRQ3Y3Z2Q1eXJQeDdpNEJ3bzRjM0NBYmg4T3NSNE11YmU5bmVqd3ktM3IwWXhacFJPR2h6T0diZ01ZRzVxc1JycnBKdDNKaWhiZEJKTV9DYXBYTEtqNA",
-      "title": "Is Kevin Durant Able to be a True Leader for the Houston Rockets?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUGxTWE8taFpkeEc2c3BzZFJ5UDExWERsa2VMd2hFZDBnOG9QS2pNMm1YSnhYTHBlbzhvX0dhb2ZwOWRLbl8wQTVudE4yQV9la3NuOF9nNE0wRnJyMXhRQ3Y3Z2Q1eXJQeDdpNEJ3bzRjM0NBYmg4T3NSNE11YmU5bmVqd3ktM3IwWXhacFJPR2h6T0diZ01ZRzVxc1JycnBKdDNKaWhiZEJKTV9DYXBYTEtqNA?oc=5",
-      "source": "roundtable.io",
-      "publishedAt": "2026-10-07T04:02:25.000Z",
-      "description": "Is Kevin Durant Able to be a True Leader for the Houston Rockets? roundtable.io",
-      "titleZh": "Is Kevin Durant Able to be a True Leader for the Houston Rockets?",
-      "summaryZh": "Is Kevin Durant Able to be a True Leader for the Houston Rockets? roundtable.io",
-      "detailsZh": "Is Kevin Durant Able to be a True Leader for the Houston Rockets? roundtable.io",
-      "keyPoints": [
-        "Is Kevin Durant Able to be a True Leader for the Houston Rockets?"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiR0FVX3lxTE5SV1hfSUd5UFJMTE94RzcxSS13YkFlOTY3SnNMaEMtbkplUnhzT0JaWGdBaFNkcGFOWnZjQlhXQ0FHMTVtS3pV",
-      "title": "[流言板]NBA官方晒杜兰特给中国球迷挨个签名视频：来自澳门球迷的爱",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SV1hfSUd5UFJMTE94RzcxSS13YkFlOTY3SnNMaEMtbkplUnhzT0JaWGdBaFNkcGFOWnZjQlhXQ0FHMTVtS3pV?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-07T03:56:52.000Z",
-      "description": "[流言板]NBA官方晒杜兰特给中国球迷挨个签名视频：来自澳门球迷的爱 虎扑体育",
-      "titleZh": "[流言板]NBA官方晒杜兰特给中国球迷挨个签名视频：来自澳门球迷的爱",
-      "summaryZh": "[流言板]NBA官方晒杜兰特给中国球迷挨个签名视频：来自澳门球迷的爱 虎扑体育",
-      "detailsZh": "[流言板]NBA官方晒杜兰特给中国球迷挨个签名视频：来自澳门球迷的爱 虎扑体育",
-      "keyPoints": [
-        "[流言板]NBA官方晒杜兰特给中国球迷挨个签名视频：来自澳门球迷的爱"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiygFBVV95cUxQZlNwLUd2V3lneFk5Z2JFWGJVVUEzM2UyamQ3eXRTNXI4U0ZUQWp6V1k0WUg3LXZjYnlXaUJUOGQyVUxXYVg5R0Z5YlRVZHdQVnMwWE1NYTVOVm9qbWFiczd1T3JVV3BOVEtRcVVBSlBXRS1GZG9kM1loWkZzbGd1bWtIdFgybkwzLVB6MzQ4TzZDempaOXRCOHNUczJjUjRJa2FfRTlQeHd1QTVrMXctanV5MnlSVVlVOTJDZG5wZFk3YUNiODJvNWxB",
-      "title": "Kyrie Irving Responds To Kevin Durant’s Ultimate Praise For His Ball-Handling Skills",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlNwLUd2V3lneFk5Z2JFWGJVVUEzM2UyamQ3eXRTNXI4U0ZUQWp6V1k0WUg3LXZjYnlXaUJUOGQyVUxXYVg5R0Z5YlRVZHdQVnMwWE1NYTVOVm9qbWFiczd1T3JVV3BOVEtRcVVBSlBXRS1GZG9kM1loWkZzbGd1bWtIdFgybkwzLVB6MzQ4TzZDempaOXRCOHNUczJjUjRJa2FfRTlQeHd1QTVrMXctanV5MnlSVVlVOTJDZG5wZFk3YUNiODJvNWxB?oc=5",
-      "source": "Fadeaway World",
-      "publishedAt": "2026-10-07T03:56:15.000Z",
-      "description": "Kyrie Irving Responds To Kevin Durant’s Ultimate Praise For His Ball-Handling Skills Fadeaway World",
-      "titleZh": "Kyrie Irving Responds To Kevin Durant’s Ultimate Praise For His Ball-Handling Skills",
-      "summaryZh": "Kyrie Irving Responds To Kevin Durant’s Ultimate Praise For His Ball-Handling Skills Fadeaway World",
-      "detailsZh": "Kyrie Irving Responds To Kevin Durant’s Ultimate Praise For His Ball-Handling Skills Fadeaway World",
-      "keyPoints": [
-        "Kyrie Irving Responds To Kevin Durant’s Ultimate Praise For His Ball-Handling Skills"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPalhKYUtTU1JUZ29pdXhIOTlaY2lqTUYycnRlVHplVUg4bGxBNjBvYms1QjRsS0ZYMnhwQVZsS194Zk00NHgzWXlOMmdmU2VzQUJvd0picDRNTnk1bHJmbHh1Mk9nTW14bnhvZDVjU21SU2RFQTZjWlhPVXJuNjZaeTE0OG1CLWI1eWZvcA",
-      "title": "火箭一夜4消息！杜兰特欧文互夸，斯马特接班狄龙，31号秀力争进轮换",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalhKYUtTU1JUZ29pdXhIOTlaY2lqTUYycnRlVHplVUg4bGxBNjBvYms1QjRsS0ZYMnhwQVZsS194Zk00NHgzWXlOMmdmU2VzQUJvd0picDRNTnk1bHJmbHh1Mk9nTW14bnhvZDVjU21SU2RFQTZjWlhPVXJuNjZaeTE0OG1CLWI1eWZvcA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-07T03:19:25.000Z",
-      "description": "火箭一夜4消息！杜兰特欧文互夸，斯马特接班狄龙，31号秀力争进轮换 搜狐网",
-      "titleZh": "火箭一夜4消息！杜兰特欧文互夸，斯马特接班狄龙，31号秀力争进轮换",
-      "summaryZh": "火箭一夜4消息！杜兰特欧文互夸，斯马特接班狄龙，31号秀力争进轮换 搜狐网",
-      "detailsZh": "火箭一夜4消息！杜兰特欧文互夸，斯马特接班狄龙，31号秀力争进轮换 搜狐网",
-      "keyPoints": [
-        "火箭一夜4消息！杜兰特欧文互夸，斯马特接班狄龙，31号秀力争进轮换"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQV1RWX1R4VGt5Vnl5eGJQSjVucGhhdEpnYnZUczl6RmlfR3N1a1BNYlg5NVJCeVJLVE5xTG95WS15MVZYd2VlU3Z0bmk3b0pRYzZsOGZTal9lOEJJTnhsVGVVXzduYmJTblhtc1h3TEk3cURwc3RTVkZiZm16dlNZQUw3Ym90WWNvWnNHRA",
-      "title": "火箭一夜四条重磅消息！杜兰特欧文隔空互夸，斯马特顶替狄龙",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1RWX1R4VGt5Vnl5eGJQSjVucGhhdEpnYnZUczl6RmlfR3N1a1BNYlg5NVJCeVJLVE5xTG95WS15MVZYd2VlU3Z0bmk3b0pRYzZsOGZTal9lOEJJTnhsVGVVXzduYmJTblhtc1h3TEk3cURwc3RTVkZiZm16dlNZQUw3Ym90WWNvWnNHRA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-07T02:36:50.000Z",
-      "description": "火箭一夜四条重磅消息！杜兰特欧文隔空互夸，斯马特顶替狄龙 搜狐网",
-      "titleZh": "火箭一夜四条重磅消息！杜兰特欧文隔空互夸，斯马特顶替狄龙",
-      "summaryZh": "火箭一夜四条重磅消息！杜兰特欧文隔空互夸，斯马特顶替狄龙 搜狐网",
-      "detailsZh": "火箭一夜四条重磅消息！杜兰特欧文隔空互夸，斯马特顶替狄龙 搜狐网",
-      "keyPoints": [
-        "火箭一夜四条重磅消息！杜兰特欧文隔空互夸，斯马特顶替狄龙"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 2
     },
     {
       "subject": "chenze",
@@ -249,15 +265,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "维基百科人物资料条目",
-      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景，提供其网络影响力的基础档案信息。",
-      "detailsZh": "该条目为固定的人物资料入口，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其常用的笔名变体、主要的创作风格特征以及在中文互联网语境下的影响力评估。此类资料具有长期参考价值，用于确立人物的基本画像。需注意的是，百科类内容可能存在滞后性，具体最新动态应以社交媒体为准。",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡词条，涵盖其常用笔名、创作风格演变及在网络文化中的影响背景。",
+      "detailsZh": "该条目为静态的人物资料聚合页，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份标识，包括其常用的笔名变体、主要的创作领域（如段子、评论等）以及其在中文互联网语境下的影响力评估。事实部分基于公开可查的百科记录；评论部分涉及对其文风幽默性与批判性的学术或大众评价；传闻部分较少，主要聚焦于其账号运营历史。此页面作为基础资料入口，提供了理解该人物创作脉络的背景框架，但不包含具体的每日动态更新。",
       "keyPoints": [
-        "提供人物基础档案与笔名对照",
-        "总结创作风格与网络影响",
-        "属于静态资料而非动态新闻"
+        "提供人物基本身份与笔名信息",
+        "概括创作风格与网络影响",
+        "作为静态资料库而非新闻源"
       ],
       "category": "作品",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -267,16 +283,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态及读者讨论，是追踪其最新发声的核心渠道。",
-      "detailsZh": "此为固定的社交账号入口链接，指向新浪微博的大咕咕咕鸡超话。该页面实时展示作者的公开博文、互动情况及粉丝讨论热度。对于关注其“公开发言”和“讨论”类别的内容至关重要。由于社交媒体数据实时变动，此链接本身不产生特定新闻事件，而是作为获取一手信息的工具存在。使用时应区分官方认证账号与同名仿冒账号，确保信息来源的权威性。",
+      "titleZh": "新浪微博超话主页",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话页面，汇集其公开动态、粉丝讨论及相关话题索引。",
+      "detailsZh": "此为微博平台的固定超话入口，用于集中展示大咕咕咕鸡的公开社交媒体活动。事实层面记录了其发布的帖子、转发内容及互动数据；评论层面反映了读者群体对其内容的即时反馈与二次创作；传闻层面可能夹杂粉丝间的猜测，但需以官方发布为准。该页面是追踪其日常发声和社群互动的核心渠道，具有高度的时效性和活跃度，但本身是一个聚合容器，具体新闻价值取决于内部最新帖子的内容。",
       "keyPoints": [
-        "实时追踪作者最新公开动态",
-        "聚合核心粉丝群体讨论",
-        "需核实账号认证状态以防假冒"
+        "微博官方超话聚合入口",
+        "汇集公开动态与粉丝讨论",
+        "具备高时效性但需甄别具体内容"
       ],
       "category": "公开发言",
-      "importance": 5
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -286,35 +302,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站作品朗读与视频聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡作品的朗读音频、相关二创视频及历史讨论内容。",
-      "detailsZh": "该链接为B站的关键词搜索结果页，非特定官方主页。其中包含大量由用户生成的二次创作、作品朗读音频以及相关的评论讨论。虽然能反映其在二次元或网文圈层的传播广度，但内容混杂，缺乏统一的事实核查。建议将其视为观察受众反应和衍生文化的窗口，而非作者本人的直接陈述。需注意甄别搬运内容与原创内容的区别。",
+      "titleZh": "哔哩哔哩相关视频搜索页",
+      "summaryZh": "B站关于大咕咕咕鸡的视频搜索结果页，包含作品朗读、二创视频及观众评论的聚合展示。",
+      "detailsZh": "该链接指向B站的通用搜索结果，非特定单一视频或频道主页。事实部分包括用户上传的音频朗读、剪辑视频及播放量数据；评论部分体现观众对文本内容的解读与共鸣；传闻部分极少，主要为视频标题党或误传。由于是搜索结果页，内容杂乱且随时间变化，不具备固定的新闻属性，仅作为检索其多媒体内容的工具入口。使用时需进一步筛选具体视频以获取有效信息。",
       "keyPoints": [
-        "汇集用户生成内容与朗读音频",
-        "反映作品在视频平台的传播度",
-        "内容质量参差不齐需人工筛选"
+        "B站视频内容检索工具",
+        "包含朗读与二创等多媒体形式",
+        "内容为动态聚合，非固定报道"
       ],
       "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道回顾",
-      "summaryZh": "2015年界面新闻关于大咕咕咕鸡及其代表的网络段子手生态的深度报道，具历史文献价值。",
-      "detailsZh": "这是一篇发布于2015年的历史报道，分析了当时以“大咕咕咕鸡”为代表的网络段子手群体的创作风格及对网络语言的影响。虽然时间较早，不能反映当前现状，但对于理解其早期成名背景和网络文化演变具有重要史料意义。报道中涉及的观点属于当时的媒体评论，可能带有时代局限性。在引用时需明确标注时间点，避免将十年前的观点误读为当前立场。",
-      "keyPoints": [
-        "记录2015年网络段子手生态",
-        "分析早期创作风格与社会影响",
-        "属历史文献，时效性较低"
-      ],
-      "category": "讨论",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -324,14 +321,35 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "第三方KOL数据档案",
+      "summaryZh": "领库平台提供的大咕咕咕鸡微博账号传播数据与画像分析，侧重商业价值与粉丝结构。",
+      "detailsZh": "此为第三方营销数据平台生成的静态档案。事实部分列出了粉丝数、互动率、活跃时间段等量化指标；评论部分基于算法模型对受众画像的描述，可能存在偏差；传闻部分无。该页面主要用于商业合作参考，反映其作为网红的市场定位，而非直接传达其个人观点或创作内容。数据具有滞后性，且不同平台统计口径差异较大，需谨慎引用。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方数据平台生成的账号画像",
+        "侧重传播数据与商业价值分析",
+        "数据存在滞后性与统计偏差"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡及其代表的网络段子手生态的深度报道文章。",
+      "detailsZh": "这是一篇发布于2015年的历史性新闻报道，非当前动态。事实部分回顾了当时大咕咕咕鸡的创作背景、典型段子及其在当时的流行程度；评论部分由记者撰写，分析了网络语言对主流话语体系的冲击；传闻部分较少，主要基于当时的社会观察。该文具有重要的文献价值，用于理解其早期影响力及网络亚文化的发展脉络，但不适用于评估其近期状态或新观点。",
+      "keyPoints": [
+        "2015年发布的历史性深度报道",
+        "分析早期创作风格与网络生态",
+        "具文献价值但不反映当前动态"
+      ],
+      "category": "讨论",
+      "importance": 3
     }
   ]
 }
