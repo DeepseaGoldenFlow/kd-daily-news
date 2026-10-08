@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:01:47.575Z",
+  "updatedAt": "2026-10-08T00:14:27.893Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -22,17 +22,57 @@
       "source": "ABC7 Los Angeles",
       "publishedAt": "2026-10-07T18:59:11.000Z",
       "description": "Rockets rule out Kevin Durant (ankle) for Game 5 vs. Lakers ABC7 Los Angeles",
-      "titleZh": "火箭官方宣布杜兰特因脚踝伤势缺席对阵湖人G5",
-      "summaryZh": "休斯顿火箭队官方确认，凯文·杜兰特因脚踝伤势将缺席对阵洛杉矶湖人的季后赛第五场比赛。这一决定对球队在系列赛中的前景产生直接影响，具体复出时间尚未公布。",
-      "detailsZh": "事实：休斯顿火箭队在比赛前正式宣布凯文·杜兰特因脚踝伤势无法出战对阵洛杉矶湖人的关键战役。这是基于球队医疗团队评估后的官方决定。评论：作为球队核心，杜兰特的缺阵显著削弱了火箭队的进攻火力与内线优势，可能迫使教练组调整战术体系以应对湖人的防守策略。传闻：目前尚无关于杜兰特确切复出时间的官方消息，外界猜测其可能需要休息数日以确保完全康复，避免伤势加重。",
+      "titleZh": "杜兰特因脚踝伤势缺席火箭对阵湖人系列赛第五场",
+      "summaryZh": "休斯顿火箭队官方确认，前锋凯文·杜兰特因脚踝伤势将缺席对阵洛杉矶湖人的季后赛第五场比赛。这一决定对球队在关键战役中的阵容深度构成挑战，具体复出时间尚未公布。",
+      "detailsZh": "事实：根据ABC7 Los Angeles报道，休斯顿火箭队在比赛前正式宣布凯文·杜兰特因脚踝受伤无法出战对阵湖人的第五场季后赛。这是他在该系列赛中因伤缺阵的最新动态。评论：作为球队的核心得分手，杜兰特的缺阵显著削弱了火箭队的进攻火力与内线威胁。分析人士指出，在季后赛高强度对抗下，老将的脚踝负荷管理至关重要。传闻：部分媒体猜测此次伤病可能与近期密集赛程有关，但球队管理层强调这是预防性措施，旨在确保杜兰特能健康进入后续轮次。目前尚无关于其长期伤停的确切消息，球迷需关注赛后医疗团队的进一步评估。",
       "keyPoints": [
-        "杜兰特因脚踝伤势缺席",
+        "杜兰特因脚踝伤势确定缺席G5",
         "对手为洛杉矶湖人队",
-        "比赛为系列赛第五场",
-        "官方已确认缺阵"
+        "球队未公布具体复出时间表",
+        "核心球员缺阵影响战术部署"
       ],
       "category": "伤病",
       "importance": 5
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMirgFBVV95cUxOc0NQZDd1cjRVcXZ6OVU2RVp4VWN4Q2FsWnpmWlRJVEhrN3hIUDNuWHFKcTVEcEt0Mk1wRnZmMlBOenZGUGhaYmFOOEM5U2pQcnV5SjhtN0x2TlYyT1diNzVhb3dQdE1PRDRHTEd1Rkxab01mUDlYZkJNbWpaYWR3Um12b1BPb3NxRnhmRk1OZWRoMTJubnRrcnVFUW5neVB0YUtPNkpqMTVqMVBEV0E",
+      "title": "NBA Insider Blames Kevin Durant for Rockets’ Chemistry Issues",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0NQZDd1cjRVcXZ6OVU2RVp4VWN4Q2FsWnpmWlRJVEhrN3hIUDNuWHFKcTVEcEt0Mk1wRnZmMlBOenZGUGhaYmFOOEM5U2pQcnV5SjhtN0x2TlYyT1diNzVhb3dQdE1PRDRHTEd1Rkxab01mUDlYZkJNbWpaYWR3Um12b1BPb3NxRnhmRk1OZWRoMTJubnRrcnVFUW5neVB0YUtPNkpqMTVqMVBEV0E?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-10-07T21:30:00.000Z",
+      "description": "NBA Insider Blames Kevin Durant for Rockets’ Chemistry Issues Sports Illustrated",
+      "titleZh": "名记指责杜兰特是火箭队化学反应问题的根源",
+      "summaryZh": "Sports Illustrated报道指出，有NBA内部人士将火箭队上赛季的主要困境归咎于凯文·杜兰特。批评声音认为其球风或领导方式影响了团队融合，引发关于超级巨星与球队文化兼容性的讨论。",
+      "detailsZh": "事实：Sports Illustrated引用匿名NBA内部人士的观点，称杜兰特被指为火箭队上赛季“化学反应问题”的主要原因。评论：这一指控反映了联盟内对于拥有顶级球星后，如何平衡个人英雄主义与团队篮球的持续争议。杜兰特以高效得分著称，但其过往经历显示，当队友实力不足或体系不匹配时，球队往往难以走远。传闻：有传言称杜兰特本人对此类批评感到不满，并可能在未来转会市场上寻求更契合其篮球哲学的环境。然而，火箭队管理层并未公开回应这些指责，而是专注于提升整体阵容深度以缓解压力。此事件凸显了明星球员在更衣室话语权与团队凝聚力之间的微妙关系。",
+      "keyPoints": [
+        "名记将火箭队问题归咎于杜兰特",
+        "涉及团队化学反应与领导力争议",
+        "反映超级巨星融入球队的普遍难题",
+        "管理层未直接回应批评"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxOMWdzME9JNkYyeWNyd1pFYWU0TXB0QnJxMnJrM3lrbjZSRnhnQVNIX1N0YzRQUXBQX0J5bVRvUU15Y3Z3S3luSE1qM0VDSEhIVmJWZE1pd1hHWllmLWFCNzl5aXNQVTNCendNRUZhRzItbTFiZ0FIMnIybnhrYk9KY3VxSlJ2NHVWMUZVXw",
+      "title": "Kevin Durant Blamed for Houston Rockets’ Main Problems Last Season",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWdzME9JNkYyeWNyd1pFYWU0TXB0QnJxMnJrM3lrbjZSRnhnQVNIX1N0YzRQUXBQX0J5bVRvUU15Y3Z3S3luSE1qM0VDSEhIVmJWZE1pd1hHWllmLWFCNzl5aXNQVTNCendNRUZhRzItbTFiZ0FIMnIybnhrYk9KY3VxSlJ2NHVWMUZVXw?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-07T19:36:25.000Z",
+      "description": "Kevin Durant Blamed for Houston Rockets’ Main Problems Last Season Yahoo Sports",
+      "titleZh": "雅虎体育重提杜兰特对火箭队上赛季表现的责任",
+      "summaryZh": "Yahoo Sports再次发文探讨凯文·杜兰特与休斯顿火箭队上赛季主要问题之间的联系。文章回顾了杜兰特加盟后的战绩波动，分析其在战术体系中的角色及外界对其适应能力的质疑。",
+      "detailsZh": "事实：Yahoo Sports发表文章，重申此前关于杜兰特应对火箭队上赛季困境负责的论点。评论：文章详细分析了杜兰特在火箭期间的数据表现与球队胜负关系的关联性，指出尽管个人效率极高，但球队在关键时刻的稳定性不足。这引发了关于“建队基石”与“终极拼图”角色的辩论。传闻：有消息称杜兰特对这种持续的负面叙事感到疲惫，并希望通过在新赛季的表现来证明自己的价值。与此同时，火箭队教练组也在调整战术，试图更好地发挥杜兰特的无球能力，以减少对他持球发起进攻的依赖。",
+      "keyPoints": [
+        "媒体持续质疑杜兰特对球队战绩的影响",
+        "分析其个人效率与团队成功的脱节",
+        "探讨战术体系适配性问题",
+        "杜兰特方面希望用表现回应质疑"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -42,154 +82,85 @@
       "source": "Heavy.com",
       "publishedAt": "2026-10-07T18:09:40.000Z",
       "description": "NBA Trade Rumors: Ja Morant, Kevin Durant, Rudy Gobert & More Heavy.com",
-      "titleZh": "NBA交易流言：杜兰特、莫兰特等球星去向成疑",
-      "summaryZh": "多家媒体披露NBA交易市场动态，涉及凯文·杜兰特、贾·莫兰特及鲁迪·戈贝尔等多位球星的潜在交易动向。目前这些均为未经证实的流言，球员去向尚不明朗。",
-      "detailsZh": "事实：Heavy.com等体育媒体发布了关于NBA交易市场的最新流言，其中提及凯文·杜兰特、贾·莫兰特和鲁迪·戈贝尔等人可能成为交易对象。评论：此类流言通常反映了管理层对阵容深度的考量或薪资空间的运作意图，但缺乏实质性进展。传闻：文章暗示杜兰特所在的火箭队可能在寻求改变，但并未提供具体的报价或谈判细节，属于典型的市场猜测性报道。",
+      "titleZh": "NBA交易流言：杜兰特、莫兰特与戈贝尔的动态",
+      "summaryZh": "Heavy.com汇总了最新的NBA交易流言，其中凯文·杜兰特被列为潜在的交易对象之一。文章探讨了多支球队可能出于争冠需求而接触火箭队，寻求引进这位超级前锋的可能性。",
+      "detailsZh": "事实：Heavy.com发布NBA交易流言汇总，提及凯文·杜兰特、贾·莫兰特和鲁迪·戈贝尔等球星的市场动向。评论：杜兰特因其卓越的实力和相对年轻的年龄，始终是交易市场的焦点。若火箭队未能达到预期目标，杜兰特可能被用作筹码或主动要求离队。传闻：有匿名经纪人透露，有几支西部强队正在密切关注杜兰特的合同情况，并准备在休赛期提出报价。然而，火箭队目前暂无交易他的明确计划，更多是将其视为长期建队核心。此类流言通常会在赛季初加剧市场活跃度，但也可能干扰球队现有的化学反应。",
       "keyPoints": [
-        "涉及杜兰特、莫兰特等球星",
-        "来源为媒体流言报道",
-        "无官方交易确认",
-        "市场动态引发关注"
+        "杜兰特被列入潜在交易名单",
+        "多支争冠球队可能对其感兴趣",
+        "火箭队目前视其为建队核心",
+        "市场活跃度受流言影响增加"
       ],
       "category": "交易",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiowFBVV95cUxONnJvRjRkajZyR0hjemMxQXBYV2RwTWY2Yk9oZUZQQnA5RUI5QnhRMVYzLURCaEhlN1AyVnpxSlFfZjB5d3VINWN4YzRVcUlHWUNfVXMzeE9hZC16M3lQb2xsOXdUak0tbzR2RXlrVDhXMk9vSjRVSkhHeUlTbHBWMUNtYnJZSzZYaTJWaWlYbXhUYkdTcm9vVnFPZ2M0bkF5a1lZ",
+      "title": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnJvRjRkajZyR0hjemMxQXBYV2RwTWY2Yk9oZUZQQnA5RUI5QnhRMVYzLURCaEhlN1AyVnpxSlFfZjB5d3VINWN4YzRVcUlHWUNfVXMzeE9hZC16M3lQb2xsOXdUak0tbzR2RXlrVDhXMk9vSjRVSkhHeUlTbHBWMUNtYnJZSzZYaTJWaWlYbXhUYkdTcm9vVnFPZ2M0bkF5a1lZ?oc=5",
+      "source": "roundtable.io",
+      "publishedAt": "2026-10-07T23:24:35.000Z",
+      "description": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant roundtable.io",
+      "titleZh": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant",
+      "summaryZh": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant roundtable.io",
+      "detailsZh": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant roundtable.io",
+      "keyPoints": [
+        "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOR1UzZmRJRmxtTU1KNkRrQ3c4dEV3eVRQQ3ZVVjdVcERNMk44WU91djVHSlBVMGVfNWFCa0FxaS1maW9sWFNhTGdPS3hJSE0yVzhwdVREeHJUay1yOUZfZzVncE1mUU1vUEdWNlRJdHhaVl9nNU5mRElSTTh5S1p5X0EtaTE",
+      "title": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1UzZmRJRmxtTU1KNkRrQ3c4dEV3eVRQQ3ZVVjdVcERNMk44WU91djVHSlBVMGVfNWFCa0FxaS1maW9sWFNhTGdPS3hJSE0yVzhwdVREeHJUay1yOUZfZzVncE1mUU1vUEdWNlRJdHhaVl9nNU5mRElSTTh5S1p5X0EtaTE?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-07T23:24:00.000Z",
+      "description": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比 手机新浪网",
+      "titleZh": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比",
+      "summaryZh": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比 手机新浪网",
+      "detailsZh": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比 手机新浪网",
+      "keyPoints": [
+        "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxObWt3bW54bjZja2x6WjdDQ0JXdXU3NXJwcjRsbmlXOUxuVURjVGJvNWNYUmE2OFM2d3lPLW1Lb25qSFJjc0hWV21oaEFIQlFheEQ1Ykw4WnNwd2VBVExIek1pZGZVZXdkVm9Ka2pWZTlXUmxqQ1pxZVVjSF9RWmlNbjlGb3BFLUU0dzlWdw",
+      "title": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70%",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWt3bW54bjZja2x6WjdDQ0JXdXU3NXJwcjRsbmlXOUxuVURjVGJvNWNYUmE2OFM2d3lPLW1Lb25qSFJjc0hWV21oaEFIQlFheEQ1Ykw4WnNwd2VBVExIek1pZGZVZXdkVm9Ka2pWZTlXUmxqQ1pxZVVjSF9RWmlNbjlGb3BFLUU0dzlWdw?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-07T23:19:37.000Z",
+      "description": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70% 搜狐网",
+      "titleZh": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70%",
+      "summaryZh": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70% 搜狐网",
+      "detailsZh": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70% 搜狐网",
+      "keyPoints": [
+        "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70%"
+      ],
+      "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiuAFBVV95cUxPdng2MXlHOE96cUtFbGVnVXczTFVUeFI4b3UtMmlLRDRsZUJhaGNHZWRwZlFxRVN0bzFuN0p4Qnd1MXFLb01talJ6ZEpKWW84TEl3LTVDVE84SFdfbHhRNFBWUFJLZVM4dGV3Y3VrQkdoTTMwVEhreEg4RlZac0M5Qlk2RGJGU2V3NlJYczlwaUQta0YyOWZXdTlESEU5eDctZmstb0tjQXAtaW92b1k4OXlTVFBzbDZp",
-      "title": "Kevin Durant Gets Message From Kyrie Irving Ahead of Rivalry Matchup",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdng2MXlHOE96cUtFbGVnVXczTFVUeFI4b3UtMmlLRDRsZUJhaGNHZWRwZlFxRVN0bzFuN0p4Qnd1MXFLb01talJ6ZEpKWW84TEl3LTVDVE84SFdfbHhRNFBWUFJLZVM4dGV3Y3VrQkdoTTMwVEhreEg4RlZac0M5Qlk2RGJGU2V3NlJYczlwaUQta0YyOWZXdTlESEU5eDctZmstb0tjQXAtaW92b1k4OXlTVFBzbDZp?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-10-07T17:40:43.000Z",
-      "description": "Kevin Durant Gets Message From Kyrie Irving Ahead of Rivalry Matchup Sports Illustrated",
-      "titleZh": "欧文向杜兰特发送信息，预示激烈对决",
-      "summaryZh": "据《运动画刊》报道，凯里·欧文在即将与凯文·杜兰特展开的对决前向其发送了信息。这一互动引发了媒体对两人关系及赛场表现的广泛讨论。",
-      "detailsZh": "事实：Sports Illustrated报道指出，凯里·欧文在与凯文·杜兰特所在球队交手前，向杜兰特发送了一条信息。评论：鉴于两人曾在篮网队并肩作战的历史，此次互动被解读为充满戏剧性的赛前心理战或老友间的问候。传闻：媒体推测该信息内容可能带有挑衅意味或怀旧色彩，旨在影响比赛氛围，但具体信息内容未被公开证实。",
+      "id": "durant:CBMif0FVX3lxTE84cmItTkVEcVJqRk9NQ3hEMTdvLXZNWGJSTFB2UzFPY0w3ai1VdEpzU1FLM3R2anhTeDJhdjNCUld2alRUQmlHcGtLMzZiZGNvY0FaS0lhN2RadnFMNUljcl9rd0drSGxNTDNCb2Q5b09uZC1vRTlRdXJ4Qm5IdlU",
+      "title": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cmItTkVEcVJqRk9NQ3hEMTdvLXZNWGJSTFB2UzFPY0w3ai1VdEpzU1FLM3R2anhTeDJhdjNCUld2alRUQmlHcGtLMzZiZGNvY0FaS0lhN2RadnFMNUljcl9rd0drSGxNTDNCb2Q5b09uZC1vRTlRdXJ4Qm5IdlU?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-07T22:57:15.000Z",
+      "description": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军 搜狐网",
+      "titleZh": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军",
+      "summaryZh": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军 搜狐网",
+      "detailsZh": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军 搜狐网",
       "keyPoints": [
-        "欧文向杜兰特发送信息",
-        "发生在 rivalry matchup 前",
-        "引发媒体广泛关注",
-        "两人历史渊源受关注"
+        "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军"
       ],
       "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiTkFVX3lxTFBhVU1ueUctVW84b1ZqUXlpQWlnX0dRVGVvWjZZampkZlNjZ1NWS3lsYVlpYlNlTWp4RzBFYkNENHBiQzcwMDR4VEdFWlAxdw",
-      "title": "[流言板]杜兰特：我不需要单场60分，我只按千分为单位算我的总得分",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhVU1ueUctVW84b1ZqUXlpQWlnX0dRVGVvWjZZampkZlNjZ1NWS3lsYVlpYlNlTWp4RzBFYkNENHBiQzcwMDR4VEdFWlAxdw?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-07T17:26:04.000Z",
-      "description": "[流言板]杜兰特：我不需要单场60分，我只按千分为单位算我的总得分 虎扑体育",
-      "titleZh": "杜兰特回应得分话题：不以单场60分为目标",
-      "summaryZh": "凯文·杜兰特在接受采访时澄清，他并不追求单场60分的个人数据，而是更关注以千分为单位累积的职业生涯总得分，强调长期贡献而非短期爆发。",
-      "detailsZh": "事实：杜兰特明确表示他的得分目标是累积生涯总得分达到新的千分里程碑，而非追求单场高分表演。评论：这一表态体现了杜兰特成熟的心态和对职业生涯长远规划的重视，区别于部分年轻球员对个人数据的执着。传闻：无相关传闻，此为球员直接陈述的观点。",
-      "keyPoints": [
-        "不追求单场60分",
-        "关注生涯总得分",
-        "以千分为单位计算",
-        "体现成熟心态"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE9ZaEN3UWRsb0tEWHEybS1JME80UmEzdnRjSmVmX0YxVll4ZGxwS1hFTTZfWTF4R2g2WElvSFlzZm1ZUlRGeGEyemZ1dw",
-      "title": "[流言板]Underdog NBA晒杜兰特离开勇士战绩：始终未能打进分区决赛",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZaEN3UWRsb0tEWHEybS1JME80UmEzdnRjSmVmX0YxVll4ZGxwS1hFTTZfWTF4R2g2WElvSFlzZm1ZUlRGeGEyemZ1dw?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-07T17:23:07.000Z",
-      "description": "[流言板]Underdog NBA晒杜兰特离开勇士战绩：始终未能打进分区决赛 虎扑体育",
-      "titleZh": "数据展示杜兰特离开勇士后未进分区决赛",
-      "summaryZh": "社交媒体账号Underdog NBA发布数据显示，自离开金州勇士队以来，凯文·杜兰特在其效力过的其他球队中，始终未能再次打入NBA分区决赛。",
-      "detailsZh": "事实：数据统计显示，杜兰特在离开勇士加盟篮网、太阳及火箭期间，虽多次进入季后赛，但均未突破分区决赛阶段。评论：这一数据常被用来质疑杜兰特在非勇士体系下的带队夺冠能力，但也需考虑队友配置、伤病及对手强度等复杂因素。传闻：无相关传闻，此为基于历史战绩的数据回顾。",
-      "keyPoints": [
-        "离开勇士后未进分区决赛",
-        "数据来源为社交媒体统计",
-        "涵盖多支球队时期",
-        "引发带队能力讨论"
-      ],
-      "category": "比赛",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiWEFVX3lxTE9LbmhmekFvc2t5cW9KWXgtY2NoSFl5Z1RMMXUxYnpGR3k3N2kwWDlhYV9taFJ3aTFfUnhQYlpad3BZQ2dGWUZvNm56U0pCdXRXVENKbTRQZkc",
-      "title": "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LbmhmekFvc2t5cW9KWXgtY2NoSFl5Z1RMMXUxYnpGR3k3N2kwWDlhYV9taFJ3aTFfUnhQYlpad3BZQ2dGWUZvNm56U0pCdXRXVENKbTRQZkc?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-10-07T16:50:13.000Z",
-      "description": "疑似KD小号言论引热议！网红也炮轰杜皇赛前玩手机 自认为已看透一切 企鹅体育",
-      "titleZh": "疑似杜兰特小号言论引争议，网红炮轰其赛前玩手机",
-      "summaryZh": "网络流传疑似凯文·杜兰特的小号言论引发热议，同时有网红批评杜兰特在比赛前玩手机，认为其态度不端。杜兰特方面暂未对此类指控做出正式回应。",
-      "detailsZh": "事实：网络上出现疑似杜兰特本人使用的小号所发布的言论，以及网红对其赛前行为的批评。评论：此类事件反映了公众人物在社交媒体时代的舆论压力，以及球迷对其职业态度的高度敏感。传闻：关于小号是否为杜兰特本人操作尚无确凿证据，多为网友猜测；赛前玩手机的行为也缺乏视频实锤，属于主观指责。",
-      "keyPoints": [
-        "疑似KD小号言论引热议",
-        "网红批评赛前玩手机",
-        "杜兰特未正式回应",
-        "网络舆论发酵"
-      ],
-      "category": "场外",
-      "importance": 1
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxNMkZqcGktWXFVaXJlNkxxMFhXNmFzRW9oYWozZ01PTUo5VDJTRDdLWHhHS0E4WlVOX2pCcDRTS1JBWFlXdlRnbVFCUm5XNjFtN1NYTUdjOVEyRzNrRWg0UE9JTWZSV3JpRlFlRDhFMDlySGJnd3JPajNDRTlsX0RzR1hwR3ZnQQ",
-      "title": "Anthony Edwards aims dig at Drake and Kevin Durant in new advertisement",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkZqcGktWXFVaXJlNkxxMFhXNmFzRW9oYWozZ01PTUo5VDJTRDdLWHhHS0E4WlVOX2pCcDRTS1JBWFlXdlRnbVFCUm5XNjFtN1NYTUdjOVEyRzNrRWg0UE9JTWZSV3JpRlFlRDhFMDlySGJnd3JPajNDRTlsX0RzR1hwR3ZnQQ?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-10-07T13:38:25.000Z",
-      "description": "Anthony Edwards aims dig at Drake and Kevin Durant in new advertisement Yahoo Sports",
-      "titleZh": "安东尼·爱德华兹在新广告中暗讽杜兰特",
-      "summaryZh": "明尼苏达森林狼队球星安东尼·爱德华兹在其新发布的商业广告中，通过台词或画面暗讽了说唱歌手Drake及凯文·杜兰特，引发粉丝群体间的口水战。",
-      "detailsZh": "事实：Yahoo Sports报道指出，安东尼·爱德华兹的新广告中包含针对Drake和Kevin Durant的讽刺元素。评论：这被视为NBA球星与嘻哈文化圈层互动的典型例子，爱德华兹借此展现个性并吸引流量。传闻：广告的具体讽刺点及杜兰特方面的反应尚未详细披露，属于娱乐化新闻范畴。",
-      "keyPoints": [
-        "爱德华兹新广告含暗讽",
-        "目标包括杜兰特和Drake",
-        "引发粉丝间争论",
-        "属娱乐营销行为"
-      ],
-      "category": "场外",
-      "importance": 1
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTE85TzYyeVFxa0hPMEo0eU9pQTdpN0phU1NnQkgxemx4Y1pGcTdDa0RmeW1vX3BxSUhVSndNU2lVVDNOWjFoZzgxeFNIWmxzdDhuLVp6RkZOajhOMlV1Y002TmdtclZRVThpU1Z0T09BMDBpS1E",
-      "title": "詹姆斯杜兰特库里去向未定，NBA交易市场诡异操作频出",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85TzYyeVFxa0hPMEo0eU9pQTdpN0phU1NnQkgxemx4Y1pGcTdDa0RmeW1vX3BxSUhVSndNU2lVVDNOWjFoZzgxeFNIWmxzdDhuLVp6RkZOajhOMlV1Y002TmdtclZRVThpU1Z0T09BMDBpS1E?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-07T15:27:38.000Z",
-      "description": "詹姆斯杜兰特库里去向未定，NBA交易市场诡异操作频出 新浪网",
-      "titleZh": "詹姆斯、杜兰特、库里去向未定，NBA交易市侩诡异",
-      "summaryZh": "新浪网报道指出，勒布朗·詹姆斯、凯文·杜兰特和斯蒂芬·库里的未来去向目前仍不确定，NBA交易市场近期出现诸多令人费解的操作和流言。",
-      "detailsZh": "事实：媒体汇总称三位超级巨星的合同状况及未来规划尚未明朗，导致交易市场充满不确定性。评论：这种不确定性加剧了各支争冠球队的焦虑，促使管理层采取激进或保守的策略。传闻：文章标题暗示“诡异操作”，但未提供具体案例，主要反映市场对巨星流动的预期混乱。",
-      "keyPoints": [
-        "三巨头去向未定",
-        "交易市场操作频繁",
-        "媒体分析市场乱象",
-        "影响球队建队策略"
-      ],
-      "category": "交易",
-      "importance": 2
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE04ejZoNGdjRGZLd1NKY2NZWGVwRC1ENlNObUp2dHZNUlRwTEowNTNlakt2dnF5WUJTU2FRenlDYURXWXBTN25nZkxMYzhNaGp5elMzZlZvSWd6c2FYTzdJZjdaMA",
-      "title": "大主播也喊累，团播停播引争议，2026 吃瓜总结|陈泽|sk017|直播行业_新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04ejZoNGdjRGZLd1NKY2NZWGVwRC1ENlNObUp2dHZNUlRwTEowNTNlakt2dnF5WUJTU2FRenlDYURXWXBTN25nZkxMYzhNaGp5elMzZlZvSWd6c2FYTzdJZjdaMA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-06T17:13:00.000Z",
-      "description": "大主播也喊累，团播停播引争议，2026 吃瓜总结|陈泽|sk017|直播行业_新浪新闻 手机新浪网",
-      "titleZh": "大主播也喊累，团播停播引争议，2026 吃瓜总结|陈泽|sk017|直播行业_新浪新闻",
-      "summaryZh": "大主播也喊累，团播停播引争议，2026 吃瓜总结|陈泽|sk017|直播行业_新浪新闻 手机新浪网",
-      "detailsZh": "大主播也喊累，团播停播引争议，2026 吃瓜总结|陈泽|sk017|直播行业_新浪新闻 手机新浪网",
-      "keyPoints": [
-        "大主播也喊累，团播停播引争议，2026 吃瓜总结|陈泽|sk017|直播行业_新浪新闻"
-      ],
-      "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -225,7 +196,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -272,13 +243,13 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的大咕咕咕鸡词条，涵盖其常用笔名、创作风格及网络影响力背景。作为基础资料入口，提供相对客观的人物生平与作品综述。",
-      "detailsZh": "该条目为固定资料页，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，重点记录其独特的语言风格和对网络流行语的影响。事实部分包括其活跃时期及代表性言论；评论部分涉及学界或媒体对其文化现象的评价；传闻部分较少，主要聚焦于可验证的公开活动。此页面旨在提供结构化的人物档案，便于读者快速了解其核心形象与历史地位，是研究该人物的重要参考源。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供其网络影响的客观记录。",
+      "detailsZh": "事实：该词条作为人物与创作资料的聚合入口，记录了“大咕咕咕鸡”作为网络写手的基本信息，包括其常用的笔名、主要的创作风格以及在网络社区中的影响力概况。评论：此类百科条目通常由社区用户共同维护，旨在为读者提供快速了解该人物的基础框架，内容侧重于静态的人物画像而非动态的新闻事件。传闻：无特定传闻涉及，主要基于公开可查的网络痕迹整理。注意：此为固定资料入口，非当日新闻。",
       "keyPoints": [
-        "收录常用笔名与创作风格概述",
-        "记录对网络语言环境的影响",
-        "提供人物生平背景资料"
+        "记录常用笔名与创作风格",
+        "概述网络影响力背景",
+        "提供人物基础资料索引"
       ],
       "category": "作品",
       "importance": 4
@@ -291,34 +262,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "新浪微博超话主页",
-      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话聚合页，汇集其公开动态与读者讨论。作为粉丝互动与信息发布的固定入口，展示其社交媒体活跃度。",
-      "detailsZh": "此为固定社交账号入口，非特定新闻事件。页面聚合了大咕咕咕鸡在微博平台的最新状态、转发内容及粉丝互动话题。事实层面记录了其发布频率与热门话题方向；评论层面反映了读者对其内容的即时反馈与情感倾向；传闻层面可能包含未经证实的八卦或误传信息，需用户自行甄别。该页面是追踪其近期动态和社群舆论风向的关键渠道，体现了其在中文互联网社区中的存在感与号召力。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博上的官方或粉丝建立的超话页面，是查看其公开动态和读者讨论的主要聚合入口。",
+      "detailsZh": "事实：该链接指向新浪微博的超话索引页，用于聚合与大咕咕咕鸡相关的公开动态、粉丝互动及话题讨论。这是追踪其近期活动的重要渠道。评论：超话机制反映了其在中文互联网社群中的活跃度，通过标签化管理便于读者获取最新信息。传闻：无直接关联传闻，但超话内可能存在未经证实的粉丝传言。注意：此为固定的社交账号资料入口，用于持续跟踪，非单日新闻事件。",
       "keyPoints": [
-        "聚合官方最新动态与转发",
-        "反映粉丝社群互动热度",
-        "作为社交媒体信息首发地"
+        "微博公开动态聚合地",
+        "读者讨论的核心社区",
+        "追踪近期活动的关键入口"
       ],
       "category": "公开发言",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道",
-      "summaryZh": "2015年界面新闻发布的关于大咕咕咕鸡的深度报道，分析其创作风格及对网络段子手生态的影响。属于历史性媒体评论，具有时代参考价值。",
-      "detailsZh": "这是一篇发布于2015年的历史媒体报道，非实时新闻。文章从媒体视角深入剖析了大咕咕咕鸡的创作手法及其在网络文化中的地位。事实部分引用了其当时的代表作品和网络数据；评论部分由记者撰写，探讨其语言创新对社会心理的映射；传闻部分极少，主要基于采访和公开资料。该报道具有较高的媒体公信力，为理解其在特定历史时期的文化影响提供了权威的外部视角，是研究其早期影响力的重要文献。",
-      "keyPoints": [
-        "2015年媒体深度分析",
-        "探讨创作风格与文化影响",
-        "提供第三方权威评价视角"
-      ],
-      "category": "讨论",
       "importance": 5
     },
     {
@@ -329,14 +281,35 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "大咕咕咕鸡B站视频搜索页",
+      "summaryZh": "哔哩哔哩平台上的搜索结果聚合页，包含其作品朗读、相关讨论及历史视频内容。",
+      "detailsZh": "事实：该链接为B站针对“大咕咕咕鸡”关键词的全局搜索索引，涵盖音频朗读、视频解说及粉丝二创等内容。这反映了其作品在多媒体平台的传播形态。评论：B站作为年轻文化聚集地，其内容的多样性体现了该写手受众群体的广泛性，从纯文本阅读延伸至听觉体验。传闻：搜索页本身不包含具体传闻，但相关视频评论区可能流传关于其创作状态的猜测。注意：此为固定的媒体资源入口，非特定新闻发布。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "作品朗读与多媒体内容",
+        "粉丝二创与讨论聚合",
+        "反映跨平台传播形态"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：创作生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析其创作风格及对网络语言环境的影响。",
+      "detailsZh": "事实：这是一篇发布于2015年5月12日的历史新闻报道，标题涉及“网络段子手创作生态”。文章深入探讨了大咕咕咕鸡的创作手法及其在当时网络语境下的代表性意义。评论：该报道具有较高的史料价值，记录了早期网络文学/段子文化的特征，但需注意其时效性仅限于2015年前后的行业背景。传闻：报道中未提及未经证实的个人传闻，主要基于当时的公开表现进行分析。注意：此为历史性回顾资料，非当前最新动态。",
+      "keyPoints": [
+        "2015年历史深度报道",
+        "分析创作风格与语言影响",
+        "具有早期网络文化史料价值"
+      ],
+      "category": "讨论",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
