@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:14:27.893Z",
+  "updatedAt": "2026-10-08T06:03:55.115Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,148 +16,136 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMi5BJBVV95cUxPUV9nWmlxUURxNUVPUHpNMVJyT1lPYmhYd2tONFlSVDI2Q05YR0lpN1Z2Nm5GMFRDQ0c5RzVSNzM3aGhmaWlVUDhhTDNwRkt0blkwLXJpR2dKMVRpajBWUmd4LVZhb1Boay0xQjFvV0xWWnlMUU9XbmlsWm1yNnQtSEtYN19GTTQ5cWZNS28zck5YV0ZTakF6R3BOUDBOUzZCWWhGeW5FXzRFSGppM1Z4UEF0TFhkaElpWlJscG5OMjc4bjVtclNEd29STTJETGE0NnFRZEV6UzBnb1JXbkg1U05FTjI1UE9yYXlCeXozQWF6a3A2RG9FMkh3cllyWG1mMS1VV1NBaGdqUmlyd09hdFV1eWZVdWduWGhfZ0ZqR2JlaGlqeWV5eVFubnNtRDFoREwydUZyMW9jVEFqMy1sUzVnb2o3UllILTU1WllQLURQa3NSLUplRlJUNG9QZGt5RU9sZmVrRWpSVzdBVTRGaFdLU0hscW9QaFl6cFUtODRLQWRqLXBFZUUxb29nX2JobUpoSUhOeFJmNlBzbkpIbmgxSXkwOHZWTWU5WEpVODVkRlJsV0Y1Qk84VkZNYVVFYkVYSFo1WjU5aDl2LWU4WTJxQXRPalAxWFc3MFFRcWVZTjFjeW1mY2hPTEZOTXM3dEVmVFJXOUZKbHRNTzVXWjc4VjVUdVNMOU5yenRtNVdUYmN5WnFlRXV5al9keWE1c2Jkb1RKRWgxV3VBVlpJSUMtTUswYmQ3eThzcTVoOUxTa1pkRmE5VERPX0xCS2RhQmh0ZzQwT0lYWVFvUFJTX1FPamV3Y0JoRUM3NXhoMXpKRVVFY3BSRDdTcHI2UW5SejZWV2RaTVU5UXZnLXItTHVza0Q4NXNqWDZMNGdHSVhzNU1ERl9Zb1Z0SXhodExiQXdWS2J2b09QUmMxeXVXRGl5ajNkdXJSQ2ZoeXNTX3I0Z2RTVXVoZk1uVm9fb3A4ekVSQkZRUUNNb0VZeTJ0bkNEZGxFRXVmOEpKMnhES1JESTgxTHJrbzVTUnV5UEVQc3ppTWpGMVVoN0VkcV90Q09id1N3empLX0dFQ29kTXRDYWNNb0ViZGRkNkZhVnRiWmdUT3loNTVINkNoLWg1dVlUa0lsQTJ3c3ZjXzNsTEhTd3JxX2dhdU9iMm9zLUptY3k4RC02UXVGRXhrVkcyOVBseTdhek5uVWlTN25tSEk5ZFFIRDU4SVBpRzlUOWZtQ092ZksyTlBlelFScnBCZDdvS29vRWRWLV9zUWtEWVBkNVVSaWJTeFBMOTd3Zmw1ekZncEhnZzdmcDVEMkROSDV2Zm95X2RUNEQyNzlBN0NuVHpYX1lpbkZZVVZVZDh5WUhxWTlvOWtwS0ZNQkpVaVNJM0lhVHBpRVJoQTN6RkhuR2VNV3FodjQ2c3UyMEt4Zzg3ZS1kS0J6dEh2WXQ2YVhETUVyN01vOHZxZi1XUEpodS11YXZFSmVBT21OdW5xXzBJRUE3MnZsOC1aSGhTaDk4N0lHaFhhTkNwRnBQNjN5d1VJWURVV1J4TXVxaHF4UjBaWlktMDdGN05hWU1GOFdGeVIwZG5BREx6eG5pVnpScmZJa0Ffa2l1YnZLeG9Lby16c0M2TjdjR1dDbXpqN0w4WkV1b3BuRk1COWJoRFVyN1lkN1RZWW1iampsQVJEcGFfYzdvTjVLQnVJb19iWDYtUWRLNGs3MzVtZFJoV3ZkMWxHY0RUME5vTkNibmNlU2NsQjAtQXBNcGRNa2JEb0xrT18ydGpvaVZBb2NZY0hMRVJpN2NhV3ZXbDF2cksyNWc1bkxyWngzeldHUW5kUFJYMFhrVTV2b3l2MUYwS0dlZG5BbnBRUU1nQ3NhaVI2NDkweWR4dExnMExxM0g5c19xWFoyYTl3NmRGbDBqbFFXU3dsYlhYLUxidzNvVFRlb2pOUzlhZzhpaGFSVUNIeVRPZXZ5MktUZ1V2Vmp5ZEZQVG9ZeTVZd2JGaVdpWUo1RFNtWjJZQkhITUFRUFNudHNkcExUaEttOXowUExjdUdzTTBKM3hEWEhtN1NqaW1nV25DX013VlI3QmdoQWM1OEdxRHZtVll1WHptSWR0MXB4aVBtb2MzWDNSTHNmYzNXVTJhcjhDd1FVdEx0ZEd5Y0lGUE5PUFpRSUFoZjlFMmdTOUlKamNodkNVQWlTRnNaRzZMb1dSOGgzLXlneDNWN1JNWVRWNThOYlBkc0p1cXktV2NmajFJcDBYclk4cmphUG9Oanpucmw5Q1dKSUhQS1RWdk00c0FMc0lPQmpsemd0QlRLOUI0el9JQ1BwRmluc3ljV3ItQmEyd2RGMlUzTktEY0ttSDVyZnlldGNLaFBxNk90SWdDMERqUmRIQU44V3lQaHVraXQ2YTVPQm9GaFVTY0pOMHNQX3hlSTRPZHBIbjRRZTBRd1dWMEczek5teDdkYzZ2Y3dTUHMxV3NoQ1pwRTRveVNtSm5EOUNPVjNKdTdnTklBWi1XZXVPbXdLak9XVlRIc3VvaXFIS0VBTllyMWhQdHJIOGg0U0Y3cjJ0U1VGaUthU2Z6cHEzNXpmb0lwaUtfeG1FbS1CNm9sY2FaVXVzcmV5dW53NzdzZWdieWU2Q2l4MTRkM0FncUpLYW1fRUtvbWI4UWoxQlNQU1ZOOU10Y1NGX21DRXMwWkxSNEZ1c3BJbEVGck5hSWRKZmdONFFEYUkyZmlHYlhOczd3QjFEalNzVW5kR0lha3BUNERYcDdDSXh1alJXbWdmLURyVkpUZTZhWFcyMGl5a1YzZXhnZFE1eThKeU1KdjN3TXQ1VV80VVhuOU9ndjFiYVpiNXNTSUZ6bHp5ZGFOSEh1ZWR6Vm53c2dIS05QZVdTX1hUWmpvX0prNUx5OE9CSFJsWXhJNnNhNURld3Bua0lLeHpTLV9fZVhpNDh1emQ3eFZKZHFiaUFUald5SmNwdkxoNXRYbnhLdVF3dWxIcmNvQ2VUcElvYkpQeF8teHJHMTByaHozUlRWMzdUYXdzdFlObjd1RnJtQUgtZVB2dEFucVQ2WnJ0S2JMTDZEUDh3N0k5NmJXeFRHV0FmWmlrODBwM2VTM3BZel96eXhsdC1tcGpoM2xHUm41VVpnYl9DNzBTRm9Ia1F0TWp6SzZZRUNKQ2Z0b2hFMTgtLUs4YXl1V0tpUTFfMlU4THZrY2wzam1I",
-      "title": "Rockets rule out Kevin Durant (ankle) for Game 5 vs. Lakers",
-      "url": "https://news.google.com/rss/articles/CBMi5BJBVV95cUxPUV9nWmlxUURxNUVPUHpNMVJyT1lPYmhYd2tONFlSVDI2Q05YR0lpN1Z2Nm5GMFRDQ0c5RzVSNzM3aGhmaWlVUDhhTDNwRkt0blkwLXJpR2dKMVRpajBWUmd4LVZhb1Boay0xQjFvV0xWWnlMUU9XbmlsWm1yNnQtSEtYN19GTTQ5cWZNS28zck5YV0ZTakF6R3BOUDBOUzZCWWhGeW5FXzRFSGppM1Z4UEF0TFhkaElpWlJscG5OMjc4bjVtclNEd29STTJETGE0NnFRZEV6UzBnb1JXbkg1U05FTjI1UE9yYXlCeXozQWF6a3A2RG9FMkh3cllyWG1mMS1VV1NBaGdqUmlyd09hdFV1eWZVdWduWGhfZ0ZqR2JlaGlqeWV5eVFubnNtRDFoREwydUZyMW9jVEFqMy1sUzVnb2o3UllILTU1WllQLURQa3NSLUplRlJUNG9QZGt5RU9sZmVrRWpSVzdBVTRGaFdLU0hscW9QaFl6cFUtODRLQWRqLXBFZUUxb29nX2JobUpoSUhOeFJmNlBzbkpIbmgxSXkwOHZWTWU5WEpVODVkRlJsV0Y1Qk84VkZNYVVFYkVYSFo1WjU5aDl2LWU4WTJxQXRPalAxWFc3MFFRcWVZTjFjeW1mY2hPTEZOTXM3dEVmVFJXOUZKbHRNTzVXWjc4VjVUdVNMOU5yenRtNVdUYmN5WnFlRXV5al9keWE1c2Jkb1RKRWgxV3VBVlpJSUMtTUswYmQ3eThzcTVoOUxTa1pkRmE5VERPX0xCS2RhQmh0ZzQwT0lYWVFvUFJTX1FPamV3Y0JoRUM3NXhoMXpKRVVFY3BSRDdTcHI2UW5SejZWV2RaTVU5UXZnLXItTHVza0Q4NXNqWDZMNGdHSVhzNU1ERl9Zb1Z0SXhodExiQXdWS2J2b09QUmMxeXVXRGl5ajNkdXJSQ2ZoeXNTX3I0Z2RTVXVoZk1uVm9fb3A4ekVSQkZRUUNNb0VZeTJ0bkNEZGxFRXVmOEpKMnhES1JESTgxTHJrbzVTUnV5UEVQc3ppTWpGMVVoN0VkcV90Q09id1N3empLX0dFQ29kTXRDYWNNb0ViZGRkNkZhVnRiWmdUT3loNTVINkNoLWg1dVlUa0lsQTJ3c3ZjXzNsTEhTd3JxX2dhdU9iMm9zLUptY3k4RC02UXVGRXhrVkcyOVBseTdhek5uVWlTN25tSEk5ZFFIRDU4SVBpRzlUOWZtQ092ZksyTlBlelFScnBCZDdvS29vRWRWLV9zUWtEWVBkNVVSaWJTeFBMOTd3Zmw1ekZncEhnZzdmcDVEMkROSDV2Zm95X2RUNEQyNzlBN0NuVHpYX1lpbkZZVVZVZDh5WUhxWTlvOWtwS0ZNQkpVaVNJM0lhVHBpRVJoQTN6RkhuR2VNV3FodjQ2c3UyMEt4Zzg3ZS1kS0J6dEh2WXQ2YVhETUVyN01vOHZxZi1XUEpodS11YXZFSmVBT21OdW5xXzBJRUE3MnZsOC1aSGhTaDk4N0lHaFhhTkNwRnBQNjN5d1VJWURVV1J4TXVxaHF4UjBaWlktMDdGN05hWU1GOFdGeVIwZG5BREx6eG5pVnpScmZJa0Ffa2l1YnZLeG9Lby16c0M2TjdjR1dDbXpqN0w4WkV1b3BuRk1COWJoRFVyN1lkN1RZWW1iampsQVJEcGFfYzdvTjVLQnVJb19iWDYtUWRLNGs3MzVtZFJoV3ZkMWxHY0RUME5vTkNibmNlU2NsQjAtQXBNcGRNa2JEb0xrT18ydGpvaVZBb2NZY0hMRVJpN2NhV3ZXbDF2cksyNWc1bkxyWngzeldHUW5kUFJYMFhrVTV2b3l2MUYwS0dlZG5BbnBRUU1nQ3NhaVI2NDkweWR4dExnMExxM0g5c19xWFoyYTl3NmRGbDBqbFFXU3dsYlhYLUxidzNvVFRlb2pOUzlhZzhpaGFSVUNIeVRPZXZ5MktUZ1V2Vmp5ZEZQVG9ZeTVZd2JGaVdpWUo1RFNtWjJZQkhITUFRUFNudHNkcExUaEttOXowUExjdUdzTTBKM3hEWEhtN1NqaW1nV25DX013VlI3QmdoQWM1OEdxRHZtVll1WHptSWR0MXB4aVBtb2MzWDNSTHNmYzNXVTJhcjhDd1FVdEx0ZEd5Y0lGUE5PUFpRSUFoZjlFMmdTOUlKamNodkNVQWlTRnNaRzZMb1dSOGgzLXlneDNWN1JNWVRWNThOYlBkc0p1cXktV2NmajFJcDBYclk4cmphUG9Oanpucmw5Q1dKSUhQS1RWdk00c0FMc0lPQmpsemd0QlRLOUI0el9JQ1BwRmluc3ljV3ItQmEyd2RGMlUzTktEY0ttSDVyZnlldGNLaFBxNk90SWdDMERqUmRIQU44V3lQaHVraXQ2YTVPQm9GaFVTY0pOMHNQX3hlSTRPZHBIbjRRZTBRd1dWMEczek5teDdkYzZ2Y3dTUHMxV3NoQ1pwRTRveVNtSm5EOUNPVjNKdTdnTklBWi1XZXVPbXdLak9XVlRIc3VvaXFIS0VBTllyMWhQdHJIOGg0U0Y3cjJ0U1VGaUthU2Z6cHEzNXpmb0lwaUtfeG1FbS1CNm9sY2FaVXVzcmV5dW53NzdzZWdieWU2Q2l4MTRkM0FncUpLYW1fRUtvbWI4UWoxQlNQU1ZOOU10Y1NGX21DRXMwWkxSNEZ1c3BJbEVGck5hSWRKZmdONFFEYUkyZmlHYlhOczd3QjFEalNzVW5kR0lha3BUNERYcDdDSXh1alJXbWdmLURyVkpUZTZhWFcyMGl5a1YzZXhnZFE1eThKeU1KdjN3TXQ1VV80VVhuOU9ndjFiYVpiNXNTSUZ6bHp5ZGFOSEh1ZWR6Vm53c2dIS05QZVdTX1hUWmpvX0prNUx5OE9CSFJsWXhJNnNhNURld3Bua0lLeHpTLV9fZVhpNDh1emQ3eFZKZHFiaUFUald5SmNwdkxoNXRYbnhLdVF3dWxIcmNvQ2VUcElvYkpQeF8teHJHMTByaHozUlRWMzdUYXdzdFlObjd1RnJtQUgtZVB2dEFucVQ2WnJ0S2JMTDZEUDh3N0k5NmJXeFRHV0FmWmlrODBwM2VTM3BZel96eXhsdC1tcGpoM2xHUm41VVpnYl9DNzBTRm9Ia1F0TWp6SzZZRUNKQ2Z0b2hFMTgtLUs4YXl1V0tpUTFfMlU4THZrY2wzam1I?oc=5",
-      "source": "ABC7 Los Angeles",
-      "publishedAt": "2026-10-07T18:59:11.000Z",
-      "description": "Rockets rule out Kevin Durant (ankle) for Game 5 vs. Lakers ABC7 Los Angeles",
-      "titleZh": "杜兰特因脚踝伤势缺席火箭对阵湖人系列赛第五场",
-      "summaryZh": "休斯顿火箭队官方确认，前锋凯文·杜兰特因脚踝伤势将缺席对阵洛杉矶湖人的季后赛第五场比赛。这一决定对球队在关键战役中的阵容深度构成挑战，具体复出时间尚未公布。",
-      "detailsZh": "事实：根据ABC7 Los Angeles报道，休斯顿火箭队在比赛前正式宣布凯文·杜兰特因脚踝受伤无法出战对阵湖人的第五场季后赛。这是他在该系列赛中因伤缺阵的最新动态。评论：作为球队的核心得分手，杜兰特的缺阵显著削弱了火箭队的进攻火力与内线威胁。分析人士指出，在季后赛高强度对抗下，老将的脚踝负荷管理至关重要。传闻：部分媒体猜测此次伤病可能与近期密集赛程有关，但球队管理层强调这是预防性措施，旨在确保杜兰特能健康进入后续轮次。目前尚无关于其长期伤停的确切消息，球迷需关注赛后医疗团队的进一步评估。",
+      "id": "durant:CBMid0FVX3lxTE1PWnZYaXlreUFOSC02MURZeEN5RUFYWEMya2JDZGRJMmRld2h5LUlrR3BZTGFzdVk2OGVaUVBid1B1eFlEay1BS3c4U3JjOEVpZnJ3VzFnN3dKeTBQOEx1UElEN2R4eXZxYTB0YU93Q0lXdmttX1Nn",
+      "title": "谁的意难平？杜兰特和欧文中国赛重逢 坐在场边进行寒暄",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PWnZYaXlreUFOSC02MURZeEN5RUFYWEMya2JDZGRJMmRld2h5LUlrR3BZTGFzdVk2OGVaUVBid1B1eFlEay1BS3c4U3JjOEVpZnJ3VzFnN3dKeTBQOEx1UElEN2R4eXZxYTB0YU93Q0lXdmttX1Nn?oc=5",
+      "source": "直播吧",
+      "publishedAt": "2026-10-08T05:48:07.000Z",
+      "description": "谁的意难平？杜兰特和欧文中国赛重逢 坐在场边进行寒暄 直播吧",
+      "titleZh": "谁的意难平？杜兰特和欧文中国赛重逢 坐在场边进行寒暄",
+      "summaryZh": "谁的意难平？杜兰特和欧文中国赛重逢 坐在场边进行寒暄 直播吧",
+      "detailsZh": "谁的意难平？杜兰特和欧文中国赛重逢 坐在场边进行寒暄 直播吧",
       "keyPoints": [
-        "杜兰特因脚踝伤势确定缺席G5",
-        "对手为洛杉矶湖人队",
-        "球队未公布具体复出时间表",
-        "核心球员缺阵影响战术部署"
-      ],
-      "category": "伤病",
-      "importance": 5
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMirgFBVV95cUxOc0NQZDd1cjRVcXZ6OVU2RVp4VWN4Q2FsWnpmWlRJVEhrN3hIUDNuWHFKcTVEcEt0Mk1wRnZmMlBOenZGUGhaYmFOOEM5U2pQcnV5SjhtN0x2TlYyT1diNzVhb3dQdE1PRDRHTEd1Rkxab01mUDlYZkJNbWpaYWR3Um12b1BPb3NxRnhmRk1OZWRoMTJubnRrcnVFUW5neVB0YUtPNkpqMTVqMVBEV0E",
-      "title": "NBA Insider Blames Kevin Durant for Rockets’ Chemistry Issues",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0NQZDd1cjRVcXZ6OVU2RVp4VWN4Q2FsWnpmWlRJVEhrN3hIUDNuWHFKcTVEcEt0Mk1wRnZmMlBOenZGUGhaYmFOOEM5U2pQcnV5SjhtN0x2TlYyT1diNzVhb3dQdE1PRDRHTEd1Rkxab01mUDlYZkJNbWpaYWR3Um12b1BPb3NxRnhmRk1OZWRoMTJubnRrcnVFUW5neVB0YUtPNkpqMTVqMVBEV0E?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-10-07T21:30:00.000Z",
-      "description": "NBA Insider Blames Kevin Durant for Rockets’ Chemistry Issues Sports Illustrated",
-      "titleZh": "名记指责杜兰特是火箭队化学反应问题的根源",
-      "summaryZh": "Sports Illustrated报道指出，有NBA内部人士将火箭队上赛季的主要困境归咎于凯文·杜兰特。批评声音认为其球风或领导方式影响了团队融合，引发关于超级巨星与球队文化兼容性的讨论。",
-      "detailsZh": "事实：Sports Illustrated引用匿名NBA内部人士的观点，称杜兰特被指为火箭队上赛季“化学反应问题”的主要原因。评论：这一指控反映了联盟内对于拥有顶级球星后，如何平衡个人英雄主义与团队篮球的持续争议。杜兰特以高效得分著称，但其过往经历显示，当队友实力不足或体系不匹配时，球队往往难以走远。传闻：有传言称杜兰特本人对此类批评感到不满，并可能在未来转会市场上寻求更契合其篮球哲学的环境。然而，火箭队管理层并未公开回应这些指责，而是专注于提升整体阵容深度以缓解压力。此事件凸显了明星球员在更衣室话语权与团队凝聚力之间的微妙关系。",
-      "keyPoints": [
-        "名记将火箭队问题归咎于杜兰特",
-        "涉及团队化学反应与领导力争议",
-        "反映超级巨星融入球队的普遍难题",
-        "管理层未直接回应批评"
+        "谁的意难平？杜兰特和欧文中国赛重逢 坐在场边进行寒暄"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOMWdzME9JNkYyeWNyd1pFYWU0TXB0QnJxMnJrM3lrbjZSRnhnQVNIX1N0YzRQUXBQX0J5bVRvUU15Y3Z3S3luSE1qM0VDSEhIVmJWZE1pd1hHWllmLWFCNzl5aXNQVTNCendNRUZhRzItbTFiZ0FIMnIybnhrYk9KY3VxSlJ2NHVWMUZVXw",
-      "title": "Kevin Durant Blamed for Houston Rockets’ Main Problems Last Season",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWdzME9JNkYyeWNyd1pFYWU0TXB0QnJxMnJrM3lrbjZSRnhnQVNIX1N0YzRQUXBQX0J5bVRvUU15Y3Z3S3luSE1qM0VDSEhIVmJWZE1pd1hHWllmLWFCNzl5aXNQVTNCendNRUZhRzItbTFiZ0FIMnIybnhrYk9KY3VxSlJ2NHVWMUZVXw?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-10-07T19:36:25.000Z",
-      "description": "Kevin Durant Blamed for Houston Rockets’ Main Problems Last Season Yahoo Sports",
-      "titleZh": "雅虎体育重提杜兰特对火箭队上赛季表现的责任",
-      "summaryZh": "Yahoo Sports再次发文探讨凯文·杜兰特与休斯顿火箭队上赛季主要问题之间的联系。文章回顾了杜兰特加盟后的战绩波动，分析其在战术体系中的角色及外界对其适应能力的质疑。",
-      "detailsZh": "事实：Yahoo Sports发表文章，重申此前关于杜兰特应对火箭队上赛季困境负责的论点。评论：文章详细分析了杜兰特在火箭期间的数据表现与球队胜负关系的关联性，指出尽管个人效率极高，但球队在关键时刻的稳定性不足。这引发了关于“建队基石”与“终极拼图”角色的辩论。传闻：有消息称杜兰特对这种持续的负面叙事感到疲惫，并希望通过在新赛季的表现来证明自己的价值。与此同时，火箭队教练组也在调整战术，试图更好地发挥杜兰特的无球能力，以减少对他持球发起进攻的依赖。",
+      "id": "durant:CBMikwFBVV95cUxQeUkwSTB2d3pIOWpWbUc1LVM2ejNRbUFRcU91WVpvMWpYZ25INWhmM1pZNEpjMDJVTHVsc2hQc0lMb18xVzlhOUw5dkU4NTFfQkhIblVIVUlRamx2OHFXaTc0VHJpa3dwekFxeGdmem5Zc2NlbGpfUTdyVUJZQXF5b2h1V0lzRS1UUElfR2VXTGlyUkE",
+      "title": "火箭球员PK半场三分 斯玛特翻跟头庆祝 杜兰特模仿申京",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUkwSTB2d3pIOWpWbUc1LVM2ejNRbUFRcU91WVpvMWpYZ25INWhmM1pZNEpjMDJVTHVsc2hQc0lMb18xVzlhOUw5dkU4NTFfQkhIblVIVUlRamx2OHFXaTc0VHJpa3dwekFxeGdmem5Zc2NlbGpfUTdyVUJZQXF5b2h1V0lzRS1UUElfR2VXTGlyUkE?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-08T05:07:19.000Z",
+      "description": "火箭球员PK半场三分 斯玛特翻跟头庆祝 杜兰特模仿申京 新浪网",
+      "titleZh": "火箭球员PK半场三分 斯玛特翻跟头庆祝 杜兰特模仿申京",
+      "summaryZh": "火箭球员PK半场三分 斯玛特翻跟头庆祝 杜兰特模仿申京 新浪网",
+      "detailsZh": "火箭球员PK半场三分 斯玛特翻跟头庆祝 杜兰特模仿申京 新浪网",
       "keyPoints": [
-        "媒体持续质疑杜兰特对球队战绩的影响",
-        "分析其个人效率与团队成功的脱节",
-        "探讨战术体系适配性问题",
-        "杜兰特方面希望用表现回应质疑"
+        "火箭球员PK半场三分 斯玛特翻跟头庆祝 杜兰特模仿申京"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxOM2xlbE5WM0FuS1drXzV2bGJUeDE5bnFXb0pJTDBER3dnOHRVRmFGVVhMNUt0enRWWDNDRkhiN2owZVA3dENjb1E4bk9RdUJ1enN5LU14TUZpZHlmSWs3N2xqdDNCcGVpZmFuRlJpaFZFQUlOZHVFVHBzdzhrakMtYXV6d1FqT00tb2FGbA",
+      "title": "火箭一夜4消息！张子宇合影亚当斯抢镜，斯马特翻跟头，杜兰特身高成谜",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2xlbE5WM0FuS1drXzV2bGJUeDE5bnFXb0pJTDBER3dnOHRVRmFGVVhMNUt0enRWWDNDRkhiN2owZVA3dENjb1E4bk9RdUJ1enN5LU14TUZpZHlmSWs3N2xqdDNCcGVpZmFuRlJpaFZFQUlOZHVFVHBzdzhrakMtYXV6d1FqT00tb2FGbA?oc=5",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-08T04:20:29.000Z",
+      "description": "火箭一夜4消息！张子宇合影亚当斯抢镜，斯马特翻跟头，杜兰特身高成谜 搜狐网",
+      "titleZh": "火箭一夜4消息！张子宇合影亚当斯抢镜，斯马特翻跟头，杜兰特身高成谜",
+      "summaryZh": "火箭一夜4消息！张子宇合影亚当斯抢镜，斯马特翻跟头，杜兰特身高成谜 搜狐网",
+      "detailsZh": "火箭一夜4消息！张子宇合影亚当斯抢镜，斯马特翻跟头，杜兰特身高成谜 搜狐网",
+      "keyPoints": [
+        "火箭一夜4消息！张子宇合影亚当斯抢镜，斯马特翻跟头，杜兰特身高成谜"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMilgFBVV95cUxPX0VXVVBHV3BpTkk4M0FHY0dSUGh6YUtDeXZwMFpsbWpKS3JweXV6TC1UeDFSaVM3MEktR1BpeGpOLUZEWUp4QWhmNm9xem9SQTI1QmZ6ME83SFhRY3hnWnNxMENCbFl6WmZCUWc5cVliTjJCV1NjR0p0T1Rzb29QUmJrMTVYam4zVVFNOEttQ0lMU041d2c",
-      "title": "NBA Trade Rumors: Ja Morant, Kevin Durant, Rudy Gobert & More",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0VXVVBHV3BpTkk4M0FHY0dSUGh6YUtDeXZwMFpsbWpKS3JweXV6TC1UeDFSaVM3MEktR1BpeGpOLUZEWUp4QWhmNm9xem9SQTI1QmZ6ME83SFhRY3hnWnNxMENCbFl6WmZCUWc5cVliTjJCV1NjR0p0T1Rzb29QUmJrMTVYam4zVVFNOEttQ0lMU041d2c?oc=5",
-      "source": "Heavy.com",
-      "publishedAt": "2026-10-07T18:09:40.000Z",
-      "description": "NBA Trade Rumors: Ja Morant, Kevin Durant, Rudy Gobert & More Heavy.com",
-      "titleZh": "NBA交易流言：杜兰特、莫兰特与戈贝尔的动态",
-      "summaryZh": "Heavy.com汇总了最新的NBA交易流言，其中凯文·杜兰特被列为潜在的交易对象之一。文章探讨了多支球队可能出于争冠需求而接触火箭队，寻求引进这位超级前锋的可能性。",
-      "detailsZh": "事实：Heavy.com发布NBA交易流言汇总，提及凯文·杜兰特、贾·莫兰特和鲁迪·戈贝尔等球星的市场动向。评论：杜兰特因其卓越的实力和相对年轻的年龄，始终是交易市场的焦点。若火箭队未能达到预期目标，杜兰特可能被用作筹码或主动要求离队。传闻：有匿名经纪人透露，有几支西部强队正在密切关注杜兰特的合同情况，并准备在休赛期提出报价。然而，火箭队目前暂无交易他的明确计划，更多是将其视为长期建队核心。此类流言通常会在赛季初加剧市场活跃度，但也可能干扰球队现有的化学反应。",
+      "id": "durant:CBMi7glBVV95cUxNaEV2dGkyQ0FCWmxmSWtHQUREbGd4ak4wb1NwRkRmSnluLXFnamJDSVY5OXV2akZENmo3RjU2aVVFcVRKR0lWMUpJOXdiWC1yUlQ3TVRiUEhIdU9mR1puby1jRzZpU0luXzBXYVotMUR0S25OWWt3LVdRWERpMHJnaDlqY3ZGZzNWZGJCdU5ZeTJxcGl4eDczbGRieFRxYTMzaFFjUVlLUzYwMTVxZ29QSWNOVExCYnRlbk5DSE9RTEFUTWZvbFpWUXVEM1pyVDhYa3ZnVG9lY2I5N2xFVTFpTzhFNG5LMGxTdjlQQ1V5WTBRTkFVQXR2NDB0NHFSNVpqUWwtZ2ZoOHdxVkRPb2tjamlTb2lkaERsbS1jTWtzY0d0dVZtU1U1a2RHMDdtUFEwNm9OTlFIQ2Y3REpLSkIwYkx0R0VVc0dieldsckpZTy1IZGlZRVJUUkxqakJoVnFmODlvNmVjRDhLOGYtckc4ejRkdzBacVJmWkQxUXVFcUxhSEtVaUR2ZmJwbk5hdlh0TWlUMmVNdHJxYjFjaklKdmZfSEl3djYyclNMN1hmQ3I3QW5IWDZsT1hqd0pYbkYteEhXYWlyVVdCa1phQTBtUWZKRTJOYUhfck8zN05TdFRpdmdZSVozV3NzblFGeXd3R2o3UG9aczllaUM4RTZrUHFpWE1pTUhjdXgwUk1Bb3QzYVE4aHRGelUwT3puTmZuV0lUYVlBT0VCTjg1a09scE5VVjV3VEVuTmpnekc2U0ItcGVacThHQVZUZTkyd2Q5ZGN1QkxBSW43RzhwN1ZxOXlfRU9jYXcxNVoxc2g3Q0dGR2g1MjNFcUE2aGhrV3NlRXg1WjFFa1pNTWU5SDI4TFphcE9ZTUVqQ05keDYzWWNtVVRtMGJRbTZ6ck1pRkFyeEZqYy1tVVUyYWV0ZTg5R0VLc2pSa3hWUWwwdi1rclFBWDM3ZXdsQjVXRnEyYlpQN2FsNW5RdnJEaUNUV3Y1SmdpY2l0dmU1WUFmcUhRZ1FCT1NSQmxONm1NVXg4aVdMNFZHRUdpOVM0VFNZekk0Qk4yTWpIeGVSU2MxaW1DQXM0a2FIM3J4YkFsSjU4LUg2OC00TzNjZkFIZWJ5cVRZc3AyZlhnWm44RmZ6bGFBUDJjVENyM25GQldnX2YtZm1QSlFjYlFKbkFWb2h4RC05TnFsWlZBdzhXOEdDYndYNGxpd0dzYnBtV0pub1dhN3gtUHhtS1NZc2FHdUJqQUE5M05hVjN5bUk1UWVOaVJoclc0ZkROYVJ5c0RtSThQZno4Nlh4NmJGY0ZYUC1HODk1LXlSR2IyVFhDSW1UN1lMamNtQXN3aVBEMTRlNm44RFJZQVVxZXVsdG1nbEVOZTNxYUlxQ0VQOGROMnZHREltSWVnNG80MHlGMll1Wm9ONGpqSXg1UzBPYm1icndfWDd1SFJyVGFBcmxjUjZaaHVyb2VWWTVBZ3VMVjBDUmRzRU92MnR3QlhEY09NYXJpSWpoZFJtNVRjekxUY0s4Z1pRNHJ4RTBwTElJY3NyU29ib0FpNFk3WHlNajk0TVFZc3NXNmZCcnNjcVk3VUVhMklkM0liV0c3T1RQZVlhZFdkZmppNm91eFpkblczS0h0M1hiMmZTLXZOYzhPZ2dfdjduTFlRdUdocGcyMVZtM182QQ",
+      "title": "Kevin Durant compares 76ers' star power to his Warriors teams",
+      "url": "https://news.google.com/rss/articles/CBMi7glBVV95cUxNaEV2dGkyQ0FCWmxmSWtHQUREbGd4ak4wb1NwRkRmSnluLXFnamJDSVY5OXV2akZENmo3RjU2aVVFcVRKR0lWMUpJOXdiWC1yUlQ3TVRiUEhIdU9mR1puby1jRzZpU0luXzBXYVotMUR0S25OWWt3LVdRWERpMHJnaDlqY3ZGZzNWZGJCdU5ZeTJxcGl4eDczbGRieFRxYTMzaFFjUVlLUzYwMTVxZ29QSWNOVExCYnRlbk5DSE9RTEFUTWZvbFpWUXVEM1pyVDhYa3ZnVG9lY2I5N2xFVTFpTzhFNG5LMGxTdjlQQ1V5WTBRTkFVQXR2NDB0NHFSNVpqUWwtZ2ZoOHdxVkRPb2tjamlTb2lkaERsbS1jTWtzY0d0dVZtU1U1a2RHMDdtUFEwNm9OTlFIQ2Y3REpLSkIwYkx0R0VVc0dieldsckpZTy1IZGlZRVJUUkxqakJoVnFmODlvNmVjRDhLOGYtckc4ejRkdzBacVJmWkQxUXVFcUxhSEtVaUR2ZmJwbk5hdlh0TWlUMmVNdHJxYjFjaklKdmZfSEl3djYyclNMN1hmQ3I3QW5IWDZsT1hqd0pYbkYteEhXYWlyVVdCa1phQTBtUWZKRTJOYUhfck8zN05TdFRpdmdZSVozV3NzblFGeXd3R2o3UG9aczllaUM4RTZrUHFpWE1pTUhjdXgwUk1Bb3QzYVE4aHRGelUwT3puTmZuV0lUYVlBT0VCTjg1a09scE5VVjV3VEVuTmpnekc2U0ItcGVacThHQVZUZTkyd2Q5ZGN1QkxBSW43RzhwN1ZxOXlfRU9jYXcxNVoxc2g3Q0dGR2g1MjNFcUE2aGhrV3NlRXg1WjFFa1pNTWU5SDI4TFphcE9ZTUVqQ05keDYzWWNtVVRtMGJRbTZ6ck1pRkFyeEZqYy1tVVUyYWV0ZTg5R0VLc2pSa3hWUWwwdi1rclFBWDM3ZXdsQjVXRnEyYlpQN2FsNW5RdnJEaUNUV3Y1SmdpY2l0dmU1WUFmcUhRZ1FCT1NSQmxONm1NVXg4aVdMNFZHRUdpOVM0VFNZekk0Qk4yTWpIeGVSU2MxaW1DQXM0a2FIM3J4YkFsSjU4LUg2OC00TzNjZkFIZWJ5cVRZc3AyZlhnWm44RmZ6bGFBUDJjVENyM25GQldnX2YtZm1QSlFjYlFKbkFWb2h4RC05TnFsWlZBdzhXOEdDYndYNGxpd0dzYnBtV0pub1dhN3gtUHhtS1NZc2FHdUJqQUE5M05hVjN5bUk1UWVOaVJoclc0ZkROYVJ5c0RtSThQZno4Nlh4NmJGY0ZYUC1HODk1LXlSR2IyVFhDSW1UN1lMamNtQXN3aVBEMTRlNm44RFJZQVVxZXVsdG1nbEVOZTNxYUlxQ0VQOGROMnZHREltSWVnNG80MHlGMll1Wm9ONGpqSXg1UzBPYm1icndfWDd1SFJyVGFBcmxjUjZaaHVyb2VWWTVBZ3VMVjBDUmRzRU92MnR3QlhEY09NYXJpSWpoZFJtNVRjekxUY0s4Z1pRNHJ4RTBwTElJY3NyU29ib0FpNFk3WHlNajk0TVFZc3NXNmZCcnNjcVk3VUVhMklkM0liV0c3T1RQZVlhZFdkZmppNm91eFpkblczS0h0M1hiMmZTLXZOYzhPZ2dfdjduTFlRdUdocGcyMVZtM182QQ?oc=5",
+      "source": "6abc Philadelphia",
+      "publishedAt": "2026-10-08T03:36:21.000Z",
+      "description": "Kevin Durant compares 76ers' star power to his Warriors teams 6abc Philadelphia",
+      "titleZh": "Kevin Durant compares 76ers' star power to his Warriors teams",
+      "summaryZh": "Kevin Durant compares 76ers' star power to his Warriors teams 6abc Philadelphia",
+      "detailsZh": "Kevin Durant compares 76ers' star power to his Warriors teams 6abc Philadelphia",
       "keyPoints": [
-        "杜兰特被列入潜在交易名单",
-        "多支争冠球队可能对其感兴趣",
-        "火箭队目前视其为建队核心",
-        "市场活跃度受流言影响增加"
-      ],
-      "category": "交易",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiowFBVV95cUxONnJvRjRkajZyR0hjemMxQXBYV2RwTWY2Yk9oZUZQQnA5RUI5QnhRMVYzLURCaEhlN1AyVnpxSlFfZjB5d3VINWN4YzRVcUlHWUNfVXMzeE9hZC16M3lQb2xsOXdUak0tbzR2RXlrVDhXMk9vSjRVSkhHeUlTbHBWMUNtYnJZSzZYaTJWaWlYbXhUYkdTcm9vVnFPZ2M0bkF5a1lZ",
-      "title": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnJvRjRkajZyR0hjemMxQXBYV2RwTWY2Yk9oZUZQQnA5RUI5QnhRMVYzLURCaEhlN1AyVnpxSlFfZjB5d3VINWN4YzRVcUlHWUNfVXMzeE9hZC16M3lQb2xsOXdUak0tbzR2RXlrVDhXMk9vSjRVSkhHeUlTbHBWMUNtYnJZSzZYaTJWaWlYbXhUYkdTcm9vVnFPZ2M0bkF5a1lZ?oc=5",
-      "source": "roundtable.io",
-      "publishedAt": "2026-10-07T23:24:35.000Z",
-      "description": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant roundtable.io",
-      "titleZh": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant",
-      "summaryZh": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant roundtable.io",
-      "detailsZh": "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant roundtable.io",
-      "keyPoints": [
-        "Victor Wembanyama Sends Shot at LeBron James, Kevin Durant"
+        "Kevin Durant compares 76ers' star power to his Warriors teams"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOR1UzZmRJRmxtTU1KNkRrQ3c4dEV3eVRQQ3ZVVjdVcERNMk44WU91djVHSlBVMGVfNWFCa0FxaS1maW9sWFNhTGdPS3hJSE0yVzhwdVREeHJUay1yOUZfZzVncE1mUU1vUEdWNlRJdHhaVl9nNU5mRElSTTh5S1p5X0EtaTE",
-      "title": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1UzZmRJRmxtTU1KNkRrQ3c4dEV3eVRQQ3ZVVjdVcERNMk44WU91djVHSlBVMGVfNWFCa0FxaS1maW9sWFNhTGdPS3hJSE0yVzhwdVREeHJUay1yOUZfZzVncE1mUU1vUEdWNlRJdHhaVl9nNU5mRElSTTh5S1p5X0EtaTE?oc=5",
+      "id": "durant:CBMiR0FVX3lxTE1lbWZMcVRENVo5d010NjBNTW1OaThxVG10c0N1bTlGLW9CaWM0UFRxcjhUOE5DallZelBveXJicTA0TkI2a1cw",
+      "title": "[流言板]面带微笑！火箭官方晒杜兰特在澳门为球迷签名视频",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lbWZMcVRENVo5d010NjBNTW1OaThxVG10c0N1bTlGLW9CaWM0UFRxcjhUOE5DallZelBveXJicTA0TkI2a1cw?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-08T03:06:19.000Z",
+      "description": "[流言板]面带微笑！火箭官方晒杜兰特在澳门为球迷签名视频 虎扑体育",
+      "titleZh": "[流言板]面带微笑！火箭官方晒杜兰特在澳门为球迷签名视频",
+      "summaryZh": "[流言板]面带微笑！火箭官方晒杜兰特在澳门为球迷签名视频 虎扑体育",
+      "detailsZh": "[流言板]面带微笑！火箭官方晒杜兰特在澳门为球迷签名视频 虎扑体育",
+      "keyPoints": [
+        "[流言板]面带微笑！火箭官方晒杜兰特在澳门为球迷签名视频"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMimgFBVV95cUxNWlctU1pPSHdkTVFVeHZlRkpBX2JvMDFwVzQzZ2NpTzVhUE03RnJTaWcxTl81MEs0VUtqa25NLU5INF9kdEloa3VpTTFnUUtLZjBXZFpERzNfSWh4QlBsc3RZYWg1a1lzNk9CSlQ5VUhicWVHMnRoQ3pGUW05N01XUjlfMm1xOXV5LTR3REhNTVhBUVJJVG13SGVn",
+      "title": "Was Kevin Durant responsible for Rockets’ ‘connectivity’ issues?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlctU1pPSHdkTVFVeHZlRkpBX2JvMDFwVzQzZ2NpTzVhUE03RnJTaWcxTl81MEs0VUtqa25NLU5INF9kdEloa3VpTTFnUUtLZjBXZFpERzNfSWh4QlBsc3RZYWg1a1lzNk9CSlQ5VUhicWVHMnRoQ3pGUW05N01XUjlfMm1xOXV5LTR3REhNTVhBUVJJVG13SGVn?oc=5",
+      "source": "BVM Sports",
+      "publishedAt": "2026-10-08T02:36:44.000Z",
+      "description": "Was Kevin Durant responsible for Rockets’ ‘connectivity’ issues? BVM Sports",
+      "titleZh": "Was Kevin Durant responsible for Rockets’ ‘connectivity’ issues?",
+      "summaryZh": "Was Kevin Durant responsible for Rockets’ ‘connectivity’ issues? BVM Sports",
+      "detailsZh": "Was Kevin Durant responsible for Rockets’ ‘connectivity’ issues? BVM Sports",
+      "keyPoints": [
+        "Was Kevin Durant responsible for Rockets’ ‘connectivity’ issues?"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMioAFBVV95cUxPdWJreHRreldoV1NTQXY4TFVRSlpyNlVITmliNmpmRHlCZWNNTzB6RUV5UTM4RmxoQTlxbUlwb0xDaHB0R3BSZU9NYU8wbGJtSGF2VUdoY0hSSkZScHBLZ2RFclJIWVIyVENSTnZQRG9NWjJvS09ncnM3X1BkMk5mQlBJeUxBckJMcG9heHhzOVBUWHFNYy1KOTRQa0pJRXN1",
+      "title": "NBA Trade Rumors Heat Up: Ja Morant and Kevin Durant Among Top Candidates",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWJreHRreldoV1NTQXY4TFVRSlpyNlVITmliNmpmRHlCZWNNTzB6RUV5UTM4RmxoQTlxbUlwb0xDaHB0R3BSZU9NYU8wbGJtSGF2VUdoY0hSSkZScHBLZ2RFclJIWVIyVENSTnZQRG9NWjJvS09ncnM3X1BkMk5mQlBJeUxBckJMcG9heHhzOVBUWHFNYy1KOTRQa0pJRXN1?oc=5",
+      "source": "SSBCrack",
+      "publishedAt": "2026-10-08T02:36:34.000Z",
+      "description": "NBA Trade Rumors Heat Up: Ja Morant and Kevin Durant Among Top Candidates SSBCrack",
+      "titleZh": "NBA Trade Rumors Heat Up: Ja Morant and Kevin Durant Among Top Candidates",
+      "summaryZh": "NBA Trade Rumors Heat Up: Ja Morant and Kevin Durant Among Top Candidates SSBCrack",
+      "detailsZh": "NBA Trade Rumors Heat Up: Ja Morant and Kevin Durant Among Top Candidates SSBCrack",
+      "keyPoints": [
+        "NBA Trade Rumors Heat Up: Ja Morant and Kevin Durant Among Top Candidates"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxQMENxSDFuYVRETWhqWHRCa2xLcXRELWFRdmtkNHppUkQ2N0hId2ZkU19UM3NuRjFNQ3FpZjhiRHQ0WE9MeTRjcV9FNzNMelpORnhWT1BXbXRUeXI5OGFWM2lPTFowYnFXQWZlV3FKR2tjQUxaN3RCRlFZdkZmTnBDX2pwYWI",
+      "title": "久违了~火箭官方晒照：欧文与KD、阿门、伊森、谢泼德拥抱致意",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMENxSDFuYVRETWhqWHRCa2xLcXRELWFRdmtkNHppUkQ2N0hId2ZkU19UM3NuRjFNQ3FpZjhiRHQ0WE9MeTRjcV9FNzNMelpORnhWT1BXbXRUeXI5OGFWM2lPTFowYnFXQWZlV3FKR2tjQUxaN3RCRlFZdkZmTnBDX2pwYWI?oc=5",
       "source": "手机新浪网",
-      "publishedAt": "2026-10-07T23:24:00.000Z",
-      "description": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比 手机新浪网",
-      "titleZh": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比",
-      "summaryZh": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比 手机新浪网",
-      "detailsZh": "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比 手机新浪网",
+      "publishedAt": "2026-10-08T01:49:37.000Z",
+      "description": "久违了~火箭官方晒照：欧文与KD、阿门、伊森、谢泼德拥抱致意 手机新浪网",
+      "titleZh": "久违了~火箭官方晒照：欧文与KD、阿门、伊森、谢泼德拥抱致意",
+      "summaryZh": "久违了~火箭官方晒照：欧文与KD、阿门、伊森、谢泼德拥抱致意 手机新浪网",
+      "detailsZh": "久违了~火箭官方晒照：欧文与KD、阿门、伊森、谢泼德拥抱致意 手机新浪网",
       "keyPoints": [
-        "需要场60分比赛？KD：不我觉得我需要先得33000分然后34000分！|科比-布莱恩特|职业生涯|nba|火箭|科比"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxObWt3bW54bjZja2x6WjdDQ0JXdXU3NXJwcjRsbmlXOUxuVURjVGJvNWNYUmE2OFM2d3lPLW1Lb25qSFJjc0hWV21oaEFIQlFheEQ1Ykw4WnNwd2VBVExIek1pZGZVZXdkVm9Ka2pWZTlXUmxqQ1pxZVVjSF9RWmlNbjlGb3BFLUU0dzlWdw",
-      "title": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70%",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWt3bW54bjZja2x6WjdDQ0JXdXU3NXJwcjRsbmlXOUxuVURjVGJvNWNYUmE2OFM2d3lPLW1Lb25qSFJjc0hWV21oaEFIQlFheEQ1Ykw4WnNwd2VBVExIek1pZGZVZXdkVm9Ka2pWZTlXUmxqQ1pxZVVjSF9RWmlNbjlGb3BFLUU0dzlWdw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-07T23:19:37.000Z",
-      "description": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70% 搜狐网",
-      "titleZh": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70%",
-      "summaryZh": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70% 搜狐网",
-      "detailsZh": "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70% 搜狐网",
-      "keyPoints": [
-        "杜兰特2017年季后赛数据解析：场均285分，真实命中率接近70%"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMif0FVX3lxTE84cmItTkVEcVJqRk9NQ3hEMTdvLXZNWGJSTFB2UzFPY0w3ai1VdEpzU1FLM3R2anhTeDJhdjNCUld2alRUQmlHcGtLMzZiZGNvY0FaS0lhN2RadnFMNUljcl9rd0drSGxNTDNCb2Q5b09uZC1vRTlRdXJ4Qm5IdlU",
-      "title": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cmItTkVEcVJqRk9NQ3hEMTdvLXZNWGJSTFB2UzFPY0w3ai1VdEpzU1FLM3R2anhTeDJhdjNCUld2alRUQmlHcGtLMzZiZGNvY0FaS0lhN2RadnFMNUljcl9rd0drSGxNTDNCb2Q5b09uZC1vRTlRdXJ4Qm5IdlU?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-07T22:57:15.000Z",
-      "description": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军 搜狐网",
-      "titleZh": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军",
-      "summaryZh": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军 搜狐网",
-      "detailsZh": "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军 搜狐网",
-      "keyPoints": [
-        "米切尔：哈登没能和杜兰特相提并论 单纯因为总冠军"
+        "久违了~火箭官方晒照：欧文与KD、阿门、伊森、谢泼德拥抱致意"
       ],
       "category": "场外",
       "importance": 3
@@ -243,51 +231,14 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供其网络影响的客观记录。",
-      "detailsZh": "事实：该词条作为人物与创作资料的聚合入口，记录了“大咕咕咕鸡”作为网络写手的基本信息，包括其常用的笔名、主要的创作风格以及在网络社区中的影响力概况。评论：此类百科条目通常由社区用户共同维护，旨在为读者提供快速了解该人物的基础框架，内容侧重于静态的人物画像而非动态的新闻事件。传闻：无特定传闻涉及，主要基于公开可查的网络痕迹整理。注意：此为固定资料入口，非当日新闻。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录其作为网络写手的背景资料，涵盖常用笔名、创作风格及作品对网络文化的影响。此为静态百科条目，非当日新闻。",
+      "detailsZh": "该条目为关于网络写手“大咕咕咕鸡”的综合性背景资料。事实层面，记录了其作为知名网络段子手的身份，以及其在中文互联网早期流行语传播中的角色。评论部分指出，其创作风格以幽默、讽刺和接地气著称，对当时的网络语言生态产生了一定影响。传闻方面，网络上偶有关于其具体生活轨迹或后续发展的未经证实讨论，但百科内容主要聚焦于其公开可见的创作成果和历史地位。此页面属于固定的人物资料入口，旨在提供基础认知框架，不具备时效性新闻特征，建议作为了解该人物的起点而非最新动态来源。",
       "keyPoints": [
-        "记录常用笔名与创作风格",
-        "概述网络影响力背景",
-        "提供人物基础资料索引"
-      ],
-      "category": "作品",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-weibo-topic",
-      "title": "大咕咕咕鸡公开动态与超话",
-      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
-      "source": "新浪微博",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博上的官方或粉丝建立的超话页面，是查看其公开动态和读者讨论的主要聚合入口。",
-      "detailsZh": "事实：该链接指向新浪微博的超话索引页，用于聚合与大咕咕咕鸡相关的公开动态、粉丝互动及话题讨论。这是追踪其近期活动的重要渠道。评论：超话机制反映了其在中文互联网社群中的活跃度，通过标签化管理便于读者获取最新信息。传闻：无直接关联传闻，但超话内可能存在未经证实的粉丝传言。注意：此为固定的社交账号资料入口，用于持续跟踪，非单日新闻事件。",
-      "keyPoints": [
-        "微博公开动态聚合地",
-        "读者讨论的核心社区",
-        "追踪近期活动的关键入口"
-      ],
-      "category": "公开发言",
-      "importance": 5
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频搜索页",
-      "summaryZh": "哔哩哔哩平台上的搜索结果聚合页，包含其作品朗读、相关讨论及历史视频内容。",
-      "detailsZh": "事实：该链接为B站针对“大咕咕咕鸡”关键词的全局搜索索引，涵盖音频朗读、视频解说及粉丝二创等内容。这反映了其作品在多媒体平台的传播形态。评论：B站作为年轻文化聚集地，其内容的多样性体现了该写手受众群体的广泛性，从纯文本阅读延伸至听觉体验。传闻：搜索页本身不包含具体传闻，但相关视频评论区可能流传关于其创作状态的猜测。注意：此为固定的媒体资源入口，非特定新闻发布。",
-      "keyPoints": [
-        "作品朗读与多媒体内容",
-        "粉丝二创与讨论聚合",
-        "反映跨平台传播形态"
+        "记录其作为网络写手的身份与常用笔名",
+        "分析其幽默讽刺的创作风格",
+        "评估其对早期网络语言的影响",
+        "属静态百科资料，无时效性"
       ],
       "category": "作品",
       "importance": 3
@@ -300,16 +251,57 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析其创作风格及对网络语言环境的影响。",
-      "detailsZh": "事实：这是一篇发布于2015年5月12日的历史新闻报道，标题涉及“网络段子手创作生态”。文章深入探讨了大咕咕咕鸡的创作手法及其在当时网络语境下的代表性意义。评论：该报道具有较高的史料价值，记录了早期网络文学/段子文化的特征，但需注意其时效性仅限于2015年前后的行业背景。传闻：报道中未提及未经证实的个人传闻，主要基于当时的公开表现进行分析。注意：此为历史性回顾资料，非当前最新动态。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，回顾大咕咕咕鸡的创作风格及其在当时的网络语言影响力。此为历史文献，非当前动态。",
+      "detailsZh": "这是一篇发布于2015年的历史深度报道，由界面新闻撰写。事实层面，文章详细梳理了大咕咕咕鸡在2010年代初期的活跃情况，列举了其代表性的段子作品，并分析了这些内容如何被广泛转发和模仿。评论部分，媒体将其置于当时微博崛起和自媒体萌芽的大背景下，探讨其作为早期KOL的典型意义。传闻或未核实信息在此类正规媒体报道中较少出现，主要侧重于行业观察。需要明确的是，由于发布时间较早，该报道反映的是十年前的网络环境，不能代表其当前的创作状态或公众形象。它应被视为研究其职业生涯早期的参考资料，而非今日的新闻事件。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "分析创作风格与语言影响",
-        "具有早期网络文化史料价值"
+        "2015年发布的行业深度报道",
+        "分析其代表性段子与传播路径",
+        "置于早期微博生态背景下解读",
+        "属历史文献，不反映当前状况"
+      ],
+      "category": "作品",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博官方超话页面，聚合其公开动态与读者讨论。此为固定社交主页入口，用于追踪实时互动，非独立新闻事件。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话（Super Topic）。事实层面，这是粉丝和读者进行日常交流、分享其最新博文的主要场所。评论内容多为读者对其近期内容的即时反应、调侃或致敬。由于超话是持续更新的社区空间，其中包含大量重复性内容和短期热点，难以提炼出单一的“新闻”事实。传闻可能混杂在评论区，需用户自行甄别。此页面本质上是社交媒体的固定主页功能模块，旨在提供持续的互动平台。对于编辑而言，它不是单一的信息源，而是监控其社交媒体活跃度、粉丝情绪和突发互动的工具性入口，不应将其整体视为一条新闻进行报道。",
+      "keyPoints": [
+        "微博官方认证的粉丝互动社区",
+        "聚合实时动态与读者即时反馈",
+        "内容高度碎片化且持续更新",
+        "属社交主页入口，非独立新闻"
       ],
       "category": "讨论",
-      "importance": 3
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索结果页，聚合其作品朗读、二创视频及相关讨论。此为动态搜索聚合页，非特定视频或新闻。",
+      "detailsZh": "该链接为B站针对关键词“大咕咕咕鸡”的全站搜索结果。事实层面，这里汇集了UP主们制作的各类内容，包括对其经典段子的音频朗读、视频剪辑、二次创作以及相关的评测或回忆录视频。评论分布在各个视频下方，内容多样，既有怀旧情怀也有对新作品的批评。由于是搜索结果，内容极其庞杂且缺乏统一的主题导向，不同视频的质量和时间跨度差异巨大。传闻可能在某些娱乐向视频中流传。此页面是一个动态的资源索引，而非一个固定的叙事主体。它反映了该人物在视频平台的长尾效应和粉丝创造力，但本身不构成一条可被编辑的新闻事实，仅作为资料检索的工具存在。",
+      "keyPoints": [
+        "B站全站关键词搜索结果聚合",
+        "包含朗读、二创及评测等多种视频类型",
+        "内容质量参差不齐且时间跨度大",
+        "属资源索引工具，非特定新闻"
+      ],
+      "category": "作品",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
