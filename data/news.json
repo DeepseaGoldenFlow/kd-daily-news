@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T02:26:50.177Z",
+  "updatedAt": "2026-10-12T10:48:37.877Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,160 +16,139 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMickFVX3lxTFAwbUlIUkdlNnB6c3VBVGhQenlDR2R3V2F6bU1sNndmYUpqZ0Jlb2dlSWh6d3ktTDlqcThhMHVodTlrT3F1Y2QzQ0h5eEFNTWZwb09fdGFiOWd3dG0wTU1JVDYxNTVWbkJxTE5tTHlRMVFJdw",
-      "title": "火箭135-117打花独行侠！杜兰特15分，申京三双，杜欧无缘对决",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwbUlIUkdlNnB6c3VBVGhQenlDR2R3V2F6bU1sNndmYUpqZ0Jlb2dlSWh6d3ktTDlqcThhMHVodTlrT3F1Y2QzQ0h5eEFNTWZwb09fdGFiOWd3dG0wTU1JVDYxNTVWbkJxTE5tTHlRMVFJdw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-11T17:48:00.000Z",
-      "description": "火箭135-117打花独行侠！杜兰特15分，申京三双，杜欧无缘对决 新浪网",
-      "titleZh": "火箭大胜独行侠杜兰特砍15分",
-      "summaryZh": "休斯顿火箭队以135-117击败达拉斯独行侠。凯文·杜兰特在比赛中贡献15分，队友申京拿下三双数据。此役杜兰特与欧文未能同场竞技，火箭展现出色团队实力。",
-      "detailsZh": "事实：在2026年10月11日进行的NBA常规赛中，休斯顿火箭队主场迎战达拉斯独行侠队。最终火箭队以135-117的比分战胜对手。数据统计显示，凯文·杜兰特出场并得到15分。火箭队另一核心球员阿尔佩伦·申京完成了三双表现，对比赛胜利起到关键作用。由于阵容安排或战术原因，凯文·杜兰特与卢卡·东契奇（文中误作欧文，实为独行侠核心）未能在场上直接对决，或者指代其他球星缺席。评论：这场比赛展现了火箭队目前的进攻火力，杜兰特作为老将依然保持稳定的得分输出，而年轻核心的成长也令人瞩目。传闻：无明确交易或伤病传闻涉及此场比赛结果。",
+      "id": "durant:search:https://weibo.com/7034939068/RlTZquFDU",
+      "title": "杜兰特专访KD谈今年中国赛的感受和这赛... 来自关于杜兰特 - 微博",
+      "url": "https://weibo.com/7034939068/RlTZquFDU",
+      "source": "微博平台",
+      "publishedAt": "2026-10-12T10:44:48.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特专访KD谈今年中国赛的感受和这赛... 来自关于杜兰特 - 微博",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "火箭135-117战胜独行侠",
-        "杜兰特得到15分",
-        "申京完成三双",
-        "杜欧（或杜东）无缘直接对决"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiigFBVV95cUxPZlJiTnBwcFN3a2tQSy10QnZlQndidjVlZnIzSTJ4OGJ2RE4zdjVBRDlPckhUbmlMOXpGSzdHbTJZQ2FyeE5aMi04MWtWU1dudl9rc0R4R3NjbkVKRkl0aHNpdTY4WUYtOUo2OTc3bWR4U2ljQzZEUjFoOEpLZ2NON2lZMENnbEp5SkE",
-      "title": "Kevin Durant receives his flowers from Lil Wayne, but it’s not about basketball",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlJiTnBwcFN3a2tQSy10QnZlQndidjVlZnIzSTJ4OGJ2RE4zdjVBRDlPckhUbmlMOXpGSzdHbTJZQ2FyeE5aMi04MWtWU1dudl9rc0R4R3NjbkVKRkl0aHNpdTY4WUYtOUo2OTc3bWR4U2ljQzZEUjFoOEpLZ2NON2lZMENnbEp5SkE?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-10-11T17:30:00.000Z",
-      "description": "Kevin Durant receives his flowers from Lil Wayne, but it’s not about basketball Yahoo Sports",
-      "titleZh": "李尔·韦恩盛赞杜兰特说唱水平",
-      "summaryZh": "著名说唱歌手李尔·韦恩公开高度评价凯文·杜兰特的说唱能力，将其排在首位。这一互动并非关于篮球竞技，而是展示了杜兰特在音乐领域的个人成就和影响力。",
-      "detailsZh": "事实：2026年10月11日，知名嘻哈艺术家李尔·韦恩（Lil Wayne）向凯文·杜兰特表达了对其说唱才华的认可，并在社交媒体或采访中将其排名靠前。Yahoo Sports报道指出，这次“送花”式的赞誉主要聚焦于杜兰特的音乐作品而非其篮球生涯。评论：这反映了杜兰特跨界发展的成功，他在退役后或业余时间深耕音乐领域，获得了业内顶尖人物的认可。这种跨界的认可提升了他的公众形象多样性。传闻：无证据表明这是商业合作的前奏，更多被视为朋友间的欣赏。",
-      "keyPoints": [
-        "李尔·韦恩盛赞杜兰特说唱",
-        "杜兰特说唱水平获业内认可",
-        "关注点在于音乐而非篮球",
-        "展示杜兰特多元身份"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTFBONDBnY0t3aWthTFBfVmVQakg2aUxvanF4YmdSampYZl9IVHJfMTVtblB0eWEyQmNScnlXbEo1ZEI4TWw0MU1HWGR0QXhvTENTZmtFRUhkcXA0NWo1YzI3eVc1REcxUFVTR2psYTVPdTdhRUk",
-      "title": "When Kevin Durant opened up on his $2.85 million regret from rookie year with SuperSonics",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBONDBnY0t3aWthTFBfVmVQakg2aUxvanF4YmdSampYZl9IVHJfMTVtblB0eWEyQmNScnlXbEo1ZEI4TWw0MU1HWGR0QXhvTENTZmtFRUhkcXA0NWo1YzI3eVc1REcxUFVTR2psYTVPdTdhRUk?oc=5",
-      "source": "Yahoo News Singapore",
-      "publishedAt": "2026-10-11T14:30:00.000Z",
-      "description": "When Kevin Durant opened up on his $2.85 million regret from rookie year with SuperSonics Yahoo News Singapore",
-      "titleZh": "杜兰特回忆新秀年285万美元遗憾",
-      "summaryZh": "凯文·杜兰特近日敞开心扉，谈及其在西雅图超音速队新秀赛季时的一笔285万美元的交易决定，称之为职业生涯中的遗憾。这一反思揭示了他早期职业生涯的关键转折点。",
-      "detailsZh": "事实：根据Yahoo News Singapore报道，杜兰特在一次访谈中回顾了自己职业生涯早期的经历。他特别提到了在西雅图超音速队效力期间，涉及一笔价值285万美元的交易或财务决策，并表示对此感到后悔。这通常关联到他后来离开西雅图加盟俄克拉荷马城雷霆队的背景故事。评论：杜兰特的这番言论反映了他对职业选择后果的成熟思考。这笔资金在当时对于年轻球员是一笔巨款，但长远来看，球队搬迁和个人发展路径的影响更为深远。传闻：无新交易发生，仅为历史回顾。",
-      "keyPoints": [
-        "杜兰特回顾新秀赛季经历",
-        "提及285万美元的交易遗憾",
-        "关联西雅图超音速时期",
-        "展现对过往选择的反思"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMimAFBVV95cUxPTmg0dE10d0gyaERuSEx6OVJPTi1tWVpSdHZNQ0RpODJXT010d3hhUEFad2Q4RHltOHd1amxhV0ZEeGRiTm0xdUlPNERONm5vZEpJbzhWQVpOZnpzYm56QllCbVZ3Z3hHYnZfUXlzeXdacEMzVGg0SDNWamxQMmdLR0hVTGtteFZWUUVtcUVPS0ZZeTkzMnprZQ",
-      "title": "Kevin Durant-backed pizza chain Pieology is down to its last 27 locations",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmg0dE10d0gyaERuSEx6OVJPTi1tWVpSdHZNQ0RpODJXT010d3hhUEFad2Q4RHltOHd1amxhV0ZEeGRiTm0xdUlPNERONm5vZEpJbzhWQVpOZnpzYm56QllCbVZ3Z3hHYnZfUXlzeXdacEMzVGg0SDNWamxQMmdLR0hVTGtteFZWUUVtcUVPS0ZZeTkzMnprZQ?oc=5",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-10-12T00:01:00.000Z",
-      "description": "Kevin Durant-backed pizza chain Pieology is down to its last 27 locations Yahoo Finance",
-      "titleZh": "杜兰特投资的Pieology披萨店仅剩27家",
-      "summaryZh": "由凯文·杜兰特支持的投资品牌Pieology披萨连锁店目前经营困难，全美门店数量已缩减至最后的27家。这一消息引发了外界对其商业投资回报的关注。",
-      "detailsZh": "由凯文·杜兰特支持的投资品牌Pieology披萨连锁店目前经营困难，全美门店数量已缩减至最后的27家。这一消息引发了外界对其商业投资回报的关注。",
-      "keyPoints": [
-        "Pieology披萨店仅剩27家",
-        "杜兰特为该品牌支持者",
-        "品牌面临经营困境",
-        "引发商业投资关注"
-      ],
-      "category": "场外",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMickFVX3lxTFBOVjNnUk02TVkxdEFubmc5MlBBZkgzOFVuRHhFZjBVMHVyNlhCWXEtUXRJbXNZTTJDa0Z1TFgyN0wtQTh5WkZITnpwVVctaTljc3JRRjFLY3BlQTBIZTZhUkdPTE14UkxWZlh3bVcwSWJCQQ",
-      "title": "NBA丨杜兰特对话徐静雨：我和詹姆斯不是抱团先驱，这是球员的权利",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOVjNnUk02TVkxdEFubmc5MlBBZkgzOFVuRHhFZjBVMHVyNlhCWXEtUXRJbXNZTTJDa0Z1TFgyN0wtQTh5WkZITnpwVVctaTljc3JRRjFLY3BlQTBIZTZhUkdPTE14UkxWZlh3bVcwSWJCQQ?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-11T16:25:45.000Z",
-      "description": "NBA丨杜兰特对话徐静雨：我和詹姆斯不是抱团先驱，这是球员的权利 新浪网",
-      "titleZh": "杜兰特回应抱团质疑称是球员权利",
-      "summaryZh": "在与徐静雨的对话中，凯文·杜兰特澄清了关于“抱团”的争议。他强调自己和勒布朗·詹姆斯并非所谓的“抱团先驱”，球员追求冠军环境是其正当权利，不应被过度道德审判。",
-      "detailsZh": "事实：2026年10月11日，新浪网报道了杜兰特接受媒体人徐静雨采访的内容。针对外界对他职业生涯中多次转会寻求争冠机会的批评，杜兰特明确表示，他和詹姆斯的行为只是行使球员的自由意志和权利。他认为组建强队是篮球竞技的一部分，而非道德瑕疵。评论：杜兰特的回应体现了他对舆论压力的淡然处理态度。他将焦点从“道德绑架”拉回到“职业选择”层面，强调了现代NBA球员自主权的重要性。这一观点在球迷群体中引发了广泛讨论。传闻：无具体新交易计划泄露。",
-      "keyPoints": [
-        "杜兰特接受徐静雨专访",
-        "否认自己是抱团先驱",
-        "强调球员拥有争冠权利",
-        "回应职业生涯转会争议"
+        "杜兰特专访KD谈今年中国赛的感受和这赛... 来自关于杜兰特 - 微博"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiuAFBVV95cUxQQ0pwOThDNUxLUXFKMmM5d2NMY05Sakx1Wmk3OVhicXdpcnAzRklCSVhkeGFoMVZzRjVEMlZSZUl6SDBkSTZBM2N3NkpIQjAxTVo1ODhDNHdIdFFjTzh2SHRMTllFSjVpRF9KeTJWLVJtRUd3SUlVOU9LemZpRE41NDBMdFVialU1SHM3cWRRSHJob1M2a0lyVmE0c0h0SmNnOHlKam5UbS00QWhTNkVXVVJNNFlwZjlk",
-      "title": "“He just doesn’t carry himself that way” – Jabari Smith Jr. says Kevin Durant somehow makes greatness feel ordinary",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0pwOThDNUxLUXFKMmM5d2NMY05Sakx1Wmk3OVhicXdpcnAzRklCSVhkeGFoMVZzRjVEMlZSZUl6SDBkSTZBM2N3NkpIQjAxTVo1ODhDNHdIdFFjTzh2SHRMTllFSjVpRF9KeTJWLVJtRUd3SUlVOU9LemZpRE41NDBMdFVialU1SHM3cWRRSHJob1M2a0lyVmE0c0h0SmNnOHlKam5UbS00QWhTNkVXVVJNNFlwZjlk?oc=5",
+      "id": "durant:search:https://weibo.com/2/detail/5352413691380519",
+      "title": "杜兰特谈及威少退役 2026NBA中国赛火箭胜独行侠",
+      "url": "https://weibo.com/2/detail/5352413691380519",
+      "source": "微博平台",
+      "publishedAt": "2026-10-12T10:44:48.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特谈及威少退役 2026NBA中国赛火箭胜独行侠",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "杜兰特谈及威少退役 2026NBA中国赛火箭胜独行侠"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://weibo.com/2/detail/5352413692428507",
+      "title": "杜兰特谈威少退役称难过 提及2026NBA中国赛赛况",
+      "url": "https://weibo.com/2/detail/5352413692428507",
+      "source": "微博平台",
+      "publishedAt": "2026-10-12T10:44:48.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特谈威少退役称难过 提及2026NBA中国赛赛况",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "杜兰特谈威少退役称难过 提及2026NBA中国赛赛况"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://weibo.com/2/detail/5352413684565937",
+      "title": "杜兰特谈威少退役称难过 提及NBA中国赛2026赛场表现",
+      "url": "https://weibo.com/2/detail/5352413684565937",
+      "source": "微博平台",
+      "publishedAt": "2026-10-12T10:44:48.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特谈威少退役称难过 提及NBA中国赛2026赛场表现",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "杜兰特谈威少退役称难过 提及NBA中国赛2026赛场表现"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://weibo.com/2/detail/5352413687971912",
+      "title": "杜兰特谈威少退役：2026NBA中国赛赛后表达难过",
+      "url": "https://weibo.com/2/detail/5352413687971912",
+      "source": "微博平台",
+      "publishedAt": "2026-10-12T10:44:48.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特谈威少退役：2026NBA中国赛赛后表达难过",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "杜兰特谈威少退役：2026NBA中国赛赛后表达难过"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://weibo.com/2/detail/5352413696622677",
+      "title": "杜兰特谈威少退役 提及NBA中国赛2026火箭胜独行侠",
+      "url": "https://weibo.com/2/detail/5352413696622677",
+      "source": "微博平台",
+      "publishedAt": "2026-10-12T10:44:48.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特谈威少退役 提及NBA中国赛2026火箭胜独行侠",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "杜兰特谈威少退役 提及NBA中国赛2026火箭胜独行侠"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://www.163.com/dy/article/L8TNVSG70529DU2U.html",
+      "title": "7年0分区决赛!离开勇士之后,杜兰特经历了什么?",
+      "url": "https://www.163.com/dy/article/L8TNVSG70529DU2U.html",
+      "source": "网易",
+      "publishedAt": "2026-10-12T10:44:48.836Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "7年0分区决赛!离开勇士之后,杜兰特经历了什么?",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "7年0分区决赛!离开勇士之后,杜兰特经历了什么?"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMirAFBVV95cUxOTUZVS2xPNS01elpyUXN4UXZNRi0xX0NxNC1rSmxrRHRHOS1WS0p2d0xTc1g1TkxFdFBJZjRCVE1OYW5TeWoyMXlhb2VKem5JWXI2Z2owTVZUZE9nYnI2ekdud2pfanloNlp3ZWttZGlkeHNNdnFFSkpCX3ZtN1ZOMUktNzhlX0t6TFdlRlYtSXVhTEhld2VCTlVjMGhHd013MHNWYk50SS1NTDBp",
+      "title": "\"He understood coming in\" – Rockets GM explains what Kevin Durant signed up for in Houston",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUZVS2xPNS01elpyUXN4UXZNRi0xX0NxNC1rSmxrRHRHOS1WS0p2d0xTc1g1TkxFdFBJZjRCVE1OYW5TeWoyMXlhb2VKem5JWXI2Z2owTVZUZE9nYnI2ekdud2pfanloNlp3ZWttZGlkeHNNdnFFSkpCX3ZtN1ZOMUktNzhlX0t6TFdlRlYtSXVhTEhld2VCTlVjMGhHd013MHNWYk50SS1NTDBp?oc=5",
       "source": "Basketball Network",
-      "publishedAt": "2026-10-11T09:55:00.000Z",
-      "description": "“He just doesn’t carry himself that way” – Jabari Smith Jr. says Kevin Durant somehow makes greatness feel ordinary Basketball Network",
-      "titleZh": "史密斯称赞杜兰特让伟大变得平凡",
-      "summaryZh": "休斯顿火箭队新星贾巴里·史密斯（Jabari Smith Jr.）在接受采访时表达了对队友凯文·杜兰特的敬佩。他指出杜兰特身上有一种特质，即能让看似不可思议的伟大表现显得习以为常，展现了其深厚的篮球底蕴。",
-      "detailsZh": "事实：Basketball Network报道，火箭队年轻球员贾巴里·史密斯在谈论杜兰特时使用了“He just doesn’t carry himself that way”这样的评价。史密斯认为杜兰特通过日常的训练态度和比赛表现，将高水平的竞技状态常态化，使得观众和队友觉得他的伟大是理所当然的。评论：这是来自队友的高度评价，侧面印证了杜兰特在更衣室和球场上的领袖气质。对于火箭队而言，能够近距离学习杜兰特的职业精神对年轻球员的成长至关重要。传闻：无负面传闻。",
+      "publishedAt": "2026-10-12T08:49:00.000Z",
+      "description": "\"He understood coming in\" – Rockets GM explains what Kevin Durant signed up for in Houston Basketball Network",
+      "titleZh": "\"He understood coming in\" – Rockets GM explains what Kevin Durant signed up for in Houston",
+      "summaryZh": "\"He understood coming in\" – Rockets GM explains what Kevin Durant signed up for in Houston Basketball Network",
+      "detailsZh": "\"He understood coming in\" – Rockets GM explains what Kevin Durant signed up for in Houston Basketball Network",
       "keyPoints": [
-        "史密斯盛赞杜兰特职业素养",
-        "杜兰特让伟大表现显得平凡",
-        "体现老将的榜样力量",
-        "火箭队内部氛围积极"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxPeHFQZzdBRGVieC1QeFJ3MUlCckluazdablFid2dCcUhkYnd0QmZLTFdWYThIUlBRV3p3OE1Pcy1yUUZJNFNkQ0tiYXdWTmdvejFkeUhfV3ppQ1NGVnhTMGJkMUgtQ2xJaWFOMFY2UUtsd0hhNDZTWkxDUnF6VUh5SEFqNnpCY0ZfMnV1eA",
-      "title": "文班亚马正式招募杜兰特！来马刺一起建立王朝，交易方案曝光",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHFQZzdBRGVieC1QeFJ3MUlCckluazdablFid2dCcUhkYnd0QmZLTFdWYThIUlBRV3p3OE1Pcy1yUUZJNFNkQ0tiYXdWTmdvejFkeUhfV3ppQ1NGVnhTMGJkMUgtQ2xJaWFOMFY2UUtsd0hhNDZTWkxDUnF6VUh5SEFqNnpCY0ZfMnV1eA?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-11T09:52:05.000Z",
-      "description": "文班亚马正式招募杜兰特！来马刺一起建立王朝，交易方案曝光 搜狐网",
-      "titleZh": "网传文班亚马招募杜兰特建王朝",
-      "summaryZh": "搜狐网等媒体流传一则消息，称圣安东尼奥马刺队新星维克托·文班亚马正式招募凯文·杜兰特，希望他能加盟马刺共同建立王朝，并曝光了一份交易方案。此为未经证实的传闻。",
-      "detailsZh": "事实：2026年10月11日，搜狐网发布文章标题为“文班亚马正式招募杜兰特！来马刺一起建立王朝，交易方案曝光”。内容声称文班亚马主动联系杜兰特邀请其加盟。评论：此类消息通常源于自媒体炒作或谣言，缺乏官方信源支持。杜兰特目前效力于火箭队（基于前几条新闻推断），且年龄和合同状况使得立即转会马刺的可能性极低。马刺已有自己的建队核心。传闻：这是一条典型的转会谣言，旨在吸引眼球，不具备事实依据。",
-      "keyPoints": [
-        "网传文班亚马招募杜兰特",
-        "声称有交易方案曝光",
-        "目标为马刺建立王朝",
-        "属未经证实的流言"
-      ],
-      "category": "交易",
-      "importance": 2
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi0AFBVV95cUxOX0pkWkdlN3NPUmRWUVVGbWNfVDBjWF9fdThNRUZfY3FxV1dNRGdBQzhCb1hCdG8xdVlYeHRLTTVBdWdrNDhLVnJLWXZPa3NEdWRpSWJWN056ZTRkQnBDMzF6Y2Y0ZS0xdHJ5NDItMUlyZlhWdVRBQlAwdWxsNUh4SDZtalJFWDN0bnotWnlvVVpLcG9vMnhmQUlmdlJNdDFUMk9NSzR0VjZxTDl0Y3lQUFg5RkhlS1pPQ2UxQ0lpUzBDYnctd1pidjJDaW9JWWFO",
-      "title": "“On the floor, shaking” - Trainer recalls the brutal workout that revealed Kevin Durant’s mentality in high school",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX0pkWkdlN3NPUmRWUVVGbWNfVDBjWF9fdThNRUZfY3FxV1dNRGdBQzhCb1hCdG8xdVlYeHRLTTVBdWdrNDhLVnJLWXZPa3NEdWRpSWJWN056ZTRkQnBDMzF6Y2Y0ZS0xdHJ5NDItMUlyZlhWdVRBQlAwdWxsNUh4SDZtalJFWDN0bnotWnlvVVpLcG9vMnhmQUlmdlJNdDFUMk9NSzR0VjZxTDl0Y3lQUFg5RkhlS1pPQ2UxQ0lpUzBDYnctd1pidjJDaW9JWWFO?oc=5",
-      "source": "Basketball Network",
-      "publishedAt": "2026-10-12T01:27:00.000Z",
-      "description": "“On the floor, shaking” - Trainer recalls the brutal workout that revealed Kevin Durant’s mentality in high school Basketball Network",
-      "titleZh": "“On the floor, shaking” - Trainer recalls the brutal workout that revealed Kevin Durant’s mentality in high school",
-      "summaryZh": "“On the floor, shaking” - Trainer recalls the brutal workout that revealed Kevin Durant’s mentality in high school Basketball Network",
-      "detailsZh": "“On the floor, shaking” - Trainer recalls the brutal workout that revealed Kevin Durant’s mentality in high school Basketball Network",
-      "keyPoints": [
-        "“On the floor, shaking” - Trainer recalls the brutal workout that revealed Kevin Durant’s mentality in high school"
+        "\"He understood coming in\" – Rockets GM explains what Kevin Durant signed up for in Houston"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -252,16 +231,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响背景。该页面作为基础档案入口，提供其公众形象与作品脉络的综述性信息。",
-      "detailsZh": "事实：该条目为固定的人物百科资料页，非时效性新闻。内容主要梳理了“大咕咕咕鸡”作为网络写手的身份背景，包括其活跃平台、代表性创作风格（如幽默讽刺、段子化叙事）以及对中文互联网语言生态的影响。评论：作为第三方百科全书，其内容基于公开可查的网络痕迹整理，具有相对客观的存档价值，但可能滞后于最新动态。传闻：无特定未经证实的八卦传闻，主要为对其公众影响力的定性描述。此条目是核实其基本身份和早期成名作的关键参考源。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录其常用笔名、创作风格及作品背景，提供关于该网络写手的综合资料入口。",
+      "detailsZh": "事实：该条目为静态百科全书页面，汇总了“大咕咕咕鸡”作为网络写手的公开信息，包括其活跃平台、代表作品类型及在网络文化中的定位。评论：此类资料页通常由社区维护，内容更新滞后于实时动态，适合用于基础背景了解。传闻：无直接关联的争议性传闻记录在案。注意：此为固定资料入口，非当日新闻事件。",
       "keyPoints": [
-        "提供人物基本身份与笔名考证",
-        "总结其独特的幽默创作风格",
-        "记录对网络流行语的影响"
+        "提供作者背景与风格综述",
+        "涵盖主要作品列表",
+        "属于静态百科资料"
       ],
       "category": "场外",
-      "importance": 5
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -271,16 +250,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话主页",
-      "summaryZh": "新浪微博上的大咕咕咕鸡官方或粉丝维护的超话聚合页。此处汇集其公开动态、读者讨论及互动内容，是追踪其近期发声和社群反应的核心入口。",
-      "detailsZh": "事实：这是一个固定的社交媒体话题聚合页面（Super Index），URL指向特定的微博超话索引。它不是单条新闻，而是持续更新的动态流入口。内容包含作者本人的转发、评论以及粉丝的二次创作和讨论。评论：作为第一手社交数据源，能反映其在微博平台的实时活跃度及粉丝粘性。由于微博内容的碎片化特性，需结合具体日期筛选有效信息。传闻：评论区可能存在关于其生活状态或新作的猜测，需甄别真伪。此链接主要用于日常监控而非单次事件报道。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博官方超话页面，聚合其公开动态及读者讨论，是追踪其最新发声的核心渠道。",
+      "detailsZh": "事实：这是新浪微博认证的超级话题主页，链接指向特定ID，包含用户发布的博文、图片及评论区互动。评论：作为第一手信息来源，此处内容最具时效性，但需甄别水军或营销号干扰。传闻：超话内可能存在粉丝间的二次创作或未经证实的八卦，需结合正文判断。注意：此为固定主页入口，持续更新，非单次新闻。",
       "keyPoints": [
-        "微博官方/粉丝动态聚合入口",
-        "反映实时互动与粉丝情绪",
-        "非单一新闻，为持续性资料库"
+        "微博官方超话入口",
+        "聚合最新公开动态",
+        "读者讨论集中地"
       ],
-      "category": "场外",
-      "importance": 4
+      "category": "公开发言",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -290,15 +269,15 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频搜索聚合",
-      "summaryZh": "哔哩哔哩平台针对“大咕咕咕鸡”关键词的视频搜索结果页。聚合了其作品朗读音频、相关解说视频及历史遗留内容，是多媒体资料检索的主要渠道。",
-      "detailsZh": "事实：这是一个动态生成的搜索结果页面，非固定静态页面。内容涵盖用户上传的作品朗读、剧情解析、鬼畜剪辑等。评论：B站用户群体年轻，视频内容往往带有强烈的二次创作色彩，可能偏离原作本意。通过此入口可观察其作品在视频平台的传播广度及受众反馈。需注意区分官方账号发布内容与UGC（用户生成内容）。传闻：部分高播放量视频可能夸大其影响力或断章取义，需交叉验证。此链接用于多媒体资料的全面检索。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索结果页，聚合其作品朗读音频、相关二创视频及历史讨论内容。",
+      "detailsZh": "事实：该URL为B站关键词搜索接口，返回结果随时间变化，包含用户上传的有声书片段、解说视频等。评论：B站内容多为粉丝自发上传或授权转载，质量参差不齐，部分可能涉及版权灰色地带。传闻：视频中可能夹杂对作者私生活的臆测，需谨慎采信。注意：此为动态搜索结果，非固定单一页面，建议定期核实具体视频来源。",
       "keyPoints": [
-        "多媒体内容检索入口",
-        "包含朗读、解说及二创视频",
-        "反映视频平台受众反馈"
+        "聚合视频与音频资源",
+        "含粉丝二创内容",
+        "搜索结果动态变化"
       ],
-      "category": "场外",
+      "category": "作品",
       "importance": 3
     },
     {
@@ -309,16 +288,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其在网络段子手生态中的地位。虽为旧闻，但提供了其成名期的权威媒体视角。",
-      "detailsZh": "事实：发布于2015年5月12日，属于历史性媒体报道。文章分析了当时大咕咕咕鸡如何通过微博等平台积累人气，并探讨其文字风格对网络语言习惯的改变。评论：作为主流媒体当年的报道，具有较高的史料价值，反映了其巅峰期的社会关注度。然而，鉴于时间跨度较大，无法反映其当前状况。文中观点代表当时的媒体认知，可能存在时代局限性。传闻：报道中未涉及未经证实的个人隐私传闻，主要聚焦于公共领域的文化现象分析。此条目适用于研究其早期发展轨迹。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "2015年界面新闻深度报道，回顾其早期创作风格及对网络语言的影响，具历史参考价值。",
+      "detailsZh": "事实：发布于2015年的新闻报道，分析了当时网络段子手的生存状态，并以大咕咕咕鸡为例探讨其语言特色。评论：该文具有时代局限性，反映的是十年前的网络环境，不能代表其当前现状。传闻：文中未提及近期争议，仅聚焦于当时的文学性与传播力分析。注意：此为历史档案，非当前动态，适用于研究其创作演变历程。",
       "keyPoints": [
-        "2015年权威媒体深度报道",
-        "分析早期创作风格与影响力",
-        "具有历史文献价值"
+        "2015年历史报道",
+        "分析早期创作风格",
+        "反映当时网络生态"
       ],
       "category": "讨论",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
