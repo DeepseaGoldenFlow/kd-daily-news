@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:39:51.932Z",
+  "updatedAt": "2026-10-14T13:46:50.983Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
       "url": "https://voice.hupu.com/bbs/642875462",
       "source": "虎扑体育网",
-      "publishedAt": "2026-10-14T07:35:50.055Z",
+      "publishedAt": "2026-10-14T13:42:27.300Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +37,7 @@
       "title": "10月12日:火箭主帅兑现减少KD出场时间承诺,中国赛轮休杜兰特:商业赛已打一场 ",
       "url": "https://m.sohu.com/a/1086515353_122290482",
       "source": "搜狐网",
-      "publishedAt": "2026-10-14T07:35:50.055Z",
+      "publishedAt": "2026-10-14T13:42:27.300Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10月12日:火箭主帅兑现减少KD出场时间承诺,中国赛轮休杜兰特:商业赛已打一场 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -47,6 +47,40 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijgFBVV95cUxPVjlNakhTbTNYT09zNndOTXR0dHZLeFJEa0tVYzNrZHV3SzVDczl2WVFTS0RvY0wxYXAwV3NDRmE0NlNuMFZuRlhaM0pfNDJHSHVjREtWX3lxbWR1V2ZVZXhoWW5zOVFSZ1VhSVdfLTBDNDVDNzNzM1VvNmVndmpmZ0ZNOF8yZ056UUdxemxB",
+      "title": "Rockets predicted to trade Kevin Durant for Knicks' $212M two-time NBA champion, draft capital",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjlNakhTbTNYT09zNndOTXR0dHZLeFJEa0tVYzNrZHV3SzVDczl2WVFTS0RvY0wxYXAwV3NDRmE0NlNuMFZuRlhaM0pfNDJHSHVjREtWX3lxbWR1V2ZVZXhoWW5zOVFSZ1VhSVdfLTBDNDVDNzNzM1VvNmVndmpmZ0ZNOF8yZ056UUdxemxB?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-14T12:39:26.000Z",
+      "description": "Rockets predicted to trade Kevin Durant for Knicks' $212M two-time NBA champion, draft capital Yahoo Sports",
+      "titleZh": "Rockets predicted to trade Kevin Durant for Knicks' $212M two-time NBA champion, draft capital",
+      "summaryZh": "Rockets predicted to trade Kevin Durant for Knicks' $212M two-time NBA champion, draft capital Yahoo Sports",
+      "detailsZh": "Rockets predicted to trade Kevin Durant for Knicks' $212M two-time NBA champion, draft capital Yahoo Sports",
+      "keyPoints": [
+        "Rockets predicted to trade Kevin Durant for Knicks' $212M two-time NBA champion, draft capital"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOTkFBdGljSUdSS3k5THU5S3lfaVktQlN5VnVlNWJaMkRGaWhOTV81TnBlaVIzMFNuWnF1dG1HZDQ5alhSVTlXR3JmV2RQQkNsUE1UN2tCbHNVcXBhUDFLZ1ZsNDQ3VHlpeFNGdjNBZ2ZjVnVmTDkzUW9UQXlNTnV0bDNuZTA",
+      "title": "中国赛复盘：范乔丹&斯玛特带来球队大脑 杜兰特&申京彻底解放",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkFBdGljSUdSS3k5THU5S3lfaVktQlN5VnVlNWJaMkRGaWhOTV81TnBlaVIzMFNuWnF1dG1HZDQ5alhSVTlXR3JmV2RQQkNsUE1UN2tCbHNVcXBhUDFLZ1ZsNDQ3VHlpeFNGdjNBZ2ZjVnVmTDkzUW9UQXlNTnV0bDNuZTA?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-10-14T09:33:15.000Z",
+      "description": "中国赛复盘：范乔丹&斯玛特带来球队大脑 杜兰特&申京彻底解放 Sina Sports",
+      "titleZh": "中国赛复盘：范乔丹&斯玛特带来球队大脑 杜兰特&申京彻底解放",
+      "summaryZh": "中国赛复盘：范乔丹&斯玛特带来球队大脑 杜兰特&申京彻底解放 Sina Sports",
+      "detailsZh": "中国赛复盘：范乔丹&斯玛特带来球队大脑 杜兰特&申京彻底解放 Sina Sports",
+      "keyPoints": [
+        "中国赛复盘：范乔丹&斯玛特带来球队大脑 杜兰特&申京彻底解放"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -67,85 +101,51 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiTkFVX3lxTE5OM3hyNWdIR0NxYWY2SDdwb0JmdGEwUERUUGwxOE1zd0lXaTVrSGJFQnN6WmstYlFIOHdBdGtPVS1VemkyT2dLd0U5Sm84QQ",
-      "title": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OM3hyNWdIR0NxYWY2SDdwb0JmdGEwUERUUGwxOE1zd0lXaTVrSGJFQnN6WmstYlFIOHdBdGtPVS1VemkyT2dLd0U5Sm84QQ?oc=5",
-      "source": "虎扑",
-      "publishedAt": "2026-10-14T01:03:47.000Z",
-      "description": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑",
-      "titleZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字",
-      "summaryZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑",
-      "detailsZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑",
+      "id": "durant:CBMicEFVX3lxTFBpT0JYT2loNENFWG9yb3ZIbi1KZm9XdF9sbHZENXVWeDU1V29Xb0QwSGRjTXNtSy1JTkh4Sm9DaDhKVUNpTGUtVjlibERtVDkwYlZ2dzhvQ1JWb2xJeUxnZ01EcEtlZFZzLXZvUGNwcWE",
+      "title": "申京晒中国赛动态 杜兰特评论Vibey",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpT0JYT2loNENFWG9yb3ZIbi1KZm9XdF9sbHZENXVWeDU1V29Xb0QwSGRjTXNtSy1JTkh4Sm9DaDhKVUNpTGUtVjlibERtVDkwYlZ2dzhvQ1JWb2xJeUxnZ01EcEtlZFZzLXZvUGNwcWE?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-14T04:24:51.000Z",
+      "description": "申京晒中国赛动态 杜兰特评论Vibey 新浪网",
+      "titleZh": "申京晒中国赛动态 杜兰特评论Vibey",
+      "summaryZh": "申京晒中国赛动态 杜兰特评论Vibey 新浪网",
+      "detailsZh": "申京晒中国赛动态 杜兰特评论Vibey 新浪网",
       "keyPoints": [
-        "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字"
+        "申京晒中国赛动态 杜兰特评论Vibey"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiiwJBVV95cUxNYy1ZSkZSY3ZnUkFGM19aSzJqT1p2ZXVabVRNUGdDRU1CRWRFM21EU1ZLcXUwbGljWER2TWROX0ItNTM1YkE5U2hKUXFhdTlPd0gtWFJZUlRwWjhZNEphZmp5UjNsUjllb0ZRMTNBY1NrYklwdnRtcUdWeTdZdjN4Z29TMEgtU0l5OGdCOWpoYi1DaWxaS3lNVExjX0dORU8wSE11T0sxMVVQWTZuN0U0ZzFMVXU0TVdTcUFINGVkVnZjUkhENGxtUXN1VDRsaDN5MTRWcmhuMDVPZnhsd0tNdmZ1cGkxd3JaTDB4aWE5N0R2TkU4Z0xvTzFDdHZYYmhwVUhtb3Qwb2ZnUDA",
-      "title": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYy1ZSkZSY3ZnUkFGM19aSzJqT1p2ZXVabVRNUGdDRU1CRWRFM21EU1ZLcXUwbGljWER2TWROX0ItNTM1YkE5U2hKUXFhdTlPd0gtWFJZUlRwWjhZNEphZmp5UjNsUjllb0ZRMTNBY1NrYklwdnRtcUdWeTdZdjN4Z29TMEgtU0l5OGdCOWpoYi1DaWxaS3lNVExjX0dORU8wSE11T0sxMVVQWTZuN0U0ZzFMVXU0TVdTcUFINGVkVnZjUkhENGxtUXN1VDRsaDN5MTRWcmhuMDVPZnhsd0tNdmZ1cGkxd3JaTDB4aWE5N0R2TkU4Z0xvTzFDdHZYYmhwVUhtb3Qwb2ZnUDA?oc=5",
-      "source": "KCENTV.com",
-      "publishedAt": "2026-10-14T00:28:00.000Z",
-      "description": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build KCENTV.com",
-      "titleZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build",
-      "summaryZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build KCENTV.com",
-      "detailsZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build KCENTV.com",
+      "id": "durant:CBMiS0FVX3lxTE0wVFNlQnpPTVA3aXRRSzNDX3pIc0lLd1J5eE1aWDNTcl9BNjhxN0xGclFLc2E3dmxXVWFRUExzZEwySjZvclljVVBBbw",
+      "title": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wVFNlQnpPTVA3aXRRSzNDX3pIc0lLd1J5eE1aWDNTcl9BNjhxN0xGclFLc2E3dmxXVWFRUExzZEwySjZvclljVVBBbw?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-14T03:22:54.000Z",
+      "description": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身 虎扑体育",
+      "titleZh": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身",
+      "summaryZh": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身 虎扑体育",
+      "detailsZh": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身 虎扑体育",
       "keyPoints": [
-        "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build"
+        "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMi3AlBVV95cUxNTHhPVVRNX3l1cWlJeWtOcHhmQ1JQbmJwTG53WEozcE1tSk83b3NlaXduSGpzVlZ0dlNkOGtyVnQzVkxqa2tnUGUzN2VYUFBKMmlfeU1SLTlJajl2RUtIZktUdVdBQk1wOWJJNks5MkQwUWk2VER3R0Rram03dFBsVVRNMWZxTHhNMjJtR1pIVUp4aml6RU9QSUNjWHVaNHJNSEl6MFlxeXRiOE9yeWVuMjRMX09CemVucDJqNFAzenB0cmpWYmU2dXVOeU52bjZFckJ5VlR0ektybDdGNHFldVo1d24zRmZqTzk2Ny12eUxJZVAtU3Y4MUVNWVZuUjdLVF95WF9OTW9iWUxDNDBhWXVsOHhYcGhfYmVYc0FybHZJZno0Y1Y3SkJZb3NESkRaNldnUEt3NWpBYWVCWmpPRFpPc2lWNkdEMF9Ca2F6Nko0UjY1cVNlVDYySlNWb2Z4VUtCeDJ1dW9NQVozdjFnOWlpbGQzUnZwdGxiaVR6MlB3N0xkbGpCRzJWSHZJcE9vbEpWYTBoZlF3MlFCYmVvSEI3WnpJLUZzRTJwWm9ldkwwQW5kVm9UOWs3UnJJZ2ZRM295MFpHQUxKNml0UnU2eW5WbENRTDdQcTU0dkMxeG11NXJaWEJDaVd4UjFYRzVzZjV2Rm9mcmlYOWRGNWF3LW1mZGw0TnMtdWFMdTl5Y1NMOUlyRmwzS0czZm9HaUhyNGhjSDhHdlRlN2M1X3V2ZUlhczB4cGZBdjlLSGZMekJ6R3puRU9hVUI4NjdnMXlFdWhlc0RvYWEtckVSV2lDZmFLOHBGMFA4d09yS283N2pTTVkzLVpYUkxDSnFIZ0NNOVZYbW1DRWVfTzhwNnRUdlhUZmVEb29yZnk2Nm40RXp4T0xqOGFNaHBDUHgzZUd2YVREMTd0cDBjTXRrbzFJcVBPMGktUnlKZ3lvYUx5NUQzWXRtckNaakRDWjBmTlJnY29KMXNnQ2F4RngzbWxqcHd4b0ZXREp2S0luMV9KS1lkSTFMUzhYWWhwZXN4aGZkWXUteEdvc0xBUFJ1aVE5TWQ5cFo0TlV1eVE3WlFEeDhuMlZXby0zQ1JHOVRrZ3M2QWxLbTBYb1ZWN2xobTZoWURLT1dLaEFSdW9zWmMzV3R0WmlXazFZUERJbGxST3lhbTdNTkZUQVJuXzY0UFFvRUNQLXNWOWVMdWRPSnZPQU8wSFYySFJEMzI2NEltM3R1cTQ4U2FvUVJJeEVXbi1fUy0xQjQyaGlFOENWZU1rZ2pWTXZscnA4cnVzRFlMVDRNdTlxQ3FQZlZRbU5GX29aSk9LZ08tbzdTLUdOVFQtQjR0cXNYMUo1bzEteW1uTUZ6UnpmNWp4Nl9xaXRxUmtnVG5pUHF3Wk5BeDdQcm41QVNGRmthZXpIbmtOQkFJdTNDdllwbTdzN3RDMDlwTjUxU0hBcGdUTEtwM3ZZTmZ3RS1feEw4VndTdGozVTlwRGhQLVBaaDNnSy1wbVREUm5vQ2ZlQmd5U2FOQzRja1dsZmVtenJVZHo5RXItRzNzUEw4YTI0NFYzajBhT1hwR3ZkRlF3S2tUSDJtbmh0V28ybEdZSDU0S3lZanpWZW1uaXhsSk9oWU90YTh0dlp6TElPekhQa1VfNVBvNVE0dw",
-      "title": "Rockets' Kevin Durant game-time decision for Game 2",
-      "url": "https://news.google.com/rss/articles/CBMi3AlBVV95cUxNTHhPVVRNX3l1cWlJeWtOcHhmQ1JQbmJwTG53WEozcE1tSk83b3NlaXduSGpzVlZ0dlNkOGtyVnQzVkxqa2tnUGUzN2VYUFBKMmlfeU1SLTlJajl2RUtIZktUdVdBQk1wOWJJNks5MkQwUWk2VER3R0Rram03dFBsVVRNMWZxTHhNMjJtR1pIVUp4aml6RU9QSUNjWHVaNHJNSEl6MFlxeXRiOE9yeWVuMjRMX09CemVucDJqNFAzenB0cmpWYmU2dXVOeU52bjZFckJ5VlR0ektybDdGNHFldVo1d24zRmZqTzk2Ny12eUxJZVAtU3Y4MUVNWVZuUjdLVF95WF9OTW9iWUxDNDBhWXVsOHhYcGhfYmVYc0FybHZJZno0Y1Y3SkJZb3NESkRaNldnUEt3NWpBYWVCWmpPRFpPc2lWNkdEMF9Ca2F6Nko0UjY1cVNlVDYySlNWb2Z4VUtCeDJ1dW9NQVozdjFnOWlpbGQzUnZwdGxiaVR6MlB3N0xkbGpCRzJWSHZJcE9vbEpWYTBoZlF3MlFCYmVvSEI3WnpJLUZzRTJwWm9ldkwwQW5kVm9UOWs3UnJJZ2ZRM295MFpHQUxKNml0UnU2eW5WbENRTDdQcTU0dkMxeG11NXJaWEJDaVd4UjFYRzVzZjV2Rm9mcmlYOWRGNWF3LW1mZGw0TnMtdWFMdTl5Y1NMOUlyRmwzS0czZm9HaUhyNGhjSDhHdlRlN2M1X3V2ZUlhczB4cGZBdjlLSGZMekJ6R3puRU9hVUI4NjdnMXlFdWhlc0RvYWEtckVSV2lDZmFLOHBGMFA4d09yS283N2pTTVkzLVpYUkxDSnFIZ0NNOVZYbW1DRWVfTzhwNnRUdlhUZmVEb29yZnk2Nm40RXp4T0xqOGFNaHBDUHgzZUd2YVREMTd0cDBjTXRrbzFJcVBPMGktUnlKZ3lvYUx5NUQzWXRtckNaakRDWjBmTlJnY29KMXNnQ2F4RngzbWxqcHd4b0ZXREp2S0luMV9KS1lkSTFMUzhYWWhwZXN4aGZkWXUteEdvc0xBUFJ1aVE5TWQ5cFo0TlV1eVE3WlFEeDhuMlZXby0zQ1JHOVRrZ3M2QWxLbTBYb1ZWN2xobTZoWURLT1dLaEFSdW9zWmMzV3R0WmlXazFZUERJbGxST3lhbTdNTkZUQVJuXzY0UFFvRUNQLXNWOWVMdWRPSnZPQU8wSFYySFJEMzI2NEltM3R1cTQ4U2FvUVJJeEVXbi1fUy0xQjQyaGlFOENWZU1rZ2pWTXZscnA4cnVzRFlMVDRNdTlxQ3FQZlZRbU5GX29aSk9LZ08tbzdTLUdOVFQtQjR0cXNYMUo1bzEteW1uTUZ6UnpmNWp4Nl9xaXRxUmtnVG5pUHF3Wk5BeDdQcm41QVNGRmthZXpIbmtOQkFJdTNDdllwbTdzN3RDMDlwTjUxU0hBcGdUTEtwM3ZZTmZ3RS1feEw4VndTdGozVTlwRGhQLVBaaDNnSy1wbVREUm5vQ2ZlQmd5U2FOQzRja1dsZmVtenJVZHo5RXItRzNzUEw4YTI0NFYzajBhT1hwR3ZkRlF3S2tUSDJtbmh0V28ybEdZSDU0S3lZanpWZW1uaXhsSk9oWU90YTh0dlp6TElPekhQa1VfNVBvNVE0dw?oc=5",
-      "source": "ABC7 Los Angeles",
-      "publishedAt": "2026-10-13T23:09:06.000Z",
-      "description": "Rockets' Kevin Durant game-time decision for Game 2 ABC7 Los Angeles",
-      "titleZh": "Rockets' Kevin Durant game-time decision for Game 2",
-      "summaryZh": "Rockets' Kevin Durant game-time decision for Game 2 ABC7 Los Angeles",
-      "detailsZh": "Rockets' Kevin Durant game-time decision for Game 2 ABC7 Los Angeles",
+      "id": "durant:CBMiY0FVX3lxTE9ONnFWeThTd1hHM3h1OEZvR0ZWalhZVVRUYWNMN0ZwWTVfSHZKNzd1Nkt2a205bUFlZF9NWFZCTVRHajlFVzhnWG8xSC0zb24wYmM4emZyRllrSUx5VDM5VFV4bw",
+      "title": "36岁杜兰特示爱22岁里斯？女方是KD小迷妹 两人曾陷入约会流言",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ONnFWeThTd1hHM3h1OEZvR0ZWalhZVVRUYWNMN0ZwWTVfSHZKNzd1Nkt2a205bUFlZF9NWFZCTVRHajlFVzhnWG8xSC0zb24wYmM4emZyRllrSUx5VDM5VFV4bw?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-10-14T02:40:39.000Z",
+      "description": "36岁杜兰特示爱22岁里斯？女方是KD小迷妹 两人曾陷入约会流言 企鹅体育",
+      "titleZh": "36岁杜兰特示爱22岁里斯？女方是KD小迷妹 两人曾陷入约会流言",
+      "summaryZh": "36岁杜兰特示爱22岁里斯？女方是KD小迷妹 两人曾陷入约会流言 企鹅体育",
+      "detailsZh": "36岁杜兰特示爱22岁里斯？女方是KD小迷妹 两人曾陷入约会流言 企鹅体育",
       "keyPoints": [
-        "Rockets' Kevin Durant game-time decision for Game 2"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiqwFBVV95cUxOYlBRRE80SW5Fc3pvQ2tjOE9tQkhqejFqVDZPRzhtRDB5TzB0azI4NExGZEFKQVBNZFBlaEVETVhSWnFXNHJrX2ZoVDBMQm1oSGhqbEtCMlRsZHNxMVlrU0VTbHBTS0ZBV291OHFCSmZnMElwLVFUVFRMNGxQWWxoMVhTSUVIRVRveVYwdERyOEdaVFA4QnpKTi1pVFlReFJ1TDBGWnRVVk5UX3M",
-      "title": "Kevin Durant-backed bankrupt pizza chain shutters yet another California location",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlBRRE80SW5Fc3pvQ2tjOE9tQkhqejFqVDZPRzhtRDB5TzB0azI4NExGZEFKQVBNZFBlaEVETVhSWnFXNHJrX2ZoVDBMQm1oSGhqbEtCMlRsZHNxMVlrU0VTbHBTS0ZBV291OHFCSmZnMElwLVFUVFRMNGxQWWxoMVhTSUVIRVRveVYwdERyOEdaVFA4QnpKTi1pVFlReFJ1TDBGWnRVVk5UX3M?oc=5",
-      "source": "New York Post",
-      "publishedAt": "2026-10-13T22:23:00.000Z",
-      "description": "Kevin Durant-backed bankrupt pizza chain shutters yet another California location New York Post",
-      "titleZh": "Kevin Durant-backed bankrupt pizza chain shutters yet another California location",
-      "summaryZh": "Kevin Durant-backed bankrupt pizza chain shutters yet another California location New York Post",
-      "detailsZh": "Kevin Durant-backed bankrupt pizza chain shutters yet another California location New York Post",
-      "keyPoints": [
-        "Kevin Durant-backed bankrupt pizza chain shutters yet another California location"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMioAFBVV95cUxQVDZ6MjB2MGNnOXZOZ1MxTjk0c3hUd2M1RnhkakR5TDEyYlh0OG5fMXM2LUlURXFLdmw1SWxlRE14MkRyczcyOEdlMGsyaWxIYkVwM0ItUDdJX1hpSFhNS2d2M21UNndJUU12SG5qMnh0VWNRc1dTQW5fWi1IZTFNdEpqQWMwMzBzSTJsTXl2QVc4WkRwQ2pkb0xFUHpvclEx",
-      "title": "10 Nike Sneakers We Bet Kevin Durant Wished Were Cleats",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVDZ6MjB2MGNnOXZOZ1MxTjk0c3hUd2M1RnhkakR5TDEyYlh0OG5fMXM2LUlURXFLdmw1SWxlRE14MkRyczcyOEdlMGsyaWxIYkVwM0ItUDdJX1hpSFhNS2d2M21UNndJUU12SG5qMnh0VWNRc1dTQW5fWi1IZTFNdEpqQWMwMzBzSTJsTXl2QVc4WkRwQ2pkb0xFUHpvclEx?oc=5",
-      "source": "Sole Retriever",
-      "publishedAt": "2026-10-13T21:00:18.000Z",
-      "description": "10 Nike Sneakers We Bet Kevin Durant Wished Were Cleats Sole Retriever",
-      "titleZh": "10 Nike Sneakers We Bet Kevin Durant Wished Were Cleats",
-      "summaryZh": "10 Nike Sneakers We Bet Kevin Durant Wished Were Cleats Sole Retriever",
-      "detailsZh": "10 Nike Sneakers We Bet Kevin Durant Wished Were Cleats Sole Retriever",
-      "keyPoints": [
-        "10 Nike Sneakers We Bet Kevin Durant Wished Were Cleats"
+        "36岁杜兰特示爱22岁里斯？女方是KD小迷妹 两人曾陷入约会流言"
       ],
       "category": "场外",
       "importance": 3
@@ -249,15 +249,15 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "维基百科人物资料入口",
-      "summaryZh": "提供大咕咕咕鸡的常用笔名、创作风格及作品背景资料，是了解其网络影响的基础信息聚合页。",
-      "detailsZh": "该条目为固定的人物资料索引页面，非当日新闻。内容涵盖大咕咕咕鸡作为网络写手的身份界定，梳理了其从早期网络段子手到知名创作者的转变过程。事实部分记录了其主要活跃平台与代表作的传播路径；评论部分涉及对其幽默讽刺风格的文学性评价；传闻部分则包括关于其匿名身份的推测。此页面旨在为用户提供结构化的背景知识，便于快速检索其生平与创作脉络，不具备时效性新闻特征。",
+      "summaryZh": "提供网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景资料，涵盖其网络影响与公众形象。",
+      "detailsZh": "该条目为固定的人物百科资料页，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其常用的笔名变体、主要的创作风格特征（如讽刺、幽默或特定题材倾向），以及其在中文互联网社区中的影响力评估。此类资料通常由社区用户共同维护，旨在记录其职业生涯的关键节点和代表性作品。需注意，百科类内容可能存在滞后性或主观编辑痕迹，建议结合其他一手来源交叉验证。此页面作为基础档案库，用于快速了解该人物的基本轮廓，但不包含实时的动态更新或具体的事件报道。",
       "keyPoints": [
-        "收录常用笔名与创作风格概述",
-        "梳理作品传播路径与网络影响",
-        "包含身份推测等传闻内容"
+        "提供人物基础档案与笔名汇总",
+        "概述创作风格与网络影响力",
+        "属于静态资料库而非实时新闻"
       ],
       "category": "场外",
-      "importance": 5
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -267,16 +267,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论，是粉丝互动与信息获取的核心社区入口。",
-      "detailsZh": "此为固定的社交媒体社区入口，非单日新闻事件。该页面实时展示大咕咕咕鸡在新浪微博发布的最新动态、转发内容及评论区互动。事实层面记录了其账号活跃度与粉丝基数；评论层面反映了读者对其更新频率和内容的即时反馈；传闻层面偶尔夹杂关于其停更或回归的猜测。作为官方认证的超话，它是追踪其日常行踪最直接渠道，但需注意区分营销号搬运内容与本人真实发声。",
+      "titleZh": "微博超话动态聚合入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态、粉丝讨论及相关话题，是追踪其近期活动的主要渠道。",
+      "detailsZh": "此为微博平台的固定超话主页链接，用于集中展示大咕咕咕鸡在新浪微博上的公开言论、转发内容及粉丝互动情况。该页面具有持续更新的特性，记录了其社交媒体的活跃轨迹。通过此入口可获取第一手的发声记录，但需注意区分官方账号发布内容与粉丝二次创作或无关噪音。作为核心社交阵地，它反映了其在读者群体中的即时反馈与舆论风向，是研究其公众形象演变的重要数据源。由于微博内容的碎片化特征，需结合具体时间点进行筛选和分析。",
       "keyPoints": [
-        "聚合最新公开动态与转发",
-        "粉丝互动与评论实时汇总",
-        "存在营销号搬运需甄别"
+        "微博官方超话聚合页",
+        "追踪近期公开动态与粉丝互动",
+        "反映即时舆论风向"
       ],
       "category": "公开发言",
-      "importance": 4
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -286,32 +286,13 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站作品朗读与视频入口",
-      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡作品朗读音频、相关二创视频及历史讨论，是多媒体内容的主要载体。",
-      "detailsZh": "此为固定的视频平台搜索结果页，非特定新闻。页面展示了大量由用户上传的大咕咕咕鸡文字作品的有声朗读版本，以及基于其文本创作的鬼畜或解说视频。事实部分确认了其作品被广泛二次创作的现象；评论部分体现了听众对声音演绎的评价；传闻部分涉及对某些高播放量视频来源的争议。该入口主要服务于听觉消费与视觉娱乐需求，反映了其IP在年轻群体中的渗透力。",
+      "titleZh": "B站作品朗读与讨论聚合",
+      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡作品的有声朗读、相关视频评论及历史影像资料，侧重多媒体内容。",
+      "detailsZh": "该链接指向B站的搜索结果聚合页面，并非单一固定主页，而是基于关键词“大咕咕咕鸡”的动态检索结果。内容涵盖其文学作品被制作成音频朗读的视频、UP主相关的解说或吐槽视频，以及评论区形成的讨论生态。这反映了其作品在视频平台上的传播形态及受众接受度。由于是搜索结果页，内容随时间推移而变化，且包含大量第三方创作者的内容，需仔细甄别哪些是直接关联本人，哪些是衍生二创。此渠道展示了其跨媒介影响力的广度。",
       "keyPoints": [
-        "汇集作品有声朗读与二创视频",
-        "反映IP在年轻群体中的渗透力",
-        "存在视频来源争议传闻"
-      ],
-      "category": "作品",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道存档",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言生态的历史影响，具文献价值。",
-      "detailsZh": "这是一篇发布于2015年的历史深度报道，非近期新闻。文章详细分析了大咕咕咕鸡如何通过独特的解构主义语言风格影响当时的网络流行语。事实部分引用了其早期代表作及当时的社会反响；评论部分探讨了其写作手法对后续网络文学的启发；传闻部分提及当时媒体对其“天才”标签的追捧与质疑。尽管时间久远，但该报道是研究其早期职业生涯和网络文化变迁的重要史料，具有长期的参考价值。",
-      "keyPoints": [
-        "分析独特解构主义语言风格",
-        "探讨对网络流行语的历史影响",
-        "具早期职业生涯史料价值"
+        "B站关键词搜索聚合结果",
+        "包含作品朗读与衍生视频",
+        "体现跨媒介传播与受众反馈"
       ],
       "category": "讨论",
       "importance": 3
@@ -324,14 +305,35 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "领库账号数据资料",
+      "summaryZh": "领库平台提供的微博账号详细资料，包含传播数据、粉丝画像等量化指标，用于分析其商业价值与社会影响力。",
+      "detailsZh": "这是一个第三方数据服务平台（领库）生成的账号详情页，主要提供量化的社交媒体数据分析。内容包括粉丝数量增长趋势、互动率、传播层级等KOL（关键意见领袖）指标。这些数据有助于客观评估大咕咕咕鸡在微博平台上的实际触达能力和商业潜力。然而，第三方数据可能存在统计口径差异或延迟，且侧重于营销视角，未必完全反映其文学创作本身的质量或深度。使用时应将其视为辅助参考工具，而非对其创作成就的直接评价。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方平台账号量化数据",
+        "侧重传播效果与商业价值分析",
+        "数据可能存在统计偏差"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡早期的创作风格及其对网络语言环境的影响，具有史料价值。",
+      "detailsZh": "这是一篇发布于2015年的媒体深度报道，属于历史性文献而非当前动态。文章从媒体观察者的角度，分析了大咕咕咕鸡在当时的创作特点、语言风格以及对当时网络段子文化或流行语的影响。虽然时间较早，但对于理解其早期职业起点、风格形成背景以及在主流视野中的初次亮相具有重要参考价值。报道中可能包含记者的主观评论和对行业环境的解读，阅读时需区分事实陈述与媒体观点。该文可作为其职业生涯早期的重要注脚。",
+      "keyPoints": [
+        "2015年历史媒体报道",
+        "分析早期创作风格与语言影响",
+        "具备职业发展史料价值"
+      ],
+      "category": "讨论",
+      "importance": 3
     }
   ]
 }
