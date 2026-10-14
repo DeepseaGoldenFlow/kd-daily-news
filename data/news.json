@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T01:58:43.143Z",
+  "updatedAt": "2026-10-14T07:39:51.932Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
       "url": "https://voice.hupu.com/bbs/642875462",
       "source": "虎扑体育网",
-      "publishedAt": "2026-10-14T01:54:05.789Z",
+      "publishedAt": "2026-10-14T07:35:50.055Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +37,7 @@
       "title": "10月12日:火箭主帅兑现减少KD出场时间承诺,中国赛轮休杜兰特:商业赛已打一场 ",
       "url": "https://m.sohu.com/a/1086515353_122290482",
       "source": "搜狐网",
-      "publishedAt": "2026-10-14T01:54:05.789Z",
+      "publishedAt": "2026-10-14T07:35:50.055Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10月12日:火箭主帅兑现减少KD出场时间承诺,中国赛轮休杜兰特:商业赛已打一场 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -50,15 +50,32 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE93NV8ta0xqOVJLMHpZM20ySGZZVUVhcUlEbnVRTTgzV2pPR3NUVFNWN0Uyemo2R0pyd0YxX3U2dm1ST2dfVExBMWVXZw",
+      "id": "durant:CBMifEFVX3lxTE9NZ0d4cjFxOHIzeHRFc2VXTUtqbTQ4cFpwVllJMlJma1BIZkpMTk1KYnU3VWNMa0RkaDVYeDdRUThRNVBtZlBSMkR6dkVjS19OS0JJZ2s2dThHdm9EdTlORWF2a0Y2bG55Ulp2bkptUkhBbzZ1LUFiNTc3OUs",
+      "title": "杜兰特新赛季要超越科比，他给欧文提供帮助和鼓励，非常暖心",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NZ0d4cjFxOHIzeHRFc2VXTUtqbTQ4cFpwVllJMlJma1BIZkpMTk1KYnU3VWNMa0RkaDVYeDdRUThRNVBtZlBSMkR6dkVjS19OS0JJZ2s2dThHdm9EdTlORWF2a0Y2bG55Ulp2bkptUkhBbzZ1LUFiNTc3OUs?oc=5",
+      "source": "Sina Sports",
+      "publishedAt": "2026-10-14T06:34:14.000Z",
+      "description": "杜兰特新赛季要超越科比，他给欧文提供帮助和鼓励，非常暖心 Sina Sports",
+      "titleZh": "杜兰特新赛季要超越科比，他给欧文提供帮助和鼓励，非常暖心",
+      "summaryZh": "杜兰特新赛季要超越科比，他给欧文提供帮助和鼓励，非常暖心 Sina Sports",
+      "detailsZh": "杜兰特新赛季要超越科比，他给欧文提供帮助和鼓励，非常暖心 Sina Sports",
+      "keyPoints": [
+        "杜兰特新赛季要超越科比，他给欧文提供帮助和鼓励，非常暖心"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiTkFVX3lxTE5OM3hyNWdIR0NxYWY2SDdwb0JmdGEwUERUUGwxOE1zd0lXaTVrSGJFQnN6WmstYlFIOHdBdGtPVS1VemkyT2dLd0U5Sm84QQ",
       "title": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93NV8ta0xqOVJLMHpZM20ySGZZVUVhcUlEbnVRTTgzV2pPR3NUVFNWN0Uyemo2R0pyd0YxX3U2dm1ST2dfVExBMWVXZw?oc=5",
-      "source": "虎扑体育网",
-      "publishedAt": "2026-10-14T00:43:30.000Z",
-      "description": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑体育网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OM3hyNWdIR0NxYWY2SDdwb0JmdGEwUERUUGwxOE1zd0lXaTVrSGJFQnN6WmstYlFIOHdBdGtPVS1VemkyT2dLd0U5Sm84QQ?oc=5",
+      "source": "虎扑",
+      "publishedAt": "2026-10-14T01:03:47.000Z",
+      "description": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑",
       "titleZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字",
-      "summaryZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑体育网",
-      "detailsZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑体育网",
+      "summaryZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑",
+      "detailsZh": "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字 虎扑",
       "keyPoints": [
         "[流言板]火箭官方晒范弗利特与杜兰特合影：大家给这对组合取个名字"
       ],
@@ -67,17 +84,34 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiigJBVV95cUxORW1hcFROYW01YVpBbDEwbXZSM3Y3SmNDemxOYy1IeG5kNjJQMnpmX0Yxc3QwczlEaVZfNURkby1FWHMxZ0dNT1ppQWcwdlM5Qi1nYml4SDlHRzJwMFVoNU5wbmZQLTJVZlUtQVptQlkweXRDQ3Z4a2pWYjNLZlJ1SG1Qd1FCNVRRak5taWh4Uzc2c2JmSFhaSTdudXRTZ1RIYm9rSnpWeU1BN0t2dldfdVdmMkdLaDdGSmx0VFZWc1EwbkNrYXMxN2RIM1Z3QXFTUEU4RnVXT1MtU3NaMGZMaUFXWDJYMXM4bUNEb19kN0Rmb1ZTTFFnYzhEandkdlBHM05qODdZNVB1QQ",
+      "id": "durant:CBMiiwJBVV95cUxNYy1ZSkZSY3ZnUkFGM19aSzJqT1p2ZXVabVRNUGdDRU1CRWRFM21EU1ZLcXUwbGljWER2TWROX0ItNTM1YkE5U2hKUXFhdTlPd0gtWFJZUlRwWjhZNEphZmp5UjNsUjllb0ZRMTNBY1NrYklwdnRtcUdWeTdZdjN4Z29TMEgtU0l5OGdCOWpoYi1DaWxaS3lNVExjX0dORU8wSE11T0sxMVVQWTZuN0U0ZzFMVXU0TVdTcUFINGVkVnZjUkhENGxtUXN1VDRsaDN5MTRWcmhuMDVPZnhsd0tNdmZ1cGkxd3JaTDB4aWE5N0R2TkU4Z0xvTzFDdHZYYmhwVUhtb3Qwb2ZnUDA",
       "title": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORW1hcFROYW01YVpBbDEwbXZSM3Y3SmNDemxOYy1IeG5kNjJQMnpmX0Yxc3QwczlEaVZfNURkby1FWHMxZ0dNT1ppQWcwdlM5Qi1nYml4SDlHRzJwMFVoNU5wbmZQLTJVZlUtQVptQlkweXRDQ3Z4a2pWYjNLZlJ1SG1Qd1FCNVRRak5taWh4Uzc2c2JmSFhaSTdudXRTZ1RIYm9rSnpWeU1BN0t2dldfdVdmMkdLaDdGSmx0VFZWc1EwbkNrYXMxN2RIM1Z3QXFTUEU4RnVXT1MtU3NaMGZMaUFXWDJYMXM4bUNEb19kN0Rmb1ZTTFFnYzhEandkdlBHM05qODdZNVB1QQ?oc=5",
-      "source": "fox61.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYy1ZSkZSY3ZnUkFGM19aSzJqT1p2ZXVabVRNUGdDRU1CRWRFM21EU1ZLcXUwbGljWER2TWROX0ItNTM1YkE5U2hKUXFhdTlPd0gtWFJZUlRwWjhZNEphZmp5UjNsUjllb0ZRMTNBY1NrYklwdnRtcUdWeTdZdjN4Z29TMEgtU0l5OGdCOWpoYi1DaWxaS3lNVExjX0dORU8wSE11T0sxMVVQWTZuN0U0ZzFMVXU0TVdTcUFINGVkVnZjUkhENGxtUXN1VDRsaDN5MTRWcmhuMDVPZnhsd0tNdmZ1cGkxd3JaTDB4aWE5N0R2TkU4Z0xvTzFDdHZYYmhwVUhtb3Qwb2ZnUDA?oc=5",
+      "source": "KCENTV.com",
       "publishedAt": "2026-10-14T00:28:00.000Z",
-      "description": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build fox61.com",
+      "description": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build KCENTV.com",
       "titleZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build",
-      "summaryZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build fox61.com",
-      "detailsZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build fox61.com",
+      "summaryZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build KCENTV.com",
+      "detailsZh": "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build KCENTV.com",
       "keyPoints": [
         "Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMi3AlBVV95cUxNTHhPVVRNX3l1cWlJeWtOcHhmQ1JQbmJwTG53WEozcE1tSk83b3NlaXduSGpzVlZ0dlNkOGtyVnQzVkxqa2tnUGUzN2VYUFBKMmlfeU1SLTlJajl2RUtIZktUdVdBQk1wOWJJNks5MkQwUWk2VER3R0Rram03dFBsVVRNMWZxTHhNMjJtR1pIVUp4aml6RU9QSUNjWHVaNHJNSEl6MFlxeXRiOE9yeWVuMjRMX09CemVucDJqNFAzenB0cmpWYmU2dXVOeU52bjZFckJ5VlR0ektybDdGNHFldVo1d24zRmZqTzk2Ny12eUxJZVAtU3Y4MUVNWVZuUjdLVF95WF9OTW9iWUxDNDBhWXVsOHhYcGhfYmVYc0FybHZJZno0Y1Y3SkJZb3NESkRaNldnUEt3NWpBYWVCWmpPRFpPc2lWNkdEMF9Ca2F6Nko0UjY1cVNlVDYySlNWb2Z4VUtCeDJ1dW9NQVozdjFnOWlpbGQzUnZwdGxiaVR6MlB3N0xkbGpCRzJWSHZJcE9vbEpWYTBoZlF3MlFCYmVvSEI3WnpJLUZzRTJwWm9ldkwwQW5kVm9UOWs3UnJJZ2ZRM295MFpHQUxKNml0UnU2eW5WbENRTDdQcTU0dkMxeG11NXJaWEJDaVd4UjFYRzVzZjV2Rm9mcmlYOWRGNWF3LW1mZGw0TnMtdWFMdTl5Y1NMOUlyRmwzS0czZm9HaUhyNGhjSDhHdlRlN2M1X3V2ZUlhczB4cGZBdjlLSGZMekJ6R3puRU9hVUI4NjdnMXlFdWhlc0RvYWEtckVSV2lDZmFLOHBGMFA4d09yS283N2pTTVkzLVpYUkxDSnFIZ0NNOVZYbW1DRWVfTzhwNnRUdlhUZmVEb29yZnk2Nm40RXp4T0xqOGFNaHBDUHgzZUd2YVREMTd0cDBjTXRrbzFJcVBPMGktUnlKZ3lvYUx5NUQzWXRtckNaakRDWjBmTlJnY29KMXNnQ2F4RngzbWxqcHd4b0ZXREp2S0luMV9KS1lkSTFMUzhYWWhwZXN4aGZkWXUteEdvc0xBUFJ1aVE5TWQ5cFo0TlV1eVE3WlFEeDhuMlZXby0zQ1JHOVRrZ3M2QWxLbTBYb1ZWN2xobTZoWURLT1dLaEFSdW9zWmMzV3R0WmlXazFZUERJbGxST3lhbTdNTkZUQVJuXzY0UFFvRUNQLXNWOWVMdWRPSnZPQU8wSFYySFJEMzI2NEltM3R1cTQ4U2FvUVJJeEVXbi1fUy0xQjQyaGlFOENWZU1rZ2pWTXZscnA4cnVzRFlMVDRNdTlxQ3FQZlZRbU5GX29aSk9LZ08tbzdTLUdOVFQtQjR0cXNYMUo1bzEteW1uTUZ6UnpmNWp4Nl9xaXRxUmtnVG5pUHF3Wk5BeDdQcm41QVNGRmthZXpIbmtOQkFJdTNDdllwbTdzN3RDMDlwTjUxU0hBcGdUTEtwM3ZZTmZ3RS1feEw4VndTdGozVTlwRGhQLVBaaDNnSy1wbVREUm5vQ2ZlQmd5U2FOQzRja1dsZmVtenJVZHo5RXItRzNzUEw4YTI0NFYzajBhT1hwR3ZkRlF3S2tUSDJtbmh0V28ybEdZSDU0S3lZanpWZW1uaXhsSk9oWU90YTh0dlp6TElPekhQa1VfNVBvNVE0dw",
+      "title": "Rockets' Kevin Durant game-time decision for Game 2",
+      "url": "https://news.google.com/rss/articles/CBMi3AlBVV95cUxNTHhPVVRNX3l1cWlJeWtOcHhmQ1JQbmJwTG53WEozcE1tSk83b3NlaXduSGpzVlZ0dlNkOGtyVnQzVkxqa2tnUGUzN2VYUFBKMmlfeU1SLTlJajl2RUtIZktUdVdBQk1wOWJJNks5MkQwUWk2VER3R0Rram03dFBsVVRNMWZxTHhNMjJtR1pIVUp4aml6RU9QSUNjWHVaNHJNSEl6MFlxeXRiOE9yeWVuMjRMX09CemVucDJqNFAzenB0cmpWYmU2dXVOeU52bjZFckJ5VlR0ektybDdGNHFldVo1d24zRmZqTzk2Ny12eUxJZVAtU3Y4MUVNWVZuUjdLVF95WF9OTW9iWUxDNDBhWXVsOHhYcGhfYmVYc0FybHZJZno0Y1Y3SkJZb3NESkRaNldnUEt3NWpBYWVCWmpPRFpPc2lWNkdEMF9Ca2F6Nko0UjY1cVNlVDYySlNWb2Z4VUtCeDJ1dW9NQVozdjFnOWlpbGQzUnZwdGxiaVR6MlB3N0xkbGpCRzJWSHZJcE9vbEpWYTBoZlF3MlFCYmVvSEI3WnpJLUZzRTJwWm9ldkwwQW5kVm9UOWs3UnJJZ2ZRM295MFpHQUxKNml0UnU2eW5WbENRTDdQcTU0dkMxeG11NXJaWEJDaVd4UjFYRzVzZjV2Rm9mcmlYOWRGNWF3LW1mZGw0TnMtdWFMdTl5Y1NMOUlyRmwzS0czZm9HaUhyNGhjSDhHdlRlN2M1X3V2ZUlhczB4cGZBdjlLSGZMekJ6R3puRU9hVUI4NjdnMXlFdWhlc0RvYWEtckVSV2lDZmFLOHBGMFA4d09yS283N2pTTVkzLVpYUkxDSnFIZ0NNOVZYbW1DRWVfTzhwNnRUdlhUZmVEb29yZnk2Nm40RXp4T0xqOGFNaHBDUHgzZUd2YVREMTd0cDBjTXRrbzFJcVBPMGktUnlKZ3lvYUx5NUQzWXRtckNaakRDWjBmTlJnY29KMXNnQ2F4RngzbWxqcHd4b0ZXREp2S0luMV9KS1lkSTFMUzhYWWhwZXN4aGZkWXUteEdvc0xBUFJ1aVE5TWQ5cFo0TlV1eVE3WlFEeDhuMlZXby0zQ1JHOVRrZ3M2QWxLbTBYb1ZWN2xobTZoWURLT1dLaEFSdW9zWmMzV3R0WmlXazFZUERJbGxST3lhbTdNTkZUQVJuXzY0UFFvRUNQLXNWOWVMdWRPSnZPQU8wSFYySFJEMzI2NEltM3R1cTQ4U2FvUVJJeEVXbi1fUy0xQjQyaGlFOENWZU1rZ2pWTXZscnA4cnVzRFlMVDRNdTlxQ3FQZlZRbU5GX29aSk9LZ08tbzdTLUdOVFQtQjR0cXNYMUo1bzEteW1uTUZ6UnpmNWp4Nl9xaXRxUmtnVG5pUHF3Wk5BeDdQcm41QVNGRmthZXpIbmtOQkFJdTNDdllwbTdzN3RDMDlwTjUxU0hBcGdUTEtwM3ZZTmZ3RS1feEw4VndTdGozVTlwRGhQLVBaaDNnSy1wbVREUm5vQ2ZlQmd5U2FOQzRja1dsZmVtenJVZHo5RXItRzNzUEw4YTI0NFYzajBhT1hwR3ZkRlF3S2tUSDJtbmh0V28ybEdZSDU0S3lZanpWZW1uaXhsSk9oWU90YTh0dlp6TElPekhQa1VfNVBvNVE0dw?oc=5",
+      "source": "ABC7 Los Angeles",
+      "publishedAt": "2026-10-13T23:09:06.000Z",
+      "description": "Rockets' Kevin Durant game-time decision for Game 2 ABC7 Los Angeles",
+      "titleZh": "Rockets' Kevin Durant game-time decision for Game 2",
+      "summaryZh": "Rockets' Kevin Durant game-time decision for Game 2 ABC7 Los Angeles",
+      "detailsZh": "Rockets' Kevin Durant game-time decision for Game 2 ABC7 Los Angeles",
+      "keyPoints": [
+        "Rockets' Kevin Durant game-time decision for Game 2"
       ],
       "category": "场外",
       "importance": 3
@@ -117,38 +151,21 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMiV0FVX3lxTE41RlNDZFpJWjQ3S1dxOEpoQ01MOXJDczNKWEh1NHFRdEpURE5OUWxYU2twUC1VQXdhQlVmQ3FPZ1VOT3NGX2d6X1ZIcHpBcWhHUW9ZSC1TNA",
-      "title": "CBS新赛季球员榜：杜兰特位列第15",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41RlNDZFpJWjQ3S1dxOEpoQ01MOXJDczNKWEh1NHFRdEpURE5OUWxYU2twUC1VQXdhQlVmQ3FPZ1VOT3NGX2d6X1ZIcHpBcWhHUW9ZSC1TNA?oc=5",
-      "source": "懂球帝",
-      "publishedAt": "2026-10-13T20:46:00.000Z",
-      "description": "CBS新赛季球员榜：杜兰特位列第15 懂球帝",
-      "titleZh": "CBS新赛季球员榜：杜兰特位列第15",
-      "summaryZh": "CBS新赛季球员榜：杜兰特位列第15 懂球帝",
-      "detailsZh": "CBS新赛季球员榜：杜兰特位列第15 懂球帝",
+      "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ",
+      "title": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-05T12:49:00.000Z",
+      "description": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
+      "titleZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢",
+      "summaryZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
+      "detailsZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
       "keyPoints": [
-        "CBS新赛季球员榜：杜兰特位列第15"
+        "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiV0FVX3lxTE0yWWFCNkVUMy1JWnlqcUctdTltRGVoSWRBc1RTeXpPd3NjanlSNUkzWUZxdUdqei1vV24ycEU5OXdOakVFcTdMVnd3UE5pNEJBUE44WE5MSQ",
-      "title": "尼克-杨：在夜店偶遇杜兰特，他对我有点生气",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yWWFCNkVUMy1JWnlqcUctdTltRGVoSWRBc1RTeXpPd3NjanlSNUkzWUZxdUdqei1vV24ycEU5OXdOakVFcTdMVnd3UE5pNEJBUE44WE5MSQ?oc=5",
-      "source": "懂球帝",
-      "publishedAt": "2026-10-13T20:31:00.000Z",
-      "description": "尼克-杨：在夜店偶遇杜兰特，他对我有点生气 懂球帝",
-      "titleZh": "尼克-杨：在夜店偶遇杜兰特，他对我有点生气",
-      "summaryZh": "尼克-杨：在夜店偶遇杜兰特，他对我有点生气 懂球帝",
-      "detailsZh": "尼克-杨：在夜店偶遇杜兰特，他对我有点生气 懂球帝",
-      "keyPoints": [
-        "尼克-杨：在夜店偶遇杜兰特，他对我有点生气"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "chenze:chenze-douyin-live",
@@ -184,7 +201,7 @@
         "哔哩哔哩陈泽相关视频"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "chenze:chenze-sina-20260813",
@@ -231,16 +248,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格及网络影响。该页面作为人物背景资料的聚合入口，提供关于其身份与作品的客观记录。",
-      "detailsZh": "此条目为固定的人物资料索引，非时效性新闻。内容主要梳理了“大咕咕咕鸡”作为网络写手的身份背景，包括其常用的笔名变体、主要的创作领域以及在中文互联网社区中的影响力评估。事实部分记录了其在各大平台的存在痕迹；评论部分涉及对其写作风格的学术性或媒体评价；传闻部分则可能包含对其真实身份或过往经历的未证实讨论。该页面旨在为用户提供一站式的基础信息检索，确保读者能快速了解该人物的基本轮廓。",
+      "titleZh": "维基百科人物资料入口",
+      "summaryZh": "提供大咕咕咕鸡的常用笔名、创作风格及作品背景资料，是了解其网络影响的基础信息聚合页。",
+      "detailsZh": "该条目为固定的人物资料索引页面，非当日新闻。内容涵盖大咕咕咕鸡作为网络写手的身份界定，梳理了其从早期网络段子手到知名创作者的转变过程。事实部分记录了其主要活跃平台与代表作的传播路径；评论部分涉及对其幽默讽刺风格的文学性评价；传闻部分则包括关于其匿名身份的推测。此页面旨在为用户提供结构化的背景知识，便于快速检索其生平与创作脉络，不具备时效性新闻特征。",
       "keyPoints": [
-        "提供人物基础背景与笔名汇总",
-        "记录创作风格与网络影响力",
-        "作为固定资料入口而非动态新闻"
+        "收录常用笔名与创作风格概述",
+        "梳理作品传播路径与网络影响",
+        "包含身份推测等传闻内容"
       ],
-      "category": "作品",
-      "importance": 3
+      "category": "场外",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -250,15 +267,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博上的大咕咕咕鸡专属超话页面，是粉丝互动、公开动态发布及读者讨论的核心聚集地。该链接指向固定的社区主页，用于追踪最新相关话题。",
-      "detailsZh": "这是大咕咕咕鸡在微博平台上的官方或半官方社区入口（超话），属于固定主页性质。事实层面，它汇集了与该ID相关的公开博文、转发及评论数据；评论层面反映了粉丝群体的活跃度和对内容的反馈倾向；传闻层面则可能夹杂读者对其私生活或创作内幕的猜测。由于微博内容的实时性和碎片化特征，该页面更多作为动态信息的容器，而非单一事件的报道。用户可通过此链接查看历史归档和最新热点，是监测其公开社交行为的重要渠道。",
+      "titleZh": "微博超话动态入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论，是粉丝互动与信息获取的核心社区入口。",
+      "detailsZh": "此为固定的社交媒体社区入口，非单日新闻事件。该页面实时展示大咕咕咕鸡在新浪微博发布的最新动态、转发内容及评论区互动。事实层面记录了其账号活跃度与粉丝基数；评论层面反映了读者对其更新频率和内容的即时反馈；传闻层面偶尔夹杂关于其停更或回归的猜测。作为官方认证的超话，它是追踪其日常行踪最直接渠道，但需注意区分营销号搬运内容与本人真实发声。",
       "keyPoints": [
-        "微博平台核心粉丝互动社区",
-        "汇集公开动态与读者讨论",
-        "具有固定主页属性，非单日新闻"
+        "聚合最新公开动态与转发",
+        "粉丝互动与评论实时汇总",
+        "存在营销号搬运需甄别"
       ],
-      "category": "讨论",
+      "category": "公开发言",
       "importance": 4
     },
     {
@@ -269,13 +286,13 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频聚合搜索",
-      "summaryZh": "哔哩哔哩平台针对“大咕咕咕鸡”关键词的视频搜索结果页，聚合了其作品朗读、相关二创视频及历史讨论。此为动态搜索结果，非固定个人主页。",
-      "detailsZh": "该链接指向B站的通用搜索结果，而非作者本人的认证主页，因此内容庞杂且动态变化。事实部分包括用户上传的作品朗读音频、剧情解说视频及官方发布的预告；评论部分涉及UP主对内容的解读及弹幕互动氛围；传闻部分则可能混杂未经核实的角色关系推测或作者近况流言。由于是搜索结果，其中可能包含同名无关内容或低质量搬运，需仔细甄别。该页面主要用于视听内容的检索与回顾，是了解其作品多媒体呈现形式的重要窗口。",
+      "titleZh": "B站作品朗读与视频入口",
+      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡作品朗读音频、相关二创视频及历史讨论，是多媒体内容的主要载体。",
+      "detailsZh": "此为固定的视频平台搜索结果页，非特定新闻。页面展示了大量由用户上传的大咕咕咕鸡文字作品的有声朗读版本，以及基于其文本创作的鬼畜或解说视频。事实部分确认了其作品被广泛二次创作的现象；评论部分体现了听众对声音演绎的评价；传闻部分涉及对某些高播放量视频来源的争议。该入口主要服务于听觉消费与视觉娱乐需求，反映了其IP在年轻群体中的渗透力。",
       "keyPoints": [
-        "B站视频内容与朗读资源聚合",
-        "搜索结果页，内容动态且需甄别",
-        "包含二创视频与读者互动弹幕"
+        "汇集作品有声朗读与二创视频",
+        "反映IP在年轻群体中的渗透力",
+        "存在视频来源争议传闻"
       ],
       "category": "作品",
       "importance": 3
@@ -288,16 +305,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
-      "summaryZh": "2015年界面新闻发表的历史深度报道，分析大咕咕咕鸡的创作风格及其对网络语言生态的影响。这是一篇具有时效性的媒体评论文章，反映当时的舆论视角。",
-      "detailsZh": "这是一篇发布于2015年的媒体特稿，具有较高的史料价值。事实部分记录了当时大咕咕咕鸡在网络上引发的关注现象及其代表性作品片段；评论部分由记者撰写，深入剖析了其幽默讽刺的文风如何契合当时的网络语境，并探讨了其对流行语生成的贡献；传闻部分较少，但可能引用了当时网友对其身份的猜测。该文章代表了主流媒体对该网络写手早期影响力的认可与记录，有助于理解其职业生涯的关键节点及社会文化意义。",
+      "titleZh": "界面新闻深度报道存档",
+      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言生态的历史影响，具文献价值。",
+      "detailsZh": "这是一篇发布于2015年的历史深度报道，非近期新闻。文章详细分析了大咕咕咕鸡如何通过独特的解构主义语言风格影响当时的网络流行语。事实部分引用了其早期代表作及当时的社会反响；评论部分探讨了其写作手法对后续网络文学的启发；传闻部分提及当时媒体对其“天才”标签的追捧与质疑。尽管时间久远，但该报道是研究其早期职业生涯和网络文化变迁的重要史料，具有长期的参考价值。",
       "keyPoints": [
-        "2015年媒体深度报道",
-        "分析创作风格与网络语言影响",
-        "反映早期公众认知与媒体评价"
+        "分析独特解构主义语言风格",
+        "探讨对网络流行语的历史影响",
+        "具早期职业生涯史料价值"
       ],
-      "category": "公开发言",
-      "importance": 4
+      "category": "讨论",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-kol-profile",
