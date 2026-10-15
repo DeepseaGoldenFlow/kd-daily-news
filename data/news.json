@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:23:53.566Z",
+  "updatedAt": "2026-10-15T23:44:47.144Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,114 +16,34 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMickFVX3lxTFBpN3QydTJUNjREWWxEVXJFNDZlSHhBYzhqY2dndHotb0p5eklES3FuVWVTemRidTRxSGdCbEFyNHpVZ0IydXpHalVxR01TUGlXalFuNGlvdjBoM1YzTmRMUktTelBhdWp6dy1abGF2b3JFZw",
-      "title": "10月16日NBA看点：杜兰特会面老东家雷霆，尼克斯冲季前赛首胜",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpN3QydTJUNjREWWxEVXJFNDZlSHhBYzhqY2dndHotb0p5eklES3FuVWVTemRidTRxSGdCbEFyNHpVZ0IydXpHalVxR01TUGlXalFuNGlvdjBoM1YzTmRMUktTelBhdWp6dy1abGF2b3JFZw?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-15T15:49:00.000Z",
-      "description": "10月16日NBA看点：杜兰特会面老东家雷霆，尼克斯冲季前赛首胜 新浪网",
-      "titleZh": "杜兰特会面老东家雷霆，尼克斯冲季前赛首胜",
-      "summaryZh": "2026年10月16日NBA看点显示，凯文·杜兰特将与其老东家俄克拉荷马城雷霆队进行会面。与此同时，纽约尼克斯队将在该日的比赛中争取季前赛的首场胜利。",
-      "detailsZh": "根据新浪网报道的2026年10月16日NBA赛事前瞻，焦点事件之一是凯文·杜兰特与俄克拉荷马城雷霆队的会面。作为雷霆队曾经的当家球星和选秀状元，杜兰特的回归或互动具有极高的关注度，这通常涉及球迷互动、商业活动或球队历史回顾。此外，同日纽约尼克斯队将在季前赛中出战，目标是取得赛季首场胜利。此信息属于常规赛事预告范畴，反映了杜兰特在休赛期或新赛季初期的公开行程及联盟内的其他动态。",
-      "keyPoints": [
-        "杜兰特将于10月16日会面老东家雷霆队",
-        "此次会面为2026-27赛季前的公开活动",
-        "同日尼克斯队力争季前赛首胜",
-        "事件属于常规赛事前瞻内容"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiV0FVX3lxTFBGMnJKLUJ3c2NxaExGRk5oNUZybnlIYjZEVDVPN2FQakpoeHVlS2toVGdMNlVpZnFfUkY4c1VLS3lsRVRVX1BZQ0U4Y1o1WnRpb0E2NE9iSQ",
-      "title": "Flashscore百大球员榜：杜兰特列第十",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGMnJKLUJ3c2NxaExGRk5oNUZybnlIYjZEVDVPN2FQakpoeHVlS2toVGdMNlVpZnFfUkY4c1VLS3lsRVRVX1BZQ0U4Y1o1WnRpb0E2NE9iSQ?oc=5",
-      "source": "懂球帝",
-      "publishedAt": "2026-10-15T17:27:00.000Z",
-      "description": "Flashscore百大球员榜：杜兰特列第十 懂球帝",
-      "titleZh": "Flashscore百大球员榜：杜兰特列第十",
-      "summaryZh": "体育数据平台Flashscore发布最新百大球员榜单，凯文·杜兰特凭借过往成就及当前状态位列第十名，展现了其在联盟中的持续影响力。",
-      "detailsZh": "据懂球帝转引Flashscore的数据，在2026-27赛季前夕发布的百大球员排行榜中，凯文·杜兰特高居第十位。这一排名不仅基于他当前的竞技状态，也综合考虑了其职业生涯的历史地位和技术特点。作为NBA历史上最高效的得分手之一，杜兰特即便在生涯后期，其篮球智商和投射能力仍使其稳居顶级行列。该榜单由专业数据机构评估，具有较高的参考价值，反映了媒体和专家对杜兰特当前价值的认可。",
-      "keyPoints": [
-        "Flashscore发布百大球员榜单",
-        "杜兰特排名第十位",
-        "排名综合考量历史成就与当前状态",
-        "体现杜兰特持续的顶级竞争力"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMinwJBVV95cUxOcGJNbTc5dkFQLXZCd0Mwd00tSjdGdDdST0tXOEFoR05CNXJub0lYTVpWVGloYVl4WVNtbHBaUE1Oa2cyY05tY3VzbXFMZmFRUnM1bUEzalZkOVU3Vl9fYXJhMXQ5T3dpSU90RmlvcUQ3TTdhNUtkR0FqcW9ncEZoeFdCNDE4MVFMQ1dWMlp6bGZvSThoSXlaU1A3bHVLZmtSWXlVXy1mUUpUa3BBamkwdm1FWk53U1VHcHdpS2JQZ2R1eTJvU0ZSb2VjZUJCNVByaF9jS2xaMHdUbDd2YzRqZnlwWmlZZnNPR2hZVzI0OEJrakxQMXk5RGFvczh5bjhlUEJKUHNoZVk5Vk05YWJUSC11NUoyOHBlYi15SlhVRQ",
-      "title": "LEGACY: Can Kevin Durant DEFY Doubters And LEAD The Rockets To NBA Finals This Season?",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOcGJNbTc5dkFQLXZCd0Mwd00tSjdGdDdST0tXOEFoR05CNXJub0lYTVpWVGloYVl4WVNtbHBaUE1Oa2cyY05tY3VzbXFMZmFRUnM1bUEzalZkOVU3Vl9fYXJhMXQ5T3dpSU90RmlvcUQ3TTdhNUtkR0FqcW9ncEZoeFdCNDE4MVFMQ1dWMlp6bGZvSThoSXlaU1A3bHVLZmtSWXlVXy1mUUpUa3BBamkwdm1FWk53U1VHcHdpS2JQZ2R1eTJvU0ZSb2VjZUJCNVByaF9jS2xaMHdUbDd2YzRqZnlwWmlZZnNPR2hZVzI0OEJrakxQMXk5RGFvczh5bjhlUEJKUHNoZVk5Vk05YWJUSC11NUoyOHBlYi15SlhVRQ?oc=5",
-      "source": "ABC10",
-      "publishedAt": "2026-10-15T13:49:00.000Z",
-      "description": "LEGACY: Can Kevin Durant DEFY Doubters And LEAD The Rockets To NBA Finals This Season? ABC10",
-      "titleZh": "分析：杜兰特能否带领火箭队闯入总决赛？",
-      "summaryZh": "ABC10发表文章探讨凯文·杜兰特加盟休斯顿火箭队后的前景，质疑者认为他能否克服外界怀疑并引领球队打入NBA总决赛。",
-      "detailsZh": "ABC10网站刊登了一篇关于凯文·杜兰特职业生涯新篇章的深度分析文章。文章聚焦于杜兰特加入休斯顿火箭队后的表现预期，标题暗示了围绕他的争议与挑战。作者探讨了杜兰特是否能“ defy doubters”（反驳怀疑论者），即证明自己的领导力和夺冠实力。文章分析了火箭队的阵容配置以及杜兰特在其中扮演的核心角色，指出这是检验其历史地位的关键时刻。此类评论性内容反映了媒体对杜兰特新东家战绩的高期待与潜在担忧并存的态度。",
-      "keyPoints": [
-        "文章探讨杜兰特带领火箭的前景",
-        "重点在于反驳外界对其能力的怀疑",
-        "分析其领导力和夺冠可能性",
-        "反映媒体对火箭队争冠的期待"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMixgFBVV95cUxPVWU5amd2TUxsWi1IdExUU2FNeEROM3VrZ2o0N1pjRWRwZVZRTUFlYWtrYngxa3E0ZldwYm1jQnFjLUNmT2lGbGN5aXlIWjc4TzZ6cGU4Zm51Nlg2MDdvMm94WGNjbWRKYXhna1BRMTZnbTJEenpfb2ZnOF9PS3FiclNYTk1SdjRieUtoalkxVVZQQTVXOVJVNHdULW9XNkhqbWlDZkVIaU83SzUwckpPenFMT0lRazBMbXROTU9adERncmFtQ1E",
-      "title": "Kevin Durant listed among NBA's top-5 shooters ahead of 2026-27 season",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWU5amd2TUxsWi1IdExUU2FNeEROM3VrZ2o0N1pjRWRwZVZRTUFlYWtrYngxa3E0ZldwYm1jQnFjLUNmT2lGbGN5aXlIWjc4TzZ6cGU4Zm51Nlg2MDdvMm94WGNjbWRKYXhna1BRMTZnbTJEenpfb2ZnOF9PS3FiclNYTk1SdjRieUtoalkxVVZQQTVXOVJVNHdULW9XNkhqbWlDZkVIaU83SzUwckpPenFMT0lRazBMbXROTU9adERncmFtQ1E?oc=5",
-      "source": "Rockets Wire",
-      "publishedAt": "2026-10-15T14:01:00.000Z",
-      "description": "Kevin Durant listed among NBA's top-5 shooters ahead of 2026-27 season Rockets Wire",
-      "titleZh": "杜兰特入选2026-27赛季NBA前五射手名单",
-      "summaryZh": "Rockets Wire报道，在2026-27赛季开始前，凯文·杜兰特被评选为NBA联盟中前五名的投篮高手，彰显其卓越的投射能力。",
-      "detailsZh": "据Rockets Wire报道，随着2026-27赛季临近，多家媒体和数据机构对球员特长进行了盘点。凯文·杜兰特因其无解的中远距离投篮能力和高效的三分命中率，被列入NBA最佳射手前五名。这一荣誉是对杜兰特技术全面性的肯定，尤其是在进攻端的空间拉扯能力。尽管年龄增长可能影响爆发力，但其投篮手感依然保持在联盟顶尖水平，这使得他在任何体系中都是极具威胁的进攻终结点。",
-      "keyPoints": [
-        "杜兰特入选NBA前五射手",
-        "基于2026-27赛季前的评估",
-        "肯定其卓越的投篮技术和效率",
-        "体现其作为空间型巨星的战术价值"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:search:https://m.sohu.com/a/1087546085_122476657",
-      "title": "10月14日:杜兰特少打145场,距科比仅差1046分,再打42场即可超越 ",
-      "url": "https://m.sohu.com/a/1087546085_122476657",
+      "id": "durant:search:https://www.sohu.com/a/1088362338_121606710",
+      "title": "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖",
+      "url": "https://www.sohu.com/a/1088362338_121606710",
       "source": "搜狐网",
-      "publishedAt": "2026-10-15T20:20:28.291Z",
+      "publishedAt": "2026-10-15T23:41:20.220Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10月14日:杜兰特少打145场,距科比仅差1046分,再打42场即可超越 ",
+      "titleZh": "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "10月14日:杜兰特少打145场,距科比仅差1046分,再打42场即可超越 "
+        "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:search:http://wap.article.ac156.com/qvknews/1015/647600.shtml",
-      "title": "杜兰特降薪3000万续约火箭,夺冠概率却跌到1.5% - 爱车轿车托运",
-      "url": "http://wap.article.ac156.com/qvknews/1015/647600.shtml",
-      "source": "爱车轿车托运",
-      "publishedAt": "2026-10-15T20:20:28.291Z",
+      "id": "durant:search:https://k.sina.cn/article_7347732383_1b5f57f9f001019cvo.html",
+      "title": "10月16日NBA看点:杜兰特会面老东家雷霆,尼克斯冲季前赛首胜 ",
+      "url": "https://k.sina.cn/article_7347732383_1b5f57f9f001019cvo.html",
+      "source": "无",
+      "publishedAt": "2026-10-15T23:41:20.220Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "杜兰特降薪3000万续约火箭,夺冠概率却跌到1.5% - 爱车轿车托运",
+      "titleZh": "10月16日NBA看点:杜兰特会面老东家雷霆,尼克斯冲季前赛首胜 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "杜兰特降薪3000万续约火箭,夺冠概率却跌到1.5% - 爱车轿车托运"
+        "10月16日NBA看点:杜兰特会面老东家雷霆,尼克斯冲季前赛首胜 "
       ],
       "category": "场外",
       "importance": 4
@@ -134,7 +54,7 @@
       "title": "凯文·杜兰特",
       "url": "https://baike.baidu.com/item/凯文·杜兰特/3726277",
       "source": "百度百科",
-      "publishedAt": "2026-10-15T20:20:28.291Z",
+      "publishedAt": "2026-10-15T23:41:20.220Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "凯文·杜兰特",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -147,34 +67,102 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiV0FVX3lxTFBMRlJyeF9uMUxhREZtYVpSaDJHa0Ywc0ZKa0pORjlPZEFzMFJqSzJkeTI4MG90cTRDWXFzOXc1eUtXMC1uVmJjcnZZWEFSelAtRG4zcUlfbw",
-      "title": "独行侠解说：弗拉格学习杜兰特再好不过",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMRlJyeF9uMUxhREZtYVpSaDJHa0Ywc0ZKa0pORjlPZEFzMFJqSzJkeTI4MG90cTRDWXFzOXc1eUtXMC1uVmJjcnZZWEFSelAtRG4zcUlfbw?oc=5",
-      "source": "懂球帝",
-      "publishedAt": "2026-10-15T14:27:00.000Z",
-      "description": "独行侠解说：弗拉格学习杜兰特再好不过 懂球帝",
-      "titleZh": "独行侠解说：弗拉格学习杜兰特再好不过",
-      "summaryZh": "独行侠解说：弗拉格学习杜兰特再好不过 懂球帝",
-      "detailsZh": "独行侠解说：弗拉格学习杜兰特再好不过 懂球帝",
+      "id": "durant:search:https://www.sohu.com/a/1088323125_122340867",
+      "title": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更",
+      "url": "https://www.sohu.com/a/1088323125_122340867",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-15T23:41:20.220Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "独行侠解说：弗拉格学习杜兰特再好不过"
+        "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMilAFBVV95cUxPclVRcVgtT1NHS3FmZ2pnMl8zTzhqeGVhVVVNVEIyejBSU2xrZkpsaGVZd2UtbTBPbTMwV2RGaDljcWM2elFReEg1M0s0eGJtd09tRW1Qcy1GeEZNZjB1ZG4tR1hCMl80b0JPdXpXMGt3NHlxOWhkS0hUb0FpdFdRcUR6RVBNQjJ4SGhwZi1GSGhVSTRC",
+      "title": "Kevin Durant News: Good to go Thursday",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPclVRcVgtT1NHS3FmZ2pnMl8zTzhqeGVhVVVNVEIyejBSU2xrZkpsaGVZd2UtbTBPbTMwV2RGaDljcWM2elFReEg1M0s0eGJtd09tRW1Qcy1GeEZNZjB1ZG4tR1hCMl80b0JPdXpXMGt3NHlxOWhkS0hUb0FpdFdRcUR6RVBNQjJ4SGhwZi1GSGhVSTRC?oc=5",
+      "source": "RotoWire",
+      "publishedAt": "2026-10-15T22:54:44.000Z",
+      "description": "Kevin Durant News: Good to go Thursday RotoWire",
+      "titleZh": "Kevin Durant News: Good to go Thursday",
+      "summaryZh": "Kevin Durant News: Good to go Thursday RotoWire",
+      "detailsZh": "Kevin Durant News: Good to go Thursday RotoWire",
+      "keyPoints": [
+        "Kevin Durant News: Good to go Thursday"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiV0FVX3lxTE5HZEdiYUh4WlpUV1N6bVl3NDFyT0Z4cm1HbEtVT3VxRGZZTGFpeDJIUGdkUVNSeWIyT2JpSFA3VndITGYxa0dyZ3pyb0N6cGItaTYxc0JoTQ",
+      "title": "火箭会交易杜兰特吗？多方认为本赛季不太可能",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HZEdiYUh4WlpUV1N6bVl3NDFyT0Z4cm1HbEtVT3VxRGZZTGFpeDJIUGdkUVNSeWIyT2JpSFA3VndITGYxa0dyZ3pyb0N6cGItaTYxc0JoTQ?oc=5",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-15T18:04:00.000Z",
+      "description": "火箭会交易杜兰特吗？多方认为本赛季不太可能 懂球帝",
+      "titleZh": "火箭会交易杜兰特吗？多方认为本赛季不太可能",
+      "summaryZh": "火箭会交易杜兰特吗？多方认为本赛季不太可能 懂球帝",
+      "detailsZh": "火箭会交易杜兰特吗？多方认为本赛季不太可能 懂球帝",
+      "keyPoints": [
+        "火箭会交易杜兰特吗？多方认为本赛季不太可能"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiV0FVX3lxTFBGMnJKLUJ3c2NxaExGRk5oNUZybnlIYjZEVDVPN2FQakpoeHVlS2toVGdMNlVpZnFfUkY4c1VLS3lsRVRVX1BZQ0U4Y1o1WnRpb0E2NE9iSQ",
+      "title": "Flashscore百大球员榜：杜兰特列第十",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGMnJKLUJ3c2NxaExGRk5oNUZybnlIYjZEVDVPN2FQakpoeHVlS2toVGdMNlVpZnFfUkY4c1VLS3lsRVRVX1BZQ0U4Y1o1WnRpb0E2NE9iSQ?oc=5",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-15T17:27:00.000Z",
+      "description": "Flashscore百大球员榜：杜兰特列第十 懂球帝",
+      "titleZh": "Flashscore百大球员榜：杜兰特列第十",
+      "summaryZh": "Flashscore百大球员榜：杜兰特列第十 懂球帝",
+      "detailsZh": "Flashscore百大球员榜：杜兰特列第十 懂球帝",
+      "keyPoints": [
+        "Flashscore百大球员榜：杜兰特列第十"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiY0FVX3lxTE53ZHpaMGJLeDZPWmpsZjNxZTNRb2h4d19aQjctMXJQWnFXdlp3Z3Z3eU05Vzh4dHhXVFpqRmxQZEU2dDRJMmlVcjh3Yk82cGRCOERFVTNJNWtnZVFhT3pLbkVjNA",
+      "title": "杜兰特经纪人：火箭新赛季将成劲旅 球队现状令所有人兴奋",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53ZHpaMGJLeDZPWmpsZjNxZTNRb2h4d19aQjctMXJQWnFXdlp3Z3Z3eU05Vzh4dHhXVFpqRmxQZEU2dDRJMmlVcjh3Yk82cGRCOERFVTNJNWtnZVFhT3pLbkVjNA?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-10-15T16:32:08.000Z",
+      "description": "杜兰特经纪人：火箭新赛季将成劲旅 球队现状令所有人兴奋 企鹅体育",
+      "titleZh": "杜兰特经纪人：火箭新赛季将成劲旅 球队现状令所有人兴奋",
+      "summaryZh": "杜兰特经纪人：火箭新赛季将成劲旅 球队现状令所有人兴奋 企鹅体育",
+      "detailsZh": "杜兰特经纪人：火箭新赛季将成劲旅 球队现状令所有人兴奋 企鹅体育",
+      "keyPoints": [
+        "杜兰特经纪人：火箭新赛季将成劲旅 球队现状令所有人兴奋"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ",
-      "title": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-05T12:49:00.000Z",
-      "description": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
-      "titleZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢",
-      "summaryZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
-      "detailsZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
+      "id": "chenze:search:https://yuba.douyu.com/feed/3191380584010179150",
+      "title": "泽哥牛逼董安无奈的动态-斗鱼社区,直播爱好者的聚集地",
+      "url": "https://yuba.douyu.com/feed/3191380584010179150",
+      "source": "斗鱼网",
+      "publishedAt": "2026-10-15T23:41:00.769Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "泽哥牛逼董安无奈的动态-斗鱼社区,直播爱好者的聚集地",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢"
+        "泽哥牛逼董安无奈的动态-斗鱼社区,直播爱好者的聚集地"
       ],
       "category": "场外",
       "importance": 4
@@ -277,16 +265,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响。作为基础背景信息入口，提供其公众形象的客观记录与历史沿革。",
-      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页面。事实层面，它记录了该ID的常用别名、主要活跃平台及代表性创作风格，如早期在社交媒体上的段子式写作及其对特定网络用语的传播影响。评论部分指出，该词条旨在梳理其在中文互联网亚文化中的定位，强调其作为“网络写手”的身份而非传统出版作家。传闻方面，需注意维基内容可能滞后于其最新动态，且部分轶事可能存在来源模糊的情况。此页面非当日新闻，而是长期维护的人物档案，适用于了解其基本背景与创作脉络，但不包含实时互动或具体作品发布细节。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与身份信息的结构化整理，非时效性新闻。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础百科资料。事实层面：记录了其作为知名网络写手的身份，梳理了其常用的笔名体系，并归纳了其独特的创作风格（如讽刺、幽默等）以及对网络语言生态的影响。评论层面：维基百科编辑者对其在网络亚文化中的地位进行了客观描述，强调其作品的传播广度。传闻层面：无特定未经证实的个人生活传闻，主要聚焦于公共创作领域。此页面属于固定资料入口，旨在提供长期稳定的参考信息，而非报道当日发生的动态事件。",
       "keyPoints": [
         "记录常用笔名与身份标识",
-        "概述创作风格与网络影响",
-        "提供历史背景与亚文化定位"
+        "归纳核心创作风格特征",
+        "梳理网络影响力背景",
+        "作为静态参考资料存在"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "作品",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -296,16 +285,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态与读者讨论入口。此为固定主页链接，用于追踪其官方账号更新及粉丝社区互动，非独立新闻报道。",
-      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话页面，是粉丝聚集和讨论的核心场所。事实层面，这里汇集了该写手的最新动态、转发内容及粉丝生成的二次创作。评论观点认为，超话反映了其受众群体的活跃度与情感倾向，是观察其公众形象的重要窗口。然而，需警惕其中混杂的非官方传闻与过度解读。此页面为功能性入口，内容随时间动态变化，不具备单一新闻事件的时效性。它主要用于获取一手公开信息和社群氛围，而非经过编辑的事实核查报道。用户应自行甄别其中的主观情绪与客观事实，避免将粉丝言论等同于作者本意。",
+      "titleZh": "微博超话公开动态入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。此为社区互动入口，非单一新闻事件，用于追踪粉丝交流及作者日常发声。",
+      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超话索引页。事实层面：这是一个由平台生成的聚合页面，汇集了与该ID相关的公开博文、话题标签及用户评论。评论层面：超话的存在反映了其在社交媒体上的活跃度和粉丝群体的组织性，是观察其公众形象的重要窗口。传闻层面：页面内容本身不包含确凿传闻，但可能包含粉丝间的各种猜测与讨论，需甄别真伪。此页面属于固定的主页或资料入口，功能在于展示历史动态和当前讨论热度，不具备独立新闻报道的属性，因此明确标注为入口而非当天新闻。",
       "keyPoints": [
-        "粉丝讨论与互动核心区域",
-        "汇集官方动态与转发内容",
-        "反映受众情感与社群氛围"
+        "聚合相关公开博文",
+        "反映粉丝社区活跃度",
+        "作为社交数据入口",
+        "非独立新闻事件"
       ],
-      "category": "场外",
-      "importance": 2
+      "category": "公开发言",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -315,13 +305,34 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频聚合页",
-      "summaryZh": "哔哩哔哩上关于大咕咕咕鸡的作品朗读、相关讨论及历史视频的搜索结果聚合。此为动态搜索入口，非固定主页，内容随关键词匹配而变化。",
-      "detailsZh": "该链接为B站的关键词搜索结果页，展示了与“大咕咕咕鸡”相关的视频内容。事实层面，包括其作品的音频朗读、UP主的解说视频以及相关的鬼畜或二创内容。评论指出，这些视频往往带有强烈的个人解读色彩，可能偏离原作意图。传闻风险较高，部分视频标题可能夸大其词以吸引点击。此页面为工具性入口，内容具有高度流动性，无法代表其完整创作全貌。它适合寻找特定类型的衍生内容或听众反馈，但不应被视为权威的资料来源。使用时需注意区分原创朗读与二次创作，并警惕算法推荐带来的信息茧房效应。",
+      "titleZh": "B站作品朗读与讨论聚合",
+      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，包含作品朗读视频及相关讨论。此为资源检索入口，汇总多媒体内容，非特定新闻。",
+      "detailsZh": "该链接为Bilibili平台的搜索结果页。事实层面：展示了标题中包含“大咕咕咕鸡”的视频列表，主要包括其作品的有声朗读、解说以及网友制作的二创内容。评论层面：这些视频反映了其作品在音频领域的传播情况，以及受众对其内容的二次解读。传闻层面：搜索结果中可能夹杂部分未经核实的八卦视频，需通过观看具体内容进行判断。此页面属于动态变化的资源聚合入口，旨在帮助用户查找相关视听资料，其性质为工具性导航，不应被误读为具体的新闻报道或即时动态。",
       "keyPoints": [
-        "展示作品朗读与二创视频",
-        "内容具高度流动性与多样性",
-        "存在标题党与误读风险"
+        "汇总作品朗读视频",
+        "展示二创与讨论内容",
+        "作为多媒体检索入口",
+        "内容具有动态更新性"
+      ],
+      "category": "作品",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "领库账号数据资料页",
+      "summaryZh": "领库平台提供的微博公开账号资料，包含传播数据。此为第三方数据分析入口，用于评估其商业价值与社会影响力，非新闻事件。",
+      "detailsZh": "该页面来自领库（Kolstore）等KOL数据服务平台。事实层面：提供了大咕咕咕鸡微博账号的基本信息、粉丝数量、互动率等量化数据。评论层面：这些数据常被用于评估其作为意见领袖的商业潜力和社会关注度，体现了媒体对其市场价值的认可。传闻层面：数据本身为客观统计，不涉及个人传闻。此页面属于固定的个人资料与数据查询入口，主要用于行业分析或商务合作参考，不具备新闻叙事结构，故明确归类为资料入口。",
+      "keyPoints": [
+        "提供账号量化数据",
+        "评估社会影响力指标",
+        "服务于商业分析需求",
+        "属静态资料查询入口"
       ],
       "category": "场外",
       "importance": 2
@@ -334,32 +345,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，介绍大咕咕咕鸡的创作风格及其对网络语言的影响。作为历史性媒体分析，提供了当时舆论对其地位的评估。",
-      "detailsZh": "这是一篇发布于2015年的媒体文章，属于历史性资料。事实层面，文章分析了该写手早期的写作特点、流行语的产生机制及其在当时的传播路径。评论部分代表了当时主流媒体对其现象级影响力的认可，将其视为网络文学发展的一个缩影。然而，由于时间久远，该报道未能涵盖其后续的发展轨迹或争议事件。传闻成分较少，主要为记者的观察与分析。此内容价值在于提供历史视角下的公众形象切片，有助于理解其成名初期的语境。但它不能反映当前的创作状态或社会评价，使用时需结合最新信息进行综合判断，避免以偏概全。",
+      "titleZh": "界面新闻深度报道回顾",
+      "summaryZh": "2015年界面新闻发布的深度报道，介绍其创作风格与网络段子手生态。此为历史性媒体报道，回顾其早期影响力，非近期动态。",
+      "detailsZh": "该文章发表于2015年5月12日，由界面新闻发布。事实层面：报道深入分析了大咕咕咕鸡的创作手法，将其置于当时网络段子手兴起的背景下进行考察，列举了其代表性作品片段。评论层面：媒体认为其语言风格对当时的网络流行语产生了显著影响，是研究早期自媒体生态的典型案例。传闻层面：报道基于当时的采访和公开资料，未涉及后续未经证实的传闻。由于发布时间较早，此内容属于历史性回顾资料，用于理解其创作起源和行业地位，不属于当前的新闻事件，应视为背景资料引用。",
       "keyPoints": [
-        "2015年媒体深度分析",
-        "记录早期创作风格与影响",
-        "提供历史语境下的公众评价"
+        "回顾早期创作风格",
+        "分析网络段子手生态",
+        "确认语言影响力",
+        "属历史性媒体档案"
       ],
-      "category": "公开发言",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
-      ],
-      "category": "场外",
+      "category": "讨论",
       "importance": 4
     }
   ]
