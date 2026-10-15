@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:37:59.773Z",
+  "updatedAt": "2026-10-15T05:58:28.353Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
       "url": "https://voice.hupu.com/bbs/642875462",
       "source": "虎扑体育网",
-      "publishedAt": "2026-10-15T00:33:58.044Z",
+      "publishedAt": "2026-10-15T05:53:47.869Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -30,6 +30,57 @@
       ],
       "category": "场外",
       "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxNaHEtTkVUUGNMZFVKRkt3R2dsQ00xYXhHaGNoX01uRHk3aGJ6a01Jc1VGN2s5QmV5enpkUzBIOUVZVUtSY1ZUcWxock1HdzloWEtJckFKSnByQ1RFQkF3dmU2dEViSmVIbUFzZWdubFJrZllWRmtObWlDMVJVSldJbGlxeDYwbVZOaTVlRQ",
+      "title": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaHEtTkVUUGNMZFVKRkt3R2dsQ00xYXhHaGNoX01uRHk3aGJ6a01Jc1VGN2s5QmV5enpkUzBIOUVZVUtSY1ZUcWxock1HdzloWEtJckFKSnByQ1RFQkF3dmU2dEViSmVIbUFzZWdubFJrZllWRmtObWlDMVJVSldJbGlxeDYwbVZOaTVlRQ?oc=5",
+      "source": "搜狐",
+      "publishedAt": "2026-10-15T02:59:44.000Z",
+      "description": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门 搜狐",
+      "titleZh": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门",
+      "summaryZh": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门 搜狐",
+      "detailsZh": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门 搜狐",
+      "keyPoints": [
+        "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijgFBVV95cUxNbGUwNE96WEdzTmxQUEhMX09TVFFTd0VnSDE0ZWF1ZDNzclNyZG9mRjVfdGdVeG52TENDelEzellSWFdaOUNjSWJBQlNsWjhkUDFKQ3p3NW43bF9GT3pCV3pUQkxCVW1IeVo4LU41NG1KTm1JN0w4eHl4eS12UTA0NWVLMFFtR2Q4NnItQ013",
+      "title": "Kevin Durant vs Brooklyn Nets: stats, game log",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGUwNE96WEdzTmxQUEhMX09TVFFTd0VnSDE0ZWF1ZDNzclNyZG9mRjVfdGdVeG52TENDelEzellSWFdaOUNjSWJBQlNsWjhkUDFKQ3p3NW43bF9GT3pCV3pUQkxCVW1IeVo4LU41NG1KTm1JN0w4eHl4eS12UTA0NWVLMFFtR2Q4NnItQ013?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-10-15T02:42:31.000Z",
+      "description": "Kevin Durant vs Brooklyn Nets: stats, game log BasketNews.com",
+      "titleZh": "Kevin Durant vs Brooklyn Nets: stats, game log",
+      "summaryZh": "Kevin Durant vs Brooklyn Nets: stats, game log BasketNews.com",
+      "detailsZh": "Kevin Durant vs Brooklyn Nets: stats, game log BasketNews.com",
+      "keyPoints": [
+        "Kevin Durant vs Brooklyn Nets: stats, game log"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMimAFBVV95cUxPZkt6UmdoM1NsYkZjNnllUVRYTGQtS0hGZXdreXRtR01VaGVCcUVFd1FHTkhleVc3dllGWkI3cmR3b0M4dG90eG1Bc3k0eUFmZklSblhQTUZxd2JYTWd3NS1nVFN2eFUyOE1aWHMxa3g2NkZPVm16bzJKOUdlbFFYZ3h0TUNLeEVRN0NkbkowM2M1Y21BQlVTVQ",
+      "title": "Kevin Durant vs Golden State Warriors: stats, game log",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkt6UmdoM1NsYkZjNnllUVRYTGQtS0hGZXdreXRtR01VaGVCcUVFd1FHTkhleVc3dllGWkI3cmR3b0M4dG90eG1Bc3k0eUFmZklSblhQTUZxd2JYTWd3NS1nVFN2eFUyOE1aWHMxa3g2NkZPVm16bzJKOUdlbFFYZ3h0TUNLeEVRN0NkbkowM2M1Y21BQlVTVQ?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-10-15T02:18:49.000Z",
+      "description": "Kevin Durant vs Golden State Warriors: stats, game log BasketNews.com",
+      "titleZh": "Kevin Durant vs Golden State Warriors: stats, game log",
+      "summaryZh": "Kevin Durant vs Golden State Warriors: stats, game log BasketNews.com",
+      "detailsZh": "Kevin Durant vs Golden State Warriors: stats, game log BasketNews.com",
+      "keyPoints": [
+        "Kevin Durant vs Golden State Warriors: stats, game log"
+      ],
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -46,19 +97,36 @@
         "Kevin Durant Ranked Second-Best NBA Player in an Important Category"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihwFBVV95cUxNdTNrd21hN0lUME9ZQl9ZcDY0WWtjWjliaFd6R3lBSVBzV2Fkd2gxY1NkcWJLQjFzckxGZnRNU1BPV0RDeUVfQXJlQkZpQzBfLTN3ekJtNWYtVHpGUXlRNC13VEl2SUstS3BWS29qZElyUWsyT0pheHhSMDFjdG1EdHNQS0IyTVE",
+      "id": "durant:CBMimwFBVV95cUxQeHg1Ullyd3kyRmYwX3lXbU9YaHdJNUh5M0pGQnVIUGRGWnFtbGh4enA4ajlUYW9Wa1F4bXdNR0VBNF82NTJUVzJ5dzdBLUQ5bUJiR19oQ0ctelNza3FPOXdxYnVtMGtxYkpmQW5qbkhlNlFjb3NTQS00VjFjcEpyYjJwRDVCdGVHallyUjJHR3dSTXltbjNldkliUQ",
+      "title": "Kevin Durant vs Boston Celtics: statistiche, tabellino",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHg1Ullyd3kyRmYwX3lXbU9YaHdJNUh5M0pGQnVIUGRGWnFtbGh4enA4ajlUYW9Wa1F4bXdNR0VBNF82NTJUVzJ5dzdBLUQ5bUJiR19oQ0ctelNza3FPOXdxYnVtMGtxYkpmQW5qbkhlNlFjb3NTQS00VjFjcEpyYjJwRDVCdGVHallyUjJHR3dSTXltbjNldkliUQ?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-10-14T18:06:03.000Z",
+      "description": "Kevin Durant vs Boston Celtics: statistiche, tabellino BasketNews.com",
+      "titleZh": "Kevin Durant vs Boston Celtics: statistiche, tabellino",
+      "summaryZh": "Kevin Durant vs Boston Celtics: statistiche, tabellino BasketNews.com",
+      "detailsZh": "Kevin Durant vs Boston Celtics: statistiche, tabellino BasketNews.com",
+      "keyPoints": [
+        "Kevin Durant vs Boston Celtics: statistiche, tabellino"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiywFBVV95cUxNckMwOUVLZDRHeHhaM0U0OC1kUFZjT20xN0Z6a2RGLTRrXzdiZ01xY3ZBVXVnYkt1eTZPNzRVRTk0YnlwOU8wV0c5UXRsZDRNRTVrNjNCb0xGNGZyVFYyUFRKdWZBRW8zcy1HLUx0ay1ORks3RUlmLVFPclpjdHhJTl83Y00wbXEwWjg3TkJmZWpGb19OQWJaMHhUak1kdzlrNC1fRGxkUHVQd1ZscjNSeGJ2MWlrWldxWW5IY2tRMnFOZ28xSmh0dlRsdw",
       "title": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year?",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdTNrd21hN0lUME9ZQl9ZcDY0WWtjWjliaFd6R3lBSVBzV2Fkd2gxY1NkcWJLQjFzckxGZnRNU1BPV0RDeUVfQXJlQkZpQzBfLTN3ekJtNWYtVHpGUXlRNC13VEl2SUstS3BWS29qZElyUWsyT0pheHhSMDFjdG1EdHNQS0IyTVE?oc=5",
-      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckMwOUVLZDRHeHhaM0U0OC1kUFZjT20xN0Z6a2RGLTRrXzdiZ01xY3ZBVXVnYkt1eTZPNzRVRTk0YnlwOU8wV0c5UXRsZDRNRTVrNjNCb0xGNGZyVFYyUFRKdWZBRW8zcy1HLUx0ay1ORks3RUlmLVFPclpjdHhJTl83Y00wbXEwWjg3TkJmZWpGb19OQWJaMHhUak1kdzlrNC1fRGxkUHVQd1ZscjNSeGJ2MWlrWldxWW5IY2tRMnFOZ28xSmh0dlRsdw?oc=5",
+      "source": "The Dream Shake",
       "publishedAt": "2026-10-14T17:27:12.000Z",
-      "description": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? Yahoo Sports",
+      "description": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? The Dream Shake",
       "titleZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year?",
-      "summaryZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? Yahoo Sports",
-      "detailsZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? Yahoo Sports",
+      "summaryZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? The Dream Shake",
+      "detailsZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? The Dream Shake",
       "keyPoints": [
         "VOTE: Will the Rockets trade Kevin Durant at the deadline this year?"
       ],
@@ -78,74 +146,6 @@
       "detailsZh": "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任 企鹅体育",
       "keyPoints": [
         "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiY0FVX3lxTE13ZEhJazFZQnoyanlCLUlZOEwwLVdUNUpxaUxsZmprbHNFckRXMldtQjRsUXkwQ1pMSjBVVTlrS1F3U1ZNUWpRcE5PRnFDLUl1UEUzV045NzZNMWU2WFFOQk5IYw",
-      "title": "没事偷着乐！阿门：想到不用防杜兰特还能一起打球 我就忍不住想笑",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13ZEhJazFZQnoyanlCLUlZOEwwLVdUNUpxaUxsZmprbHNFckRXMldtQjRsUXkwQ1pMSjBVVTlrS1F3U1ZNUWpRcE5PRnFDLUl1UEUzV045NzZNMWU2WFFOQk5IYw?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-10-14T17:20:39.000Z",
-      "description": "没事偷着乐！阿门：想到不用防杜兰特还能一起打球 我就忍不住想笑 企鹅体育",
-      "titleZh": "没事偷着乐！阿门：想到不用防杜兰特还能一起打球 我就忍不住想笑",
-      "summaryZh": "没事偷着乐！阿门：想到不用防杜兰特还能一起打球 我就忍不住想笑 企鹅体育",
-      "detailsZh": "没事偷着乐！阿门：想到不用防杜兰特还能一起打球 我就忍不住想笑 企鹅体育",
-      "keyPoints": [
-        "没事偷着乐！阿门：想到不用防杜兰特还能一起打球 我就忍不住想笑"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiaEFVX3lxTFBoa0JoaFktTTlSODJ3c0ozdElIdHVyUnpOV21yMkJrU0lVZWV5X2VxRmxkZ0tFTVBoMl9LWkI3OEVZWWxuVEU0VDdvMUp6aXl4V2JrbndCWGE1VmtjR0ZhUzBOX3FaUmEy",
-      "title": "Kevin Durant — No. 15 in The Ringer's NBA Top 100",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoa0JoaFktTTlSODJ3c0ozdElIdHVyUnpOV21yMkJrU0lVZWV5X2VxRmxkZ0tFTVBoMl9LWkI3OEVZWWxuVEU0VDdvMUp6aXl4V2JrbndCWGE1VmtjR0ZhUzBOX3FaUmEy?oc=5",
-      "source": "The Ringer",
-      "publishedAt": "2026-10-14T17:06:07.000Z",
-      "description": "Kevin Durant — No. 15 in The Ringer's NBA Top 100 The Ringer",
-      "titleZh": "Kevin Durant — No. 15 in The Ringer's NBA Top 100",
-      "summaryZh": "Kevin Durant — No. 15 in The Ringer's NBA Top 100 The Ringer",
-      "detailsZh": "Kevin Durant — No. 15 in The Ringer's NBA Top 100 The Ringer",
-      "keyPoints": [
-        "Kevin Durant — No. 15 in The Ringer's NBA Top 100"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiY0FVX3lxTE9Odmo0Z1l0Ykhkd2RvYjJGeTJna2p5cUQ3bnhrT19WZmlYN2VFSlpiTGFuUjJVOVpMYlpsdkJBVlA2MmhfdkluLXJvUWVFQmM5SVlNN2U0UEhzRDZ2WlFpdWJ1NA",
-      "title": "阿门-汤普森：从未搭档过杜兰特这般级别球星 他每次训练都以比赛强度投入",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Odmo0Z1l0Ykhkd2RvYjJGeTJna2p5cUQ3bnhrT19WZmlYN2VFSlpiTGFuUjJVOVpMYlpsdkJBVlA2MmhfdkluLXJvUWVFQmM5SVlNN2U0UEhzRDZ2WlFpdWJ1NA?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-10-14T16:20:04.000Z",
-      "description": "阿门-汤普森：从未搭档过杜兰特这般级别球星 他每次训练都以比赛强度投入 企鹅体育",
-      "titleZh": "阿门-汤普森：从未搭档过杜兰特这般级别球星 他每次训练都以比赛强度投入",
-      "summaryZh": "阿门-汤普森：从未搭档过杜兰特这般级别球星 他每次训练都以比赛强度投入 企鹅体育",
-      "detailsZh": "阿门-汤普森：从未搭档过杜兰特这般级别球星 他每次训练都以比赛强度投入 企鹅体育",
-      "keyPoints": [
-        "阿门-汤普森：从未搭档过杜兰特这般级别球星 他每次训练都以比赛强度投入"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMi0AJBVV95cUxPREF1bmthRnQ2Yy12QUQ4SXJraVFWS0VDWTVjZGNoWFNoNDRRNk9ZVzhPdTA4ZEtyeFJpTmNqR05rNU85YUlXQlJzdWdmOWlaSzh6c0swQlpKcFBUSk9ER0IySG5yOG9LaTV6RUNHbmN6MlBVN2Jlay1uZTZrbkUycmdsN2ZmcHlkN1Atc21Fb25kanlRVGNKUmNfMTRNSXMwRjVXVnVXR3pwTzhmVHVUYl9UM2hCTEZIemhOSlBUNFRCUEIxd1VpOGFhOFU0S2dJMGROV1doN1ZaVXNFUXhLU1pSTGRFd29TTU5KTWlyR2dJOHF3bGdJbDU5cDNpWi1DcFBaeHM5TEIxMlNJd2RkdlI1bDNJZHFtUnBlcWNabzA3UDE3akFXS2xlNmp6dWNEWjQ0VUI2RHdsNjhhMFFGV21WcEQwR05FeUgwSEYtZTjSAdYCQVVfeXFMT2VDSGszNmctSVo5SXZ0eDJuX1p3WlF5T25CYnJkT0JZR05nLXhCSFRFZHJubEkySk83QXdoZDN6YWdWTEdPM2VSYUR2a282dG5YNHcxdlh0Tmd2cjF0SHYtdGhWZ0I5eXdMS2N6NmZBRjdNSWZ1cjJIUlc2RElRWDltNFB1WTdWRzZ2QnRRNHJvUjVSY3prZkNFT1FmYmJhdHBUZER4YTI3Z0RXbnlwQkhVeE1kRHh2c2FUXzdSdzdoV2VmZkhxNndFVkdpQnBVTV85SzFpWHFlaU1FaWt4VVpTeE9FU21TOVBhdHZPWFNPanZ4WGtjTFYwbmRfYUNKbUItWVFqTGdNdGdqeXp3MTNnLVpCbVhIelFRLUZGejdmUXV3SkRXNl8zak8yRHBOSl8wVG9QWUlSWmo4ZlA4QV9JT2VnREVIX19leWotM19DOHBROVJ3",
-      "title": "“You went to sleep hungry. You sacrificed for us”: How NBA star Kevin Durant’s mother Wanda turned her sa",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPREF1bmthRnQ2Yy12QUQ4SXJraVFWS0VDWTVjZGNoWFNoNDRRNk9ZVzhPdTA4ZEtyeFJpTmNqR05rNU85YUlXQlJzdWdmOWlaSzh6c0swQlpKcFBUSk9ER0IySG5yOG9LaTV6RUNHbmN6MlBVN2Jlay1uZTZrbkUycmdsN2ZmcHlkN1Atc21Fb25kanlRVGNKUmNfMTRNSXMwRjVXVnVXR3pwTzhmVHVUYl9UM2hCTEZIemhOSlBUNFRCUEIxd1VpOGFhOFU0S2dJMGROV1doN1ZaVXNFUXhLU1pSTGRFd29TTU5KTWlyR2dJOHF3bGdJbDU5cDNpWi1DcFBaeHM5TEIxMlNJd2RkdlI1bDNJZHFtUnBlcWNabzA3UDE3akFXS2xlNmp6dWNEWjQ0VUI2RHdsNjhhMFFGV21WcEQwR05FeUgwSEYtZTjSAdYCQVVfeXFMT2VDSGszNmctSVo5SXZ0eDJuX1p3WlF5T25CYnJkT0JZR05nLXhCSFRFZHJubEkySk83QXdoZDN6YWdWTEdPM2VSYUR2a282dG5YNHcxdlh0Tmd2cjF0SHYtdGhWZ0I5eXdMS2N6NmZBRjdNSWZ1cjJIUlc2RElRWDltNFB1WTdWRzZ2QnRRNHJvUjVSY3prZkNFT1FmYmJhdHBUZER4YTI3Z0RXbnlwQkhVeE1kRHh2c2FUXzdSdzdoV2VmZkhxNndFVkdpQnBVTV85SzFpWHFlaU1FaWt4VVpTeE9FU21TOVBhdHZPWFNPanZ4WGtjTFYwbmRfYUNKbUItWVFqTGdNdGdqeXp3MTNnLVpCbVhIelFRLUZGejdmUXV3SkRXNl8zak8yRHBOSl8wVG9QWUlSWmo4ZlA4QV9JT2VnREVIX19leWotM19DOHBROVJ3?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T14:05:00.000Z",
-      "description": "“You went to sleep hungry. You sacrificed for us”: How NBA star Kevin Durant’s mother Wanda turned her sa The Times of India",
-      "titleZh": "“You went to sleep hungry. You sacrificed for us”: How NBA star Kevin Durant’s mother Wanda turned her sa",
-      "summaryZh": "“You went to sleep hungry. You sacrificed for us”: How NBA star Kevin Durant’s mother Wanda turned her sa The Times of India",
-      "detailsZh": "“You went to sleep hungry. You sacrificed for us”: How NBA star Kevin Durant’s mother Wanda turned her sa The Times of India",
-      "keyPoints": [
-        "“You went to sleep hungry. You sacrificed for us”: How NBA star Kevin Durant’s mother Wanda turned her sa"
       ],
       "category": "场外",
       "importance": 3
@@ -248,16 +248,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格演变及在网络文学领域的影响。作为人物背景资料入口，提供基础事实参考。",
-      "detailsZh": "该条目为固定的人物资料索引页面，非时效性新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其活跃的平台、代表性作品类型以及公众对其创作风格的普遍认知。文中区分了客观存在的出版记录与读者主观评价，旨在为研究者或读者提供快速了解该人物的概览。由于维基百科的开放性，具体细节需结合多方信源核实，此处仅作为资料聚合点，不包含未经证实的传闻或最新动态。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录其常用笔名、创作风格及作品背景，提供关于该网络写手的综合资料入口。",
+      "detailsZh": "事实：该条目为静态百科资料页，汇总了“大咕咕咕鸡”作为网络写手的公开信息，包括其常用笔名、主要创作风格以及在网络社区产生的影响。评论：此类页面通常由社区用户维护，内容具有滞后性，仅反映截至编辑时的已知信息。传闻：无特定传闻涉及，但需注意百科内容的中立性可能受编辑者主观影响。此链接为固定资料入口，非当日新闻事件。",
       "keyPoints": [
-        "提供人物基础背景与笔名信息",
-        "汇总主要作品与创作风格概述",
-        "作为长期有效的资料入口"
+        "提供人物背景与笔名汇总",
+        "记录创作风格与网络影响",
+        "属静态百科资料而非动态新闻"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -267,16 +267,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话主页，是粉丝互动、公开动态发布及读者讨论的核心聚合地。此为固定社交账号入口，非单日新闻事件。",
-      "detailsZh": "此链接指向新浪微博的大咕咕咕鸡官方超话页面，属于固定的社交媒体资料入口。该页面实时展示作者的公开动态、粉丝评论及社区讨论热点。虽然内容具有时效性，但作为入口本身不具备单一新闻价值。它反映了作者与读者的直接互动生态，是观察其舆论风向的重要窗口。需注意，超话内的言论多为粉丝观点或碎片化信息，应将其视为讨论场域而非权威事实来源，使用时需甄别情绪化表达与实质性信息。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博相关话题页，聚合其公开动态及读者讨论，是追踪其近期活动的主要入口。",
+      "detailsZh": "事实：该链接指向新浪微博的超级话题页面，用于聚合“大咕咕咕鸡”相关的公开微博动态和粉丝讨论。评论：作为社交媒体聚合页，其内容实时性强，但包含大量用户生成内容（UGC），需甄别真伪。传闻：页面本身不产生传闻，但可能成为谣言传播渠道。此链接为固定主页/资料入口，用于持续跟踪而非单次新闻报道。",
       "keyPoints": [
-        "微博官方粉丝互动核心平台",
-        "展示实时公开动态与读者反馈",
-        "固定社交资料入口，非独立新闻"
+        "聚合官方公开动态",
+        "汇集粉丝讨论内容",
+        "属固定社交主页入口"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -286,15 +286,15 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站作品与朗读聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡相关视频、作品朗读音频及二次创作内容。此为动态搜索结果页，作为多媒体资料检索入口。",
-      "detailsZh": "该链接为哔哩哔哩基于关键词“大咕咕咕鸡”生成的搜索结果聚合页，属于多媒体资料检索工具。页面内容包含官方发布的朗读音频、粉丝制作的视频剪辑及相关讨论。由于搜索结果随时间变化，此条目代表的是持续更新的内容库而非特定事件。它展示了该人物在视频平台的传播形态，特别是声音演绎和视觉化改编方面的影响力。使用者应明确这是资源索引，具体内容需根据发布日期和播放量进行筛选，以获取高质量的相关素材。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索聚合页，展示其作品朗读及相关讨论视频，便于检索视听内容。",
+      "detailsZh": "事实：该链接为B站关键词搜索结果页，包含用户上传的作品朗读、解说及讨论视频。评论：搜索结果依赖算法排序，质量参差不齐，部分视频可能未经本人授权或存在误传。传闻：视频中可能夹杂对作者私生活的猜测，需谨慎对待。此链接为固定搜索入口，非特定新闻事件报道。",
       "keyPoints": [
-        "B站多媒体内容检索聚合页",
-        "包含作品朗读与二次创作视频",
-        "动态更新的资料索引入口"
+        "聚合作品朗读与讨论视频",
+        "内容来源多样需甄别",
+        "属固定搜索资源入口"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 3
     },
     {
@@ -305,15 +305,15 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言生态的影响。属历史性媒体评论，具一定参考价值。",
-      "detailsZh": "这是一篇发布于2015年的媒体深度报道，由界面新闻刊出。文章从行业观察者角度，分析了大咕咕咕鸡早期的创作特点及其在当时的网络语境中的地位。内容侧重于评论其文字风格如何反映或塑造当时的网络流行语趋势。鉴于发布时间较早，该报道反映的是特定历史阶段的公众认知，可能无法完全对应其当前状态。作为第三方媒体评论，它提供了外部视角的分析框架，但需注意其时效性和立场倾向，适合作为背景研究材料，而非近期动态依据。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "2015年界面新闻深度报道，分析其创作风格及对网络语言的影响，具历史参考价值。",
+      "detailsZh": "事实：这是一篇发布于2015年5月12日的媒体文章，深入探讨了“大咕咕咕鸡”的创作风格及其在当时的网络文化地位。评论：作为早期媒体报道，它提供了作者成名初期的语境，但无法反映其后续发展或现状。传闻：文中未提及具体传闻，主要基于当时观察。鉴于时间久远，此内容仅具历史档案价值，不具备时效性新闻意义。",
       "keyPoints": [
-        "2015年媒体深度分析报道",
-        "聚焦早期创作风格与网络影响",
-        "提供第三方评论视角与历史背景"
+        "2015年历史深度报道",
+        "分析早期创作风格与影响",
+        "具档案价值但无时效性"
       ],
-      "category": "公开发言",
+      "category": "讨论",
       "importance": 2
     },
     {
