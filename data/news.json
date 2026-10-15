@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:58:28.353Z",
+  "updatedAt": "2026-10-15T11:29:42.899Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,136 +16,146 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://voice.hupu.com/bbs/642875462",
-      "title": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
-      "url": "https://voice.hupu.com/bbs/642875462",
-      "source": "虎扑体育网",
-      "publishedAt": "2026-10-15T05:53:47.869Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
       "id": "durant:CBMijAFBVV95cUxNaHEtTkVUUGNMZFVKRkt3R2dsQ00xYXhHaGNoX01uRHk3aGJ6a01Jc1VGN2s5QmV5enpkUzBIOUVZVUtSY1ZUcWxock1HdzloWEtJckFKSnByQ1RFQkF3dmU2dEViSmVIbUFzZWdubFJrZllWRmtObWlDMVJVSldJbGlxeDYwbVZOaTVlRQ",
       "title": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaHEtTkVUUGNMZFVKRkt3R2dsQ00xYXhHaGNoX01uRHk3aGJ6a01Jc1VGN2s5QmV5enpkUzBIOUVZVUtSY1ZUcWxock1HdzloWEtJckFKSnByQ1RFQkF3dmU2dEViSmVIbUFzZWdubFJrZllWRmtObWlDMVJVSldJbGlxeDYwbVZOaTVlRQ?oc=5",
       "source": "搜狐",
       "publishedAt": "2026-10-15T02:59:44.000Z",
       "description": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门 搜狐",
-      "titleZh": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门",
-      "summaryZh": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门 搜狐",
-      "detailsZh": "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门 搜狐",
+      "titleZh": "杜兰特拒签火箭6000万合同传闻",
+      "summaryZh": "网传杜兰特拒绝休斯顿火箭队提供的6000万美元合同，认为该报价具有羞辱性。若无法获得1.2亿美元顶薪，他计划加盟其他豪门球队。此为未经证实的流言。",
+      "detailsZh": "事实层面：目前并无官方消息证实凯文·杜兰特与休斯顿火箭队存在正式接触或合同谈判。评论层面：部分自媒体渲染杜兰特对薪资的极高要求，称其视6000万为侮辱，并暗示其将寻求1.2亿级别的长期合约以加入争冠队伍。传闻层面：此类“撕毁合同”、“羞辱报价”等戏剧性描述多为吸引流量的虚构内容，缺乏可靠信源支持。在现实NBA语境中，杜兰特作为超级巨星，其合同动向备受关注，但具体细节需以球员代理团队或球队官方公告为准。当前信息极大概率为谣言或误导性标题党文章，不具备新闻真实性。",
       "keyPoints": [
-        "杜兰特撕毁火箭6000万羞辱合同！如果不给1.2亿就加盟这三大豪门"
+        "无官方确认杜兰特与火箭有合同谈判",
+        "所谓6000万报价及1.2亿诉求均为网络传言",
+        "此类报道多为博眼球的虚假信息"
+      ],
+      "category": "交易",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMilAFBVV95cUxOcEpHUjc2ck1wZ1RxdGxLLW5fOUVGNGszMGxQcnhXRTljQjJZcGtTX2FfTEh4SVJudk5TTWpQbnNOeTUwVDZya3dJdGZNQUVYaXp6N2VTcTA2Q0dxZlNWX1E3VlhmT1hCRTVlaEVTNE1nSXcyQkN4ZWpwUWJNY1BpWTVHcjZkUVNDTkhZTzJaZFpjRFVS",
+      "title": "Kevin Durant vs Croatia: stats, game log",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcEpHUjc2ck1wZ1RxdGxLLW5fOUVGNGszMGxQcnhXRTljQjJZcGtTX2FfTEh4SVJudk5TTWpQbnNOeTUwVDZya3dJdGZNQUVYaXp6N2VTcTA2Q0dxZlNWX1E3VlhmT1hCRTVlaEVTNE1nSXcyQkN4ZWpwUWJNY1BpWTVHcjZkUVNDTkhZTzJaZFpjRFVS?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-10-15T06:39:08.000Z",
+      "description": "Kevin Durant vs Croatia: stats, game log BasketNews.com",
+      "titleZh": "杜兰特对阵克罗地亚比赛数据",
+      "summaryZh": "BasketNews.com发布凯文·杜兰特在对阵克罗地亚国家队比赛中的详细数据统计和比赛日志。此内容属于国际赛事期间的常规技术统计记录。",
+      "detailsZh": "事实层面：该条目提供了杜兰特在国际篮联（FIBA）赛事中对阵克罗地亚的具体表现数据，包括得分、篮板、助攻等技术指标。这是基于实际比赛产生的客观记录。评论层面：此类数据通常用于评估球员在国际赛场上的状态和效率，是球迷和分析师关注的重点。传闻层面：无相关传闻。需要注意的是，这并非NBA常规赛或季后赛数据，而是代表美国国家队出战的国际比赛记录。对于关注杜兰特职业生涯全貌的读者而言，这部分数据补充了其非NBA时期的竞技表现，但不影响其在NBA联盟内的动态评估。",
+      "keyPoints": [
+        "提供杜兰特对阵克罗地亚的比赛技术统计",
+        "数据来源为BasketNews.com",
+        "属于国际赛事而非NBA比赛记录"
+      ],
+      "category": "比赛",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTFBrQjRteDl0aUxMX01YUDd3bUZzTjZvRi12QVNUVnJDSmoyemlzN1JKcXpOU2hzTGFEQjM4OUJ3WGZpRWVRS2dycjNvaXRTRVpGYTgyVU8zeFNPcmFXUWc0QjdBMm9oV25kaXhacGZBTU50Z0U",
+      "title": "杜兰特快速融入任何球队，季后赛首轮若碰勇士有看头",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrQjRteDl0aUxMX01YUDd3bUZzTjZvRi12QVNUVnJDSmoyemlzN1JKcXpOU2hzTGFEQjM4OUJ3WGZpRWVRS2dycjNvaXRTRVpGYTgyVU8zeFNPcmFXUWc0QjdBMm9oV25kaXhacGZBTU50Z0U?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-15T07:15:31.000Z",
+      "description": "杜兰特快速融入任何球队，季后赛首轮若碰勇士有看头 新浪网",
+      "titleZh": "媒体评杜兰特融入能力与潜在季后赛对手",
+      "summaryZh": "新浪网转载观点称杜兰特具备快速融入任何球队的能力，并预测若季后赛首轮遭遇金州勇士队，比赛将极具看点。此为媒体主观分析。",
+      "detailsZh": "事实层面：杜兰特确实在雷霆、勇士、篮网等多支球队效力过，展现了较强的适应能力。评论层面：媒体认为他与前东家勇士队的对决将是焦点，强调其个人能力对比赛走势的影响。这种观点属于典型的赛前或赛季初的话题炒作，旨在引发讨论。传闻层面：无实质性的转会或伤病传闻。该条目更多反映的是舆论风向而非既定事实。杜兰特的职业生涯确实充满了与旧主交锋的经典战役，但“若碰勇士有看头”仅为假设性情境，不构成新闻事件本身。读者应将其视为娱乐性评论而非严肃体育新闻。",
+      "keyPoints": [
+        "肯定杜兰特快速适应新环境的职业素质",
+        "推测其与勇士队可能产生的季后赛对决",
+        "内容为媒体主观评论，非事实报道"
+      ],
+      "category": "比赛",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOQ2JSeDJyRjNWcmhLMlYwdHBSbmdYcFZmVWlROW01ajlsM1RNeDFMem5QMnRtSDlRaWNrZ2JzRjRYR3hVMHdFT0k2Q3l3UFZDTkFZRXRVSS03NVdfUUhOUjNvTHgxTXpobzREd1psYUduS2FEUHhBX0lxNkxyYlZUcERZbjU",
+      "title": "杜兰特入股巴黎圣日耳曼，以老板身份参观大巴黎",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2JSeDJyRjNWcmhLMlYwdHBSbmdYcFZmVWlROW01ajlsM1RNeDFMem5QMnRtSDlRaWNrZ2JzRjRYR3hVMHdFT0k2Q3l3UFZDTkFZRXRVSS03NVdfUUhOUjNvTHgxTXpobzREd1psYUduS2FEUHhBX0lxNkxyYlZUcERZbjU?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-15T06:51:29.000Z",
+      "description": "杜兰特入股巴黎圣日耳曼，以老板身份参观大巴黎 新浪网",
+      "titleZh": "杜兰特入股巴黎圣日耳曼传闻",
+      "summaryZh": "网传杜兰特以老板身份入股法国足球俱乐部巴黎圣日耳曼（PSG），并进行了参观。此为未经核实的场外商业活动传闻。",
+      "detailsZh": "事实层面：目前没有任何权威体育媒体或商业新闻机构证实凯文·杜兰特投资了巴黎圣日耳曼足球俱乐部。评论层面：鉴于杜兰特近年来在商业领域的活跃表现，此类跨界投资的传闻容易引发猜测，但缺乏证据支持。传闻层面：这极有可能是虚假新闻或误传。虽然NBA球星投资海外体育俱乐部并不罕见，但针对PSG的具体指控若无官方声明支持，应视为谣言。编辑模型对此类涉及重大商业变动的信息进行严格甄别，认定其为不可信内容。建议读者忽略此类无源头的八卦信息。",
+      "keyPoints": [
+        "无官方渠道证实杜兰特投资巴黎圣日耳曼",
+        "所谓“老板身份参观”缺乏事实依据",
+        "疑似虚假商业传闻"
+      ],
+      "category": "场外",
+      "importance": 1
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://voice.hupu.com/bbs/642875462",
+      "title": "[流言板]CP:凯文-杜兰特离开勇士后的季后赛征程可谓坎坷艰难",
+      "url": "https://voice.hupu.com/bbs/642875462",
+      "source": "虎扑体育网",
+      "publishedAt": "2026-10-15T11:25:22.744Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "虎扑论坛关于杜兰特离开勇士后季后赛历程的讨论",
+      "summaryZh": "虎扑体育网论坛帖子回顾凯文·杜兰特离开金州勇士队后的季后赛表现，指出其征程坎坷艰难。此为网友或编辑整理的历史回顾内容。",
+      "detailsZh": "事实层面：杜兰特在2019年离开勇士后，随篮网队和太阳队征战季后赛，期间经历了伤病困扰和战绩起伏，未能再次夺冠。评论层面：该帖子总结了这一时期的艰难处境，反映了公众对其职业生涯后半段挑战的认知。这类内容属于赛后总结或生涯回顾，时效性较弱，但具有参考价值。它不涉及当下的突发新闻，而是对过去几年事实的归纳。对于了解杜兰特职业生涯轨迹的读者来说，这是一份基础资料，但不应将其解读为当前的最新动态。",
+      "keyPoints": [
+        "回顾杜兰特离开勇士后的季后赛经历",
+        "强调其面临的困难与挑战",
+        "属于历史回顾性质的论坛讨论"
+      ],
+      "category": "比赛",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMingFBVV95cUxOXzFfWk9TUG1ybEtWVWZIYzBmWGZMY3pfb3V6ZGdDV0h1RUhPVVlJbWV3Tml1bmxRdzhVRzk1MEVVMzVlalY4dEdEZEJxN0N1MWRHZDMwRkRfT1VubmlRazN4MDlXWGtPZXhRMUtBN2Vwcy1zN3k0RzZWaklUQmV6dUdiTmIzWWNKSV9vaHZrTmVPTFlIQVZzaWhLV003dw",
+      "title": "How Likely Are the Rockets to Trade Kevin Durant?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzFfWk9TUG1ybEtWVWZIYzBmWGZMY3pfb3V6ZGdDV0h1RUhPVVlJbWV3Tml1bmxRdzhVRzk1MEVVMzVlalY4dEdEZEJxN0N1MWRHZDMwRkRfT1VubmlRazN4MDlXWGtPZXhRMUtBN2Vwcy1zN3k0RzZWaklUQmV6dUdiTmIzWWNKSV9vaHZrTmVPTFlIQVZzaWhLV003dw?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-10-15T11:00:04.000Z",
+      "description": "How Likely Are the Rockets to Trade Kevin Durant? Sports Illustrated",
+      "titleZh": "How Likely Are the Rockets to Trade Kevin Durant?",
+      "summaryZh": "How Likely Are the Rockets to Trade Kevin Durant? Sports Illustrated",
+      "detailsZh": "How Likely Are the Rockets to Trade Kevin Durant? Sports Illustrated",
+      "keyPoints": [
+        "How Likely Are the Rockets to Trade Kevin Durant?"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijgFBVV95cUxNbGUwNE96WEdzTmxQUEhMX09TVFFTd0VnSDE0ZWF1ZDNzclNyZG9mRjVfdGdVeG52TENDelEzellSWFdaOUNjSWJBQlNsWjhkUDFKQ3p3NW43bF9GT3pCV3pUQkxCVW1IeVo4LU41NG1KTm1JN0w4eHl4eS12UTA0NWVLMFFtR2Q4NnItQ013",
-      "title": "Kevin Durant vs Brooklyn Nets: stats, game log",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGUwNE96WEdzTmxQUEhMX09TVFFTd0VnSDE0ZWF1ZDNzclNyZG9mRjVfdGdVeG52TENDelEzellSWFdaOUNjSWJBQlNsWjhkUDFKQ3p3NW43bF9GT3pCV3pUQkxCVW1IeVo4LU41NG1KTm1JN0w4eHl4eS12UTA0NWVLMFFtR2Q4NnItQ013?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-10-15T02:42:31.000Z",
-      "description": "Kevin Durant vs Brooklyn Nets: stats, game log BasketNews.com",
-      "titleZh": "Kevin Durant vs Brooklyn Nets: stats, game log",
-      "summaryZh": "Kevin Durant vs Brooklyn Nets: stats, game log BasketNews.com",
-      "detailsZh": "Kevin Durant vs Brooklyn Nets: stats, game log BasketNews.com",
+      "id": "durant:CBMikgJBVV95cUxNQVJ1cFJrX1daM3NNdGhwU2NmWHQxSXpFV3hEM29kaE03WUptTGctUUp5YThvZThMaDZGSWNRa0h1bHd4QkQ0MldhX2NfbUJyZDd5Y0RCeHhXWFIxRDRMNm92SWIzelVNSjJCRlNMNEpaal9FVmZPeFR6aXctRVhqalcxZVNmU1gwQXZHY01zSmhBbEN3QnpNV2dHdlNSM0RyTXZ6MDRXR0Q5Wk8wX0VWWTBOZ1NSbnd2R0xaYTBiYUxPMEt2V01oNVBLT1kwbnR3YnJKZkRDOUZSTV9oSUFNSXBzMkV4U0ZUNmZLcXAwTkRDbTJQbkRVNEpaekV0MkZLSnhFeU1xSGMtMjFudEJoWmln",
+      "title": "Wembanyama's Spurs are the team to beat in the Southwest, but don't forget about Durant and Irving",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQVJ1cFJrX1daM3NNdGhwU2NmWHQxSXpFV3hEM29kaE03WUptTGctUUp5YThvZThMaDZGSWNRa0h1bHd4QkQ0MldhX2NfbUJyZDd5Y0RCeHhXWFIxRDRMNm92SWIzelVNSjJCRlNMNEpaal9FVmZPeFR6aXctRVhqalcxZVNmU1gwQXZHY01zSmhBbEN3QnpNV2dHdlNSM0RyTXZ6MDRXR0Q5Wk8wX0VWWTBOZ1NSbnd2R0xaYTBiYUxPMEt2V01oNVBLT1kwbnR3YnJKZkRDOUZSTV9oSUFNSXBzMkV4U0ZUNmZLcXAwTkRDbTJQbkRVNEpaekV0MkZLSnhFeU1xSGMtMjFudEJoWmln?oc=5",
+      "source": "Bozeman Daily Chronicle",
+      "publishedAt": "2026-10-15T10:00:08.000Z",
+      "description": "Wembanyama's Spurs are the team to beat in the Southwest, but don't forget about Durant and Irving Bozeman Daily Chronicle",
+      "titleZh": "Wembanyama's Spurs are the team to beat in the Southwest, but don't forget about Durant and Irving",
+      "summaryZh": "Wembanyama's Spurs are the team to beat in the Southwest, but don't forget about Durant and Irving Bozeman Daily Chronicle",
+      "detailsZh": "Wembanyama's Spurs are the team to beat in the Southwest, but don't forget about Durant and Irving Bozeman Daily Chronicle",
       "keyPoints": [
-        "Kevin Durant vs Brooklyn Nets: stats, game log"
+        "Wembanyama's Spurs are the team to beat in the Southwest, but don't forget about Durant and Irving"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMimAFBVV95cUxPZkt6UmdoM1NsYkZjNnllUVRYTGQtS0hGZXdreXRtR01VaGVCcUVFd1FHTkhleVc3dllGWkI3cmR3b0M4dG90eG1Bc3k0eUFmZklSblhQTUZxd2JYTWd3NS1nVFN2eFUyOE1aWHMxa3g2NkZPVm16bzJKOUdlbFFYZ3h0TUNLeEVRN0NkbkowM2M1Y21BQlVTVQ",
-      "title": "Kevin Durant vs Golden State Warriors: stats, game log",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkt6UmdoM1NsYkZjNnllUVRYTGQtS0hGZXdreXRtR01VaGVCcUVFd1FHTkhleVc3dllGWkI3cmR3b0M4dG90eG1Bc3k0eUFmZklSblhQTUZxd2JYTWd3NS1nVFN2eFUyOE1aWHMxa3g2NkZPVm16bzJKOUdlbFFYZ3h0TUNLeEVRN0NkbkowM2M1Y21BQlVTVQ?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-10-15T02:18:49.000Z",
-      "description": "Kevin Durant vs Golden State Warriors: stats, game log BasketNews.com",
-      "titleZh": "Kevin Durant vs Golden State Warriors: stats, game log",
-      "summaryZh": "Kevin Durant vs Golden State Warriors: stats, game log BasketNews.com",
-      "detailsZh": "Kevin Durant vs Golden State Warriors: stats, game log BasketNews.com",
+      "id": "durant:CBMiT0FVX3lxTE5rUkM2dktKem9FTXlGU0llQnY5YkVkS2JmMW9jcmhUbUItV0FwVDBReUtWM1Qzajh5VTl0d3VWV3k3OTdudjRjbVJqVkNGUUE",
+      "title": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rUkM2dktKem9FTXlGU0llQnY5YkVkS2JmMW9jcmhUbUItV0FwVDBReUtWM1Qzajh5VTl0d3VWV3k3OTdudjRjbVJqVkNGUUE?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-15T09:21:49.000Z",
+      "description": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身 虎扑体育",
+      "titleZh": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身",
+      "summaryZh": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身 虎扑体育",
+      "detailsZh": "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身 虎扑体育",
       "keyPoints": [
-        "Kevin Durant vs Golden State Warriors: stats, game log"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMitwFBVV95cUxQZ2x6TEFNUlFITU5sZy1seW1BVzdZSWVUN1RBRENfSUliaEhWbnNuVVZrVFNmRlRQVmh3WmlRcFBvQVNrX1gzMkhrUXJUXzJhQzBCRUUyY0NSdlBzNHYwVTVGM2ZGc2lTeXVodlNkWG9lS05DdWhIU09TWFgxWWZnN1hFWXA4MWVMRWtXUGRrSjBNZDhOSndVSUIwNDAzOVVKaXhpYWF6MjhENjNLUWEzNlJUZVJxQlk",
-      "title": "Kevin Durant Ranked Second-Best NBA Player in an Important Category",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2x6TEFNUlFITU5sZy1seW1BVzdZSWVUN1RBRENfSUliaEhWbnNuVVZrVFNmRlRQVmh3WmlRcFBvQVNrX1gzMkhrUXJUXzJhQzBCRUUyY0NSdlBzNHYwVTVGM2ZGc2lTeXVodlNkWG9lS05DdWhIU09TWFgxWWZnN1hFWXA4MWVMRWtXUGRrSjBNZDhOSndVSUIwNDAzOVVKaXhpYWF6MjhENjNLUWEzNlJUZVJxQlk?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-10-14T22:00:00.000Z",
-      "description": "Kevin Durant Ranked Second-Best NBA Player in an Important Category Sports Illustrated",
-      "titleZh": "Kevin Durant Ranked Second-Best NBA Player in an Important Category",
-      "summaryZh": "Kevin Durant Ranked Second-Best NBA Player in an Important Category Sports Illustrated",
-      "detailsZh": "Kevin Durant Ranked Second-Best NBA Player in an Important Category Sports Illustrated",
-      "keyPoints": [
-        "Kevin Durant Ranked Second-Best NBA Player in an Important Category"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMimwFBVV95cUxQeHg1Ullyd3kyRmYwX3lXbU9YaHdJNUh5M0pGQnVIUGRGWnFtbGh4enA4ajlUYW9Wa1F4bXdNR0VBNF82NTJUVzJ5dzdBLUQ5bUJiR19oQ0ctelNza3FPOXdxYnVtMGtxYkpmQW5qbkhlNlFjb3NTQS00VjFjcEpyYjJwRDVCdGVHallyUjJHR3dSTXltbjNldkliUQ",
-      "title": "Kevin Durant vs Boston Celtics: statistiche, tabellino",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHg1Ullyd3kyRmYwX3lXbU9YaHdJNUh5M0pGQnVIUGRGWnFtbGh4enA4ajlUYW9Wa1F4bXdNR0VBNF82NTJUVzJ5dzdBLUQ5bUJiR19oQ0ctelNza3FPOXdxYnVtMGtxYkpmQW5qbkhlNlFjb3NTQS00VjFjcEpyYjJwRDVCdGVHallyUjJHR3dSTXltbjNldkliUQ?oc=5",
-      "source": "BasketNews.com",
-      "publishedAt": "2026-10-14T18:06:03.000Z",
-      "description": "Kevin Durant vs Boston Celtics: statistiche, tabellino BasketNews.com",
-      "titleZh": "Kevin Durant vs Boston Celtics: statistiche, tabellino",
-      "summaryZh": "Kevin Durant vs Boston Celtics: statistiche, tabellino BasketNews.com",
-      "detailsZh": "Kevin Durant vs Boston Celtics: statistiche, tabellino BasketNews.com",
-      "keyPoints": [
-        "Kevin Durant vs Boston Celtics: statistiche, tabellino"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiywFBVV95cUxNckMwOUVLZDRHeHhaM0U0OC1kUFZjT20xN0Z6a2RGLTRrXzdiZ01xY3ZBVXVnYkt1eTZPNzRVRTk0YnlwOU8wV0c5UXRsZDRNRTVrNjNCb0xGNGZyVFYyUFRKdWZBRW8zcy1HLUx0ay1ORks3RUlmLVFPclpjdHhJTl83Y00wbXEwWjg3TkJmZWpGb19OQWJaMHhUak1kdzlrNC1fRGxkUHVQd1ZscjNSeGJ2MWlrWldxWW5IY2tRMnFOZ28xSmh0dlRsdw",
-      "title": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year?",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckMwOUVLZDRHeHhaM0U0OC1kUFZjT20xN0Z6a2RGLTRrXzdiZ01xY3ZBVXVnYkt1eTZPNzRVRTk0YnlwOU8wV0c5UXRsZDRNRTVrNjNCb0xGNGZyVFYyUFRKdWZBRW8zcy1HLUx0ay1ORks3RUlmLVFPclpjdHhJTl83Y00wbXEwWjg3TkJmZWpGb19OQWJaMHhUak1kdzlrNC1fRGxkUHVQd1ZscjNSeGJ2MWlrWldxWW5IY2tRMnFOZ28xSmh0dlRsdw?oc=5",
-      "source": "The Dream Shake",
-      "publishedAt": "2026-10-14T17:27:12.000Z",
-      "description": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? The Dream Shake",
-      "titleZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year?",
-      "summaryZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? The Dream Shake",
-      "detailsZh": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year? The Dream Shake",
-      "keyPoints": [
-        "VOTE: Will the Rockets trade Kevin Durant at the deadline this year?"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiY0FVX3lxTE5ybzRNcUdqUlF4NDlncXZfRHo5VVI2TkxlQ3BQb1pBa1U5aGRleHBSMDVpTWw0VmtiZEF3LVRmLUlGWjlRLW1jcFpNMFRhc1hRTVBrdy1SZE1xUHF2OVN6elIwbw",
-      "title": "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybzRNcUdqUlF4NDlncXZfRHo5VVI2TkxlQ3BQb1pBa1U5aGRleHBSMDVpTWw0VmtiZEF3LVRmLUlGWjlRLW1jcFpNMFRhc1hRTVBrdy1SZE1xUHF2OVN6elIwbw?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-10-14T17:20:47.000Z",
-      "description": "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任 企鹅体育",
-      "titleZh": "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任",
-      "summaryZh": "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任 企鹅体育",
-      "detailsZh": "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任 企鹅体育",
-      "keyPoints": [
-        "杜兰特：愿意为争冠球队打替补 不觉得这种情况会发生但也能胜任"
+        "[流言板]美媒：杜兰特21岁便首次入选最佳一阵，更是连续5年跻身"
       ],
       "category": "场外",
       "importance": 3
@@ -248,16 +258,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "维基百科收录其常用笔名、创作风格及作品背景，提供关于该网络写手的综合资料入口。",
-      "detailsZh": "事实：该条目为静态百科资料页，汇总了“大咕咕咕鸡”作为网络写手的公开信息，包括其常用笔名、主要创作风格以及在网络社区产生的影响。评论：此类页面通常由社区用户维护，内容具有滞后性，仅反映截至编辑时的已知信息。传闻：无特定传闻涉及，但需注意百科内容的中立性可能受编辑者主观影响。此链接为固定资料入口，非当日新闻事件。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响背景。作为基础档案入口，提供其公众形象与作品体系的综合概述。",
+      "detailsZh": "该条目为关于网络写手“大咕咕咕鸡”的基础资料聚合页。事实层面，记录了其作为知名网络段子手的身份，以及其在中文互联网语境下的创作轨迹。评论层面，部分编辑者指出其早期作品对网络流行语的推动具有标志性意义，但也存在对其内容深度不足的争议。传闻方面，无确凿证据表明其涉及其他同名人物混淆，但需注意区分其与早期微博营销号的关联。此页面主要作为静态参考资料，非当日新闻事件，旨在为用户提供权威的背景知识检索入口。",
       "keyPoints": [
-        "提供人物背景与笔名汇总",
-        "记录创作风格与网络影响",
-        "属静态百科资料而非动态新闻"
+        "记录大咕咕咕鸡的常用笔名与身份标识",
+        "梳理其创作风格及对网络语言的影响",
+        "整合其作品体系与网络声誉背景"
       ],
-      "category": "场外",
-      "importance": 3
+      "category": "作品",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -267,34 +277,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "新浪微博相关话题页，聚合其公开动态及读者讨论，是追踪其近期活动的主要入口。",
-      "detailsZh": "事实：该链接指向新浪微博的超级话题页面，用于聚合“大咕咕咕鸡”相关的公开微博动态和粉丝讨论。评论：作为社交媒体聚合页，其内容实时性强，但包含大量用户生成内容（UGC），需甄别真伪。传闻：页面本身不产生传闻，但可能成为谣言传播渠道。此链接为固定主页/资料入口，用于持续跟踪而非单次新闻报道。",
+      "titleZh": "大咕咕咕鸡微博超话动态",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。作为粉丝互动与信息发布的官方渠道，反映其近期活跃度与社群反馈，需甄别广告与真实言论。",
+      "detailsZh": "此链接指向新浪微博的大咕咕咕鸡超话索引页，属于固定主页而非特定新闻。事实层面，此处汇集了该写手的最新博文、转发内容及粉丝生成的二次创作。评论层面，社区内常有关于其更新频率和选题方向的讨论，既有支持声音也有批评意见。传闻方面，偶尔会有未经证实的“停更”或“转型”谣言在评论区流传，需以博主本人发布为准。该页面是追踪其日常动态的核心入口，但因其开放性，信息质量参差不齐，建议结合其他信源交叉验证。",
       "keyPoints": [
-        "聚合官方公开动态",
-        "汇集粉丝讨论内容",
-        "属固定社交主页入口"
+        "聚合博主最新公开动态与博文",
+        "展示粉丝社群的实时讨论与反馈",
+        "作为追踪其活跃度的核心社交媒体入口"
       ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "哔哩哔哩搜索聚合页，展示其作品朗读及相关讨论视频，便于检索视听内容。",
-      "detailsZh": "事实：该链接为B站关键词搜索结果页，包含用户上传的作品朗读、解说及讨论视频。评论：搜索结果依赖算法排序，质量参差不齐，部分视频可能未经本人授权或存在误传。传闻：视频中可能夹杂对作者私生活的猜测，需谨慎对待。此链接为固定搜索入口，非特定新闻事件报道。",
-      "keyPoints": [
-        "聚合作品朗读与讨论视频",
-        "内容来源多样需甄别",
-        "属固定搜索资源入口"
-      ],
-      "category": "场外",
+      "category": "公开发言",
       "importance": 3
     },
     {
@@ -305,16 +296,33 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "2015年界面新闻深度报道，分析其创作风格及对网络语言的影响，具历史参考价值。",
-      "detailsZh": "事实：这是一篇发布于2015年5月12日的媒体文章，深入探讨了“大咕咕咕鸡”的创作风格及其在当时的网络文化地位。评论：作为早期媒体报道，它提供了作者成名初期的语境，但无法反映其后续发展或现状。传闻：文中未提及具体传闻，主要基于当时观察。鉴于时间久远，此内容仅具历史档案价值，不具备时效性新闻意义。",
+      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络段子手生态的影响。虽为历史文献，但提供了理解其早期影响力的关键视角。",
+      "detailsZh": "这是一篇发布于2015年的历史报道，非当日新闻。事实层面，文章详细分析了大咕咕咕鸡早期的写作手法，如夸张修辞与反转结构，并列举了其代表作对当时网络文化的影响。评论层面，记者客观评价了其作为现象级网红的商业价值与文化符号意义，同时也指出了同质化竞争的问题。传闻方面，文中未提及任何未经核实的个人生活八卦。该报道具有重要的史料价值，帮助读者理解其在中文互联网发展史上的地位，但需注意时效性，仅适用于背景研究。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "分析早期创作风格与影响",
-        "具档案价值但无时效性"
+        "分析其早期创作风格与叙事技巧",
+        "评估其对网络段子手生态的历史影响",
+        "提供2015年左右其行业地位的关键数据"
       ],
       "category": "讨论",
-      "importance": 2
+      "importance": 5
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "keyPoints": [
+        "大咕咕咕鸡相关视频与作品朗读"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
