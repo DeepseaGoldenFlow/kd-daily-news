@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T17:12:09.617Z",
+  "updatedAt": "2026-10-17T19:25:33.041Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,11 +16,28 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:search:https://www.sohu.com/a/1088323125_122340867",
+      "title": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更",
+      "url": "https://www.sohu.com/a/1088323125_122340867",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-17T19:22:41.807Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
       "id": "durant:search:https://baike.baidu.com/item/凯文·杜兰特/3726277",
       "title": "凯文·杜兰特",
       "url": "https://baike.baidu.com/item/凯文·杜兰特/3726277",
       "source": "百度百科",
-      "publishedAt": "2026-10-17T17:08:54.310Z",
+      "publishedAt": "2026-10-17T19:22:41.806Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "凯文·杜兰特",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +54,7 @@
       "title": "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖 ",
       "url": "https://m.sohu.com/a/1088362338_121606710",
       "source": "搜狐网",
-      "publishedAt": "2026-10-17T17:08:54.310Z",
+      "publishedAt": "2026-10-17T19:22:41.806Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -46,126 +63,92 @@
         "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖 "
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1088323125_122340867",
-      "title": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更",
-      "url": "https://www.sohu.com/a/1088323125_122340867",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-17T17:08:54.310Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "id": "durant:CBMiiAFBVV95cUxOWTVCQy1OVDFBdUlaX1VSdXpidzl6WkVxQkh3VUloRjRIN1N6OHVfNWgwNW53dHlleXpudTlweEo3czZmS1hnVDFKdjhSeF83QjdlWF9vLTg3UmNEZDJNRGdaNXU2ZWJvU0NJLTAydU1MbHJubnBzZ05OU1Q5UDJLemx3RTFyWWc4",
+      "title": "Kevin Durant fires back at Mat Isbhia’s comments about him",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTVCQy1OVDFBdUlaX1VSdXpidzl6WkVxQkh3VUloRjRIN1N6OHVfNWgwNW53dHlleXpudTlweEo3czZmS1hnVDFKdjhSeF83QjdlWF9vLTg3UmNEZDJNRGdaNXU2ZWJvU0NJLTAydU1MbHJubnBzZ05OU1Q5UDJLemx3RTFyWWc4?oc=5",
+      "source": "Larry Brown Sports",
+      "publishedAt": "2026-10-17T19:13:26.000Z",
+      "description": "Kevin Durant fires back at Mat Isbhia’s comments about him Larry Brown Sports",
+      "titleZh": "Kevin Durant fires back at Mat Isbhia’s comments about him",
+      "summaryZh": "Kevin Durant fires back at Mat Isbhia’s comments about him Larry Brown Sports",
+      "detailsZh": "Kevin Durant fires back at Mat Isbhia’s comments about him Larry Brown Sports",
       "keyPoints": [
-        "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更"
+        "Kevin Durant fires back at Mat Isbhia’s comments about him"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMirwFBVV95cUxPZTUwWjdDYU9pM25mZ2FMUHcwcV9xQUxQSkVGeGl4SkFLaWZpUDVqLUg4UDRralA4bGs4MTRqaGl4WGgwTnJuc2NMUnZJdG9uWEU3dmdSZFozbWU1MmxsXzRJdlJHS2l5MnAwNUtMLXJybkRBTTE3SktYWU1SOGdDV24yanEzNzZrcFo4WG5EdFFuVHdJYWJyTHBRRjhMMVFDSEk5ZzFDOEVrTUdQbW9Z",
-      "title": "Rockets Star Kevin Durant Taught Suns Owner A Valuable Lesson",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTUwWjdDYU9pM25mZ2FMUHcwcV9xQUxQSkVGeGl4SkFLaWZpUDVqLUg4UDRralA4bGs4MTRqaGl4WGgwTnJuc2NMUnZJdG9uWEU3dmdSZFozbWU1MmxsXzRJdlJHS2l5MnAwNUtMLXJybkRBTTE3SktYWU1SOGdDV24yanEzNzZrcFo4WG5EdFFuVHdJYWJyTHBRRjhMMVFDSEk5ZzFDOEVrTUdQbW9Z?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-10-17T17:00:00.000Z",
-      "description": "Rockets Star Kevin Durant Taught Suns Owner A Valuable Lesson Sports Illustrated",
-      "titleZh": "Rockets Star Kevin Durant Taught Suns Owner A Valuable Lesson",
-      "summaryZh": "Rockets Star Kevin Durant Taught Suns Owner A Valuable Lesson Sports Illustrated",
-      "detailsZh": "Rockets Star Kevin Durant Taught Suns Owner A Valuable Lesson Sports Illustrated",
+      "id": "durant:CBMiggFBVV95cUxPWDlWaEJUU3dQTGRKY2pYNURqcHg4eE9sdnNtZmR2X2NMV29jV09pZ0steFIwYk02d3hkZTdrV1ZqSzd2a25raFVQN1JtZEZOdGY2eVNSU2I3LWVBQlowWUdGNXNXSDVLaEVaeFdDMG40ZnltajJpeWp3VUZRYU4tWFh3",
+      "title": "Kevin Durant fires back at Mat Ishbia's comments about regretting the trade",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDlWaEJUU3dQTGRKY2pYNURqcHg4eE9sdnNtZmR2X2NMV29jV09pZ0steFIwYk02d3hkZTdrV1ZqSzd2a25raFVQN1JtZEZOdGY2eVNSU2I3LWVBQlowWUdGNXNXSDVLaEVaeFdDMG40ZnltajJpeWp3VUZRYU4tWFh3?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-17T19:04:12.000Z",
+      "description": "Kevin Durant fires back at Mat Ishbia's comments about regretting the trade Yahoo Sports",
+      "titleZh": "Kevin Durant fires back at Mat Ishbia's comments about regretting the trade",
+      "summaryZh": "Kevin Durant fires back at Mat Ishbia's comments about regretting the trade Yahoo Sports",
+      "detailsZh": "Kevin Durant fires back at Mat Ishbia's comments about regretting the trade Yahoo Sports",
       "keyPoints": [
-        "Rockets Star Kevin Durant Taught Suns Owner A Valuable Lesson"
+        "Kevin Durant fires back at Mat Ishbia's comments about regretting the trade"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxPbVpudGZWdk56YS1iYl9TNHZielp1eG13Z0xtWUpkQnVhQ256R3ZQcWdDOFdpUXB3VXFjS3dNZjVsM0NMQ2xoYzdyZjZzTzVFZENtTXlrUC1nNnY5d0F6dmZod2hOTEVmQW1fY0Ftai1LeHBUSC1BeTNLclJKdVhsU21IcWI",
-      "title": "太阳老板：当初只知道砸钱引进杜兰特这样的巨星也不一定夺冠|菲尼克斯太阳队|nba|球队|球员|总冠军",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVpudGZWdk56YS1iYl9TNHZielp1eG13Z0xtWUpkQnVhQ256R3ZQcWdDOFdpUXB3VXFjS3dNZjVsM0NMQ2xoYzdyZjZzTzVFZENtTXlrUC1nNnY5d0F6dmZod2hOTEVmQW1fY0Ftai1LeHBUSC1BeTNLclJKdVhsU21IcWI?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-10-17T16:37:38.000Z",
-      "description": "太阳老板：当初只知道砸钱引进杜兰特这样的巨星也不一定夺冠|菲尼克斯太阳队|nba|球队|球员|总冠军 Sina Sports",
-      "titleZh": "太阳老板：当初只知道砸钱引进杜兰特这样的巨星也不一定夺冠|菲尼克斯太阳队|nba|球队|球员|总冠军",
-      "summaryZh": "太阳老板：当初只知道砸钱引进杜兰特这样的巨星也不一定夺冠|菲尼克斯太阳队|nba|球队|球员|总冠军 Sina Sports",
-      "detailsZh": "太阳老板：当初只知道砸钱引进杜兰特这样的巨星也不一定夺冠|菲尼克斯太阳队|nba|球队|球员|总冠军 Sina Sports",
+      "id": "durant:CBMitAFBVV95cUxQTkZyVHZRRG0wbHRtcV93VHdFbjBZSDI3aldHdmZYcDF4SkhkWkFQSFFScnhmRVlWNzBKVkw0TGNtWDl5dkNGZHNURXBrd3VQNGNKNi0ydjYzVm9USzh1TUp3UkNmTVp1NFJIeHIyZmNpdklQLWwyNjQwNTRUZmpvZUgtOGJ5NmZUNjdNSi0zWHRmMkFYQ0tOVmxOY3MtT09uZVNtWHlJdTNCRC10Z2dlSURBSjQ",
+      "title": "Kevin Durant Responds to Mat Ishbia's Regret Over Suns' Trade for Star, '#blameKD'",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkZyVHZRRG0wbHRtcV93VHdFbjBZSDI3aldHdmZYcDF4SkhkWkFQSFFScnhmRVlWNzBKVkw0TGNtWDl5dkNGZHNURXBrd3VQNGNKNi0ydjYzVm9USzh1TUp3UkNmTVp1NFJIeHIyZmNpdklQLWwyNjQwNTRUZmpvZUgtOGJ5NmZUNjdNSi0zWHRmMkFYQ0tOVmxOY3MtT09uZVNtWHlJdTNCRC10Z2dlSURBSjQ?oc=5",
+      "source": "Bleacher Report",
+      "publishedAt": "2026-10-17T18:44:36.000Z",
+      "description": "Kevin Durant Responds to Mat Ishbia's Regret Over Suns' Trade for Star, '#blameKD' Bleacher Report",
+      "titleZh": "Kevin Durant Responds to Mat Ishbia's Regret Over Suns' Trade for Star, '#blameKD'",
+      "summaryZh": "Kevin Durant Responds to Mat Ishbia's Regret Over Suns' Trade for Star, '#blameKD' Bleacher Report",
+      "detailsZh": "Kevin Durant Responds to Mat Ishbia's Regret Over Suns' Trade for Star, '#blameKD' Bleacher Report",
       "keyPoints": [
-        "太阳老板：当初只知道砸钱引进杜兰特这样的巨星也不一定夺冠|菲尼克斯太阳队|nba|球队|球员|总冠军"
+        "Kevin Durant Responds to Mat Ishbia's Regret Over Suns' Trade for Star, '#blameKD'"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTE15R0RtMFRuLWNmZkRIWWZzY3doQ3dQZWVPN2FIMUhsb1pTWE5DYlpfNUVGV2JxRFBNR0Rvak4xbXg4Wnptb0VWWnZ6NUNuMGd0MzNQeXl4Rmk2MGZTTUlBVmFrT19lMmJ6MVN6NUxiOWFrU00",
-      "title": "詹姆斯送杜兰特FMVP？小南说篮球观点引讨论",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15R0RtMFRuLWNmZkRIWWZzY3doQ3dQZWVPN2FIMUhsb1pTWE5DYlpfNUVGV2JxRFBNR0Rvak4xbXg4Wnptb0VWWnZ6NUNuMGd0MzNQeXl4Rmk2MGZTTUlBVmFrT19lMmJ6MVN6NUxiOWFrU00?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-17T10:27:06.000Z",
-      "description": "詹姆斯送杜兰特FMVP？小南说篮球观点引讨论 新浪网",
-      "titleZh": "詹姆斯送杜兰特FMVP？小南说篮球观点引讨论",
-      "summaryZh": "詹姆斯送杜兰特FMVP？小南说篮球观点引讨论 新浪网",
-      "detailsZh": "詹姆斯送杜兰特FMVP？小南说篮球观点引讨论 新浪网",
+      "id": "durant:CBMiqwFBVV95cUxQUS1WbzBtbnI2UlIxVDA2RXp4d1NEWVQ4b1BSM0pUQTU5LUFIaFdRTmhQU3FoMFlQVXVUUGxPSVNPemhQZC05SzJyUl9qcTNSejFTNm9CTk03cnM1V1FpQUcwdEpWcm5lMmp6cTJPcUUxZjFqcjl1Q3I2d3hOa3ZkWkd1LVcxVnBLcmkyYWRJdkdsUUpabTY5R0I1NE1YQU8zN0RRdWgtbzhLTkE",
+      "title": "Kevin Durant reacts to Suns owner's claims about his move to Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUS1WbzBtbnI2UlIxVDA2RXp4d1NEWVQ4b1BSM0pUQTU5LUFIaFdRTmhQU3FoMFlQVXVUUGxPSVNPemhQZC05SzJyUl9qcTNSejFTNm9CTk03cnM1V1FpQUcwdEpWcm5lMmp6cTJPcUUxZjFqcjl1Q3I2d3hOa3ZkWkd1LVcxVnBLcmkyYWRJdkdsUUpabTY5R0I1NE1YQU8zN0RRdWgtbzhLTkE?oc=5",
+      "source": "BasketNews.com",
+      "publishedAt": "2026-10-17T18:38:34.000Z",
+      "description": "Kevin Durant reacts to Suns owner's claims about his move to Phoenix BasketNews.com",
+      "titleZh": "Kevin Durant reacts to Suns owner's claims about his move to Phoenix",
+      "summaryZh": "Kevin Durant reacts to Suns owner's claims about his move to Phoenix BasketNews.com",
+      "detailsZh": "Kevin Durant reacts to Suns owner's claims about his move to Phoenix BasketNews.com",
       "keyPoints": [
-        "詹姆斯送杜兰特FMVP？小南说篮球观点引讨论"
+        "Kevin Durant reacts to Suns owner's claims about his move to Phoenix"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiY0FVX3lxTE11UGowWV90dGtOemxyOGNXQnhyX181N09feUg3Q2NSUHJoUko2QlZzVmhoOURQQ0hVU1A0dmZiRnlNSTlTX2NHdFU4MFhxb3d3YkI5eXlIdElRZGllN252OHlIQQ",
-      "title": "火箭vs独行侠前瞻：杜兰特率队冲4连胜 加福德能否阻挡申京？",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11UGowWV90dGtOemxyOGNXQnhyX181N09feUg3Q2NSUHJoUko2QlZzVmhoOURQQ0hVU1A0dmZiRnlNSTlTX2NHdFU4MFhxb3d3YkI5eXlIdElRZGllN252OHlIQQ?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-10-17T09:11:25.000Z",
-      "description": "火箭vs独行侠前瞻：杜兰特率队冲4连胜 加福德能否阻挡申京？ 企鹅体育",
-      "titleZh": "火箭vs独行侠前瞻：杜兰特率队冲4连胜 加福德能否阻挡申京？",
-      "summaryZh": "火箭vs独行侠前瞻：杜兰特率队冲4连胜 加福德能否阻挡申京？ 企鹅体育",
-      "detailsZh": "火箭vs独行侠前瞻：杜兰特率队冲4连胜 加福德能否阻挡申京？ 企鹅体育",
+      "id": "durant:CBMigAFBVV95cUxNUTlVZUtwcDJKQVRlM29uZDk4M1FKX1QzejlnaHlJTEFsLUU2azhDeFVVcE5iY3I1WGZiOEttUkUxSWpSRzVGVFpNblU2NUVZTWNVaFNYajhBQUdxZjhUaWptRzMzOHZiZGlWWnd3dXVLQkFjMnlWS1ptV1Z6b2JHbA",
+      "title": "Kevin Durant Fires Back at Suns Owner Over Blaming Statement on Trade",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUTlVZUtwcDJKQVRlM29uZDk4M1FKX1QzejlnaHlJTEFsLUU2azhDeFVVcE5iY3I1WGZiOEttUkUxSWpSRzVGVFpNblU2NUVZTWNVaFNYajhBQUdxZjhUaWptRzMzOHZiZGlWWnd3dXVLQkFjMnlWS1ptV1Z6b2JHbA?oc=5",
+      "source": "Heavy.com",
+      "publishedAt": "2026-10-17T18:28:10.000Z",
+      "description": "Kevin Durant Fires Back at Suns Owner Over Blaming Statement on Trade Heavy.com",
+      "titleZh": "Kevin Durant Fires Back at Suns Owner Over Blaming Statement on Trade",
+      "summaryZh": "Kevin Durant Fires Back at Suns Owner Over Blaming Statement on Trade Heavy.com",
+      "detailsZh": "Kevin Durant Fires Back at Suns Owner Over Blaming Statement on Trade Heavy.com",
       "keyPoints": [
-        "火箭vs独行侠前瞻：杜兰特率队冲4连胜 加福德能否阻挡申京？"
+        "Kevin Durant Fires Back at Suns Owner Over Blaming Statement on Trade"
       ],
       "category": "场外",
       "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMifEFVX3lxTE5LaWR4amV0Tjluc2tDN3d6dUlONXlScWtIbEtSN2IxQ1RJRUxXVFpXSWlrOHFjenlmVHZQQXVjYWdmQi1Hb0RfNURrMmNjbFZubGNZWGdrLXY4eVFhQ3pZQ1ZUNlFGRXEyLVFON09HMXRiTV9Ua2ZOYXpxQ1Q",
-      "title": "27分碾压雷霆！火箭赢球最大功臣竟不是杜兰特，底薪老将16分钟顶",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LaWR4amV0Tjluc2tDN3d6dUlONXlScWtIbEtSN2IxQ1RJRUxXVFpXSWlrOHFjenlmVHZQQXVjYWdmQi1Hb0RfNURrMmNjbFZubGNZWGdrLXY4eVFhQ3pZQ1ZUNlFGRXEyLVFON09HMXRiTV9Ua2ZOYXpxQ1Q?oc=5",
-      "source": "新浪财经",
-      "publishedAt": "2026-10-17T09:02:41.000Z",
-      "description": "27分碾压雷霆！火箭赢球最大功臣竟不是杜兰特，底薪老将16分钟顶 新浪财经",
-      "titleZh": "27分碾压雷霆！火箭赢球最大功臣竟不是杜兰特，底薪老将16分钟顶",
-      "summaryZh": "27分碾压雷霆！火箭赢球最大功臣竟不是杜兰特，底薪老将16分钟顶 新浪财经",
-      "detailsZh": "27分碾压雷霆！火箭赢球最大功臣竟不是杜兰特，底薪老将16分钟顶 新浪财经",
-      "keyPoints": [
-        "27分碾压雷霆！火箭赢球最大功臣竟不是杜兰特，底薪老将16分钟顶"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
-      "title": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
-      "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
-      "source": "新浪网",
-      "publishedAt": "2026-10-17T17:08:45.430Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?"
-      ],
-      "category": "场外",
-      "importance": 4
     },
     {
       "subject": "chenze",
@@ -197,6 +180,23 @@
       "detailsZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
       "keyPoints": [
         "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTE00QkNRNVkzWUp2R1NoUUhuU01Pa2xBT3lkY3NUa3cyZnFKNHIzbjN3WHU0S0N2QzVyeHdVVUlWR3NzSjJfcFR4c0E1aHpybUFRNjNVblhtQ0hOQVlfcGw5TDRZVQ",
+      "title": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00QkNRNVkzWUp2R1NoUUhuU01Pa2xBT3lkY3NUa3cyZnFKNHIzbjN3WHU0S0N2QzVyeHdVVUlWR3NzSjJfcFR4c0E1aHpybUFRNjNVblhtQ0hOQVlfcGw5TDRZVQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "description": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不 手机新浪网",
+      "titleZh": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不",
+      "summaryZh": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不 手机新浪网",
+      "detailsZh": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不 手机新浪网",
+      "keyPoints": [
+        "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不"
       ],
       "category": "场外",
       "importance": 3
@@ -282,16 +282,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响背景。作为基础资料入口，提供相对客观的传记信息。",
-      "detailsZh": "该条目为固定的人物资料索引页面，非当日新闻。内容主要梳理了大咕咕咕鸡作为网络写手的身份背景，包括其常用的笔名变体、主要的创作领域以及在中文互联网社区中的影响力评估。事实部分基于公开可查的百科记录；评论部分涉及对其文风在特定时期传播效果的学术或媒体分析；传闻部分较少，主要聚焦于其作为早期网络红人的历史定位。此页面旨在提供标准化的参考数据，建议读者将其视为静态档案而非动态资讯来源。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景，提供其网络影响力的基础资料索引。",
+      "detailsZh": "该条目为固定的人物资料入口，非当日新闻。内容主要涵盖大咕咕咕鸡作为网络写手的身份定义、常用笔名列表以及其独特的创作风格分析。事实部分确认了其在中国网络文学圈的存在感，评论部分涉及对其语言风格对网络流行语影响的学术性探讨。传闻部分需谨慎对待，因维基编辑具有开放性，可能存在未经核实的轶事。此页面旨在提供结构化背景信息，而非动态事件报道。",
       "keyPoints": [
-        "提供标准化的人物传记与笔名列表",
-        "记录其在中文互联网早期的影响力",
-        "属于静态资料库，非实时动态"
+        "提供人物基础档案与笔名对照",
+        "分析创作风格与网络影响",
+        "作为固定资料入口而非新闻"
       ],
       "category": "作品",
-      "importance": 4
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -301,15 +301,34 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态聚合页及读者讨论超话。作为粉丝互动与官方动态发布的固定入口，用于追踪其最新社交媒体行为。",
-      "detailsZh": "此为固定的社交媒体主页与话题聚合链接，不具备单日新闻属性。页面汇集了该写手在微博平台的公开博文、转发内容及粉丝创建的超话讨论区。事实层面展示了其社交账号的基本运营状态和活跃度分布；评论层面反映了核心读者群体对其内容的即时反馈与二次创作；传闻层面可能包含粉丝间的猜测或非官方消息，需结合具体帖子时间戳进行甄别。该入口是获取一手社交动态的主要渠道，但需注意区分官方发布内容与用户生成内容（UGC）。",
+      "titleZh": "微博超话公开动态入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态及读者讨论，是追踪其近期活动的主要社交阵地。",
+      "detailsZh": "此为固定的社交媒体聚合页，非特定新闻事件。事实层面，该超话是大咕咕咕鸡发布日常动态、作品预告及与粉丝互动的官方渠道之一。评论层面，超话内的讨论反映了核心受众对其内容的反馈与二次创作热情。需注意，超话内容包含大量用户生成内容（UGC），其中可能夹杂谣言或过度解读，需结合其个人账号原始发布内容进行核实。该链接指向的是持续更新的动态流，不具备单一时间点的新闻属性。",
       "keyPoints": [
-        "微博平台官方动态与粉丝讨论的聚合入口",
-        "反映实时社交互动与粉丝生态",
-        "需区分官方信息与粉丝传言"
+        "官方动态与粉丝互动聚合地",
+        "反映核心受众反馈与二次创作",
+        "需甄别UGC中的不实信息"
       ],
       "category": "公开发言",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "B站相关视频与朗读聚合",
+      "summaryZh": "哔哩哔哩搜索聚合页，汇集大咕咕咕鸡作品朗读、相关讨论及历史视频，便于检索多媒体内容。",
+      "detailsZh": "此为搜索引擎结果页，非独立新闻源。事实部分，该页面展示了基于关键词“大咕咕咕鸡”的视频资源，包括其本人或他人上传的作品朗读音频、访谈片段及粉丝剪辑。评论部分，视频下方的弹幕和评论构成了另一种形式的公众评价场域，往往比文字更直观地反映即时情绪。传闻风险在于，第三方上传的内容可能存在版权争议或断章取义的情况。使用者应通过具体视频ID追溯原始发布者，以确保证据链的完整性。",
+      "keyPoints": [
+        "多媒体内容检索入口",
+        "包含作品朗读与粉丝剪辑",
+        "需警惕第三方内容的准确性"
+      ],
+      "category": "作品",
       "importance": 3
     },
     {
@@ -320,33 +339,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻关于大咕咕咕鸡的深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言环境的影响。属历史性媒体分析，具有时代参考价值。",
-      "detailsZh": "这是一篇发布于2015年的历史性媒体报道，非当前事件新闻。文章从媒体视角分析了大咕咕咕鸡在当时的创作特点，特别是其对网络流行语和段子文化的贡献。事实部分引用了当时的阅读量数据和代表性作品片段；评论部分代表了当时主流媒体对网络写手现象的观察与评价，具有一定的社会学意义；传闻部分极少，主要为记者采访所得的观点。鉴于发布时间较早，该报道更多用于理解其早期形象构建，而非反映现状。",
+      "titleZh": "界面新闻深度报道存档",
+      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其在早期网络段子手生态中的地位。",
+      "detailsZh": "这是一篇发布于2015年的历史报道，属于固定资料而非当前动态。事实层面，文章记录了当时大咕咕咕鸡的创作手法及其在网络文化中的角色定位，具有较高的史料价值。评论层面，媒体当时的观点代表了彼时主流舆论对其“网络段子手”身份的界定。需要注意的是，随着时间推移，其创作方向和个人形象可能已发生重大变化，因此该报道仅能作为历史参考，不能直接用于推断其当前状态或观点。使用时应明确标注其时效局限性。",
       "keyPoints": [
-        "2015年发布的媒体深度分析",
-        "记录早期创作风格与网络语言影响",
-        "具有历史文献价值，非当前动态"
+        "2015年历史深度报道",
+        "记录早期创作风格与地位",
+        "仅作历史参考，具时效局限"
       ],
       "category": "讨论",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
-      ],
-      "category": "场外",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
