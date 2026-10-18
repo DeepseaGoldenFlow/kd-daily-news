@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:39:17.008Z",
+  "updatedAt": "2026-10-18T14:03:59.305Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,11 +16,11 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://tiyu.baidu.com/player?id=8b8a71bef7d928a3c2fbdc89407813e2&from=baidu_shoubai",
+      "id": "durant:search:https://baike.baidu.com/item/凯文·杜兰特/3726277",
       "title": "凯文·杜兰特",
-      "url": "https://tiyu.baidu.com/player?id=8b8a71bef7d928a3c2fbdc89407813e2&from=baidu_shoubai",
-      "source": "百度体育",
-      "publishedAt": "2026-10-18T09:35:09.174Z",
+      "url": "https://baike.baidu.com/item/凯文·杜兰特/3726277",
+      "source": "百度百科",
+      "publishedAt": "2026-10-18T14:00:12.837Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "凯文·杜兰特",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -33,139 +33,122 @@
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1088829091_121610158",
-      "title": "10.17日:38岁杜兰特仍不愿降出场时间致膝盖挫伤,火箭三控卫重建防守体系",
-      "url": "https://www.sohu.com/a/1088829091_121610158",
+      "id": "durant:search:https://www.sohu.com/a/1088362338_121606710",
+      "title": "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖",
+      "url": "https://www.sohu.com/a/1088362338_121606710",
       "source": "搜狐网",
-      "publishedAt": "2026-10-18T09:35:09.174Z",
+      "publishedAt": "2026-10-18T14:00:12.837Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10.17日:38岁杜兰特仍不愿降出场时间致膝盖挫伤,火箭三控卫重建防守体系",
+      "titleZh": "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "10.17日:38岁杜兰特仍不愿降出场时间致膝盖挫伤,火箭三控卫重建防守体系"
+        "10.16日:队记再揭杜兰特小号风波,大部队球迷评其得分手非领袖"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L9957H8M0549V4UA.html",
-      "title": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
-      "url": "https://www.163.com/dy/article/L9957H8M0549V4UA.html",
-      "source": "网易",
-      "publishedAt": "2026-10-18T09:35:09.174Z",
+      "id": "durant:search:https://m.sohu.com/a/1088491462_122556940",
+      "title": "杜兰特领衔:丰田中心季前赛收官战,火箭对阵雷霆的五大看点 ",
+      "url": "https://m.sohu.com/a/1088491462_122556940",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-18T14:00:12.837Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
+      "titleZh": "杜兰特领衔:丰田中心季前赛收官战,火箭对阵雷霆的五大看点 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?"
+        "杜兰特领衔:丰田中心季前赛收官战,火箭对阵雷霆的五大看点 "
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMigAFBVV95cUxQS0ZES2tndHowc0VLdGtGMzJKdlQteTVxV3NiTXlRUm03NzNLSnJwVjM3a0FXSTBrbVExS2hXTExfaDNjSVJJMDdIQlM4UE1pSGtEdVFXR2M5X3NRcWRXUm9OSTBxNzNkbHVrRDBpQ2FHQzl4NlU0UlVhWEVmakxncw",
-      "title": "KD怼太阳老板是无理取闹？新赛季是他自证最后机会？",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0ZES2tndHowc0VLdGtGMzJKdlQteTVxV3NiTXlRUm03NzNLSnJwVjM3a0FXSTBrbVExS2hXTExfaDNjSVJJMDdIQlM4UE1pSGtEdVFXR2M5X3NRcWRXUm9OSTBxNzNkbHVrRDBpQ2FHQzl4NlU0UlVhWEVmakxncw?oc=5",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-18T06:45:38.000Z",
-      "description": "KD怼太阳老板是无理取闹？新赛季是他自证最后机会？ 搜狐网",
-      "titleZh": "KD怼太阳老板是无理取闹？新赛季是他自证最后机会？",
-      "summaryZh": "KD怼太阳老板是无理取闹？新赛季是他自证最后机会？ 搜狐网",
-      "detailsZh": "KD怼太阳老板是无理取闹？新赛季是他自证最后机会？ 搜狐网",
+      "id": "durant:CBMiigFBVV95cUxPeW43U0U1SnhuNEtkLXlCQmNsNlFpNzFRSXRkM29HenhLRkZBdnlyMkVVZ0JhOWMtQTNEQ1MzbDVmeHhkNXduc3gzZmpNWmJyZk5LMkNmVXpLZmFmZHV1NnFuM1hXNGdXMURtbUd5eTFncVpQWmFFNmNwRUZNc2x2MlJHZkdhT1dwM0E",
+      "title": "Kevin Durant destroys New York Knicks fan for trying to make fun of his feud with Mat Ishbia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeW43U0U1SnhuNEtkLXlCQmNsNlFpNzFRSXRkM29HenhLRkZBdnlyMkVVZ0JhOWMtQTNEQ1MzbDVmeHhkNXduc3gzZmpNWmJyZk5LMkNmVXpLZmFmZHV1NnFuM1hXNGdXMURtbUd5eTFncVpQWmFFNmNwRUZNc2x2MlJHZkdhT1dwM0E?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-18T13:30:00.000Z",
+      "description": "Kevin Durant destroys New York Knicks fan for trying to make fun of his feud with Mat Ishbia Yahoo Sports",
+      "titleZh": "Kevin Durant destroys New York Knicks fan for trying to make fun of his feud with Mat Ishbia",
+      "summaryZh": "Kevin Durant destroys New York Knicks fan for trying to make fun of his feud with Mat Ishbia Yahoo Sports",
+      "detailsZh": "Kevin Durant destroys New York Knicks fan for trying to make fun of his feud with Mat Ishbia Yahoo Sports",
       "keyPoints": [
-        "KD怼太阳老板是无理取闹？新赛季是他自证最后机会？"
+        "Kevin Durant destroys New York Knicks fan for trying to make fun of his feud with Mat Ishbia"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiiwFBVV95cUxPMTdnY21FZHFvSGxMRmRfQU51YUtUX2dyUHNSQkVvb0E2SGlSZG54dlh6WDdtV3RjX1J2RE85ZDF6ZDdaUnlMWDRqdkJrQXdEbmg2eXhEbTdVREdCMkpGSk43Q0w2V09uODRiZ1JqUE5BM1ZIdkxDa2JVbXBJWVdDcmtZVXd4STZRajNv",
-      "title": "Kevin Durant Responds to Mat Ishbia's Trade Comments",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTdnY21FZHFvSGxMRmRfQU51YUtUX2dyUHNSQkVvb0E2SGlSZG54dlh6WDdtV3RjX1J2RE85ZDF6ZDdaUnlMWDRqdkJrQXdEbmg2eXhEbTdVREdCMkpGSk43Q0w2V09uODRiZ1JqUE5BM1ZIdkxDa2JVbXBJWVdDcmtZVXd4STZRajNv?oc=5",
-      "source": "RG.org",
-      "publishedAt": "2026-10-18T06:33:45.000Z",
-      "description": "Kevin Durant Responds to Mat Ishbia's Trade Comments RG.org",
-      "titleZh": "Kevin Durant Responds to Mat Ishbia's Trade Comments",
-      "summaryZh": "Kevin Durant Responds to Mat Ishbia's Trade Comments RG.org",
-      "detailsZh": "Kevin Durant Responds to Mat Ishbia's Trade Comments RG.org",
+      "id": "durant:CBMinwFBVV95cUxPV2hhcEFwTmNuRFY2d1VVY2V4YnNVd1FicEhnOU93MGJTU25iTWE4TXNfVVZhaWRXd2dfdFl0Ump0NFQwY0xhZVVqTkJ6cC01dGFBbUF4X1A2TkRwb1JQcEF6TnVTWUtYbmp3cmtwNFFHOEhUSW9ybHFUQkt0ZTQ5OWQ0MThOTlIyd0s2MXhyN2ZHbTdpNXpQeUdRajh0Z2M",
+      "title": "Dillon Brooks Sends Shot at Kevin Durant as Suns Social Beef Continues",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2hhcEFwTmNuRFY2d1VVY2V4YnNVd1FicEhnOU93MGJTU25iTWE4TXNfVVZhaWRXd2dfdFl0Ump0NFQwY0xhZVVqTkJ6cC01dGFBbUF4X1A2TkRwb1JQcEF6TnVTWUtYbmp3cmtwNFFHOEhUSW9ybHFUQkt0ZTQ5OWQ0MThOTlIyd0s2MXhyN2ZHbTdpNXpQeUdRajh0Z2M?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-10-18T13:00:02.000Z",
+      "description": "Dillon Brooks Sends Shot at Kevin Durant as Suns Social Beef Continues Sports Illustrated",
+      "titleZh": "Dillon Brooks Sends Shot at Kevin Durant as Suns Social Beef Continues",
+      "summaryZh": "Dillon Brooks Sends Shot at Kevin Durant as Suns Social Beef Continues Sports Illustrated",
+      "detailsZh": "Dillon Brooks Sends Shot at Kevin Durant as Suns Social Beef Continues Sports Illustrated",
       "keyPoints": [
-        "Kevin Durant Responds to Mat Ishbia's Trade Comments"
+        "Dillon Brooks Sends Shot at Kevin Durant as Suns Social Beef Continues"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOX2RYY194ektFU2F2VlZOV0JwTHNRczdkTldpME1GNnNkSmFHLVE2aXVqMGpmX3RpdDd0cjRwUEF1eXQ5VENXUEVhMDZaeFJkQnhia21QWnhBQjRFZXJ3bC1OTzZ4c2djLU54NmhseHJKclVwV2pFYVl6WEhkWW9KTmY5NVI",
-      "title": "太阳老板：引进杜兰特不符建队愿景 没有球队文化&巨星也冲不了冠",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2RYY194ektFU2F2VlZOV0JwTHNRczdkTldpME1GNnNkSmFHLVE2aXVqMGpmX3RpdDd0cjRwUEF1eXQ5VENXUEVhMDZaeFJkQnhia21QWnhBQjRFZXJ3bC1OTzZ4c2djLU54NmhseHJKclVwV2pFYVl6WEhkWW9KTmY5NVI?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-10-18T06:33:45.000Z",
-      "description": "太阳老板：引进杜兰特不符建队愿景 没有球队文化&巨星也冲不了冠 Sina Sports",
-      "titleZh": "太阳老板：引进杜兰特不符建队愿景 没有球队文化&巨星也冲不了冠",
-      "summaryZh": "太阳老板：引进杜兰特不符建队愿景 没有球队文化&巨星也冲不了冠 Sina Sports",
-      "detailsZh": "太阳老板：引进杜兰特不符建队愿景 没有球队文化&巨星也冲不了冠 Sina Sports",
+      "id": "durant:CBMie0FVX3lxTFBPZkxWek5pRXpZaVU1dldwRmFMM21XT2F5aERpTEdmWVpLdmUxQWpkU2JEcDRJUHdsdGI1WFc1VDRkTnU4Nm14eTZQc2Izc0d6QjFNNWl3aG1UdlR5VkgxczM2NGZjSVFTaDBHdzUyNFgxMDRPVTdBd1lRTQ",
+      "title": "Suns’ Dillon Brooks Claps Back at Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPZkxWek5pRXpZaVU1dldwRmFMM21XT2F5aERpTEdmWVpLdmUxQWpkU2JEcDRJUHdsdGI1WFc1VDRkTnU4Nm14eTZQc2Izc0d6QjFNNWl3aG1UdlR5VkgxczM2NGZjSVFTaDBHdzUyNFgxMDRPVTdBd1lRTQ?oc=5",
+      "source": "Heavy.com",
+      "publishedAt": "2026-10-18T12:36:58.000Z",
+      "description": "Suns’ Dillon Brooks Claps Back at Kevin Durant Heavy.com",
+      "titleZh": "Suns’ Dillon Brooks Claps Back at Kevin Durant",
+      "summaryZh": "Suns’ Dillon Brooks Claps Back at Kevin Durant Heavy.com",
+      "detailsZh": "Suns’ Dillon Brooks Claps Back at Kevin Durant Heavy.com",
       "keyPoints": [
-        "太阳老板：引进杜兰特不符建队愿景 没有球队文化&巨星也冲不了冠"
+        "Suns’ Dillon Brooks Claps Back at Kevin Durant"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiowFBVV95cUxNUXJvdDZyd2prNnBaQjNBQW1NMm5XMXhmMGNveFk2QTRuREdyQVcxNkhEUjZVUTRUMjdpTjdjRFR5OWpYbFYxcFQ1b1VLS2hvRWdSQ3FQNjZEMmRSaHhkM3REdGhGcFV3ZDZzVnB5STJCS0VHeUNaenJEWUpDdm5vYlVyMjhuZmZmWnZVeTd6bGVsd0lhRE1IOXY4ODk4U21Qeklj",
-      "title": "Rockets' Kevin Durant, Suns owner Mat Ishbia spar on social media over Durant's time in Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXJvdDZyd2prNnBaQjNBQW1NMm5XMXhmMGNveFk2QTRuREdyQVcxNkhEUjZVUTRUMjdpTjdjRFR5OWpYbFYxcFQ1b1VLS2hvRWdSQ3FQNjZEMmRSaHhkM3REdGhGcFV3ZDZzVnB5STJCS0VHeUNaenJEWUpDdm5vYlVyMjhuZmZmWnZVeTd6bGVsd0lhRE1IOXY4ODk4U21Qeklj?oc=5",
-      "source": "CT Insider",
-      "publishedAt": "2026-10-18T05:30:21.000Z",
-      "description": "Rockets' Kevin Durant, Suns owner Mat Ishbia spar on social media over Durant's time in Phoenix CT Insider",
-      "titleZh": "Rockets' Kevin Durant, Suns owner Mat Ishbia spar on social media over Durant's time in Phoenix",
-      "summaryZh": "Rockets' Kevin Durant, Suns owner Mat Ishbia spar on social media over Durant's time in Phoenix CT Insider",
-      "detailsZh": "Rockets' Kevin Durant, Suns owner Mat Ishbia spar on social media over Durant's time in Phoenix CT Insider",
+      "id": "durant:CBMirAFBVV95cUxOLWNnalRHSjZCdk1oWk9oRWJSaExuc24tcl9ReV9MR1E5eG9RcXgyYkdSNzRZTlJNNVhsNU5fZDNBOTgyWDE2ZkRhbHRoUVZFZ216dUJkZ3B2bkVlNXpyNEl1RnJxSEo5bHI4SGtsdjZfdjRQcGJ4d3VmYmxfb254XzUyR2g2b1BYWjE4a3AzbldsTVNzVENhRGxmN2dEWHNGRXlsYXdvYTNYS2Zk",
+      "title": "Kevin Durant Got Clickbaited Into Clapping Back On Social Media",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWNnalRHSjZCdk1oWk9oRWJSaExuc24tcl9ReV9MR1E5eG9RcXgyYkdSNzRZTlJNNVhsNU5fZDNBOTgyWDE2ZkRhbHRoUVZFZ216dUJkZ3B2bkVlNXpyNEl1RnJxSEo5bHI4SGtsdjZfdjRQcGJ4d3VmYmxfb254XzUyR2g2b1BYWjE4a3AzbldsTVNzVENhRGxmN2dEWHNGRXlsYXdvYTNYS2Zk?oc=5",
+      "source": "roundtable.io",
+      "publishedAt": "2026-10-18T11:17:42.000Z",
+      "description": "Kevin Durant Got Clickbaited Into Clapping Back On Social Media roundtable.io",
+      "titleZh": "Kevin Durant Got Clickbaited Into Clapping Back On Social Media",
+      "summaryZh": "Kevin Durant Got Clickbaited Into Clapping Back On Social Media roundtable.io",
+      "detailsZh": "Kevin Durant Got Clickbaited Into Clapping Back On Social Media roundtable.io",
       "keyPoints": [
-        "Rockets' Kevin Durant, Suns owner Mat Ishbia spar on social media over Durant's time in Phoenix"
+        "Kevin Durant Got Clickbaited Into Clapping Back On Social Media"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMitgFBVV95cUxQejFXelB2amRweFFHQ2xkYUpjdzE1UF9NbTV1Y1lrT3FFNER4YktNUEQzZ2VFZ2lCZGVLYmdVTGNuWURyMWlzTzFzb05RMzJkN3Z2VUZ5aUZIZ1hVTjMyemNDZl91YUlZRnVvdWlQZnhpdVd4UEJDRDFBYVZGTEJqUS13b0tObWU3WXV3ZGs4OGtuRUJrTmN1M0pNWTdISHR6WGdZck9nMDdvNEZ2Zk5JOUhJSDJrUQ",
-      "title": "Kevin Durant takes wild Bradley Beal shot at Phoenix Suns owner Mat Ishbia during online tiff",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejFXelB2amRweFFHQ2xkYUpjdzE1UF9NbTV1Y1lrT3FFNER4YktNUEQzZ2VFZ2lCZGVLYmdVTGNuWURyMWlzTzFzb05RMzJkN3Z2VUZ5aUZIZ1hVTjMyemNDZl91YUlZRnVvdWlQZnhpdVd4UEJDRDFBYVZGTEJqUS13b0tObWU3WXV3ZGs4OGtuRUJrTmN1M0pNWTdISHR6WGdZck9nMDdvNEZ2Zk5JOUhJSDJrUQ?oc=5",
-      "source": "HITC",
-      "publishedAt": "2026-10-18T05:00:27.000Z",
-      "description": "Kevin Durant takes wild Bradley Beal shot at Phoenix Suns owner Mat Ishbia during online tiff HITC",
-      "titleZh": "Kevin Durant takes wild Bradley Beal shot at Phoenix Suns owner Mat Ishbia during online tiff",
-      "summaryZh": "Kevin Durant takes wild Bradley Beal shot at Phoenix Suns owner Mat Ishbia during online tiff HITC",
-      "detailsZh": "Kevin Durant takes wild Bradley Beal shot at Phoenix Suns owner Mat Ishbia during online tiff HITC",
+      "id": "durant:CBMijwFBVV95cUxNUnh1dzM1QlJzQjFjdEY3RnFGbTNKRGFmVmxoNVNPWWl1Q0FqeHpPSDh1VHFhRk1MZWl5dmhKRkplSS1Db1N3cEpNTC14OW5jRXdRVXhxV2x2cGRtNGR3bmlrdExwLWJfMThLUy1sVkNtQjlOU3ZXaEdQN3dmbGNrVzhoOTl4Vl9HdERtVS1WTQ",
+      "title": "“Thanks, Matt, for cleaning up that stench” – Dillon Brooks fires back at Kevin Durant",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUnh1dzM1QlJzQjFjdEY3RnFGbTNKRGFmVmxoNVNPWWl1Q0FqeHpPSDh1VHFhRk1MZWl5dmhKRkplSS1Db1N3cEpNTC14OW5jRXdRVXhxV2x2cGRtNGR3bmlrdExwLWJfMThLUy1sVkNtQjlOU3ZXaEdQN3dmbGNrVzhoOTl4Vl9HdERtVS1WTQ?oc=5",
+      "source": "Basketball Network",
+      "publishedAt": "2026-10-18T10:27:13.000Z",
+      "description": "“Thanks, Matt, for cleaning up that stench” – Dillon Brooks fires back at Kevin Durant Basketball Network",
+      "titleZh": "“Thanks, Matt, for cleaning up that stench” – Dillon Brooks fires back at Kevin Durant",
+      "summaryZh": "“Thanks, Matt, for cleaning up that stench” – Dillon Brooks fires back at Kevin Durant Basketball Network",
+      "detailsZh": "“Thanks, Matt, for cleaning up that stench” – Dillon Brooks fires back at Kevin Durant Basketball Network",
       "keyPoints": [
-        "Kevin Durant takes wild Bradley Beal shot at Phoenix Suns owner Mat Ishbia during online tiff"
+        "“Thanks, Matt, for cleaning up that stench” – Dillon Brooks fires back at Kevin Durant"
       ],
       "category": "场外",
       "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
-      "title": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
-      "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
-      "source": "新浪网",
-      "publishedAt": "2026-10-18T09:34:58.757Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?"
-      ],
-      "category": "场外",
-      "importance": 4
     },
     {
       "subject": "chenze",
@@ -199,7 +182,7 @@
         "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -231,6 +214,23 @@
       "detailsZh": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不 手机新浪网",
       "keyPoints": [
         "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ",
+      "title": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "description": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
+      "titleZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
+      "summaryZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
+      "detailsZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
+      "keyPoints": [
+        "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻"
       ],
       "category": "场外",
       "importance": 3
@@ -297,35 +297,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "维基百科收录了网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。该页面作为基础资料入口，梳理了其网络影响与文学定位，非时效性新闻。",
-      "detailsZh": "事实：该条目存在于中文维基百科，记录了“大咕咕咕鸡”这一ID背后的创作者信息，包括其活跃的网络平台、代表作品类型以及被广泛引用的段落。评论：维基百科作为参考源，提供了相对客观的背景框架，有助于区分其与同名其他用户。传闻：无具体传闻涉及，主要基于公开可查的网络足迹整理。此链接为固定资料页，旨在提供长期稳定的背景参考，而非报道特定日期的动态事件。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "收录网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景。作为基础资料入口，提供其网络影响与创作生涯的客观记录，非当日新闻。",
+      "detailsZh": "该条目为关于网络写手大咕咕咕鸡的基础资料聚合页。事实层面：记录了其作为知名网络写手的身份，涵盖常用笔名、主要创作风格（如幽默讽刺、段子化叙事）以及在中文互联网语境下的影响力评估。评论层面：部分编辑者对其语言风格的演变进行了梳理，指出其对早期网络流行语的贡献。传闻层面：无明确未经证实的个人生活传闻，主要聚焦于公共创作领域。此页面属于固定资料入口，旨在提供长期稳定的参考信息，而非时效性新闻报道。",
       "keyPoints": [
         "记录常用笔名与创作风格",
-        "梳理作品与网络影响背景",
-        "作为非时效性基础资料入口"
+        "概述作品与网络影响力",
+        "提供基础背景资料"
       ],
-      "category": "场外",
+      "category": "作品",
       "importance": 4
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "界面新闻2015年深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。该文回顾了其早期在网络文化中的地位，属历史性文献。",
-      "detailsZh": "事实：2015年5月12日，界面新闻发布文章《大咕咕咕鸡与网络段子手创作生态》，探讨其文字特点及对当时网络语境的影响。评论：该报道具有历史价值，反映了特定时期网络写手的生存状态与文化贡献。传闻：文中未提及未经证实的个人传闻，侧重于行业观察。此内容属于过往的深度特稿，用于理解其创作脉络，不具备当日新闻属性，应视为参考资料而非即时动态。",
-      "keyPoints": [
-        "2015年发布的深度行业报道",
-        "分析创作风格与语言影响",
-        "反映早期网络文化生态"
-      ],
-      "category": "讨论",
-      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -335,16 +316,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。此为官方或粉丝维护的信息集散地，提供实时互动入口，非独立新闻报道。",
-      "detailsZh": "事实：该链接指向微博超话首页，展示相关话题下的最新帖子、热门讨论及官方认证账号信息。评论：超话是粉丝社区的核心阵地，内容更新频率高，但需甄别营销号与真实粉丝言论。传闻：超话内可能存在关于其新作品或生活状态的未经核实传言，需结合正文判断。此页面为功能性入口，用于追踪最新动态，本身不构成单一新闻事件，建议作为日常监控渠道。",
+      "titleZh": "新浪微博超话主页",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话社区入口。汇集其公开动态、读者讨论及相关话题，是粉丝互动与信息获取的核心平台，属固定资源。",
+      "detailsZh": "此为新浪微博平台上的“大咕咕咕鸡”超话索引页面。事实层面：展示了该账号相关的公开动态列表、热门话题标签及读者讨论区的聚合内容。评论层面：反映了其在微博生态中的活跃度及粉丝群体的互动模式，体现了其作为KOL的传播力。传闻层面：评论区可能包含粉丝间的各种猜测，但需以官方发布为准。此页面为固定的社交媒体主页入口，用于持续追踪其公开言行和社群反馈，不具备单日新闻属性，而是长期存在的社交资产。",
       "keyPoints": [
-        "微博超话官方/粉丝聚合页",
-        "提供实时动态与互动入口",
-        "需甄别社区内未经核实信息"
+        "汇集公开动态与读者讨论",
+        "反映微博生态活跃度",
+        "固定社交主页入口"
       ],
       "category": "公开发言",
-      "importance": 5
+      "importance": 3
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -354,16 +335,35 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "哔哩哔哩搜索聚合页，包含其作品朗读、二创视频及相关讨论。此为多媒体内容索引，方便检索音频与视频资料，非新闻类内容。",
-      "detailsZh": "事实：该链接为B站关键词搜索结果页，涵盖有声书、视频剪辑及观众评论。评论：B站内容形式多样，既有官方授权朗读，也有粉丝自发二创，质量参差不齐。传闻：部分视频标题可能夸大其词以吸引点击，需仔细核对发布者身份。此页面为资源索引工具，用于获取视听资料，不具备新闻时效性，适合用于补充文本之外的感官体验研究。",
+      "titleZh": "哔哩哔哩作品朗读与讨论聚合",
+      "summaryZh": "B站搜索关键词“大咕咕咕鸡”的结果页。聚合了作品朗读视频、相关二创内容及历史讨论，是多媒体内容检索的重要入口，非即时新闻。",
+      "detailsZh": "该链接指向哔哩哔哩全站搜索结果页。事实层面：列出了所有包含“大咕咕咕鸡”关键词的视频，包括其本人或他人发布的作品朗读、解说及二次创作视频。评论层面：视频下方的弹幕和评论反映了受众对其内容的接受度与解读方向，展现了跨平台的传播效果。传闻层面：个别视频标题可能带有误导性或夸张成分，需甄别。此页面为动态搜索结果集合，随时间推移不断更新，但本质上是多媒体内容的检索工具，属于固定类型的资源入口，用于全面查看其在视频平台的痕迹。",
       "keyPoints": [
-        "B站多媒体内容聚合索引",
-        "包含朗读、二创及评论",
-        "需辨别内容来源与真实性"
+        "聚合作品朗读与二创视频",
+        "展示跨平台传播效果",
+        "多媒体内容检索入口"
       ],
       "category": "作品",
       "importance": 3
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。虽为历史文章，但具行业参考价值，非当日事件。",
+      "detailsZh": "这是一篇发布于2015年5月12日的媒体深度报道。事实层面：详细描述了当时大咕咕咕鸡的创作手法、代表段子及其在社交媒体上的传播路径。评论层面：记者分析了其作为“网络段子手”的典型性，探讨了其对大众语言习惯的潜移默化影响，具有较高的行业观察价值。传闻层面：报道基于当时的采访与数据，未涉及后续未经证实的传闻。尽管发布时间较早，但该文章提供了理解其早期创作生态的关键视角，属于具有长期参考价值的历史文献，不应被误读为近期动态。",
+      "keyPoints": [
+        "分析创作风格与语言影响",
+        "提供早期生态关键视角",
+        "具行业参考价值的历史文献"
+      ],
+      "category": "讨论",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
