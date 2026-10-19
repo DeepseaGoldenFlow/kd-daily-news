@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T06:17:09.284Z",
+  "updatedAt": "2026-10-19T13:14:13.463Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,11 +16,79 @@
   "items": [
     {
       "subject": "durant",
+      "id": "durant:search:https://www.163.com/dy/article/L9H3KPE80529MG7Q.html",
+      "title": "盘点杜兰特贬损老东家合集:怒怼太阳老板阴阳布克 小号嘲讽雷霆",
+      "url": "https://www.163.com/dy/article/L9H3KPE80529MG7Q.html",
+      "source": "网易",
+      "publishedAt": "2026-10-19T13:10:44.021Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "盘点杜兰特贬损老东家合集:怒怼太阳老板阴阳布克 小号嘲讽雷霆",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "盘点杜兰特贬损老东家合集:怒怼太阳老板阴阳布克 小号嘲讽雷霆"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://m.dongqiudi.com/xinwen/41644",
+      "title": "伊什比亚称交易杜兰特是错误 杜兰特社媒回击",
+      "url": "https://m.dongqiudi.com/xinwen/41644",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-19T13:10:44.020Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "伊什比亚称交易杜兰特是错误 杜兰特社媒回击",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "伊什比亚称交易杜兰特是错误 杜兰特社媒回击"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://www.qiumiwu.com/player/kaiwendulante/news",
+      "title": "凯文·杜兰特最新相关新闻【NBA球员百科】 - 球迷屋",
+      "url": "https://www.qiumiwu.com/player/kaiwendulante/news",
+      "source": "球迷屋",
+      "publishedAt": "2026-10-19T13:10:44.020Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "凯文·杜兰特最新相关新闻【NBA球员百科】 - 球迷屋",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "凯文·杜兰特最新相关新闻【NBA球员百科】 - 球迷屋"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://m.dongqiudi.com/xinwen/41691",
+      "title": "杜兰特社媒回击太阳老板伊什比亚交易言论",
+      "url": "https://m.dongqiudi.com/xinwen/41691",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-19T13:10:44.020Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特社媒回击太阳老板伊什比亚交易言论",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "杜兰特社媒回击太阳老板伊什比亚交易言论"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
       "id": "durant:search:https://baike.baidu.com/item/凯文·杜兰特/3726277",
       "title": "凯文·杜兰特",
       "url": "https://baike.baidu.com/item/凯文·杜兰特/3726277",
       "source": "百度百科",
-      "publishedAt": "2026-10-19T06:13:18.883Z",
+      "publishedAt": "2026-10-19T13:10:44.020Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "凯文·杜兰特",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -29,143 +97,58 @@
         "凯文·杜兰特"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L9957H8M0549V4UA.html",
-      "title": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
-      "url": "https://www.163.com/dy/article/L9957H8M0549V4UA.html",
-      "source": "网易",
-      "publishedAt": "2026-10-19T06:13:18.883Z",
+      "id": "durant:search:https://m.dongqiudi.com/xinwen/23123",
+      "title": "杜兰特膝伤出战成疑 火箭G2客战湖人",
+      "url": "https://m.dongqiudi.com/xinwen/23123",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-19T13:10:44.020Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
+      "titleZh": "杜兰特膝伤出战成疑 火箭G2客战湖人",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOalYyQXlrc252R21uYzN3OGxtUWUzLW9LSlpxR3hhX2JXWmpzQlc5eDJNNkoyZm95b1hDTDRneEZZNnV2cVNfdzBSWDIxR3pOaXNSZ1k1QVFFT0dQSk5ZSzNSSUFfQ2JweHJCVzRodWhDS3VnYmhqMW5KVnpFZTlrNnZ1OG5kc3gtSElDRQ",
-      "title": "杜兰特痛骂太阳老板：我当初是去拯救你们，你给我配的阵容太垃圾",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOalYyQXlrc252R21uYzN3OGxtUWUzLW9LSlpxR3hhX2JXWmpzQlc5eDJNNkoyZm95b1hDTDRneEZZNnV2cVNfdzBSWDIxR3pOaXNSZ1k1QVFFT0dQSk5ZSzNSSUFfQ2JweHJCVzRodWhDS3VnYmhqMW5KVnpFZTlrNnZ1OG5kc3gtSElDRQ?oc=5",
-      "source": "搜狐",
-      "publishedAt": "2026-10-19T03:03:11.000Z",
-      "description": "杜兰特痛骂太阳老板：我当初是去拯救你们，你给我配的阵容太垃圾 搜狐",
-      "titleZh": "杜兰特痛骂太阳老板：我当初是去拯救你们，你给我配的阵容太垃圾",
-      "summaryZh": "杜兰特痛骂太阳老板：我当初是去拯救你们，你给我配的阵容太垃圾 搜狐",
-      "detailsZh": "杜兰特痛骂太阳老板：我当初是去拯救你们，你给我配的阵容太垃圾 搜狐",
-      "keyPoints": [
-        "杜兰特痛骂太阳老板：我当初是去拯救你们，你给我配的阵容太垃圾"
+        "杜兰特膝伤出战成疑 火箭G2客战湖人"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMipAFBVV95cUxNUC1qWE1oT3FmNHdhZzUxaVFJU3F1SVZGSWVsMk13MEJjOHEzWWp1Z2cwMzEyRlc5SUFkRTdxUEg2WVBXcUpUU3d2QnRMa3BWNl81Qk4yd0J0VUJTbkgzZkxwQ1N4N25mQXVGSmFLd1RxdVl4TGpQa2xOREdqVDBMaXlhOFJGTGVYN1pHSkpRTHFaM3BJbjU3a3g3ZlFDa21veGVQSQ",
-      "title": "Kevin Durant Gets Trash Talk Returned By Suns Starter",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUC1qWE1oT3FmNHdhZzUxaVFJU3F1SVZGSWVsMk13MEJjOHEzWWp1Z2cwMzEyRlc5SUFkRTdxUEg2WVBXcUpUU3d2QnRMa3BWNl81Qk4yd0J0VUJTbkgzZkxwQ1N4N25mQXVGSmFLd1RxdVl4TGpQa2xOREdqVDBMaXlhOFJGTGVYN1pHSkpRTHFaM3BJbjU3a3g3ZlFDa21veGVQSQ?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-10-18T23:30:00.000Z",
-      "description": "Kevin Durant Gets Trash Talk Returned By Suns Starter Sports Illustrated",
-      "titleZh": "Kevin Durant Gets Trash Talk Returned By Suns Starter",
-      "summaryZh": "Kevin Durant Gets Trash Talk Returned By Suns Starter Sports Illustrated",
-      "detailsZh": "Kevin Durant Gets Trash Talk Returned By Suns Starter Sports Illustrated",
+      "id": "durant:search:https://m.dongqiudi.com/xinwen/42491",
+      "title": "伊什比亚回应杜兰特:你没看完整段采访",
+      "url": "https://m.dongqiudi.com/xinwen/42491",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-19T13:10:44.020Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "伊什比亚回应杜兰特:你没看完整段采访",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "Kevin Durant Gets Trash Talk Returned By Suns Starter"
+        "伊什比亚回应杜兰特:你没看完整段采访"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTFBTSWVIR2RxVzgyMzZlVlQ2Q1RPTUU0TWdmb3Vxb0poVllud19kdzVaVVNaSkc0ZFdvREJqaC03aUJzMTROcDR3QnpReVpDUzlrQm1LWnAybG9MTGVmTGsyVGhZNkpqd0M2SkRsOHEzOFprams",
-      "title": "博格丹挑衅梦之队 安东尼杜兰特回击",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTSWVIR2RxVzgyMzZlVlQ2Q1RPTUU0TWdmb3Vxb0poVllud19kdzVaVVNaSkc0ZFdvREJqaC03aUJzMTROcDR3QnpReVpDUzlrQm1LWnAybG9MTGVmTGsyVGhZNkpqd0M2SkRsOHEzOFprams?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-18T23:10:05.000Z",
-      "description": "博格丹挑衅梦之队 安东尼杜兰特回击 新浪网",
-      "titleZh": "博格丹挑衅梦之队 安东尼杜兰特回击",
-      "summaryZh": "博格丹挑衅梦之队 安东尼杜兰特回击 新浪网",
-      "detailsZh": "博格丹挑衅梦之队 安东尼杜兰特回击 新浪网",
+      "id": "durant:search:https://m.dongqiudi.com/xinwen/43047",
+      "title": "布鲁克斯借伊什比亚言论嘲讽杜兰特",
+      "url": "https://m.dongqiudi.com/xinwen/43047",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-19T13:10:44.020Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "布鲁克斯借伊什比亚言论嘲讽杜兰特",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "博格丹挑衅梦之队 安东尼杜兰特回击"
+        "布鲁克斯借伊什比亚言论嘲讽杜兰特"
       ],
       "category": "场外",
       "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMifkFVX3lxTE5ZaHV5ZjRxaDVRWExQWTNVNlJaNzNraUM5YXE5SHhDX3o3Z0pCVU5zZTJBbDRLak1XMTctanhzdTJqOWswb1FIU3NFT1VjTF9IR25Dd3IxNWlXZUJwMmp3UmV4eXhmU0tHb0c1em1TanlReldjMUtqeWxvQkdjdw",
-      "title": "Dillon Brooks fires back at Kevin Durant as only \"The Villain\" can",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZaHV5ZjRxaDVRWExQWTNVNlJaNzNraUM5YXE5SHhDX3o3Z0pCVU5zZTJBbDRLak1XMTctanhzdTJqOWswb1FIU3NFT1VjTF9IR25Dd3IxNWlXZUJwMmp3UmV4eXhmU0tHb0c1em1TanlReldjMUtqeWxvQkdjdw?oc=5",
-      "source": "Valley of the Suns",
-      "publishedAt": "2026-10-18T23:00:00.000Z",
-      "description": "Dillon Brooks fires back at Kevin Durant as only \"The Villain\" can Valley of the Suns",
-      "titleZh": "Dillon Brooks fires back at Kevin Durant as only \"The Villain\" can",
-      "summaryZh": "Dillon Brooks fires back at Kevin Durant as only \"The Villain\" can Valley of the Suns",
-      "detailsZh": "Dillon Brooks fires back at Kevin Durant as only \"The Villain\" can Valley of the Suns",
-      "keyPoints": [
-        "Dillon Brooks fires back at Kevin Durant as only \"The Villain\" can"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMifkFVX3lxTE5qdm5SajN2RjJ6QXN0TTdoNGJTTkZ3Z2xRTk1sWDZzSmtUTk1yZjg3WWhNdng1alpZSTROOHloY25ZLTJ6VGt0cklJM2N5eUwyU1ZNM3FhSVdWbTJzRHloU251eWF1MkVxSjk4RHdibzBHcXZfRDNybXRqSVdvdw",
-      "title": "火箭大胜雷霆27分！杜兰特躺赢申京14+7+5 博格丹5三分立功",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qdm5SajN2RjJ6QXN0TTdoNGJTTkZ3Z2xRTk1sWDZzSmtUTk1yZjg3WWhNdng1alpZSTROOHloY25ZLTJ6VGt0cklJM2N5eUwyU1ZNM3FhSVdWbTJzRHloU251eWF1MkVxSjk4RHdibzBHcXZfRDNybXRqSVdvdw?oc=5",
-      "source": "finance.sina.com.cn",
-      "publishedAt": "2026-10-18T22:45:51.000Z",
-      "description": "火箭大胜雷霆27分！杜兰特躺赢申京14+7+5 博格丹5三分立功 finance.sina.com.cn",
-      "titleZh": "火箭大胜雷霆27分！杜兰特躺赢申京14+7+5 博格丹5三分立功",
-      "summaryZh": "火箭大胜雷霆27分！杜兰特躺赢申京14+7+5 博格丹5三分立功 finance.sina.com.cn",
-      "detailsZh": "火箭大胜雷霆27分！杜兰特躺赢申京14+7+5 博格丹5三分立功 finance.sina.com.cn",
-      "keyPoints": [
-        "火箭大胜雷霆27分！杜兰特躺赢申京14+7+5 博格丹5三分立功"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiY0FVX3lxTFBJc3RvN3VpanBJYkEzUnhIV3ZzM212ak5xN1NqOXZISzhxXzQ0Z2hYYmlOU2dseldLajhOUVVSdVM2RTN4WnRRMXhsdFF0OXZpR2NDR3lYZ3VMRUY2UGs1UUx2OA",
-      "title": "杜兰特最新下家赔率出炉！火箭强势领跑6队在列 勇士马刺并列第2",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJc3RvN3VpanBJYkEzUnhIV3ZzM212ak5xN1NqOXZISzhxXzQ0Z2hYYmlOU2dseldLajhOUVVSdVM2RTN4WnRRMXhsdFF0OXZpR2NDR3lYZ3VMRUY2UGs1UUx2OA?oc=5",
-      "source": "企鹅体育",
-      "publishedAt": "2026-10-18T22:10:44.000Z",
-      "description": "杜兰特最新下家赔率出炉！火箭强势领跑6队在列 勇士马刺并列第2 企鹅体育",
-      "titleZh": "杜兰特最新下家赔率出炉！火箭强势领跑6队在列 勇士马刺并列第2",
-      "summaryZh": "杜兰特最新下家赔率出炉！火箭强势领跑6队在列 勇士马刺并列第2 企鹅体育",
-      "detailsZh": "杜兰特最新下家赔率出炉！火箭强势领跑6队在列 勇士马刺并列第2 企鹅体育",
-      "keyPoints": [
-        "杜兰特最新下家赔率出炉！火箭强势领跑6队在列 勇士马刺并列第2"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:search:https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
-      "title": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
-      "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
-      "source": "新浪网",
-      "publishedAt": "2026-10-19T06:13:03.653Z",
-      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
-      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?"
-      ],
-      "category": "场外",
-      "importance": 4
     },
     {
       "subject": "chenze",
@@ -199,7 +182,7 @@
         "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -287,6 +270,25 @@
       "importance": 3
     },
     {
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "keyPoints": [
+        "陈泽- 抖音直播间"
+      ],
+      "category": "直播",
+      "importance": 3
+    },
+    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -294,15 +296,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供关于其网络影响力的基础事实信息。",
-      "detailsZh": "该条目为固定的人物资料入口，非当日新闻。内容主要基于公开可查的网络信息进行整理，涵盖其作为网络写手的身份定义、主要活跃平台及代表性创作风格。事实部分包括其ID关联的社交媒体账号及被引用的作品片段；评论部分涉及对其语言风格在中文互联网传播中作用的客观描述；传闻部分未包含未经证实的个人隐私或争议性事件。此页面旨在提供标准化的背景参考，不具备时效性动态特征。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡基础资料，涵盖常用笔名、创作风格及作品列表。作为背景参考入口，非当日新闻事件。",
+      "detailsZh": "事实：该条目为网络写手“大咕咕咕鸡”的百科资料页，主要记录其作为网络段子手的身份、常用笔名（如“大咕咕咕鸡”）、代表作品类型以及在中文互联网语境下的影响力。评论：此类资料页面通常具有长期参考价值，用于确立人物的基本画像和创作脉络。传闻：无特定传闻涉及，但需注意百科内容可能随时间更新，部分早期轶事可能存在争议。分类：场外；重要性：3。",
       "keyPoints": [
-        "提供人物基础背景与身份定义",
-        "汇总公开可查的创作风格描述",
-        "记录其在中文互联网的文化影响"
+        "记录网络写手大咕咕咕鸡的基本身份信息",
+        "汇总其常用笔名与主要创作风格",
+        "提供作品列表与网络影响背景",
+        "属于固定资料入口，非动态新闻"
       ],
-      "category": "作品",
+      "category": "场外",
       "importance": 3
     },
     {
@@ -313,16 +316,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话主页",
-      "summaryZh": "新浪微博官方认证的超级话题聚合页，汇集该写手的公开动态、读者讨论及相关资讯入口。",
-      "detailsZh": "此为固定的社交媒体社区入口，非单日新闻。页面功能在于聚合用户生成内容（UGC）和官方更新。事实层面显示其拥有独立的粉丝互动空间；评论层面反映读者对其内容的即时反馈与二次创作；传闻层面需警惕评论区可能存在的非官方谣言，但页面本身仅为载体。该链接指向的是持续更新的动态流，而非单一事件报道，因此归类为资料入口。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态及读者讨论。此为社区互动入口，非具体新闻事件，数据实时变动。",
+      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超级话题页面，是粉丝和读者进行日常互动、分享动态的主要场所。评论：超话是衡量网络写手活跃度和粉丝粘性的重要指标，反映了其在社交媒体上的即时影响力。传闻：超话内可能存在未经证实的八卦或谣言，需用户自行甄别。分类：讨论；重要性：2。",
       "keyPoints": [
-        "微博官方认证的粉丝互动社区",
-        "聚合历史动态与实时讨论",
-        "作为读者交流的核心线上阵地"
+        "微博平台官方认证的超级话题入口",
+        "聚合大咕咕咕鸡的最新公开动态",
+        "提供读者互动与讨论的空间",
+        "属于固定社区入口，非单日新闻"
       ],
       "category": "讨论",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -332,16 +336,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩相关视频搜索聚合",
-      "summaryZh": "B站针对该关键词的视频搜索结果页，包含作品朗读、二创视频及观众评论的集合。",
-      "detailsZh": "此为搜索引擎结果页，非特定新闻。它反映了该写手在视频平台的受众分布。事实部分包括用户上传的音频朗读和视频剪辑；评论部分体现观众对文本内容的解读与娱乐化改编；传闻部分极少，主要为粉丝间的内部梗。该页面展示了其作品从文字向视听转化的过程，是观察其跨媒介影响力的重要窗口，但本身不包含原创新闻内容。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索聚合页，包含大咕咕咕鸡作品朗读、相关二创视频及历史讨论。此为内容检索入口，非特定新闻发布。",
+      "detailsZh": "事实：该链接为B站关键词搜索结果页，展示与大咕咕咕鸡相关的视频内容，包括其文字作品的音频化朗读、粉丝制作的二创视频以及相关的评论讨论。评论：视频化呈现扩大了其文字作品的传播范围，体现了跨媒介的影响力。传闻：部分内容可能涉及对原作的误读或过度解读，需谨慎看待。分类：作品；重要性：2。",
       "keyPoints": [
-        "展示作品在视频平台的传播形态",
-        "包含大量听众朗读与二创内容",
-        "反映年轻受众群体的接受度"
+        "B站平台关于大咕咕咕鸡的内容聚合",
+        "包含作品朗读、二创视频及讨论",
+        "反映其作品在视频平台的传播情况",
+        "属于固定搜索入口，非当日新闻"
       ],
       "category": "作品",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -351,16 +356,17 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻关于其创作生态的报道",
-      "summaryZh": "2015年发布的深度报道，分析其创作风格及对网络语言环境的影响，具有历史文献价值。",
-      "detailsZh": "这是一篇发布于2015年的历史新闻报道，非近期动态。事实部分记录了当时其作品的流行程度及具体案例；评论部分引用了媒体对其“段子手”身份的定性及对社会情绪捕捉能力的分析；传闻部分无。该文提供了早期研究其文化现象的一手资料，有助于理解其成名背景，但因时间久远，不反映当前状态，故重要性略低于实时动态。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，分析大咕咕咕鸡的创作风格及其在网络语言文化中的影响。属历史性回顾，非当前动态。",
+      "detailsZh": "事实：这是一篇发布于2015年的新闻报道，深入探讨了大咕咕咕鸡作为早期网络段子手的创作特点，以及其语言风格对当时网络流行语的影响。评论：该报道具有较高的史料价值，记录了特定时期的网络文化现象。传闻：报道中引用的部分案例可能已随时间推移而失去时效性，但整体分析框架仍具参考意义。分类：公开发言；重要性：4。",
       "keyPoints": [
-        "2015年发布的历史深度报道",
-        "分析早期创作风格与社会影响",
-        "提供网络语言演变的个案研究"
+        "2015年媒体对其创作风格的深度分析",
+        "探讨其对网络语言文化的历史影响",
+        "记录早期网络段子手的生存状态",
+        "属历史性报道，非近期新闻"
       ],
       "category": "公开发言",
-      "importance": 2
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
