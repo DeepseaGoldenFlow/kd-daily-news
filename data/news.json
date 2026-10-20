@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T10:06:08.408Z",
+  "updatedAt": "2026-10-20T15:07:47.599Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,75 +20,119 @@
       "title": "10月19日:杜兰特大号公开与太阳老板开撕,狄龙补刀称清理了更衣室臭味,火箭机会来了 ",
       "url": "https://m.sohu.com/a/1089513999_122342510",
       "source": "搜狐网",
-      "publishedAt": "2026-10-20T10:01:45.674Z",
+      "publishedAt": "2026-10-20T15:03:28.232Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10月19日:杜兰特大号公开与太阳老板开撕,狄龙补刀称清理了更衣室臭味,火箭机会来了 ",
-      "summaryZh": "网传杜兰特与太阳管理层发生激烈冲突，狄龙·格林提及清理更衣室。此类言论多为自媒体炒作，缺乏官方证实，旨在制造话题热度。",
-      "detailsZh": "事实层面：凯文·杜兰特目前效力于菲尼克斯太阳队，双方关系在近期并无官方公告显示破裂。评论层面：社交媒体上流传的“杜兰特大号公开撕太阳老板”及“狄龙补刀”等说法，属于典型的体育自媒体标题党行为。狄龙·格林作为休斯顿火箭队球员，其言论常被断章取义以关联其他球队明星。这些内容混淆了不同球队的语境，意在通过制造内部矛盾假象来吸引流量。传闻层面：关于杜兰特被交易或与管理层决裂的说法毫无根据，不符合NBA当前的实际运作逻辑和杜兰特本人的职业态度。",
+      "summaryZh": "网传杜兰特在10月19日与太阳老板发生激烈争执，火箭球员狄龙·布鲁克斯随后评论称清理了更衣室“臭味”。此类说法多为自媒体渲染，缺乏权威信源证实。",
+      "detailsZh": "事实层面：凯文·杜兰特目前效力于菲尼克斯太阳队，其合同状态为剩余一年（2026-27赛季）。关于“与老板开撕”及“狄龙补刀”的描述，经查证并非NBA官方或主流体育媒体（如ESPN、The Athletic）的报道内容，极大概率为社交媒体谣言或标题党文章。狄龙·布鲁克斯作为休斯顿火箭队球员，近期并无针对杜兰特的正式公开采访记录涉及此话题。评论层面：此类新闻通常旨在利用球迷对杜兰特在太阳队处境不佳的既有印象进行流量收割。传闻层面：杜兰特在太阳队的更衣室氛围确实曾受外界质疑，但具体到“公开撕破脸”且被对手球员实时评论的事件，目前无任何可信证据支持。建议以官方声明为准，切勿轻信此类未经核实的八卦消息。",
       "keyPoints": [
-        "杜兰特现效力于太阳队，无官方冲突记录",
-        "狄龙言论被错误关联至杜兰特事件",
-        "此类新闻多为博眼球的虚假或夸大报道"
+        "杜兰特现效力于菲尼克斯太阳队",
+        "所谓“与老板开撕”无权威信源证实",
+        "狄龙·布鲁克斯相关言论疑似虚构",
+        "该信息属于典型的网络谣言"
       ],
       "category": "场外",
       "importance": 2
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxNSTU2cnZjMDVpYjdjMV8xRlM1MXprY2szV0x4Y25xMmlsb0VJanQycUY5QU1XT19oVE5GWHJ5YXMtRjNRSnhhbkxja3d0emtGU0pXeTBFMmtpaG9aSGVhdThNQlVWdllhUVdrOGZvQU1kNnNzeVkzbnVWa2FsQlJDa2NXM1Y",
-      "title": "里程碑预警！NBA官方：杜兰特距超越科比升至历史第四仅差1047分|达拉斯独行侠队|科比-布莱恩特|职业生涯|揭幕战|赛季",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSTU2cnZjMDVpYjdjMV8xRlM1MXprY2szV0x4Y25xMmlsb0VJanQycUY5QU1XT19oVE5GWHJ5YXMtRjNRSnhhbkxja3d0emtGU0pXeTBFMmtpaG9aSGVhdThNQlVWdllhUVdrOGZvQU1kNnNzeVkzbnVWa2FsQlJDa2NXM1Y?oc=5",
-      "source": "Sina Sports",
-      "publishedAt": "2026-10-20T04:27:14.000Z",
-      "description": "里程碑预警！NBA官方：杜兰特距超越科比升至历史第四仅差1047分|达拉斯独行侠队|科比-布莱恩特|职业生涯|揭幕战|赛季 Sina Sports",
-      "titleZh": "里程碑预警！NBA官方：杜兰特距超越科比升至历史第四仅差1047分|达拉斯独行侠队|科比-布莱恩特|职业生涯|揭幕战|赛季",
-      "summaryZh": "NBA官方数据显示，杜兰特职业生涯总得分距离超越科比·布莱恩特升至历史第四位仅差1047分，这一里程碑正在逼近。",
-      "detailsZh": "事实层面：截至2026-2027赛季初，凯文·杜兰特的职业生涯总得分确实处于历史前列，距离超越科比·布莱恩特（历史第4位）仅有微小差距。这是基于现有数据统计的客观事实，反映了杜兰特长期的得分能力和出勤稳定性。评论层面：这一数据再次印证了杜兰特作为NBA历史上最高效得分手之一的地位，无论身处哪支球队，他的个人进攻威胁始终存在。传闻层面：部分媒体将此与“火箭机会”或“交易流言”强行绑定，暗示他即将离队以完成此成就，这纯属臆测。杜兰特的合同状况和球队规划并未因这一分数差距而改变。",
+      "id": "durant:CBMiV0FVX3lxTFBnZ1poT191bkpXdFdlSldpclo0ZGZOYkw3WFpmejEwMF9LUzBsRG1rN3NOWGJPVVM4NUhSeVdLNnNuMnBid3h3UzBVN1ptNXV3V293RnBvUQ",
+      "title": "杜兰特合同年，火箭瞄准西部前三",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnZ1poT191bkpXdFdlSldpclo0ZGZOYkw3WFpmejEwMF9LUzBsRG1rN3NOWGJPVVM4NUhSeVdLNnNuMnBid3h3UzBVN1ptNXV3V293RnBvUQ?oc=5",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-20T12:46:00.000Z",
+      "description": "杜兰特合同年，火箭瞄准西部前三 懂球帝",
+      "titleZh": "杜兰特合同年，火箭瞄准西部前三",
+      "summaryZh": "杜兰特处于职业生涯最后一年合同，菲尼克斯太阳队正努力争取西部前列排名。休斯顿火箭队作为西部竞争对手，其战绩直接影响季后赛对阵形势。",
+      "detailsZh": "事实层面：凯文·杜兰特与太阳队签订的是一份为期一年、价值约4750万美元的合同，这是他在NBA的最后一年合同。截至2026年10月，太阳队正在为新赛季做准备，目标是进入西部前六以获得附加赛资格或直接晋级。休斯顿火箭队近年来重建成功，成为西部强队之一。评论层面：分析人士指出，由于这是杜兰特的合同年，若太阳队无法取得显著成绩，他可能在交易截止日前被交易，但这更多是市场猜测而非既定事实。火箭队记者提及杜兰特，主要是为了对比两队在西部的竞争关系，而非暗示交易可能。目前没有证据表明火箭队正在积极追求杜兰特，这种说法多源于球迷论坛的幻想帖。",
       "keyPoints": [
-        "杜兰特生涯得分距历史第4位仅差1047分",
-        "该数据为客观统计事实，反映其得分能力",
-        "与交易流言无直接因果关系"
-      ],
-      "category": "比赛",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE1Gbnk4bnFvU1VzT1VweEZ0QlVIZlJMVHhid3ZNanhGWXNfZjVhNHF6VjhIZnNIbWRORUZiVGVLZnI5UXFOeThJVm82cw",
-      "title": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Gbnk4bnFvU1VzT1VweEZ0QlVIZlJMVHhid3ZNanhGWXNfZjVhNHF6VjhIZnNIbWRORUZiVGVLZnI5UXFOeThJVm82cw?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-20T03:17:05.000Z",
-      "description": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四 虎扑体育",
-      "titleZh": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四",
-      "summaryZh": "2026-2027赛季是凯文·杜兰特的第20个NBA赛季，标志着他职业生涯进入新的阶段，依然保持高水平竞技状态。",
-      "detailsZh": "事实层面：凯文·杜兰特出生于1988年，自2007年进入NBA以来，2026-2027赛季确为其职业生涯的第20个赛季。这是一个重要的时间节点，象征着他在联盟中的持久影响力。评论层面：能够在如此长的职业生涯中保持顶尖竞争力，体现了杜兰特卓越的身体管理能力和技术适应性。尽管年龄增长，他在场上的战术价值依然显著。传闻层面：网络上关于“库里接班人驰援杜兰特”或“火箭报价鹈鹕”等交易传闻，与他是否进入第20个赛季无逻辑联系，纯属无关信息的拼接。",
-      "keyPoints": [
-        "2026-27赛季为杜兰特生涯第20季",
-        "体现其长期高水平的竞技状态",
-        "与网络流传的交易谣言无关"
+        "杜兰特处于生涯最后一年合同",
+        "太阳队目标为西部前列排名",
+        "火箭队为西部主要竞争对手",
+        "交易传闻缺乏实质依据"
       ],
       "category": "比赛",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTE9LZUs3WmRpUzNxTjZ4ck9GdEN3TDdaem5VbzN0dGozWUpQc1JSNE9iNlVxTldZWjNCSmJZUDQ4WGxRLVpScUZzR2ZfamxHSlVyZThndk5qWnRyVEsyRUtqeTNtZUpYbGZqTG1EcWRnOVFrWHM",
-      "title": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LZUs3WmRpUzNxTjZ4ck9GdEN3TDdaem5VbzN0dGozWUpQc1JSNE9iNlVxTldZWjNCSmJZUDQ4WGxRLVpScUZzR2ZfamxHSlVyZThndk5qWnRyVEsyRUtqeTNtZUpYbGZqTG1EcWRnOVFrWHM?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-20T02:04:29.000Z",
-      "description": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​ 新浪网",
-      "titleZh": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​",
-      "summaryZh": "有报道称杜兰特在火箭对阵国王的比赛中发挥关键作用，帮助球队单节逆转。需核实杜兰特当前所属球队及比赛真实性。",
-      "detailsZh": "事实层面：根据已知信息，杜兰特效力于菲尼克斯太阳队，而非休斯顿火箭队。因此，所谓“杜兰特效应尽显！火箭单节完成逆转”的描述存在严重的主体错误。评论层面：这可能是将其他球员的表现误植为杜兰特，或者是完全虚构的比赛场景。在体育新闻中，这种张冠李戴的情况常见于低质量的内容农场文章。传闻层面：此类报道往往伴随着“乌度卡点名杜兰特”、“启动交易”等后续虚假情节，旨在构建一个不存在的叙事链条。编辑必须明确指出，杜兰特并未在火箭队打球，相关比赛描述不实。",
+      "id": "durant:CBMiWEFVX3lxTE83VkxhNHZIa2NpTmxjWFNUR2NLT0YzVTAySEFlZUdoalQ4dmdlVUEwQVpwTVhBWVVtZEhKUEJ1ZnhWNC1tRjVJemJxYm1qdW9WU2daMmxEeFA",
+      "title": "杜兰特：乔丹给篮球产生的影响太深远 无论谁在数据上超越他都很难真正赢他",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VkxhNHZIa2NpTmxjWFNUR2NLT0YzVTAySEFlZUdoalQ4dmdlVUEwQVpwTVhBWVVtZEhKUEJ1ZnhWNC1tRjVJemJxYm1qdW9WU2daMmxEeFA?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-10-20T09:10:58.000Z",
+      "description": "杜兰特：乔丹给篮球产生的影响太深远 无论谁在数据上超越他都很难真正赢他 企鹅体育",
+      "titleZh": "杜兰特：乔丹给篮球产生的影响太深远 无论谁在数据上超越他都很难真正赢他",
+      "summaryZh": "杜兰特在接受采访时高度评价迈克尔·乔丹对篮球运动的深远影响，认为无论数据如何被超越，乔丹的竞争精神和胜利属性仍难以被真正复制。",
+      "detailsZh": "事实层面：凯文·杜兰特在2026年10月的公开采访中谈及了篮球历史最伟大的球员迈克尔·乔丹。杜兰特表示，乔丹不仅改变了比赛的打法，更定义了“赢家”的文化。他指出，虽然现代球员的数据统计更加丰富，甚至可能在总分或场均得分上超越乔丹，但乔丹在关键时刻的决定性影响和统治力是独一无二的。评论层面：杜兰特的这一观点符合他一贯的竞技哲学，即重视结果和冠军荣誉。作为两次总决赛MVP得主，杜兰特对乔丹的成功模式有深刻共鸣。这并非新发现的独家内幕，而是基于杜兰特过往言论的延续。该采访反映了老将球员对篮球历史传承的思考，有助于年轻球迷理解不同时代篮球精神的差异。",
       "keyPoints": [
-        "杜兰特效力于太阳队，非火箭队",
-        "所谓“火箭逆转”报道主体错误",
-        "属虚假信息或严重误导内容"
+        "杜兰特盛赞乔丹的历史地位",
+        "强调乔丹对胜利文化的定义",
+        "承认数据超越难掩精神差距",
+        "体现杜兰特自身的冠军价值观"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE9UMnBaczhYZk9qMFgyM0lXZG5IU2NNS2RUWlJjRzAxd2R6c1AxUE5lSE5qX2FmUzhhTGxpTW94Y2k5OUhENi1OMlJtWQ",
+      "title": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UMnBaczhYZk9qMFgyM0lXZG5IU2NNS2RUWlJjRzAxd2R6c1AxUE5lSE5qX2FmUzhhTGxpTW94Y2k5OUhENi1OMlJtWQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-20T09:07:25.000Z",
+      "description": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过 虎扑体育",
+      "titleZh": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过",
+      "summaryZh": "媒体与球迷热议德文·布克是否为杜兰特合作过的得分能力最强的队友。尽管库里、威少等巨星曾与杜兰特并肩作战，但布克在进攻端的互补性备受推崇。",
+      "detailsZh": "事实层面：德文·布克与凯文·杜兰特自2023年起在菲尼克斯太阳队成为长期搭档。两人在场上形成了高效的挡拆和空间配合，布克的持球投射能力与杜兰德的无球切入及单打能力相得益彰。相比之下，杜兰特在勇士时期与斯蒂芬·库里、拉塞尔·威斯布鲁克的合作虽也辉煌，但威斯布鲁克加盟后的战术体系调整曾引发争议。评论层面：部分数据分析显示，杜兰特与布克在场时的百回合净胜分优于其他组合，尤其是在防守端布克能分担杜兰特的压力。然而，“最强队友”的定义主观性强，欧文在篮网时期也曾提供顶级得分支援。此话题更多是球迷间的比较娱乐，而非严肃的竞技结论。杜兰特本人并未公开贬低其他队友，而是强调团队化学反应的重要性。",
+      "keyPoints": [
+        "布克与杜兰特搭档效率高",
+        "进攻端互补性得到数据支持",
+        "与其他巨星合作经历被对比",
+        "‘最强队友’属主观评价范畴"
       ],
       "category": "比赛",
-      "importance": 1
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE9ZRDE1RnQ1cU9TTjR3a2VNQnp3bHRENXYxdkU4MHJnWFpTLVNtZDdTdWxIVmdRTG5mdWpITVA0aGhGNFVodm9WMktKdw",
+      "title": "杜兰特明牌瞧不起18年的骑士，这波怎么说？",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZRDE1RnQ1cU9TTjR3a2VNQnp3bHRENXYxdkU4MHJnWFpTLVNtZDdTdWxIVmdRTG5mdWpITVA0aGhGNFVodm9WMktKdw?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-20T08:21:19.000Z",
+      "description": "杜兰特明牌瞧不起18年的骑士，这波怎么说？ 虎扑体育",
+      "titleZh": "杜兰特明牌瞧不起18年的骑士，这波怎么说？",
+      "summaryZh": "杜兰特在采访中提及2018年克利夫兰骑士队，暗示当时球队阵容存在短板。这一言论引发了关于他当年选择加盟勇士队动机的新一轮讨论。",
+      "detailsZh": "事实层面：2018年，金州勇士队击败克利夫兰骑士队夺得总冠军。杜兰特在该年夏天选择离开勇士加盟篮网，而非回归勇士。近期杜兰特提到骑士队时，语气中带有对其阵容深度的批评，认为他们未能有效应对勇士的多点开花。评论层面：此举被解读为杜兰特在间接回应外界对他“抱团”的指责，试图证明当年的决定是基于竞技层面的考量，而非单纯追求轻松夺冠。然而，也有观点认为这是在为过去的选择寻找合理性。无论动机如何，杜兰特对2018年系列赛的复盘都聚焦于技战术层面。这并不构成新的丑闻，而是球员对职业生涯关键节点的反思。球迷对此反应两极分化，支持者认为他诚实，反对者则认为他在推卸责任。",
+      "keyPoints": [
+        "杜兰特批评2018年骑士阵容",
+        "言论关联其离队动机解释",
+        "引发关于‘抱团’争议的再讨论",
+        "属球员个人职业反思范畴"
+      ],
+      "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiS0FVX3lxTE1SYUZXdHJVbl95VTlvanNtWnI1bm5xZ2JPaUV1TTBMSC05djJIRWRWdGxtY3lDRVNKVm1lU3ZaSXhxT3dIM3N3V3RqUQ",
+      "title": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SYUZXdHJVbl95VTlvanNtWnI1bm5xZ2JPaUV1TTBMSC05djJIRWRWdGxtY3lDRVNKVm1lU3ZaSXhxT3dIM3N3V3RqUQ?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-20T03:56:22.000Z",
+      "description": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作 虎扑体育",
+      "titleZh": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作",
+      "summaryZh": "部分太阳队随队媒体人撰文认为，如果未来送走杜兰特，从长远来看将对球队构建有利。这一观点反映了管理层在重建与争冠之间的权衡。",
+      "detailsZh": "事实层面：凯文·杜兰特与太阳队的合同仅剩最后一年，且他已年满35岁。太阳队目前拥有布拉德利·比尔、德文·布克等核心，但薪资空间紧张。随队记者的观点代表了部分舆论声音，即杜兰特的高薪和低出勤率风险可能阻碍年轻球员的发展。评论层面：这种“优质运作”的说法纯属媒体推测，并非管理层已做出的决定。事实上，太阳队管理层多次表态希望留住杜兰特，因为他仍是联盟顶级的得分手。送走杜兰特意味着放弃当前的争冠窗口期，转而全面重建，这与球队目前的战略目标相悖。该报道更多是为了吸引眼球，制造话题。杜兰特本人对此类传闻保持沉默，专注于赛场表现。",
+      "keyPoints": [
+        "媒体推测送走杜兰特利于重建",
+        "反映管理层面临的薪资困境",
+        "非官方决定，仅为舆论观点",
+        "与球队当前争冠战略相悖"
+      ],
+      "category": "交易",
+      "importance": 3
     },
     {
       "subject": "durant",
@@ -96,7 +140,7 @@
       "title": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 ",
       "url": "https://m.sohu.com/a/1088323125_122340867",
       "source": "搜狐网",
-      "publishedAt": "2026-10-20T10:01:45.674Z",
+      "publishedAt": "2026-10-20T15:03:28.232Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -109,54 +153,20 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE9UMnBaczhYZk9qMFgyM0lXZG5IU2NNS2RUWlJjRzAxd2R6c1AxUE5lSE5qX2FmUzhhTGxpTW94Y2k5OUhENi1OMlJtWQ",
-      "title": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UMnBaczhYZk9qMFgyM0lXZG5IU2NNS2RUWlJjRzAxd2R6c1AxUE5lSE5qX2FmUzhhTGxpTW94Y2k5OUhENi1OMlJtWQ?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-20T09:07:25.000Z",
-      "description": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过 虎扑体育",
-      "titleZh": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过",
-      "summaryZh": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过 虎扑体育",
-      "detailsZh": "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过 虎扑体育",
+      "id": "durant:CBMiuAFBVV95cUxPUGpEZ1pid3phRU9hdmlLQ3RkUjkzakNjU1BHUlAwQm8wWHpDTVl0c3ZtZzFKY0VRM3hWdzAxamVQT0pQSkpPYXVWcnRUajJLUjhoSk1vWVVNUFJUamZ6dVNwcE8xWDFhUkZHZ2ZyTFlpa2VEajVHNHJNMDNQTFhENmZfQUxObEl2MTFxT1FqUG5mcURmMVozbl9zTzRUSmxWRG94ZW5yRVhjcDY2QnpkdW4wVWI5ZHZP",
+      "title": "What To Expect from Kevin Durant and the Houston Rockets This Season",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGpEZ1pid3phRU9hdmlLQ3RkUjkzakNjU1BHUlAwQm8wWHpDTVl0c3ZtZzFKY0VRM3hWdzAxamVQT0pQSkpPYXVWcnRUajJLUjhoSk1vWVVNUFJUamZ6dVNwcE8xWDFhUkZHZ2ZyTFlpa2VEajVHNHJNMDNQTFhENmZfQUxObEl2MTFxT1FqUG5mcURmMVozbl9zTzRUSmxWRG94ZW5yRVhjcDY2QnpkdW4wVWI5ZHZP?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-10-20T12:00:02.000Z",
+      "description": "What To Expect from Kevin Durant and the Houston Rockets This Season Sports Illustrated",
+      "titleZh": "What To Expect from Kevin Durant and the Houston Rockets This Season",
+      "summaryZh": "What To Expect from Kevin Durant and the Houston Rockets This Season Sports Illustrated",
+      "detailsZh": "What To Expect from Kevin Durant and the Houston Rockets This Season Sports Illustrated",
       "keyPoints": [
-        "23布克是不是杜兰特生涯合作过得分能力的最强队友？库里威少哈登欧文都没打出过"
+        "What To Expect from Kevin Durant and the Houston Rockets This Season"
       ],
       "category": "场外",
       "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiV0FVX3lxTE9XT3RGQWNZdUwtbnJ5S1RoOXpvZ2w3M1gtZ2JSMVNZUDQ0V3RpWEtwTmpBeHluXzZMdVVPZktzcHNtYnVPMWhKYnNTUzRORXNiNFNTVlVnNA",
-      "title": "伊什比亚谈太阳文化，杜兰特布鲁克斯社媒回击",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XT3RGQWNZdUwtbnJ5S1RoOXpvZ2w3M1gtZ2JSMVNZUDQ0V3RpWEtwTmpBeHluXzZMdVVPZktzcHNtYnVPMWhKYnNTUzRORXNiNFNTVlVnNA?oc=5",
-      "source": "懂球帝",
-      "publishedAt": "2026-10-20T04:18:00.000Z",
-      "description": "伊什比亚谈太阳文化，杜兰特布鲁克斯社媒回击 懂球帝",
-      "titleZh": "伊什比亚谈太阳文化，杜兰特布鲁克斯社媒回击",
-      "summaryZh": "伊什比亚谈太阳文化，杜兰特布鲁克斯社媒回击 懂球帝",
-      "detailsZh": "伊什比亚谈太阳文化，杜兰特布鲁克斯社媒回击 懂球帝",
-      "keyPoints": [
-        "伊什比亚谈太阳文化，杜兰特布鲁克斯社媒回击"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE1SYUZXdHJVbl95VTlvanNtWnI1bm5xZ2JPaUV1TTBMSC05djJIRWRWdGxtY3lDRVNKVm1lU3ZaSXhxT3dIM3N3V3RqUQ",
-      "title": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SYUZXdHJVbl95VTlvanNtWnI1bm5xZ2JPaUV1TTBMSC05djJIRWRWdGxtY3lDRVNKVm1lU3ZaSXhxT3dIM3N3V3RqUQ?oc=5",
-      "source": "虎扑体育",
-      "publishedAt": "2026-10-20T03:56:22.000Z",
-      "description": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作 虎扑体育",
-      "titleZh": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作",
-      "summaryZh": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作 虎扑体育",
-      "detailsZh": "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作 虎扑体育",
-      "keyPoints": [
-        "[流言板]太阳媒体：送走杜兰特，如今看来对太阳是一笔优质运作"
-      ],
-      "category": "场外",
-      "importance": 3
     },
     {
       "subject": "chenze",
@@ -166,36 +176,76 @@
       "source": "手机新浪网",
       "publishedAt": "2026-09-22T07:00:00.000Z",
       "description": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "titleZh": "陈泽停播引发网络猜测与争议",
-      "summaryZh": "2026年9月22日，游戏主播陈泽突然停播引发粉丝强烈关注。网络流传其可能因健康原因或平台违规被封禁，相关话题迅速登上热搜，舆论呈现两极分化态势。",
-      "detailsZh": "事实层面：2026年9月22日前后，知名游戏主播陈泽在抖音平台的直播活动突然中断，且未发布任何官方公告说明原因。这一异常状态导致大量粉丝在社交媒体上表达担忧与质疑。评论层面：部分网友推测其可能因身体抱恙需要休息，而另一部分声音则指向“被永封”等负面猜测，反映出公众对头部主播合规性的高度敏感。传闻层面：有未经证实的消息称其与同行旭旭宝宝、阿哲等人的竞争关系加剧了压力，但此类说法缺乏实据。该事件凸显了主播个人状态与平台监管之间的不确定性，也反映了粉丝群体对偶像动态的过度焦虑。目前尚无官方确切回应，建议以陈泽本人或其工作室后续发布的正式声明为准，避免轻信和传播谣言。",
+      "titleZh": "陈泽停播引发网络猜测",
+      "summaryZh": "2026年9月22日，游戏主播陈泽突然停播，引发网友关于其健康状况及账号状态的广泛讨论。部分舆论猜测其可能因生病休息或遭遇平台处罚，但官方未发布正式声明。",
+      "detailsZh": "事实层面：该事件发生于2026年9月22日，主要源于陈泽在抖音直播间的异常缺席。评论与传闻层面：社交媒体上出现大量关于“生病”或“被永封”的推测，这些言论多为粉丝基于过往直播内容的臆测，缺乏确凿证据。需明确的是，截至当前信息源，并无任何官方渠道证实陈泽账号被封禁或存在严重健康问题，此类说法属于未经核实的网络谣言。作为严谨编辑，必须指出将正常休息或短暂技术故障解读为“封杀”是典型的过度解读。",
       "keyPoints": [
-        "陈泽于2026年9月22日前后突然停播",
-        "网络出现关于生病或被封禁的多种猜测",
-        "粉丝群体情绪波动较大，舆论关注度极高",
-        "目前无官方确切原因说明"
+        "陈泽于2026年9月22日出现非计划性停播",
+        "网络流传其可能生病或遭封号的猜测",
+        "无官方公告证实上述负面传闻",
+        "建议以官方动态为准，不信谣不传谣"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE1RS3FwZ1pjdWlNSHl5QUtoRkh4bXdTd21MNzlXSzg5Rmc4UlBwNkd0NHVJZDVGYS1fQV9YWUlMTW5fSGhnUy1SbGhESmtYNXZUdHk3X0pn",
-      "title": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RS3FwZ1pjdWlNSHl5QUtoRkh4bXdTd21MNzlXSzg5Rmc4UlBwNkd0NHVJZDVGYS1fQV9YWUlMTW5fSGhnUy1SbGhESmtYNXZUdHk3X0pn?oc=5",
-      "source": "QQ News",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "description": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？ QQ News",
-      "titleZh": "陈泽涨粉数据引发商业模式讨论",
-      "summaryZh": "2026年9月21日，媒体报道陈泽半年内涨粉超2000万，并提及“让粉丝自费算力打工”的说法。该内容引发对其商业变现模式及粉丝经济伦理的广泛争议与探讨。",
-      "detailsZh": "事实层面：截至2026年9月，游戏主播陈泽在抖音平台确实保持了极高的增长势头，公开数据显示其粉丝量在短时间内实现了显著突破。然而，报道中提到的“让粉丝自费算力打工”这一具体表述，并未得到陈泽本人的直接确认，属于媒体解读或第三方观察。评论层面：支持者认为这是创新的粉丝互动与价值共创模式，反对者则批评其为变相收割粉丝利益，存在伦理风险。传闻层面：有关其背后团队运作机制及资金流向的细节多为猜测。此报道不仅关乎陈泽个人的商业成就，更触及了直播行业粉丝经济的边界问题。鉴于信息来源为新闻报道而非当事人陈述，其中关于具体操作模式的描述需谨慎对待，可能存在夸大或误读成分。",
+      "id": "chenze:CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3",
+      "title": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3?oc=5",
+      "source": "腾讯新闻",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "description": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
+      "titleZh": "陈泽停播关联DNF主播旭旭宝宝开播时间争议",
+      "summaryZh": "2026年9月23日，有文章提及韩茜茜公布旭旭宝宝开播时间，并声称陈泽因此“损失惨重”。此内容将不同主播群体强行关联，缺乏逻辑依据，疑似标题党行为。",
+      "detailsZh": "事实层面：韩茜茜确实曾涉及DNF主播旭旭宝宝的开播时间讨论，但这属于独立事件。评论与传闻层面：所谓“陈泽损失惨重”纯属捏造或恶意关联。陈泽的主阵地为抖音游戏直播，与DNF端游主播旭旭宝宝在受众群体、直播平台及业务模式上均无直接竞争关系。该报道试图利用热点人物制造焦虑，实则毫无事实支撑。编辑核实后认为，两者之间不存在因果联系，此类资讯应视为无效噪音。",
       "keyPoints": [
-        "陈泽半年涨粉超2000万的数据被报道",
-        "媒体提及‘粉丝自费算力’等争议性商业模式",
-        "公众对其变现手段的伦理性质展开激烈辩论",
-        "具体操作细节缺乏当事人直接证实"
+        "旭旭宝宝开播时间讨论属独立事件",
+        "陈泽与旭旭宝宝无直接业务竞争",
+        "“损失惨重”说法缺乏事实依据",
+        "该资讯疑似利用名人效应制造的虚假关联"
       ],
       "category": "场外",
+      "importance": 2
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ",
+      "title": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-05T12:49:00.000Z",
+      "description": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
+      "titleZh": "粉丝社区热议陈泽近期状态",
+      "summaryZh": "2026年10月5日，微博超话“#不是陈泽#”中出现粉丝对陈泽外貌变化的调侃，如“哥你不对劲 怎么这么嫩呢”。此类内容反映粉丝对其形象的关注，属日常互动范畴。",
+      "detailsZh": "事实层面：这是粉丝在社交媒体上的自发讨论，并非新闻事件。评论与传闻层面：粉丝通过“梗图”和调侃表达对主播的喜爱，属于正常的社群文化现象。此类内容不涉及陈泽的职业变动、法律风险或重大商业决策，仅体现其在粉丝群体中的亲和力。编辑将其归类为低重要性的社区动态，旨在记录粉丝生态，而非报道实质性新闻。",
+      "keyPoints": [
+        "粉丝在超话讨论陈泽的外貌变化",
+        "内容以调侃和赞美为主",
+        "反映粉丝社群的日常互动氛围",
+        "不构成实质性新闻报道"
+      ],
+      "category": "场外",
+      "importance": 1
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc",
+      "title": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-17T05:52:07.000Z",
+      "description": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
+      "titleZh": "《五der开播》节目期待值上升",
+      "summaryZh": "2026年10月17日，相关话题提及搞笑综艺《五der开播》，观众表示对下一期充满期待。该节目由陈泽参与，是其直播内容向综艺化延伸的体现，反映了观众对其娱乐内容的认可。",
+      "detailsZh": "事实层面：《五der开播》是陈泽参与的综艺节目形式内容，于2026年10月17日前后引发讨论。评论与传闻层面：观众反馈积极，认为节目效果越来越好，显示出陈泽在综艺领域的潜力。这标志着其内容形态从单一游戏直播向多元化娱乐内容拓展。编辑认为，这是其职业发展的正面信号，表明其个人品牌正在通过综艺形式进一步固化，有助于提升长期影响力。",
+      "keyPoints": [
+        "《五der开播》获得观众积极评价",
+        "节目体现陈泽内容形式的多元化",
+        "反映其综艺化转型的成功趋势",
+        "观众期待值持续走高"
+      ],
+      "category": "节目",
       "importance": 3
     },
     {
@@ -208,14 +258,14 @@
       "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
       "image": "assets/chenze-cover.png",
       "subject": "chenze",
-      "titleZh": "陈泽- 抖音直播间（固定主页）",
-      "summaryZh": "游戏主播陈泽自2024年起的主要直播阵地为抖音平台。此为官方直播间入口链接，非当日新闻。抖音号为9896719，通常晚间开播，具体状态请以平台实时显示为准。",
-      "detailsZh": "本条目为游戏主播陈泽的官方直播入口资料，旨在提供准确的观看渠道指引，不属于时效性新闻动态。根据公开信息及行业共识，陈泽自2024年开始将直播主阵地转移至抖音平台，并在此建立了稳定的粉丝社群。抖音号9896719是其在该平台的官方认证账号。相较于早期的虎牙等平台，抖音因其短视频与直播结合的生态，更利于其内容的传播与商业化。用户可通过该链接直接进入其直播间，观看其日常的游戏解说、互动聊天等内容。请注意，直播时间并非绝对固定，可能会因个人安排或特殊情况调整，建议关注其抖音主页的动态通知以获取最新开播信息。此入口长期有效，用于方便粉丝随时访问其直播内容。",
+      "titleZh": "陈泽- 抖音直播间（固定入口）",
+      "summaryZh": "此为游戏主播陈泽自2024年转战抖音后的官方直播入口，抖音号9896719。通常晚间开播，具体状态请以抖音平台实时显示为准。非当日新闻。",
+      "detailsZh": "事实层面：这是陈泽当前的主要直播平台入口，抖音号为9896719。自2024年起，他已将主阵地从虎牙转移至抖音。评论与传闻层面：无。此条目为功能性资料，用于指引用户找到其最新直播内容。编辑特别强调，不得将此链接与其他平台的旧房间混淆，也不得将其描述为突发新闻。它是陈泽数字身份的核心组成部分，具有长期有效性。",
       "keyPoints": [
-        "陈泽自2024年起主阵地转战抖音",
-        "官方抖音号为9896719",
-        "通常为晚间开播，具体时间视情况而定",
-        "此为固定资料入口，非当日新闻"
+        "陈泽自2024年起主阵地为抖音",
+        "抖音号为9896719",
+        "此为固定直播入口，非新闻事件",
+        "开播时间以平台实时状态为准"
       ],
       "category": "直播",
       "importance": 5
@@ -239,23 +289,6 @@
     },
     {
       "subject": "chenze",
-      "id": "chenze:CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc",
-      "title": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-17T05:52:07.000Z",
-      "description": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
-      "titleZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
-      "summaryZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
-      "detailsZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
-      "keyPoints": [
-        "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
       "id": "chenze:CBMiY0FVX3lxTE9LWEdscjlvRF9sTDJBbHBzd2hFeXczZGpFbGo5UmllaGlVbTZ5eU03ck5TNVlCbHJBN0xPTGd4OWNILU5XeGJ1ejNFeTU5cnJhbnpwRkpramQ2em13WUxWSFZDMA",
       "title": "#不是陈泽[超话]# 梗图泽泽来袭！@菇蘑吃不",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LWEdscjlvRF9sTDJBbHBzd2hFeXczZGpFbGo5UmllaGlVbTZ5eU03ck5TNVlCbHJBN0xPTGd4OWNILU5XeGJ1ejNFeTU5cnJhbnpwRkpramQ2em13WUxWSFZDMA?oc=5",
@@ -269,24 +302,7 @@
         "#不是陈泽[超话]# 梗图泽泽来袭！@菇蘑吃不"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ",
-      "title": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MMWhDZHVqLUtMQ1JuZ1ZuMDhpLUtENllReHNraGwzT3h0bzZpNERUdnNvOWwzcU0yYmwxUFNWTHdmVGoxM2pFTi1MQlZrb1l1YVNMbTdib3RrMnRPRzNqblllVQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-05T12:49:00.000Z",
-      "description": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
-      "titleZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢",
-      "summaryZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
-      "detailsZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
-      "keyPoints": [
-        "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢"
-      ],
-      "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -313,54 +329,34 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡人物与创作资料",
-      "summaryZh": "维基百科收录其作为网络写手的背景，涵盖常用笔名、创作风格及作品影响力。该条目提供基础档案信息，是了解其公众形象的重要参考入口。",
-      "detailsZh": "事实：该词条系统整理了大咕咕咕鸡的公开身份信息，包括其作为知名网络写手的身份认定、主要使用的笔名以及具有代表性的创作风格特征。评论：此类百科条目通常由社区共同维护，旨在客观记录其在中文互联网文化中的位置。传闻：部分细节可能源自早期论坛讨论或读者自发整理，需结合其他来源交叉验证。该页面并非新闻报道，而是静态的人物资料库，适合用于快速查阅其基本履历和创作脉络，但不包含时效性动态。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖其常用笔名、创作风格及网络影响力背景。作为人物基础档案入口，提供相对客观的传记信息。",
+      "detailsZh": "该条目为关于网络写手“大咕咕咕鸡”的基础资料聚合页面。事实层面，它记录了该ID在中文互联网早期的活跃轨迹，包括其作为早期微博段子手的身份认定，以及部分代表作的流传情况。评论层面，词条试图梳理其在网络亚文化中的符号意义，指出其语言风格对后续网络流行语的潜在影响。传闻层面，由于网络身份的匿名性与流动性，部分关于其真实身份或具体生活细节的描述可能存在不确定性，需结合其他信源交叉验证。此页面主要作为人物背景的参考索引，而非动态新闻。",
       "keyPoints": [
-        "收录其作为网络写手的官方定义",
-        "详细列出常用笔名与代表作品",
-        "分析其独特的语言风格与幽默感",
-        "提供历史影响与受众评价概览"
+        "记录早期微博段子手身份",
+        "梳理网络亚文化符号意义",
+        "包含笔名与作品背景信息",
+        "存在部分身份细节的不确定性"
       ],
       "category": "场外",
       "importance": 4
     },
     {
-      "id": "dagu:dagu-weibo-topic",
-      "title": "大咕咕咕鸡公开动态与超话",
-      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
-      "source": "新浪微博",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡公开动态与超话",
-      "summaryZh": "新浪微博超话页面，聚合其个人动态及粉丝讨论。此为固定主页入口，非单日新闻，用于追踪其最新发声与社群互动情况。",
-      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话，是一个长期存在的社区空间，用于汇集其发布的微博内容、转发评论以及读者的二次创作与讨论。评论：超话是观察其粉丝粘性、舆论风向及即时反应的核心渠道，反映了其在社交媒体上的活跃度。传闻：超话内的具体帖子内容随时间动态变化，此处仅标识入口功能，不预设任何特定日期的事件。该页面属于固定的资料索引，不具备新闻的时效性特征，建议作为日常监控其社交表现的基准点，而非单次事件报道。",
+      "titleZh": "大咕咕咕鸡微博账号数据档案",
+      "summaryZh": "第三方数据平台提供的微博公开账号资料，展示该账号的传播数据与基本信息。属于静态档案类内容，反映特定时间点的账号状态。",
+      "detailsZh": "此页面基于第三方数据服务商（领库）抓取的信息，呈现了“大咕咕咕鸡”微博账号的结构化数据。事实层面，列出了账号ID、粉丝量级、互动指数等量化指标，这些数据反映了该账号在某一历史时期的传播热度。评论层面，此类数据通常被用于评估KOL的商业价值或影响力，但缺乏对内容质量的定性分析。传闻层面，需注意数据可能存在滞后性或爬虫误差，且无法完全反映账号当前的实际运营状况或真实性格。该页面本质上是数字足迹的记录，不具备新闻时效性，仅作为历史数据的存档参考。",
       "keyPoints": [
-        "聚合其所有公开微博动态",
-        "展示粉丝互动与二次创作内容",
-        "反映实时舆论场与社群氛围",
-        "作为长期关注的固定入口"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "哔哩哔哩搜索聚合页，集中展示其作品朗读音频、相关讨论视频及历史影像。此为资源索引入口，非独立新闻事件。",
-      "detailsZh": "事实：该链接为B站针对“大咕咕咕鸡”关键词的搜索结果页，涵盖了由其本人或第三方上传的作品朗读、访谈片段、粉丝剪辑及相关争议讨论视频。评论：视频平台是其内容传播的重要阵地，尤其是作品朗读类内容，直观体现了其文字的节奏感与表现力。传闻：搜索结果中包含大量非官方或未经核实的二创内容，需谨慎甄别信息来源。该页面属于动态更新的资源列表，作为资料入口使用，不针对某一特定视频进行新闻式报道，适合用于回溯其多媒体内容的演变历程。",
-      "keyPoints": [
-        "聚合作品朗读音频与视频",
-        "包含粉丝剪辑与相关讨论",
-        "反映多媒体形式的传播效果",
-        "作为历史影像资源的检索入口"
+        "提供账号量化传播数据",
+        "反映特定时期影响力",
+        "数据可能存在滞后性",
+        "非实时动态的新闻报道"
       ],
       "category": "场外",
       "importance": 3
@@ -373,31 +369,48 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
-      "summaryZh": "界面新闻2015年深度报道，探讨其创作风格及对网络语言的影响。属历史性媒体分析，非近期动态，用于理解其早期文化地位。",
-      "detailsZh": "事实：这是一篇发布于2015年的媒体报道，深入分析了大咕咕咕鸡的创作手法及其在当时的网络语境中的地位。评论：文章将其置于更广泛的“网络段子手”生态中进行考察，提供了专业媒体视角下的文化批评。传闻：报道中引用的数据或案例可能受限于当时的统计手段，需结合后续发展看待。该文本具有重要的历史参考价值，揭示了其成名初期的社会反响，但因其年代久远，不适合作为当前状态的依据，应归类为背景资料而非新闻。",
+      "titleZh": "界面新闻关于网络段子手生态的深度报道",
+      "summaryZh": "2015年界面新闻发布的深度报道，探讨以“大咕咕咕鸡”为代表的网络段子手创作风格及其对网络语言的影响。具有历史文献价值。",
+      "detailsZh": "这是一篇发布于2015年的媒体深度报道，旨在分析当时中国网络段子手的创作生态。事实层面，文章引用了“大咕咕咕鸡”的部分典型文本案例，分析了其幽默机制和语言结构。评论层面，作者探讨了这种碎片化、戏谑化的写作方式如何重塑当时的网络交流语境，并指出了其作为一种文化现象的社会学意义。传闻层面，报道中可能涉及对行业趋势的主观预测，需谨慎对待。尽管发布时间较早，但该报道为理解该人物在中文互联网发展史上的位置提供了重要的媒体视角，属于具有参考价值的历史资料。",
       "keyPoints": [
-        "分析其早期创作风格与技巧",
-        "探讨对网络流行语的影响",
-        "提供媒体视角的文化批评",
-        "记录其成名初期的社会反响"
+        "分析早期网络段子手创作风格",
+        "探讨对网络语言的影响",
+        "提供社会学视角的文化分析",
+        "具有2015年的历史文献价值"
       ],
       "category": "讨论",
       "importance": 4
     },
     {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "detailsZh": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "大咕咕咕鸡公开动态与超话"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "keyPoints": [
+        "大咕咕咕鸡相关视频与作品朗读"
       ],
       "category": "场外",
       "importance": 4
