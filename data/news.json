@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T23:42:50.836Z",
+  "updatedAt": "2026-10-20T04:50:34.886Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,28 +16,11 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://baike.baidu.com/item/凯文·杜兰特/3726277",
-      "title": "凯文·杜兰特",
-      "url": "https://baike.baidu.com/item/凯文·杜兰特/3726277",
-      "source": "百度百科",
-      "publishedAt": "2026-10-19T23:38:12.984Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "凯文·杜兰特",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "凯文·杜兰特"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
       "id": "durant:search:https://m.sohu.com/a/1089513999_122342510",
       "title": "10月19日:杜兰特大号公开与太阳老板开撕,狄龙补刀称清理了更衣室臭味,火箭机会来了 ",
       "url": "https://m.sohu.com/a/1089513999_122342510",
       "source": "搜狐网",
-      "publishedAt": "2026-10-19T23:38:12.984Z",
+      "publishedAt": "2026-10-20T04:46:34.045Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10月19日:杜兰特大号公开与太阳老板开撕,狄龙补刀称清理了更衣室臭味,火箭机会来了 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -54,7 +37,7 @@
       "title": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 ",
       "url": "https://m.sohu.com/a/1088323125_122340867",
       "source": "搜狐网",
-      "publishedAt": "2026-10-19T23:38:12.984Z",
+      "publishedAt": "2026-10-20T04:46:34.045Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -63,92 +46,126 @@
         "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 "
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiiwFBVV95cUxNRTVzbjdnYU1vUHhEWDd5aVpHRGJoUEVxTTVaTkg5V1lfTG15QXBwMlI1U1pSWjFrbmdEVmVTcGM0Tk5JRzRCLUY1ME1uWENZSHd5b0VBOG9qdkllaWJuY1IydThMMUVDejJmOXptdlZMdTU4V1NROHE0aG9CYzJ4ZWRuS0RJZWhRTG84",
-      "title": "Budding Suns-Rockets rivalry one to watch as Kevin Durant refuses to move on",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTVzbjdnYU1vUHhEWDd5aVpHRGJoUEVxTTVaTkg5V1lfTG15QXBwMlI1U1pSWjFrbmdEVmVTcGM0Tk5JRzRCLUY1ME1uWENZSHd5b0VBOG9qdkllaWJuY1IydThMMUVDejJmOXptdlZMdTU4V1NROHE0aG9CYzJ4ZWRuS0RJZWhRTG84?oc=5",
-      "source": "Valley of the Suns",
-      "publishedAt": "2026-10-19T19:15:00.000Z",
-      "description": "Budding Suns-Rockets rivalry one to watch as Kevin Durant refuses to move on Valley of the Suns",
-      "titleZh": "Budding Suns-Rockets rivalry one to watch as Kevin Durant refuses to move on",
-      "summaryZh": "Budding Suns-Rockets rivalry one to watch as Kevin Durant refuses to move on Valley of the Suns",
-      "detailsZh": "Budding Suns-Rockets rivalry one to watch as Kevin Durant refuses to move on Valley of the Suns",
+      "id": "durant:search:https://baike.baidu.com/item/凯文·杜兰特/3726277",
+      "title": "凯文·杜兰特",
+      "url": "https://baike.baidu.com/item/凯文·杜兰特/3726277",
+      "source": "百度百科",
+      "publishedAt": "2026-10-20T04:46:34.044Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "凯文·杜兰特",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "Budding Suns-Rockets rivalry one to watch as Kevin Durant refuses to move on"
+        "凯文·杜兰特"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiV0FVX3lxTFBkdlFxeXMydXRmWGI1ekwxQlJoMTNnaTZtQlNrTFUxODZzRkl0c3V0RDd6alA1eC1oVFNtdGgyMzVPa2s3cmh1OWFiODVLT2g0UDhWUmxiOA",
-      "title": "巴里谈杜兰特：无法评判其更衣室影响，但认可其天赋",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkdlFxeXMydXRmWGI1ekwxQlJoMTNnaTZtQlNrTFUxODZzRkl0c3V0RDd6alA1eC1oVFNtdGgyMzVPa2s3cmh1OWFiODVLT2g0UDhWUmxiOA?oc=5",
-      "source": "懂球帝",
-      "publishedAt": "2026-10-19T17:19:00.000Z",
-      "description": "巴里谈杜兰特：无法评判其更衣室影响，但认可其天赋 懂球帝",
-      "titleZh": "巴里谈杜兰特：无法评判其更衣室影响，但认可其天赋",
-      "summaryZh": "巴里谈杜兰特：无法评判其更衣室影响，但认可其天赋 懂球帝",
-      "detailsZh": "巴里谈杜兰特：无法评判其更衣室影响，但认可其天赋 懂球帝",
+      "id": "durant:CBMiS0FVX3lxTE1Gbnk4bnFvU1VzT1VweEZ0QlVIZlJMVHhid3ZNanhGWXNfZjVhNHF6VjhIZnNIbWRORUZiVGVLZnI5UXFOeThJVm82cw",
+      "title": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Gbnk4bnFvU1VzT1VweEZ0QlVIZlJMVHhid3ZNanhGWXNfZjVhNHF6VjhIZnNIbWRORUZiVGVLZnI5UXFOeThJVm82cw?oc=5",
+      "source": "虎扑体育",
+      "publishedAt": "2026-10-20T03:17:05.000Z",
+      "description": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四 虎扑体育",
+      "titleZh": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四",
+      "summaryZh": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四 虎扑体育",
+      "detailsZh": "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四 虎扑体育",
       "keyPoints": [
-        "巴里谈杜兰特：无法评判其更衣室影响，但认可其天赋"
+        "[流言板]NBA官方：杜兰特第20个赛季，差1047分超越科比升至历史第四"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihgFBVV95cUxQNmhnNjJLSENlTkV2UW96SFVaajIydDFSa2IyTVZwajZBZnIteVY2ckFHdjVtNW90d3FBWjE3Z21WZ0dNMVNKdWhxZ3FTd1FZM1h2dEJlX1FhZXZnb2ZabTJaRzZwN09BMWlwR2RuX0ZvcmMzdnhMMXZsdWpDMFAzN0Q2a1J0dw",
-      "title": "Rick Barry Talks Kevin Durant's Impact on Team Culture",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmhnNjJLSENlTkV2UW96SFVaajIydDFSa2IyTVZwajZBZnIteVY2ckFHdjVtNW90d3FBWjE3Z21WZ0dNMVNKdWhxZ3FTd1FZM1h2dEJlX1FhZXZnb2ZabTJaRzZwN09BMWlwR2RuX0ZvcmMzdnhMMXZsdWpDMFAzN0Q2a1J0dw?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-10-19T16:00:05.000Z",
-      "description": "Rick Barry Talks Kevin Durant's Impact on Team Culture Yahoo Sports",
-      "titleZh": "Rick Barry Talks Kevin Durant's Impact on Team Culture",
-      "summaryZh": "Rick Barry Talks Kevin Durant's Impact on Team Culture Yahoo Sports",
-      "detailsZh": "Rick Barry Talks Kevin Durant's Impact on Team Culture Yahoo Sports",
+      "id": "durant:CBMijAFBVV95cUxOaUoxaUkwVDI1WURoUVR2Y2pQOGpieERkaVF2MnkxRl9tOEVMVHhwbzZ0eWdLS2xxNkVRaDQ0TDVLZGFtV2wxZXVjbEYzRnFpQWUzdkgyNEhTcGFIQnpFV1JvemJmeWl2Y3lMb2c1c205TVR1TDJjbm9ZU2Jfd0RuWnRNbmo3eGFoMUcxTg",
+      "title": "火箭队正式报价鹈鹕！1换1极限交易曝光，库里接班人驰援杜兰特",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUoxaUkwVDI1WURoUVR2Y2pQOGpieERkaVF2MnkxRl9tOEVMVHhwbzZ0eWdLS2xxNkVRaDQ0TDVLZGFtV2wxZXVjbEYzRnFpQWUzdkgyNEhTcGFIQnpFV1JvemJmeWl2Y3lMb2c1c205TVR1TDJjbm9ZU2Jfd0RuWnRNbmo3eGFoMUcxTg?oc=5",
+      "source": "搜狐",
+      "publishedAt": "2026-10-20T03:13:42.000Z",
+      "description": "火箭队正式报价鹈鹕！1换1极限交易曝光，库里接班人驰援杜兰特 搜狐",
+      "titleZh": "火箭队正式报价鹈鹕！1换1极限交易曝光，库里接班人驰援杜兰特",
+      "summaryZh": "火箭队正式报价鹈鹕！1换1极限交易曝光，库里接班人驰援杜兰特 搜狐",
+      "detailsZh": "火箭队正式报价鹈鹕！1换1极限交易曝光，库里接班人驰援杜兰特 搜狐",
       "keyPoints": [
-        "Rick Barry Talks Kevin Durant's Impact on Team Culture"
+        "火箭队正式报价鹈鹕！1换1极限交易曝光，库里接班人驰援杜兰特"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMilgJBVV95cUxPSUxhVDAzS2p6clNad1ZRSVU4RVBjck95MkVJSExZQ2ZWYnR0LXlWV1pTVl9hc2F1OW12NWx5a3MzdlExT3pDRnRpUFBJNElSaHB5c2JhNU5lVDhsZkJ6OHhIWHBucEVoSEQ0YzNpbks5TjJJVEZqZUdlLVRWaWRTRENxLTd1SGV0dkh6c0xvX181Z1RjNFBzSTFFVS1jV1FLckpJdTFBeUN2NHo5WUdLNlJIQjNNLXN1QmNQTmlSV1d2Y3VsRVRrZ1l6cTdGVTJ6OEw0elNzbmtPUjdZbEFaMWFkTFJMU1FrYUh3cVNubE5ySDhGSmpzakZ5NnFoVXBqN0c5TU5DMW9oTEZUcEgzNGxEWTBkdw",
-      "title": "In 2013, Nike Mispronounced Stephen Curry’s Name and Left Kevin Durant’s Name in Its Pitch—He Joined Under Armour and Helped Drive 95% Footwear Revenue Growth",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSUxhVDAzS2p6clNad1ZRSVU4RVBjck95MkVJSExZQ2ZWYnR0LXlWV1pTVl9hc2F1OW12NWx5a3MzdlExT3pDRnRpUFBJNElSaHB5c2JhNU5lVDhsZkJ6OHhIWHBucEVoSEQ0YzNpbks5TjJJVEZqZUdlLVRWaWRTRENxLTd1SGV0dkh6c0xvX181Z1RjNFBzSTFFVS1jV1FLckpJdTFBeUN2NHo5WUdLNlJIQjNNLXN1QmNQTmlSV1d2Y3VsRVRrZ1l6cTdGVTJ6OEw0elNzbmtPUjdZbEFaMWFkTFJMU1FrYUh3cVNubE5ySDhGSmpzakZ5NnFoVXBqN0c5TU5DMW9oTEZUcEgzNGxEWTBkdw?oc=5",
-      "source": "Men's Journal",
-      "publishedAt": "2026-10-19T14:17:00.000Z",
-      "description": "In 2013, Nike Mispronounced Stephen Curry’s Name and Left Kevin Durant’s Name in Its Pitch—He Joined Under Armour and Helped Drive 95% Footwear Revenue Growth Men's Journal",
-      "titleZh": "In 2013, Nike Mispronounced Stephen Curry’s Name and Left Kevin Durant’s Name in Its Pitch—He Joined Under Armour and Helped Drive 95% Footwear Revenue Growth",
-      "summaryZh": "In 2013, Nike Mispronounced Stephen Curry’s Name and Left Kevin Durant’s Name in Its Pitch—He Joined Under Armour and Helped Drive 95% Footwear Revenue Growth Men's Journal",
-      "detailsZh": "In 2013, Nike Mispronounced Stephen Curry’s Name and Left Kevin Durant’s Name in Its Pitch—He Joined Under Armour and Helped Drive 95% Footwear Revenue Growth Men's Journal",
+      "id": "durant:CBMijAFBVV95cUxPY1d3eTJ1WjlkVHBfU2VxQzViVXFoZl9ka2NWMS1oS0FkLWhSTDFLeUpRUFBDQThLY2Y4R2s5dndVanZwMThWMWtHTlA1cHI4TmlQQ1R5VjNjc1VfWTNteG5Dd2lWRkpsZGMyZUY2cExaZE5sd2o0bUN1SEhVeEdjQ0dzSHg1b3BYeG9BNA",
+      "title": "詹姆斯拒绝杜兰特单挑请求！那不是真正的篮球，有种比赛中击败我",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1d3eTJ1WjlkVHBfU2VxQzViVXFoZl9ka2NWMS1oS0FkLWhSTDFLeUpRUFBDQThLY2Y4R2s5dndVanZwMThWMWtHTlA1cHI4TmlQQ1R5VjNjc1VfWTNteG5Dd2lWRkpsZGMyZUY2cExaZE5sd2o0bUN1SEhVeEdjQ0dzSHg1b3BYeG9BNA?oc=5",
+      "source": "搜狐",
+      "publishedAt": "2026-10-20T02:58:33.000Z",
+      "description": "詹姆斯拒绝杜兰特单挑请求！那不是真正的篮球，有种比赛中击败我 搜狐",
+      "titleZh": "詹姆斯拒绝杜兰特单挑请求！那不是真正的篮球，有种比赛中击败我",
+      "summaryZh": "詹姆斯拒绝杜兰特单挑请求！那不是真正的篮球，有种比赛中击败我 搜狐",
+      "detailsZh": "詹姆斯拒绝杜兰特单挑请求！那不是真正的篮球，有种比赛中击败我 搜狐",
       "keyPoints": [
-        "In 2013, Nike Mispronounced Stephen Curry’s Name and Left Kevin Durant’s Name in Its Pitch—He Joined Under Armour and Helped Drive 95% Footwear Revenue Growth"
+        "詹姆斯拒绝杜兰特单挑请求！那不是真正的篮球，有种比赛中击败我"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMimgFBVV95cUxPTlh5dUp6SVh1ZHVOQk41aWdZUGYyVnhVTGJkdEF0b0Juc2FhNmowcEEtM3A2OWNVcmhmQkJzUEhOVTVnNUNQaE1YU3ZBR1hNeC1KN3h2THFsSXZ6eExQOVhvTG5yZVpHQU5zRVdLdGdSUEtBNm5kajZVTGRqWEhCUzZsWHVRMFZUQVRrVlNMT2hIYUYxbktqb1ln",
-      "title": "The Bounce: Kevin Durant and Suns owner Mat Ishbia debate the past",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlh5dUp6SVh1ZHVOQk41aWdZUGYyVnhVTGJkdEF0b0Juc2FhNmowcEEtM3A2OWNVcmhmQkJzUEhOVTVnNUNQaE1YU3ZBR1hNeC1KN3h2THFsSXZ6eExQOVhvTG5yZVpHQU5zRVdLdGdSUEtBNm5kajZVTGRqWEhCUzZsWHVRMFZUQVRrVlNMT2hIYUYxbktqb1ln?oc=5",
-      "source": "The New York Times",
-      "publishedAt": "2026-10-19T14:15:36.000Z",
-      "description": "The Bounce: Kevin Durant and Suns owner Mat Ishbia debate the past The New York Times",
-      "titleZh": "The Bounce: Kevin Durant and Suns owner Mat Ishbia debate the past",
-      "summaryZh": "The Bounce: Kevin Durant and Suns owner Mat Ishbia debate the past The New York Times",
-      "detailsZh": "The Bounce: Kevin Durant and Suns owner Mat Ishbia debate the past The New York Times",
+      "id": "durant:CBMijAFBVV95cUxOeHBUbVpjWXpZclBkM05RM1BJVE5hVVRsOVlwdWFua1phXzlQWmF4ZkNUamRmZ2ZEdDYxUnBBeU54Y2JWaHpmVXFkemlaLWhPVjJnc1ZIOFdRaWpheTl3cVhNU2FEX2pRaGpDLVVGdlBTRGlITlB1UGFRUHExdzVHTEdhWHgzN0VlLXNmQQ",
+      "title": "乌度卡点名杜兰特！对他提出两个要求，否则就启动交易",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHBUbVpjWXpZclBkM05RM1BJVE5hVVRsOVlwdWFua1phXzlQWmF4ZkNUamRmZ2ZEdDYxUnBBeU54Y2JWaHpmVXFkemlaLWhPVjJnc1ZIOFdRaWpheTl3cVhNU2FEX2pRaGpDLVVGdlBTRGlITlB1UGFRUHExdzVHTEdhWHgzN0VlLXNmQQ?oc=5",
+      "source": "搜狐",
+      "publishedAt": "2026-10-20T02:51:30.000Z",
+      "description": "乌度卡点名杜兰特！对他提出两个要求，否则就启动交易 搜狐",
+      "titleZh": "乌度卡点名杜兰特！对他提出两个要求，否则就启动交易",
+      "summaryZh": "乌度卡点名杜兰特！对他提出两个要求，否则就启动交易 搜狐",
+      "detailsZh": "乌度卡点名杜兰特！对他提出两个要求，否则就启动交易 搜狐",
       "keyPoints": [
-        "The Bounce: Kevin Durant and Suns owner Mat Ishbia debate the past"
+        "乌度卡点名杜兰特！对他提出两个要求，否则就启动交易"
       ],
       "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTE9LZUs3WmRpUzNxTjZ4ck9GdEN3TDdaem5VbzN0dGozWUpQc1JSNE9iNlVxTldZWjNCSmJZUDQ4WGxRLVpScUZzR2ZfamxHSlVyZThndk5qWnRyVEsyRUtqeTNtZUpYbGZqTG1EcWRnOVFrWHM",
+      "title": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LZUs3WmRpUzNxTjZ4ck9GdEN3TDdaem5VbzN0dGozWUpQc1JSNE9iNlVxTldZWjNCSmJZUDQ4WGxRLVpScUZzR2ZfamxHSlVyZThndk5qWnRyVEsyRUtqeTNtZUpYbGZqTG1EcWRnOVFrWHM?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-20T02:04:29.000Z",
+      "description": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​ 新浪网",
+      "titleZh": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​",
+      "summaryZh": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​ 新浪网",
+      "detailsZh": "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​ 新浪网",
+      "keyPoints": [
+        "杜兰特效应尽显！火箭单节完成逆转，最终击败国王，比赛走势就此改变。 ​"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:search:https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
+      "title": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
+      "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806802db8i.html",
+      "source": "新浪网",
+      "publishedAt": "2026-10-20T04:46:15.596Z",
+      "description": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?",
+      "summaryZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“游戏主播陈泽”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "陈泽自制综艺《OK了老铁们》第一季收官引发催更,这档无广告节目为何能火?"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -182,7 +199,7 @@
         "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -270,43 +287,6 @@
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ",
-      "title": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "description": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "titleZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
-      "summaryZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "detailsZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "keyPoints": [
-        "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-wikipedia",
-      "title": "大咕咕咕鸡人物与创作资料",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
-      "source": "维基百科",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡资料页，涵盖常用笔名、创作风格及网络影响背景。作为人物基础档案入口，提供相对客观的传记信息参考。",
-      "detailsZh": "该条目为关于网络写手“大咕咕咕鸡”的基础资料聚合页面。事实层面，它记录了其作为知名网络段子手的身份，梳理了其早期在天涯社区等平台的活跃经历，以及后续在微博等平台的影响力演变。评论与传闻方面，部分编辑者可能对其作品质量或争议事件存在不同评价，但整体基调偏向于记录其在中文互联网亚文化中的符号意义。需注意的是，网络百科内容可能存在滞后性或主观偏差，建议结合多方信源核实。此页面非当日新闻，而是长期维护的人物静态资料库。",
-      "keyPoints": [
-        "记录大咕咕咕鸡的笔名与身份背景",
-        "梳理其在中文互联网的创作轨迹",
-        "包含对其网络影响力的客观描述",
-        "属于静态人物档案而非动态新闻"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
       "id": "dagu:dagu-weibo-topic",
       "title": "大咕咕咕鸡公开动态与超话",
       "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
@@ -314,54 +294,13 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话主页",
-      "summaryZh": "新浪微博中大咕咕咕鸡相关的公开动态与读者讨论入口（超话）。此为固定主页链接，用于追踪其最新发文及粉丝互动，非特定日期的新闻报道。",
-      "detailsZh": "该链接指向新浪微博的大咕咕咕鸡超级话题（Super Topic）主页。事实层面，这是粉丝聚集、转发作者动态及进行二次创作讨论的核心社区。评论区常包含对作者新段子、直播或商业合作的即时反馈。由于微博内容的实时性，此处信息更新频繁，但缺乏系统性整理。需注意区分官方账号发布内容与粉丝自发讨论，后者可能夹杂谣言或过度解读。此页面为固定的社交媒体聚合入口，旨在提供持续的关注渠道，不具备单一新闻事件的时效性特征，适合长期跟踪观察其舆论动向。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "该条目为新浪微博“大咕咕咕鸡”超话的聚合页面，收录其公开动态与读者讨论。作为固定资料入口，非当日新闻事件，提供粉丝互动与内容检索功能。",
+      "detailsZh": "事实：该链接指向新浪微博特定用户ID下的超话索引页，属于静态资源入口。评论：此类页面是网络写手维持粉丝粘性的重要阵地，集中展示了其日常碎片化表达。传闻：无相关争议性传闻涉及此入口本身。需明确此为固定主页或资料入口，不得伪装成当天新闻。",
       "keyPoints": [
-        "粉丝互动与讨论的核心社区",
-        "聚合作者最新公开动态",
-        "包含大量非官方的粉丝评论",
-        "为固定社交主页而非单日新闻"
-      ],
-      "category": "公开发言",
-      "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道：大咕咕咕鸡与网络段子手生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其代表的网络语言现象。虽为历史文章，但对理解其早期影响力具有重要参考价值。",
-      "detailsZh": "这是一篇发布于2015年的媒体深度报道，由界面新闻出品。事实层面，文章详细分析了当时大咕咕咕鸡的写作手法，如解构主义、反讽修辞等，并将其置于中国网络段子手发展的宏观背景下进行考察。评论部分，记者探讨了此类内容对公众语言表达习惯的影响，以及商业化转型的必然性。文中引用的数据和案例反映了当时的行业状况，可能与现状存在差异。该报道具有较高的媒体公信力，是研究其早期职业生涯的关键文献。鉴于发布时间较早，仅作为背景资料使用，不代表当前最新动态。",
-      "keyPoints": [
-        "2015年发布的媒体深度分析",
-        "解析早期创作风格与语言特色",
-        "探讨网络段子手群体的社会影响",
-        "具有历史文献价值但非最新新闻"
-      ],
-      "category": "讨论",
-      "importance": 4
-    },
-    {
-      "id": "dagu:dagu-kol-profile",
-      "title": "大咕咕咕鸡微博公开账号资料",
-      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
-      "source": "领库",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博KOL数据档案",
-      "summaryZh": "领库平台提供的大咕咕咕鸡微博账号公开资料与传播数据页面。主要展示粉丝量、互动率等量化指标，用于评估其商业价值，属第三方数据工具页面。",
-      "detailsZh": "该页面来自第三方社交媒体数据分析平台“领库”，专门针对大咕咕咕鸡的微博账号进行数据可视化展示。事实层面，它列出了账号的基本属性、粉丝增长趋势、博文平均阅读量及互动指数等硬性数据。这些数据有助于客观衡量其在社交媒体上的活跃度与受众规模。然而，此类平台数据可能存在统计口径差异或延迟，且无法反映内容的情感倾向或具体语境。此外，商业数据通常服务于营销目的，可能存在美化倾向。此页面为功能性数据查询入口，非新闻内容，适合用于市场研究或竞品分析参考。",
-      "keyPoints": [
-        "提供微博账号量化传播数据",
-        "展示粉丝规模与互动指标",
-        "数据来源为第三方分析平台",
-        "适用于商业价值评估而非新闻阅读"
+        "固定资料入口",
+        "非新闻事件",
+        "粉丝互动平台"
       ],
       "category": "场外",
       "importance": 2
@@ -374,13 +313,72 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
-      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "titleZh": "大咕咕咕鸡B站作品朗读聚合",
+      "summaryZh": "哔哩哔哩搜索关键词“大咕咕咕鸡”的结果页，聚合了作品朗读、相关讨论及历史视频。此为通用搜索结果入口，非特定单一视频或新闻，旨在提供内容检索服务。",
+      "detailsZh": "事实：该URL为B站全站搜索接口，返回结果随时间动态变化。评论：反映了其作品在视频平台的二次传播热度。传闻：无具体传闻。需明确此为固定搜索入口，非当日发布的特定新闻内容，避免误导读者以为有最新视频发布。",
       "keyPoints": [
-        "大咕咕咕鸡相关视频与作品朗读"
+        "搜索结果入口",
+        "内容聚合",
+        "非特定新闻"
       ],
       "category": "场外",
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-wikipedia",
+      "title": "大咕咕咕鸡人物与创作资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
+      "source": "维基百科",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科中关于网络写手大咕咕咕鸡的人物与创作资料页面，涵盖常用笔名、风格及影响。此为百科类固定资料入口，提供背景信息，非当日突发新闻。",
+      "detailsZh": "事实：词条记录了其作为网络写手的公开身份与部分作品特征。评论：维基百科条目通常具有滞后性，侧重长期影响力而非即时动态。传闻：无直接关联传闻。需明确此为固定资料入口，用于背景查询，不得伪装成当天新闻。",
+      "keyPoints": [
+        "百科资料入口",
+        "背景信息查询",
+        "非即时新闻"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-kol-profile",
+      "title": "大咕咕咕鸡微博公开账号资料",
+      "url": "https://m.kolstore.com/weiboDetails?userId=2146965345",
+      "source": "领库",
+      "publishedAt": "2026-07-05T00:00:00.000Z",
+      "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡微博账号数据页",
+      "summaryZh": "领库平台提供的“大咕咕咕鸡”微博公开账号资料与传播数据页面。此为第三方数据分析工具生成的固定档案，展示账号基础信息与历史数据，非新闻事件。",
+      "detailsZh": "事实：页面基于微博API抓取的基础数据，如粉丝数、博文数等。评论：此类数据反映其在社交媒体上的基本活跃度。传闻：无相关传闻。需明确此为固定数据档案入口，用于行业分析或背景了解，不得伪装成当天新闻。",
+      "keyPoints": [
+        "第三方数据档案",
+        "账号基础信息",
+        "非新闻事件"
+      ],
+      "category": "场外",
+      "importance": 1
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "界面新闻深度报道：创作生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，探讨大咕咕咕鸡的创作风格及其对网络语言的影响。虽为历史文章，但具较高参考价值，属过往重要评论性内容。",
+      "detailsZh": "事实：文章发表于2015年5月12日，分析了其早期写作特点。评论：该报道被视为理解其早期网络影响力的关键文献之一，具有较高的媒体背书价值。传闻：无。此为已发表的历史评论文章，非当日新闻，但因其深度和时效性（相对于其活跃期），重要性较高。",
+      "keyPoints": [
+        "历史深度报道",
+        "创作风格分析",
+        "媒体评论"
+      ],
+      "category": "公开发言",
       "importance": 4
     }
   ]
