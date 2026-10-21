@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T13:48:50.656Z",
+  "updatedAt": "2026-10-21T18:39:20.296Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,17 +16,17 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1089916909_121606257",
-      "title": "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军",
-      "url": "https://www.sohu.com/a/1089916909_121606257",
+      "id": "durant:search:https://news.sohu.com/a/1090465338_121145584",
+      "title": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
+      "url": "https://news.sohu.com/a/1090465338_121145584",
       "source": "搜狐网",
-      "publishedAt": "2026-10-21T13:45:31.869Z",
+      "publishedAt": "2026-10-21T18:36:21.155Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军",
+      "titleZh": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军"
+        "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度"
       ],
       "category": "场外",
       "importance": 4
@@ -37,7 +37,7 @@
       "title": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
       "url": "https://www.sohu.com/a/1089586679_122343948",
       "source": "搜狐网",
-      "publishedAt": "2026-10-21T13:45:31.869Z",
+      "publishedAt": "2026-10-21T18:36:21.155Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -50,17 +50,51 @@
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L9957H8M0549V4UA.html",
-      "title": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
-      "url": "https://www.163.com/dy/article/L9957H8M0549V4UA.html",
-      "source": "网易",
-      "publishedAt": "2026-10-21T13:45:31.869Z",
+      "id": "durant:search:https://www.sohu.com/a/1090540916_122679006",
+      "title": "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 ",
+      "url": "https://www.sohu.com/a/1090540916_122679006",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-21T18:36:21.155Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
+      "titleZh": "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?"
+        "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 "
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxQc0IzanJ1b3pTOVVndUdadGRKU1lOQXRMY0VhNjUwOTBwQ01MUGx6UTlNWElZUDZiU05vNXZTelBoaXhXNnNGdllpejBZeFh2WlJCMlliT3FnV3NhZkZ3WV9SbHo3V21HdHJQVk9aS1pmT3ZOenVMNHlhWTVscXhiQnFUc0Q",
+      "title": "阿里纳斯组建理想阵容：我搭档科比詹姆斯杜兰特奥尼尔 稳拿冠军",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0IzanJ1b3pTOVVndUdadGRKU1lOQXRMY0VhNjUwOTBwQ01MUGx6UTlNWElZUDZiU05vNXZTelBoaXhXNnNGdllpejBZeFh2WlJCMlliT3FnV3NhZkZ3WV9SbHo3V21HdHJQVk9aS1pmT3ZOenVMNHlhWTVscXhiQnFUc0Q?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-21T16:31:03.000Z",
+      "description": "阿里纳斯组建理想阵容：我搭档科比詹姆斯杜兰特奥尼尔 稳拿冠军 手机新浪网",
+      "titleZh": "阿里纳斯组建理想阵容：我搭档科比詹姆斯杜兰特奥尼尔 稳拿冠军",
+      "summaryZh": "阿里纳斯组建理想阵容：我搭档科比詹姆斯杜兰特奥尼尔 稳拿冠军 手机新浪网",
+      "detailsZh": "阿里纳斯组建理想阵容：我搭档科比詹姆斯杜兰特奥尼尔 稳拿冠军 手机新浪网",
+      "keyPoints": [
+        "阿里纳斯组建理想阵容：我搭档科比詹姆斯杜兰特奥尼尔 稳拿冠军"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiY0FVX3lxTE9lcWJoRHlJY09zaTM5TDNnTnhtUmJTNjh3UDVtTEQyQ3BIZ3pIMzVYREVsSDhSSEZsS2lxQlN1MTlYR1Z5RzVROFVSYjFPSXQ2Zm1EcDJ1R2pqZ3FMYjY1R0Ixcw",
+      "title": "杜兰特小号事件梳理：持续发酵众名嘴热议 若为真会毁掉火箭争冠机会",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lcWJoRHlJY09zaTM5TDNnTnhtUmJTNjh3UDVtTEQyQ3BIZ3pIMzVYREVsSDhSSEZsS2lxQlN1MTlYR1Z5RzVROFVSYjFPSXQ2Zm1EcDJ1R2pqZ3FMYjY1R0Ixcw?oc=5",
+      "source": "企鹅体育",
+      "publishedAt": "2026-10-21T14:40:47.000Z",
+      "description": "杜兰特小号事件梳理：持续发酵众名嘴热议 若为真会毁掉火箭争冠机会 企鹅体育",
+      "titleZh": "杜兰特小号事件梳理：持续发酵众名嘴热议 若为真会毁掉火箭争冠机会",
+      "summaryZh": "杜兰特小号事件梳理：持续发酵众名嘴热议 若为真会毁掉火箭争冠机会 企鹅体育",
+      "detailsZh": "杜兰特小号事件梳理：持续发酵众名嘴热议 若为真会毁掉火箭争冠机会 企鹅体育",
+      "keyPoints": [
+        "杜兰特小号事件梳理：持续发酵众名嘴热议 若为真会毁掉火箭争冠机会"
       ],
       "category": "场外",
       "importance": 3
@@ -71,7 +105,7 @@
       "title": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV3FvUDBSWHZoSlFmbktfR3hVZDI3UWljcDdQSVkxOGtxb2dfX2s4ZVNUdFAyRElLOGx2NWN4VFpXaWxIMVd3LVBYeE5tV1g2bVM4VmY4WmdoTXluME1kM05BLVlLcDBUQzdiTGExcnlGNGFhT09SRGNwU0d5RzB2R2hYdTJqTlRGdERBaTRiSUN4RlhUcElYU2tteDlNbUVOQVpGQ2x1cEpsQ0FoUFRiMlhVV2FNRkhOcWtVU2hxRmxSdkRaZmZGRmhKZG8zTDA?oc=5",
       "source": "Bleacher Report",
-      "publishedAt": "2026-10-21T13:40:09.000Z",
+      "publishedAt": "2026-10-21T13:58:22.000Z",
       "description": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts Bleacher Report",
       "titleZh": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts",
       "summaryZh": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts Bleacher Report",
@@ -117,40 +151,6 @@
       "importance": 3
     },
     {
-      "subject": "durant",
-      "id": "durant:CBMiuwFBVV95cUxNNER3NDdhcjB2ekFINEFiWGtZOThXejdBUEgzMVZRVEdSQXlRcmpzTjhrSmcyY0IycGNJQS1kcWZGOFJXR1hmUS1CcGtSdGJSbV9Sc3VyZTlCQ2dlN2JJZElFYU5oVEZvOFRFRUFGbGI5dGFtdDJlcHlJbndOTHF3WkJwMWFxR0FwQl8zNFVINWlWVURqOFZiWWtJVEtMT3phSnQ3emlNUEt1d3M5T2E4ck9ndzRaZXJXZXJ3",
-      "title": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNER3NDdhcjB2ekFINEFiWGtZOThXejdBUEgzMVZRVEdSQXlRcmpzTjhrSmcyY0IycGNJQS1kcWZGOFJXR1hmUS1CcGtSdGJSbV9Sc3VyZTlCQ2dlN2JJZElFYU5oVEZvOFRFRUFGbGI5dGFtdDJlcHlJbndOTHF3WkJwMWFxR0FwQl8zNFVINWlWVURqOFZiWWtJVEtMT3phSnQ3emlNUEt1d3M5T2E4ck9ndzRaZXJXZXJ3?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-10-21T11:00:02.000Z",
-      "description": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts Sports Illustrated",
-      "titleZh": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts",
-      "summaryZh": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts Sports Illustrated",
-      "detailsZh": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts Sports Illustrated",
-      "keyPoints": [
-        "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxOQ2JFd0F1bWNRdFV1M3hoMlo0VDJzZjQ5S3d5ZjZzNkRTWlg2Vzg0SGJjZ1VzUXdjaE42OGFPU1EtUjJmRjRPeTRUeXRHdGtOM3Nxb0tkdXdfVWdPekhWTjRZSF9uQ1JUd2R2LUhpTG5Ib2RhSV9meW56RWdqQktkS242YTE",
-      "title": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2JFd0F1bWNRdFV1M3hoMlo0VDJzZjQ5S3d5ZjZzNkRTWlg2Vzg0SGJjZ1VzUXdjaE42OGFPU1EtUjJmRjRPeTRUeXRHdGtOM3Nxb0tkdXdfVWdPekhWTjRZSF9uQ1JUd2R2LUhpTG5Ib2RhSV9meW56RWdqQktkS242YTE?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-21T07:25:00.000Z",
-      "description": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一 新浪网",
-      "titleZh": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一",
-      "summaryZh": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一 新浪网",
-      "detailsZh": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一 新浪网",
-      "keyPoints": [
-        "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "subject": "chenze",
       "id": "chenze:CBMigAFBVV95cUxPVV80RmE0Tl9mNGpMeV9BWnJDbE0xckRrbmNyRjRGeFVRUFlhNkszLW9iOEd0YWxPVDM1UDVMQkJ1RzVvZ0JITHpqUDc1cDlHQ0piUG5XRXRVT2ZCNDJkM0Q5ZW9neHBsaDRQNXZkOEk0blVTOFNub1ZpVm5VZzBweQ",
       "title": "特斯拉飞车确实厉害 #微博视频号迎新计划##陈泽##不是陈泽[超话]##游戏主播切片大赛# ​",
@@ -183,23 +183,6 @@
       ],
       "category": "场外",
       "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMic0FVX3lxTE45NmctM3RhVWktbU93ZEZiWUJDWUhVY2Y1eExmLTMzWXE1c1BfNWNuWWlqM05FdHJUUnVhYVRpMXpaNGRoZDVfT2N1WUM2WVN0NXZNdlZMRFlvVnFHU2VFc1NONjJOS1BhcEUxa3huUE95eDg",
-      "title": "陈泽喝蔡徐坤和anglebaby同款饮料 陈泽 直播切片",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45NmctM3RhVWktbU93ZEZiWUJDWUhVY2Y1eExmLTMzWXE1c1BfNWNuWWlqM05FdHJUUnVhYVRpMXpaNGRoZDVfT2N1WUM2WVN0NXZNdlZMRFlvVnFHU2VFc1NONjJOS1BhcEUxa3huUE95eDg?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-18T05:42:23.000Z",
-      "description": "陈泽喝蔡徐坤和anglebaby同款饮料 陈泽 直播切片 新浪网",
-      "titleZh": "陈泽喝蔡徐坤和anglebaby同款饮料 陈泽 直播切片",
-      "summaryZh": "陈泽喝蔡徐坤和anglebaby同款饮料 陈泽 直播切片 新浪网",
-      "detailsZh": "陈泽喝蔡徐坤和anglebaby同款饮料 陈泽 直播切片 新浪网",
-      "keyPoints": [
-        "陈泽喝蔡徐坤和anglebaby同款饮料 陈泽 直播切片"
-      ],
-      "category": "场外",
-      "importance": 3
     },
     {
       "subject": "chenze",
@@ -287,6 +270,25 @@
       "importance": 3
     },
     {
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "detailsZh": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "keyPoints": [
+        "陈泽- 抖音直播间"
+      ],
+      "category": "直播",
+      "importance": 3
+    },
+    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -294,16 +296,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的大咕咕咕鸡词条，系统梳理其常用笔名、创作风格及网络影响力。作为基础背景资料入口，提供客观的人物生平与作品综述。",
-      "detailsZh": "该条目为固定的人物资料索引页面，非时效性新闻。内容主要涵盖大咕咕咕鸡作为网络写手的身份界定，重点分析其独特的语言风格和对网络流行语的贡献。事实部分记录其活跃时间段及代表性作品类型；评论部分涉及学界或媒体对其文化现象的评价；传闻部分则需谨慎甄别，通常不包含未经证实的私生活细节。此页面旨在为用户提供标准化的参考框架，帮助读者快速建立对该人物的认知轮廓，是后续深入阅读其他动态报道的基础。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "维基百科收录了网络写手大咕咕咕鸡的常用笔名、创作风格及作品背景资料，提供其网络影响的客观记录。",
+      "detailsZh": "该条目为固定人物资料入口，非当日新闻。内容涵盖大咕咕咕鸡作为知名网络写手的身份界定，重点梳理了其以幽默讽刺见长的创作风格，以及在中文互联网语境下对特定语言现象的影响。事实部分基于公开可查的网络档案与读者共识，评论部分引用媒体对其文学价值的初步评价，传闻部分则澄清了关于其真实身份的无关猜测。此页面旨在提供标准化的参考信息，帮助读者快速了解该人物的基本轮廓与核心贡献，不涉及具体时效性事件。",
       "keyPoints": [
-        "提供标准化的人物背景与创作风格概述",
-        "区分事实记录与媒体评论视角",
-        "作为长期有效的资料索引入口"
+        "明确人物身份为网络写手",
+        "概括主要创作风格与特点",
+        "记录其在网络文化中的影响",
+        "提供基础背景资料索引"
       ],
       "category": "场外",
-      "importance": 5
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -313,16 +316,17 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "新浪微博超话社区入口",
-      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话页面，聚合公开动态与粉丝讨论。此为固定的社交账号入口，用于追踪最新互动与读者反馈。",
-      "detailsZh": "该链接指向微博超话首页，属于固定的社交资产入口，而非单日新闻事件。页面内容实时变动，包含作者发布的日常状态、作品宣发以及读者的即时评论。事实层面记录了作者的活跃频率与互动模式；评论层面反映了核心粉丝群体的情感倾向与接受度；传闻层面可能夹杂粉丝间的猜测，需结合具体帖子语境判断。此入口是监测其公众形象维护策略和直接受众反应的关键渠道，具有极高的持续参考价值，但需注意信息的碎片化特征。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博大咕咕咕鸡超话是粉丝互动与动态聚合的核心平台，提供公开讨论入口，非单一新闻事件。",
+      "detailsZh": "此为固定的社交媒体社区入口，用于汇集相关公开动态与读者讨论。事实层面，它记录了粉丝群体的活跃度与话题热度；评论层面，反映了受众对其作品的接受度与解读方向；传闻层面，需警惕其中可能存在的未经证实的八卦或谣言。该页面不产生原创新闻，而是作为信息集散地存在。编辑需注意区分其中的事实陈述与情绪化表达，避免将社区内的个别争议误读为官方立场或普遍事实。",
       "keyPoints": [
-        "实时聚合作者动态与粉丝互动",
-        "反映核心受众的情感倾向",
-        "信息碎片化，需结合语境解读"
+        "粉丝互动与讨论的主要阵地",
+        "动态聚合而非独立新闻源",
+        "需甄别社区内的传闻与事实",
+        "反映受众反馈与市场热度"
       ],
-      "category": "公开发言",
-      "importance": 4
+      "category": "讨论",
+      "importance": 2
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -332,16 +336,17 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩作品朗读与讨论聚合页",
-      "summaryZh": "B站搜索关键词“大咕咕咕鸡”的结果页，汇集作品朗读视频及相关讨论。此为动态搜索结果入口，展示多媒体形式的传播情况。",
-      "detailsZh": "该链接为B站的动态搜索结果页，非固定主页。内容随时间推移不断更新，主要包括用户自制的作品朗读音频、视频剪辑及弹幕评论。事实部分体现作品的多媒体转化形式及播放量数据；评论部分通过弹幕和评论区的观点碰撞，展现年轻受众对文本的二次解读与共鸣点；传闻部分较少，多为基于内容的衍生创作。此入口揭示了其作品在非文字媒介领域的传播广度与受众参与度，是评估其跨平台影响力的重要维度，但需注意搜索结果的非权威性排序。",
+      "titleZh": "大咕咕咕鸡B站视频聚合页",
+      "summaryZh": "哔哩哔哩搜索聚合页汇集了大咕咕咕鸡的作品朗读、二创视频及相关讨论，是多媒体内容的检索入口。",
+      "detailsZh": "该链接指向搜索结果页，属于功能性入口而非特定新闻报道。事实部分包括平台上存在的音频朗读、视频解说及衍生创作；评论部分涉及UP主与观众对文本的二次解读；传闻部分则可能包含关于作者近况的碎片化信息。由于是聚合结果，内容质量参差不齐，编辑应仅将其视为素材来源，不可直接采信其中的主观评价或未核实消息。此页面展示了作品在视频平台的传播形态与受众参与方式。",
       "keyPoints": [
-        "展示作品在视频平台的传播形态",
-        "通过弹幕与评论反映受众二次解读",
-        "动态更新，体现跨平台影响力"
+        "多媒体内容的检索与聚合",
+        "包含作品朗读与二创视频",
+        "内容质量需人工筛选甄别",
+        "展示跨平台传播与受众参与"
       ],
       "category": "作品",
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -352,14 +357,15 @@
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
       "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻关于大咕咕咕鸡及其创作生态的深度报道。回顾其早期创作风格及对网络语言的影响，具有重要的历史文献价值。",
-      "detailsZh": "这是一篇发布于2015年的历史报道，属于静态的新闻档案。文章从行业观察角度，分析了大咕咕咕鸡在当时网络段子手群体中的定位及其创作手法。事实部分记录了当时的社会舆论环境与其作品的传播路径；评论部分引用了当时媒体与专家的观点，探讨其语言创新的文化意义；传闻部分基本不存在，因为这是正规媒体的深度调查。尽管时间久远，但该报道提供了理解其创作起源和早期影响力的关键背景，对于研究其职业生涯轨迹具有不可替代的史料价值。",
+      "summaryZh": "2015年界面新闻发布的深度报道，回顾大咕咕咕鸡的创作风格及其对网络语言生态的历史影响。",
+      "detailsZh": "这是一篇发布于2015年的历史报道，具有时效滞后性，不作为当前动态参考。事实部分记录了当时网络段子手的生存状态与大咕咕咕鸡的代表作；评论部分体现了当年媒体对网络文学价值的探讨；传闻部分较少，但可能存在当时的行业内部视角。鉴于时间跨度较大，该报道主要用于理解其早期创作背景与文化语境，不宜直接用于描述其近期活动或现状。编辑在使用时需明确标注时间点，避免误导读者认为这是最新观点。",
       "keyPoints": [
-        "记录早期创作风格与行业定位",
-        "提供2015年时的媒体评价视角",
-        "具有历史文献与研究参考价值"
+        "2015年发布的历史文献",
+        "分析早期创作风格与影响",
+        "反映当时媒体视角与评价",
+        "不适用于近期动态参考"
       ],
-      "category": "讨论",
+      "category": "公开发言",
       "importance": 4
     },
     {
