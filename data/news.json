@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T07:40:23.969Z",
+  "updatedAt": "2026-10-21T13:48:50.656Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -20,7 +20,7 @@
       "title": "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军",
       "url": "https://www.sohu.com/a/1089916909_121606257",
       "source": "搜狐网",
-      "publishedAt": "2026-10-21T07:36:10.251Z",
+      "publishedAt": "2026-10-21T13:45:31.869Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -37,7 +37,7 @@
       "title": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
       "url": "https://www.sohu.com/a/1089586679_122343948",
       "source": "搜狐网",
-      "publishedAt": "2026-10-21T07:36:10.251Z",
+      "publishedAt": "2026-10-21T13:45:31.869Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -54,7 +54,7 @@
       "title": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
       "url": "https://www.163.com/dy/article/L9957H8M0549V4UA.html",
       "source": "网易",
-      "publishedAt": "2026-10-21T07:36:10.251Z",
+      "publishedAt": "2026-10-21T13:45:31.869Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -67,88 +67,122 @@
     },
     {
       "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxOWHZhekhSX2VEWVpHT3A4OUpYVjcxX2U5ZXdMZzdOUlZQVk1BNTlVWjdndWt5N2dCU2dTcHdILWVCcnFIRTVxN2NpVlVvdzVJeTFTZURZaGtxcUdJMDNkZG80MExrWUpJelBrbHMxakd2N3ZtRFl6TWdNWElDMXFLcjJ4ZEhfQW14M2JSQw",
-      "title": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHZhekhSX2VEWVpHT3A4OUpYVjcxX2U5ZXdMZzdOUlZQVk1BNTlVWjdndWt5N2dCU2dTcHdILWVCcnFIRTVxN2NpVlVvdzVJeTFTZURZaGtxcUdJMDNkZG80MExrWUpJelBrbHMxakd2N3ZtRFl6TWdNWElDMXFLcjJ4ZEhfQW14M2JSQw?oc=5",
+      "id": "durant:CBMizwFBVV95cUxQV3FvUDBSWHZoSlFmbktfR3hVZDI3UWljcDdQSVkxOGtxb2dfX2s4ZVNUdFAyRElLOGx2NWN4VFpXaWxIMVd3LVBYeE5tV1g2bVM4VmY4WmdoTXluME1kM05BLVlLcDBUQzdiTGExcnlGNGFhT09SRGNwU0d5RzB2R2hYdTJqTlRGdERBaTRiSUN4RlhUcElYU2tteDlNbUVOQVpGQ2x1cEpsQ0FoUFRiMlhVV2FNRkhOcWtVU2hxRmxSdkRaZmZGRmhKZG8zTDA",
+      "title": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV3FvUDBSWHZoSlFmbktfR3hVZDI3UWljcDdQSVkxOGtxb2dfX2s4ZVNUdFAyRElLOGx2NWN4VFpXaWxIMVd3LVBYeE5tV1g2bVM4VmY4WmdoTXluME1kM05BLVlLcDBUQzdiTGExcnlGNGFhT09SRGNwU0d5RzB2R2hYdTJqTlRGdERBaTRiSUN4RlhUcElYU2tteDlNbUVOQVpGQ2x1cEpsQ0FoUFRiMlhVV2FNRkhOcWtVU2hxRmxSdkRaZmZGRmhKZG8zTDA?oc=5",
+      "source": "Bleacher Report",
+      "publishedAt": "2026-10-21T13:40:09.000Z",
+      "description": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts Bleacher Report",
+      "titleZh": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts",
+      "summaryZh": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts Bleacher Report",
+      "detailsZh": "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts Bleacher Report",
+      "keyPoints": [
+        "Suns' Mat Ishbia Discusses Kevin Durant Exchange Over Trade After Viral Social Media Posts"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijAFBVV95cUxQa3VXMUVhbzIxcGJKYkNsSFBiQWpOOHBZVm8tU0cwM0EwVHhrTkxOaF8wSU8xQ0JWWXRmSEVJcFNlLUNKR2MxeTVmRVBYSUtkZEt3TDZtOW52dWRudG5zb0VoZEUyb2F1QTZKcmlQSlVNSnY5NUdtVllwSTRuWFlFblkxb3ZIUEw4OF9hVg",
+      "title": "杜兰特回击称火箭队为弱旅的批评者，谁在乎？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3VXMUVhbzIxcGJKYkNsSFBiQWpOOHBZVm8tU0cwM0EwVHhrTkxOaF8wSU8xQ0JWWXRmSEVJcFNlLUNKR2MxeTVmRVBYSUtkZEt3TDZtOW52dWRudG5zb0VoZEUyb2F1QTZKcmlQSlVNSnY5NUdtVllwSTRuWFlFblkxb3ZIUEw4OF9hVg?oc=5",
       "source": "搜狐",
-      "publishedAt": "2026-10-21T07:21:20.000Z",
-      "description": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队 搜狐",
-      "titleZh": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队",
-      "summaryZh": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队 搜狐",
-      "detailsZh": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队 搜狐",
+      "publishedAt": "2026-10-21T12:19:44.000Z",
+      "description": "杜兰特回击称火箭队为弱旅的批评者，谁在乎？ 搜狐",
+      "titleZh": "杜兰特回击称火箭队为弱旅的批评者，谁在乎？",
+      "summaryZh": "杜兰特回击称火箭队为弱旅的批评者，谁在乎？ 搜狐",
+      "detailsZh": "杜兰特回击称火箭队为弱旅的批评者，谁在乎？ 搜狐",
       "keyPoints": [
-        "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队"
+        "杜兰特回击称火箭队为弱旅的批评者，谁在乎？"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE9sUktDNmx6SnpiVzN0ZFpncXhKY3lfajBGdVdBOUlBYS1GQlQwMVZ3cTVCX1dJV1RXWmtpVnNZRFU3MG5lbVZkR1kyNA",
-      "title": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sUktDNmx6SnpiVzN0ZFpncXhKY3lfajBGdVdBOUlBYS1GQlQwMVZ3cTVCX1dJV1RXWmtpVnNZRFU3MG5lbVZkR1kyNA?oc=5",
-      "source": "虎扑",
-      "publishedAt": "2026-10-21T04:40:55.000Z",
-      "description": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一 虎扑",
-      "titleZh": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一",
-      "summaryZh": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一 虎扑",
-      "detailsZh": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一 虎扑",
-      "keyPoints": [
-        "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMijAFBVV95cUxQWVVoWHZicjlaV0RfeDZNMWJmamg2MjJ6eW92Q1FydlRRd1Mya0hpZ1o2RjlncEtWeHJkTWlBV0xZWl82ZXIyUTJNTVNHcVU0eURHcGpUNGtqVTFGTGFKU2hEdHFhbHNzbEs2NjJlLWhKdEhQOHZzOVJRaGp3TWVEbk1QX1Q5QTFWbXpxQw",
-      "title": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVVoWHZicjlaV0RfeDZNMWJmamg2MjJ6eW92Q1FydlRRd1Mya0hpZ1o2RjlncEtWeHJkTWlBV0xZWl82ZXIyUTJNTVNHcVU0eURHcGpUNGtqVTFGTGFKU2hEdHFhbHNzbEs2NjJlLWhKdEhQOHZzOVJRaGp3TWVEbk1QX1Q5QTFWbXpxQw?oc=5",
-      "source": "搜狐",
-      "publishedAt": "2026-10-21T04:28:25.000Z",
-      "description": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋 搜狐",
-      "titleZh": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋",
-      "summaryZh": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋 搜狐",
-      "detailsZh": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋 搜狐",
-      "keyPoints": [
-        "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTE5RNG5fcjQzb01BcnpmRFlyMjhIeURqRWpPa29YcEFhLV9VMzN0d2ozQldlMzlJWlJUS3N6YWtEdUZEX0ZhTTkxQlAyRnRPRHQwN1NNd2FUWXZWVUhIenJyRkxNbEdHUUJySjE1QjZfbTl0bnc",
-      "title": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RNG5fcjQzb01BcnpmRFlyMjhIeURqRWpPa29YcEFhLV9VMzN0d2ozQldlMzlJWlJUS3N6YWtEdUZEX0ZhTTkxQlAyRnRPRHQwN1NNd2FUWXZWVUhIenJyRkxNbEdHUUJySjE1QjZfbTl0bnc?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-21T03:03:55.000Z",
-      "description": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变 新浪网",
-      "titleZh": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变",
-      "summaryZh": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变 新浪网",
-      "detailsZh": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变 新浪网",
-      "keyPoints": [
-        "申京阿门杜兰特均不会被交易，火箭大交易传闻生变"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiV0FVX3lxTFB6amFUYlNiU1kwaDItM1E1dmpqMGVjWnhnX3ZKTWFsWWs0bFBPLVQtRFo2d0RHaEhzQVAxMTZuSUdtRjFLZEY1WWRKLUtEX2g4dXF4cWVUWQ",
-      "title": "杜兰特回击看衰论：谁在乎？被谁看衰？",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6amFUYlNiU1kwaDItM1E1dmpqMGVjWnhnX3ZKTWFsWWs0bFBPLVQtRFo2d0RHaEhzQVAxMTZuSUdtRjFLZEY1WWRKLUtEX2g4dXF4cWVUWQ?oc=5",
+      "id": "durant:CBMiV0FVX3lxTE9oVm5iOHVNbWRoY1VVQkFjRmNQRzJSakRfTjZEZmMwN2YwZndoUTNGaDFsQVZuWEVrSFpSNHUwYjNFeWFFNDBDMmpUemY0SGI2M2MxVlViYw",
+      "title": "杜兰特谈生涯初目标：只希望能打满10年",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oVm5iOHVNbWRoY1VVQkFjRmNQRzJSakRfTjZEZmMwN2YwZndoUTNGaDFsQVZuWEVrSFpSNHUwYjNFeWFFNDBDMmpUemY0SGI2M2MxVlViYw?oc=5",
       "source": "懂球帝",
-      "publishedAt": "2026-10-21T02:13:00.000Z",
-      "description": "杜兰特回击看衰论：谁在乎？被谁看衰？ 懂球帝",
-      "titleZh": "杜兰特回击看衰论：谁在乎？被谁看衰？",
-      "summaryZh": "杜兰特回击看衰论：谁在乎？被谁看衰？ 懂球帝",
-      "detailsZh": "杜兰特回击看衰论：谁在乎？被谁看衰？ 懂球帝",
+      "publishedAt": "2026-10-21T11:56:00.000Z",
+      "description": "杜兰特谈生涯初目标：只希望能打满10年 懂球帝",
+      "titleZh": "杜兰特谈生涯初目标：只希望能打满10年",
+      "summaryZh": "杜兰特谈生涯初目标：只希望能打满10年 懂球帝",
+      "detailsZh": "杜兰特谈生涯初目标：只希望能打满10年 懂球帝",
       "keyPoints": [
-        "杜兰特回击看衰论：谁在乎？被谁看衰？"
+        "杜兰特谈生涯初目标：只希望能打满10年"
       ],
       "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiuwFBVV95cUxNNER3NDdhcjB2ekFINEFiWGtZOThXejdBUEgzMVZRVEdSQXlRcmpzTjhrSmcyY0IycGNJQS1kcWZGOFJXR1hmUS1CcGtSdGJSbV9Sc3VyZTlCQ2dlN2JJZElFYU5oVEZvOFRFRUFGbGI5dGFtdDJlcHlJbndOTHF3WkJwMWFxR0FwQl8zNFVINWlWVURqOFZiWWtJVEtMT3phSnQ3emlNUEt1d3M5T2E4ck9ndzRaZXJXZXJ3",
+      "title": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNER3NDdhcjB2ekFINEFiWGtZOThXejdBUEgzMVZRVEdSQXlRcmpzTjhrSmcyY0IycGNJQS1kcWZGOFJXR1hmUS1CcGtSdGJSbV9Sc3VyZTlCQ2dlN2JJZElFYU5oVEZvOFRFRUFGbGI5dGFtdDJlcHlJbndOTHF3WkJwMWFxR0FwQl8zNFVINWlWVURqOFZiWWtJVEtMT3phSnQ3emlNUEt1d3M5T2E4ck9ndzRaZXJXZXJ3?oc=5",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-10-21T11:00:02.000Z",
+      "description": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts Sports Illustrated",
+      "titleZh": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts",
+      "summaryZh": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts Sports Illustrated",
+      "detailsZh": "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts Sports Illustrated",
+      "keyPoints": [
+        "Kevin Durant Reveals His Original NBA Career Goal As New Season Starts"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMihAFBVV95cUxOQ2JFd0F1bWNRdFV1M3hoMlo0VDJzZjQ5S3d5ZjZzNkRTWlg2Vzg0SGJjZ1VzUXdjaE42OGFPU1EtUjJmRjRPeTRUeXRHdGtOM3Nxb0tkdXdfVWdPekhWTjRZSF9uQ1JUd2R2LUhpTG5Ib2RhSV9meW56RWdqQktkS242YTE",
+      "title": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2JFd0F1bWNRdFV1M3hoMlo0VDJzZjQ5S3d5ZjZzNkRTWlg2Vzg0SGJjZ1VzUXdjaE42OGFPU1EtUjJmRjRPeTRUeXRHdGtOM3Nxb0tkdXdfVWdPekhWTjRZSF9uQ1JUd2R2LUhpTG5Ib2RhSV9meW56RWdqQktkS242YTE?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-21T07:25:00.000Z",
+      "description": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一 新浪网",
+      "titleZh": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一",
+      "summaryZh": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一 新浪网",
+      "detailsZh": "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一 新浪网",
+      "keyPoints": [
+        "4次赛季揭幕战砍30+！SGA超越杜兰特&威少独占雷霆队史第一"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMigAFBVV95cUxPVV80RmE0Tl9mNGpMeV9BWnJDbE0xckRrbmNyRjRGeFVRUFlhNkszLW9iOEd0YWxPVDM1UDVMQkJ1RzVvZ0JITHpqUDc1cDlHQ0piUG5XRXRVT2ZCNDJkM0Q5ZW9neHBsaDRQNXZkOEk0blVTOFNub1ZpVm5VZzBweQ",
+      "title": "特斯拉飞车确实厉害 #微博视频号迎新计划##陈泽##不是陈泽[超话]##游戏主播切片大赛# ​",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVV80RmE0Tl9mNGpMeV9BWnJDbE0xckRrbmNyRjRGeFVRUFlhNkszLW9iOEd0YWxPVDM1UDVMQkJ1RzVvZ0JITHpqUDc1cDlHQ0piUG5XRXRVT2ZCNDJkM0Q5ZW9neHBsaDRQNXZkOEk0blVTOFNub1ZpVm5VZzBweQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-21T07:03:37.000Z",
+      "description": "特斯拉飞车确实厉害 #微博视频号迎新计划##陈泽##不是陈泽[超话]##游戏主播切片大赛# ​ 新浪网",
+      "titleZh": "特斯拉飞车确实厉害 #微博视频号迎新计划##陈泽##不是陈泽[超话]##游戏主播切片大赛# ​",
+      "summaryZh": "特斯拉飞车确实厉害 #微博视频号迎新计划##陈泽##不是陈泽[超话]##游戏主播切片大赛# ​ 新浪网",
+      "detailsZh": "特斯拉飞车确实厉害 #微博视频号迎新计划##陈泽##不是陈泽[超话]##游戏主播切片大赛# ​ 新浪网",
+      "keyPoints": [
+        "特斯拉飞车确实厉害 #微博视频号迎新计划##陈泽##不是陈泽[超话]##游戏主播切片大赛# ​"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMic0FVX3lxTE1kUHRWMVpjMGY0Rm1tRWxnZUVOMlkta1R1NDRKRGdEeDlfQ3EyLXQ0ckYtSXhuaUdlZWV0NzFrN1ZpV0RkUDZhaHdpa3U3TDZQVGU4UDN5cHdlS2VDTzFweWU4WTM5Q3FLbXI4VGtrV240eDA",
+      "title": "陈泽锐评刷到的视频！哪一个敢评 cortis 吴京 陈泽 直播切片",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kUHRWMVpjMGY0Rm1tRWxnZUVOMlkta1R1NDRKRGdEeDlfQ3EyLXQ0ckYtSXhuaUdlZWV0NzFrN1ZpV0RkUDZhaHdpa3U3TDZQVGU4UDN5cHdlS2VDTzFweWU4WTM5Q3FLbXI4VGtrV240eDA?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-21T05:14:33.000Z",
+      "description": "陈泽锐评刷到的视频！哪一个敢评 cortis 吴京 陈泽 直播切片 新浪网",
+      "titleZh": "陈泽锐评刷到的视频！哪一个敢评 cortis 吴京 陈泽 直播切片",
+      "summaryZh": "陈泽锐评刷到的视频！哪一个敢评 cortis 吴京 陈泽 直播切片 新浪网",
+      "detailsZh": "陈泽锐评刷到的视频！哪一个敢评 cortis 吴京 陈泽 直播切片 新浪网",
+      "keyPoints": [
+        "陈泽锐评刷到的视频！哪一个敢评 cortis 吴京 陈泽 直播切片"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -165,24 +199,7 @@
         "陈泽喝蔡徐坤和anglebaby同款饮料 陈泽 直播切片"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc",
-      "title": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-17T05:52:07.000Z",
-      "description": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
-      "titleZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
-      "summaryZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
-      "detailsZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
-      "keyPoints": [
-        "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到"
-      ],
-      "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -214,23 +231,6 @@
       "detailsZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
       "keyPoints": [
         "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE00QkNRNVkzWUp2R1NoUUhuU01Pa2xBT3lkY3NUa3cyZnFKNHIzbjN3WHU0S0N2QzVyeHdVVUlWR3NzSjJfcFR4c0E1aHpybUFRNjNVblhtQ0hOQVlfcGw5TDRZVQ",
-      "title": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00QkNRNVkzWUp2R1NoUUhuU01Pa2xBT3lkY3NUa3cyZnFKNHIzbjN3WHU0S0N2QzVyeHdVVUlWR3NzSjJfcFR4c0E1aHpybUFRNjNVblhtQ0hOQVlfcGw5TDRZVQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "description": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不 手机新浪网",
-      "titleZh": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不",
-      "summaryZh": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不 手机新浪网",
-      "detailsZh": "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不 手机新浪网",
-      "keyPoints": [
-        "#不是陈泽[超话]# 随机回复的活动还有吗小泽泽[拜托]@菇蘑吃不"
       ],
       "category": "场外",
       "importance": 3
@@ -294,16 +294,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响力背景。该页面为静态百科条目，非当日新闻。",
-      "detailsZh": "事实：该词条记录了“大咕咕咕鸡”作为知名网络写手的身份，梳理了其常用的笔名体系、独特的语言风格以及在中文互联网语境下的传播影响。评论：作为百科全书式条目，其内容侧重于长期积累的公众认知与历史定位，具有较高的参考价值。传闻：无明确传闻记录，但需注意网络百科内容的更新滞后性。分类：固定主页或资料入口。重要性：4。",
+      "titleZh": "维基百科人物资料条目",
+      "summaryZh": "维基百科收录的大咕咕咕鸡词条，系统梳理其常用笔名、创作风格及网络影响力。作为基础背景资料入口，提供客观的人物生平与作品综述。",
+      "detailsZh": "该条目为固定的人物资料索引页面，非时效性新闻。内容主要涵盖大咕咕咕鸡作为网络写手的身份界定，重点分析其独特的语言风格和对网络流行语的贡献。事实部分记录其活跃时间段及代表性作品类型；评论部分涉及学界或媒体对其文化现象的评价；传闻部分则需谨慎甄别，通常不包含未经证实的私生活细节。此页面旨在为用户提供标准化的参考框架，帮助读者快速建立对该人物的认知轮廓，是后续深入阅读其他动态报道的基础。",
       "keyPoints": [
-        "记录常用笔名与创作风格",
-        "梳理网络影响力背景",
-        "静态百科资料非新闻"
+        "提供标准化的人物背景与创作风格概述",
+        "区分事实记录与媒体评论视角",
+        "作为长期有效的资料索引入口"
       ],
-      "category": "作品",
-      "importance": 4
+      "category": "场外",
+      "importance": 5
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -313,16 +313,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博上的大咕咕咕鸡相关公开动态聚合页及读者讨论入口。此为功能性导航链接，指向实时更新的社区内容，非独立新闻报道。",
-      "detailsZh": "事实：该链接指向新浪微博的超级话题（Super Topic）页面，用于聚合与该ID相关的公开动态和粉丝讨论。评论：这是追踪其最新社交媒体行为的核心渠道之一，反映了其在微博平台的活跃度。传闻：无。分类：固定主页或资料入口。重要性：3。",
+      "titleZh": "新浪微博超话社区入口",
+      "summaryZh": "大咕咕咕鸡在新浪微博的官方超话页面，聚合公开动态与粉丝讨论。此为固定的社交账号入口，用于追踪最新互动与读者反馈。",
+      "detailsZh": "该链接指向微博超话首页，属于固定的社交资产入口，而非单日新闻事件。页面内容实时变动，包含作者发布的日常状态、作品宣发以及读者的即时评论。事实层面记录了作者的活跃频率与互动模式；评论层面反映了核心粉丝群体的情感倾向与接受度；传闻层面可能夹杂粉丝间的猜测，需结合具体帖子语境判断。此入口是监测其公众形象维护策略和直接受众反应的关键渠道，具有极高的持续参考价值，但需注意信息的碎片化特征。",
       "keyPoints": [
-        "微博公开动态聚合页",
-        "读者讨论入口",
-        "非独立新闻内容"
+        "实时聚合作者动态与粉丝互动",
+        "反映核心受众的情感倾向",
+        "信息碎片化，需结合语境解读"
       ],
       "category": "公开发言",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -332,16 +332,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频搜索聚合",
-      "summaryZh": "哔哩哔哩平台关于大咕咕咕鸡作品朗读、相关讨论及历史视频的搜索结果聚合页。此为动态搜索链接，非特定新闻事件。",
-      "detailsZh": "事实：该链接提供B站上所有包含“大咕咕咕鸡”关键词的视频内容，包括作品朗读、二创及讨论视频。评论：展示了其在视频平台的衍生内容生态。传闻：无。分类：固定主页或资料入口。重要性：2。",
+      "titleZh": "哔哩哔哩作品朗读与讨论聚合页",
+      "summaryZh": "B站搜索关键词“大咕咕咕鸡”的结果页，汇集作品朗读视频及相关讨论。此为动态搜索结果入口，展示多媒体形式的传播情况。",
+      "detailsZh": "该链接为B站的动态搜索结果页，非固定主页。内容随时间推移不断更新，主要包括用户自制的作品朗读音频、视频剪辑及弹幕评论。事实部分体现作品的多媒体转化形式及播放量数据；评论部分通过弹幕和评论区的观点碰撞，展现年轻受众对文本的二次解读与共鸣点；传闻部分较少，多为基于内容的衍生创作。此入口揭示了其作品在非文字媒介领域的传播广度与受众参与度，是评估其跨平台影响力的重要维度，但需注意搜索结果的非权威性排序。",
       "keyPoints": [
-        "B站视频内容聚合",
-        "含作品朗读与讨论",
-        "动态搜索结果非新闻"
+        "展示作品在视频平台的传播形态",
+        "通过弹幕与评论反映受众二次解读",
+        "动态更新，体现跨平台影响力"
       ],
       "category": "作品",
-      "importance": 2
+      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -351,15 +351,15 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。属历史性回顾文章，非近期动态。",
-      "detailsZh": "事实：发布于2015年5月12日，由界面新闻撰写，重点探讨其作为网络段子手的创作特点及对当时网络流行语的贡献。评论：该报道具有历史文献价值，反映了早期对其影响力的媒体认可。传闻：无。分类：公开发言。重要性：4。",
+      "titleZh": "界面新闻历史深度报道",
+      "summaryZh": "2015年界面新闻关于大咕咕咕鸡及其创作生态的深度报道。回顾其早期创作风格及对网络语言的影响，具有重要的历史文献价值。",
+      "detailsZh": "这是一篇发布于2015年的历史报道，属于静态的新闻档案。文章从行业观察角度，分析了大咕咕咕鸡在当时网络段子手群体中的定位及其创作手法。事实部分记录了当时的社会舆论环境与其作品的传播路径；评论部分引用了当时媒体与专家的观点，探讨其语言创新的文化意义；传闻部分基本不存在，因为这是正规媒体的深度调查。尽管时间久远，但该报道提供了理解其创作起源和早期影响力的关键背景，对于研究其职业生涯轨迹具有不可替代的史料价值。",
       "keyPoints": [
-        "2015年历史深度报道",
-        "分析创作风格与语言影响",
-        "反映早期媒体评价"
+        "记录早期创作风格与行业定位",
+        "提供2015年时的媒体评价视角",
+        "具有历史文献与研究参考价值"
       ],
-      "category": "公开发言",
+      "category": "讨论",
       "importance": 4
     },
     {
@@ -370,16 +370,14 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "领库KOL账号资料页",
-      "summaryZh": "第三方数据平台领库提供的微博公开账号资料与传播数据页面。此为商业数据档案，非新闻内容。",
-      "detailsZh": "事实：该页面展示大咕咕咕鸡在微博平台的公开账号信息及部分传播数据指标。评论：主要用于商业合作参考或数据监测，客观呈现其社交资产状况。传闻：无。分类：场外。重要性：2。",
+      "titleZh": "大咕咕咕鸡微博公开账号资料",
+      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "keyPoints": [
-        "第三方数据平台档案",
-        "展示账号传播数据",
-        "商业参考用途"
+        "大咕咕咕鸡微博公开账号资料"
       ],
       "category": "场外",
-      "importance": 2
+      "importance": 4
     }
   ]
 }
