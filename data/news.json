@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T01:37:51.435Z",
+  "updatedAt": "2026-10-21T07:40:23.969Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,221 +16,139 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://tiyu.baidu.com/player?id=8b8a71bef7d928a3c2fbdc89407813e2&from=baidu_shoubai",
-      "title": "凯文·杜兰特",
-      "url": "https://tiyu.baidu.com/player?id=8b8a71bef7d928a3c2fbdc89407813e2&from=baidu_shoubai",
-      "source": "百度体育",
-      "publishedAt": "2026-10-21T01:33:51.088Z",
+      "id": "durant:search:https://www.sohu.com/a/1089916909_121606257",
+      "title": "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军",
+      "url": "https://www.sohu.com/a/1089916909_121606257",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-21T07:36:10.251Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "凯文·杜兰特",
+      "titleZh": "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "凯文·杜兰特"
+        "10月20日:年薪几千万却穿大黑拖鞋现身澳门,杜兰特五十四码脚踩错边线改写冠军"
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1090421826_121614698",
-      "title": "10月21日:杜兰特离开勇士七年仅赢两轮系列赛,场均高分却难破分区决赛",
-      "url": "https://www.sohu.com/a/1090421826_121614698",
+      "id": "durant:search:https://www.sohu.com/a/1089586679_122343948",
+      "title": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
+      "url": "https://www.sohu.com/a/1089586679_122343948",
       "source": "搜狐网",
-      "publishedAt": "2026-10-21T01:33:51.088Z",
+      "publishedAt": "2026-10-21T07:36:10.251Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10月21日:杜兰特离开勇士七年仅赢两轮系列赛,场均高分却难破分区决赛",
+      "titleZh": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "10月21日:杜兰特离开勇士七年仅赢两轮系列赛,场均高分却难破分区决赛"
+        "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 "
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://news.sohu.com/a/1090465338_121145584",
-      "title": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
-      "url": "https://news.sohu.com/a/1090465338_121145584",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-21T01:33:51.088Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:search:https://m.sohu.com/a/1089513999_122342510/",
-      "title": "10月19日:杜兰特大号公开与太阳老板开撕,狄龙补刀称清理了更衣室臭味,火箭机会来了 ",
-      "url": "https://m.sohu.com/a/1089513999_122342510/",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-21T01:33:51.088Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10月19日:杜兰特大号公开与太阳老板开撕,狄龙补刀称清理了更衣室臭味,火箭机会来了 ",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "10月19日:杜兰特大号公开与太阳老板开撕,狄龙补刀称清理了更衣室臭味,火箭机会来了 "
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L9DDUTAT0556128G.html",
-      "title": "刚获杜兰特夸奖,转头却被摆上货架!火箭19进15暴露残酷真相",
-      "url": "https://www.163.com/dy/article/L9DDUTAT0556128G.html",
+      "id": "durant:search:https://www.163.com/dy/article/L9957H8M0549V4UA.html",
+      "title": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
+      "url": "https://www.163.com/dy/article/L9957H8M0549V4UA.html",
       "source": "网易",
-      "publishedAt": "2026-10-21T01:33:51.088Z",
+      "publishedAt": "2026-10-21T07:36:10.251Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "刚获杜兰特夸奖,转头却被摆上货架!火箭19进15暴露残酷真相",
+      "titleZh": "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "刚获杜兰特夸奖,转头却被摆上货架!火箭19进15暴露残酷真相"
+        "砸了半支队换来的杜兰特,连续两年首轮回家——火箭到底该不该把他送走?"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://m.sohu.com/a/1088323125_122340867",
-      "title": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 ",
-      "url": "https://m.sohu.com/a/1088323125_122340867",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-21T01:33:51.088Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 ",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "id": "durant:CBMijAFBVV95cUxOWHZhekhSX2VEWVpHT3A4OUpYVjcxX2U5ZXdMZzdOUlZQVk1BNTlVWjdndWt5N2dCU2dTcHdILWVCcnFIRTVxN2NpVlVvdzVJeTFTZURZaGtxcUdJMDNkZG80MExrWUpJelBrbHMxakd2N3ZtRFl6TWdNWElDMXFLcjJ4ZEhfQW14M2JSQw",
+      "title": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHZhekhSX2VEWVpHT3A4OUpYVjcxX2U5ZXdMZzdOUlZQVk1BNTlVWjdndWt5N2dCU2dTcHdILWVCcnFIRTVxN2NpVlVvdzVJeTFTZURZaGtxcUdJMDNkZG80MExrWUpJelBrbHMxakd2N3ZtRFl6TWdNWElDMXFLcjJ4ZEhfQW14M2JSQw?oc=5",
+      "source": "搜狐",
+      "publishedAt": "2026-10-21T07:21:20.000Z",
+      "description": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队 搜狐",
+      "titleZh": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队",
+      "summaryZh": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队 搜狐",
+      "detailsZh": "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队 搜狐",
       "keyPoints": [
-        "10.16日:火箭队记重提杜兰特小号争议,球迷认定他是伟大得分手,糟糕领袖,新赛季更 "
+        "还没开打就被看低？杜兰特表态：对手根本不把我们当成弱队"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMihwFBVV95cUxNYmNIRExKWmZvdTNBalJ1ZkFTeFdmWHR6M3Btb195akdQd3l5QlBxcmhDVncyekN3aFpEdjN6b0IzU201Q2E2T044T1gxLU9VX0JfVHBDN2w1OVN4UTFRWUNSRHl5am9TakJTaGtUVkdEOExlbHdyUUFLc1NONmJHcjRHSmdWMjA",
-      "title": "Kevin Durant fires back at Rockets ‘underdog’ narrative with spicy retort",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmNIRExKWmZvdTNBalJ1ZkFTeFdmWHR6M3Btb195akdQd3l5QlBxcmhDVncyekN3aFpEdjN6b0IzU201Q2E2T044T1gxLU9VX0JfVHBDN2w1OVN4UTFRWUNSRHl5am9TakJTaGtUVkdEOExlbHdyUUFLc1NONmJHcjRHSmdWMjA?oc=5",
-      "source": "Yahoo Sports",
-      "publishedAt": "2026-10-20T23:43:44.000Z",
-      "description": "Kevin Durant fires back at Rockets ‘underdog’ narrative with spicy retort Yahoo Sports",
-      "titleZh": "Kevin Durant fires back at Rockets ‘underdog’ narrative with spicy retort",
-      "summaryZh": "Kevin Durant fires back at Rockets ‘underdog’ narrative with spicy retort Yahoo Sports",
-      "detailsZh": "Kevin Durant fires back at Rockets ‘underdog’ narrative with spicy retort Yahoo Sports",
+      "id": "durant:CBMiS0FVX3lxTE9sUktDNmx6SnpiVzN0ZFpncXhKY3lfajBGdVdBOUlBYS1GQlQwMVZ3cTVCX1dJV1RXWmtpVnNZRFU3MG5lbVZkR1kyNA",
+      "title": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sUktDNmx6SnpiVzN0ZFpncXhKY3lfajBGdVdBOUlBYS1GQlQwMVZ3cTVCX1dJV1RXWmtpVnNZRFU3MG5lbVZkR1kyNA?oc=5",
+      "source": "虎扑",
+      "publishedAt": "2026-10-21T04:40:55.000Z",
+      "description": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一 虎扑",
+      "titleZh": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一",
+      "summaryZh": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一 虎扑",
+      "detailsZh": "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一 虎扑",
       "keyPoints": [
-        "Kevin Durant fires back at Rockets ‘underdog’ narrative with spicy retort"
+        "[流言板]亚历山大4次揭幕战30+，超越杜兰特和威少升至雷霆队史第一"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMicEFVX3lxTE53OGxzSU1KclZ1Q1FmRjZ2RjRQU2lyZEVrRzRoVXRQOTZ4cjRXNTFnM1BvYS1NRHo1TkZjcnJvd3c3WGdhX2JFbjBpR2FGTzhKWG5CQ2UtcHRaTGlicGRmUFp4VC1mRTZYZkszTDlpNUI",
-      "title": "火箭官宣两签一裁！新赛季14+3阵容出炉：杜兰特申京领衔冲冠",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53OGxzSU1KclZ1Q1FmRjZ2RjRQU2lyZEVrRzRoVXRQOTZ4cjRXNTFnM1BvYS1NRHo1TkZjcnJvd3c3WGdhX2JFbjBpR2FGTzhKWG5CQ2UtcHRaTGlicGRmUFp4VC1mRTZYZkszTDlpNUI?oc=5",
+      "id": "durant:CBMijAFBVV95cUxQWVVoWHZicjlaV0RfeDZNMWJmamg2MjJ6eW92Q1FydlRRd1Mya0hpZ1o2RjlncEtWeHJkTWlBV0xZWl82ZXIyUTJNTVNHcVU0eURHcGpUNGtqVTFGTGFKU2hEdHFhbHNzbEs2NjJlLWhKdEhQOHZzOVJRaGp3TWVEbk1QX1Q5QTFWbXpxQw",
+      "title": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVVoWHZicjlaV0RfeDZNMWJmamg2MjJ6eW92Q1FydlRRd1Mya0hpZ1o2RjlncEtWeHJkTWlBV0xZWl82ZXIyUTJNTVNHcVU0eURHcGpUNGtqVTFGTGFKU2hEdHFhbHNzbEs2NjJlLWhKdEhQOHZzOVJRaGp3TWVEbk1QX1Q5QTFWbXpxQw?oc=5",
+      "source": "搜狐",
+      "publishedAt": "2026-10-21T04:28:25.000Z",
+      "description": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋 搜狐",
+      "titleZh": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋",
+      "summaryZh": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋 搜狐",
+      "detailsZh": "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋 搜狐",
+      "keyPoints": [
+        "火箭公布新赛季首发五虎！杜兰特改打内线，假摔王打小前锋"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTE5RNG5fcjQzb01BcnpmRFlyMjhIeURqRWpPa29YcEFhLV9VMzN0d2ozQldlMzlJWlJUS3N6YWtEdUZEX0ZhTTkxQlAyRnRPRHQwN1NNd2FUWXZWVUhIenJyRkxNbEdHUUJySjE1QjZfbTl0bnc",
+      "title": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RNG5fcjQzb01BcnpmRFlyMjhIeURqRWpPa29YcEFhLV9VMzN0d2ozQldlMzlJWlJUS3N6YWtEdUZEX0ZhTTkxQlAyRnRPRHQwN1NNd2FUWXZWVUhIenJyRkxNbEdHUUJySjE1QjZfbTl0bnc?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-10-20T23:38:00.000Z",
-      "description": "火箭官宣两签一裁！新赛季14+3阵容出炉：杜兰特申京领衔冲冠 新浪网",
-      "titleZh": "火箭官宣两签一裁！新赛季14+3阵容出炉：杜兰特申京领衔冲冠",
-      "summaryZh": "火箭官宣两签一裁！新赛季14+3阵容出炉：杜兰特申京领衔冲冠 新浪网",
-      "detailsZh": "火箭官宣两签一裁！新赛季14+3阵容出炉：杜兰特申京领衔冲冠 新浪网",
+      "publishedAt": "2026-10-21T03:03:55.000Z",
+      "description": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变 新浪网",
+      "titleZh": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变",
+      "summaryZh": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变 新浪网",
+      "detailsZh": "申京阿门杜兰特均不会被交易，火箭大交易传闻生变 新浪网",
       "keyPoints": [
-        "火箭官宣两签一裁！新赛季14+3阵容出炉：杜兰特申京领衔冲冠"
+        "申京阿门杜兰特均不会被交易，火箭大交易传闻生变"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ",
-      "title": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "description": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "titleZh": "陈泽停播引发网友猜测与关注",
-      "summaryZh": "近期游戏主播陈泽出现停播情况，引发外界对其原因的广泛猜测。部分网友推测其可能因健康原因或平台违规面临封禁风险，相关讨论在社交媒体上持续发酵。",
-      "detailsZh": "事实层面，知名游戏主播陈泽在特定时间段内未进行常规直播活动，导致粉丝群体产生焦虑与疑问。评论与传闻方面，网络舆论主要聚焦于两种可能性：一是主播个人身体健康出现状况需要休养；二是涉及平台规则问题，存在被永久封禁的风险。这种不确定性加剧了社区内的紧张情绪。值得注意的是，此类关于“停播”的传闻往往缺乏官方证实，多源于粉丝社群的内部讨论或对异常现象的过度解读。作为抖音主阵地的主播，其动态直接影响粉丝活跃度，因此任何非计划性的缺席都会迅速转化为热点话题。目前尚无确凿证据表明其账号状态发生实质性改变，建议以官方渠道发布的信息为准，理性看待网络流传的各种说法。",
+      "subject": "durant",
+      "id": "durant:CBMiV0FVX3lxTFB6amFUYlNiU1kwaDItM1E1dmpqMGVjWnhnX3ZKTWFsWWs0bFBPLVQtRFo2d0RHaEhzQVAxMTZuSUdtRjFLZEY1WWRKLUtEX2g4dXF4cWVUWQ",
+      "title": "杜兰特回击看衰论：谁在乎？被谁看衰？",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6amFUYlNiU1kwaDItM1E1dmpqMGVjWnhnX3ZKTWFsWWs0bFBPLVQtRFo2d0RHaEhzQVAxMTZuSUdtRjFLZEY1WWRKLUtEX2g4dXF4cWVUWQ?oc=5",
+      "source": "懂球帝",
+      "publishedAt": "2026-10-21T02:13:00.000Z",
+      "description": "杜兰特回击看衰论：谁在乎？被谁看衰？ 懂球帝",
+      "titleZh": "杜兰特回击看衰论：谁在乎？被谁看衰？",
+      "summaryZh": "杜兰特回击看衰论：谁在乎？被谁看衰？ 懂球帝",
+      "detailsZh": "杜兰特回击看衰论：谁在乎？被谁看衰？ 懂球帝",
       "keyPoints": [
-        "陈泽近期出现非计划性停播现象",
-        "网友猜测原因包括生病或被封号",
-        "社交媒体上相关讨论热度较高",
-        "暂无官方确切声明确认停播原因"
+        "杜兰特回击看衰论：谁在乎？被谁看衰？"
       ],
       "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE1RS3FwZ1pjdWlNSHl5QUtoRkh4bXdTd21MNzlXSzg5Rmc4UlBwNkd0NHVJZDVGYS1fQV9YWUlMTW5fSGhnUy1SbGhESmtYNXZUdHk3X0pn",
-      "title": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RS3FwZ1pjdWlNSHl5QUtoRkh4bXdTd21MNzlXSzg5Rmc4UlBwNkd0NHVJZDVGYS1fQV9YWUlMTW5fSGhnUy1SbGhESmtYNXZUdHk3X0pn?oc=5",
-      "source": "QQ News",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "description": "让粉丝自费算力打工，半年涨粉超2000万，陈泽凭什么？ QQ News",
-      "titleZh": "陈泽涨粉数据引发运营模式争议",
-      "summaryZh": "有媒体报道称游戏主播陈泽通过特定运营手段实现半年涨粉超2000万，其中提及“让粉丝自费算力打工”等说法，引发公众对其商业模式及合规性的质疑与讨论。",
-      "detailsZh": "事实层面，数据显示游戏主播陈泽在抖音平台确实实现了显著的粉丝增长，半年内新增粉丝超过2000万，这一成绩在直播行业中较为突出。然而，相关报道中提到的“让粉丝自费算力打工”等描述引发了巨大争议。评论与传闻指出，这种表述可能被误解为诱导用户参与某种形式的资源贡献或变相集资，尽管具体操作细节尚不明确，但已触及平台合规红线。业内观点认为，若存在此类行为，将严重违反直播平台关于用户互动和虚拟经济的规定。该事件不仅关乎主播个人的声誉，也反映了当前直播行业在流量获取与商业化变现之间的平衡难题。目前，主流观点倾向于认为这是一种夸张的报道手法，旨在吸引眼球，但同时也提醒从业者需警惕营销话术带来的法律风险。",
-      "keyPoints": [
-        "陈泽半年内抖音涨粉超2000万",
-        "媒体报道提及‘粉丝自费算力’等争议性说法",
-        "引发对直播商业模式合规性的质疑",
-        "舆论普遍关注其流量增长背后的代价"
-      ],
-      "category": "场外",
-      "importance": 5
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc",
-      "title": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc?oc=5",
-      "source": "新浪网",
-      "publishedAt": "2026-10-17T05:52:07.000Z",
-      "description": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
-      "titleZh": "《五der开播》节目引发观众期待",
-      "summaryZh": "由游戏主播陈泽参与的搞笑综艺《五der开播》持续获得观众好评，节目内容轻松幽默，粉丝对后续期数表现出极高的期待值，显示出其在综艺领域的潜力。",
-      "detailsZh": "事实层面，游戏主播陈泽参与了名为《五der开播》的综艺节目制作，该节目定位为搞笑娱乐类内容。从反馈来看，节目播出后获得了积极的观众评价，许多粉丝表示观看体验愉快，并对下一期内容充满期待。评论方面，观众普遍认为陈泽在镜头前展现了不同于单纯游戏直播的另一面，其幽默感和互动能力得到了认可。传闻层面，虽有传言称该节目可能成为固定栏目，但目前尚未得到官方正式确认。此项目标志着陈泽在内容形式上的多元化尝试，从单一的直播向结构化综艺内容拓展。这不仅有助于提升其个人IP的商业价值，也为粉丝提供了更多元化的消费场景。节目的成功与否将直接影响其后续的资源投入和市场定位，是观察其职业发展的一个重要窗口。",
-      "keyPoints": [
-        "陈泽参与搞笑综艺《五der开播》",
-        "节目获得观众积极反馈和高期待",
-        "展现主播在综艺领域的表现力",
-        "内容形式多元化探索初见成效"
-      ],
-      "category": "节目",
       "importance": 3
-    },
-    {
-      "id": "chenze:chenze-douyin-live",
-      "title": "陈泽- 抖音直播间",
-      "url": "https://live.douyin.com/9896719",
-      "source": "抖音直播",
-      "categoryHint": "直播",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "陈泽- 抖音直播间",
-      "summaryZh": "游戏主播陈泽自2024年转战后的官方直播入口，位于抖音平台，抖音号为9896719。通常晚间开播，具体直播时间请以平台实时状态为准。",
-      "detailsZh": "事实层面，这是游戏主播陈泽当前的官方直播主阵地信息。自2024年起，陈泽的主要直播活动已从其他平台转移至抖音，其抖音账号ID为9896719。该链接直接指向其直播间页面，是粉丝获取最新直播资讯和观看直播的直接渠道。评论与传闻方面，无特殊争议内容，仅为功能性指引。需要注意的是，直播时间并非固定不变，主播会根据个人安排、节假日或特殊活动调整开播时段。因此，建议粉丝关注其抖音主页的动态通知或微博等社交媒体的预告，以获取准确的开播信息。此条目属于固定的资料入口，而非新闻事件，旨在为用户提供准确的服务指引，避免混淆旧平台的房间号。",
-      "keyPoints": [
-        "陈泽当前直播主阵地为抖音",
-        "抖音官方账号ID为9896719",
-        "通常晚间开播，时间可能变动",
-        "此为固定入口，非当日新闻"
-      ],
-      "category": "直播",
-      "importance": 2
     },
     {
       "subject": "chenze",
@@ -251,6 +169,23 @@
     },
     {
       "subject": "chenze",
+      "id": "chenze:CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc",
+      "title": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVFNaZmRkcmtxSlFDeDVyOUtMZ2hCNzlRSF8xVy1NZGRRZlpSWm5VaXItWVpncXZzbVA0Y043SW95S3h3a3liU09yZHdCZWF3cXR3V3dpelU0Nmtsc1c2VnZhbDBsOFpGeUNSRjBsWkc?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-17T05:52:07.000Z",
+      "description": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
+      "titleZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到",
+      "summaryZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
+      "detailsZh": "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到 新浪网",
+      "keyPoints": [
+        "《五der开播》 不得不说，已经越来越期待下一期了五der陈泽OK了老铁们搞笑综艺万万没想到"
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "chenze",
       "id": "chenze:CBMiY0FVX3lxTE9LWEdscjlvRF9sTDJBbHBzd2hFeXczZGpFbGo5UmllaGlVbTZ5eU03ck5TNVlCbHJBN0xPTGd4OWNILU5XeGJ1ejNFeTU5cnJhbnpwRkpramQ2em13WUxWSFZDMA",
       "title": "#不是陈泽[超话]# 梗图泽泽来袭！@菇蘑吃不",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LWEdscjlvRF9sTDJBbHBzd2hFeXczZGpFbGo5UmllaGlVbTZ5eU03ck5TNVlCbHJBN0xPTGd4OWNILU5XeGJ1ejNFeTU5cnJhbnpwRkpramQ2em13WUxWSFZDMA?oc=5",
@@ -264,7 +199,7 @@
         "#不是陈泽[超话]# 梗图泽泽来袭！@菇蘑吃不"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -301,6 +236,57 @@
       "importance": 3
     },
     {
+      "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTE5UWi14eHJHU1BkcmhORVBXVGU2TkdieHdWTWNDV3hjYjNGdWc5VWZZaHBzUmpSR2ljdDluNHk5NjllaFB0NGlyMWFXVHI3LVAzcG5ZWTMySklISS1qUU84TEhqMA",
+      "title": "#不是陈泽[超话]# 哥大![抱一抱]和1103老铁们![坏笑]中秋快乐![打call]@菇蘑吃不",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UWi14eHJHU1BkcmhORVBXVGU2TkdieHdWTWNDV3hjYjNGdWc5VWZZaHBzUmpSR2ljdDluNHk5NjllaFB0NGlyMWFXVHI3LVAzcG5ZWTMySklISS1qUU84TEhqMA?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-24T23:48:00.000Z",
+      "description": "#不是陈泽[超话]# 哥大![抱一抱]和1103老铁们![坏笑]中秋快乐![打call]@菇蘑吃不 手机新浪网",
+      "titleZh": "#不是陈泽[超话]# 哥大![抱一抱]和1103老铁们![坏笑]中秋快乐![打call]@菇蘑吃不",
+      "summaryZh": "#不是陈泽[超话]# 哥大![抱一抱]和1103老铁们![坏笑]中秋快乐![打call]@菇蘑吃不 手机新浪网",
+      "detailsZh": "#不是陈泽[超话]# 哥大![抱一抱]和1103老铁们![坏笑]中秋快乐![打call]@菇蘑吃不 手机新浪网",
+      "keyPoints": [
+        "#不是陈泽[超话]# 哥大![抱一抱]和1103老铁们![坏笑]中秋快乐![打call]@菇蘑吃不"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3",
+      "title": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3?oc=5",
+      "source": "腾讯新闻",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "description": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
+      "titleZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
+      "summaryZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
+      "detailsZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
+      "keyPoints": [
+        "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ",
+      "title": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "description": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
+      "titleZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
+      "summaryZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
+      "detailsZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
+      "keyPoints": [
+        "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -309,14 +295,14 @@
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品影响。作为基础资料入口，提供关于其身份背景与文学贡献的客观事实记录。",
-      "detailsZh": "该条目为固定的人物资料索引页面，非时效性新闻。内容主要涵盖大咕咕咕鸡作为网络写手的身份界定，重点梳理了其独特的语言风格与在中文互联网语境下的影响力。文中区分了事实陈述（如活跃平台、代表类型）与社区评价（如对网络亚文化的推动）。需注意的是，网络百科内容可能存在滞后或未经严格核实的信息，读者应将其视为参考资料而非权威定论。此链接旨在提供人物全貌的背景知识，不包含当日动态或具体事件报道。",
+      "summaryZh": "维基百科收录的网络写手大咕咕咕鸡人物资料，涵盖常用笔名、创作风格及网络影响力背景。该页面为静态百科条目，非当日新闻。",
+      "detailsZh": "事实：该词条记录了“大咕咕咕鸡”作为知名网络写手的身份，梳理了其常用的笔名体系、独特的语言风格以及在中文互联网语境下的传播影响。评论：作为百科全书式条目，其内容侧重于长期积累的公众认知与历史定位，具有较高的参考价值。传闻：无明确传闻记录，但需注意网络百科内容的更新滞后性。分类：固定主页或资料入口。重要性：4。",
       "keyPoints": [
-        "提供人物背景与创作风格概述",
-        "属于静态资料库而非新闻动态",
-        "内容基于社区编辑，需交叉验证"
+        "记录常用笔名与创作风格",
+        "梳理网络影响力背景",
+        "静态百科资料非新闻"
       ],
-      "category": "场外",
+      "category": "作品",
       "importance": 4
     },
     {
@@ -327,15 +313,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话主页",
-      "summaryZh": "指向新浪微博上的官方超话聚合页，汇集公开动态与读者讨论。此为固定入口，用于追踪其社交媒体活动轨迹。",
-      "detailsZh": "这是一个固定的社交媒体聚合入口，链接至新浪微博的大咕咕咕鸡超话。该页面并非单一新闻报道，而是长期存在的粉丝互动与信息发布中心。它记录了该写手在微博平台的公开言论、转发内容及读者的实时反馈。对于研究者而言，这是获取一手社交数据的重要渠道，但需注意区分官方账号发布内容与粉丝二次创作或谣言。由于是固定主页，其URL和内容结构具有稳定性，不随单日新闻变化而改变，因此归类为场外资料入口。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博上的大咕咕咕鸡相关公开动态聚合页及读者讨论入口。此为功能性导航链接，指向实时更新的社区内容，非独立新闻报道。",
+      "detailsZh": "事实：该链接指向新浪微博的超级话题（Super Topic）页面，用于聚合与该ID相关的公开动态和粉丝讨论。评论：这是追踪其最新社交媒体行为的核心渠道之一，反映了其在微博平台的活跃度。传闻：无。分类：固定主页或资料入口。重要性：3。",
       "keyPoints": [
-        "微博超话固定聚合入口",
-        "汇集公开动态与粉丝讨论",
-        "非特定日期的新闻报道"
+        "微博公开动态聚合页",
+        "读者讨论入口",
+        "非独立新闻内容"
       ],
-      "category": "场外",
+      "category": "公开发言",
       "importance": 3
     },
     {
@@ -346,15 +332,15 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "哔哩哔哩相关视频搜索聚合",
-      "summaryZh": "B站关键词搜索结果页，包含作品朗读、二创视频及讨论。作为多媒体资料入口，展示其在视频平台的传播形态。",
-      "detailsZh": "该链接为哔哩哔哩网站的通用搜索结果页，通过关键词“大咕咕咕鸡”聚合相关内容。这并非针对某一特定事件的报道，而是一个持续更新的资源列表。内容包括用户自制的作品朗读音频、剧情解说视频以及相关的弹幕讨论。这些内容反映了该写手在视频社区的受众基础和文化传播方式。由于搜索结果会随时间推移和新上传内容的增加而变化，且多为UGC（用户生成内容），其真实性与准确性参差不齐。此条目作为多媒体资料的检索入口，帮助了解其在视觉和听觉媒介中的存在形式。",
+      "titleZh": "大咕咕咕鸡B站视频搜索聚合",
+      "summaryZh": "哔哩哔哩平台关于大咕咕咕鸡作品朗读、相关讨论及历史视频的搜索结果聚合页。此为动态搜索链接，非特定新闻事件。",
+      "detailsZh": "事实：该链接提供B站上所有包含“大咕咕咕鸡”关键词的视频内容，包括作品朗读、二创及讨论视频。评论：展示了其在视频平台的衍生内容生态。传闻：无。分类：固定主页或资料入口。重要性：2。",
       "keyPoints": [
-        "B站视频内容聚合搜索页",
-        "包含朗读、二创及讨论视频",
-        "反映跨媒体传播形态"
+        "B站视频内容聚合",
+        "含作品朗读与讨论",
+        "动态搜索结果非新闻"
       ],
-      "category": "场外",
+      "category": "作品",
       "importance": 2
     },
     {
@@ -365,16 +351,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻历史深度报道",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析其创作风格及对网络语言的影响。属历史性回顾，非当前动态。",
-      "detailsZh": "这是一篇发布于2015年的历史性媒体报道，由界面新闻刊出。文章从社会学或语言学角度，深入分析了大咕咕咕鸡的创作手法及其对当时网络流行语的塑造作用。报道中包含了记者的采访事实、专家评论以及对网络生态的观察。由于发布时间较早，部分内容可能已随时间推移而过时，但其作为早期主流媒体对该写手的认可与记录，具有重要的史料价值。该条目不属于当天的新闻更新，而是作为人物研究的历史文献被保留，用于理解其成名初期的社会反响。",
+      "titleZh": "界面新闻深度报道：创作生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析大咕咕咕鸡的创作风格及其对网络语言的影响。属历史性回顾文章，非近期动态。",
+      "detailsZh": "事实：发布于2015年5月12日，由界面新闻撰写，重点探讨其作为网络段子手的创作特点及对当时网络流行语的贡献。评论：该报道具有历史文献价值，反映了早期对其影响力的媒体认可。传闻：无。分类：公开发言。重要性：4。",
       "keyPoints": [
         "2015年历史深度报道",
         "分析创作风格与语言影响",
-        "具有史料价值的早期媒体记录"
+        "反映早期媒体评价"
       ],
-      "category": "讨论",
-      "importance": 3
+      "category": "公开发言",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -384,14 +370,16 @@
       "publishedAt": "2026-07-05T00:00:00.000Z",
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "titleZh": "领库KOL账号资料页",
+      "summaryZh": "第三方数据平台领库提供的微博公开账号资料与传播数据页面。此为商业数据档案，非新闻内容。",
+      "detailsZh": "事实：该页面展示大咕咕咕鸡在微博平台的公开账号信息及部分传播数据指标。评论：主要用于商业合作参考或数据监测，客观呈现其社交资产状况。传闻：无。分类：场外。重要性：2。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "第三方数据平台档案",
+        "展示账号传播数据",
+        "商业参考用途"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 2
     }
   ]
 }
