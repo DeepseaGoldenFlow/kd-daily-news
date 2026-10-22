@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T07:35:28.232Z",
+  "updatedAt": "2026-10-22T13:49:18.776Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,45 +16,11 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://voice.hupu.com/bbs/643092600",
-      "title": "NBA官方晒杜兰特-NBA新闻-虎扑社区",
-      "url": "https://voice.hupu.com/bbs/643092600",
-      "source": "虎扑体育网",
-      "publishedAt": "2026-10-22T07:32:13.316Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "NBA官方晒杜兰特-NBA新闻-虎扑社区",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "NBA官方晒杜兰特-NBA新闻-虎扑社区"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1090955476_122290779",
-      "title": "10月22日:杜兰特回应火箭被低估谁在乎呢,称首周结束球迷看法将变",
-      "url": "https://www.sohu.com/a/1090955476_122290779",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-22T07:32:13.316Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10月22日:杜兰特回应火箭被低估谁在乎呢,称首周结束球迷看法将变",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "10月22日:杜兰特回应火箭被低估谁在乎呢,称首周结束球迷看法将变"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
       "id": "durant:search:https://news.sohu.com/a/1090465338_121145584",
       "title": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
       "url": "https://news.sohu.com/a/1090465338_121145584",
       "source": "搜狐网",
-      "publishedAt": "2026-10-22T07:32:13.316Z",
+      "publishedAt": "2026-10-22T13:45:56.939Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -63,114 +29,126 @@
         "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度"
       ],
       "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://www.sohu.com/a/1089586679_122343948",
+      "title": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
+      "url": "https://www.sohu.com/a/1089586679_122343948",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-22T13:45:56.939Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 "
+      ],
+      "category": "场外",
+      "importance": 4
+    },
+    {
+      "subject": "durant",
+      "id": "durant:search:https://www.sohu.com/a/1090540916_122679006",
+      "title": "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 ",
+      "url": "https://www.sohu.com/a/1090540916_122679006",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-22T13:45:56.939Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 ",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "keyPoints": [
+        "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 "
+      ],
+      "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMicEFVX3lxTE5BZ0NUcDN1MkY0LWs3M1htNnlNWnhpMDlFOXNGb0ZJSm16eHY3VXcweHpnRTltRnRuY0NfeFlJcHo5eXY4aXNZcTlHNnJBZUpZQ1FJaktaSHNOMGNwdFUzRmtNb3ZmMFFLSGphd3FqTU0",
-      "title": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BZ0NUcDN1MkY0LWs3M1htNnlNWnhpMDlFOXNGb0ZJSm16eHY3VXcweHpnRTltRnRuY0NfeFlJcHo5eXY4aXNZcTlHNnJBZUpZQ1FJaktaSHNOMGNwdFUzRmtNb3ZmMFFLSGphd3FqTU0?oc=5",
+      "id": "durant:CBMihAFBVV95cUxQVW5Odi1TZUE4TzNhQ3BpclhhSndCMGlxeUs1YUpWWUQxZU1Xa0lva3llQS1rSjh1TUpUZ2s2aHZZYW93TGlyZEtxcnFVbU1MT01BZzM5ZER3LUFmTnBBMHFvUUZTeGVBN3kyamdNUm9ST1FOb2V3V1J3YldaLUlEVS1nT3c",
+      "title": "有个好控卫多重要？爱德华兹和杜兰特最懂 字母哥体验KD上季之苦",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVW5Odi1TZUE4TzNhQ3BpclhhSndCMGlxeUs1YUpWWUQxZU1Xa0lva3llQS1rSjh1TUpUZ2s2aHZZYW93TGlyZEtxcnFVbU1MT01BZzM5ZER3LUFmTnBBMHFvUUZTeGVBN3kyamdNUm9ST1FOb2V3V1J3YldaLUlEVS1nT3c?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-22T12:24:00.000Z",
+      "description": "有个好控卫多重要？爱德华兹和杜兰特最懂 字母哥体验KD上季之苦 手机新浪网",
+      "titleZh": "有个好控卫多重要？爱德华兹和杜兰特最懂 字母哥体验KD上季之苦",
+      "summaryZh": "有个好控卫多重要？爱德华兹和杜兰特最懂 字母哥体验KD上季之苦 手机新浪网",
+      "detailsZh": "有个好控卫多重要？爱德华兹和杜兰特最懂 字母哥体验KD上季之苦 手机新浪网",
+      "keyPoints": [
+        "有个好控卫多重要？爱德华兹和杜兰特最懂 字母哥体验KD上季之苦"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTFBvWk5ncGtvdm1MMnlrSWNTdEx2ZDFpdmxPZ0h3RXZ3MGNYdkZyMW93TzZQQmlWanFVZXlsdUpYc3lqRXIzY0lrVDBIRkxONDZqdkJvanB4c1djaG11VGlnVTRMLWFpZ0I0bGI1SGNYdzU5X28",
+      "title": "杜兰特赛后表扬谢泼德",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvWk5ncGtvdm1MMnlrSWNTdEx2ZDFpdmxPZ0h3RXZ3MGNYdkZyMW93TzZQQmlWanFVZXlsdUpYc3lqRXIzY0lrVDBIRkxONDZqdkJvanB4c1djaG11VGlnVTRMLWFpZ0I0bGI1SGNYdzU5X28?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-10-22T06:46:00.000Z",
-      "description": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发 新浪网",
-      "titleZh": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发",
-      "summaryZh": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发 新浪网",
-      "detailsZh": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发 新浪网",
+      "publishedAt": "2026-10-22T11:30:18.000Z",
+      "description": "杜兰特赛后表扬谢泼德 新浪网",
+      "titleZh": "杜兰特赛后表扬谢泼德",
+      "summaryZh": "杜兰特赛后表扬谢泼德 新浪网",
+      "detailsZh": "杜兰特赛后表扬谢泼德 新浪网",
       "keyPoints": [
-        "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发"
+        "杜兰特赛后表扬谢泼德"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTE9QUVVuRU1qTmRpM3ZPUlh5TGdROUdHMmE5SnhQVlFqcTZfcFl1R0pZemxZX1JhaXdiNDlRRXhOdUh0el9FRDlkNlRpd1ZsaHpFdjhBWXVjU3VvNTZGUWwyMks5dXZoS3dFQ3J5VlJwb2xEVW8",
-      "title": "詹姆斯字母哥杜兰特谁对位锡安",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QUVVuRU1qTmRpM3ZPUlh5TGdROUdHMmE5SnhQVlFqcTZfcFl1R0pZemxZX1JhaXdiNDlRRXhOdUh0el9FRDlkNlRpd1ZsaHpFdjhBWXVjU3VvNTZGUWwyMks5dXZoS3dFQ3J5VlJwb2xEVW8?oc=5",
+      "id": "durant:CBMic0FVX3lxTFA5b0dDY0J1RDdDYjdrZmJkU0ZpcFhIcjdOTG5xWnJfR3RsQzg1Z285UnlQY2NJY0s0Nm8zM3dfQl9HWTFTVUNJdUU2cEQza2p5bzJLSGI4WjFMOUphUjBGb19kUllBcTJiYVZGTUF3UGNhR1U",
+      "title": "火箭主场险胜魔术，杜兰特35分准绝杀申京30分准三双",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5b0dDY0J1RDdDYjdrZmJkU0ZpcFhIcjdOTG5xWnJfR3RsQzg1Z285UnlQY2NJY0s0Nm8zM3dfQl9HWTFTVUNJdUU2cEQza2p5bzJLSGI4WjFMOUphUjBGb19kUllBcTJiYVZGTUF3UGNhR1U?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-10-22T06:37:33.000Z",
-      "description": "詹姆斯字母哥杜兰特谁对位锡安 新浪网",
-      "titleZh": "詹姆斯字母哥杜兰特谁对位锡安",
-      "summaryZh": "詹姆斯字母哥杜兰特谁对位锡安 新浪网",
-      "detailsZh": "詹姆斯字母哥杜兰特谁对位锡安 新浪网",
+      "publishedAt": "2026-10-22T11:12:18.000Z",
+      "description": "火箭主场险胜魔术，杜兰特35分准绝杀申京30分准三双 新浪网",
+      "titleZh": "火箭主场险胜魔术，杜兰特35分准绝杀申京30分准三双",
+      "summaryZh": "火箭主场险胜魔术，杜兰特35分准绝杀申京30分准三双 新浪网",
+      "detailsZh": "火箭主场险胜魔术，杜兰特35分准绝杀申京30分准三双 新浪网",
       "keyPoints": [
-        "詹姆斯字母哥杜兰特谁对位锡安"
+        "火箭主场险胜魔术，杜兰特35分准绝杀申京30分准三双"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMitgJBVV95cUxPUnByckVORGkyME1fbURYMzhrVEZJLU5tTkx3dERYdlloemRFOFh2ZnBnd1h2SEVFXzlRN1RRZ243WG5VZWNmWnRIQm84dEtRdndkeVFWalI0b2RjWXBlU3lDNmR6a2RocWRyR1RrcWJNOHk3TnFhTUxUX3VpaXBITFp3NVloV1dIZmg3aFBNWi1qRi00QUZtV3RkRm8xWEJac2t6dzJWOG5FUW9OdlpBVkF1bzg4dENVaXR5aTBTeXA1UWszX3lHZEFpYzRYUW5BeUJ1cDZBN25pbVlhbDhBR2RqUnJzS2FSTGRYTUpfYVlaZ2x1VmFpMm1Eemg0OUtjWE5ydnExNHMtbk1EbUZYMGdHMGdIWjhhdVdxVFN0dV8zdnFVNDdwQTRGcXlFRTc3NG9kV2hR",
-      "title": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUnByckVORGkyME1fbURYMzhrVEZJLU5tTkx3dERYdlloemRFOFh2ZnBnd1h2SEVFXzlRN1RRZ243WG5VZWNmWnRIQm84dEtRdndkeVFWalI0b2RjWXBlU3lDNmR6a2RocWRyR1RrcWJNOHk3TnFhTUxUX3VpaXBITFp3NVloV1dIZmg3aFBNWi1qRi00QUZtV3RkRm8xWEJac2t6dzJWOG5FUW9OdlpBVkF1bzg4dENVaXR5aTBTeXA1UWszX3lHZEFpYzRYUW5BeUJ1cDZBN25pbVlhbDhBR2RqUnJzS2FSTGRYTUpfYVlaZ2x1VmFpMm1Eemg0OUtjWE5ydnExNHMtbk1EbUZYMGdHMGdIWjhhdVdxVFN0dV8zdnFVNDdwQTRGcXlFRTc3NG9kV2hR?oc=5",
-      "source": "13newsnow.com",
-      "publishedAt": "2026-10-22T06:33:00.000Z",
-      "description": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS 13newsnow.com",
-      "titleZh": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS",
-      "summaryZh": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS 13newsnow.com",
-      "detailsZh": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS 13newsnow.com",
-      "keyPoints": [
-        "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiugFBVV95cUxOX3NSNFkybGpEd1Jqb1BIck1VUkhlVmZsTk5hdFFsd0xvR0x1MG9maGVsX2w5ZDJFaXJmWVhxY2JsRGxoQlVYNjBFSjNabE5jX3pyOG02RXpqRTk0VEtXdm1kOVJJcnRESzQzVWpLR3NnVGVfMktrNm1IMEhHSUVIZlc1VVZSZlpUWXNFU3pPRjRrTjk4LTZUUEFRZzhGNmhsWUtQRHRVQW5nekJPaWhpREVaMURLQlZGUkE",
-      "title": "Kevin Durant drops 30 points in win over Mavericks",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3NSNFkybGpEd1Jqb1BIck1VUkhlVmZsTk5hdFFsd0xvR0x1MG9maGVsX2w5ZDJFaXJmWVhxY2JsRGxoQlVYNjBFSjNabE5jX3pyOG02RXpqRTk0VEtXdm1kOVJJcnRESzQzVWpLR3NnVGVfMktrNm1IMEhHSUVIZlc1VVZSZlpUWXNFU3pPRjRrTjk4LTZUUEFRZzhGNmhsWUtQRHRVQW5nekJPaWhpREVaMURLQlZGUkE?oc=5",
-      "source": "NBC Sports",
-      "publishedAt": "2026-10-22T06:31:57.000Z",
-      "description": "Kevin Durant drops 30 points in win over Mavericks NBC Sports",
-      "titleZh": "Kevin Durant drops 30 points in win over Mavericks",
-      "summaryZh": "Kevin Durant drops 30 points in win over Mavericks NBC Sports",
-      "detailsZh": "Kevin Durant drops 30 points in win over Mavericks NBC Sports",
-      "keyPoints": [
-        "Kevin Durant drops 30 points in win over Mavericks"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxNbzFVT0NDbnk0RUhCa2tJQno3aTJuLWl0VUxUbzdLWTBnWm85QXpSb0FsRlRqcWNvRG5TNUw3VDBpdWRRZmVDcGYzczFfMG81T1lQS016TW8wWjEtSWo5V084cnVlTEVIckZNVWJmTVZiaXp4VklFcENyNW1EZ1MzcTFB",
-      "title": "火箭有两个杜兰特怎么打？",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzFVT0NDbnk0RUhCa2tJQno3aTJuLWl0VUxUbzdLWTBnWm85QXpSb0FsRlRqcWNvRG5TNUw3VDBpdWRRZmVDcGYzczFfMG81T1lQS016TW8wWjEtSWo5V084cnVlTEVIckZNVWJmTVZiaXp4VklFcENyNW1EZ1MzcTFB?oc=5",
+      "id": "durant:CBMijwFBVV95cUxQQ2Jmc08xSFB5YnFwVnI3X3hOLVRCQXJFbzlRS0laXzZJMVI4X2ZlMk5FOG1PYWY0TUU5WlFVeF9JWTJhOXhfVDhoU3FISGFHcWk5a3VLRUMwaVBldnVTRDh6RTFwNDZST0NZMUE3dGc2aHkycVI1SThhQmJ6aWxXZkR5eWRHR2xKM3NtTXNqZw",
+      "title": "杜兰特：多名组织者在场让进攻运转极其流畅 大家都打得很有效率",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ2Jmc08xSFB5YnFwVnI3X3hOLVRCQXJFbzlRS0laXzZJMVI4X2ZlMk5FOG1PYWY0TUU5WlFVeF9JWTJhOXhfVDhoU3FISGFHcWk5a3VLRUMwaVBldnVTRDh6RTFwNDZST0NZMUE3dGc2aHkycVI1SThhQmJ6aWxXZkR5eWRHR2xKM3NtTXNqZw?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-10-22T05:52:17.000Z",
-      "description": "火箭有两个杜兰特怎么打？ 新浪网",
-      "titleZh": "火箭有两个杜兰特怎么打？",
-      "summaryZh": "火箭有两个杜兰特怎么打？ 新浪网",
-      "detailsZh": "火箭有两个杜兰特怎么打？ 新浪网",
+      "publishedAt": "2026-10-22T10:43:00.000Z",
+      "description": "杜兰特：多名组织者在场让进攻运转极其流畅 大家都打得很有效率 新浪网",
+      "titleZh": "杜兰特：多名组织者在场让进攻运转极其流畅 大家都打得很有效率",
+      "summaryZh": "杜兰特：多名组织者在场让进攻运转极其流畅 大家都打得很有效率 新浪网",
+      "detailsZh": "杜兰特：多名组织者在场让进攻运转极其流畅 大家都打得很有效率 新浪网",
       "keyPoints": [
-        "火箭有两个杜兰特怎么打？"
+        "杜兰特：多名组织者在场让进攻运转极其流畅 大家都打得很有效率"
       ],
       "category": "场外",
       "importance": 3
     },
     {
-      "id": "chenze:chenze-douyin-live",
-      "title": "陈泽- 抖音直播间",
-      "url": "https://live.douyin.com/9896719",
-      "source": "抖音直播",
-      "categoryHint": "直播",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
-      "image": "assets/chenze-cover.png",
-      "subject": "chenze",
-      "titleZh": "陈泽- 抖音直播间",
-      "summaryZh": "游戏主播陈泽自2024年转战抖音后的官方直播入口。抖音号为9896719。通常晚间开播，具体直播时间请以抖音平台实时状态为准。此为固定主页资料，非当日新闻。",
-      "detailsZh": "此条目为陈泽在抖音平台的官方直播入口信息。陈泽于2024年初从快手跳槽至抖音，并将抖音作为其主要直播阵地。用户可以通过抖音搜索“陈泽-”或抖音号“9896719”进入其直播间。该账号目前粉丝量已突破千万，是抖音游戏直播板块的重要头部主播之一。请注意，此信息为长期有效的资料入口，不作为特定日期的新闻动态发布。",
+      "subject": "durant",
+      "id": "durant:CBMijwFBVV95cUxQaUYyVG1ma2xvYVk4RjFJdlJOa29OSGtxY2ZtaWhxQmIyODZ5T1JuQndTYkRnbUxGdzZOWWdvYk5Cd3cwZXhuTmFtc3VGWDNaUVl0SEdaOTNxTU84MnVFVi15MmlmeUJQa2c0dVlTaHBPalo1Q3B6RVN1VkZTSjcyNVF4eFI2V2oyNVE1dVRaNA",
+      "title": "火箭大胜双喜临门，杜兰特小贾申京很出色，阿门真练出三分了",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaUYyVG1ma2xvYVk4RjFJdlJOa29OSGtxY2ZtaWhxQmIyODZ5T1JuQndTYkRnbUxGdzZOWWdvYk5Cd3cwZXhuTmFtc3VGWDNaUVl0SEdaOTNxTU84MnVFVi15MmlmeUJQa2c0dVlTaHBPalo1Q3B6RVN1VkZTSjcyNVF4eFI2V2oyNVE1dVRaNA?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-22T10:17:00.000Z",
+      "description": "火箭大胜双喜临门，杜兰特小贾申京很出色，阿门真练出三分了 新浪网",
+      "titleZh": "火箭大胜双喜临门，杜兰特小贾申京很出色，阿门真练出三分了",
+      "summaryZh": "火箭大胜双喜临门，杜兰特小贾申京很出色，阿门真练出三分了 新浪网",
+      "detailsZh": "火箭大胜双喜临门，杜兰特小贾申京很出色，阿门真练出三分了 新浪网",
       "keyPoints": [
-        "陈泽当前官方直播主阵地为抖音",
-        "抖音号为9896719",
-        "通常为晚间开播，具体时间视平台安排而定",
-        "此为固定资料入口，非当天新闻"
+        "火箭大胜双喜临门，杜兰特小贾申京很出色，阿门真练出三分了"
       ],
-      "category": "直播",
-      "importance": 2
+      "category": "场外",
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -259,6 +237,40 @@
     },
     {
       "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTE5aMVBwaVJPamFWVk4wN2V4dmRhMVFGV3RZVndDZWxYOEZpeE9wSlcxZldXb1JHZU05Qi00dm5NUGVsdVJIeTVrYmt1XzlBLXN0ZEhXc3JhZDgxWWVCRzA2dGtBMA",
+      "title": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aMVBwaVJPamFWVk4wN2V4dmRhMVFGV3RZVndDZWxYOEZpeE9wSlcxZldXb1JHZU05Qi00dm5NUGVsdVJIeTVrYmt1XzlBLXN0ZEhXc3JhZDgxWWVCRzA2dGtBMA?oc=5",
+      "source": "手机新浪网",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "description": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻 手机新浪网",
+      "titleZh": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻",
+      "summaryZh": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻 手机新浪网",
+      "detailsZh": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻 手机新浪网",
+      "keyPoints": [
+        "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMiY0FVX3lxTFA3Ui1lRHlDRnBCTXlpYzRrdzlVYmRDMmRjejhaV09fY1c5MGZ0cmpsaTBzb0U5a2xacGJtdVRHWm5hTDAzZ1hvaVJXSEFfcVhaS1lxYm41Tm9HN2N4VHlhcXJYVQ",
+      "title": "#不是陈泽[超话]# 外卖放门口",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Ui1lRHlDRnBCTXlpYzRrdzlVYmRDMmRjejhaV09fY1c5MGZ0cmpsaTBzb0U5a2xacGJtdVRHWm5hTDAzZ1hvaVJXSEFfcVhaS1lxYm41Tm9HN2N4VHlhcXJYVQ?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "description": "#不是陈泽[超话]# 外卖放门口 新浪网",
+      "titleZh": "#不是陈泽[超话]# 外卖放门口",
+      "summaryZh": "#不是陈泽[超话]# 外卖放门口 新浪网",
+      "detailsZh": "#不是陈泽[超话]# 外卖放门口 新浪网",
+      "keyPoints": [
+        "#不是陈泽[超话]# 外卖放门口"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "chenze",
       "id": "chenze:CBMiY0FVX3lxTE5UWi14eHJHU1BkcmhORVBXVGU2TkdieHdWTWNDV3hjYjNGdWc5VWZZaHBzUmpSR2ljdDluNHk5NjllaFB0NGlyMWFXVHI3LVAzcG5ZWTMySklISS1qUU84TEhqMA",
       "title": "#不是陈泽[超话]# 哥大![抱一抱]和1103老铁们![坏笑]中秋快乐![打call]@菇蘑吃不",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UWi14eHJHU1BkcmhORVBXVGU2TkdieHdWTWNDV3hjYjNGdWc5VWZZaHBzUmpSR2ljdDluNHk5NjllaFB0NGlyMWFXVHI3LVAzcG5ZWTMySklISS1qUU84TEhqMA?oc=5",
@@ -275,23 +287,6 @@
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3",
-      "title": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1maFZFS21NRl9lbHJvMU95cUFfSVFNQlBIdzh4azVYWjUxVmc5Qkt2MGFFUERPYmVCTE43ck9QNko0cUxuVHNHd2VETFkzODBZNUh4SGV3?oc=5",
-      "source": "腾讯新闻",
-      "publishedAt": "2026-09-23T07:00:00.000Z",
-      "description": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
-      "titleZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重",
-      "summaryZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
-      "detailsZh": "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重 腾讯新闻",
-      "keyPoints": [
-        "DNF：韩茜茜公布旭旭宝宝开播时间了！“初九”遭众矢之的，陈泽损失惨重"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -299,54 +294,17 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "大咕咕咕鸡维基百科词条",
-      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供其网络影响力的基础信息。",
-      "detailsZh": "事实：该页面为中文维基百科条目，系统整理了“大咕咕咕鸡”作为网络写手的公开资料，包括其活跃平台、代表作品类型及在中文互联网语境下的文化影响。评论：作为百科类条目，其内容通常基于过往的公开报道和社区共识，具有较高的参考价值，但需注意时效性滞后。传闻：无直接涉及个人私生活传闻，主要聚焦于公共领域的创作记录。此条目属于固定资料入口，非当日新闻，旨在提供长期稳定的背景查询服务。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录其作为网络写手的背景资料，涵盖常用笔名、创作风格及作品对网络文化的影响。此为固定人物百科入口，非当日新闻。",
+      "detailsZh": "该条目为关于网络写手“大咕咕咕鸡”的综合性背景资料页面。事实层面，它记录了其作为知名网络段子手的身份，梳理了其创作风格的演变轨迹，并列举了具有代表性的作品或语录。评论层面，分析指出其语言风格对早期中文互联网语境有一定塑造作用，常被引用为网络流行语的源头之一。传闻层面，部分讨论涉及其个人生活细节，但缺乏权威信源证实。此页面属于固定的人物资料库入口，旨在提供长期稳定的参考信息，而非报道特定日期的动态事件。",
       "keyPoints": [
-        "提供人物背景与创作风格概述",
-        "整合历史公开资料与网络影响",
-        "属于静态百科资料而非动态新闻"
+        "记录常用笔名与创作风格演变",
+        "分析对中文互联网语言的影响",
+        "包含代表性作品与语录汇总",
+        "属固定百科资料，非时效新闻"
       ],
       "category": "作品",
       "importance": 4
-    },
-    {
-      "id": "dagu:dagu-weibo-topic",
-      "title": "大咕咕咕鸡公开动态与超话",
-      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
-      "source": "新浪微博",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡微博超话入口",
-      "summaryZh": "新浪微博官方认证的超级话题页面，聚合该写手的公开动态、粉丝讨论及互动内容，是核心社交阵地。",
-      "detailsZh": "事实：这是新浪微博中针对“大咕咕咕鸡”设立的专属话题页（Super Index），用于集中展示其发布的博文、转发内容及读者的实时评论。评论：作为主要的社交媒体集散地，此处反映了其在粉丝群体中的活跃度及舆论风向，数据具有实时性。传闻：页面本身不包含未经证实的八卦，但评论区可能存在用户间的争议或谣言，需自行甄别。此链接为固定的主页/资料入口，用于追踪日常动态，不具备单一新闻事件的属性。",
-      "keyPoints": [
-        "微博官方认证的话题聚合页",
-        "汇集日常动态与粉丝互动",
-        "反映实时舆论与社区活跃度"
-      ],
-      "category": "公开发言",
-      "importance": 5
-    },
-    {
-      "id": "dagu:dagu-bilibili-search",
-      "title": "大咕咕咕鸡相关视频与作品朗读",
-      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
-      "source": "哔哩哔哩",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
-      "subject": "dagu",
-      "titleZh": "大咕咕咕鸡B站视频聚合",
-      "summaryZh": "哔哩哔哩搜索聚合页，包含其作品朗读音频、相关二创视频及历史讨论，是多媒体内容的主要载体。",
-      "detailsZh": "事实：该链接指向B站的搜索结果页，涵盖以“大咕咕咕鸡”为关键词的视频内容，包括其亲自录制的作品朗读、粉丝制作的剪辑以及相关的解说视频。评论：B站是其内容传播的重要渠道，尤其是音频朗读部分，体现了其文字作品的听觉化延伸。传闻：视频评论区可能涉及对作品情节的解读分歧，但页面本身仅为索引工具。此条目为动态搜索结果的固定入口，非特定新闻事件，适合用于回顾历史作品或查找多媒体资源。",
-      "keyPoints": [
-        "聚合作品朗读与二创视频",
-        "体现多媒体内容传播形态",
-        "搜索结果页而非单一视频"
-      ],
-      "category": "作品",
-      "importance": 3
     },
     {
       "id": "dagu:dagu-jiemian-profile",
@@ -356,16 +314,54 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道：创作生态",
-      "summaryZh": "2015年界面新闻发布的深度报道，分析其创作风格及对网络语言的影响，属历史性行业观察。",
-      "detailsZh": "事实：这是一篇发布于2015年的新闻报道，标题涉及“网络段子手创作生态”，文中提及大咕咕咕鸡的创作特点及其在当时网络环境中的地位。评论：该报道具有历史文献价值，反映了早期新媒体环境下写手的生存状态与影响力，但距今时间较久，现状可能已发生变化。传闻：报道内容基于当时采访与观察，不涉及后续未公开的私人传闻。此条目为过时的新闻存档，仅具参考意义，不作为当前动态依据。",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，回顾大咕咕咕鸡的创作风格及其在早期网络段子手生态中的地位，具历史文献价值。",
+      "detailsZh": "这是一篇发布于2015年的深度报道，主要回顾“大咕咕咕鸡”在中文互联网早期的影响力。事实层面，文章详细描述了其独特的幽默表达方式、高频出现的句式结构以及当时在各大论坛和社交平台的传播路径。评论层面，媒体将其置于更广泛的“网络段子手”群体中进行考察，探讨其内容生产模式如何反映当时的网民心理和社会情绪。传闻层面，文中未涉及未经证实的个人八卦。该报道具有重要的历史档案意义，帮助理解早期网络亚文化的形成，但需注意其时间跨度较大，部分内容可能已随网络环境变化而过时。",
       "keyPoints": [
-        "2015年发布的历史性报道",
-        "分析创作风格与网络语言影响",
-        "反映早期新媒体生态现状"
+        "回顾早期网络段子手生态",
+        "分析独特幽默表达与传播路径",
+        "反映当时网民心理与社会情绪",
+        "具2015年历史文献参考价值"
       ],
       "category": "讨论",
-      "importance": 2
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-weibo-topic",
+      "title": "大咕咕咕鸡公开动态与超话",
+      "url": "https://weibo.com/p/1008083eab57282f1f40ec77c0d804da759725/super_index",
+      "source": "新浪微博",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博相关话题页，聚合其公开动态与读者讨论。此为固定社区入口，用于追踪最新互动，非独立新闻报道。",
+      "detailsZh": "该链接指向新浪微博上的官方话题或超话页面，是粉丝和读者进行互动的主要场所。事实层面，这里汇集了其最新的微博更新、转发内容及读者的评论反馈。评论层面，用户在此分享对其新内容的看法，有时会出现关于其创作意图的推测性讨论。传闻层面，偶尔会有未经核实的谣言或误传信息混入评论区，需用户自行甄别。此页面本质上是固定的社交媒体社区入口，功能在于维持粉丝粘性和信息同步，不具备传统新闻媒体的编辑审核机制，因此其中的内容多为即时性、碎片化的用户生成内容。",
+      "keyPoints": [
+        "聚合最新微博动态与读者评论",
+        "粉丝互动与观点交流的主要场所",
+        "存在未经核实的用户生成内容",
+        "属固定社区入口，非独立新闻"
+      ],
+      "category": "公开发言",
+      "importance": 3
+    },
+    {
+      "id": "dagu:dagu-bilibili-search",
+      "title": "大咕咕咕鸡相关视频与作品朗读",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%B8%A1",
+      "source": "哔哩哔哩",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "detailsZh": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
+      "keyPoints": [
+        "大咕咕咕鸡相关视频与作品朗读"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
