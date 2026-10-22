@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T01:32:33.073Z",
+  "updatedAt": "2026-10-22T07:35:28.232Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,79 +16,37 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:CBMiswFBVV95cUxOQW5aWFBmYmZ2amlobEhFcE5JVGN6LU1FSE9YNm5JeVpFdzItaXgyNlgyWHh6OVBNdnRYbE5ZV1NOVnZlSkxqbmhCQ2xJX3FyMFJXaGFIZmVPblVNcXpkZGlaUlB1dEpDbWY4OXpsRFVwY09DRGEwcUd6OGdRV2d2bVgzcVZDVGdOaDBqamFfZGNfTnRuYlFwc3NaOWdGVEtfQURuQVZhVlBjSjlKUDluZUVOaw",
-      "title": "Kevin Durant starts his 19th season Wednesday",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW5aWFBmYmZ2amlobEhFcE5JVGN6LU1FSE9YNm5JeVpFdzItaXgyNlgyWHh6OVBNdnRYbE5ZV1NOVnZlSkxqbmhCQ2xJX3FyMFJXaGFIZmVPblVNcXpkZGlaUlB1dEpDbWY4OXpsRFVwY09DRGEwcUd6OGdRV2d2bVgzcVZDVGdOaDBqamFfZGNfTnRuYlFwc3NaOWdGVEtfQURuQVZhVlBjSjlKUDluZUVOaw?oc=5",
-      "source": "NBC Sports",
-      "publishedAt": "2026-10-22T00:10:27.000Z",
-      "description": "Kevin Durant starts his 19th season Wednesday NBC Sports",
-      "titleZh": "杜兰特开启职业生涯第19个赛季",
-      "summaryZh": "凯文·杜兰特于2026年10月正式开启其NBA职业生涯的第19个赛季。作为联盟现役老将，他目前效力于休斯顿火箭队，新赛季揭幕战将迎战达拉斯独行侠队。",
-      "detailsZh": "事实：根据NBC Sports等权威媒体报道，凯文·杜兰特在2026年10月22日左右正式进入其NBA生涯的第19个赛季。这一数据标志着他自2007-08赛季出道以来，依然保持着极高的竞技状态和出勤意愿。当前他所在的球队为休斯顿火箭队，新赛季的首场比赛对手是达拉斯独行侠队。评论：杜兰特能够征战至第19个赛季，充分证明了其科学的管理方式、卓越的身体素质以及持续进化的篮球技艺。在年龄增长的情况下，他依然被球队视为核心战力，这在现代NBA中极为罕见。传闻：部分媒体猜测他在未来几个赛季可能面临角色调整或交易流言，但截至目前并无官方证实。",
+      "id": "durant:search:https://voice.hupu.com/bbs/643092600",
+      "title": "NBA官方晒杜兰特-NBA新闻-虎扑社区",
+      "url": "https://voice.hupu.com/bbs/643092600",
+      "source": "虎扑体育网",
+      "publishedAt": "2026-10-22T07:32:13.316Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "NBA官方晒杜兰特-NBA新闻-虎扑社区",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "杜兰特开启NBA生涯第19个赛季",
-        "目前效力于休斯顿火箭队",
-        "新赛季揭幕战对阵达拉斯独行侠"
+        "NBA官方晒杜兰特-NBA新闻-虎扑社区"
       ],
-      "category": "比赛",
+      "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTFBtN1JxQ2pDanhoUHhnQW1Mb0NiamY3eDMwWXdrdXVuWWROakgtUFBKUUZZdjlTUTd0Y1g5WEZvNktfWjg1QjhzeEVXTQ",
-      "title": "[流言板]蓄势待发！美媒盘点杜兰特即将打破的三项里程碑纪录",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtN1JxQ2pDanhoUHhnQW1Mb0NiamY3eDMwWXdrdXVuWWROakgtUFBKUUZZdjlTUTd0Y1g5WEZvNktfWjg1QjhzeEVXTQ?oc=5",
-      "source": "虎扑",
-      "publishedAt": "2026-10-21T23:07:02.000Z",
-      "description": "[流言板]蓄势待发！美媒盘点杜兰特即将打破的三项里程碑纪录 虎扑",
-      "titleZh": "美媒盘点杜兰特即将打破的三项里程碑纪录",
-      "summaryZh": "随着新赛季开始，美媒梳理了杜兰特即将冲击的三项重要历史纪录。其中包括得分榜排名及与科比布莱恩特总得分差距的分析，引发球迷广泛关注。",
-      "detailsZh": "事实：搜狐网及虎扑等平台引用美媒观点，指出杜兰特在新赛季初期面临多项里程碑挑战。其中一项关键数据是他距离超越科比·布莱恩特的历史总得分仅差1047分（基于特定统计口径）。此外，还有两项未具体说明的纪录待突破。评论：杜兰特的得分能力毋庸置疑，若能在该赛季完成对科比的超越，将进一步巩固其在NBA历史得分榜上的地位。这不仅是个人荣誉的体现，也是对其长期高效输出的肯定。传闻：关于“第20季里程碑能否达成”存在讨论，但这更多是基于假设性的预测，而非既定事实。需注意的是，不同媒体对历史数据的统计标准可能存在差异。",
+      "id": "durant:search:https://www.sohu.com/a/1090955476_122290779",
+      "title": "10月22日:杜兰特回应火箭被低估谁在乎呢,称首周结束球迷看法将变",
+      "url": "https://www.sohu.com/a/1090955476_122290779",
+      "source": "搜狐网",
+      "publishedAt": "2026-10-22T07:32:13.316Z",
+      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "titleZh": "10月22日:杜兰特回应火箭被低估谁在乎呢,称首周结束球迷看法将变",
+      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "杜兰特即将冲击三项历史里程碑",
-        "距离超越科比总得分仅差1047分",
-        "新季表现备受媒体关注"
-      ],
-      "category": "比赛",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMingFBVV95cUxQbjZqX2t0NGVLTHhBUnhmSXpjaHVMTHJKcnJrbFgzN2JjWW9wTDVRRHF6M3FGTnFKRlBwd0stN3dLbWQ5QjNfMXRkZjlkbzFwZ0FQUEMtMVJrZ1RNVzRoNnpxOGF6eGVtejhidG1tNTdLYlFrbHQ2dmt3N0x1VG80RFpTNDZ2elVmMjVZY3BfLU1KSi16MzlqNzJiU0I4UQ",
-      "title": "How Long Will Kevin Durant Play With the Rockets?",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjZqX2t0NGVLTHhBUnhmSXpjaHVMTHJKcnJrbFgzN2JjWW9wTDVRRHF6M3FGTnFKRlBwd0stN3dLbWQ5QjNfMXRkZjlkbzFwZ0FQUEMtMVJrZ1RNVzRoNnpxOGF6eGVtejhidG1tNTdLYlFrbHQ2dmt3N0x1VG80RFpTNDZ2elVmMjVZY3BfLU1KSi16MzlqNzJiU0I4UQ?oc=5",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-10-21T21:00:00.000Z",
-      "description": "How Long Will Kevin Durant Play With the Rockets? Sports Illustrated",
-      "titleZh": "专家热议杜兰特在火箭队的未来前景",
-      "summaryZh": "Sports Illustrated撰稿人及懂球帝等平台围绕“杜兰特还能在火箭待多久”展开热议。分析聚焦于球队阵容构建、争冠窗口期以及杜兰特个人职业规划。",
-      "detailsZh": "事实：多家媒体刊登文章探讨杜兰特在休斯顿火箭队的长期规划。OnSI撰稿人认为，火箭队目前的年轻核心与杜兰特的经验结合具有巨大潜力，但也存在磨合风险。评论：舆论普遍认为，杜兰特在火箭队的去留取决于球队战绩及管理层决策。若火箭能迅速提升竞争力，杜兰特有望延长在此效力时间；反之，若陷入重建泥潭，他可能会寻求更具即战力的环境。这种不确定性使得他的未来成为转会市场的焦点话题。传闻：有匿名消息源暗示火箭内部对杜兰德的续约持谨慎态度，但尚未得到官方确认。",
-      "keyPoints": [
-        "媒体热议杜兰特在火箭队的去留问题",
-        "分析聚焦球队争冠窗口与阵容磨合",
-        "未来动向受战绩和管理层决策影响"
+        "10月22日:杜兰特回应火箭被低估谁在乎呢,称首周结束球迷看法将变"
       ],
       "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMidEFVX3lxTFBwS3UyeTFUamN2cDM1cUFaeDJZbk1kcUZYbjB1Ny12T2pEbWhqbFB1a3JxSkl1WHVobXNnQ196UEI4UUdFRVlEQ2VSQzRLRTVROVEzOFlsa2tNRE9wVFZTTjVyZF9JWVZRZ3VONDA0YXlwMVRm",
-      "title": "Kevin Durant 2026-27 Stats per Game - NBA",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwS3UyeTFUamN2cDM1cUFaeDJZbk1kcUZYbjB1Ny12T2pEbWhqbFB1a3JxSkl1WHVobXNnQ196UEI4UUdFRVlEQ2VSQzRLRTVROVEzOFlsa2tNRE9wVFZTTjVyZF9JWVZRZ3VONDA0YXlwMVRm?oc=5",
-      "source": "ESPN",
-      "publishedAt": "2026-10-21T19:52:03.000Z",
-      "description": "Kevin Durant 2026-27 Stats per Game - NBA ESPN",
-      "titleZh": "杜兰特2026-27赛季场均数据统计发布",
-      "summaryZh": "ESPN发布了凯文·杜兰特2026-27赛季的最新场均统计数据。数据显示其各项基础指标依然保持在高水平，展现了老将的稳定输出能力。",
-      "detailsZh": "事实：ESPN平台更新了杜兰特2026-27赛季的个人技术统计页面，涵盖得分、篮板、助攻等常规数据。虽然具体数值随赛程推进而变化，但整体趋势显示其效率值维持在联盟前列。评论：稳定的数据产出是杜兰特价值的直接体现。即便在职业生涯后期，他仍能通过高效的投篮选择弥补体能下降带来的影响。这些数据也为教练组制定战术提供了依据。传闻：无相关不实信息。需注意，早期赛季的数据样本较小，仅供参考，最终表现需以完整赛季为准。",
-      "keyPoints": [
-        "ESPN发布杜兰特2026-27赛季场均数据",
-        "基础指标保持高水平稳定输出",
-        "数据反映其高效投篮选择能力"
-      ],
-      "category": "比赛",
-      "importance": 2
+      "importance": 4
     },
     {
       "subject": "durant",
@@ -96,7 +54,7 @@
       "title": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
       "url": "https://news.sohu.com/a/1090465338_121145584",
       "source": "搜狐网",
-      "publishedAt": "2026-10-22T01:29:17.687Z",
+      "publishedAt": "2026-10-22T07:32:13.316Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "titleZh": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
@@ -105,58 +63,131 @@
         "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1089586679_122343948",
-      "title": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
-      "url": "https://www.sohu.com/a/1089586679_122343948",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-22T01:29:17.687Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 ",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
+      "id": "durant:CBMicEFVX3lxTE5BZ0NUcDN1MkY0LWs3M1htNnlNWnhpMDlFOXNGb0ZJSm16eHY3VXcweHpnRTltRnRuY0NfeFlJcHo5eXY4aXNZcTlHNnJBZUpZQ1FJaktaSHNOMGNwdFUzRmtNb3ZmMFFLSGphd3FqTU0",
+      "title": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BZ0NUcDN1MkY0LWs3M1htNnlNWnhpMDlFOXNGb0ZJSm16eHY3VXcweHpnRTltRnRuY0NfeFlJcHo5eXY4aXNZcTlHNnJBZUpZQ1FJaktaSHNOMGNwdFUzRmtNb3ZmMFFLSGphd3FqTU0?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-22T06:46:00.000Z",
+      "description": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发 新浪网",
+      "titleZh": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发",
+      "summaryZh": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发 新浪网",
+      "detailsZh": "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发 新浪网",
       "keyPoints": [
-        "10.19日:杜兰特布克季后赛数据流出,老板称引进是教训,杜兰特公开回怼,两队即将赛 "
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:search:https://www.sohu.com/a/1090540916_122679006",
-      "title": "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 ",
-      "url": "https://www.sohu.com/a/1090540916_122679006",
-      "source": "搜狐网",
-      "publishedAt": "2026-10-22T01:29:17.687Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 ",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "杜兰特揭幕战对阵独行侠仅差1047分超科比,第20季里程碑能否达成 "
+        "独行侠对阵火箭 范弗利特阿门杜兰特小贾申京首发"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiigFBVV95cUxNamZpaV9HalFSNm5uRmRUQ0ZPWFZXSDhQNEdsWjFtWWNNWm1ydlZtamJ1VUFlTjdhN1d2YVRTZW43NVp2NVpmZ0RDUkRZazFuT3YtNUttaVkwX2dmeXhlUF92SXFFQ0NORFNVZ3dKZEVNel9yMnRKSk5MelBjVExka184VmJnNTYwQkE",
-      "title": "Kevin Durant rocks the rim with powerful dunk",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamZpaV9HalFSNm5uRmRUQ0ZPWFZXSDhQNEdsWjFtWWNNWm1ydlZtamJ1VUFlTjdhN1d2YVRTZW43NVp2NVpmZ0RDUkRZazFuT3YtNUttaVkwX2dmeXhlUF92SXFFQ0NORFNVZ3dKZEVNel9yMnRKSk5MelBjVExka184VmJnNTYwQkE?oc=5",
-      "source": "ESPN",
-      "publishedAt": "2026-10-22T00:52:27.000Z",
-      "description": "Kevin Durant rocks the rim with powerful dunk ESPN",
-      "titleZh": "Kevin Durant rocks the rim with powerful dunk",
-      "summaryZh": "Kevin Durant rocks the rim with powerful dunk ESPN",
-      "detailsZh": "Kevin Durant rocks the rim with powerful dunk ESPN",
+      "id": "durant:CBMic0FVX3lxTE9QUVVuRU1qTmRpM3ZPUlh5TGdROUdHMmE5SnhQVlFqcTZfcFl1R0pZemxZX1JhaXdiNDlRRXhOdUh0el9FRDlkNlRpd1ZsaHpFdjhBWXVjU3VvNTZGUWwyMks5dXZoS3dFQ3J5VlJwb2xEVW8",
+      "title": "詹姆斯字母哥杜兰特谁对位锡安",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QUVVuRU1qTmRpM3ZPUlh5TGdROUdHMmE5SnhQVlFqcTZfcFl1R0pZemxZX1JhaXdiNDlRRXhOdUh0el9FRDlkNlRpd1ZsaHpFdjhBWXVjU3VvNTZGUWwyMks5dXZoS3dFQ3J5VlJwb2xEVW8?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-22T06:37:33.000Z",
+      "description": "詹姆斯字母哥杜兰特谁对位锡安 新浪网",
+      "titleZh": "詹姆斯字母哥杜兰特谁对位锡安",
+      "summaryZh": "詹姆斯字母哥杜兰特谁对位锡安 新浪网",
+      "detailsZh": "詹姆斯字母哥杜兰特谁对位锡安 新浪网",
       "keyPoints": [
-        "Kevin Durant rocks the rim with powerful dunk"
+        "詹姆斯字母哥杜兰特谁对位锡安"
       ],
       "category": "场外",
       "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMitgJBVV95cUxPUnByckVORGkyME1fbURYMzhrVEZJLU5tTkx3dERYdlloemRFOFh2ZnBnd1h2SEVFXzlRN1RRZ243WG5VZWNmWnRIQm84dEtRdndkeVFWalI0b2RjWXBlU3lDNmR6a2RocWRyR1RrcWJNOHk3TnFhTUxUX3VpaXBITFp3NVloV1dIZmg3aFBNWi1qRi00QUZtV3RkRm8xWEJac2t6dzJWOG5FUW9OdlpBVkF1bzg4dENVaXR5aTBTeXA1UWszX3lHZEFpYzRYUW5BeUJ1cDZBN25pbVlhbDhBR2RqUnJzS2FSTGRYTUpfYVlaZ2x1VmFpMm1Eemg0OUtjWE5ydnExNHMtbk1EbUZYMGdHMGdIWjhhdVdxVFN0dV8zdnFVNDdwQTRGcXlFRTc3NG9kV2hR",
+      "title": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUnByckVORGkyME1fbURYMzhrVEZJLU5tTkx3dERYdlloemRFOFh2ZnBnd1h2SEVFXzlRN1RRZ243WG5VZWNmWnRIQm84dEtRdndkeVFWalI0b2RjWXBlU3lDNmR6a2RocWRyR1RrcWJNOHk3TnFhTUxUX3VpaXBITFp3NVloV1dIZmg3aFBNWi1qRi00QUZtV3RkRm8xWEJac2t6dzJWOG5FUW9OdlpBVkF1bzg4dENVaXR5aTBTeXA1UWszX3lHZEFpYzRYUW5BeUJ1cDZBN25pbVlhbDhBR2RqUnJzS2FSTGRYTUpfYVlaZ2x1VmFpMm1Eemg0OUtjWE5ydnExNHMtbk1EbUZYMGdHMGdIWjhhdVdxVFN0dV8zdnFVNDdwQTRGcXlFRTc3NG9kV2hR?oc=5",
+      "source": "13newsnow.com",
+      "publishedAt": "2026-10-22T06:33:00.000Z",
+      "description": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS 13newsnow.com",
+      "titleZh": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS",
+      "summaryZh": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS 13newsnow.com",
+      "detailsZh": "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS 13newsnow.com",
+      "keyPoints": [
+        "Rockets CRUSH Mavericks On Opening Night As Kevin Durant & Jabari Smith Jr. Combine For SIXTY POINTS"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiugFBVV95cUxOX3NSNFkybGpEd1Jqb1BIck1VUkhlVmZsTk5hdFFsd0xvR0x1MG9maGVsX2w5ZDJFaXJmWVhxY2JsRGxoQlVYNjBFSjNabE5jX3pyOG02RXpqRTk0VEtXdm1kOVJJcnRESzQzVWpLR3NnVGVfMktrNm1IMEhHSUVIZlc1VVZSZlpUWXNFU3pPRjRrTjk4LTZUUEFRZzhGNmhsWUtQRHRVQW5nekJPaWhpREVaMURLQlZGUkE",
+      "title": "Kevin Durant drops 30 points in win over Mavericks",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3NSNFkybGpEd1Jqb1BIck1VUkhlVmZsTk5hdFFsd0xvR0x1MG9maGVsX2w5ZDJFaXJmWVhxY2JsRGxoQlVYNjBFSjNabE5jX3pyOG02RXpqRTk0VEtXdm1kOVJJcnRESzQzVWpLR3NnVGVfMktrNm1IMEhHSUVIZlc1VVZSZlpUWXNFU3pPRjRrTjk4LTZUUEFRZzhGNmhsWUtQRHRVQW5nekJPaWhpREVaMURLQlZGUkE?oc=5",
+      "source": "NBC Sports",
+      "publishedAt": "2026-10-22T06:31:57.000Z",
+      "description": "Kevin Durant drops 30 points in win over Mavericks NBC Sports",
+      "titleZh": "Kevin Durant drops 30 points in win over Mavericks",
+      "summaryZh": "Kevin Durant drops 30 points in win over Mavericks NBC Sports",
+      "detailsZh": "Kevin Durant drops 30 points in win over Mavericks NBC Sports",
+      "keyPoints": [
+        "Kevin Durant drops 30 points in win over Mavericks"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiggFBVV95cUxNbzFVT0NDbnk0RUhCa2tJQno3aTJuLWl0VUxUbzdLWTBnWm85QXpSb0FsRlRqcWNvRG5TNUw3VDBpdWRRZmVDcGYzczFfMG81T1lQS016TW8wWjEtSWo5V084cnVlTEVIckZNVWJmTVZiaXp4VklFcENyNW1EZ1MzcTFB",
+      "title": "火箭有两个杜兰特怎么打？",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzFVT0NDbnk0RUhCa2tJQno3aTJuLWl0VUxUbzdLWTBnWm85QXpSb0FsRlRqcWNvRG5TNUw3VDBpdWRRZmVDcGYzczFfMG81T1lQS016TW8wWjEtSWo5V084cnVlTEVIckZNVWJmTVZiaXp4VklFcENyNW1EZ1MzcTFB?oc=5",
+      "source": "新浪网",
+      "publishedAt": "2026-10-22T05:52:17.000Z",
+      "description": "火箭有两个杜兰特怎么打？ 新浪网",
+      "titleZh": "火箭有两个杜兰特怎么打？",
+      "summaryZh": "火箭有两个杜兰特怎么打？ 新浪网",
+      "detailsZh": "火箭有两个杜兰特怎么打？ 新浪网",
+      "keyPoints": [
+        "火箭有两个杜兰特怎么打？"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "id": "chenze:chenze-douyin-live",
+      "title": "陈泽- 抖音直播间",
+      "url": "https://live.douyin.com/9896719",
+      "source": "抖音直播",
+      "categoryHint": "直播",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "description": "游戏主播陈泽自 2024 年转战抖音后的直播入口，抖音号 9896719；通常晚间开播，具体以平台状态为准。",
+      "image": "assets/chenze-cover.png",
+      "subject": "chenze",
+      "titleZh": "陈泽- 抖音直播间",
+      "summaryZh": "游戏主播陈泽自2024年转战抖音后的官方直播入口。抖音号为9896719。通常晚间开播，具体直播时间请以抖音平台实时状态为准。此为固定主页资料，非当日新闻。",
+      "detailsZh": "此条目为陈泽在抖音平台的官方直播入口信息。陈泽于2024年初从快手跳槽至抖音，并将抖音作为其主要直播阵地。用户可以通过抖音搜索“陈泽-”或抖音号“9896719”进入其直播间。该账号目前粉丝量已突破千万，是抖音游戏直播板块的重要头部主播之一。请注意，此信息为长期有效的资料入口，不作为特定日期的新闻动态发布。",
+      "keyPoints": [
+        "陈泽当前官方直播主阵地为抖音",
+        "抖音号为9896719",
+        "通常为晚间开播，具体时间视平台安排而定",
+        "此为固定资料入口，非当天新闻"
+      ],
+      "category": "直播",
+      "importance": 2
+    },
+    {
+      "subject": "chenze",
+      "id": "chenze:CBMib0FVX3lxTE40NnhuZnJuWjRTMnlPNWtfZS15NHVsQzgwNGJvOXl5UER2eDRsRHdBNE5KUDgxR3djWXpHbjVzcGRyWDVfeHIyTmIzd3gtUXAzTXNwdlBWdzEyTzhCVDJfYTF0VmxJTkk2d0FMTmJmUQ",
+      "title": "花小龙完成梦想 陈泽爆笑综艺即将推出",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40NnhuZnJuWjRTMnlPNWtfZS15NHVsQzgwNGJvOXl5UER2eDRsRHdBNE5KUDgxR3djWXpHbjVzcGRyWDVfeHIyTmIzd3gtUXAzTXNwdlBWdzEyTzhCVDJfYTF0VmxJTkk2d0FMTmJmUQ?oc=5",
+      "source": "微博",
+      "publishedAt": "2026-10-22T01:47:01.000Z",
+      "description": "花小龙完成梦想 陈泽爆笑综艺即将推出 微博",
+      "titleZh": "花小龙完成梦想 陈泽爆笑综艺即将推出",
+      "summaryZh": "花小龙完成梦想 陈泽爆笑综艺即将推出 微博",
+      "detailsZh": "花小龙完成梦想 陈泽爆笑综艺即将推出 微博",
+      "keyPoints": [
+        "花小龙完成梦想 陈泽爆笑综艺即将推出"
+      ],
+      "category": "场外",
+      "importance": 4
     },
     {
       "subject": "chenze",
@@ -190,7 +221,7 @@
         "陈泽锐评刷到的视频！哪一个敢评 cortis 吴京 陈泽 直播切片"
       ],
       "category": "场外",
-      "importance": 4
+      "importance": 3
     },
     {
       "subject": "chenze",
@@ -222,23 +253,6 @@
       "detailsZh": "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢 手机新浪网",
       "keyPoints": [
         "#不是陈泽[超话]# 哥你不对劲 怎么这么嫩呢"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE5aMVBwaVJPamFWVk4wN2V4dmRhMVFGV3RZVndDZWxYOEZpeE9wSlcxZldXb1JHZU05Qi00dm5NUGVsdVJIeTVrYmt1XzlBLXN0ZEhXc3JhZDgxWWVCRzA2dGtBMA",
-      "title": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aMVBwaVJPamFWVk4wN2V4dmRhMVFGV3RZVndDZWxYOEZpeE9wSlcxZldXb1JHZU05Qi00dm5NUGVsdVJIeTVrYmt1XzlBLXN0ZEhXc3JhZDgxWWVCRzA2dGtBMA?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-01T07:00:00.000Z",
-      "description": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻 手机新浪网",
-      "titleZh": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻",
-      "summaryZh": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻 手机新浪网",
-      "detailsZh": "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻 手机新浪网",
-      "keyPoints": [
-        "陈泽cz|迪士尼在逃公主dsn|ok了老铁们_新浪新闻"
       ],
       "category": "场外",
       "importance": 3
@@ -278,23 +292,6 @@
       "importance": 3
     },
     {
-      "subject": "chenze",
-      "id": "chenze:CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ",
-      "title": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PZ0U2MGRlUjJCNWlaOGJJRUl0NW5sZHFoQUdmWkJtUGZGdi16TmFhWTQ4V0VRU2EyUGRaUnFUX0pUWHdOYlJNM3A3d0lMaWtXQVR3TEFjTlZQb0tyb3hSajFzSQ?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "description": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "titleZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻",
-      "summaryZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "detailsZh": "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻 手机新浪网",
-      "keyPoints": [
-        "陈泽停播引猜测，网友：是生病还是被永封？|陈泽|旭旭宝宝|阿哲_新浪新闻"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
       "id": "dagu:dagu-wikipedia",
       "title": "大咕咕咕鸡人物与创作资料",
       "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%92%95%E5%92%95%E5%92%95%E9%9B%9E",
@@ -302,16 +299,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料条目",
-      "summaryZh": "维基百科收录的大咕咕咕鸡词条，涵盖其常用笔名、创作风格及网络影响。作为基础背景资料入口，提供关于该写手的综合性百科信息。",
-      "detailsZh": "事实：该页面为维基百科上关于网络写手大咕咕咕鸡的固定资料条目，记录了其作为知名网络段子手的身份、主要活跃平台及代表性创作风格。评论：此类百科条目通常由社区维护，旨在提供中立的人物背景概览，是了解其公众形象的基础参考。传闻：无特定传闻涉及，但需注意百科内容可能随时间更新而存在滞后性。此链接为固定主页或资料入口，非当日新闻事件，建议作为背景知识查阅而非即时动态跟踪。",
+      "titleZh": "大咕咕咕鸡维基百科词条",
+      "summaryZh": "收录该网络写手的常用笔名、创作风格及作品背景资料，提供其网络影响力的基础信息。",
+      "detailsZh": "事实：该页面为中文维基百科条目，系统整理了“大咕咕咕鸡”作为网络写手的公开资料，包括其活跃平台、代表作品类型及在中文互联网语境下的文化影响。评论：作为百科类条目，其内容通常基于过往的公开报道和社区共识，具有较高的参考价值，但需注意时效性滞后。传闻：无直接涉及个人私生活传闻，主要聚焦于公共领域的创作记录。此条目属于固定资料入口，非当日新闻，旨在提供长期稳定的背景查询服务。",
       "keyPoints": [
         "提供人物背景与创作风格概述",
-        "属于固定百科资料入口",
-        "记录网络影响力与常用笔名"
+        "整合历史公开资料与网络影响",
+        "属于静态百科资料而非动态新闻"
       ],
       "category": "作品",
-      "importance": 3
+      "importance": 4
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -321,16 +318,16 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话公开动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话页面，聚合其公开动态与读者讨论。作为粉丝互动与信息发布的官方渠道入口，反映其在社交媒体上的活跃度。",
-      "detailsZh": "事实：该链接指向新浪微博的大咕咕咕鸡超话索引页，用于展示相关话题下的公开动态和读者讨论。评论：超话是中文互联网常见的粉丝聚集地，此处内容多为读者自发讨论或作者转发，具有高度的时效性和互动性。传闻：页面本身不包含未经证实的传闻，但需警惕评论区可能出现的非官方消息。此链接为固定主页或资料入口，用于追踪其日常社交动态，非单一新闻事件报道。",
+      "titleZh": "大咕咕咕鸡微博超话入口",
+      "summaryZh": "新浪微博官方认证的超级话题页面，聚合该写手的公开动态、粉丝讨论及互动内容，是核心社交阵地。",
+      "detailsZh": "事实：这是新浪微博中针对“大咕咕咕鸡”设立的专属话题页（Super Index），用于集中展示其发布的博文、转发内容及读者的实时评论。评论：作为主要的社交媒体集散地，此处反映了其在粉丝群体中的活跃度及舆论风向，数据具有实时性。传闻：页面本身不包含未经证实的八卦，但评论区可能存在用户间的争议或谣言，需自行甄别。此链接为固定的主页/资料入口，用于追踪日常动态，不具备单一新闻事件的属性。",
       "keyPoints": [
-        "微博官方超话聚合页",
-        "包含读者讨论与公开动态",
-        "属于固定社交账号入口"
+        "微博官方认证的话题聚合页",
+        "汇集日常动态与粉丝互动",
+        "反映实时舆论与社区活跃度"
       ],
       "category": "公开发言",
-      "importance": 4
+      "importance": 5
     },
     {
       "id": "dagu:dagu-bilibili-search",
@@ -340,13 +337,13 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站作品朗读与视频搜索",
-      "summaryZh": "哔哩哔哩针对大咕咕咕鸡关键词的搜索结果页，聚合作品朗读、相关讨论及历史视频。作为多媒体内容检索入口，展示其作品的传播形态。",
-      "detailsZh": "事实：该链接为B站全站搜索结果，关键词为大咕咕咕鸡，结果包含其作品朗读音频、相关二创视频及讨论帖。评论：B站是其作品传播的重要阵地，此类搜索结果反映了受众对其内容的消费偏好，如听书或视频解说。传闻：搜索结果中可能混杂非官方上传内容，需甄别来源。此链接为固定搜索入口，非特定新闻事件，适用于查找其多媒体作品存量。",
+      "titleZh": "大咕咕咕鸡B站视频聚合",
+      "summaryZh": "哔哩哔哩搜索聚合页，包含其作品朗读音频、相关二创视频及历史讨论，是多媒体内容的主要载体。",
+      "detailsZh": "事实：该链接指向B站的搜索结果页，涵盖以“大咕咕咕鸡”为关键词的视频内容，包括其亲自录制的作品朗读、粉丝制作的剪辑以及相关的解说视频。评论：B站是其内容传播的重要渠道，尤其是音频朗读部分，体现了其文字作品的听觉化延伸。传闻：视频评论区可能涉及对作品情节的解读分歧，但页面本身仅为索引工具。此条目为动态搜索结果的固定入口，非特定新闻事件，适合用于回顾历史作品或查找多媒体资源。",
       "keyPoints": [
-        "B站作品朗读与视频聚合",
-        "反映多媒体传播形态",
-        "属于固定搜索资源入口"
+        "聚合作品朗读与二创视频",
+        "体现多媒体内容传播形态",
+        "搜索结果页而非单一视频"
       ],
       "category": "作品",
       "importance": 3
@@ -359,16 +356,16 @@
       "publishedAt": "2015-05-12T00:00:00.000Z",
       "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
       "subject": "dagu",
-      "titleZh": "界面新闻深度报道回顾",
-      "summaryZh": "2015年界面新闻对大咕咕咕鸡及其所处网络段子手生态的深度报道。回顾其早期创作风格及对网络语言的影响，具有重要史料价值。",
-      "detailsZh": "事实：2015年5月12日，界面新闻发布文章《大咕咕咕鸡与网络段子手创作生态》，深入分析其创作特点及行业背景。评论：该报道被视为理解其早期职业轨迹和网络地位的关键文献，揭示了当时网络文学圈层的运作逻辑。传闻：报道内容基于当时采访，不涉及后续发展传闻。此链接为历史性新闻报道，非当前动态，适合研究其职业生涯早期阶段。",
+      "titleZh": "界面新闻深度报道：创作生态",
+      "summaryZh": "2015年界面新闻发布的深度报道，分析其创作风格及对网络语言的影响，属历史性行业观察。",
+      "detailsZh": "事实：这是一篇发布于2015年的新闻报道，标题涉及“网络段子手创作生态”，文中提及大咕咕咕鸡的创作特点及其在当时网络环境中的地位。评论：该报道具有历史文献价值，反映了早期新媒体环境下写手的生存状态与影响力，但距今时间较久，现状可能已发生变化。传闻：报道内容基于当时采访与观察，不涉及后续未公开的私人传闻。此条目为过时的新闻存档，仅具参考意义，不作为当前动态依据。",
       "keyPoints": [
-        "2015年媒体深度报道",
-        "分析创作风格与行业生态",
-        "具有历史文献参考价值"
+        "2015年发布的历史性报道",
+        "分析创作风格与网络语言影响",
+        "反映早期新媒体生态现状"
       ],
       "category": "讨论",
-      "importance": 4
+      "importance": 2
     },
     {
       "id": "dagu:dagu-kol-profile",
