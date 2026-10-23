@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T13:27:17.789Z",
+  "updatedAt": "2026-10-23T18:22:15.379Z",
   "aiEnabled": true,
   "model": "qwen3.7-flash",
   "profiles": {
@@ -16,136 +16,136 @@
   "items": [
     {
       "subject": "durant",
-      "id": "durant:search:https://m.dongqiudi.com/xinwen/58273",
-      "title": "杜兰特脚踝好转,火箭对阵湖人第四战出战存疑",
-      "url": "https://m.dongqiudi.com/xinwen/58273",
-      "source": "懂球帝",
-      "publishedAt": "2026-10-23T13:24:10.478Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "杜兰特脚踝好转,火箭对阵湖人第四战出战存疑",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "杜兰特脚踝好转,火箭对阵湖人第四战出战存疑"
-      ],
-      "category": "场外",
-      "importance": 4
-    },
-    {
-      "subject": "durant",
-      "id": "durant:search:https://news.sohu.com/a/1090465338_121145584",
-      "title": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
-      "url": "https://news.sohu.com/a/1090465338_121145584",
+      "id": "durant:search:https://m.sohu.com/a/1091445895_122411130",
+      "title": "杜兰特揭幕战用招牌中距硬解回应下滑质疑,生涯后期仍能无视防守砍分 ",
+      "url": "https://m.sohu.com/a/1091445895_122411130",
       "source": "搜狐网",
-      "publishedAt": "2026-10-23T13:24:10.478Z",
+      "publishedAt": "2026-10-23T18:18:45.224Z",
       "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度",
+      "titleZh": "杜兰特揭幕战用招牌中距硬解回应下滑质疑,生涯后期仍能无视防守砍分 ",
       "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
       "keyPoints": [
-        "10.21日:乌度卡被指固执排兵,杜兰特伤病隐患大,申京上限或锁死球队高度"
+        "杜兰特揭幕战用招牌中距硬解回应下滑质疑,生涯后期仍能无视防守砍分 "
       ],
       "category": "场外",
       "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:search:https://www.163.com/dy/article/L9RDB0IH0549753N.html",
-      "title": "杜兰特30+6+3一战超乔丹,弗拉格空砍32分,火箭18分大胜独行侠",
-      "url": "https://www.163.com/dy/article/L9RDB0IH0549753N.html",
-      "source": "网易",
-      "publishedAt": "2026-10-23T13:24:10.478Z",
-      "description": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "titleZh": "杜兰特30+6+3一战超乔丹,弗拉格空砍32分,火箭18分大胜独行侠",
-      "summaryZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "detailsZh": "百炼全网搜索发现的“凯文·杜兰特”相关页面，需由编辑模型继续核实相关性与时效性。",
-      "keyPoints": [
-        "杜兰特30+6+3一战超乔丹,弗拉格空砍32分,火箭18分大胜独行侠"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTE43MkpveDVtQXNDdG40bWhpNm4xRTJuNXE5b05ESU1WaFFCS2pzMGc4WHI4dHc1cEI3ZjliNVRSTTZHajRLVGxiUDZUNi1EVWZRNHJRSjBqQVFQLVRLZFVkYlY5QW1jTklNMHh5X1V6a3Q1bzA",
-      "title": "申京反击妙传杜兰特暴扣，范弗里特长传再助飞",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43MkpveDVtQXNDdG40bWhpNm4xRTJuNXE5b05ESU1WaFFCS2pzMGc4WHI4dHc1cEI3ZjliNVRSTTZHajRLVGxiUDZUNi1EVWZRNHJRSjBqQVFQLVRLZFVkYlY5QW1jTklNMHh5X1V6a3Q1bzA?oc=5",
+      "id": "durant:CBMihAFBVV95cUxOdUF6bnE1Zm1xc1ZwdDJUcUhlem9HQ1dzZmpDU0tQTjA1UXFfLWQ3LUhtb1VUZ0pkX3pYVEpGTDlQamxjNjh2TGFGV3RjakZJVlN5cHQ4dkx4V0tfeHMxM2xaczFES2ZRaW53RFQ5Y0lzYXBuamNfbS1yOFpMOS1VMnFVRTk",
+      "title": "杜兰特：文班天赋异禀&在球场无所不能 我们注定要面临一场苦战",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUF6bnE1Zm1xc1ZwdDJUcUhlem9HQ1dzZmpDU0tQTjA1UXFfLWQ3LUhtb1VUZ0pkX3pYVEpGTDlQamxjNjh2TGFGV3RjakZJVlN5cHQ4dkx4V0tfeHMxM2xaczFES2ZRaW53RFQ5Y0lzYXBuamNfbS1yOFpMOS1VMnFVRTk?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-10-23T13:10:39.000Z",
-      "description": "申京反击妙传杜兰特暴扣，范弗里特长传再助飞 新浪网",
-      "titleZh": "申京反击妙传杜兰特暴扣，范弗里特长传再助飞",
-      "summaryZh": "申京反击妙传杜兰特暴扣，范弗里特长传再助飞 新浪网",
-      "detailsZh": "申京反击妙传杜兰特暴扣，范弗里特长传再助飞 新浪网",
+      "publishedAt": "2026-10-23T17:26:15.000Z",
+      "description": "杜兰特：文班天赋异禀&在球场无所不能 我们注定要面临一场苦战 新浪网",
+      "titleZh": "杜兰特：文班天赋异禀&在球场无所不能 我们注定要面临一场苦战",
+      "summaryZh": "杜兰特：文班天赋异禀&在球场无所不能 我们注定要面临一场苦战 新浪网",
+      "detailsZh": "杜兰特：文班天赋异禀&在球场无所不能 我们注定要面临一场苦战 新浪网",
       "keyPoints": [
-        "申京反击妙传杜兰特暴扣，范弗里特长传再助飞"
+        "杜兰特：文班天赋异禀&在球场无所不能 我们注定要面临一场苦战"
       ],
       "category": "场外",
-      "importance": 3
+      "importance": 4
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiggFBVV95cUxPc01IOEduMFF6dmszUzdzejNPaFlSd1N4WlZmeGxMUXNzaGh4UTRvQzZKczNLMTBqVDBUWXZoSFp6OThCUDh2b1ZtWGpUMk15YkUyVWQwUGdZUHlMN0JicnhlV0tFSmwtaWdody1OaktvQmVhV2w4UFVRUHlwS2NKQ1Zn",
-      "title": "早上9点半！CCTV5直播NBA焦点战，杜兰特PK文班亚马 火箭冲两连胜",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc01IOEduMFF6dmszUzdzejNPaFlSd1N4WlZmeGxMUXNzaGh4UTRvQzZKczNLMTBqVDBUWXZoSFp6OThCUDh2b1ZtWGpUMk15YkUyVWQwUGdZUHlMN0JicnhlV0tFSmwtaWdody1OaktvQmVhV2w4UFVRUHlwS2NKQ1Zn?oc=5",
+      "id": "durant:CBMihAFBVV95cUxQRXZtMHVaNmluZ1JmemhMU3BlSWFudzlJWnVSdnpJYlFneG5rcWxXdFRab3hENXBkSkdGdzVwZUJlM3RyRUllalpLeVNUWWN3WFQ4TWRsckpnZmZ6bVJycFhhdkZsUXR5QVQ3UjZGdTRoSVNLX0FJc3lKRDlsdEE1Q2UwMjc",
+      "title": "米奇：杜兰特的脚步没有丝毫放缓 他依旧能翱翔 看他打球是种享受",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXZtMHVaNmluZ1JmemhMU3BlSWFudzlJWnVSdnpJYlFneG5rcWxXdFRab3hENXBkSkdGdzVwZUJlM3RyRUllalpLeVNUWWN3WFQ4TWRsckpnZmZ6bVJycFhhdkZsUXR5QVQ3UjZGdTRoSVNLX0FJc3lKRDlsdEE1Q2UwMjc?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-10-23T10:27:00.000Z",
-      "description": "早上9点半！CCTV5直播NBA焦点战，杜兰特PK文班亚马 火箭冲两连胜 新浪网",
-      "titleZh": "早上9点半！CCTV5直播NBA焦点战，杜兰特PK文班亚马 火箭冲两连胜",
-      "summaryZh": "早上9点半！CCTV5直播NBA焦点战，杜兰特PK文班亚马 火箭冲两连胜 新浪网",
-      "detailsZh": "早上9点半！CCTV5直播NBA焦点战，杜兰特PK文班亚马 火箭冲两连胜 新浪网",
+      "publishedAt": "2026-10-23T17:26:15.000Z",
+      "description": "米奇：杜兰特的脚步没有丝毫放缓 他依旧能翱翔 看他打球是种享受 新浪网",
+      "titleZh": "米奇：杜兰特的脚步没有丝毫放缓 他依旧能翱翔 看他打球是种享受",
+      "summaryZh": "米奇：杜兰特的脚步没有丝毫放缓 他依旧能翱翔 看他打球是种享受 新浪网",
+      "detailsZh": "米奇：杜兰特的脚步没有丝毫放缓 他依旧能翱翔 看他打球是种享受 新浪网",
       "keyPoints": [
-        "早上9点半！CCTV5直播NBA焦点战，杜兰特PK文班亚马 火箭冲两连胜"
+        "米奇：杜兰特的脚步没有丝毫放缓 他依旧能翱翔 看他打球是种享受"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMiS0FVX3lxTE0zQVI1c09jUHJ5SGRtRVpTbS1nYmZsWko1dmlycDJySnVuRUI5NlZqY2Vjcm90X0tTdEN5bVBqRVZDSmYzdUw1NzFaYw",
-      "title": "[流言板]火箭128-110战胜独行侠，杜兰特30分&贾巴里30分&弗拉格32分",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zQVI1c09jUHJ5SGRtRVpTbS1nYmZsWko1dmlycDJySnVuRUI5NlZqY2Vjcm90X0tTdEN5bVBqRVZDSmYzdUw1NzFaYw?oc=5",
-      "source": "虎扑体育网",
-      "publishedAt": "2026-10-23T08:04:50.000Z",
-      "description": "[流言板]火箭128-110战胜独行侠，杜兰特30分&贾巴里30分&弗拉格32分 虎扑体育网",
-      "titleZh": "[流言板]火箭128-110战胜独行侠，杜兰特30分&贾巴里30分&弗拉格32分",
-      "summaryZh": "[流言板]火箭128-110战胜独行侠，杜兰特30分&贾巴里30分&弗拉格32分 虎扑体育网",
-      "detailsZh": "[流言板]火箭128-110战胜独行侠，杜兰特30分&贾巴里30分&弗拉格32分 虎扑体育网",
+      "id": "durant:CBMirAFBVV95cUxQMk9CTlk3SnVqT3hDeEdqb0swUWpBdXNGN1FUNERKdVZYdE9uUHJiaUxENUp5QmVCQmFPcHBXNVBqbktiMGVjVDVjeXduMXpCUzE1VlJfZzZBdVZuVmYxQXRLRjdYaERNbWpGLTdXQzZSS0xqcDNydkxaOVBaY2lIaEFqWW5PNnVhaTVreDhHYTFrWlJKazJRdkh2UkdUemdHVklkdjl3T0poS3o3",
+      "title": "Rockets' Kevin Durant eyes challenging matchups with Spurs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMk9CTlk3SnVqT3hDeEdqb0swUWpBdXNGN1FUNERKdVZYdE9uUHJiaUxENUp5QmVCQmFPcHBXNVBqbktiMGVjVDVjeXduMXpCUzE1VlJfZzZBdVZuVmYxQXRLRjdYaERNbWpGLTdXQzZSS0xqcDNydkxaOVBaY2lIaEFqWW5PNnVhaTVreDhHYTFrWlJKazJRdkh2UkdUemdHVklkdjl3T0poS3o3?oc=5",
+      "source": "San Antonio Express-News",
+      "publishedAt": "2026-10-23T17:15:40.000Z",
+      "description": "Rockets' Kevin Durant eyes challenging matchups with Spurs San Antonio Express-News",
+      "titleZh": "Rockets' Kevin Durant eyes challenging matchups with Spurs",
+      "summaryZh": "Rockets' Kevin Durant eyes challenging matchups with Spurs San Antonio Express-News",
+      "detailsZh": "Rockets' Kevin Durant eyes challenging matchups with Spurs San Antonio Express-News",
       "keyPoints": [
-        "[流言板]火箭128-110战胜独行侠，杜兰特30分&贾巴里30分&弗拉格32分"
+        "Rockets' Kevin Durant eyes challenging matchups with Spurs"
       ],
       "category": "场外",
       "importance": 3
     },
     {
       "subject": "durant",
-      "id": "durant:CBMic0FVX3lxTFBTNzR6cDBQbUdpNW9xY0p4M3NvSnFwSnRZODhHQVJDT29XQ3RzQmo4ejB2bXN4UXNYM21ISjlWQnV0YWVUVmlabkE2M3pBcFQ3YWVfZnRzSTQ3X3NLZlFfZWJSbHEwbzhrZUZITDJVWE1PV1E",
-      "title": "杜兰特撤步三分命中，詹姆斯复制动作还以颜色",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTNzR6cDBQbUdpNW9xY0p4M3NvSnFwSnRZODhHQVJDT29XQ3RzQmo4ejB2bXN4UXNYM21ISjlWQnV0YWVUVmlabkE2M3pBcFQ3YWVfZnRzSTQ3X3NLZlFfZWJSbHEwbzhrZUZITDJVWE1PV1E?oc=5",
+      "id": "durant:CBMijgFBVV95cUxOcDhNSnk3cnh4QWhnZ1lGMjZRdmpSLWtfSFRkVjE1RmdxM2lDMmMxbWRSdkxqUy1vMkRxbWN1ZHlGWW9QNEZoQnk5VjBCbGNsYWVpUFZkbndFRjIzWGExaEhXR2VNVUpBVkZhZWRsdE9DUzdkYVdKbVFzUzlGZDc2cGYtRkVCRWw4MUVkTUVR",
+      "title": "Kevin Durant on Victor Wembanyama's next step as a player: 'Just make the game easier for you'",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDhNSnk3cnh4QWhnZ1lGMjZRdmpSLWtfSFRkVjE1RmdxM2lDMmMxbWRSdkxqUy1vMkRxbWN1ZHlGWW9QNEZoQnk5VjBCbGNsYWVpUFZkbndFRjIzWGExaEhXR2VNVUpBVkZhZWRsdE9DUzdkYVdKbVFzUzlGZDc2cGYtRkVCRWw4MUVkTUVR?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-23T16:46:59.000Z",
+      "description": "Kevin Durant on Victor Wembanyama's next step as a player: 'Just make the game easier for you' Yahoo Sports",
+      "titleZh": "Kevin Durant on Victor Wembanyama's next step as a player: 'Just make the game easier for you'",
+      "summaryZh": "Kevin Durant on Victor Wembanyama's next step as a player: 'Just make the game easier for you' Yahoo Sports",
+      "detailsZh": "Kevin Durant on Victor Wembanyama's next step as a player: 'Just make the game easier for you' Yahoo Sports",
+      "keyPoints": [
+        "Kevin Durant on Victor Wembanyama's next step as a player: 'Just make the game easier for you'"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMijgFBVV95cUxOSlJ4QXBiSi16SG82WWhseEhfbEJvUEM0WHF0blhtc2RRTGdQWEtXN3RwYWsxODN5RmdON0JEWGJmOHdGdjV2MXZIcU9uM0xMbnB6clE4M3k5SU9DTU5YRHdSQjV2RDhETFNZYmtycEdEeWIyQ2ZjeVFBYS1pandWSUttTnl1REtYcnZERnVB",
+      "title": "Kevin Durant, asked what reception he expects from the …",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlJ4QXBiSi16SG82WWhseEhfbEJvUEM0WHF0blhtc2RRTGdQWEtXN3RwYWsxODN5RmdON0JEWGJmOHdGdjV2MXZIcU9uM0xMbnB6clE4M3k5SU9DTU5YRHdSQjV2RDhETFNZYmtycEdEeWIyQ2ZjeVFBYS1pandWSUttTnl1REtYcnZERnVB?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-23T16:46:58.000Z",
+      "description": "Kevin Durant, asked what reception he expects from the … Yahoo Sports",
+      "titleZh": "Kevin Durant, asked what reception he expects from the …",
+      "summaryZh": "Kevin Durant, asked what reception he expects from the … Yahoo Sports",
+      "detailsZh": "Kevin Durant, asked what reception he expects from the … Yahoo Sports",
+      "keyPoints": [
+        "Kevin Durant, asked what reception he expects from the …"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMiigFBVV95cUxNSGlRdFNHeUFjMmNXNUVHWWRvRnlHeGl3ZkVhWDFxVGQ5eTNadGhBMWpLVllaVW43YVlPOHlBcFJxMnpvb3JhVFpJTGNURGVFUmlvVlBOY2VacDhPa2RyWVB4UVMwcVNZSFRKVW1DalVzTC1VUkUyaGNmYlNNRWIzQlFZQXZQbUs0UGc",
+      "title": "‘Calling Jayson Tatum a Liar,’ ‘(Russell Westbrook) and (Kevin Durant) All Over Again’ — Jaylen Brown’s Pointed Reply to Ex-Teammate Fuels NBA World Drama",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSGlRdFNHeUFjMmNXNUVHWWRvRnlHeGl3ZkVhWDFxVGQ5eTNadGhBMWpLVllaVW43YVlPOHlBcFJxMnpvb3JhVFpJTGNURGVFUmlvVlBOY2VacDhPa2RyWVB4UVMwcVNZSFRKVW1DalVzTC1VUkUyaGNmYlNNRWIzQlFZQXZQbUs0UGc?oc=5",
+      "source": "Yahoo Sports",
+      "publishedAt": "2026-10-23T15:20:40.000Z",
+      "description": "‘Calling Jayson Tatum a Liar,’ ‘(Russell Westbrook) and (Kevin Durant) All Over Again’ — Jaylen Brown’s Pointed Reply to Ex-Teammate Fuels NBA World Drama Yahoo Sports",
+      "titleZh": "‘Calling Jayson Tatum a Liar,’ ‘(Russell Westbrook) and (Kevin Durant) All Over Again’ — Jaylen Brown’s Pointed Reply to Ex-Teammate Fuels NBA World Drama",
+      "summaryZh": "‘Calling Jayson Tatum a Liar,’ ‘(Russell Westbrook) and (Kevin Durant) All Over Again’ — Jaylen Brown’s Pointed Reply to Ex-Teammate Fuels NBA World Drama Yahoo Sports",
+      "detailsZh": "‘Calling Jayson Tatum a Liar,’ ‘(Russell Westbrook) and (Kevin Durant) All Over Again’ — Jaylen Brown’s Pointed Reply to Ex-Teammate Fuels NBA World Drama Yahoo Sports",
+      "keyPoints": [
+        "‘Calling Jayson Tatum a Liar,’ ‘(Russell Westbrook) and (Kevin Durant) All Over Again’ — Jaylen Brown’s Pointed Reply to Ex-Teammate Fuels NBA World Drama"
+      ],
+      "category": "场外",
+      "importance": 3
+    },
+    {
+      "subject": "durant",
+      "id": "durant:CBMic0FVX3lxTE41QTVvcW1sd2dzRm5FN3owcGlhbThQNWV4eXkwajE5aXd3cE1SQ0p0MXdsdGJfZWlEaDBid0ttMGdxdFRUM3hfOU5LYmdUZFg2MUd4bDBUY3hhZ1BlTDRTR1g0WVlXazNrRjZVU1hzeFUxOFk",
+      "title": "火箭加时力克魔术，杜兰特35分联手申京拿下硬仗",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41QTVvcW1sd2dzRm5FN3owcGlhbThQNWV4eXkwajE5aXd3cE1SQ0p0MXdsdGJfZWlEaDBid0ttMGdxdFRUM3hfOU5LYmdUZFg2MUd4bDBUY3hhZ1BlTDRTR1g0WVlXazNrRjZVU1hzeFUxOFk?oc=5",
       "source": "新浪网",
-      "publishedAt": "2026-10-23T07:56:52.000Z",
-      "description": "杜兰特撤步三分命中，詹姆斯复制动作还以颜色 新浪网",
-      "titleZh": "杜兰特撤步三分命中，詹姆斯复制动作还以颜色",
-      "summaryZh": "杜兰特撤步三分命中，詹姆斯复制动作还以颜色 新浪网",
-      "detailsZh": "杜兰特撤步三分命中，詹姆斯复制动作还以颜色 新浪网",
+      "publishedAt": "2026-10-23T15:11:34.000Z",
+      "description": "火箭加时力克魔术，杜兰特35分联手申京拿下硬仗 新浪网",
+      "titleZh": "火箭加时力克魔术，杜兰特35分联手申京拿下硬仗",
+      "summaryZh": "火箭加时力克魔术，杜兰特35分联手申京拿下硬仗 新浪网",
+      "detailsZh": "火箭加时力克魔术，杜兰特35分联手申京拿下硬仗 新浪网",
       "keyPoints": [
-        "杜兰特撤步三分命中，詹姆斯复制动作还以颜色"
-      ],
-      "category": "场外",
-      "importance": 3
-    },
-    {
-      "subject": "durant",
-      "id": "durant:CBMihAFBVV95cUxQUWdBVkNXQnVoaU1CRFZDaC0xU1RDNEFlVEtnTHFPY1NEMnJoSnFLcFk5bnFqQll6eDhkZ0E4OWtKQlhEYjBlUnZ0SUwzYlJTZ3dBSkQzNmNZdFZnS2tjVFg1MGExbjJIZlFxU0c3TUs2dGtzaFI1U1ZyMktUeXpBWG1tWmE",
-      "title": "杰弗森：火箭是争冠黑马 范弗里特能让杜兰特获得更好的进攻机会",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdBVkNXQnVoaU1CRFZDaC0xU1RDNEFlVEtnTHFPY1NEMnJoSnFLcFk5bnFqQll6eDhkZ0E4OWtKQlhEYjBlUnZ0SUwzYlJTZ3dBSkQzNmNZdFZnS2tjVFg1MGExbjJIZlFxU0c3TUs2dGtzaFI1U1ZyMktUeXpBWG1tWmE?oc=5",
-      "source": "手机新浪网",
-      "publishedAt": "2026-10-23T05:24:17.000Z",
-      "description": "杰弗森：火箭是争冠黑马 范弗里特能让杜兰特获得更好的进攻机会 手机新浪网",
-      "titleZh": "杰弗森：火箭是争冠黑马 范弗里特能让杜兰特获得更好的进攻机会",
-      "summaryZh": "杰弗森：火箭是争冠黑马 范弗里特能让杜兰特获得更好的进攻机会 手机新浪网",
-      "detailsZh": "杰弗森：火箭是争冠黑马 范弗里特能让杜兰特获得更好的进攻机会 手机新浪网",
-      "keyPoints": [
-        "杰弗森：火箭是争冠黑马 范弗里特能让杜兰特获得更好的进攻机会"
+        "火箭加时力克魔术，杜兰特35分联手申京拿下硬仗"
       ],
       "category": "场外",
       "importance": 3
@@ -294,16 +294,16 @@
       "publishedAt": "2026-08-24T00:00:00.000Z",
       "description": "关于网络写手大咕咕咕鸡的常用笔名、创作风格、作品与网络影响的背景资料。",
       "subject": "dagu",
-      "titleZh": "维基百科人物资料入口",
-      "summaryZh": "提供大咕咕咕鸡的常用笔名、创作风格及作品背景资料，是了解其网络影响的基础信息聚合页。",
-      "detailsZh": "该条目为固定的人物百科资料页面，非当日新闻。内容涵盖大咕咕咕鸡作为网络写手的身份界定，梳理了其从早期网络段子手到知名创作者的转变过程。事实层面记录了其主要活跃平台及代表性文风特征；评论部分涉及对其语言幽默感和讽刺技巧的学术或媒体评价；传闻方面无具体指向，主要基于公开履历整理。此页面旨在为用户提供标准化的背景知识检索入口，不具备时效性新闻价值，但具有长期参考价值。",
+      "titleZh": "大咕咕咕鸡人物与创作资料",
+      "summaryZh": "维基百科收录其常用笔名、创作风格及作品背景，提供关于该网络写手的综合资料入口。",
+      "detailsZh": "此为固定资料页面，非当日新闻。内容涵盖大咕咕咕鸡的常用笔名、主要创作风格及其在网络文学领域的影响。作为背景资料，它提供了理解该人物创作脉络的基础信息，包括其代表作的简要介绍和网络声誉的形成过程。事实部分基于公开可查的百科条目，评论部分涉及对其文风的评价，传闻部分则需谨慎对待，通常指代未经证实的网络流言。",
       "keyPoints": [
-        "收录常用笔名与身份定义",
-        "梳理创作风格演变脉络",
-        "记录主要作品与网络影响"
+        "收录常用笔名与创作风格",
+        "提供作品与网络影响背景",
+        "固定资料入口，非动态新闻"
       ],
-      "category": "场外",
-      "importance": 5
+      "category": "作品",
+      "importance": 3
     },
     {
       "id": "dagu:dagu-weibo-topic",
@@ -313,15 +313,15 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "description": "大咕咕咕鸡相关公开动态与读者讨论入口。",
       "subject": "dagu",
-      "titleZh": "微博超话动态入口",
-      "summaryZh": "新浪微博大咕咕咕鸡超话主页，聚合其公开动态与读者讨论，是粉丝互动与信息获取的核心社区入口。",
-      "detailsZh": "此为固定的社交媒体社区入口页面，非特定新闻事件。功能上聚合了该账号的最新博文、话题标签及粉丝评论。事实层面显示其为官方认证或高活跃度粉丝维护的讨论区；评论层面反映读者对作者内容的即时反馈与二次创作热情；传闻层面可能包含未经证实的八卦，需用户自行甄别。该页面作为信息源，提供了观察其公众形象维护和社群凝聚力的窗口，但不直接构成独立新闻事件，而是持续更新的动态集合体。",
+      "titleZh": "大咕咕咕鸡公开动态与超话",
+      "summaryZh": "新浪微博相关超话，聚合公开动态与读者讨论，是追踪其近期活动的主要入口。",
+      "detailsZh": "此为固定主页或资料入口，用于聚合公开动态与读者讨论。虽然包含实时动态，但作为超话索引页，其本质是资料聚合而非单一新闻事件。事实部分为超话内的帖子列表，评论部分为用户互动观点，传闻部分可能包含粉丝间的猜测。需区分具体动态与页面本身的功能属性。",
       "keyPoints": [
-        "聚合最新公开博文动态",
-        "提供粉丝互动讨论空间",
-        "反映社群舆论风向标"
+        "聚合公开动态与读者讨论",
+        "微博超话索引页",
+        "固定入口，非单日新闻"
       ],
-      "category": "场外",
+      "category": "公开发言",
       "importance": 4
     },
     {
@@ -332,35 +332,16 @@
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "description": "大咕咕咕鸡作品朗读、相关讨论与历史视频的聚合页面。",
       "subject": "dagu",
-      "titleZh": "B站作品朗读与视频聚合",
-      "summaryZh": "哔哩哔哩搜索结果页，汇集大咕咕咕鸡相关视频、作品朗读及历史讨论，是多媒体内容的主要检索入口。",
-      "detailsZh": "此为搜索引擎结果页面，非单一新闻源。内容包含用户上传的作品朗读音频、解说视频及二创内容。事实层面展示了其文字作品的多媒体转化形式；评论层面体现观众对朗读演绎和视觉呈现的评价；传闻层面较少，主要为对原意的误读或过度解读。该页面反映了其作品在视频平台的传播广度与受众接受度，是评估其跨媒介影响力的重要数据源，但本身为动态搜索结果，不具备固定新闻属性。",
+      "titleZh": "大咕咕咕鸡相关视频与作品朗读",
+      "summaryZh": "哔哩哔哩搜索聚合页，汇集作品朗读、相关讨论与历史视频，便于检索视听内容。",
+      "detailsZh": "此为固定搜索聚合页面，非特定新闻。内容涵盖作品朗读音频、相关讨论视频及历史影像。事实部分为视频标题与播放量等元数据，评论部分为弹幕与评论区的观点，传闻部分可能涉及对视频内容的误读。该页面作为资源入口，帮助用户快速定位相关内容，但不构成独立的新闻报道。",
       "keyPoints": [
-        "汇集作品朗读与解说视频",
-        "展示跨媒介传播影响力",
-        "反映观众对内容的二次解读"
+        "聚合作品朗读与讨论视频",
+        "B站搜索功能页",
+        "固定资源入口"
       ],
-      "category": "场外",
+      "category": "作品",
       "importance": 3
-    },
-    {
-      "id": "dagu:dagu-jiemian-profile",
-      "title": "大咕咕咕鸡与网络段子手创作生态",
-      "url": "https://m.jiemian.com/article/278672.html",
-      "source": "界面新闻",
-      "publishedAt": "2015-05-12T00:00:00.000Z",
-      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
-      "subject": "dagu",
-      "titleZh": "界面新闻深度报道存档",
-      "summaryZh": "2015年界面新闻关于大咕咕咕鸡创作风格与网络语言影响的深度报道，属历史性背景资料。",
-      "detailsZh": "这是一篇发布于2015年的历史新闻报道，非当前动态。文章深入分析了大咕咕咕鸡的创作风格及其对当时网络语言生态的影响。事实层面记录了当时的社会反响和行业观察；评论层面引用了专家或同行对其文学价值的探讨；传闻层面未涉及。尽管发布时间较早，但该报道确立了其在网络文学史上的早期地位，对于理解其创作根基具有重要史料价值，属于不可更改的历史定论类资料。",
-      "keyPoints": [
-        "分析早期创作风格特征",
-        "记录对网络语言生态影响",
-        "提供历史性行业观察视角"
-      ],
-      "category": "讨论",
-      "importance": 4
     },
     {
       "id": "dagu:dagu-kol-profile",
@@ -371,12 +352,33 @@
       "description": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
       "subject": "dagu",
       "titleZh": "大咕咕咕鸡微博公开账号资料",
-      "summaryZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
-      "detailsZh": "大咕咕咕鸡微博公开账号的资料与传播数据页面。",
+      "summaryZh": "领库平台提供的微博账号资料与传播数据页面，展示其社交媒体影响力指标。",
+      "detailsZh": "此为第三方数据平台上的固定账号档案，非新闻事件。内容包含账号基本信息、粉丝数、互动率等传播数据。事实部分为后台统计的量化指标，评论部分为平台算法生成的标签，传闻部分无直接关联。该页面主要用于商业分析或数据查询，不具备新闻时效性，应明确其为静态资料。",
       "keyPoints": [
-        "大咕咕咕鸡微博公开账号资料"
+        "展示微博账号传播数据",
+        "第三方数据平台档案",
+        "静态资料，非动态新闻"
       ],
       "category": "场外",
+      "importance": 2
+    },
+    {
+      "id": "dagu:dagu-jiemian-profile",
+      "title": "大咕咕咕鸡与网络段子手创作生态",
+      "url": "https://m.jiemian.com/article/278672.html",
+      "source": "界面新闻",
+      "publishedAt": "2015-05-12T00:00:00.000Z",
+      "description": "介绍大咕咕咕鸡创作风格与网络语言影响的历史深度报道。",
+      "subject": "dagu",
+      "titleZh": "大咕咕咕鸡与网络段子手创作生态",
+      "summaryZh": "界面新闻2015年深度报道，探讨其创作风格及对网络语言的影响，具历史参考价值。",
+      "detailsZh": "此为2015年的历史报道，非当前新闻。文章深入分析了大咕咕咕鸡的创作风格及其在当时的网络语境中的位置，探讨了其对网络流行语和段子文化的潜在影响。事实部分为记者采访内容与当时社会现象描述，评论部分为媒体观点，传闻部分较少。尽管时间久远，仍具研究价值，但需注意其与当前状态的差异，不得伪装成近期动态。",
+      "keyPoints": [
+        "2015年历史深度报道",
+        "分析创作风格与网络影响",
+        "具历史参考价值，非当前新闻"
+      ],
+      "category": "讨论",
       "importance": 4
     }
   ]
